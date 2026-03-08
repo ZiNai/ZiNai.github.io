@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HN Daily Top 10</title>
+  <style>
+    :root {
+      --bg: #fafafa;
+      --card-bg: #fff;
+      --text: #1a1a1a;
+      --text-secondary: #666;
+      --accent: #ff6600;
+      --border: #eee;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a1a1a;
+        --card-bg: #2a2a2a;
+        --text: #e0e0e0;
+        --text-secondary: #999;
+        --border: #333;
+      }
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 20px 16px;
+    }
+    header {
+      text-align: center;
+      padding: 24px 0;
+      border-bottom: 2px solid var(--accent);
+      margin-bottom: 24px;
+    }
+    header h1 {
+      font-size: 1.8em;
+      color: var(--accent);
+    }
+    header p {
+      color: var(--text-secondary);
+      font-size: 0.9em;
+      margin-top: 4px;
+    }
+    .day-section {
+      margin-bottom: 32px;
+    }
+    .day-section > h2 {
+      font-size: 1.2em;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
+    }
+    .period {
+      margin-bottom: 20px;
+    }
+    .period h3 {
+      font-size: 1em;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .update-time {
+      font-size: 0.8em;
+      color: var(--text-secondary);
+      font-weight: normal;
+    }
+    .story {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 10px 12px;
+      background: var(--card-bg);
+      border-radius: 8px;
+      margin-bottom: 6px;
+      transition: transform 0.1s;
+    }
+    .story:hover {
+      transform: translateX(4px);
+    }
+    .rank {
+      font-size: 1.1em;
+      font-weight: bold;
+      color: var(--accent);
+      min-width: 24px;
+      text-align: center;
+      padding-top: 2px;
+    }
+    .story-content {
+      flex: 1;
+      min-width: 0;
+    }
+    .story-title {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95em;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .story-title:hover {
+      color: var(--accent);
+    }
+    .story-meta {
+      display: flex;
+      gap: 12px;
+      font-size: 0.8em;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+    .story-meta a {
+      color: var(--text-secondary);
+      text-decoration: none;
+    }
+    .story-meta a:hover {
+      color: var(--accent);
+    }
+    .score { color: var(--accent); font-weight: 500; }
+    footer {
+      text-align: center;
+      padding: 24px 0;
+      color: var(--text-secondary);
+      font-size: 0.8em;
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📰 HN Daily Top 10</h1>
+    <p>每日早中晚自动汇总 Hacker News 热门</p>
+  </header>
+  <main>
+
+    <div class="day-section">
+      <h2>2026-03-09</h2>
+      
+      <div class="period">
+        <h3>🌅 早间 <span class="update-time">2026-03-09 00:19</span></h3>
+        <div class="stories">
+        <div class="story">
+          <span class="rank">1</span>
+          <div class="story-content">
+            <a class="story-title" href="https://fb.edoo.gg" target="_blank">FrameBook</a>
+            <div class="story-meta">
+              <span class="score">▲ 65</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47298044" target="_blank">💬 11</a>
+              <span class="author">by todsacerdoti</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">2</span>
+          <div class="story-content">
+            <a class="story-title" href="https://corticallabs.com/doom.html" target="_blank">Living Human Brain Cells Play Doom on a CL1</a>
+            <div class="story-meta">
+              <span class="score">▲ 8</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297919" target="_blank">💬 1</a>
+              <span class="author">by kevinak</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">3</span>
+          <div class="story-content">
+            <a class="story-title" href="https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm" target="_blank">Notes on Writing WASM</a>
+            <div class="story-meta">
+              <span class="score">▲ 119</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47295837" target="_blank">💬 45</a>
+              <span class="author">by vinhnx</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">4</span>
+          <div class="story-content">
+            <a class="story-title" href="https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/" target="_blank">Why can't you tune your guitar? (2019)</a>
+            <div class="story-meta">
+              <span class="score">▲ 63</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47254896" target="_blank">💬 47</a>
+              <span class="author">by digitallogic</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">5</span>
+          <div class="story-content">
+            <a class="story-title" href="https://github.com/kantord/blogtato" target="_blank">CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git</a>
+            <div class="story-meta">
+              <span class="score">▲ 28</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297091" target="_blank">💬 11</a>
+              <span class="author">by todsacerdoti</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">6</span>
+          <div class="story-content">
+            <a class="story-title" href="https://nicole.express/2026/the-apple-that-wasnt.html" target="_blank">What if the Apple ][ had run on Field-Sequential?</a>
+            <div class="story-meta">
+              <span class="score">▲ 7</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297913" target="_blank">💬 0</a>
+              <span class="author">by zdw</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">7</span>
+          <div class="story-content">
+            <a class="story-title" href="https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/" target="_blank">LibreOffice: Request to the European Commission to adhere to its own guidances</a>
+            <div class="story-meta">
+              <span class="score">▲ 76</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297453" target="_blank">💬 14</a>
+              <span class="author">by maxloh</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">8</span>
+          <div class="story-content">
+            <a class="story-title" href="https://github.com/gritzko/librdx/tree/master/be" target="_blank">Beagle, a source code management system that stores AST trees</a>
+            <div class="story-meta">
+              <span class="score">▲ 20</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297167" target="_blank">💬 4</a>
+              <span class="author">by strogonoff</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">9</span>
+          <div class="story-content">
+            <a class="story-title" href="https://arxiv.org/abs/2603.03823" target="_blank">SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a>
+            <div class="story-meta">
+              <span class="score">▲ 93</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47295537" target="_blank">💬 27</a>
+              <span class="author">by mpweiher</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story">
+          <span class="rank">10</span>
+          <div class="story-content">
+            <a class="story-title" href="https://xcancel.com/theflow0/status/2030011206040256841" target="_blank">I ported Linux to the PS5 and turned it into a Steam Machine</a>
+            <div class="story-meta">
+              <span class="score">▲ 161</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47296849" target="_blank">💬 59</a>
+              <span class="author">by doener</span>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    Auto-generated by <a href="https://github.com/ZiNai/ZiNai.github.io">GitHub Actions</a> ·
+    Data from <a href="https://news.ycombinator.com">Hacker News</a>
+  </footer>
+</body>
+</html>

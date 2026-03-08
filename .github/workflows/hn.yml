@@ -1,0 +1,37 @@
+name: HN Daily Top 10
+
+on:
+  schedule:
+    # Beijing Time 08:00 = UTC 00:00
+    - cron: '0 0 * * *'
+    # Beijing Time 12:00 = UTC 04:00
+    - cron: '0 4 * * *'
+    # Beijing Time 20:00 = UTC 12:00
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch HN Top 10
+        run: python scripts/fetch_hn.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add hn/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "📰 Update HN Top 10 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push

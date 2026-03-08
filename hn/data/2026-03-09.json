@@ -1,0 +1,87 @@
+{
+  "morning": {
+    "time": "2026-03-09 00:19",
+    "stories": [
+      {
+        "id": 47298044,
+        "title": "FrameBook",
+        "url": "https://fb.edoo.gg",
+        "score": 65,
+        "descendants": 11,
+        "by": "todsacerdoti"
+      },
+      {
+        "id": 47297919,
+        "title": "Living Human Brain Cells Play Doom on a CL1",
+        "url": "https://corticallabs.com/doom.html",
+        "score": 8,
+        "descendants": 1,
+        "by": "kevinak"
+      },
+      {
+        "id": 47295837,
+        "title": "Notes on Writing WASM",
+        "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+        "score": 119,
+        "descendants": 45,
+        "by": "vinhnx"
+      },
+      {
+        "id": 47254896,
+        "title": "Why can't you tune your guitar? (2019)",
+        "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+        "score": 63,
+        "descendants": 47,
+        "by": "digitallogic"
+      },
+      {
+        "id": 47297091,
+        "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+        "url": "https://github.com/kantord/blogtato",
+        "score": 28,
+        "descendants": 11,
+        "by": "todsacerdoti"
+      },
+      {
+        "id": 47297913,
+        "title": "What if the Apple ][ had run on Field-Sequential?",
+        "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+        "score": 7,
+        "descendants": 0,
+        "by": "zdw"
+      },
+      {
+        "id": 47297453,
+        "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+        "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+        "score": 76,
+        "descendants": 14,
+        "by": "maxloh"
+      },
+      {
+        "id": 47297167,
+        "title": "Beagle, a source code management system that stores AST trees",
+        "url": "https://github.com/gritzko/librdx/tree/master/be",
+        "score": 20,
+        "descendants": 4,
+        "by": "strogonoff"
+      },
+      {
+        "id": 47295537,
+        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+        "url": "https://arxiv.org/abs/2603.03823",
+        "score": 93,
+        "descendants": 27,
+        "by": "mpweiher"
+      },
+      {
+        "id": 47296849,
+        "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+        "url": "https://xcancel.com/theflow0/status/2030011206040256841",
+        "score": 161,
+        "descendants": 59,
+        "by": "doener"
+      }
+    ]
+  }
+}
