@@ -1,20 +1,20 @@
 {
   "morning": {
-    "time": "2026-03-09 00:19",
+    "time": "2026-03-09 00:20",
     "stories": [
       {
         "id": 47298044,
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
         "score": 65,
-        "descendants": 11,
+        "descendants": 12,
         "by": "todsacerdoti"
       },
       {
         "id": 47297919,
         "title": "Living Human Brain Cells Play Doom on a CL1",
         "url": "https://corticallabs.com/doom.html",
-        "score": 8,
+        "score": 9,
         "descendants": 1,
         "by": "kevinak"
       },
@@ -25,6 +25,14 @@
         "score": 119,
         "descendants": 45,
         "by": "vinhnx"
+      },
+      {
+        "id": 47297913,
+        "title": "What if the Apple ][ had run on Field-Sequential?",
+        "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+        "score": 8,
+        "descendants": 0,
+        "by": "zdw"
       },
       {
         "id": 47254896,
@@ -43,28 +51,20 @@
         "by": "todsacerdoti"
       },
       {
-        "id": 47297913,
-        "title": "What if the Apple ][ had run on Field-Sequential?",
-        "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
-        "score": 7,
-        "descendants": 0,
-        "by": "zdw"
+        "id": 47297167,
+        "title": "Beagle, a source code management system that stores AST trees",
+        "url": "https://github.com/gritzko/librdx/tree/master/be",
+        "score": 21,
+        "descendants": 4,
+        "by": "strogonoff"
       },
       {
         "id": 47297453,
         "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
         "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-        "score": 76,
-        "descendants": 14,
+        "score": 78,
+        "descendants": 15,
         "by": "maxloh"
-      },
-      {
-        "id": 47297167,
-        "title": "Beagle, a source code management system that stores AST trees",
-        "url": "https://github.com/gritzko/librdx/tree/master/be",
-        "score": 20,
-        "descendants": 4,
-        "by": "strogonoff"
       },
       {
         "id": 47295537,
