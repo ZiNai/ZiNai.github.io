@@ -6,154 +6,110 @@
   <title>HN Daily Top 10</title>
   <style>
     :root {
-      --bg: #fafafa;
-      --card-bg: #fff;
-      --text: #1a1a1a;
-      --text-secondary: #666;
-      --accent: #ff6600;
-      --border: #eee;
+      --bg: #fafafa; --card-bg: #fff; --text: #1a1a1a;
+      --text-secondary: #666; --accent: #ff6600; --border: #eee;
+      --tag-bg: #fff3e6; --tag-text: #cc5200;
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --bg: #1a1a1a;
-        --card-bg: #2a2a2a;
-        --text: #e0e0e0;
-        --text-secondary: #999;
-        --border: #333;
+        --bg: #1a1a1a; --card-bg: #2a2a2a; --text: #e0e0e0;
+        --text-secondary: #999; --border: #333;
+        --tag-bg: #3a2a1a; --tag-text: #ff9944;
       }
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 20px 16px;
+      background: var(--bg); color: var(--text);
+      line-height: 1.6; max-width: 760px; margin: 0 auto; padding: 20px 16px;
     }
-    header {
-      text-align: center;
-      padding: 24px 0;
-      border-bottom: 2px solid var(--accent);
-      margin-bottom: 24px;
-    }
-    header h1 {
-      font-size: 1.8em;
-      color: var(--accent);
-    }
-    header p {
-      color: var(--text-secondary);
-      font-size: 0.9em;
-      margin-top: 4px;
-    }
-    .day-section {
-      margin-bottom: 32px;
-    }
-    .day-section > h2 {
-      font-size: 1.2em;
-      padding: 8px 0;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 12px;
-    }
-    .period {
-      margin-bottom: 20px;
-    }
-    .period h3 {
-      font-size: 1em;
-      margin-bottom: 8px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .update-time {
-      font-size: 0.8em;
-      color: var(--text-secondary);
-      font-weight: normal;
-    }
-    .story {
-      display: flex;
-      align-items: flex-start;
-      gap: 12px;
-      padding: 10px 12px;
-      background: var(--card-bg);
-      border-radius: 8px;
-      margin-bottom: 6px;
-      transition: transform 0.1s;
-    }
-    .story:hover {
-      transform: translateX(4px);
-    }
-    .rank {
-      font-size: 1.1em;
-      font-weight: bold;
-      color: var(--accent);
-      min-width: 24px;
-      text-align: center;
-      padding-top: 2px;
-    }
-    .story-content {
-      flex: 1;
-      min-width: 0;
-    }
-    .story-title {
-      color: var(--text);
-      text-decoration: none;
-      font-weight: 500;
-      font-size: 0.95em;
-      display: block;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-    .story-title:hover {
-      color: var(--accent);
-    }
-    .story-meta {
-      display: flex;
-      gap: 12px;
-      font-size: 0.8em;
-      color: var(--text-secondary);
-      margin-top: 4px;
-    }
-    .story-meta a {
-      color: var(--text-secondary);
-      text-decoration: none;
-    }
-    .story-meta a:hover {
-      color: var(--accent);
-    }
+    header { text-align: center; padding: 24px 0; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
+    header h1 { font-size: 1.8em; color: var(--accent); }
+    header p { color: var(--text-secondary); font-size: 0.9em; margin-top: 4px; }
+    .day-section { margin-bottom: 32px; }
+    .day-section > h2 { font-size: 1.2em; padding: 8px 0; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
+    .period { margin-bottom: 20px; }
+    .period h3 { font-size: 1em; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+    .update-time { font-size: 0.8em; color: var(--text-secondary); font-weight: normal; }
+    .insights { background: var(--card-bg); border-left: 3px solid var(--accent); padding: 10px 14px; margin-bottom: 12px; border-radius: 0 8px 8px 0; font-size: 0.85em; }
+    .insight-tags { margin-bottom: 4px; }
+    .insight-stats { color: var(--text-secondary); }
+    .insight-stats b { color: var(--accent); }
+    .insight-domains { color: var(--text-secondary); margin-top: 2px; }
+    .insight-domains code { background: var(--tag-bg); padding: 1px 5px; border-radius: 3px; font-size: 0.9em; }
+    .tag { display: inline-block; background: var(--tag-bg); color: var(--tag-text); padding: 2px 8px; border-radius: 10px; font-size: 0.75em; font-weight: 500; }
+    .tag-sm { display: inline-block; background: var(--tag-bg); color: var(--tag-text); padding: 1px 6px; border-radius: 8px; font-size: 0.7em; }
+    .story-tags { margin-left: 4px; }
+    .story { display: flex; align-items: flex-start; gap: 12px; padding: 10px 12px; background: var(--card-bg); border-radius: 8px; margin-bottom: 6px; transition: transform 0.1s; }
+    .story:hover { transform: translateX(4px); }
+    .rank { font-size: 1.1em; font-weight: bold; color: var(--accent); min-width: 24px; text-align: center; padding-top: 2px; }
+    .story-content { flex: 1; min-width: 0; }
+    .story-title { color: var(--text); text-decoration: none; font-weight: 500; font-size: 0.95em; display: inline; }
+    .story-title:hover { color: var(--accent); }
+    .story-meta { display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.8em; color: var(--text-secondary); margin-top: 4px; }
+    .story-meta a { color: var(--text-secondary); text-decoration: none; }
+    .story-meta a:hover { color: var(--accent); }
     .score { color: var(--accent); font-weight: 500; }
-    footer {
-      text-align: center;
-      padding: 24px 0;
-      color: var(--text-secondary);
-      font-size: 0.8em;
-      border-top: 1px solid var(--border);
-    }
+    .domain { font-size: 0.9em; }
+    .trending-section { background: var(--card-bg); border-radius: 12px; padding: 20px; margin-bottom: 32px; border: 1px solid var(--border); }
+    .trending-section > h2 { font-size: 1.2em; margin-bottom: 16px; }
+    .trending-block { margin-bottom: 18px; }
+    .trending-block h3 { font-size: 1em; margin-bottom: 8px; }
+    .trending-item { padding: 8px 0; border-bottom: 1px solid var(--border); }
+    .trending-item:last-child { border-bottom: none; }
+    .trending-item a { color: var(--text); text-decoration: none; font-weight: 500; }
+    .trending-item a:hover { color: var(--accent); }
+    .trending-meta { font-size: 0.8em; color: var(--text-secondary); margin-top: 2px; }
+    .trending-timeline { font-size: 0.75em; color: var(--text-secondary); margin-top: 4px; word-break: break-all; }
+    .trending-count { font-size: 0.8em; color: var(--text-secondary); }
+    .topic-stories { margin-top: 4px; }
+    .topic-story { font-size: 0.85em; padding: 2px 0; }
+    .topic-story a { font-weight: normal; }
+    .history-link { text-align: center; margin: 24px 0; }
+    .history-link a { color: var(--accent); text-decoration: none; font-weight: 500; padding: 8px 20px; border: 1px solid var(--accent); border-radius: 20px; }
+    .history-link a:hover { background: var(--accent); color: #fff; }
+    footer { text-align: center; padding: 24px 0; color: var(--text-secondary); font-size: 0.8em; border-top: 1px solid var(--border); }
     footer a { color: var(--accent); text-decoration: none; }
-  </style>
+    .history-week { padding: 12px 0; border-bottom: 1px solid var(--border); }
+    .history-week h3 { font-size: 1em; color: var(--accent); }
+    .history-meta { font-size: 0.85em; color: var(--text-secondary); }
+    .back-link { margin-bottom: 20px; }
+    .back-link a { color: var(--accent); text-decoration: none; }
+</style>
 </head>
 <body>
   <header>
     <h1>📰 HN Daily Top 10</h1>
-    <p>每日早中晚自动汇总 Hacker News 热门</p>
+    <p>每日早中晚自动汇总 Hacker News 热门 · 附趋势洞察</p>
   </header>
   <main>
 
+    <section class="trending-section">
+      <h2>📊 趋势追踪</h2>
+      <div class="trending-block">
+        <h3>✍️ 活跃作者</h3>
+          <div class="trending-item">
+            <b>todsacerdoti</b> — 2 篇上榜
+            <div class="trending-meta">FrameBook, CLI RSS/Atom feed reader inspi</div>
+          </div>
+      </div>
+    </section>
+
     <div class="day-section">
       <h2>2026-03-09</h2>
-      
       <div class="period">
-        <h3>🌅 早间 <span class="update-time">2026-03-09 00:20</span></h3>
+        <h3>🌅 早间 <span class="update-time">2026-03-09 00:30</span></h3>
+        <div class="insights"><div class="insight-tags"><span class="tag">AI</span> <span class="tag">Web</span></div><div class="insight-stats">均分 <b>60</b>  ·  最高 <b>120</b>（Notes on Writing WASM…）  ·  最热议 <b>50</b> 评论</div><div class="insight-domains">来源: <code>github.com</code>×2 <code>fb.edoo.gg</code>×1 <code>corticallabs.com</code>×1</div></div>
         <div class="stories">
         <div class="story">
           <span class="rank">1</span>
           <div class="story-content">
             <a class="story-title" href="https://fb.edoo.gg" target="_blank">FrameBook</a>
             <div class="story-meta">
-              <span class="score">▲ 65</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47298044" target="_blank">💬 12</a>
+              <span class="score">▲ 75</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47298044" target="_blank">💬 13</a>
               <span class="author">by todsacerdoti</span>
+              <span class="domain">fb.edoo.gg</span>
             </div>
           </div>
         </div>
@@ -161,11 +117,12 @@
         <div class="story">
           <span class="rank">2</span>
           <div class="story-content">
-            <a class="story-title" href="https://corticallabs.com/doom.html" target="_blank">Living Human Brain Cells Play Doom on a CL1</a>
+            <a class="story-title" href="https://corticallabs.com/doom.html" target="_blank">Living Human Brain Cells Play Doom on a CL1</a> <span class="story-tags"><span class="tag-sm">AI</span></span>
             <div class="story-meta">
-              <span class="score">▲ 9</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47297919" target="_blank">💬 1</a>
+              <span class="score">▲ 23</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297919" target="_blank">💬 11</a>
               <span class="author">by kevinak</span>
+              <span class="domain">corticallabs.com</span>
             </div>
           </div>
         </div>
@@ -173,11 +130,12 @@
         <div class="story">
           <span class="rank">3</span>
           <div class="story-content">
-            <a class="story-title" href="https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm" target="_blank">Notes on Writing WASM</a>
+            <a class="story-title" href="https://nicole.express/2026/the-apple-that-wasnt.html" target="_blank">What if the Apple ][ had run on Field-Sequential?</a>
             <div class="story-meta">
-              <span class="score">▲ 119</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47295837" target="_blank">💬 45</a>
-              <span class="author">by vinhnx</span>
+              <span class="score">▲ 15</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297913" target="_blank">💬 0</a>
+              <span class="author">by zdw</span>
+              <span class="domain">nicole.express</span>
             </div>
           </div>
         </div>
@@ -185,11 +143,12 @@
         <div class="story">
           <span class="rank">4</span>
           <div class="story-content">
-            <a class="story-title" href="https://nicole.express/2026/the-apple-that-wasnt.html" target="_blank">What if the Apple ][ had run on Field-Sequential?</a>
+            <a class="story-title" href="https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm" target="_blank">Notes on Writing WASM</a> <span class="story-tags"><span class="tag-sm">Web</span></span>
             <div class="story-meta">
-              <span class="score">▲ 8</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47297913" target="_blank">💬 0</a>
-              <span class="author">by zdw</span>
+              <span class="score">▲ 120</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47295837" target="_blank">💬 45</a>
+              <span class="author">by vinhnx</span>
+              <span class="domain">notes.brooklynzelenka.com</span>
             </div>
           </div>
         </div>
@@ -199,9 +158,10 @@
           <div class="story-content">
             <a class="story-title" href="https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/" target="_blank">Why can't you tune your guitar? (2019)</a>
             <div class="story-meta">
-              <span class="score">▲ 63</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47254896" target="_blank">💬 47</a>
+              <span class="score">▲ 67</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47254896" target="_blank">💬 50</a>
               <span class="author">by digitallogic</span>
+              <span class="domain">ethanhein.com</span>
             </div>
           </div>
         </div>
@@ -209,11 +169,12 @@
         <div class="story">
           <span class="rank">6</span>
           <div class="story-content">
-            <a class="story-title" href="https://github.com/kantord/blogtato" target="_blank">CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git</a>
+            <a class="story-title" href="https://github.com/gritzko/librdx/tree/master/be" target="_blank">Beagle, a source code management system that stores AST trees</a>
             <div class="story-meta">
-              <span class="score">▲ 28</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47297091" target="_blank">💬 11</a>
-              <span class="author">by todsacerdoti</span>
+              <span class="score">▲ 24</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297167" target="_blank">💬 5</a>
+              <span class="author">by strogonoff</span>
+              <span class="domain">github.com</span>
             </div>
           </div>
         </div>
@@ -221,11 +182,12 @@
         <div class="story">
           <span class="rank">7</span>
           <div class="story-content">
-            <a class="story-title" href="https://github.com/gritzko/librdx/tree/master/be" target="_blank">Beagle, a source code management system that stores AST trees</a>
+            <a class="story-title" href="https://github.com/kantord/blogtato" target="_blank">CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git</a>
             <div class="story-meta">
-              <span class="score">▲ 21</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47297167" target="_blank">💬 4</a>
-              <span class="author">by strogonoff</span>
+              <span class="score">▲ 29</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47297091" target="_blank">💬 13</a>
+              <span class="author">by todsacerdoti</span>
+              <span class="domain">github.com</span>
             </div>
           </div>
         </div>
@@ -235,9 +197,10 @@
           <div class="story-content">
             <a class="story-title" href="https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/" target="_blank">LibreOffice: Request to the European Commission to adhere to its own guidances</a>
             <div class="story-meta">
-              <span class="score">▲ 78</span>
+              <span class="score">▲ 84</span>
               <a class="comments" href="https://news.ycombinator.com/item?id=47297453" target="_blank">💬 15</a>
               <span class="author">by maxloh</span>
+              <span class="domain">blog.documentfoundation.org</span>
             </div>
           </div>
         </div>
@@ -245,11 +208,12 @@
         <div class="story">
           <span class="rank">9</span>
           <div class="story-content">
-            <a class="story-title" href="https://arxiv.org/abs/2603.03823" target="_blank">SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a>
+            <a class="story-title" href="https://arxiv.org/abs/2603.03823" target="_blank">SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a> <span class="story-tags"><span class="tag-sm">AI</span></span>
             <div class="story-meta">
               <span class="score">▲ 93</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47295537" target="_blank">💬 27</a>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47295537" target="_blank">💬 28</a>
               <span class="author">by mpweiher</span>
+              <span class="domain">arxiv.org</span>
             </div>
           </div>
         </div>
@@ -257,11 +221,12 @@
         <div class="story">
           <span class="rank">10</span>
           <div class="story-content">
-            <a class="story-title" href="https://xcancel.com/theflow0/status/2030011206040256841" target="_blank">I ported Linux to the PS5 and turned it into a Steam Machine</a>
+            <a class="story-title" href="https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/" target="_blank">The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp</a>
             <div class="story-meta">
-              <span class="score">▲ 161</span>
-              <a class="comments" href="https://news.ycombinator.com/item?id=47296849" target="_blank">💬 59</a>
-              <span class="author">by doener</span>
+              <span class="score">▲ 72</span>
+              <a class="comments" href="https://news.ycombinator.com/item?id=47247248" target="_blank">💬 3</a>
+              <span class="author">by surprisetalk</span>
+              <span class="domain">mssv.net</span>
             </div>
           </div>
         </div>
@@ -269,6 +234,7 @@
       </div>
     </div>
   </main>
+  
   <footer>
     Auto-generated by <a href="https://github.com/ZiNai/ZiNai.github.io">GitHub Actions</a> ·
     Data from <a href="https://news.ycombinator.com">Hacker News</a>

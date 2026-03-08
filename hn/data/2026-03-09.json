@@ -1,87 +1,142 @@
 {
   "morning": {
-    "time": "2026-03-09 00:20",
+    "time": "2026-03-09 00:30",
     "stories": [
       {
         "id": 47298044,
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
-        "score": 65,
-        "descendants": 12,
-        "by": "todsacerdoti"
+        "domain": "fb.edoo.gg",
+        "score": 75,
+        "descendants": 13,
+        "by": "todsacerdoti",
+        "tags": []
       },
       {
         "id": 47297919,
         "title": "Living Human Brain Cells Play Doom on a CL1",
         "url": "https://corticallabs.com/doom.html",
-        "score": 9,
-        "descendants": 1,
-        "by": "kevinak"
-      },
-      {
-        "id": 47295837,
-        "title": "Notes on Writing WASM",
-        "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-        "score": 119,
-        "descendants": 45,
-        "by": "vinhnx"
+        "domain": "corticallabs.com",
+        "score": 23,
+        "descendants": 11,
+        "by": "kevinak",
+        "tags": [
+          "AI"
+        ]
       },
       {
         "id": 47297913,
         "title": "What if the Apple ][ had run on Field-Sequential?",
         "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
-        "score": 8,
+        "domain": "nicole.express",
+        "score": 15,
         "descendants": 0,
-        "by": "zdw"
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 47295837,
+        "title": "Notes on Writing WASM",
+        "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+        "domain": "notes.brooklynzelenka.com",
+        "score": 120,
+        "descendants": 45,
+        "by": "vinhnx",
+        "tags": [
+          "Web"
+        ]
       },
       {
         "id": 47254896,
         "title": "Why can't you tune your guitar? (2019)",
         "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-        "score": 63,
-        "descendants": 47,
-        "by": "digitallogic"
-      },
-      {
-        "id": 47297091,
-        "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
-        "url": "https://github.com/kantord/blogtato",
-        "score": 28,
-        "descendants": 11,
-        "by": "todsacerdoti"
+        "domain": "ethanhein.com",
+        "score": 67,
+        "descendants": 50,
+        "by": "digitallogic",
+        "tags": []
       },
       {
         "id": 47297167,
         "title": "Beagle, a source code management system that stores AST trees",
         "url": "https://github.com/gritzko/librdx/tree/master/be",
-        "score": 21,
-        "descendants": 4,
-        "by": "strogonoff"
+        "domain": "github.com",
+        "score": 24,
+        "descendants": 5,
+        "by": "strogonoff",
+        "tags": []
+      },
+      {
+        "id": 47297091,
+        "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+        "url": "https://github.com/kantord/blogtato",
+        "domain": "github.com",
+        "score": 29,
+        "descendants": 13,
+        "by": "todsacerdoti",
+        "tags": []
       },
       {
         "id": 47297453,
         "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
         "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-        "score": 78,
+        "domain": "blog.documentfoundation.org",
+        "score": 84,
         "descendants": 15,
-        "by": "maxloh"
+        "by": "maxloh",
+        "tags": []
       },
       {
         "id": 47295537,
         "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
         "url": "https://arxiv.org/abs/2603.03823",
+        "domain": "arxiv.org",
         "score": 93,
-        "descendants": 27,
-        "by": "mpweiher"
+        "descendants": 28,
+        "by": "mpweiher",
+        "tags": [
+          "AI"
+        ]
       },
       {
-        "id": 47296849,
-        "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-        "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-        "score": 161,
-        "descendants": 59,
-        "by": "doener"
+        "id": 47247248,
+        "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+        "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+        "domain": "mssv.net",
+        "score": 72,
+        "descendants": 3,
+        "by": "surprisetalk",
+        "tags": []
       }
-    ]
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "fb.edoo.gg",
+          "count": 1
+        },
+        {
+          "domain": "corticallabs.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 60,
+      "max_score": {
+        "title": "Notes on Writing WASM",
+        "score": 120
+      },
+      "most_discussed": {
+        "title": "Why can't you tune your guitar? (2019)",
+        "comments": 50
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    }
   }
 }
