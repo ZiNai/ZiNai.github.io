@@ -147,5 +147,157 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于AI智能体生态、硬件工程创新及底层技术解析。开发者们正在探索AI时代的编程范式迭代，同时对于便携式单板计算机与操作系统底层机制的深度挖掘保持高关注度。"
+  },
+  "noon": {
+    "time": "2026-03-09 13:15",
+    "stories": [
+      {
+        "id": 47301085,
+        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+        "url": "https://agent-safehouse.dev/",
+        "domain": "agent-safehouse.dev",
+        "score": 449,
+        "descendants": 102,
+        "by": "atombender",
+        "tags": [],
+        "summary": "提供 macOS 原生沙箱环境，为本地运行的 AI Agent 增加安全防护层。"
+      },
+      {
+        "id": 47291876,
+        "title": "Microscopes can see video on a laserdisc",
+        "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+        "domain": "youtube.com",
+        "score": 327,
+        "descendants": 26,
+        "by": "zdw",
+        "tags": [],
+        "summary": "通过显微镜成像技术，成功读取并还原激光视盘（Laserdisc）上的视频内容。"
+      },
+      {
+        "id": 47294582,
+        "title": "PCB devboard the size of a USB-C plug",
+        "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+        "domain": "github.com",
+        "score": 104,
+        "descendants": 19,
+        "by": "zachlatta",
+        "tags": [],
+        "summary": "一款极致缩减尺寸的 PCB 开发板，体积仅相当于一个 USB-C 插头。"
+      },
+      {
+        "id": 47300747,
+        "title": "We should revisit literate programming in the agent era",
+        "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+        "domain": "silly.business",
+        "score": 186,
+        "descendants": 103,
+        "by": "horseradish",
+        "tags": [],
+        "summary": "探讨在 AI 时代下，重拾“文学编程”范式以提升代码可解释性的必要性。"
+      },
+      {
+        "id": 47304886,
+        "title": "The Death of Social Media Is the Renaissance of RSS",
+        "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+        "domain": "smartlab.at",
+        "score": 35,
+        "descendants": 13,
+        "by": "jruohonen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析社交媒体平台的式微，认为 RSS 技术正迎来属于它的复兴时代。"
+      },
+      {
+        "id": 47260812,
+        "title": "Every single board computer I tested in 2025",
+        "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+        "domain": "bret.dk",
+        "score": 133,
+        "descendants": 34,
+        "by": "speckx",
+        "tags": [],
+        "summary": "博主实测了 2025 年多款单板计算机，分析其性能表现与应用场景。"
+      },
+      {
+        "id": 47298044,
+        "title": "FrameBook",
+        "url": "https://fb.edoo.gg",
+        "domain": "fb.edoo.gg",
+        "score": 385,
+        "descendants": 66,
+        "by": "todsacerdoti",
+        "tags": [],
+        "summary": "一款全新的笔记本电脑项目，聚焦于模块化设计与硬件定制化体验。"
+      },
+      {
+        "id": 47303111,
+        "title": "Ask HN: What Are You Working On? (March 2026)",
+        "url": "https://news.ycombinator.com/item?id=47303111",
+        "domain": "news.ycombinator.com",
+        "score": 79,
+        "descendants": 274,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 每月常规贴，邀请社区成员分享自己正在进行的编程项目。"
+      },
+      {
+        "id": 47302463,
+        "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+        "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+        "domain": "offlinemark.com",
+        "score": 49,
+        "descendants": 13,
+        "by": "medbar",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度剖析 Linux 内核机制，解释如何利用 /proc/self/mem 实现对不可写内存的修改。"
+      },
+      {
+        "id": 47298743,
+        "title": "My Homelab Setup",
+        "url": "https://bryananthonio.com/blog/my-homelab-setup/",
+        "domain": "bryananthonio.com",
+        "score": 184,
+        "descendants": 131,
+        "by": "photon_collider",
+        "tags": [],
+        "summary": "博主详尽展示了个人 Homelab 的硬件配置、架构设计及日常维护经验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "agent-safehouse.dev",
+          "count": 1
+        },
+        {
+          "domain": "youtube.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 193,
+      "max_score": {
+        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+        "score": 449
+      },
+      "most_discussed": {
+        "title": "Ask HN: What Are You Working On? (March 2026)",
+        "comments": 274
+      },
+      "hot_tags": [
+        "AI",
+        "Ask HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在开发者工具与硬件创新，涵盖了 AI Agent 安全防护、小型嵌入式开发板以及个人实验室搭建等硬核话题。同时，关于 RSS 回归与编程范式演进的讨论，反映了社区对于回归技术本质与信息掌控力的持续关注。"
   }
 }
