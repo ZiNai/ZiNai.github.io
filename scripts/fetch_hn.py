@@ -68,10 +68,20 @@ TOPIC_KEYWORDS = {
 # ---------------------------------------------------------------------------
 # Fetch
 # ---------------------------------------------------------------------------
-def fetch_json(url):
+def fetch_json(url, retries=3):
     req = urllib.request.Request(url, headers={"User-Agent": "hn-daily-bot/1.0"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode())
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.loads(resp.read().decode())
+        except Exception as e:
+            if attempt < retries - 1:
+                import time
+                wait = 2 ** attempt
+                print(f"Fetch failed ({e}), retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
 
 
 def fetch_top_stories(n=TOP_N):
