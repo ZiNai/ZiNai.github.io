@@ -140,33 +140,24 @@ def get_period_key(now):
 
 
 # ---------------------------------------------------------------------------
-# AI Summary (Claude API)
+# AI Summary (Gemini API)
 # ---------------------------------------------------------------------------
 GEMINI_MODEL = "gemini-3.1-flash-lite-preview"
 
 
-def generate_ai_summary(stories):
-    """Call Gemini API to generate a Chinese summary. Returns empty string on failure."""
+def call_gemini(prompt, max_tokens=800):
+    """Call Gemini API. Returns raw text or empty string on failure."""
     api_key = os.environ.get("GEMINI_API_KEY", "")
-    if not api_key or not stories:
+    if not api_key:
         return ""
-
-    titles_block = "\n".join(
-        f"{i+1}. {s['title']} (▲{s['score']}, 💬{s['descendants']}, {s.get('domain', '')})"
-        for i, s in enumerate(stories)
-    )
-
-    prompt = (
-        f"以下是当前 Hacker News Top 10 热门帖子：\n\n{titles_block}\n\n"
-        "请用中文写一段 2~3 句话的摘要，帮读者快速了解当前技术社区的热点。"
-        "语气简洁、信息密度高，像新闻简报一样。不要逐条翻译标题，"
-        "而是提炼主题和趋势。直接输出摘要文字，不要加标题或前缀。"
-    )
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={api_key}"
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"maxOutputTokens": 300},
+        "generationConfig": {
+            "maxOutputTokens": max_tokens,
+            "responseMimeType": "application/json",
+        },
     })
 
     req = urllib.request.Request(
@@ -176,13 +167,58 @@ def generate_ai_summary(stories):
     )
 
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             result = json.loads(resp.read().decode())
-            text = result["candidates"][0]["content"]["parts"][0]["text"]
-            return text.strip()
+            return result["candidates"][0]["content"]["parts"][0]["text"].strip()
     except Exception as e:
-        print(f"AI summary failed: {e}")
+        print(f"Gemini API failed: {e}")
         return ""
+
+
+def generate_ai_summaries(stories):
+    """Generate overall summary + per-story summaries in one API call.
+
+    Returns (overall_summary: str, story_summaries: dict[int, str]).
+    story_summaries maps story ID to its one-line Chinese summary.
+    """
+    if not stories or not os.environ.get("GEMINI_API_KEY"):
+        return "", {}
+
+    titles_block = "\n".join(
+        f'{i+1}. [id={s["id"]}] {s["title"]} (▲{s["score"]}, 💬{s["descendants"]}, {s.get("domain", "")})'
+        for i, s in enumerate(stories)
+    )
+
+    prompt = (
+        f"以下是当前 Hacker News Top 10 热门帖子：\n\n{titles_block}\n\n"
+        "请返回 JSON，格式如下：\n"
+        '{"overall": "整体摘要（2~3句中文，提炼主题趋势，像新闻简报）", '
+        '"stories": {"<story_id>": "该文章的一句话中文简介", ...}}\n\n'
+        "要求：\n"
+        "1. overall: 不要逐条翻译，而是提炼整体主题和趋势\n"
+        "2. stories: 每篇一句话，说清楚这篇文章讲什么，让读者决定是否要点进去看\n"
+        "3. 语气简洁、信息密度高\n"
+        "4. 只输出 JSON，不要其他内容"
+    )
+
+    raw = call_gemini(prompt, max_tokens=800)
+    if not raw:
+        return "", {}
+
+    try:
+        data = json.loads(raw)
+        overall = data.get("overall", "")
+        story_map = {}
+        for k, v in data.get("stories", {}).items():
+            try:
+                story_map[int(k)] = v
+            except (ValueError, TypeError):
+                pass
+        return overall, story_map
+    except json.JSONDecodeError:
+        # Fallback: treat entire response as overall summary
+        print(f"JSON parse failed, using raw text as overall summary")
+        return raw, {}
 
 
 # ---------------------------------------------------------------------------
@@ -231,16 +267,21 @@ def save_data(stories, now):
     else:
         day_data = {}
 
-    # Generate AI summary
-    summary = generate_ai_summary(stories)
-    if summary:
-        print(f"AI summary: {summary[:60]}...")
+    # Generate AI summaries (overall + per-story)
+    overall_summary, story_summaries = generate_ai_summaries(stories)
+    if overall_summary:
+        print(f"AI summary: {overall_summary[:60]}...")
+    if story_summaries:
+        print(f"Per-story summaries: {len(story_summaries)} generated")
+        for s in stories:
+            if s["id"] in story_summaries:
+                s["summary"] = story_summaries[s["id"]]
 
     day_data[period_key] = {
         "time": now.strftime("%Y-%m-%d %H:%M"),
         "stories": stories,
         "insights": generate_insights(stories),
-        "summary": summary,
+        "summary": overall_summary,
     }
 
     with open(filepath, "w", encoding="utf-8") as f:
@@ -440,11 +481,14 @@ def render_stories_html(stories):
         if s.get("tags"):
             tags_html = " ".join(f'<span class="tag-sm">{esc(t)}</span>' for t in s["tags"][:3])
             tags_html = f' <span class="story-tags">{tags_html}</span>'
+        summary_line = ""
+        if s.get("summary"):
+            summary_line = f'\n            <div class="story-summary">{esc(s["summary"])}</div>'
         rows.append(f"""
         <div class="story">
           <span class="rank">{i}</span>
           <div class="story-content">
-            <a class="story-title" href="{esc(s['url'])}" target="_blank">{esc(s['title'])}</a>{tags_html}
+            <a class="story-title" href="{esc(s['url'])}" target="_blank">{esc(s['title'])}</a>{tags_html}{summary_line}
             <div class="story-meta">
               <span class="score">▲ {s['score']}</span>
               <a class="comments" href="{hn_link}" target="_blank">💬 {s['descendants']}</a>
@@ -672,6 +716,7 @@ CSS = """
     .story-content { flex: 1; min-width: 0; }
     .story-title { color: var(--text); text-decoration: none; font-weight: 500; font-size: 0.95em; display: inline; }
     .story-title:hover { color: var(--accent); }
+    .story-summary { color: var(--text-secondary); font-size: 0.83em; margin-top: 3px; line-height: 1.5; }
     .story-meta { display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.8em; color: var(--text-secondary); margin-top: 4px; }
     .story-meta a { color: var(--text-secondary); text-decoration: none; }
     .story-meta a:hover { color: var(--accent); }
