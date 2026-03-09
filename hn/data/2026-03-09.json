@@ -1,14 +1,14 @@
 {
   "morning": {
-    "time": "2026-03-09 10:24",
+    "time": "2026-03-09 10:46",
     "stories": [
       {
         "id": 47301085,
         "title": "Agent Safehouse – macOS-native sandboxing for local agents",
         "url": "https://agent-safehouse.dev/",
         "domain": "agent-safehouse.dev",
-        "score": 335,
-        "descendants": 79,
+        "score": 349,
+        "descendants": 84,
         "by": "atombender",
         "tags": []
       },
@@ -17,8 +17,8 @@
         "title": "Microscopes can see video on a laserdisc",
         "url": "https://www.youtube.com/watch?v=qZuR-772cks",
         "domain": "youtube.com",
-        "score": 253,
-        "descendants": 18,
+        "score": 265,
+        "descendants": 21,
         "by": "zdw",
         "tags": []
       },
@@ -27,8 +27,8 @@
         "title": "PCB devboard the size of a USB-C plug",
         "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
         "domain": "github.com",
-        "score": 62,
-        "descendants": 14,
+        "score": 69,
+        "descendants": 15,
         "by": "zachlatta",
         "tags": []
       },
@@ -37,8 +37,8 @@
         "title": "Ask HN: What Are You Working On? (March 2026)",
         "url": "https://news.ycombinator.com/item?id=47303111",
         "domain": "news.ycombinator.com",
-        "score": 48,
-        "descendants": 121,
+        "score": 52,
+        "descendants": 142,
         "by": "david927",
         "tags": [
           "Ask HN"
@@ -49,8 +49,8 @@
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
         "domain": "silly.business",
-        "score": 139,
-        "descendants": 72,
+        "score": 142,
+        "descendants": 75,
         "by": "horseradish",
         "tags": []
       },
@@ -59,8 +59,8 @@
         "title": "Blacksky AppView",
         "url": "https://github.com/blacksky-algorithms/atproto",
         "domain": "github.com",
-        "score": 99,
-        "descendants": 57,
+        "score": 103,
+        "descendants": 59,
         "by": "Kye",
         "tags": []
       },
@@ -69,7 +69,7 @@
         "title": "Every single board computer I tested in 2025",
         "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
         "domain": "bret.dk",
-        "score": 109,
+        "score": 112,
         "descendants": 31,
         "by": "speckx",
         "tags": []
@@ -79,7 +79,7 @@
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
         "domain": "fb.edoo.gg",
-        "score": 355,
+        "score": 362,
         "descendants": 64,
         "by": "todsacerdoti",
         "tags": []
@@ -89,7 +89,7 @@
         "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
         "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
         "domain": "offlinemark.com",
-        "score": 28,
+        "score": 32,
         "descendants": 5,
         "by": "medbar",
         "tags": [
@@ -101,8 +101,8 @@
         "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
         "url": "https://github.com/Rabrg/artificial-life",
         "domain": "github.com",
-        "score": 68,
-        "descendants": 5,
+        "score": 70,
+        "descendants": 7,
         "by": "tosh",
         "tags": []
       }
@@ -122,20 +122,20 @@
           "count": 1
         }
       ],
-      "avg_score": 150,
+      "avg_score": 156,
       "max_score": {
         "title": "FrameBook",
-        "score": 355
+        "score": 362
       },
       "most_discussed": {
         "title": "Ask HN: What Are You Working On? (March 2026)",
-        "comments": 121
+        "comments": 142
       },
       "hot_tags": [
         "Ask HN",
         "Systems"
       ]
     },
-    "summary": "当前技术社区关注点聚焦于AI Agent的安全架构与开发范式，探讨如何通过“文学编程”等方式重塑人机协作流程。与此同时，硬件开发领域展现出极致小型化的趋势，单板计算机测评与底层Linux系统机制的深度解析也引发了社区的广泛讨论。"
+    "summary": "当前社区聚焦于智能体安全与开发范式的变革，Agent Safehouse 及“代理时代下的文学编程”探讨了本地化AI治理与协作新思路。同时，硬件极客圈热度不减，从微型PCB开发板、单板计算机测评到光学存储技术复兴，呈现出软硬结合的极简主义技术趋势。"
   }
 }
