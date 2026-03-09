@@ -1,26 +1,28 @@
 {
   "morning": {
-    "time": "2026-03-09 10:46",
+    "time": "2026-03-09 10:54",
     "stories": [
       {
         "id": 47301085,
         "title": "Agent Safehouse – macOS-native sandboxing for local agents",
         "url": "https://agent-safehouse.dev/",
         "domain": "agent-safehouse.dev",
-        "score": 349,
+        "score": 353,
         "descendants": 84,
         "by": "atombender",
-        "tags": []
+        "tags": [],
+        "summary": "一个为本地AI智能体提供macOS原生沙盒环境的工具，旨在保障智能体运行安全。"
       },
       {
         "id": 47291876,
         "title": "Microscopes can see video on a laserdisc",
         "url": "https://www.youtube.com/watch?v=qZuR-772cks",
         "domain": "youtube.com",
-        "score": 265,
-        "descendants": 21,
+        "score": 266,
+        "descendants": 22,
         "by": "zdw",
-        "tags": []
+        "tags": [],
+        "summary": "利用显微镜技术直接读取激光唱片（Laserdisc）物理凹槽中的视频数据。"
       },
       {
         "id": 47294582,
@@ -30,59 +32,65 @@
         "score": 69,
         "descendants": 15,
         "by": "zachlatta",
-        "tags": []
+        "tags": [],
+        "summary": "一款体积微小至USB-C插头大小的PCB开发板，展示了极致的硬件小型化设计。"
       },
       {
         "id": 47303111,
         "title": "Ask HN: What Are You Working On? (March 2026)",
         "url": "https://news.ycombinator.com/item?id=47303111",
         "domain": "news.ycombinator.com",
-        "score": 52,
-        "descendants": 142,
+        "score": 53,
+        "descendants": 150,
         "by": "david927",
         "tags": [
           "Ask HN"
-        ]
+        ],
+        "summary": "Hacker News每月的常规互动贴，邀请社区分享各自近期正在进行的开发项目。"
       },
       {
         "id": 47300747,
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
         "domain": "silly.business",
-        "score": 142,
+        "score": 144,
         "descendants": 75,
         "by": "horseradish",
-        "tags": []
+        "tags": [],
+        "summary": "探讨在AI智能体普及的时代背景下，重新评估与优化文学编程范式的必要性。"
       },
       {
         "id": 47301808,
         "title": "Blacksky AppView",
         "url": "https://github.com/blacksky-algorithms/atproto",
         "domain": "github.com",
-        "score": 103,
-        "descendants": 59,
+        "score": 106,
+        "descendants": 61,
         "by": "Kye",
-        "tags": []
+        "tags": [],
+        "summary": "介绍名为Blacksky AppView的开源项目，可能涉及界面显示或特定的应用架构。"
       },
       {
         "id": 47260812,
         "title": "Every single board computer I tested in 2025",
         "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
         "domain": "bret.dk",
-        "score": 112,
+        "score": 113,
         "descendants": 31,
         "by": "speckx",
-        "tags": []
+        "tags": [],
+        "summary": "作者对2025年测试过的各类单板计算机进行的详尽评测与总结。"
       },
       {
         "id": 47298044,
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
         "domain": "fb.edoo.gg",
-        "score": 362,
-        "descendants": 64,
+        "score": 365,
+        "descendants": 65,
         "by": "todsacerdoti",
-        "tags": []
+        "tags": [],
+        "summary": "展示一款名为FrameBook的设备或应用，提供创新的交互或硬件使用体验。"
       },
       {
         "id": 47302463,
@@ -94,17 +102,19 @@
         "by": "medbar",
         "tags": [
           "Systems"
-        ]
+        ],
+        "summary": "深度解析Linux内核中/proc/self/mem如何绕过内存写权限限制，写入不可写内存区的原理。"
       },
       {
         "id": 47301233,
         "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
         "url": "https://github.com/Rabrg/artificial-life",
         "domain": "github.com",
-        "score": 70,
-        "descendants": 7,
+        "score": 71,
+        "descendants": 8,
         "by": "tosh",
-        "tags": []
+        "tags": [],
+        "summary": "通过仅300行代码实现的计算生命模拟程序，复刻人工生命系统的基础演化规律。"
       }
     ],
     "insights": {
@@ -122,20 +132,20 @@
           "count": 1
         }
       ],
-      "avg_score": 156,
+      "avg_score": 157,
       "max_score": {
         "title": "FrameBook",
-        "score": 362
+        "score": 365
       },
       "most_discussed": {
         "title": "Ask HN: What Are You Working On? (March 2026)",
-        "comments": 142
+        "comments": 150
       },
       "hot_tags": [
         "Ask HN",
         "Systems"
       ]
     },
-    "summary": "当前社区聚焦于智能体安全与开发范式的变革，Agent Safehouse 及“代理时代下的文学编程”探讨了本地化AI治理与协作新思路。同时，硬件极客圈热度不减，从微型PCB开发板、单板计算机测评到光学存储技术复兴，呈现出软硬结合的极简主义技术趋势。"
+    "summary": "本期Hacker News焦点集中于AI智能体生态、硬件工程创新及底层技术解析。开发者们正在探索AI时代的编程范式迭代，同时对于便携式单板计算机与操作系统底层机制的深度挖掘保持高关注度。"
   }
 }
