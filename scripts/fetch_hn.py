@@ -132,13 +132,12 @@ def get_period_key(now):
 # ---------------------------------------------------------------------------
 # AI Summary (Claude API)
 # ---------------------------------------------------------------------------
-CLAUDE_API_URL = "https://api.anthropic.com/v1/messages"
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+GEMINI_MODEL = "gemini-2.0-flash"
 
 
 def generate_ai_summary(stories):
-    """Call Claude API to generate a Chinese summary. Returns empty string on failure."""
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    """Call Gemini API to generate a Chinese summary. Returns empty string on failure."""
+    api_key = os.environ.get("GEMINI_API_KEY", "")
     if not api_key or not stories:
         return ""
 
@@ -154,26 +153,22 @@ def generate_ai_summary(stories):
         "而是提炼主题和趋势。直接输出摘要文字，不要加标题或前缀。"
     )
 
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={api_key}"
     body = json.dumps({
-        "model": CLAUDE_MODEL,
-        "max_tokens": 300,
-        "messages": [{"role": "user", "content": prompt}],
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"maxOutputTokens": 300},
     })
 
     req = urllib.request.Request(
-        CLAUDE_API_URL,
+        url,
         data=body.encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "x-api-key": api_key,
-            "anthropic-version": "2023-06-01",
-        },
+        headers={"Content-Type": "application/json"},
     )
 
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             result = json.loads(resp.read().decode())
-            text = result.get("content", [{}])[0].get("text", "")
+            text = result["candidates"][0]["content"]["parts"][0]["text"]
             return text.strip()
     except Exception as e:
         print(f"AI summary failed: {e}")
