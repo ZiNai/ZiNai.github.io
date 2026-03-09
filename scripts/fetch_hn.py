@@ -511,8 +511,23 @@ def render_trending_html(trending):
     </section>"""
 
 
+def render_date_nav(all_data):
+    """Render a sticky date navigation bar."""
+    if len(all_data) <= 1:
+        return ""
+    links = []
+    for date_str, _ in all_data:
+        short = date_str[5:]  # MM-DD
+        links.append(f'<a href="#day-{date_str}" class="date-nav-item">{short}</a>')
+    return f'<nav class="date-nav">{" ".join(links)}</nav>'
+
+
 def render_main_html(all_data, trending):
     sections = []
+
+    # Date navigation
+    date_nav = render_date_nav(all_data)
+
     trending_html = render_trending_html(trending)
     if trending_html:
         sections.append(trending_html)
@@ -537,7 +552,7 @@ def render_main_html(all_data, trending):
       </div>""")
         if period_blocks:
             sections.append(f"""
-    <div class="day-section">
+    <div class="day-section" id="day-{date_str}">
       <h2>{date_str}</h2>{"".join(period_blocks)}
     </div>""")
 
@@ -550,7 +565,7 @@ def render_main_html(all_data, trending):
 
     return MAIN_TEMPLATE.replace("{{CONTENT}}", "\n".join(sections)).replace(
         "{{HISTORY_LINK}}", history_link
-    )
+    ).replace("{{DATE_NAV}}", date_nav)
 
 
 # ---------------------------------------------------------------------------
@@ -623,7 +638,10 @@ CSS = """
     header { text-align: center; padding: 24px 0; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
     header h1 { font-size: 1.8em; color: var(--accent); }
     header p { color: var(--text-secondary); font-size: 0.9em; margin-top: 4px; }
-    .day-section { margin-bottom: 32px; }
+    .date-nav { position: sticky; top: 0; z-index: 100; background: var(--bg); padding: 10px 0; margin-bottom: 16px; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; border-bottom: 1px solid var(--border); }
+    .date-nav-item { display: inline-block; padding: 4px 14px; border-radius: 16px; background: var(--card-bg); color: var(--text); text-decoration: none; font-size: 0.85em; font-weight: 500; border: 1px solid var(--border); transition: all 0.15s; }
+    .date-nav-item:hover, .date-nav-item:target { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .day-section { margin-bottom: 32px; scroll-margin-top: 60px; }
     .day-section > h2 { font-size: 1.2em; padding: 8px 0; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
     .period { margin-bottom: 20px; }
     .period h3 { font-size: 1em; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
@@ -688,6 +706,7 @@ MAIN_TEMPLATE = """<!DOCTYPE html>
     <h1>📰 HN Daily Top 10</h1>
     <p>每日早中晚自动汇总 Hacker News 热门 · 附趋势洞察</p>
   </header>
+  {{DATE_NAV}}
   <main>
 {{CONTENT}}
   </main>

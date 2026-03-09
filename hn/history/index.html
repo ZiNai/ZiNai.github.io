@@ -26,7 +26,10 @@
     header { text-align: center; padding: 24px 0; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
     header h1 { font-size: 1.8em; color: var(--accent); }
     header p { color: var(--text-secondary); font-size: 0.9em; margin-top: 4px; }
-    .day-section { margin-bottom: 32px; }
+    .date-nav { position: sticky; top: 0; z-index: 100; background: var(--bg); padding: 10px 0; margin-bottom: 16px; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; border-bottom: 1px solid var(--border); }
+    .date-nav-item { display: inline-block; padding: 4px 14px; border-radius: 16px; background: var(--card-bg); color: var(--text); text-decoration: none; font-size: 0.85em; font-weight: 500; border: 1px solid var(--border); transition: all 0.15s; }
+    .date-nav-item:hover, .date-nav-item:target { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .day-section { margin-bottom: 32px; scroll-margin-top: 60px; }
     .day-section > h2 { font-size: 1.2em; padding: 8px 0; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
     .period { margin-bottom: 20px; }
     .period h3 { font-size: 1em; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
