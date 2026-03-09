@@ -1,14 +1,14 @@
 {
   "morning": {
-    "time": "2026-03-09 09:06",
+    "time": "2026-03-09 10:18",
     "stories": [
       {
         "id": 47301085,
         "title": "Agent Safehouse – macOS-native sandboxing for local agents",
         "url": "https://agent-safehouse.dev/",
         "domain": "agent-safehouse.dev",
-        "score": 286,
-        "descendants": 61,
+        "score": 333,
+        "descendants": 78,
         "by": "atombender",
         "tags": []
       },
@@ -17,7 +17,7 @@
         "title": "Microscopes can see video on a laserdisc",
         "url": "https://www.youtube.com/watch?v=qZuR-772cks",
         "domain": "youtube.com",
-        "score": 211,
+        "score": 250,
         "descendants": 18,
         "by": "zdw",
         "tags": []
@@ -27,19 +27,9 @@
         "title": "PCB devboard the size of a USB-C plug",
         "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
         "domain": "github.com",
-        "score": 36,
-        "descendants": 5,
+        "score": 59,
+        "descendants": 14,
         "by": "zachlatta",
-        "tags": []
-      },
-      {
-        "id": 47301808,
-        "title": "Blacksky AppView",
-        "url": "https://github.com/blacksky-algorithms/atproto",
-        "domain": "github.com",
-        "score": 82,
-        "descendants": 40,
-        "by": "Kye",
         "tags": []
       },
       {
@@ -47,20 +37,30 @@
         "title": "Ask HN: What Are You Working On? (March 2026)",
         "url": "https://news.ycombinator.com/item?id=47303111",
         "domain": "news.ycombinator.com",
-        "score": 23,
-        "descendants": 24,
+        "score": 47,
+        "descendants": 117,
         "by": "david927",
         "tags": [
           "Ask HN"
         ]
       },
       {
+        "id": 47301808,
+        "title": "Blacksky AppView",
+        "url": "https://github.com/blacksky-algorithms/atproto",
+        "domain": "github.com",
+        "score": 97,
+        "descendants": 54,
+        "by": "Kye",
+        "tags": []
+      },
+      {
         "id": 47300747,
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
         "domain": "silly.business",
-        "score": 112,
-        "descendants": 57,
+        "score": 136,
+        "descendants": 72,
         "by": "horseradish",
         "tags": []
       },
@@ -69,19 +69,9 @@
         "title": "Every single board computer I tested in 2025",
         "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
         "domain": "bret.dk",
-        "score": 99,
-        "descendants": 27,
+        "score": 109,
+        "descendants": 31,
         "by": "speckx",
-        "tags": []
-      },
-      {
-        "id": 47301241,
-        "title": "Lil Finder Guy",
-        "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
-        "domain": "basicappleguy.com",
-        "score": 73,
-        "descendants": 21,
-        "by": "frizlab",
         "tags": []
       },
       {
@@ -89,8 +79,8 @@
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
         "domain": "fb.edoo.gg",
-        "score": 347,
-        "descendants": 62,
+        "score": 355,
+        "descendants": 64,
         "by": "todsacerdoti",
         "tags": []
       },
@@ -99,19 +89,29 @@
         "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
         "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
         "domain": "offlinemark.com",
-        "score": 18,
-        "descendants": 3,
+        "score": 26,
+        "descendants": 5,
         "by": "medbar",
         "tags": [
           "Systems"
         ]
+      },
+      {
+        "id": 47301233,
+        "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+        "url": "https://github.com/Rabrg/artificial-life",
+        "domain": "github.com",
+        "score": 68,
+        "descendants": 5,
+        "by": "tosh",
+        "tags": []
       }
     ],
     "insights": {
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "agent-safehouse.dev",
@@ -122,19 +122,20 @@
           "count": 1
         }
       ],
-      "avg_score": 129,
+      "avg_score": 148,
       "max_score": {
         "title": "FrameBook",
-        "score": 347
+        "score": 355
       },
       "most_discussed": {
-        "title": "FrameBook",
-        "comments": 62
+        "title": "Ask HN: What Are You Working On? (March 2026)",
+        "comments": 117
       },
       "hot_tags": [
         "Ask HN",
         "Systems"
       ]
-    }
+    },
+    "summary": ""
   }
 }
