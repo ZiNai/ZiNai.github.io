@@ -132,7 +132,7 @@ def get_period_key(now):
 # ---------------------------------------------------------------------------
 # AI Summary (Claude API)
 # ---------------------------------------------------------------------------
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-3.1-flash-lite"
 
 
 def generate_ai_summary(stories):
