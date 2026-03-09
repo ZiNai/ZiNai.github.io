@@ -130,6 +130,57 @@ def get_period_key(now):
 
 
 # ---------------------------------------------------------------------------
+# AI Summary (Claude API)
+# ---------------------------------------------------------------------------
+CLAUDE_API_URL = "https://api.anthropic.com/v1/messages"
+CLAUDE_MODEL = "claude-sonnet-4-20250514"
+
+
+def generate_ai_summary(stories):
+    """Call Claude API to generate a Chinese summary. Returns empty string on failure."""
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    if not api_key or not stories:
+        return ""
+
+    titles_block = "\n".join(
+        f"{i+1}. {s['title']} (▲{s['score']}, 💬{s['descendants']}, {s.get('domain', '')})"
+        for i, s in enumerate(stories)
+    )
+
+    prompt = (
+        f"以下是当前 Hacker News Top 10 热门帖子：\n\n{titles_block}\n\n"
+        "请用中文写一段 2~3 句话的摘要，帮读者快速了解当前技术社区的热点。"
+        "语气简洁、信息密度高，像新闻简报一样。不要逐条翻译标题，"
+        "而是提炼主题和趋势。直接输出摘要文字，不要加标题或前缀。"
+    )
+
+    body = json.dumps({
+        "model": CLAUDE_MODEL,
+        "max_tokens": 300,
+        "messages": [{"role": "user", "content": prompt}],
+    })
+
+    req = urllib.request.Request(
+        CLAUDE_API_URL,
+        data=body.encode("utf-8"),
+        headers={
+            "Content-Type": "application/json",
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+        },
+    )
+
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            result = json.loads(resp.read().decode())
+            text = result.get("content", [{}])[0].get("text", "")
+            return text.strip()
+    except Exception as e:
+        print(f"AI summary failed: {e}")
+        return ""
+
+
+# ---------------------------------------------------------------------------
 # Insights
 # ---------------------------------------------------------------------------
 def generate_insights(stories):
@@ -175,10 +226,16 @@ def save_data(stories, now):
     else:
         day_data = {}
 
+    # Generate AI summary
+    summary = generate_ai_summary(stories)
+    if summary:
+        print(f"AI summary: {summary[:60]}...")
+
     day_data[period_key] = {
         "time": now.strftime("%Y-%m-%d %H:%M"),
         "stories": stories,
         "insights": generate_insights(stories),
+        "summary": summary,
     }
 
     with open(filepath, "w", encoding="utf-8") as f:
@@ -341,6 +398,12 @@ def esc(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
 
+def render_summary_html(summary):
+    if not summary:
+        return ""
+    return f'<div class="ai-summary">💡 {esc(summary)}</div>'
+
+
 def render_insights_html(insights):
     if not insights:
         return ""
@@ -466,11 +529,13 @@ def render_main_html(all_data, trending):
                 continue
             info = day_data[period]
             label = PERIOD_LABELS[period]
+            summary_html = render_summary_html(info.get("summary", ""))
             insights_html = render_insights_html(info.get("insights", {}))
             stories_html = render_stories_html(info["stories"])
             period_blocks.append(f"""
       <div class="period">
         <h3>{label} <span class="update-time">{info['time']}</span></h3>
+        {summary_html}
         {insights_html}
         <div class="stories">{stories_html}
         </div>
@@ -568,6 +633,7 @@ CSS = """
     .period { margin-bottom: 20px; }
     .period h3 { font-size: 1em; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
     .update-time { font-size: 0.8em; color: var(--text-secondary); font-weight: normal; }
+    .ai-summary { background: linear-gradient(135deg, var(--tag-bg), var(--card-bg)); border-radius: 10px; padding: 12px 16px; margin-bottom: 12px; font-size: 0.92em; line-height: 1.7; border: 1px solid var(--border); }
     .insights { background: var(--card-bg); border-left: 3px solid var(--accent); padding: 10px 14px; margin-bottom: 12px; border-radius: 0 8px 8px 0; font-size: 0.85em; }
     .insight-tags { margin-bottom: 4px; }
     .insight-stats { color: var(--text-secondary); }

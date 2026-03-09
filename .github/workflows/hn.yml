@@ -25,6 +25,8 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch HN Top 10
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fetch_hn.py
 
       - name: Commit and Push
