@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-03-10 09:00",
+    "stories": [
+      {
+        "id": 47311815,
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "url": "https://felixturner.github.io/hex-map-wfc/article/",
+        "domain": "felixturner.github.io",
+        "score": 373,
+        "descendants": 52,
+        "by": "imadr",
+        "tags": [],
+        "summary": "探讨如何利用波函数塌缩算法构建程序化六边形地图的实现过程。"
+      },
+      {
+        "id": 47317739,
+        "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
+        "url": "https://scottaaronson.blog/?p=9615",
+        "domain": "scottaaronson.blog",
+        "score": 6,
+        "descendants": 0,
+        "by": "jhalderm",
+        "tags": [],
+        "summary": "斯科特·阿伦森分析称 JVG 算法仅在极小规模数据下具备优势。"
+      },
+      {
+        "id": 47311484,
+        "title": "JSLinux Now Supports x86_64",
+        "url": "https://bellard.org/jslinux/",
+        "domain": "bellard.org",
+        "score": 232,
+        "descendants": 68,
+        "by": "TechTechTech",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "著名的 Web 虚拟化项目 JSLinux 现已正式支持 x86_64 架构。"
+      },
+      {
+        "id": 47317616,
+        "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "domain": "rahuljuliato.com",
+        "score": 7,
+        "descendants": 0,
+        "by": "celadevra_",
+        "tags": [],
+        "summary": "作者分享仅使用 Emacs 原生功能、不依赖外部包完成系统重构的两年实践经验。"
+      },
+      {
+        "id": 47280654,
+        "title": "Show HN: Remotely use my guitar tuner",
+        "url": "https://realtuner.online/",
+        "domain": "realtuner.online",
+        "score": 40,
+        "descendants": 8,
+        "by": "smith-kyle",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "分享一个可远程操控的在线吉他调音器工具。"
+      },
+      {
+        "id": 47310160,
+        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+        "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+        "domain": "writings.hongminhee.org",
+        "score": 324,
+        "descendants": 362,
+        "by": "dahlia",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度讨论 AI 复刻项目与 Copyleft 协议间的合法性冲突及对开源精神的潜在侵蚀。"
+      },
+      {
+        "id": 47311669,
+        "title": "DARPA’s new X-76",
+        "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+        "domain": "darpa.mil",
+        "score": 147,
+        "descendants": 146,
+        "by": "newer_vienna",
+        "tags": [],
+        "summary": "简述 DARPA 最新发布的 X-76 飞机研发项目详情。"
+      },
+      {
+        "id": 47315079,
+        "title": "The first airplane fatality",
+        "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+        "domain": "amusingplanet.com",
+        "score": 49,
+        "descendants": 11,
+        "by": "Hooke",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾航空史上第一起飞机失事死亡事故的始末。"
+      },
+      {
+        "id": 47312728,
+        "title": "Show HN: The Mog Programming Language",
+        "url": "https://moglang.org",
+        "domain": "moglang.org",
+        "score": 112,
+        "descendants": 55,
+        "by": "belisarius222",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍一款名为 Mog 的新型编程语言及其设计理念。"
+      },
+      {
+        "id": 47311657,
+        "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+        "url": "https://news.ycombinator.com/item?id=47311657",
+        "domain": "news.ycombinator.com",
+        "score": 80,
+        "descendants": 54,
+        "by": "filipbalucha",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Terminal Use 旨在通过提供类似 Vercel 的平台来简化文件系统代理的部署。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "felixturner.github.io",
+          "count": 1
+        },
+        {
+          "domain": "scottaaronson.blog",
+          "count": 1
+        },
+        {
+          "domain": "bellard.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 137,
+      "max_score": {
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "score": 373
+      },
+      "most_discussed": {
+        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+        "comments": 362
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Systems",
+        "Startup"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论热度集中在计算机科学的前沿技术与底层架构，涵盖了程序生成、模拟仿真及 AI 对开源版权带来的挑战。同时，开发者工具与编程语言的创新依旧是社区关注的核心，体现了技术圈对底层逻辑与新型自动化工作流的持续探索。"
+  }
+}
