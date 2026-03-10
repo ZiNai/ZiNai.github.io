@@ -157,5 +157,164 @@
       ]
     },
     "summary": "今日 Hacker News 讨论热度集中在计算机科学的前沿技术与底层架构，涵盖了程序生成、模拟仿真及 AI 对开源版权带来的挑战。同时，开发者工具与编程语言的创新依旧是社区关注的核心，体现了技术圈对底层逻辑与新型自动化工作流的持续探索。"
+  },
+  "noon": {
+    "time": "2026-03-10 13:05",
+    "stories": [
+      {
+        "id": 47318421,
+        "title": "Learnings from paying artists royalties for AI-generated art",
+        "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+        "domain": "kapwing.com",
+        "score": 56,
+        "descendants": 20,
+        "by": "jenthoven",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI生成艺术中向艺术家支付版税的实践经验与反思。"
+      },
+      {
+        "id": 47317616,
+        "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "domain": "rahuljuliato.com",
+        "score": 131,
+        "descendants": 25,
+        "by": "celadevra_",
+        "tags": [],
+        "summary": "分享作者在完全不使用第三方扩展的情况下，重构并维护个人Emacs配置两年的历程。"
+      },
+      {
+        "id": 47311815,
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "url": "https://felixturner.github.io/hex-map-wfc/article/",
+        "domain": "felixturner.github.io",
+        "score": 431,
+        "descendants": 67,
+        "by": "imadr",
+        "tags": [],
+        "summary": "详细解析如何利用波函数坍缩算法生成程序化六边形地图。"
+      },
+      {
+        "id": 47280654,
+        "title": "Show HN: Remotely use my guitar tuner",
+        "url": "https://realtuner.online/",
+        "domain": "realtuner.online",
+        "score": 121,
+        "descendants": 29,
+        "by": "smith-kyle",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款可以远程使用的在线吉他调音器工具分享。"
+      },
+      {
+        "id": 47311484,
+        "title": "JSLinux Now Supports x86_64",
+        "url": "https://bellard.org/jslinux/",
+        "domain": "bellard.org",
+        "score": 277,
+        "descendants": 79,
+        "by": "TechTechTech",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "著名的JSLinux项目现已正式支持x86_64架构。"
+      },
+      {
+        "id": 47310160,
+        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+        "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+        "domain": "writings.hongminhee.org",
+        "score": 389,
+        "descendants": 435,
+        "by": "dahlia",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨AI重构代码带来的合法性与合理性边界，以及对Copyleft版权模式的挑战。"
+      },
+      {
+        "id": 47276343,
+        "title": "Darkrealms BBS",
+        "url": "http://www.darkrealms.ca/",
+        "domain": "darkrealms.ca",
+        "score": 63,
+        "descendants": 14,
+        "by": "TigerUniversity",
+        "tags": [],
+        "summary": "介绍一个充满怀旧气息的Darkrealms BBS站点。"
+      },
+      {
+        "id": 47317739,
+        "title": "The “JVG algorithm” only wins on tiny numbers",
+        "url": "https://scottaaronson.blog/?p=9615",
+        "domain": "scottaaronson.blog",
+        "score": 43,
+        "descendants": 26,
+        "by": "jhalderm",
+        "tags": [],
+        "summary": "斯科特·阿伦森从理论角度分析所谓的“JVG算法”仅在处理微小数据时有效的局限性。"
+      },
+      {
+        "id": 47317132,
+        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+        "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+        "domain": "martinalderson.com",
+        "score": 46,
+        "descendants": 9,
+        "by": "jnord",
+        "tags": [
+          "AI"
+        ],
+        "summary": "澄清关于Claude Code用户成本的误传，分析其真实的运营经济性。"
+      },
+      {
+        "id": 47311657,
+        "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+        "url": "https://news.ycombinator.com/item?id=47311657",
+        "domain": "news.ycombinator.com",
+        "score": 97,
+        "descendants": 63,
+        "by": "filipbalucha",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Terminal Use项目亮相，旨在为基于文件系统的AI代理提供类似Vercel的托管部署体验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kapwing.com",
+          "count": 1
+        },
+        {
+          "domain": "rahuljuliato.com",
+          "count": 1
+        },
+        {
+          "domain": "felixturner.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 165,
+      "max_score": {
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "score": 431
+      },
+      "most_discussed": {
+        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+        "comments": 435
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于AI技术的深层应用与争议，包括版权伦理、推理成本分析以及AI开发工具的兴起。同时，社区对底层系统技术和极客项目保持高度关注，涵盖了模拟器性能优化、程序化地图生成及个人定制化开发工具的实践分享。"
   }
 }
