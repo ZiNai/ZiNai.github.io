@@ -316,5 +316,169 @@
       ]
     },
     "summary": "本期Hacker News聚焦于AI技术的深层应用与争议，包括版权伦理、推理成本分析以及AI开发工具的兴起。同时，社区对底层系统技术和极客项目保持高度关注，涵盖了模拟器性能优化、程序化地图生成及个人定制化开发工具的实践分享。"
+  },
+  "evening": {
+    "time": "2026-03-10 20:52",
+    "stories": [
+      {
+        "id": 47321233,
+        "title": "I put my whole life into a single database",
+        "url": "https://howisfelix.today/",
+        "domain": "howisfelix.today",
+        "score": 125,
+        "descendants": 35,
+        "by": "lukakopajtic",
+        "tags": [
+          "Database"
+        ],
+        "summary": "作者尝试将个人生活的全方位数据整合进单一数据库中的实验性心得。"
+      },
+      {
+        "id": 47320661,
+        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+        "domain": "gitlab.redox-os.org",
+        "score": 212,
+        "descendants": 180,
+        "by": "pjmlp",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Redox OS正式采纳原产地证明并严格推行禁止LLM生成代码的政策。"
+      },
+      {
+        "id": 47321499,
+        "title": "FreeBSD 14.4-Release Announcement",
+        "url": "https://www.freebsd.org/releases/14.4R/announce/",
+        "domain": "freebsd.org",
+        "score": 24,
+        "descendants": 1,
+        "by": "vermaden",
+        "tags": [],
+        "summary": "FreeBSD操作系统发布了14.4版本，包含多项系统性改进。"
+      },
+      {
+        "id": 47286657,
+        "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+        "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+        "domain": "ribbonfarm.com",
+        "score": 99,
+        "descendants": 26,
+        "by": "janandonly",
+        "tags": [
+          "AI"
+        ],
+        "summary": "这篇2009年的经典分析文章通过美剧《办公室》解读企业组织架构中的层级与心理学。"
+      },
+      {
+        "id": 47321760,
+        "title": "Ask HN: Remember Fidonet?",
+        "url": "https://news.ycombinator.com/item?id=47321760",
+        "domain": "news.ycombinator.com",
+        "score": 40,
+        "descendants": 20,
+        "by": "ukkare",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "询问帖：向社区征集关于曾经的社交网络鼻祖Fidonet的回忆。"
+      },
+      {
+        "id": 47284461,
+        "title": "Practical Guide to Bare Metal C++",
+        "url": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+        "domain": "arobenko.github.io",
+        "score": 22,
+        "descendants": 2,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一份关于在裸机环境下进行C++开发的实战指南。"
+      },
+      {
+        "id": 47317616,
+        "title": "Two Years of Emacs Solo",
+        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "domain": "rahuljuliato.com",
+        "score": 287,
+        "descendants": 93,
+        "by": "celadevra_",
+        "tags": [],
+        "summary": "分享作者深度使用Emacs作为唯一工具进行编程与工作两年的心路历程。"
+      },
+      {
+        "id": 47279633,
+        "title": "Lotus 1-2-3 on the PC with DOS",
+        "url": "https://stonetools.ghost.io/lotus123-dos/",
+        "domain": "stonetools.ghost.io",
+        "score": 122,
+        "descendants": 42,
+        "by": "TMWNN",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "重温经典的Lotus 1-2-3电子表格软件在DOS环境下的运行体验。"
+      },
+      {
+        "id": 47319620,
+        "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+        "url": "https://loger-project.github.io",
+        "domain": "loger-project.github.io",
+        "score": 79,
+        "descendants": 21,
+        "by": "helloplanets",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "DeepMind与UC Berkeley的研究项目，展示了如何从超长视频中进行高精度3D重建。"
+      },
+      {
+        "id": 47284587,
+        "title": "TCXO Failure Analysis",
+        "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+        "domain": "serd.es",
+        "score": 42,
+        "descendants": 11,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对温补晶振（TCXO）故障的深度技术分析与失效机理探究。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "howisfelix.today",
+          "count": 1
+        },
+        {
+          "domain": "gitlab.redox-os.org",
+          "count": 1
+        },
+        {
+          "domain": "freebsd.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 105,
+      "max_score": {
+        "title": "Two Years of Emacs Solo",
+        "score": 287
+      },
+      "most_discussed": {
+        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+        "comments": 180
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Database",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于开发者社区的治理动态与技术考古，Redox OS禁止AI生成代码的政策引发广泛讨论，同时也涵盖了从操作系统发布到个人技术实践的多元话题。整体趋势体现了极客社区对底层技术、老牌工具及数字生活管理方式的持续关注。"
   }
 }
