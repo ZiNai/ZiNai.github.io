@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-03-11 09:01",
+    "stories": [
+      {
+        "id": 47324054,
+        "title": "Tony Hoare has died",
+        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "domain": "blog.computationalcomplexity.org",
+        "score": 1450,
+        "descendants": 196,
+        "by": "speckx",
+        "tags": [],
+        "summary": "悼念计算机科学先驱、快速排序算法发明者Tony Hoare。"
+      },
+      {
+        "id": 47329605,
+        "title": "U+237C ⍼ Is Azimuth",
+        "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+        "domain": "ionathan.ch",
+        "score": 104,
+        "descendants": 9,
+        "by": "cokernel_hacker",
+        "tags": [],
+        "summary": "探讨Unicode字符U+237C（⍼）的定义及其作为方位角符号的误读。"
+      },
+      {
+        "id": 47329557,
+        "title": "Cloudflare Crawl Endpoint",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+        "domain": "developers.cloudflare.com",
+        "score": 92,
+        "descendants": 46,
+        "by": "jeffpalmer",
+        "tags": [],
+        "summary": "Cloudflare推出新爬虫端点，旨在帮助网站所有者管理和控制AI爬虫的访问。"
+      },
+      {
+        "id": 47327559,
+        "title": "Agents that run while I sleep",
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+        "domain": "claudecodecamp.com",
+        "score": 209,
+        "descendants": 157,
+        "by": "aray07",
+        "tags": [],
+        "summary": "探讨在后台自动运行、辅助处理任务的AI智能体及其工作流程。"
+      },
+      {
+        "id": 47320600,
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "domain": "wired.com",
+        "score": 314,
+        "descendants": 318,
+        "by": "helloplanets",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Yann LeCun筹集10亿美元以开发具备物理世界感知能力的通用人工智能。"
+      },
+      {
+        "id": 47318797,
+        "title": "SSH Secret Menu",
+        "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+        "domain": "twitter.com",
+        "score": 24,
+        "descendants": 13,
+        "by": "piccirello",
+        "tags": [],
+        "summary": "介绍SSH客户端中不为人知的配置项与隐藏功能。"
+      },
+      {
+        "id": 47326101,
+        "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+        "url": "https://github.com/RunanywhereAI/rcli",
+        "domain": "github.com",
+        "score": 176,
+        "descendants": 83,
+        "by": "sanchitmonga22",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "介绍一款旨在提升Apple Silicon芯片上AI模型推理速度的新工具。"
+      },
+      {
+        "id": 47329608,
+        "title": "Universal vaccine against respiratory infections and allergens",
+        "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+        "domain": "med.stanford.edu",
+        "score": 79,
+        "descendants": 17,
+        "by": "phony-account",
+        "tags": [
+          "AI"
+        ],
+        "summary": "斯坦福大学研究人员开发出针对多种呼吸道感染和过敏原的通用疫苗。"
+      },
+      {
+        "id": 47324087,
+        "title": "Debian decides not to decide on AI-generated contributions",
+        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+        "domain": "lwn.net",
+        "score": 269,
+        "descendants": 210,
+        "by": "jwilk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Debian社区在是否允许AI生成的贡献代码进入仓库的问题上暂缓决策。"
+      },
+      {
+        "id": 47328214,
+        "title": "RISC-V Is Sloooow",
+        "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+        "domain": "marcin.juszkiewicz.com.pl",
+        "score": 156,
+        "descendants": 140,
+        "by": "todsacerdoti",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度解析为何当前的RISC-V硬件在部分基准测试中表现不尽如人意。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.computationalcomplexity.org",
+          "count": 1
+        },
+        {
+          "domain": "ionathan.ch",
+          "count": 1
+        },
+        {
+          "domain": "developers.cloudflare.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 287,
+      "max_score": {
+        "title": "Tony Hoare has died",
+        "score": 1450
+      },
+      "most_discussed": {
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "comments": 318
+      },
+      "hot_tags": [
+        "AI",
+        "Startup",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News聚焦计算机科学领域的深远影响，包括悼念图灵奖得主Tony Hoare，以及AI前沿技术的快速迭代与争议。同时，社区围绕硬件架构演进、开源协议探讨及前沿生物医疗进展展开了热烈讨论。"
+  }
+}
