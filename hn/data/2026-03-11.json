@@ -155,5 +155,162 @@
       ]
     },
     "summary": "本期Hacker News聚焦计算机科学领域的深远影响，包括悼念图灵奖得主Tony Hoare，以及AI前沿技术的快速迭代与争议。同时，社区围绕硬件架构演进、开源协议探讨及前沿生物医疗进展展开了热烈讨论。"
+  },
+  "noon": {
+    "time": "2026-03-11 13:06",
+    "stories": [
+      {
+        "id": 47324054,
+        "title": "Tony Hoare has died",
+        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "domain": "blog.computationalcomplexity.org",
+        "score": 1620,
+        "descendants": 211,
+        "by": "speckx",
+        "tags": [],
+        "summary": "图灵奖得主、快速排序算法发明人Tony Hoare逝世，引发社区对这位计算机科学泰斗的深切缅怀。"
+      },
+      {
+        "id": 47329605,
+        "title": "U+237C ⍼ Is Azimuth",
+        "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+        "domain": "ionathan.ch",
+        "score": 213,
+        "descendants": 23,
+        "by": "cokernel_hacker",
+        "tags": [],
+        "summary": "文章详细探讨了Unicode字符U+237C（⍼）的历史含义及其在方位角表达中的特殊应用。"
+      },
+      {
+        "id": 47330836,
+        "title": "Zig – Type Resolution Redesign and Language Changes",
+        "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+        "domain": "ziglang.org",
+        "score": 82,
+        "descendants": 17,
+        "by": "Retro_Dev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Zig语言官方公布了其类型解析机制的重大调整及后续语言特性的变更计划。"
+      },
+      {
+        "id": 47329557,
+        "title": "Cloudflare crawl endpoint",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+        "domain": "developers.cloudflare.com",
+        "score": 194,
+        "descendants": 93,
+        "by": "jeffpalmer",
+        "tags": [],
+        "summary": "Cloudflare推出了全新的抓取端点服务，旨在简化开发者的网络爬虫与数据提取流程。"
+      },
+      {
+        "id": 47295855,
+        "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+        "url": "https://github.com/gcv/julia-snail",
+        "domain": "github.com",
+        "score": 26,
+        "descendants": 0,
+        "by": "TheWiggles",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Julia Snail为Julia语言提供了一个类似于Cider的Emacs集成开发环境。"
+      },
+      {
+        "id": 47327559,
+        "title": "Agents that run while I sleep",
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+        "domain": "claudecodecamp.com",
+        "score": 275,
+        "descendants": 253,
+        "by": "aray07",
+        "tags": [],
+        "summary": "作者分享了关于构建全自动AI代理的实践经验，实现系统在用户离线时持续执行任务。"
+      },
+      {
+        "id": 47320600,
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "domain": "wired.com",
+        "score": 388,
+        "descendants": 346,
+        "by": "helloplanets",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Yann LeCun筹集10亿美元，旨在开发具备物理世界感知能力的新一代通用人工智能系统。"
+      },
+      {
+        "id": 47331034,
+        "title": "Writing my own text editor, and daily-driving it",
+        "url": "https://blog.jsbarretto.com/post/text-editor",
+        "domain": "blog.jsbarretto.com",
+        "score": 36,
+        "descendants": 7,
+        "by": "todsacerdoti",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一名开发者分享了从零编写并坚持使用自制文本编辑器的技术心路历程。"
+      },
+      {
+        "id": 47318797,
+        "title": "SSH Secret Menu",
+        "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+        "domain": "twitter.com",
+        "score": 112,
+        "descendants": 41,
+        "by": "piccirello",
+        "tags": [],
+        "summary": "盘点SSH配置中鲜为人知的高级技巧与“秘密菜单”设置，以提升远程操作效率。"
+      },
+      {
+        "id": 47326101,
+        "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+        "url": "https://github.com/RunanywhereAI/rcli",
+        "domain": "github.com",
+        "score": 196,
+        "descendants": 118,
+        "by": "sanchitmonga22",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "RunAnywhere（YC W26）开源项目发布，旨在显著加速Apple Silicon芯片上的AI模型推理性能。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "blog.computationalcomplexity.org",
+          "count": 1
+        },
+        {
+          "domain": "ionathan.ch",
+          "count": 1
+        }
+      ],
+      "avg_score": 314,
+      "max_score": {
+        "title": "Tony Hoare has died",
+        "score": 1620
+      },
+      "most_discussed": {
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "comments": 346
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News聚焦计算机科学领域的深远影响与前沿技术演进。核心话题涵盖了图灵奖得主Tony Hoare的逝世纪念、AI基础设施的融资进展、以及Zig等编程语言与开发工具的迭代优化。"
   }
 }
