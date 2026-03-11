@@ -312,5 +312,159 @@
       ]
     },
     "summary": "本期Hacker News聚焦计算机科学领域的深远影响与前沿技术演进。核心话题涵盖了图灵奖得主Tony Hoare的逝世纪念、AI基础设施的融资进展、以及Zig等编程语言与开发工具的迭代优化。"
+  },
+  "evening": {
+    "time": "2026-03-11 20:52",
+    "stories": [
+      {
+        "id": 47291574,
+        "title": "Building a TB-303 from Scratch",
+        "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
+        "domain": "loopmaster.xyz",
+        "score": 108,
+        "descendants": 32,
+        "by": "stagas",
+        "tags": [],
+        "summary": "从零开始复刻经典合成器 TB-303 的硬件制作过程。"
+      },
+      {
+        "id": 47334694,
+        "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+        "url": "https://github.com/microsoft/BitNet",
+        "domain": "github.com",
+        "score": 7,
+        "descendants": 0,
+        "by": "redm",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "微软发布的 1-Bit 100B 参数大模型，旨在优化本地 CPU 的运行性能。"
+      },
+      {
+        "id": 47330836,
+        "title": "Zig – Type Resolution Redesign and Language Changes",
+        "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+        "domain": "ziglang.org",
+        "score": 293,
+        "descendants": 125,
+        "by": "Retro_Dev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Zig 语言宣布重大设计变更，重点在于类型解析逻辑的重构。"
+      },
+      {
+        "id": 47332074,
+        "title": "Create value for others and don’t worry about the returns",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+        "domain": "geohot.github.io",
+        "score": 446,
+        "descendants": 284,
+        "by": "ppew",
+        "tags": [],
+        "summary": "Geohot 分享其关于工作价值与创造性产出的个人哲学思考。"
+      },
+      {
+        "id": 47329557,
+        "title": "Cloudflare crawl endpoint",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+        "domain": "developers.cloudflare.com",
+        "score": 347,
+        "descendants": 135,
+        "by": "jeffpalmer",
+        "tags": [],
+        "summary": "Cloudflare 推出的新爬虫端点，旨在为用户提供更可控的自动化数据抓取服务。"
+      },
+      {
+        "id": 47329605,
+        "title": "U+237C ⍼ Is Azimuth",
+        "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+        "domain": "ionathan.ch",
+        "score": 339,
+        "descendants": 56,
+        "by": "cokernel_hacker",
+        "tags": [],
+        "summary": "深度考证 Unicode 字符 U+237C 的历史渊源及其作为方位角的定义。"
+      },
+      {
+        "id": 47324054,
+        "title": "Tony Hoare has died",
+        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "domain": "blog.computationalcomplexity.org",
+        "score": 1848,
+        "descendants": 241,
+        "by": "speckx",
+        "tags": [],
+        "summary": "缅怀图灵奖得主、快速排序算法发明者 Tony Hoare 的卓越学术生涯。"
+      },
+      {
+        "id": 47295855,
+        "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+        "url": "https://github.com/gcv/julia-snail",
+        "domain": "github.com",
+        "score": 97,
+        "descendants": 15,
+        "by": "TheWiggles",
+        "tags": [
+          "AI"
+        ],
+        "summary": "为 Julia 语言打造的 Emacs 开发环境，提供类似 Clojure Cider 的集成开发体验。"
+      },
+      {
+        "id": 47320600,
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "domain": "wired.com",
+        "score": 504,
+        "descendants": 407,
+        "by": "helloplanets",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Yann LeCun 筹集 10 亿美元，旨在研发具备物理世界感知能力的通用人工智能。"
+      },
+      {
+        "id": 47332054,
+        "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+        "url": "https://www.hume.ai/blog/opensource-tada",
+        "domain": "hume.ai",
+        "score": 62,
+        "descendants": 13,
+        "by": "smusamashah",
+        "tags": [],
+        "summary": "Hume AI 提出的 TADA 架构，通过文本与声学同步实现更快速可靠的语音生成。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "loopmaster.xyz",
+          "count": 1
+        },
+        {
+          "domain": "ziglang.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 405,
+      "max_score": {
+        "title": "Tony Hoare has died",
+        "score": 1848
+      },
+      "most_discussed": {
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "comments": 407
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于计算机科学界的重要时刻，包括图灵奖得主 Tony Hoare 逝世引发的广泛纪念，以及 AI 领域的大额融资与技术突破。同时，开发者社区对 Zig 语言的重大更新、硬件 DIY 项目及 Web 工具集成表现出高度关注。"
   }
 }
