@@ -334,5 +334,159 @@
       ]
     },
     "summary": "今日Hacker News重点讨论了AI在职场与内容生态中的深远影响，包括AI面试的兴起以及对人机交互真实性的反思。技术领域则聚焦于Web标准演进（Temporal、WebAssembly）及软件工程实践的效率瓶颈与安全性挑战。"
+  },
+  "evening": {
+    "time": "2026-03-12 20:52",
+    "stories": [
+      {
+        "id": 47349277,
+        "title": "Big Data on the Cheapest MacBook",
+        "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+        "domain": "duckdb.org",
+        "score": 56,
+        "descendants": 24,
+        "by": "bcye",
+        "tags": [],
+        "summary": "探讨如何在入门级 MacBook 上利用 DuckDB 高效处理大规模数据集的实战案例。"
+      },
+      {
+        "id": 47348304,
+        "title": "Dolphin Progress Release 2603",
+        "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+        "domain": "dolphin-emu.org",
+        "score": 79,
+        "descendants": 3,
+        "by": "BitPirate",
+        "tags": [],
+        "summary": "介绍 Dolphin 模拟器最新的 2603 版本更新及开发进展。"
+      },
+      {
+        "id": 47349334,
+        "title": "Are LLMs not getting better?",
+        "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+        "domain": "entropicthoughts.com",
+        "score": 52,
+        "descendants": 32,
+        "by": "4diii",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇深入探讨大语言模型（LLM）增长曲线是否正在趋于平缓的技术思辨文章。"
+      },
+      {
+        "id": 47347945,
+        "title": "3D-Knitting: The Ultimate Guide",
+        "url": "https://www.oliver-charles.com/pages/3d-knitting",
+        "domain": "oliver-charles.com",
+        "score": 119,
+        "descendants": 38,
+        "by": "ChadNauseam",
+        "tags": [],
+        "summary": "一份关于 3D 编织技术的综合指南，涵盖了从算法设计到制造工艺的全流程。"
+      },
+      {
+        "id": 47348192,
+        "title": "Avoiding Trigonometry (2013)",
+        "url": "https://iquilezles.org/articles/noacos/",
+        "domain": "iquilezles.org",
+        "score": 71,
+        "descendants": 15,
+        "by": "WithinReason",
+        "tags": [],
+        "summary": "通过经典博客文章回顾，探讨在图形编程中如何通过数学技巧规避三角函数计算以优化性能。"
+      },
+      {
+        "id": 47344548,
+        "title": "Show HN: s@: decentralized social networking over static sites",
+        "url": "http://satproto.org/",
+        "domain": "satproto.org",
+        "score": 328,
+        "descendants": 141,
+        "by": "remywang",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个基于静态网站实现去中心化社交网络的创新协议开源项目。"
+      },
+      {
+        "id": 47347362,
+        "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+        "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+        "domain": "research.gold.ac.uk",
+        "score": 73,
+        "descendants": 38,
+        "by": "pabs3",
+        "tags": [],
+        "summary": "深入分析 SBCL 如何作为一款可引导的 Common Lisp 实现，及其在编程语言演进中的历史价值。"
+      },
+      {
+        "id": 47336989,
+        "title": "Temporal: The 9-year journey to fix time in JavaScript",
+        "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+        "domain": "bloomberg.github.io",
+        "score": 719,
+        "descendants": 226,
+        "by": "robpalmer",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "回顾 JavaScript 引入 Temporal API 的九年历程，详细解析如何解决语言层面处理时间的长期痛点。"
+      },
+      {
+        "id": 47296645,
+        "title": "Printf-Tac-Toe",
+        "url": "https://github.com/carlini/printf-tac-toe",
+        "domain": "github.com",
+        "score": 54,
+        "descendants": 5,
+        "by": "carlos-menezes",
+        "tags": [],
+        "summary": "一个仅使用 C 语言 printf 函数实现的趣味井字棋游戏代码。"
+      },
+      {
+        "id": 47347064,
+        "title": "Returning to Rails in 2026",
+        "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+        "domain": "markround.com",
+        "score": 196,
+        "descendants": 114,
+        "by": "stanislavb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享在 2026 年重新回归使用 Ruby on Rails 框架的开发体验与思考。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "duckdb.org",
+          "count": 1
+        },
+        {
+          "domain": "dolphin-emu.org",
+          "count": 1
+        },
+        {
+          "domain": "entropicthoughts.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 175,
+      "max_score": {
+        "title": "Temporal: The 9-year journey to fix time in JavaScript",
+        "score": 719
+      },
+      "most_discussed": {
+        "title": "Temporal: The 9-year journey to fix time in JavaScript",
+        "comments": 226
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿技术探索与经典工程实践的碰撞，从 JavaScript 时间处理的标准化努力到大模型效能的深度辩论，展现了开发者社区在性能优化、分布式协议及全栈开发框架上的持续钻研。整体趋势显示，技术人员不仅关注新兴 LLM 范式，亦通过回顾早期编程哲学与基础设施建设来寻求架构灵活性。"
   }
 }
