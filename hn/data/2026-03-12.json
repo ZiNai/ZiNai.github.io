@@ -1,0 +1,171 @@
+{
+  "morning": {
+    "time": "2026-03-12 08:58",
+    "stories": [
+      {
+        "id": 47336989,
+        "title": "Temporal: A nine-year journey to fix time in JavaScript",
+        "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+        "domain": "bloomberg.github.io",
+        "score": 497,
+        "descendants": 168,
+        "by": "robpalmer",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "探讨Temporal API如何解决JavaScript中长期存在的时间与日期处理痛点。"
+      },
+      {
+        "id": 47341645,
+        "title": "Many SWE-bench-Passing PRs would not be merged",
+        "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+        "domain": "metr.org",
+        "score": 111,
+        "descendants": 23,
+        "by": "mustaphah",
+        "tags": [],
+        "summary": "研究指出目前SWE-bench评估中的许多AI代码贡献在现实工程实践中并不符合合并标准。"
+      },
+      {
+        "id": 47340079,
+        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+        "domain": "news.ycombinator.com",
+        "score": 2607,
+        "descendants": 957,
+        "by": "usefulposter",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Hacker News官方发布公告，严禁发布AI生成的评论，强调维护人类对话质量的重要性。"
+      },
+      {
+        "id": 47331811,
+        "title": "Making WebAssembly a first-class language on the Web",
+        "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+        "domain": "hacks.mozilla.org",
+        "score": 383,
+        "descendants": 144,
+        "by": "mikece",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "Mozilla分享将WebAssembly打造为Web开发一等公民的愿景与技术规划。"
+      },
+      {
+        "id": 47343927,
+        "title": "Show HN: A context-aware permission guard for Claude Code",
+        "url": "https://github.com/manuelschipper/nah/",
+        "domain": "github.com",
+        "score": 16,
+        "descendants": 12,
+        "by": "schipperai",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "介绍一款专门为Claude Code定制的上下文感知权限防护工具。"
+      },
+      {
+        "id": 47337607,
+        "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+        "url": "https://sitespy.app",
+        "domain": "sitespy.app",
+        "score": 157,
+        "descendants": 45,
+        "by": "vkuprin",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "推荐一个可以监控网页变更并自动将其转化为RSS订阅源的便捷工具。"
+      },
+      {
+        "id": 47339164,
+        "title": "I was interviewed by an AI bot for a job",
+        "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+        "domain": "theverge.com",
+        "score": 120,
+        "descendants": 126,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享求职者在面试过程中遭遇AI机器人进行筛选的真实经历与困惑。"
+      },
+      {
+        "id": 47343935,
+        "title": "Show HN: Autoresearch@home",
+        "url": "https://www.ensue-network.ai/autoresearch",
+        "domain": "ensue-network.ai",
+        "score": 21,
+        "descendants": 9,
+        "by": "austinbaggio",
+        "tags": [
+          "Show HN",
+          "Science"
+        ],
+        "summary": "展示一个支持分布式自主研究任务的平台项目。"
+      },
+      {
+        "id": 47336476,
+        "title": "Google closes deal to acquire Wiz",
+        "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+        "domain": "wiz.io",
+        "score": 222,
+        "descendants": 148,
+        "by": "aldarisbm",
+        "tags": [],
+        "summary": "报道谷歌正式完成对云安全独角兽Wiz的收购交易。"
+      },
+      {
+        "id": 47296461,
+        "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
+        "url": "https://poloclub.github.io/cnn-explainer/",
+        "domain": "poloclub.github.io",
+        "score": 8,
+        "descendants": 0,
+        "by": "vismit2000",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "重温一款能够直接在浏览器中交互式学习卷积神经网络结构的经典教学工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bloomberg.github.io",
+          "count": 1
+        },
+        {
+          "domain": "metr.org",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 414,
+      "max_score": {
+        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+        "score": 2607
+      },
+      "most_discussed": {
+        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+        "comments": 957
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在AI对开发环境与工作方式的深远影响，社区就AI生成内容的边界展开了激烈讨论。同时，技术基础设施领域的进展，如JavaScript的时间处理改进与WebAssembly的发展，依然保持着极高的关注度。"
+  }
+}
