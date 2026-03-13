@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-03-13 09:04",
+    "stories": [
+      {
+        "id": 47357042,
+        "title": "Shall I implement it? No",
+        "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+        "domain": "gist.github.com",
+        "score": 732,
+        "descendants": 262,
+        "by": "breton",
+        "tags": [],
+        "summary": "探讨开发者在面对复杂功能实现时的决策考量与原则。"
+      },
+      {
+        "id": 47359136,
+        "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+        "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+        "domain": "theguardian.com",
+        "score": 20,
+        "descendants": 2,
+        "by": "danso",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道因AI面部识别误判导致无辜者被监禁的严重法律争议。"
+      },
+      {
+        "id": 47350424,
+        "title": "Malus – Clean Room as a Service",
+        "url": "https://malus.sh",
+        "domain": "malus.sh",
+        "score": 1015,
+        "descendants": 396,
+        "by": "microflash",
+        "tags": [],
+        "summary": "介绍提供“无尘室”开发环境的Malus平台。"
+      },
+      {
+        "id": 47354098,
+        "title": "Bubble Sorted Amen Break",
+        "url": "https://parametricavocado.itch.io/amen-sorting",
+        "domain": "parametricavocado.itch.io",
+        "score": 254,
+        "descendants": 86,
+        "by": "eieio",
+        "tags": [],
+        "summary": "通过冒泡排序算法处理经典鼓点采样的创意音频实验。"
+      },
+      {
+        "id": 47353533,
+        "title": "Reversing memory loss via gut-brain communication",
+        "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+        "domain": "med.stanford.edu",
+        "score": 219,
+        "descendants": 84,
+        "by": "mustaphah",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "解析通过肠脑轴通信途径逆转记忆衰退的科研进展。"
+      },
+      {
+        "id": 47351371,
+        "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+        "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+        "domain": "davidoks.blog",
+        "score": 319,
+        "descendants": 365,
+        "by": "colinprince",
+        "tags": [],
+        "summary": "分析技术普及如何从根本上改变银行业务逻辑及柜员岗位需求。"
+      },
+      {
+        "id": 47352459,
+        "title": "The Met releases high-def 3D scans of 140 famous art objects",
+        "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+        "domain": "openculture.com",
+        "score": 214,
+        "descendants": 43,
+        "by": "coloneltcb",
+        "tags": [],
+        "summary": "大都会博物馆发布大量高精度艺术品3D扫描数据供公众使用。"
+      },
+      {
+        "id": 47350407,
+        "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+        "url": "https://aminrj.com/posts/rag-document-poisoning/",
+        "domain": "aminrj.com",
+        "score": 57,
+        "descendants": 24,
+        "by": "aminerj",
+        "tags": [
+          "AI"
+        ],
+        "summary": "剖析RAG系统中针对文档的数据投毒攻击及其风险。"
+      },
+      {
+        "id": 47356968,
+        "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+        "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+        "domain": "grandforksherald.com",
+        "score": 359,
+        "descendants": 188,
+        "by": "rectang",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度追踪因AI识别错误导致的冤狱案例及其社会影响。"
+      },
+      {
+        "id": 47309940,
+        "title": "Understanding the Go Runtime: The Scheduler",
+        "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+        "domain": "internals-for-interns.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "valyala",
+        "tags": [],
+        "summary": "深入剖析Go语言运行时调度器的工作机制与架构设计。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gist.github.com",
+          "count": 1
+        },
+        {
+          "domain": "theguardian.com",
+          "count": 1
+        },
+        {
+          "domain": "malus.sh",
+          "count": 1
+        }
+      ],
+      "avg_score": 320,
+      "max_score": {
+        "title": "Malus – Clean Room as a Service",
+        "score": 1015
+      },
+      "most_discussed": {
+        "title": "Malus – Clean Room as a Service",
+        "comments": 396
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出对人工智能技术的审慎与批判性关注，AI面部识别的法律后果与数据安全风险成为焦点。同时，技术社区对开源工具构建、系统底层原理及跨领域科学研究保持着浓厚兴趣。"
+  }
+}
