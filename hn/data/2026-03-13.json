@@ -300,5 +300,158 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了技术工程实践、生产力哲学及生物医疗前沿。讨论热点集中在软件开发决策的博弈、自动化工具的创新应用，以及技术演进对社会就业模式的深远影响。"
+  },
+  "evening": {
+    "time": "2026-03-13 20:51",
+    "stories": [
+      {
+        "id": 47361913,
+        "title": "Bucketsquatting is (finally) dead",
+        "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
+        "domain": "onecloudplease.com",
+        "score": 150,
+        "descendants": 68,
+        "by": "boyter",
+        "tags": [],
+        "summary": "介绍Bucketsquatting攻击手法及其防御机制的终结。"
+      },
+      {
+        "id": 47362528,
+        "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+        "url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+        "domain": "old.reddit.com",
+        "score": 293,
+        "descendants": 85,
+        "by": "shaicoleman",
+        "tags": [],
+        "summary": "揭露了推动年龄验证法案背后的巨额资金流向与各州游说活动。"
+      },
+      {
+        "id": 47363074,
+        "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+        "url": "https://prompt-caching.ai/",
+        "domain": "prompt-caching.ai",
+        "score": 25,
+        "descendants": 11,
+        "by": "ermis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款能自动注入Anthropic缓存断点的工具，号称可实现90%的Token节省。"
+      },
+      {
+        "id": 47362613,
+        "title": "TUI Studio – visual terminal UI design tool",
+        "url": "https://tui.studio/",
+        "domain": "tui.studio",
+        "score": 40,
+        "descendants": 17,
+        "by": "mipselaer",
+        "tags": [],
+        "summary": "一个专为终端用户界面（TUI）设计的可视化开发工具。"
+      },
+      {
+        "id": 47307124,
+        "title": "Willingness to look stupid",
+        "url": "https://sharif.io/looking-stupid",
+        "domain": "sharif.io",
+        "score": 438,
+        "descendants": 152,
+        "by": "Samin100",
+        "tags": [],
+        "summary": "探讨在专业领域中保持“愿意显得愚蠢”心态对学习与成长的积极作用。"
+      },
+      {
+        "id": 47348275,
+        "title": "Executing programs inside transformers with exponentially faster inference",
+        "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+        "domain": "percepta.ai",
+        "score": 157,
+        "descendants": 40,
+        "by": "u1hcw9nx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提出一种在Transformer内部直接执行程序的方法，大幅提升模型推理速度。"
+      },
+      {
+        "id": 47362350,
+        "title": "Source code of Swedish e-government services has been leaked",
+        "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+        "domain": "darkwebinformer.com",
+        "score": 102,
+        "descendants": 75,
+        "by": "tavro",
+        "tags": [],
+        "summary": "瑞典电子政务服务的源代码疑似发生泄露。"
+      },
+      {
+        "id": 47309397,
+        "title": "Okmain: How to pick an OK main colour of an image",
+        "url": "https://dgroshev.com/blog/okmain/",
+        "domain": "dgroshev.com",
+        "score": 49,
+        "descendants": 7,
+        "by": "dgroshev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍如何从图片中选取最合适的“主色调”的算法与方法。"
+      },
+      {
+        "id": 47350424,
+        "title": "Malus – Clean Room as a Service",
+        "url": "https://malus.sh",
+        "domain": "malus.sh",
+        "score": 1322,
+        "descendants": 479,
+        "by": "microflash",
+        "tags": [],
+        "summary": "一种名为Malus的“净室（Clean Room）即服务”平台，引发广泛讨论。"
+      },
+      {
+        "id": 47325296,
+        "title": "Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)",
+        "url": "https://88mph.fm/",
+        "domain": "88mph.fm",
+        "score": 22,
+        "descendants": 8,
+        "by": "matteocantiello",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "可视化展示1940年至2025年间全球20个国家的音乐流行趋势。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "onecloudplease.com",
+          "count": 1
+        },
+        {
+          "domain": "old.reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "prompt-caching.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 260,
+      "max_score": {
+        "title": "Malus – Clean Room as a Service",
+        "score": 1322
+      },
+      "most_discussed": {
+        "title": "Malus – Clean Room as a Service",
+        "comments": 479
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了网络安全漏洞治理、AI技术的降本增效及模型推理优化，以及对公共政策透明度和数字工具创新的探讨。整体趋势显示开发者群体对AI生产力工具与基础设施安全性表现出极高的关注度。"
   }
 }
