@@ -152,5 +152,153 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出对人工智能技术的审慎与批判性关注，AI面部识别的法律后果与数据安全风险成为焦点。同时，技术社区对开源工具构建、系统底层原理及跨领域科学研究保持着浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-03-13 13:08",
+    "stories": [
+      {
+        "id": 47307124,
+        "title": "Willingness to look stupid",
+        "url": "https://sharif.io/looking-stupid",
+        "domain": "sharif.io",
+        "score": 46,
+        "descendants": 9,
+        "by": "Samin100",
+        "tags": [],
+        "summary": "探讨在学习和职业成长中，保持开放心态、敢于表现出“无知”对于进步的重要性。"
+      },
+      {
+        "id": 47350424,
+        "title": "Malus – Clean Room as a Service",
+        "url": "https://malus.sh",
+        "domain": "malus.sh",
+        "score": 1131,
+        "descendants": 421,
+        "by": "microflash",
+        "tags": [],
+        "summary": "介绍一款提供“洁净室即服务”的工具，旨在简化软件开发环境的隔离与测试流程。"
+      },
+      {
+        "id": 47360243,
+        "title": "Can you instruct a robot to make a PBJ sandwich?",
+        "url": "https://pbj.deliberateinc.com/",
+        "domain": "pbj.deliberateinc.com",
+        "score": 17,
+        "descendants": 20,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "探讨机器人执行日常任务（如制作三明治）时，在指令理解与物理操作层面面临的挑战。"
+      },
+      {
+        "id": 47357042,
+        "title": "Shall I implement it? No",
+        "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+        "domain": "gist.github.com",
+        "score": 1059,
+        "descendants": 402,
+        "by": "breton",
+        "tags": [],
+        "summary": "通过程序员的视角，分析为什么拒绝实现某个功能或需求往往比盲目执行更具价值。"
+      },
+      {
+        "id": 47354098,
+        "title": "Bubble Sorted Amen Break",
+        "url": "https://parametricavocado.itch.io/amen-sorting",
+        "domain": "parametricavocado.itch.io",
+        "score": 292,
+        "descendants": 90,
+        "by": "eieio",
+        "tags": [],
+        "summary": "将经典的 Amen Break 鼓点采样通过冒泡排序算法进行音频处理，展示技术与音乐的趣味结合。"
+      },
+      {
+        "id": 47360383,
+        "title": "Hyperlinks in Terminal Emulators",
+        "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+        "domain": "gist.github.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "nvahalik",
+        "tags": [],
+        "summary": "探讨在终端模拟器中实现超链接跳转的技术实现细节与交互改进。"
+      },
+      {
+        "id": 47353533,
+        "title": "Reversing memory loss via gut-brain communication",
+        "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+        "domain": "med.stanford.edu",
+        "score": 273,
+        "descendants": 108,
+        "by": "mustaphah",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "斯坦福研究指出，通过调节肠脑轴通信，有望在动物实验中逆转记忆丧失。"
+      },
+      {
+        "id": 47351371,
+        "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+        "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+        "domain": "davidoks.blog",
+        "score": 375,
+        "descendants": 402,
+        "by": "colinprince",
+        "tags": [],
+        "summary": "对比分析表明，ATM并未导致银行柜员消失，但智能手机普及带来的数字化转型确实重塑了相关就业市场。"
+      },
+      {
+        "id": 47359744,
+        "title": "“This is not the computer for you”",
+        "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+        "domain": "samhenri.gold",
+        "score": 176,
+        "descendants": 94,
+        "by": "MBCook",
+        "tags": [],
+        "summary": "反思现代硬件与软件生态中，特定设计哲学如何限制了用户的自主权与灵活性。"
+      },
+      {
+        "id": 47309940,
+        "title": "Understanding the Go Runtime: The Scheduler",
+        "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+        "domain": "internals-for-interns.com",
+        "score": 61,
+        "descendants": 3,
+        "by": "valyala",
+        "tags": [],
+        "summary": "深入解析 Go 语言运行时的调度器工作机制，揭示其高效并发执行的底层逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gist.github.com",
+          "count": 2
+        },
+        {
+          "domain": "sharif.io",
+          "count": 1
+        },
+        {
+          "domain": "malus.sh",
+          "count": 1
+        }
+      ],
+      "avg_score": 344,
+      "max_score": {
+        "title": "Malus – Clean Room as a Service",
+        "score": 1131
+      },
+      "most_discussed": {
+        "title": "Malus – Clean Room as a Service",
+        "comments": 421
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了技术工程实践、生产力哲学及生物医疗前沿。讨论热点集中在软件开发决策的博弈、自动化工具的创新应用，以及技术演进对社会就业模式的深远影响。"
   }
 }
