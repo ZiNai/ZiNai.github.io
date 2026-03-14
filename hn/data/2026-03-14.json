@@ -1,0 +1,167 @@
+{
+  "morning": {
+    "time": "2026-03-14 09:03",
+    "stories": [
+      {
+        "id": 47367129,
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "url": "https://claude.com/blog/1m-context-ga",
+        "domain": "claude.com",
+        "score": 109,
+        "descendants": 23,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic宣布Claude Opus 4.6与Sonnet 4.6模型现已全面支持100万token长上下文窗口。"
+      },
+      {
+        "id": 47371064,
+        "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+        "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+        "domain": "benzimmermann.dev",
+        "score": 64,
+        "descendants": 17,
+        "by": "kernelrocks",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "研究发现开源文档网站中意外泄露了39个Algolia管理密钥，揭示了配置安全的普遍漏洞。"
+      },
+      {
+        "id": 47363754,
+        "title": "Can I run AI locally?",
+        "url": "https://www.canirun.ai/",
+        "domain": "canirun.ai",
+        "score": 899,
+        "descendants": 235,
+        "by": "ricardbejarano",
+        "tags": [
+          "AI"
+        ],
+        "summary": "该平台详细解析了用户如何在本地设备上部署和运行各类AI大模型。"
+      },
+      {
+        "id": 47336100,
+        "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+        "url": "https://channelsurfer.tv",
+        "domain": "channelsurfer.tv",
+        "score": 396,
+        "descendants": 136,
+        "by": "kilroy123",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "这是一个仿照传统电视轮播体验的YouTube内容浏览工具。"
+      },
+      {
+        "id": 47368033,
+        "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+        "url": "https://github.com/TomBadash/MouseControl",
+        "domain": "github.com",
+        "score": 178,
+        "descendants": 57,
+        "by": "avionics-guy",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Mouser是一款针对罗技鼠标的开源软件替代方案，旨在提供更简洁的驱动管理。"
+      },
+      {
+        "id": 47367932,
+        "title": "Hammerspoon",
+        "url": "https://github.com/Hammerspoon/hammerspoon",
+        "domain": "github.com",
+        "score": 194,
+        "descendants": 75,
+        "by": "tosh",
+        "tags": [],
+        "summary": "Hammerspoon是一个强大的自动化工具，允许用户通过Lua脚本深度定制macOS系统行为。"
+      },
+      {
+        "id": 47363584,
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+        "domain": "tomshardware.com",
+        "score": 401,
+        "descendants": 379,
+        "by": "johnbarron",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "卡塔尔氦气生产中断可能在未来两周内对全球半导体制造供应链造成干扰。"
+      },
+      {
+        "id": 47321579,
+        "title": "OpenTelemetry for Rust Developers",
+        "url": "https://signoz.io/blog/opentelemetry-rust/",
+        "domain": "signoz.io",
+        "score": 21,
+        "descendants": 3,
+        "by": "dhruv_ahuja",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一份面向Rust开发者的OpenTelemetry实践指南，涵盖可观测性集成方案。"
+      },
+      {
+        "id": 47364729,
+        "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+        "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+        "domain": "macrumors.com",
+        "score": 183,
+        "descendants": 242,
+        "by": "tosh",
+        "tags": [],
+        "summary": "Parallels官方确认MacBook Neo可通过虚拟机顺利运行Windows系统。"
+      },
+      {
+        "id": 47370822,
+        "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
+        "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+        "domain": "haitiantimes.com",
+        "score": 110,
+        "descendants": 48,
+        "by": "e12e",
+        "tags": [
+          "AI"
+        ],
+        "summary": "人权观察组织披露海地无人机袭击已造成约1250人死亡，引发国际社会关注。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "claude.com",
+          "count": 1
+        },
+        {
+          "domain": "benzimmermann.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 256,
+      "max_score": {
+        "title": "Can I run AI locally?",
+        "score": 899
+      },
+      "most_discussed": {
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "comments": 379
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Show HN",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术应用与基础设施安全，用户对本地运行AI模型表现出浓厚兴趣，同时Claude推出的百万上下文窗口也引发关注。此外，行业话题涵盖了半导体供应链风险、开源工具创新以及全球安全局势，反映了技术社区对软硬件前沿动向的持续跟踪。"
+  }
+}
