@@ -325,5 +325,164 @@
       ]
     },
     "summary": "本期Hacker News热门话题聚焦于AI技术的快速迭代，包括模型上下文窗口的扩展及本地运行AI的探索。此外，供应链安全、开发者工具创新以及对数字教育软件的深度评估也成为了社区讨论的热点。"
+  },
+  "evening": {
+    "time": "2026-03-14 20:41",
+    "stories": [
+      {
+        "id": 47375682,
+        "title": "Claude Code conducts A/B tests on core features",
+        "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+        "domain": "backnotprop.com",
+        "score": 87,
+        "descendants": 60,
+        "by": "ramoz",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Code 被曝正在对其核心功能进行 A/B 测试，引发开发者关于产品迭代策略的讨论。"
+      },
+      {
+        "id": 47367129,
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "url": "https://claude.com/blog/1m-context-ga",
+        "domain": "claude.com",
+        "score": 816,
+        "descendants": 320,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Opus 4.6 与 Sonnet 4.6 正式支持 1M 超长上下文，极大提升了模型处理长文档的能力。"
+      },
+      {
+        "id": 47375764,
+        "title": "XML Is a Cheap DSL",
+        "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+        "domain": "unplannedobsolescence.com",
+        "score": 17,
+        "descendants": 0,
+        "by": "y1n0",
+        "tags": [],
+        "summary": "探讨了 XML 作为一种低成本、通用领域特定语言（DSL）的实用性与架构优势。"
+      },
+      {
+        "id": 47339219,
+        "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+        "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+        "domain": "crowdsupply.com",
+        "score": 58,
+        "descendants": 7,
+        "by": "timhh",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "详细介绍了 Baochip-1x 项目的开发背景、目标及其在当前技术环境下的意义。"
+      },
+      {
+        "id": 47374745,
+        "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+        "url": "https://github.com/drojaazu/megadev",
+        "domain": "github.com",
+        "score": 24,
+        "descendants": 0,
+        "by": "XzetaU8",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一个专为 Sega Mega Drive 和 Mega CD 硬件设计的开发套件，旨在降低复古平台的游戏开发门槛。"
+      },
+      {
+        "id": 47363584,
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+        "domain": "tomshardware.com",
+        "score": 619,
+        "descendants": 524,
+        "by": "johnbarron",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "卡塔尔氦气设施停产威胁全球芯片制造供应链，工业界正面临两周紧迫的供应缺口压力。"
+      },
+      {
+        "id": 47347920,
+        "title": "The Isolation Trap: Erlang",
+        "url": "https://causality.blog/essays/the-isolation-trap/",
+        "domain": "causality.blog",
+        "score": 71,
+        "descendants": 17,
+        "by": "enz",
+        "tags": [],
+        "summary": "深入剖析 Erlang 语言的隔离机制，讨论其在分布式系统设计中可能带来的潜在局限性。"
+      },
+      {
+        "id": 47323625,
+        "title": "You gotta think outside the hypercube",
+        "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+        "domain": "lcamtuf.substack.com",
+        "score": 79,
+        "descendants": 23,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "鼓励开发者打破思维定式，跳出传统逻辑架构去思考复杂问题的解决方案。"
+      },
+      {
+        "id": 47318386,
+        "title": "A Survival Guide to a PhD (2016)",
+        "url": "http://karpathy.github.io/2016/09/07/phd/",
+        "domain": "karpathy.github.io",
+        "score": 120,
+        "descendants": 66,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "Karpathy 分享的经典 PhD 生存指南，为科研工作者提供关于学术生活与心理建设的实用建议。"
+      },
+      {
+        "id": 47336100,
+        "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+        "url": "https://channelsurfer.tv",
+        "domain": "channelsurfer.tv",
+        "score": 530,
+        "descendants": 157,
+        "by": "kilroy123",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个有趣的 Web 项目，通过模拟电视选台体验，让用户以随机流的形式观看 YouTube 内容。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "backnotprop.com",
+          "count": 1
+        },
+        {
+          "domain": "claude.com",
+          "count": 1
+        },
+        {
+          "domain": "unplannedobsolescence.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 242,
+      "max_score": {
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "score": 816
+      },
+      "most_discussed": {
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "comments": 524
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News聚焦人工智能生态的最新进展，Claude系列模型的大幅更新与功能测试引发高度关注。同时，芯片供应链风险及复古硬件开发项目也成为社区讨论的焦点，展现了从前沿AI技术到硬核工程技术的多元化关注趋势。"
   }
 }
