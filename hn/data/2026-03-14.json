@@ -163,5 +163,167 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术应用与基础设施安全，用户对本地运行AI模型表现出浓厚兴趣，同时Claude推出的百万上下文窗口也引发关注。此外，行业话题涵盖了半导体供应链风险、开源工具创新以及全球安全局势，反映了技术社区对软硬件前沿动向的持续跟踪。"
+  },
+  "noon": {
+    "time": "2026-03-14 13:06",
+    "stories": [
+      {
+        "id": 47367129,
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "url": "https://claude.com/blog/1m-context-ga",
+        "domain": "claude.com",
+        "score": 461,
+        "descendants": 168,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude 3.5 Opus与Sonnet模型现已全面支持100万上下文窗口，大幅提升长文本处理能力。"
+      },
+      {
+        "id": 47363754,
+        "title": "Can I run AI locally?",
+        "url": "https://www.canirun.ai/",
+        "domain": "canirun.ai",
+        "score": 1061,
+        "descendants": 274,
+        "by": "ricardbejarano",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对想要本地运行AI模型的新手，该网站提供了全面的硬件建议与软件工具指南。"
+      },
+      {
+        "id": 47371064,
+        "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+        "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+        "domain": "benzimmermann.dev",
+        "score": 103,
+        "descendants": 23,
+        "by": "kernelrocks",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "安全研究员在开源文档网站中发现了39个泄露的Algolia管理员密钥，揭示了配置安全隐患。"
+      },
+      {
+        "id": 47336100,
+        "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+        "url": "https://channelsurfer.tv",
+        "domain": "channelsurfer.tv",
+        "score": 445,
+        "descendants": 142,
+        "by": "kilroy123",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Channel Surfer是一款让用户像切换有线电视频道一样浏览YouTube内容的娱乐工具。"
+      },
+      {
+        "id": 47363584,
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+        "domain": "tomshardware.com",
+        "score": 486,
+        "descendants": 439,
+        "by": "johnbarron",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "卡塔尔氦气工厂的停产引发了全球芯片供应链危机，半导体生产面临两周内的供应风险。"
+      },
+      {
+        "id": 47368033,
+        "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+        "url": "https://github.com/TomBadash/MouseControl",
+        "domain": "github.com",
+        "score": 249,
+        "descendants": 74,
+        "by": "avionics-guy",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Mouser是一个开源的鼠标驱动替代方案，旨在提供比官方Logi-Plus更轻量的控制体验。"
+      },
+      {
+        "id": 47372672,
+        "title": "Optimizing Content for Agents",
+        "url": "https://cra.mr/optimizing-content-for-agents/",
+        "domain": "cra.mr",
+        "score": 19,
+        "descendants": 12,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "探讨了如何针对AI Agent优化网页内容，使其更易于被机器阅读和调用。"
+      },
+      {
+        "id": 47367932,
+        "title": "Hammerspoon",
+        "url": "https://github.com/Hammerspoon/hammerspoon",
+        "domain": "github.com",
+        "score": 250,
+        "descendants": 88,
+        "by": "tosh",
+        "tags": [],
+        "summary": "Hammerspoon是一个功能强大的开源框架，通过Lua脚本实现对macOS系统的自动化控制。"
+      },
+      {
+        "id": 47319071,
+        "title": "Emacs and Vim in the Age of AI",
+        "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+        "domain": "batsov.com",
+        "score": 27,
+        "descendants": 5,
+        "by": "psibi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析了在人工智能时代，经典的Emacs与Vim编辑器如何演进以保持生产力优势。"
+      },
+      {
+        "id": 47371922,
+        "title": "Our Experience with I-Ready",
+        "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+        "domain": "moultano.wordpress.com",
+        "score": 48,
+        "descendants": 13,
+        "by": "barry-cotter",
+        "tags": [],
+        "summary": "用户分享了使用I-Ready在线学习平台的心得体会及相关教育技术评估。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "claude.com",
+          "count": 1
+        },
+        {
+          "domain": "canirun.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 315,
+      "max_score": {
+        "title": "Can I run AI locally?",
+        "score": 1061
+      },
+      "most_discussed": {
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "comments": 439
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门话题聚焦于AI技术的快速迭代，包括模型上下文窗口的扩展及本地运行AI的探索。此外，供应链安全、开发者工具创新以及对数字教育软件的深度评估也成为了社区讨论的热点。"
   }
 }
