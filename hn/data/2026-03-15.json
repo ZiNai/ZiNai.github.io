@@ -159,5 +159,163 @@
       ]
     },
     "summary": "本期 Hacker News 焦点涵盖了开源操作系统与编程语言的创新实践，以及科技行业在AI生态与地缘政策上的最新动态。同时，环保健康议题与生物科学的新发现也引发了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-03-15 13:24",
+    "stories": [
+      {
+        "id": 47384352,
+        "title": "Rack-Mount Hydroponics",
+        "url": "https://sa.lj.am/rack-mount-hydroponics/",
+        "domain": "sa.lj.am",
+        "score": 28,
+        "descendants": 2,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "介绍一种用于家庭环境的高效机架式水耕栽培系统设计。"
+      },
+      {
+        "id": 47374924,
+        "title": "Mathematics Distillation Challenge – Equational Theories",
+        "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+        "domain": "terrytao.wordpress.com",
+        "score": 40,
+        "descendants": 2,
+        "by": "picafrost",
+        "tags": [],
+        "summary": "数学家陶哲轩发起关于等式理论的数学蒸馏挑战。"
+      },
+      {
+        "id": 47383059,
+        "title": "Tree Search Distillation for Language Models Using PPO",
+        "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+        "domain": "ayushtambde.com",
+        "score": 42,
+        "descendants": 1,
+        "by": "at2005",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提出一种结合 PPO 算法与树搜索的语言模型蒸馏技术。"
+      },
+      {
+        "id": 47381791,
+        "title": "Ageless Linux – Software for humans of indeterminate age",
+        "url": "https://agelesslinux.org/",
+        "domain": "agelesslinux.org",
+        "score": 467,
+        "descendants": 312,
+        "by": "nateb2022",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一个旨在为各年龄段用户提供长效支持的 Linux 发行版项目。"
+      },
+      {
+        "id": 47381382,
+        "title": "Show HN: Han – A Korean programming language written in Rust",
+        "url": "https://github.com/xodn348/han",
+        "domain": "github.com",
+        "score": 133,
+        "descendants": 82,
+        "by": "xodn348",
+        "tags": [
+          "Rust",
+          "Show HN"
+        ],
+        "summary": "一个由 Rust 编写、以韩语为语法核心的实验性编程语言。"
+      },
+      {
+        "id": 47382398,
+        "title": "SBCL Fibers – Lightweight Cooperative Threads",
+        "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+        "domain": "atgreen.github.io",
+        "score": 62,
+        "descendants": 7,
+        "by": "anonzzzies",
+        "tags": [],
+        "summary": "探讨如何在 SBCL 中实现轻量级协作式线程库。"
+      },
+      {
+        "id": 47381011,
+        "title": "Bumblebee queens breathe underwater to survive drowning",
+        "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+        "domain": "smithsonianmag.com",
+        "score": 94,
+        "descendants": 22,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "科学发现显示大黄蜂蜂后能通过水下呼吸机制在淹没状态下存活。"
+      },
+      {
+        "id": 47381340,
+        "title": "Launching the Claude Partner Network",
+        "url": "https://www.anthropic.com/news/claude-partner-network",
+        "domain": "anthropic.com",
+        "score": 118,
+        "descendants": 50,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 官方宣布启动 Claude 合作伙伴网络以拓展生态。"
+      },
+      {
+        "id": 47381736,
+        "title": "Allow me to get to know you, mistakes and all",
+        "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+        "domain": "sebi.io",
+        "score": 66,
+        "descendants": 19,
+        "by": "sebi_io",
+        "tags": [],
+        "summary": "一篇探讨接纳个人瑕疵与自我认知重要性的深度随笔。"
+      },
+      {
+        "id": 47382791,
+        "title": "How Kernel Anti-Cheats Work",
+        "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+        "domain": "s4dbrd.github.io",
+        "score": 91,
+        "descendants": 72,
+        "by": "davikr",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "详细解析游戏内核级反作弊系统的技术架构与防御逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sa.lj.am",
+          "count": 1
+        },
+        {
+          "domain": "terrytao.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "ayushtambde.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 114,
+      "max_score": {
+        "title": "Ageless Linux – Software for humans of indeterminate age",
+        "score": 467
+      },
+      "most_discussed": {
+        "title": "Ageless Linux – Software for humans of indeterminate age",
+        "comments": 312
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Rust",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点涵盖了从系统编程、人工智能模型优化到趣味跨学科知识的广泛议题。开发者对于内核安全、编程语言创新及 AI 技术架构表现出浓厚兴趣，同时 Linux 生态系统的新尝试也引发了社区的大规模讨论。"
   }
 }
