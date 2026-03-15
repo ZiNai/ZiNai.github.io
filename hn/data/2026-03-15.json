@@ -317,5 +317,161 @@
       ]
     },
     "summary": "本期 Hacker News 焦点涵盖了从系统编程、人工智能模型优化到趣味跨学科知识的广泛议题。开发者对于内核安全、编程语言创新及 AI 技术架构表现出浓厚兴趣，同时 Linux 生态系统的新尝试也引发了社区的大规模讨论。"
+  },
+  "evening": {
+    "time": "2026-03-15 20:43",
+    "stories": [
+      {
+        "id": 47385935,
+        "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+        "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+        "domain": "github.com",
+        "score": 122,
+        "descendants": 53,
+        "by": "ZacnyLos",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一位开发者使用廉价传感器打造并成功发射了一枚能够实时修正飞行轨迹的3D打印火箭。"
+      },
+      {
+        "id": 47386116,
+        "title": "A Visual Introduction to Machine Learning",
+        "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+        "domain": "r2d3.us",
+        "score": 79,
+        "descendants": 4,
+        "by": "vismit2000",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过可视化手段深入浅出地讲解机器学习的基本工作原理与模型构建逻辑。"
+      },
+      {
+        "id": 47386441,
+        "title": "Generating All 32-Bit Primes (Part I)",
+        "url": "https://hnlyman.github.io/pages/prime32_I.html",
+        "domain": "hnlyman.github.io",
+        "score": 16,
+        "descendants": 3,
+        "by": "hnlyman",
+        "tags": [],
+        "summary": "探讨高效生成所有32位质数的算法实现及相关技术挑战。"
+      },
+      {
+        "id": 47384352,
+        "title": "Rack-mount hydroponics",
+        "url": "https://sa.lj.am/rack-mount-hydroponics/",
+        "domain": "sa.lj.am",
+        "score": 206,
+        "descendants": 48,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "介绍一种将机架式空间转化为高效室内水培系统的工程设计方案。"
+      },
+      {
+        "id": 47385272,
+        "title": "The Appalling Stupidity of Spotify's AI DJ",
+        "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+        "domain": "charlespetzold.com",
+        "score": 191,
+        "descendants": 163,
+        "by": "ingve",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者犀利批评Spotify AI DJ功能在审美与智能推荐层面的糟糕体验。"
+      },
+      {
+        "id": 47386581,
+        "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+        "url": "https://signet.watch",
+        "domain": "signet.watch",
+        "score": 4,
+        "descendants": 0,
+        "by": "mapldx",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个旨在利用卫星图像与气象数据进行自动化山火追踪的开源项目。"
+      },
+      {
+        "id": 47335325,
+        "title": "Why Mathematica does not simplify sinh(arccosh(x))",
+        "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+        "domain": "johndcook.com",
+        "score": 89,
+        "descendants": 20,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "深入分析Mathematica等数学软件在处理双曲函数简化逻辑时的底层决策机制。"
+      },
+      {
+        "id": 47334668,
+        "title": "Examples for the tcpdump and dig man pages",
+        "url": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+        "domain": "jvns.ca",
+        "score": 22,
+        "descendants": 3,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "整理了一份关于tcpdump和dig命令行工具的高频使用示例指南。"
+      },
+      {
+        "id": 47384032,
+        "title": "A most elegant TCP hole punching algorithm",
+        "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+        "domain": "robertsdotpm.github.io",
+        "score": 115,
+        "descendants": 44,
+        "by": "Uptrenda",
+        "tags": [],
+        "summary": "分享了一种被认为非常优雅的TCP打洞算法，旨在解决复杂网络下的P2P连接问题。"
+      },
+      {
+        "id": 47382791,
+        "title": "How kernel anti-cheats work",
+        "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+        "domain": "s4dbrd.github.io",
+        "score": 226,
+        "descendants": 196,
+        "by": "davikr",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入浅出地剖析了基于内核级别的反作弊系统是如何监控进程并防范游戏的。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "r2d3.us",
+          "count": 1
+        },
+        {
+          "domain": "hnlyman.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 107,
+      "max_score": {
+        "title": "How kernel anti-cheats work",
+        "score": 226
+      },
+      "most_discussed": {
+        "title": "How kernel anti-cheats work",
+        "comments": 196
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于硬核技术实战与深度算法探讨，涵盖了从低成本航天硬件、水培系统优化等工程创新，到TCP通信、内核安全及机器学习算法等计算机底层技术。整体呈现出技术社区对软硬件结合、系统底层逻辑以及AI应用反思的高度关注。"
   }
 }
