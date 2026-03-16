@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-03-16 09:14",
+    "stories": [
+      {
+        "id": 47392084,
+        "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+        "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "domain": "michaelgeist.ca",
+        "score": 269,
+        "descendants": 71,
+        "by": "opengrass",
+        "tags": [],
+        "summary": "加拿大 C-22 法案引起隐私担忧，被指强制对公民进行大规模元数据监视。"
+      },
+      {
+        "id": 47390817,
+        "title": "Chrome DevTools MCP",
+        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "domain": "developer.chrome.com",
+        "score": 309,
+        "descendants": 138,
+        "by": "xnx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Chrome DevTools 推出了模型上下文协议（MCP）支持，进一步增强开发工具与 AI 的联动。"
+      },
+      {
+        "id": 47390945,
+        "title": "The 49MB web page",
+        "url": "https://thatshubham.com/blog/news-audit",
+        "domain": "thatshubham.com",
+        "score": 275,
+        "descendants": 154,
+        "by": "kermatt",
+        "tags": [
+          "Web"
+        ],
+        "summary": "作者深度剖析并演示了如何构建一个极其臃肿的 49MB 网页及其带来的性能启示。"
+      },
+      {
+        "id": 47393619,
+        "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+        "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+        "domain": "salk.edu",
+        "score": 32,
+        "descendants": 11,
+        "by": "anjel",
+        "tags": [
+          "AI"
+        ],
+        "summary": "索尔克研究所研究发现大麻素有助于清除脑细胞中与阿尔茨海默病相关的斑块蛋白。"
+      },
+      {
+        "id": 47388676,
+        "title": "LLM Architecture Gallery",
+        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "domain": "sebastianraschka.com",
+        "score": 222,
+        "descendants": 18,
+        "by": "tzury",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Sebastian Raschka 精选并整理了当前主流大语言模型的各类架构设计图谱。"
+      },
+      {
+        "id": 47339463,
+        "title": "//go:fix inline and the source-level inliner",
+        "url": "https://go.dev/blog/inliner",
+        "domain": "go.dev",
+        "score": 110,
+        "descendants": 41,
+        "by": "commotionfever",
+        "tags": [],
+        "summary": "深入讨论 Go 语言中 //go:fix inline 指令及源代码级内联优化技术。"
+      },
+      {
+        "id": 47392547,
+        "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+        "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+        "domain": "msn.com",
+        "score": 33,
+        "descendants": 6,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "从一部大脚怪纪录片出发，探讨其如何隐喻并解释当代社会普遍存在的阴谋论思维。"
+      },
+      {
+        "id": 47388137,
+        "title": "Separating the Wayland compositor and window manager",
+        "url": "https://isaacfreund.com/blog/river-window-management/",
+        "domain": "isaacfreund.com",
+        "score": 214,
+        "descendants": 93,
+        "by": "dpassens",
+        "tags": [],
+        "summary": "探讨在 Wayland 环境下解耦合成器与窗口管理器的必要性与技术实现。"
+      },
+      {
+        "id": 47350763,
+        "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+        "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+        "domain": "youtube.com",
+        "score": 13,
+        "descendants": 1,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "介绍名为 Bandit 的 32 位裸机电脑项目，展示其运行 Color Forth 语言的过程。"
+      },
+      {
+        "id": 47388141,
+        "title": "What makes Intel Optane stand out (2023)",
+        "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+        "domain": "blog.zuthof.nl",
+        "score": 173,
+        "descendants": 115,
+        "by": "walterbell",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "回顾英特尔 Optane 技术的独特优势，分析为何它在存储领域具备不可替代的特性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "michaelgeist.ca",
+          "count": 1
+        },
+        {
+          "domain": "developer.chrome.com",
+          "count": 1
+        },
+        {
+          "domain": "thatshubham.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 165,
+      "max_score": {
+        "title": "Chrome DevTools MCP",
+        "score": 309
+      },
+      "most_discussed": {
+        "title": "The 49MB web page",
+        "comments": 154
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Hardware"
+      ]
+    },
+    "summary": "今日 Hacker News 关注焦点集中在隐私监控、技术架构探索及系统工程挑战。议题涵盖了加拿大监控法案的争议、前端开发工具创新以及针对底层计算性能与架构（如 LLM 与 Optane）的深度技术分析。"
+  }
+}
