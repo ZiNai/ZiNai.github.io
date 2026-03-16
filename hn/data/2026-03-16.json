@@ -156,5 +156,166 @@
       ]
     },
     "summary": "今日 Hacker News 关注焦点集中在隐私监控、技术架构探索及系统工程挑战。议题涵盖了加拿大监控法案的争议、前端开发工具创新以及针对底层计算性能与架构（如 LLM 与 Optane）的深度技术分析。"
+  },
+  "noon": {
+    "time": "2026-03-16 13:45",
+    "stories": [
+      {
+        "id": 47392084,
+        "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+        "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "domain": "michaelgeist.ca",
+        "score": 550,
+        "descendants": 150,
+        "by": "opengrass",
+        "tags": [],
+        "summary": "加拿大C-22法案被曝将强制对国民实施大规模元数据监控，引发对隐私权的担忧。"
+      },
+      {
+        "id": 47390817,
+        "title": "Chrome DevTools MCP (2025)",
+        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "domain": "developer.chrome.com",
+        "score": 418,
+        "descendants": 181,
+        "by": "xnx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Chrome推出用于开发者工具的MCP协议，旨在提升AI辅助开发的集成能力。"
+      },
+      {
+        "id": 47390945,
+        "title": "The 49MB web page",
+        "url": "https://thatshubham.com/blog/news-audit",
+        "domain": "thatshubham.com",
+        "score": 401,
+        "descendants": 201,
+        "by": "kermatt",
+        "tags": [
+          "Web"
+        ],
+        "summary": "深入分析一个49MB的网页为何会导致严重的性能问题及开发反思。"
+      },
+      {
+        "id": 47350016,
+        "title": "Electric motor scaling laws and inertia in robot actuators",
+        "url": "https://robot-daycare.com/posts/actuation_series_1/",
+        "domain": "robot-daycare.com",
+        "score": 31,
+        "descendants": 3,
+        "by": "o4c",
+        "tags": [],
+        "summary": "探讨电机缩放定律对机器人执行器惯性的影响及其工程设计原则。"
+      },
+      {
+        "id": 47394022,
+        "title": "How I write software with LLMs",
+        "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+        "domain": "stavros.io",
+        "score": 60,
+        "descendants": 9,
+        "by": "indigodaddy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享作者如何高效集成大语言模型辅助软件开发的工作流。"
+      },
+      {
+        "id": 47391803,
+        "title": "LLMs can be exhausting",
+        "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+        "domain": "tomjohnell.com",
+        "score": 146,
+        "descendants": 112,
+        "by": "tjohnell",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨在开发和生活中过度依赖或处理LLM内容所带来的认知疲劳。"
+      },
+      {
+        "id": 47388676,
+        "title": "LLM Architecture Gallery",
+        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "domain": "sebastianraschka.com",
+        "score": 318,
+        "descendants": 24,
+        "by": "tzury",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一份详尽的大语言模型架构图库，梳理了主流AI模型的演进路线。"
+      },
+      {
+        "id": 47389570,
+        "title": "Stop Sloppypasta",
+        "url": "https://stopsloppypasta.ai/",
+        "domain": "stopsloppypasta.ai",
+        "score": 208,
+        "descendants": 100,
+        "by": "namnnumbr",
+        "tags": [],
+        "summary": "介绍Sloppypasta反制工具，旨在识别并拦截由AI生成的垃圾内容。"
+      },
+      {
+        "id": 47343902,
+        "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
+        "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+        "domain": "itu.dk",
+        "score": 24,
+        "descendants": 2,
+        "by": "jbarrow",
+        "tags": [],
+        "summary": "计算机科学经典文献，详述浮点数算术在编程实践中的原理与陷阱。"
+      },
+      {
+        "id": 47385011,
+        "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+        "url": "https://github.com/jtsylve/spice-crypt",
+        "domain": "github.com",
+        "score": 20,
+        "descendants": 2,
+        "by": "luu",
+        "tags": [
+          "AI",
+          "Python",
+          "Security"
+        ],
+        "summary": "一个用于解密LTspice加密模型文件的Python工具库。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "michaelgeist.ca",
+          "count": 1
+        },
+        {
+          "domain": "developer.chrome.com",
+          "count": 1
+        },
+        {
+          "domain": "thatshubham.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 218,
+      "max_score": {
+        "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+        "score": 550
+      },
+      "most_discussed": {
+        "title": "The 49MB web page",
+        "comments": 201
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Python",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News重点关注LLM技术实践与行业影响，不仅探讨了AI开发的工程挑战及工具生态，还深入讨论了Web开发中的性能陷阱。同时，社会议题中对于数字隐私及大规模监控立法的关注度持续高涨。"
   }
 }
