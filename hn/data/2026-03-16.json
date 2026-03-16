@@ -317,5 +317,150 @@
       ]
     },
     "summary": "今日Hacker News重点关注LLM技术实践与行业影响，不仅探讨了AI开发的工程挑战及工具生态，还深入讨论了Web开发中的性能陷阱。同时，社会议题中对于数字隐私及大规模监控立法的关注度持续高涨。"
+  },
+  "evening": {
+    "time": "2026-03-16 21:02",
+    "stories": [
+      {
+        "id": 47397593,
+        "title": "Corruption erodes social trust more in democracies than in autocracies",
+        "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+        "domain": "frontiersin.org",
+        "score": 72,
+        "descendants": 20,
+        "by": "PaulHoule",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "研究表明，腐败行为对民主政体中社会信任的侵蚀程度远高于威权政体。"
+      },
+      {
+        "id": 47392084,
+        "title": "Canada's bill C-22 mandates mass metadata surveillance",
+        "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "domain": "michaelgeist.ca",
+        "score": 806,
+        "descendants": 239,
+        "by": "opengrass",
+        "tags": [],
+        "summary": "加拿大C-22法案被质疑赋予政府大规模元数据监控权，引发隐私保护与权力滥用的担忧。"
+      },
+      {
+        "id": 47397822,
+        "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+        "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+        "domain": "timesofisrael.com",
+        "score": 195,
+        "descendants": 116,
+        "by": "defly",
+        "tags": [],
+        "summary": "一名记者因报道伊朗导弹新闻遭到Polymarket博彩者的死亡威胁，引发对预测市场社会影响的关注。"
+      },
+      {
+        "id": 47394022,
+        "title": "How I write software with LLMs",
+        "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+        "domain": "stavros.io",
+        "score": 294,
+        "descendants": 239,
+        "by": "indigodaddy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "博主分享了利用大语言模型辅助软件开发的高效工作流与实战心得。"
+      },
+      {
+        "id": 47390945,
+        "title": "The 49MB web page",
+        "url": "https://thatshubham.com/blog/news-audit",
+        "domain": "thatshubham.com",
+        "score": 637,
+        "descendants": 289,
+        "by": "kermatt",
+        "tags": [
+          "Web"
+        ],
+        "summary": "深入分析一个49MB的网页为何会导致性能灾难，探讨现代Web开发的臃肿问题。"
+      },
+      {
+        "id": 47390609,
+        "title": "The \"are you sure?\" Problem: Why AI keeps changing its mind",
+        "url": "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/",
+        "domain": "randalolson.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "turoczy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI模型在处理“确认机制”时的逻辑反复与认知不确定性问题。"
+      },
+      {
+        "id": 47390817,
+        "title": "Chrome DevTools MCP (2025)",
+        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "domain": "developer.chrome.com",
+        "score": 518,
+        "descendants": 209,
+        "by": "xnx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Chrome DevTools推出MCP协议集成，旨在提升开发者与AI工具的交互能力。"
+      },
+      {
+        "id": 47348652,
+        "title": "Home Assistant waters my plants",
+        "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+        "domain": "finnian.io",
+        "score": 85,
+        "descendants": 32,
+        "by": "finniananderson",
+        "tags": [],
+        "summary": "展示如何利用Home Assistant实现家庭绿植的自动化灌溉系统。"
+      },
+      {
+        "id": 47350016,
+        "title": "Electric motor scaling laws and inertia in robot actuators",
+        "url": "https://robot-daycare.com/posts/actuation_series_1/",
+        "domain": "robot-daycare.com",
+        "score": 111,
+        "descendants": 20,
+        "by": "o4c",
+        "tags": [],
+        "summary": "技术解析机器人执行器中电动机的缩放定律与惯性对性能的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "frontiersin.org",
+          "count": 1
+        },
+        {
+          "domain": "michaelgeist.ca",
+          "count": 1
+        },
+        {
+          "domain": "timesofisrael.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 303,
+      "max_score": {
+        "title": "Canada's bill C-22 mandates mass metadata surveillance",
+        "score": 806
+      },
+      "most_discussed": {
+        "title": "The 49MB web page",
+        "comments": 289
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术工程实践与社会治理议题。讨论内容涵盖了AI开发工具链的进展、Web性能优化的挑战，以及针对加拿大元数据监控法案与地缘政治舆论风险的社会性反思。"
   }
 }
