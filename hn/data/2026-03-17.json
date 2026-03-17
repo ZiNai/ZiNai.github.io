@@ -160,5 +160,156 @@
       ]
     },
     "summary": "今日 Hacker News 讨论聚焦于底层技术实践与开源生态，涵盖了 FreeBSD、内存管理优化及编程辅助工具等硬核主题。同时，关于监管动态、医疗成本以及去中心化“小网页”趋势的讨论也引发了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-03-17 13:17",
+    "stories": [
+      {
+        "id": 47406779,
+        "title": "US SEC preparing to scrap quarterly reporting requirement",
+        "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+        "domain": "reuters.com",
+        "score": 454,
+        "descendants": 242,
+        "by": "djoldman",
+        "tags": [],
+        "summary": "路透社报道称美国证券交易委员会正计划取消季度报告要求，引发市场监管合规性讨论。"
+      },
+      {
+        "id": 47408441,
+        "title": "Monkey Island for Commodore 64 Ground Up",
+        "url": "https://pixeldust.se/monkey-island-project",
+        "domain": "pixeldust.se",
+        "score": 38,
+        "descendants": 6,
+        "by": "aresant",
+        "tags": [],
+        "summary": "开发者展示了如何从零开始将经典游戏《猴岛小英雄》移植至Commodore 64平台。"
+      },
+      {
+        "id": 47408703,
+        "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+        "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+        "domain": "translate.kagi.com",
+        "score": 34,
+        "descendants": 5,
+        "by": "smitec",
+        "tags": [],
+        "summary": "Kagi翻译服务引入LinkedIn Speak作为新的输出语言选项。"
+      },
+      {
+        "id": 47404796,
+        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+        "url": "https://mistral.ai/news/leanstral",
+        "domain": "mistral.ai",
+        "score": 384,
+        "descendants": 80,
+        "by": "Poudlardo",
+        "tags": [
+          "Rust",
+          "Open Source"
+        ],
+        "summary": "Mistral发布Leanstral，旨在提升代码可信度与形式化证明工程的开源智能体。"
+      },
+      {
+        "id": 47408205,
+        "title": "Every layer of review makes you 10x slower",
+        "url": "https://apenwarr.ca/log/20260316",
+        "domain": "apenwarr.ca",
+        "score": 50,
+        "descendants": 20,
+        "by": "greyface-",
+        "tags": [],
+        "summary": "文章探讨了冗长的审核机制如何成为阻碍开发效率的“十倍减速器”。"
+      },
+      {
+        "id": 47402640,
+        "title": "Meta’s renewed commitment to jemalloc",
+        "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+        "domain": "engineering.fb.com",
+        "score": 389,
+        "descendants": 167,
+        "by": "hahahacorn",
+        "tags": [],
+        "summary": "Meta官方分享了其在jemalloc内存分配器上的持续投入与性能优化经验。"
+      },
+      {
+        "id": 47401879,
+        "title": "The “small web” is bigger than you might think",
+        "url": "https://kevinboone.me/small_web_is_big.html",
+        "domain": "kevinboone.me",
+        "score": 357,
+        "descendants": 159,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "通过数据分析探讨“小网”（Small Web）的规模，反思互联网日益中心化的趋势。"
+      },
+      {
+        "id": 47352353,
+        "title": "Lf-lean: The frontier of verified software engineering",
+        "url": "https://theorem.dev/blog/lf-lean/",
+        "domain": "theorem.dev",
+        "score": 29,
+        "descendants": 6,
+        "by": "alpaylan",
+        "tags": [],
+        "summary": "探讨Lf-lean如何通过形式化方法推动软件工程验证的前沿发展。"
+      },
+      {
+        "id": 47401809,
+        "title": "The American Healthcare Conundrum",
+        "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+        "domain": "github.com",
+        "score": 292,
+        "descendants": 257,
+        "by": "rexroad",
+        "tags": [],
+        "summary": "深入剖析美国医疗体系背后的结构性矛盾与经济逻辑困境。"
+      },
+      {
+        "id": 47398534,
+        "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+        "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+        "domain": "community.home-assistant.io",
+        "score": 348,
+        "descendants": 101,
+        "by": "Vaslo",
+        "tags": [],
+        "summary": "作者分享了2025年搭建一套可靠且易用的本地化语音助手的完整过程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "pixeldust.se",
+          "count": 1
+        },
+        {
+          "domain": "translate.kagi.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 238,
+      "max_score": {
+        "title": "US SEC preparing to scrap quarterly reporting requirement",
+        "score": 454
+      },
+      "most_discussed": {
+        "title": "The American Healthcare Conundrum",
+        "comments": 257
+      },
+      "hot_tags": [
+        "Rust",
+        "Open Source",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于科技产业的深度工程实践与宏观政策变动。开发者社区热衷于形式化验证、高性能内存分配优化及本地化智能助手的构建，同时对美国证券交易政策与医疗体系的结构性挑战展开了激烈讨论。"
   }
 }
