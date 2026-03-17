@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-03-17 09:06",
+    "stories": [
+      {
+        "id": 47406779,
+        "title": "US SEC preparing to scrap quarterly reporting requirement",
+        "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+        "domain": "reuters.com",
+        "score": 131,
+        "descendants": 71,
+        "by": "djoldman",
+        "tags": [],
+        "summary": "路透社报道称美国证券交易委员会正计划废除季度报告强制要求。"
+      },
+      {
+        "id": 47404796,
+        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+        "url": "https://mistral.ai/news/leanstral",
+        "domain": "mistral.ai",
+        "score": 277,
+        "descendants": 50,
+        "by": "Poudlardo",
+        "tags": [
+          "Rust",
+          "Open Source"
+        ],
+        "summary": "Mistral 推出的开源 AI 代理，专注于代码编写与形式化证明工程。"
+      },
+      {
+        "id": 47402640,
+        "title": "Meta’s renewed commitment to jemalloc",
+        "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+        "domain": "engineering.fb.com",
+        "score": 326,
+        "descendants": 135,
+        "by": "hahahacorn",
+        "tags": [],
+        "summary": "Meta 工程师团队详细阐述了其对 jemalloc 内存分配器的持续优化与长期承诺。"
+      },
+      {
+        "id": 47401879,
+        "title": "The “small web” is bigger than you might think",
+        "url": "https://kevinboone.me/small_web_is_big.html",
+        "domain": "kevinboone.me",
+        "score": 301,
+        "descendants": 129,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨个人网站与“小网页”生态的现状，指出其规模远超主流预期的影响力。"
+      },
+      {
+        "id": 47401809,
+        "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+        "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+        "domain": "github.com",
+        "score": 191,
+        "descendants": 126,
+        "by": "rexroad",
+        "tags": [],
+        "summary": "数据分析显示美国商业保险支付的医院手术费用平均是 Medicare 标准的 2.5 倍以上。"
+      },
+      {
+        "id": 47398534,
+        "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+        "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+        "domain": "community.home-assistant.io",
+        "score": 310,
+        "descendants": 92,
+        "by": "Vaslo",
+        "tags": [],
+        "summary": "分享作者构建一个兼具可靠性与易用性的本地化语音助手的完整过程。"
+      },
+      {
+        "id": 47366766,
+        "title": "Show HN: Thermal Receipt Printers – Markdown and Web UI",
+        "url": "https://github.com/sadreck/ThermalMarky",
+        "domain": "github.com",
+        "score": 27,
+        "descendants": 6,
+        "by": "howlett",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一款支持 Markdown 和 Web UI 的热敏打印机开源解决方案。"
+      },
+      {
+        "id": 47359010,
+        "title": "In space, no one can hear you kernel panic",
+        "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
+        "domain": "increment.com",
+        "score": 16,
+        "descendants": 1,
+        "by": "p0u4a",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "关于在空间站等极端环境下处理内核崩溃等系统可靠性挑战的技术讨论。"
+      },
+      {
+        "id": 47364260,
+        "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+        "url": "https://github.com/mr-fatalyst/oxyde",
+        "domain": "github.com",
+        "score": 53,
+        "descendants": 30,
+        "by": "mr_Fatalyst",
+        "tags": [
+          "Rust",
+          "Show HN"
+        ],
+        "summary": "介绍一款由 Rust 提供核心动力、深度集成 Pydantic 的异步 ORM 框架。"
+      },
+      {
+        "id": 47397574,
+        "title": "Why I love FreeBSD",
+        "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+        "domain": "it-notes.dragas.net",
+        "score": 341,
+        "descendants": 158,
+        "by": "enz",
+        "tags": [],
+        "summary": "作者分享其对 FreeBSD 操作系统的深刻热爱及该系统的独特技术魅力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "mistral.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 197,
+      "max_score": {
+        "title": "Why I love FreeBSD",
+        "score": 341
+      },
+      "most_discussed": {
+        "title": "Why I love FreeBSD",
+        "comments": 158
+      },
+      "hot_tags": [
+        "Rust",
+        "Web",
+        "Show HN",
+        "Open Source",
+        "Systems"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论聚焦于底层技术实践与开源生态，涵盖了 FreeBSD、内存管理优化及编程辅助工具等硬核主题。同时，关于监管动态、医疗成本以及去中心化“小网页”趋势的讨论也引发了社区的广泛关注。"
+  }
+}
