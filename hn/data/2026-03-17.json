@@ -311,5 +311,158 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于科技产业的深度工程实践与宏观政策变动。开发者社区热衷于形式化验证、高性能内存分配优化及本地化智能助手的构建，同时对美国证券交易政策与医疗体系的结构性挑战展开了激烈讨论。"
+  },
+  "evening": {
+    "time": "2026-03-17 21:02",
+    "stories": [
+      {
+        "id": 47410542,
+        "title": "Kagi Small Web",
+        "url": "https://kagi.com/smallweb/",
+        "domain": "kagi.com",
+        "score": 277,
+        "descendants": 57,
+        "by": "trueduke",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Kagi推出Small Web搜索功能，旨在帮助用户发现更多非主流的个人及小型网站内容。"
+      },
+      {
+        "id": 47408703,
+        "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+        "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+        "domain": "translate.kagi.com",
+        "score": 835,
+        "descendants": 207,
+        "by": "smitec",
+        "tags": [],
+        "summary": "Kagi翻译服务现已支持LinkedIn Speak语言，引发了社区关于翻译功能边界的讨论。"
+      },
+      {
+        "id": 47410870,
+        "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+        "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+        "domain": "gadgetreview.com",
+        "score": 300,
+        "descendants": 96,
+        "by": "doener",
+        "tags": [],
+        "summary": "一名Reddit用户深挖并曝光了Meta斥资20亿美元推动年龄验证技术背后的游说动机。"
+      },
+      {
+        "id": 47410532,
+        "title": "Building a Shell",
+        "url": "https://healeycodes.com/building-a-shell",
+        "domain": "healeycodes.com",
+        "score": 63,
+        "descendants": 14,
+        "by": "ingve",
+        "tags": [],
+        "summary": "开发者分享了从零开始构建一个基础命令行Shell的过程，涵盖了核心实现思路。"
+      },
+      {
+        "id": 47404796,
+        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+        "url": "https://mistral.ai/news/leanstral",
+        "domain": "mistral.ai",
+        "score": 616,
+        "descendants": 133,
+        "by": "Poudlardo",
+        "tags": [
+          "Rust",
+          "Open Source"
+        ],
+        "summary": "Mistral推出Leanstral开源智能体，专注于可靠编程与形式化证明工程。"
+      },
+      {
+        "id": 47366616,
+        "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
+        "url": "https://brianmoore.com/fontsmuggler/",
+        "domain": "brianmoore.com",
+        "score": 29,
+        "descendants": 7,
+        "by": "lanewinfield",
+        "tags": [],
+        "summary": "Font Smuggler工具介绍，展示了如何从网站中提取并“借用”隐藏字体至Google Docs。"
+      },
+      {
+        "id": 47366435,
+        "title": "The unlikely story of Teardown Multiplayer",
+        "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+        "domain": "blog.voxagon.se",
+        "score": 140,
+        "descendants": 27,
+        "by": "lairv",
+        "tags": [],
+        "summary": "回顾Teardown游戏多人模式开发的曲折历程及背后的技术挑战。"
+      },
+      {
+        "id": 47409885,
+        "title": "Reverse-engineering Viktor and making it Open Source",
+        "url": "https://matijacniacki.com/blog/openviktor",
+        "domain": "matijacniacki.com",
+        "score": 55,
+        "descendants": 18,
+        "by": "zggf",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "博主分享了对Viktor程序进行逆向工程并将其代码完全开源的实践过程。"
+      },
+      {
+        "id": 47352578,
+        "title": "What CI looks like at a 100-person team (PostHog)",
+        "url": "https://www.mendral.com/blog/ci-at-scale",
+        "domain": "mendral.com",
+        "score": 45,
+        "descendants": 16,
+        "by": "shad42",
+        "tags": [],
+        "summary": "PostHog技术博客解析，分享了在百人规模团队中如何高效构建与维护CI流水线。"
+      },
+      {
+        "id": 47402640,
+        "title": "Meta’s renewed commitment to jemalloc",
+        "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+        "domain": "engineering.fb.com",
+        "score": 461,
+        "descendants": 201,
+        "by": "hahahacorn",
+        "tags": [],
+        "summary": "Meta官方技术博客探讨了公司对jemalloc内存分配器的持续投入与性能优化经验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kagi.com",
+          "count": 1
+        },
+        {
+          "domain": "translate.kagi.com",
+          "count": 1
+        },
+        {
+          "domain": "gadgetreview.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 282,
+      "max_score": {
+        "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+        "score": 835
+      },
+      "most_discussed": {
+        "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+        "comments": 207
+      },
+      "hot_tags": [
+        "Open Source",
+        "Web",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术工程领域，尤其是AI工具的迭代、开源项目发布及底层系统优化的探讨。同时，关于Meta隐私合规与游说策略的争议，以及搜索平台Kagi的新功能更新也引发了社区的广泛讨论。"
   }
 }
