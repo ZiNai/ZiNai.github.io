@@ -159,5 +159,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在底层系统技术与 AI 应用创新上。除了 Xbox 安全漏洞攻防与半导体制造工艺等硬核工程话题外，开发辅助工具、Python 性能优化以及 AI 模型部署成为讨论热点。"
+  },
+  "noon": {
+    "time": "2026-03-18 13:21",
+    "stories": [
+      {
+        "id": 47369883,
+        "title": "More than 135 open hardware devices flashable with your own firmware",
+        "url": "https://openhardware.directory",
+        "domain": "openhardware.directory",
+        "score": 115,
+        "descendants": 9,
+        "by": "iosifnicolae2",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "整理了超过135款支持自定义固件刷写的开源硬件设备清单。"
+      },
+      {
+        "id": 47416736,
+        "title": "A Decade of Slug",
+        "url": "https://terathon.com/blog/decade-slug.html",
+        "domain": "terathon.com",
+        "score": 514,
+        "descendants": 43,
+        "by": "mwkaufma",
+        "tags": [],
+        "summary": "回顾了Slug引擎在游戏开发领域过去十年的技术演进历程。"
+      },
+      {
+        "id": 47413876,
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+        "domain": "tomshardware.com",
+        "score": 606,
+        "descendants": 218,
+        "by": "crtasm",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Python 3.15的JIT（即时编译）开发工作已重新步入正轨。"
+      },
+      {
+        "id": 47416486,
+        "title": "Python 3.15's JIT is now back on track",
+        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+        "domain": "fidget-spinner.github.io",
+        "score": 319,
+        "descendants": 137,
+        "by": "guidoiaquinti",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "id": 47418295,
+        "title": "Mistral AI Releases Forge",
+        "url": "https://mistral.ai/news/forge",
+        "domain": "mistral.ai",
+        "score": 227,
+        "descendants": 35,
+        "by": "pember",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral AI 正式发布了全新的开发工具 Forge。"
+      },
+      {
+        "id": 47421442,
+        "title": "Have a Fucking Website",
+        "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+        "domain": "otherstrangeness.com",
+        "score": 29,
+        "descendants": 15,
+        "by": "asukachikaru",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨了个人拥有独立网站在互联网时代的重要性与回归纯粹的价值。"
+      },
+      {
+        "id": 47417804,
+        "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+        "url": "https://github.com/gsd-build/get-shit-done",
+        "domain": "github.com",
+        "score": 257,
+        "descendants": 132,
+        "by": "stefankuehnel",
+        "tags": [],
+        "summary": "介绍了一套基于元提示词（meta-prompting）和规格驱动的开发提效系统。"
+      },
+      {
+        "id": 47420432,
+        "title": "The pleasures of poor product design",
+        "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+        "domain": "inconspicuous.info",
+        "score": 56,
+        "descendants": 17,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "分析了拙劣的产品设计在某些特定场景下竟能带来意外的趣味性体验。"
+      },
+      {
+        "id": 47412569,
+        "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+        "url": "https://github.com/adammiribyan/zeroboot",
+        "domain": "github.com",
+        "score": 94,
+        "descendants": 16,
+        "by": "adammiribyan",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "开源了一个利用写时复制（CoW）内存分叉实现亚毫秒级延迟的虚拟机沙箱项目。"
+      },
+      {
+        "id": 47384653,
+        "title": "Leviathan",
+        "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
+        "domain": "gutenberg.org",
+        "score": 14,
+        "descendants": 5,
+        "by": "mrwh",
+        "tags": [],
+        "summary": "推荐阅读托马斯·霍布斯的经典政治哲学著作《利维坦》。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "openhardware.directory",
+          "count": 1
+        },
+        {
+          "domain": "terathon.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 223,
+      "max_score": {
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "score": 606
+      },
+      "most_discussed": {
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "comments": 218
+      },
+      "hot_tags": [
+        "Hardware",
+        "Security",
+        "Python",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿技术动态，涵盖了人工智能工具发布、编程语言性能优化以及硬件安全漏洞。同时，开发者社区对软硬件极简主义、产品设计哲学及工程开发效率提升展现出浓厚兴趣。"
   }
 }
