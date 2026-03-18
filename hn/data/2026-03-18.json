@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-03-18 09:09",
+    "stories": [
+      {
+        "id": 47416736,
+        "title": "A Decade of Slug",
+        "url": "https://terathon.com/blog/decade-slug.html",
+        "domain": "terathon.com",
+        "score": 390,
+        "descendants": 34,
+        "by": "mwkaufma",
+        "tags": [],
+        "summary": "作者回顾了开发游戏引擎 Slug 十年来的技术演进历程。"
+      },
+      {
+        "id": 47416486,
+        "title": "Python 3.15's JIT is now back on track",
+        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+        "domain": "fidget-spinner.github.io",
+        "score": 254,
+        "descendants": 92,
+        "by": "guidoiaquinti",
+        "tags": [
+          "Python"
+        ],
+        "summary": "Python 3.15 的 JIT 编译器开发工作重新回到正轨，预示着语言性能的潜在提升。"
+      },
+      {
+        "id": 47417804,
+        "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+        "url": "https://github.com/gsd-build/get-shit-done",
+        "domain": "github.com",
+        "score": 173,
+        "descendants": 102,
+        "by": "stefankuehnel",
+        "tags": [],
+        "summary": "介绍一种结合元提示词与规格驱动的开发系统，旨在提升复杂任务的执行效率。"
+      },
+      {
+        "id": 47413876,
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+        "domain": "tomshardware.com",
+        "score": 509,
+        "descendants": 199,
+        "by": "crtasm",
+        "tags": [
+          "Security"
+        ],
+        "summary": "微软曾宣称“无法破解”的 Xbox One 安全防线被名为 'Bliss' 的黑客团队突破。"
+      },
+      {
+        "id": 47418295,
+        "title": "Mistral AI Releases Forge",
+        "url": "https://mistral.ai/news/forge",
+        "domain": "mistral.ai",
+        "score": 105,
+        "descendants": 4,
+        "by": "pember",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral AI 发布了其最新的 AI 开发平台 Forge。"
+      },
+      {
+        "id": 47412569,
+        "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+        "url": "https://github.com/adammiribyan/zeroboot",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 2,
+        "by": "adammiribyan",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "利用写时复制（CoW）内存分叉技术实现亚毫秒级 VM 沙盒的项目演示。"
+      },
+      {
+        "id": 47417335,
+        "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+        "url": "https://news.ycombinator.com/item?id=47417335",
+        "domain": "news.ycombinator.com",
+        "score": 25,
+        "descendants": 3,
+        "by": "rheamalhotra1",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "YC 创业公司 Kita 推出自动化工具，帮助处理新兴市场的信用审查业务。"
+      },
+      {
+        "id": 47371404,
+        "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+        "url": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
+        "domain": "news.cornell.edu",
+        "score": 13,
+        "descendants": 0,
+        "by": "hhs",
+        "tags": [],
+        "summary": "通过电子显微镜观察发现半导体芯片中存在的微小“鼠标咬痕”缺陷。"
+      },
+      {
+        "id": 47410542,
+        "title": "Kagi Small Web",
+        "url": "https://kagi.com/smallweb/",
+        "domain": "kagi.com",
+        "score": 701,
+        "descendants": 192,
+        "by": "trueduke",
+        "tags": [
+          "Web"
+        ],
+        "summary": "搜索引擎 Kagi 推出了关注小众独立网站的聚合索引服务。"
+      },
+      {
+        "id": 47368425,
+        "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+        "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
+        "domain": "youtube.com",
+        "score": 158,
+        "descendants": 71,
+        "by": "yincrash",
+        "tags": [],
+        "summary": "视觉特效专家分享其耗时 30 年解决绿幕抠图技术难题的视频演示。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "terathon.com",
+          "count": 1
+        },
+        {
+          "domain": "fidget-spinner.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 235,
+      "max_score": {
+        "title": "Kagi Small Web",
+        "score": 701
+      },
+      "most_discussed": {
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "comments": 199
+      },
+      "hot_tags": [
+        "Python",
+        "Security",
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在底层系统技术与 AI 应用创新上。除了 Xbox 安全漏洞攻防与半导体制造工艺等硬核工程话题外，开发辅助工具、Python 性能优化以及 AI 模型部署成为讨论热点。"
+  }
+}
