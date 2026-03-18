@@ -319,5 +319,159 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿技术动态，涵盖了人工智能工具发布、编程语言性能优化以及硬件安全漏洞。同时，开发者社区对软硬件极简主义、产品设计哲学及工程开发效率提升展现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-03-18 21:02",
+    "stories": [
+      {
+        "id": 47423647,
+        "title": "Rob Pike's 5 Rules of Programming",
+        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+        "domain": "cs.unc.edu",
+        "score": 232,
+        "descendants": 111,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "重温Rob Pike经典的编程五原则，探讨如何编写高效且易于维护的代码。"
+      },
+      {
+        "id": 47424458,
+        "title": "Measuring progress toward AGI: A cognitive framework",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+        "domain": "blog.google",
+        "score": 41,
+        "descendants": 37,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "Google提出的全新认知框架，旨在通过科学指标系统性地衡量通用人工智能（AGI）的进展。"
+      },
+      {
+        "id": 47372367,
+        "title": "JPEG Compression",
+        "url": "https://www.sophielwang.com/blog/jpeg",
+        "domain": "sophielwang.com",
+        "score": 275,
+        "descendants": 65,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "深度解析JPEG压缩算法的工作原理，从技术视角拆解图像存储的底层逻辑。"
+      },
+      {
+        "id": 47422942,
+        "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+        "url": "https://nightingale.cafe/",
+        "domain": "nightingale.cafe",
+        "score": 140,
+        "descendants": 28,
+        "by": "rzzzzru",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍一款开源卡拉OK应用，支持本地音乐库的自动伴奏剥离与演唱功能。"
+      },
+      {
+        "id": 47367601,
+        "title": "Pandas Exercises for Data Analysis (Interactive)",
+        "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
+        "domain": "machinelearningplus.com",
+        "score": 20,
+        "descendants": 6,
+        "by": "selva86",
+        "tags": [],
+        "summary": "一套交互式的Pandas练习题集，帮助数据分析师快速掌握Python数据处理技巧。"
+      },
+      {
+        "id": 47389696,
+        "title": "Write up of my homebrew CPU build",
+        "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+        "domain": "willwarren.com",
+        "score": 109,
+        "descendants": 17,
+        "by": "wwarren",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者分享从零开始自制CPU的完整过程，记录了硬件架构设计与实现的挑战。"
+      },
+      {
+        "id": 47418295,
+        "title": "Mistral AI Releases Forge",
+        "url": "https://mistral.ai/news/forge",
+        "domain": "mistral.ai",
+        "score": 561,
+        "descendants": 135,
+        "by": "pember",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral AI正式发布Forge，这一新工具将加速模型开发与部署流程。"
+      },
+      {
+        "id": 47416736,
+        "title": "A Decade of Slug",
+        "url": "https://terathon.com/blog/decade-slug.html",
+        "domain": "terathon.com",
+        "score": 654,
+        "descendants": 64,
+        "by": "mwkaufma",
+        "tags": [],
+        "summary": "回顾十年Slug项目的开发历程，总结系统架构演进与性能优化的宝贵经验。"
+      },
+      {
+        "id": 47422228,
+        "title": "Celebrating Tony Hoare's mark on computer science",
+        "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+        "domain": "bertrandmeyer.com",
+        "score": 57,
+        "descendants": 10,
+        "by": "benhoyt",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 47393324,
+        "title": "How the Eon Team Produced a Virtual Embodied Fly",
+        "url": "https://eon.systems/updates/embodied-brain-emulation",
+        "domain": "eon.systems",
+        "score": 38,
+        "descendants": 10,
+        "by": "LopRabbit",
+        "tags": [],
+        "summary": "揭秘Eon团队如何通过前沿生物仿真技术，在虚拟环境中构建逼真的飞行昆虫模型。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "cs.unc.edu",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "sophielwang.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 213,
+      "max_score": {
+        "title": "A Decade of Slug",
+        "score": 654
+      },
+      "most_discussed": {
+        "title": "Mistral AI Releases Forge",
+        "comments": 135
+      },
+      "hot_tags": [
+        "Open Source",
+        "Systems",
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术演进与硬核工程实践，Mistral AI的Forge发布与AGI认知框架引起了开发者对于人工智能前沿的广泛讨论。同时，技术社区对于经典编程哲学回顾、软硬件底层构建（如自制CPU与压缩算法）及专业领域工具表现出极高热度。"
   }
 }
