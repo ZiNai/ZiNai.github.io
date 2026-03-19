@@ -312,5 +312,163 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿工程实践与社会经济议题，从奥斯汀房产调控的实证研究到技术工具的创新开发，展现了开发者群体对代码规范、硬件优化以及系统架构深度的持续关注。整体讨论涵盖了从软件工程原则到复杂系统求解的广泛话题，体现了技术视角与公共政策研究的多元结合。"
+  },
+  "evening": {
+    "time": "2026-03-19 20:56",
+    "stories": [
+      {
+        "id": 47436950,
+        "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+        "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+        "domain": "nypost.com",
+        "score": 197,
+        "descendants": 27,
+        "by": "antonymoose",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Afroman在反诉俄亥俄州警方非法搜查的诽谤案中胜诉，法院裁定其视频内容不构成诽谤。"
+      },
+      {
+        "id": 47434732,
+        "title": "Conway's Game of Life, in real life",
+        "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+        "domain": "lcamtuf.substack.com",
+        "score": 195,
+        "descendants": 46,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨如何通过物理手段或现实场景实现康威生命游戏，引发对生命演化模拟的讨论。"
+      },
+      {
+        "id": 47437101,
+        "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+        "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+        "domain": "blog.icml.cc",
+        "score": 114,
+        "descendants": 95,
+        "by": "sergdigon",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "ICML因作者在同行评审中滥用大语言模型，对2%的投稿论文进行了直接拒稿处理。"
+      },
+      {
+        "id": 47388658,
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "domain": "gitlab.com",
+        "score": 384,
+        "descendants": 96,
+        "by": "mmastrac",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍一种名为Greenboost的工具，可透明地利用系统内存或NVMe SSD来扩展Nvidia GPU的显存。"
+      },
+      {
+        "id": 47431237,
+        "title": "Warranty Void If Regenerated",
+        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "domain": "nearzero.software",
+        "score": 408,
+        "descendants": 239,
+        "by": "Stwerner",
+        "tags": [],
+        "summary": "探讨硬件产品的“不可再生”保修条款及其背后的法律与可持续发展隐忧。"
+      },
+      {
+        "id": 47386703,
+        "title": "OpenRocket",
+        "url": "https://openrocket.info/",
+        "domain": "openrocket.info",
+        "score": 609,
+        "descendants": 105,
+        "by": "zeristor",
+        "tags": [],
+        "summary": "介绍功能强大的开源火箭仿真软件OpenRocket，支持模型火箭设计的全流程模拟。"
+      },
+      {
+        "id": 47437516,
+        "title": "Iran war energy shock sparks global push to reduce fossil fuel dependence",
+        "url": "https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/",
+        "domain": "reuters.com",
+        "score": 32,
+        "descendants": 15,
+        "by": "geox",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "分析伊朗冲突引发的能源震荡，以及全球范围内减少对化石燃料依赖的紧迫性。"
+      },
+      {
+        "id": 47413475,
+        "title": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+        "url": "https://ir.cwi.nl/pub/5998/5998D.pdf",
+        "domain": "ir.cwi.nl",
+        "score": 45,
+        "descendants": 22,
+        "by": "ivanbelenky",
+        "tags": [],
+        "summary": "回顾Python之父Guido Van Rossum早期开发的标准窗口接口系统Stdwin的历史资料。"
+      },
+      {
+        "id": 47433058,
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "domain": "pew.org",
+        "score": 614,
+        "descendants": 719,
+        "by": "matthest",
+        "tags": [],
+        "summary": "详述奥斯汀通过大规模住房建设成功抑制并降低租金的实证研究。"
+      },
+      {
+        "id": 47388293,
+        "title": "Pretraining Language Models via Neural Cellular Automata",
+        "url": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
+        "domain": "hanseungwook.github.io",
+        "score": 8,
+        "descendants": 1,
+        "by": "shmublu",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究如何利用神经元胞自动机（Neural Cellular Automata）进行语言模型的预训练尝试。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nypost.com",
+          "count": 1
+        },
+        {
+          "domain": "lcamtuf.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.icml.cc",
+          "count": 1
+        }
+      ],
+      "avg_score": 261,
+      "max_score": {
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "score": 614
+      },
+      "most_discussed": {
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "comments": 719
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News重点关注技术伦理与开源工具，包括ICML学术界对LLM滥用的治理，以及Nvidia显存扩展与火箭模拟器等实用技术话题。此外，住房供给对租金影响的政策分析及社会法律新闻也引发了社区的广泛讨论。"
   }
 }
