@@ -158,5 +158,159 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出软硬件技术的深度交叉，从显存扩展技术与LLM模型架构优化，到开放源代码的火箭仿真工具。此外，社区对经典编程哲学及房产市场数据分析等议题保持高度关注，反映了极客群体在技术创新与社会趋势洞察上的双重兴趣。"
+  },
+  "noon": {
+    "time": "2026-03-19 13:18",
+    "stories": [
+      {
+        "id": 47434047,
+        "title": "A sufficiently detailed spec is code",
+        "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+        "domain": "haskellforall.com",
+        "score": 79,
+        "descendants": 23,
+        "by": "signa11",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨了详尽的规格说明书在现代软件开发中实际上等同于代码的观点。"
+      },
+      {
+        "id": 47434024,
+        "title": "Cook: A simple CLI for orchestrating Claude Code",
+        "url": "https://rjcorwin.github.io/cook/",
+        "domain": "rjcorwin.github.io",
+        "score": 95,
+        "descendants": 24,
+        "by": "staticvar",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一款用于简化 Claude Code 编排的命令行界面工具。"
+      },
+      {
+        "id": 47433058,
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "domain": "pew.org",
+        "score": 434,
+        "descendants": 455,
+        "by": "matthest",
+        "tags": [],
+        "summary": "分析了奥斯汀大规模新房建设如何通过供需平衡有效抑制租金上涨。"
+      },
+      {
+        "id": 47388658,
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "domain": "gitlab.com",
+        "score": 224,
+        "descendants": 42,
+        "by": "mmastrac",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "展示了一种通过调用系统内存或 NVMe 空间来透明扩展 GPU 显存的技术。"
+      },
+      {
+        "id": 47431237,
+        "title": "Warranty Void If Regenerated",
+        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "domain": "nearzero.software",
+        "score": 250,
+        "descendants": 148,
+        "by": "Stwerner",
+        "tags": [],
+        "summary": "探讨了关于设备维修、保修政策以及硬件修复限制的法律与伦理争议。"
+      },
+      {
+        "id": 47433265,
+        "title": "Autoresearch for SAT Solvers",
+        "url": "https://github.com/iliazintchenko/agent-sat",
+        "domain": "github.com",
+        "score": 79,
+        "descendants": 14,
+        "by": "chaisan",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨了利用自动化研究方法来提升 SAT 求解器性能的可能性。"
+      },
+      {
+        "id": 47386703,
+        "title": "OpenRocket",
+        "url": "https://openrocket.info/",
+        "domain": "openrocket.info",
+        "score": 467,
+        "descendants": 88,
+        "by": "zeristor",
+        "tags": [],
+        "summary": "介绍了一款开源的模型火箭仿真与设计软件，支持飞行预测与性能优化。"
+      },
+      {
+        "id": 47423647,
+        "title": "Rob Pike’s Rules of Programming (1989)",
+        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+        "domain": "cs.unc.edu",
+        "score": 892,
+        "descendants": 425,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "回顾了 Rob Pike 总结的编程原则，强调了简洁与实际效用在代码编写中的重要性。"
+      },
+      {
+        "id": 47432915,
+        "title": "RX – a new random-access JSON alternative",
+        "url": "https://github.com/creationix/rx",
+        "domain": "github.com",
+        "score": 46,
+        "descendants": 16,
+        "by": "creationix",
+        "tags": [],
+        "summary": "介绍了一种旨在优化随机访问效率的新型 JSON 数据格式替代方案。"
+      },
+      {
+        "id": 47434311,
+        "title": "We Have Learned Nothing",
+        "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+        "domain": "colossus.com",
+        "score": 13,
+        "descendants": 2,
+        "by": "lukestevens",
+        "tags": [],
+        "summary": "针对行业现状的反思性文章，探讨在历史教训面前技术界的迟钝与重复性错误。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "haskellforall.com",
+          "count": 1
+        },
+        {
+          "domain": "rjcorwin.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 258,
+      "max_score": {
+        "title": "Rob Pike’s Rules of Programming (1989)",
+        "score": 892
+      },
+      "most_discussed": {
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "comments": 455
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿工程实践与社会经济议题，从奥斯汀房产调控的实证研究到技术工具的创新开发，展现了开发者群体对代码规范、硬件优化以及系统架构深度的持续关注。整体讨论涵盖了从软件工程原则到复杂系统求解的广泛话题，体现了技术视角与公共政策研究的多元结合。"
   }
 }
