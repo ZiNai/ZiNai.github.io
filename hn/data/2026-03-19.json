@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-03-19 09:09",
+    "stories": [
+      {
+        "id": 47433058,
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "domain": "pew.org",
+        "score": 120,
+        "descendants": 87,
+        "by": "matthest",
+        "tags": [],
+        "summary": "数据分析表明奥斯汀大规模的新房建设有效抑制了租金上涨。"
+      },
+      {
+        "id": 47431237,
+        "title": "Warranty Void If Regenerated",
+        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "domain": "nearzero.software",
+        "score": 179,
+        "descendants": 95,
+        "by": "Stwerner",
+        "tags": [],
+        "summary": "探讨了关于“再生”零部件导致保修失效的行业争议与技术细节。"
+      },
+      {
+        "id": 47388658,
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "domain": "gitlab.com",
+        "score": 124,
+        "descendants": 25,
+        "by": "mmastrac",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "利用系统内存或NVMe透明扩展GPU显存的开源项目介绍。"
+      },
+      {
+        "id": 47431671,
+        "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+        "url": "https://github.com/alainnothere/llm-circuit-finder",
+        "domain": "github.com",
+        "score": 34,
+        "descendants": 4,
+        "by": "xlayn",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "无需额外训练，通过复制24B LLM层数显著提升逻辑推理能力的实验。"
+      },
+      {
+        "id": 47386703,
+        "title": "OpenRocket",
+        "url": "https://openrocket.info/",
+        "domain": "openrocket.info",
+        "score": 388,
+        "descendants": 83,
+        "by": "zeristor",
+        "tags": [],
+        "summary": "一款功能强大的开源火箭设计与飞行模拟软件。"
+      },
+      {
+        "id": 47423647,
+        "title": "Rob Pike’s Rules of Programming (1989)",
+        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+        "domain": "cs.unc.edu",
+        "score": 833,
+        "descendants": 406,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "回顾Rob Pike在1989年总结的经典编程规则，依然具备深远启发意义。"
+      },
+      {
+        "id": 47422759,
+        "title": "Wander – A tiny, decentralised tool to explore the small web",
+        "url": "https://susam.net/wander/",
+        "domain": "susam.net",
+        "score": 192,
+        "descendants": 52,
+        "by": "susam",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍一款用于探索小型去中心化网络的轻量级工具。"
+      },
+      {
+        "id": 47401489,
+        "title": "The math that explains why bell curves are everywhere",
+        "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+        "domain": "quantamagazine.org",
+        "score": 47,
+        "descendants": 12,
+        "by": "ibobev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "科普性文章，深入浅出地解释了钟形曲线在自然界中广泛存在的数学本质。"
+      },
+      {
+        "id": 47427027,
+        "title": "Nvidia NemoClaw",
+        "url": "https://github.com/NVIDIA/NemoClaw",
+        "domain": "github.com",
+        "score": 231,
+        "descendants": 186,
+        "by": "hmokiguess",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "关于Nvidia NemoClaw工具的讨论与相关技术分享。"
+      },
+      {
+        "id": 47428650,
+        "title": "Show HN: Will my flight have Starlink?",
+        "url": "https://news.ycombinator.com/item?id=47428650",
+        "domain": "news.ycombinator.com",
+        "score": 159,
+        "descendants": 207,
+        "by": "bblcla",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个可以查询特定航班是否配备Starlink互联网服务的便捷工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "pew.org",
+          "count": 1
+        },
+        {
+          "domain": "nearzero.software",
+          "count": 1
+        }
+      ],
+      "avg_score": 231,
+      "max_score": {
+        "title": "Rob Pike’s Rules of Programming (1989)",
+        "score": 833
+      },
+      "most_discussed": {
+        "title": "Rob Pike’s Rules of Programming (1989)",
+        "comments": 406
+      },
+      "hot_tags": [
+        "Hardware",
+        "AI",
+        "Show HN",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出软硬件技术的深度交叉，从显存扩展技术与LLM模型架构优化，到开放源代码的火箭仿真工具。此外，社区对经典编程哲学及房产市场数据分析等议题保持高度关注，反映了极客群体在技术创新与社会趋势洞察上的双重兴趣。"
+  }
+}
