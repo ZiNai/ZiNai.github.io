@@ -161,5 +161,160 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的重大行业动向，尤其是Astral加入OpenAI引发的广泛关注。同时，社区对Linux桌面技术演进、Google Android生态安全策略以及AI辅助开发工具等实用技术话题展开了深入讨论。"
+  },
+  "noon": {
+    "time": "2026-03-20 13:11",
+    "stories": [
+      {
+        "id": 47448524,
+        "title": "Push events into a running session with channels",
+        "url": "https://code.claude.com/docs/en/channels",
+        "domain": "code.claude.com",
+        "score": 259,
+        "descendants": 140,
+        "by": "jasonjmcghee",
+        "tags": [],
+        "summary": "介绍了一种通过通道将事件推送至活跃会话的开发实现方法。"
+      },
+      {
+        "id": 47442690,
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+        "domain": "arstechnica.com",
+        "score": 629,
+        "descendants": 702,
+        "by": "0xedb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌针对Android未验证应用侧载引入了新的24小时处理流程，引发关于安全性与开放性的讨论。"
+      },
+      {
+        "id": 47448994,
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "domain": "trustedsec.com",
+        "score": 76,
+        "descendants": 12,
+        "by": "nyxgeek",
+        "tags": [],
+        "summary": "披露了Azure登录日志系统中存在的第三及第四个绕过漏洞。"
+      },
+      {
+        "id": 47448566,
+        "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+        "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "domain": "gist.github.com",
+        "score": 95,
+        "descendants": 40,
+        "by": "robotnikman",
+        "tags": [],
+        "summary": "Show HN发布三款全新的Kitten TTS模型，最小体积不到25MB。"
+      },
+      {
+        "id": 47445599,
+        "title": "Cockpit is a web-based graphical interface for servers",
+        "url": "https://github.com/cockpit-project/cockpit",
+        "domain": "github.com",
+        "score": 211,
+        "descendants": 123,
+        "by": "modinfo",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍Cockpit，一款功能全面且轻量级的服务器Web图形管理界面。"
+      },
+      {
+        "id": 47416972,
+        "title": "How the Turner twins are mythbusting modern technical apparel",
+        "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+        "domain": "carryology.com",
+        "score": 163,
+        "descendants": 84,
+        "by": "greedo",
+        "tags": [],
+        "summary": "分析Turner兄弟如何通过极限测试打破现代技术服饰的性能神话。"
+      },
+      {
+        "id": 47406160,
+        "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+        "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+        "domain": "forums.tigsource.com",
+        "score": 281,
+        "descendants": 39,
+        "by": "PaulHoule",
+        "tags": [],
+        "summary": "探讨《奥伯拉·丁的回归》中使用的球形映射抖动技术，实现1bpp第一人称视觉表现。"
+      },
+      {
+        "id": 47441546,
+        "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+        "url": "https://github.com/KittenML/KittenTTS",
+        "domain": "github.com",
+        "score": 364,
+        "descendants": 140,
+        "by": "rohan_joshi",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 47443588,
+        "title": "Noq: n0's new QUIC implementation in Rust",
+        "url": "https://www.iroh.computer/blog/noq-announcement",
+        "domain": "iroh.computer",
+        "score": 172,
+        "descendants": 23,
+        "by": "od0",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍使用Rust编写的全新高性能QUIC协议实现Noq。"
+      },
+      {
+        "id": 47440430,
+        "title": "4Chan mocks £520k fine for UK online safety breaches",
+        "url": "https://www.bbc.com/news/articles/c624330lg1ko",
+        "domain": "bbc.com",
+        "score": 310,
+        "descendants": 514,
+        "by": "mosura",
+        "tags": [],
+        "summary": "报道4Chan对英国在线安全法案开出的52万英镑罚单表现出的蔑视态度。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "code.claude.com",
+          "count": 1
+        },
+        {
+          "domain": "arstechnica.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 256,
+      "max_score": {
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "score": 629
+      },
+      "most_discussed": {
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "comments": 702
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于网络安全与开发技术的最新动态，从云服务身份验证漏洞到Android侧载政策调整引发的广泛讨论。此外，复古计算与创新模型（如轻量化TTS）也吸引了社区关注，整体呈现出极客实验精神与平台治理压力的并存局面。"
   }
 }
