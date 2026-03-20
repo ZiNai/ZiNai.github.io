@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-03-20 09:05",
+    "stories": [
+      {
+        "id": 47448524,
+        "title": "Claude Code: Channels",
+        "url": "https://code.claude.com/docs/en/channels",
+        "domain": "code.claude.com",
+        "score": 63,
+        "descendants": 26,
+        "by": "jasonjmcghee",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Code推出了全新的Channels功能，旨在进一步增强AI驱动的开发工作流。"
+      },
+      {
+        "id": 47448328,
+        "title": "Wayland set the Linux Desktop back by 10 years",
+        "url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+        "domain": "omar.yt",
+        "score": 60,
+        "descendants": 21,
+        "by": "omarroth",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者激进抨击Wayland协议的推行给Linux桌面生态带来了长达十年的倒退。"
+      },
+      {
+        "id": 47438723,
+        "title": "Astral to Join OpenAI",
+        "url": "https://astral.sh/blog/openai",
+        "domain": "astral.sh",
+        "score": 1202,
+        "descendants": 745,
+        "by": "ibraheemdev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Python工具链核心开发商Astral正式宣布并入OpenAI，引发社区对工具生态未来的热议。"
+      },
+      {
+        "id": 47445599,
+        "title": "Cockpit is a web-based graphical interface for servers",
+        "url": "https://github.com/cockpit-project/cockpit",
+        "domain": "github.com",
+        "score": 163,
+        "descendants": 98,
+        "by": "modinfo",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍Cockpit这一基于Web的服务器图形化管理界面，适合简化系统运维操作。"
+      },
+      {
+        "id": 47442690,
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+        "domain": "arstechnica.com",
+        "score": 473,
+        "descendants": 550,
+        "by": "0xedb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google更新Android侧载策略，要求用户通过24小时验证流程以安装未认证应用。"
+      },
+      {
+        "id": 47416972,
+        "title": "How the Turner twins are mythbusting modern technical apparel",
+        "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+        "domain": "carryology.com",
+        "score": 107,
+        "descendants": 57,
+        "by": "greedo",
+        "tags": [],
+        "summary": "Turner兄弟通过实测对比，揭秘并挑战了现代高性能技术服饰的营销噱头。"
+      },
+      {
+        "id": 47406160,
+        "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+        "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+        "domain": "forums.tigsource.com",
+        "score": 234,
+        "descendants": 34,
+        "by": "PaulHoule",
+        "tags": [],
+        "summary": "深度解析《奥伯拉·丁的回归》中使用的球形映射抖动技术，重现复古1bpp游戏视觉效果。"
+      },
+      {
+        "id": 47441546,
+        "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+        "url": "https://github.com/KittenML/KittenTTS",
+        "domain": "github.com",
+        "score": 308,
+        "descendants": 104,
+        "by": "rohan_joshi",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示三款全新的Kitten语音合成模型，体积最小仅不到25MB且支持轻量化运行。"
+      },
+      {
+        "id": 47447600,
+        "title": "Bombarding gamblers with offers greatly increases betting and gambling harm",
+        "url": "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html",
+        "domain": "bristol.ac.uk",
+        "score": 54,
+        "descendants": 55,
+        "by": "hhs",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "布里斯托大学研究表明，频繁向博彩用户发送促销信息会显著加剧赌博成瘾及危害。"
+      },
+      {
+        "id": 47447690,
+        "title": "The Day I Discovered Type Design",
+        "url": "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/",
+        "domain": "marksimonson.com",
+        "score": 21,
+        "descendants": 1,
+        "by": "ingve",
+        "tags": [],
+        "summary": "设计师回顾其职业生涯中发现字体设计魅力的那一天，分享创作的初心与感悟。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "code.claude.com",
+          "count": 1
+        },
+        {
+          "domain": "omar.yt",
+          "count": 1
+        }
+      ],
+      "avg_score": 268,
+      "max_score": {
+        "title": "Astral to Join OpenAI",
+        "score": 1202
+      },
+      "most_discussed": {
+        "title": "Astral to Join OpenAI",
+        "comments": 745
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Web",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的重大行业动向，尤其是Astral加入OpenAI引发的广泛关注。同时，社区对Linux桌面技术演进、Google Android生态安全策略以及AI辅助开发工具等实用技术话题展开了深入讨论。"
+  }
+}
