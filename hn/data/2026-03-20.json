@@ -316,5 +316,154 @@
       ]
     },
     "summary": "今日Hacker News聚焦于网络安全与开发技术的最新动态，从云服务身份验证漏洞到Android侧载政策调整引发的广泛讨论。此外，复古计算与创新模型（如轻量化TTS）也吸引了社区关注，整体呈现出极客实验精神与平台治理压力的并存局面。"
+  },
+  "evening": {
+    "time": "2026-03-20 20:51",
+    "stories": [
+      {
+        "id": 47450478,
+        "title": "ArXiv Declares Independence from Cornell",
+        "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+        "domain": "science.org",
+        "score": 407,
+        "descendants": 129,
+        "by": "bookstore-romeo",
+        "tags": [],
+        "summary": "arXiv宣布正式脱离康奈尔大学，作为独立机构运营以保障学术出版的长期稳定性。"
+      },
+      {
+        "id": 47452955,
+        "title": "Entso-E final report on Iberian 2025 blackout",
+        "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
+        "domain": "entsoe.eu",
+        "score": 41,
+        "descendants": 3,
+        "by": "Rygian",
+        "tags": [],
+        "summary": "欧洲输电系统运营商发布报告，详细解析2025年伊比利亚半岛大停电事故的成因。"
+      },
+      {
+        "id": 47409055,
+        "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+        "url": "https://arxiv.org/abs/2603.09229",
+        "domain": "arxiv.org",
+        "score": 60,
+        "descendants": 4,
+        "by": "matt_d",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一种名为Flash-KMeans的新算法，旨在提升K-Means聚类的计算速度与内存利用率。"
+      },
+      {
+        "id": 47452399,
+        "title": "The Soul of a Pedicab Driver",
+        "url": "https://www.sheldonbrown.com/pedicab.html",
+        "domain": "sheldonbrown.com",
+        "score": 50,
+        "descendants": 12,
+        "by": "haritha-j",
+        "tags": [],
+        "summary": "一篇关于三轮车夫职业生活的深度文章，探讨其作为城市交通独特一环的社会意义。"
+      },
+      {
+        "id": 47407293,
+        "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
+        "url": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
+        "domain": "khronos.org",
+        "score": 12,
+        "descendants": 1,
+        "by": "y1n0",
+        "tags": [],
+        "summary": "探讨如何利用Vulkan计算着色器实现高效的FFmpeg视频编解码处理。"
+      },
+      {
+        "id": 47442690,
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+        "domain": "arstechnica.com",
+        "score": 933,
+        "descendants": 1003,
+        "by": "0xedb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌更新安卓系统政策，引入强制性的24小时审核流程以规范未认证App的侧载行为。"
+      },
+      {
+        "id": 47413879,
+        "title": "Drawvg Filter for FFmpeg",
+        "url": "https://ayosec.github.io/ffmpeg-drawvg/",
+        "domain": "ayosec.github.io",
+        "score": 96,
+        "descendants": 17,
+        "by": "nolta",
+        "tags": [],
+        "summary": "介绍一款专为FFmpeg开发的Drawvg过滤器，用于简化矢量图形的处理与渲染。"
+      },
+      {
+        "id": 47397372,
+        "title": "Just Put It on a Map",
+        "url": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
+        "domain": "progressandpoverty.substack.com",
+        "score": 26,
+        "descendants": 4,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨地图可视化在分析社会经济问题及传播政策观点时的独特价值。"
+      },
+      {
+        "id": 47448994,
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "domain": "trustedsec.com",
+        "score": 186,
+        "descendants": 51,
+        "by": "nyxgeek",
+        "tags": [],
+        "summary": "安全研究人员披露了微软Azure平台存在的第三及第四个登录日志绕过漏洞。"
+      },
+      {
+        "id": 47448566,
+        "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+        "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "domain": "gist.github.com",
+        "score": 177,
+        "descendants": 60,
+        "by": "robotnikman",
+        "tags": [],
+        "summary": "回顾经典的TI-82/83计算器版《Drugwars》游戏，重温这段极客时代的掌机编程记忆。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "science.org",
+          "count": 1
+        },
+        {
+          "domain": "entsoe.eu",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 199,
+      "max_score": {
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "score": 933
+      },
+      "most_discussed": {
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "comments": 1003
+      },
+      "hot_tags": [
+        "Systems",
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News重点关注科技行业监管与安全漏洞，包括arXiv脱离康奈尔大学的独立化举措，以及安卓侧载机制更新与Azure平台的深度安全隐患。同时，技术社区对于FFmpeg性能优化及老牌极客文化（如计算器游戏）的怀旧与实用性探讨依然热度不减。"
   }
 }
