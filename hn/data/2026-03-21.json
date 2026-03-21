@@ -320,5 +320,164 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了AI开发工具、技术深度解析与趣味文化百科。AI领域关注点集中在开源代理与架构创新，而系统编程与网络安全话题同样活跃，折射出社区对底层技术性能优化及数字隐私边界的高度关注。"
+  },
+  "evening": {
+    "time": "2026-03-21 20:39",
+    "stories": [
+      {
+        "id": 47460525,
+        "title": "OpenCode – Open source AI coding agent",
+        "url": "https://opencode.ai/",
+        "domain": "opencode.ai",
+        "score": 898,
+        "descendants": 417,
+        "by": "rbanffy",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一款开源的AI代码代理工具，旨在提升开发者的编程效率。"
+      },
+      {
+        "id": 47419391,
+        "title": "Mamba-3",
+        "url": "https://www.together.ai/blog/mamba-3",
+        "domain": "together.ai",
+        "score": 163,
+        "descendants": 23,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "探讨Mamba-3架构的最新更新及其在AI计算领域的影响。"
+      },
+      {
+        "id": 47463547,
+        "title": "FFmpeg 101 (2024)",
+        "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+        "domain": "blogs.igalia.com",
+        "score": 117,
+        "descendants": 3,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "针对FFmpeg多媒体处理框架的入门指南与技术解析。"
+      },
+      {
+        "id": 47465824,
+        "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+        "url": "https://blog.atuin.sh/atuin-v18-13/",
+        "domain": "blog.atuin.sh",
+        "score": 37,
+        "descendants": 11,
+        "by": "cenanozen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Atuin v18.13发布，带来了更强的shell搜索功能、PTY代理支持及AI集成。"
+      },
+      {
+        "id": 47460452,
+        "title": "A Japanese glossary of chopsticks faux pas (2022)",
+        "url": "https://www.nippon.com/en/japan-data/h01362/",
+        "domain": "nippon.com",
+        "score": 305,
+        "descendants": 241,
+        "by": "cainxinth",
+        "tags": [],
+        "summary": "一份详尽的日本筷子礼仪术语表，介绍了常见的饮食禁忌与文化误区。"
+      },
+      {
+        "id": 47435081,
+        "title": "Fujifilm X RAW STUDIO webapp clone",
+        "url": "https://github.com/eggricesoy/filmkit",
+        "domain": "github.com",
+        "score": 80,
+        "descendants": 31,
+        "by": "notcodingtoday",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个旨在克隆富士X RAW STUDIO功能的Web应用程序项目。"
+      },
+      {
+        "id": 47455138,
+        "title": "Molly Guard",
+        "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+        "domain": "bookofjoe2.blogspot.com",
+        "score": 126,
+        "descendants": 52,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "介绍关于“莫莉护卫”（Molly Guard）机制的起源与实际应用场景。"
+      },
+      {
+        "id": 47414356,
+        "title": "We give every user SQL access to a shared ClickHouse cluster",
+        "url": "https://trigger.dev/blog/how-trql-works",
+        "domain": "trigger.dev",
+        "score": 15,
+        "descendants": 5,
+        "by": "eallam",
+        "tags": [
+          "Database"
+        ],
+        "summary": "分享如何向用户提供共享ClickHouse集群的SQL访问权限及其实践经验。"
+      },
+      {
+        "id": 47461378,
+        "title": "Ghostling",
+        "url": "https://github.com/ghostty-org/ghostling",
+        "domain": "github.com",
+        "score": 238,
+        "descendants": 43,
+        "by": "bjornroberg",
+        "tags": [],
+        "summary": "一款开源的自动化工具项目，关注其技术实现与应用价值。"
+      },
+      {
+        "id": 47464818,
+        "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+        "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+        "domain": "eff.org",
+        "score": 102,
+        "descendants": 14,
+        "by": "pabs3",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "电子前哨基金会（EFF）撰文探讨封锁互联网档案馆对数字历史保存的负面影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "opencode.ai",
+          "count": 1
+        },
+        {
+          "domain": "together.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 208,
+      "max_score": {
+        "title": "OpenCode – Open source AI coding agent",
+        "score": 898
+      },
+      "most_discussed": {
+        "title": "OpenCode – Open source AI coding agent",
+        "comments": 417
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Open Source",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于开源AI工具与基础设施的演进，包括AI代码助手、大模型架构及技术文档。同时，关于互联网归档保存与文化礼仪的讨论也引发了社区对数字历史保护的关注。"
   }
 }
