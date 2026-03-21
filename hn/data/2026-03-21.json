@@ -159,5 +159,166 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于 AI 编程工具与工程实践的深度讨论，涵盖了开源编码代理、技术栈性能重构及算法研究。同时，科技与现实世界的交互引发了广泛关注，如追踪军事资产的技术博弈以及复杂工程背后的历史与原理。"
+  },
+  "noon": {
+    "time": "2026-03-21 13:01",
+    "stories": [
+      {
+        "id": 47460525,
+        "title": "OpenCode – Open source AI coding agent",
+        "url": "https://opencode.ai/",
+        "domain": "opencode.ai",
+        "score": 574,
+        "descendants": 261,
+        "by": "rbanffy",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一个开源的AI编码代理平台，旨在辅助开发者提升编程效率。"
+      },
+      {
+        "id": 47455138,
+        "title": "Molly Guard",
+        "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+        "domain": "bookofjoe2.blogspot.com",
+        "score": 35,
+        "descendants": 12,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "讨论“Molly Guard”这一防止误操作触发关键开关的物理保护装置。"
+      },
+      {
+        "id": 47461094,
+        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "domain": "openui.com",
+        "score": 144,
+        "descendants": 81,
+        "by": "zahlekhan",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Web"
+        ],
+        "summary": "分享将Rust WASM解析器重写为TypeScript后反而获得性能提升的意外技术实践。"
+      },
+      {
+        "id": 47453942,
+        "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+        "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+        "domain": "lemonde.fr",
+        "score": 514,
+        "descendants": 407,
+        "by": "MrDresden",
+        "tags": [
+          "AI"
+        ],
+        "summary": "法国世界报通过健身App泄露的轨迹数据实时定位了法国航母的位置。"
+      },
+      {
+        "id": 47461378,
+        "title": "Ghostling",
+        "url": "https://github.com/ghostty-org/ghostling",
+        "domain": "github.com",
+        "score": 146,
+        "descendants": 23,
+        "by": "bjornroberg",
+        "tags": [],
+        "summary": "介绍名为Ghostling的开源项目及其核心功能与应用场景。"
+      },
+      {
+        "id": 47460452,
+        "title": "A Japanese glossary of chopsticks faux pas",
+        "url": "https://www.nippon.com/en/japan-data/h01362/",
+        "domain": "nippon.com",
+        "score": 182,
+        "descendants": 140,
+        "by": "cainxinth",
+        "tags": [],
+        "summary": "一份关于日本餐桌礼仪的指南，详细解析使用筷子时的常见忌讳与误区。"
+      },
+      {
+        "id": 47462483,
+        "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+        "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+        "domain": "github.com",
+        "score": 51,
+        "descendants": 6,
+        "by": "teleforce",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "推荐Linux应用编程经典书籍，重点讲解核心API的使用与编程基础。"
+      },
+      {
+        "id": 47428132,
+        "title": "The Ugliest Airplane: An Appreciation",
+        "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+        "domain": "smithsonianmag.com",
+        "score": 36,
+        "descendants": 21,
+        "by": "randycupertino",
+        "tags": [
+          "AI"
+        ],
+        "summary": "鉴赏航空史上被公认为“最丑”的飞机设计，探讨其独特的设计哲学与历史意义。"
+      },
+      {
+        "id": 47431653,
+        "title": "A look at content scrambling in DVDs",
+        "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+        "domain": "mathweb.ucsd.edu",
+        "score": 7,
+        "descendants": 0,
+        "by": "rvnx",
+        "tags": [],
+        "summary": "深入解析DVD内容加扰系统（CSS）的技术实现与破解原理。"
+      },
+      {
+        "id": 47458595,
+        "title": "Attention Residuals",
+        "url": "https://github.com/MoonshotAI/Attention-Residuals",
+        "domain": "github.com",
+        "score": 142,
+        "descendants": 20,
+        "by": "GaggiX",
+        "tags": [],
+        "summary": "探讨AI模型中的“Attention Residuals”概念及其在架构优化中的作用。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "opencode.ai",
+          "count": 1
+        },
+        {
+          "domain": "bookofjoe2.blogspot.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 183,
+      "max_score": {
+        "title": "OpenCode – Open source AI coding agent",
+        "score": 574
+      },
+      "most_discussed": {
+        "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+        "comments": 407
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Rust",
+        "JavaScript",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI开发工具、技术深度解析与趣味文化百科。AI领域关注点集中在开源代理与架构创新，而系统编程与网络安全话题同样活跃，折射出社区对底层技术性能优化及数字隐私边界的高度关注。"
   }
 }
