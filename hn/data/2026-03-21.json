@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-03-21 09:01",
+    "stories": [
+      {
+        "id": 47460525,
+        "title": "OpenCode – The open source AI coding agent",
+        "url": "https://opencode.ai/",
+        "domain": "opencode.ai",
+        "score": 375,
+        "descendants": 180,
+        "by": "rbanffy",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一款开源的 AI 编程智能代理，旨在提升开发者的代码编写与协作效率。"
+      },
+      {
+        "id": 47459296,
+        "title": "Our commitment to Windows quality",
+        "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+        "domain": "blogs.windows.com",
+        "score": 374,
+        "descendants": 664,
+        "by": "hadrien01",
+        "tags": [],
+        "summary": "微软官方阐述其对提升 Windows 系统质量与稳定性的改进承诺与策略。"
+      },
+      {
+        "id": 47461094,
+        "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "domain": "openui.com",
+        "score": 85,
+        "descendants": 51,
+        "by": "zahlekhan",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Web"
+        ],
+        "summary": "开发者将 Rust WASM 解析器重构为 TypeScript 后，意外获得三倍性能提升的实战案例。"
+      },
+      {
+        "id": 47461378,
+        "title": "Ghostling",
+        "url": "https://github.com/ghostty-org/ghostling",
+        "domain": "github.com",
+        "score": 60,
+        "descendants": 9,
+        "by": "bjornroberg",
+        "tags": [],
+        "summary": "关于 Ghostling 项目的技术分享，具体内容涉及开发者的开源实现方案。"
+      },
+      {
+        "id": 47453942,
+        "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+        "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+        "domain": "lemonde.fr",
+        "score": 461,
+        "descendants": 384,
+        "by": "MrDresden",
+        "tags": [
+          "AI"
+        ],
+        "summary": "法国《世界报》利用健身应用轨迹数据实时定位法国航母，引发关于地理信息隐私安全的关注。"
+      },
+      {
+        "id": 47462483,
+        "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+        "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+        "domain": "github.com",
+        "score": 14,
+        "descendants": 1,
+        "by": "teleforce",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "经典的《Linux 应用编程示例》第二版，详述核心系统 API 的使用指南。"
+      },
+      {
+        "id": 47458595,
+        "title": "Attention Residuals",
+        "url": "https://github.com/MoonshotAI/Attention-Residuals",
+        "domain": "github.com",
+        "score": 114,
+        "descendants": 19,
+        "by": "GaggiX",
+        "tags": [],
+        "summary": "探讨注意力残差（Attention Residuals）模型的研究，旨在提升深度学习架构的性能。"
+      },
+      {
+        "id": 47425257,
+        "title": "Lent and Lisp",
+        "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+        "domain": "leancrew.com",
+        "score": 9,
+        "descendants": 0,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "关于大斋期（Lent）与 Lisp 语言编程思想之间的独特哲学联想与探讨。"
+      },
+      {
+        "id": 47416543,
+        "title": "The Los Angeles Aqueduct Is Wild",
+        "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+        "domain": "practical.engineering",
+        "score": 283,
+        "descendants": 160,
+        "by": "michaefe",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入剖析洛杉矶输水道这一大型水利工程的建设历史及其背后狂野的地理工程学。"
+      },
+      {
+        "id": 47438169,
+        "title": "An FAQ on Reinforcement Learning Environments",
+        "url": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+        "domain": "epoch.ai",
+        "score": 16,
+        "descendants": 0,
+        "by": "dcre",
+        "tags": [],
+        "summary": "针对强化学习（RL）环境的常见问题解答汇总，为相关领域研究者提供基础指导。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "opencode.ai",
+          "count": 1
+        },
+        {
+          "domain": "blogs.windows.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 179,
+      "max_score": {
+        "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+        "score": 461
+      },
+      "most_discussed": {
+        "title": "Our commitment to Windows quality",
+        "comments": 664
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source",
+        "Rust",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于 AI 编程工具与工程实践的深度讨论，涵盖了开源编码代理、技术栈性能重构及算法研究。同时，科技与现实世界的交互引发了广泛关注，如追踪军事资产的技术博弈以及复杂工程背后的历史与原理。"
+  }
+}
