@@ -160,5 +160,164 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 硬件创新、Web 技术性能突破以及科技伦理治理。开发者们关注从本地大模型部署到浏览器端专业多媒体处理的演进，同时对互联网审查政策及 AI 对就业市场的影响表现出深切担忧。"
+  },
+  "noon": {
+    "time": "2026-03-22 13:14",
+    "stories": [
+      {
+        "id": 47473718,
+        "title": "The Three Pillars of JavaScript Bloat",
+        "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+        "domain": "43081j.com",
+        "score": 97,
+        "descendants": 41,
+        "by": "onlyspaceghost",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "深度分析导致现代JavaScript应用臃肿的三大核心因素。"
+      },
+      {
+        "id": 47470773,
+        "title": "Tinybox – Offline AI device 120B parameters",
+        "url": "https://tinygrad.org/#tinybox",
+        "domain": "tinygrad.org",
+        "score": 396,
+        "descendants": 245,
+        "by": "albelfio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款搭载120B参数模型、主打离线运行的AI硬件设备引发社区讨论。"
+      },
+      {
+        "id": 47467537,
+        "title": "Some things just take time",
+        "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "domain": "lucumr.pocoo.org",
+        "score": 577,
+        "descendants": 189,
+        "by": "vaylian",
+        "tags": [],
+        "summary": "探讨在快节奏开发环境中，某些高质量产出为何仍需要耗费长期的时间沉淀。"
+      },
+      {
+        "id": 47471601,
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "url": "https://tooscut.app/",
+        "domain": "tooscut.app",
+        "score": 185,
+        "descendants": 56,
+        "by": "mohebifar",
+        "tags": [
+          "Web",
+          "Hardware"
+        ],
+        "summary": "利用WebGPU和WASM技术实现的浏览器端专业级视频编辑工具。"
+      },
+      {
+        "id": 47471801,
+        "title": "Floci – A free, open-source local AWS emulator",
+        "url": "https://github.com/hectorvent/floci",
+        "domain": "github.com",
+        "score": 110,
+        "descendants": 27,
+        "by": "shaicoleman",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个用于本地模拟AWS服务的开源替代方案。"
+      },
+      {
+        "id": 47457570,
+        "title": "Boomloom: Think with your hands",
+        "url": "https://www.theboomloom.com",
+        "domain": "theboomloom.com",
+        "score": 72,
+        "descendants": 7,
+        "by": "rasengan0",
+        "tags": [],
+        "summary": "一款通过动手操作激发思考与创造力的趣味工具或产品介绍。"
+      },
+      {
+        "id": 47470991,
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+        "domain": "news.dyne.org",
+        "score": 579,
+        "descendants": 306,
+        "by": "smartmic",
+        "tags": [],
+        "summary": "批评将儿童保护手段演变为过度互联网准入控制的倾向。"
+      },
+      {
+        "id": 47450142,
+        "title": "Trivy ecosystem supply chain briefly compromised",
+        "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+        "domain": "github.com",
+        "score": 51,
+        "descendants": 16,
+        "by": "batch12",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报告Trivy生态系统供应链遭短暂入侵的安全事件详情。"
+      },
+      {
+        "id": 47428953,
+        "title": "Bayesian statistics for confused data scientists",
+        "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+        "domain": "nchagnet.pages.dev",
+        "score": 79,
+        "descendants": 21,
+        "by": "speckx",
+        "tags": [],
+        "summary": "面向困惑的数据科学家提供的贝叶斯统计入门指南。"
+      },
+      {
+        "id": 47434986,
+        "title": "Electronics for Kids, 2nd Edition",
+        "url": "https://nostarch.com/electronics-for-kids-2e",
+        "domain": "nostarch.com",
+        "score": 138,
+        "descendants": 26,
+        "by": "0x54MUR41",
+        "tags": [],
+        "summary": "《Electronics for Kids》第二版，专为儿童设计的电子工程科普书籍。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "43081j.com",
+          "count": 1
+        },
+        {
+          "domain": "tinygrad.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 228,
+      "max_score": {
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "score": 579
+      },
+      "most_discussed": {
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "comments": 306
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Web",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News重点关注技术生态的复杂性与安全隐患，包括JavaScript臃肿化、云原生工具的安全性以及AI硬件的创新发展。同时，社区围绕互联网内容监管与个人创作工具的讨论也引发了广泛共鸣。"
   }
 }
