@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-03-22 09:09",
+    "stories": [
+      {
+        "id": 47470773,
+        "title": "Tinybox – Offline AI device 120B parameters",
+        "url": "https://tinygrad.org/#tinybox",
+        "domain": "tinygrad.org",
+        "score": 279,
+        "descendants": 165,
+        "by": "albelfio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款搭载120B参数模型的离线AI硬件设备Tinybox，旨在提供高性能本地算力。"
+      },
+      {
+        "id": 47473086,
+        "title": "Profiling Hacker News users based on their comments",
+        "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+        "domain": "simonwillison.net",
+        "score": 32,
+        "descendants": 23,
+        "by": "simonw",
+        "tags": [
+          "Security"
+        ],
+        "summary": "基于Hacker News评论数据对用户画像进行分析的趣味实验。"
+      },
+      {
+        "id": 47471601,
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "url": "https://tooscut.app/",
+        "domain": "tooscut.app",
+        "score": 116,
+        "descendants": 33,
+        "by": "mohebifar",
+        "tags": [
+          "Web",
+          "Hardware"
+        ],
+        "summary": "利用WebGPU和WASM技术在浏览器内实现专业级视频编辑能力的工具分享。"
+      },
+      {
+        "id": 47467537,
+        "title": "Some things just take time",
+        "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "domain": "lucumr.pocoo.org",
+        "score": 494,
+        "descendants": 170,
+        "by": "vaylian",
+        "tags": [],
+        "summary": "探讨在快节奏科技行业中，某些深层任务依然需要时间沉淀的必要性。"
+      },
+      {
+        "id": 47457570,
+        "title": "Boomloom: Think with your hands",
+        "url": "https://www.theboomloom.com",
+        "domain": "theboomloom.com",
+        "score": 34,
+        "descendants": 2,
+        "by": "rasengan0",
+        "tags": [],
+        "summary": "Boomloom项目展示了手工创作与数字工具结合的思考方式。"
+      },
+      {
+        "id": 47470991,
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+        "domain": "news.dyne.org",
+        "score": 449,
+        "descendants": 224,
+        "by": "smartmic",
+        "tags": [],
+        "summary": "批评以儿童保护名义实施的互联网接入限制措施，呼吁维护网络自由。"
+      },
+      {
+        "id": 47471943,
+        "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+        "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+        "domain": "darkounity.com",
+        "score": 31,
+        "descendants": 7,
+        "by": "hacker_13",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入讨论AI对游戏开发行业岗位的影响，以及当前行业内存在的求职危机。"
+      },
+      {
+        "id": 47428953,
+        "title": "Bayesian statistics for confused data scientists",
+        "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+        "domain": "nchagnet.pages.dev",
+        "score": 39,
+        "descendants": 4,
+        "by": "speckx",
+        "tags": [],
+        "summary": "针对数据科学从业者撰写的贝叶斯统计入门指南。"
+      },
+      {
+        "id": 47450142,
+        "title": "Trivy ecosystem supply chain briefly compromised",
+        "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+        "domain": "github.com",
+        "score": 12,
+        "descendants": 3,
+        "by": "batch12",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报告Trivy生态系统供应链安全短暂遭受入侵的事件经过。"
+      },
+      {
+        "id": 47467567,
+        "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+        "url": "https://grafeo.dev/",
+        "domain": "grafeo.dev",
+        "score": 183,
+        "descendants": 59,
+        "by": "0x1997",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "介绍一款由Rust编写的轻量级、可嵌入式高性能图数据库Grafeo。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "tinygrad.org",
+          "count": 1
+        },
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        },
+        {
+          "domain": "tooscut.app",
+          "count": 1
+        }
+      ],
+      "avg_score": 167,
+      "max_score": {
+        "title": "Some things just take time",
+        "score": 494
+      },
+      "most_discussed": {
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "comments": 224
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Web",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 硬件创新、Web 技术性能突破以及科技伦理治理。开发者们关注从本地大模型部署到浏览器端专业多媒体处理的演进，同时对互联网审查政策及 AI 对就业市场的影响表现出深切担忧。"
+  }
+}
