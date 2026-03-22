@@ -319,5 +319,161 @@
       ]
     },
     "summary": "今日Hacker News重点关注技术生态的复杂性与安全隐患，包括JavaScript臃肿化、云原生工具的安全性以及AI硬件的创新发展。同时，社区围绕互联网内容监管与个人创作工具的讨论也引发了广泛共鸣。"
+  },
+  "evening": {
+    "time": "2026-03-22 20:41",
+    "stories": [
+      {
+        "id": 47476422,
+        "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+        "url": "https://github.com/danveloper/flash-moe",
+        "domain": "github.com",
+        "score": 46,
+        "descendants": 13,
+        "by": "mft_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过Flash-Moe技术在48GB内存的Mac上成功运行397B参数的大模型。"
+      },
+      {
+        "id": 47475686,
+        "title": "Hormuz Minesweeper – Are you tired of winning?",
+        "url": "https://hormuz.pythonic.ninja/",
+        "domain": "hormuz.pythonic.ninja",
+        "score": 309,
+        "descendants": 123,
+        "by": "PythonicNinja",
+        "tags": [],
+        "summary": "一款名为Hormuz的扫雷游戏，旨在挑战玩家的操作与策略极限。"
+      },
+      {
+        "id": 47427224,
+        "title": "25 Years of Eggs",
+        "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+        "domain": "john-rush.com",
+        "score": 74,
+        "descendants": 24,
+        "by": "avyfain",
+        "tags": [],
+        "summary": "回顾作者过去25年在数字领域构建与发布个人项目的历程与感悟。"
+      },
+      {
+        "id": 47473718,
+        "title": "The three pillars of JavaScript bloat",
+        "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+        "domain": "43081j.com",
+        "score": 359,
+        "descendants": 196,
+        "by": "onlyspaceghost",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "深度分析导致JavaScript生态日益臃肿的三大核心要素。"
+      },
+      {
+        "id": 47444909,
+        "title": "My first patch to the Linux kernel",
+        "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+        "domain": "pooladkhay.com",
+        "score": 137,
+        "descendants": 18,
+        "by": "pooladkhay",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者记录了自己贡献第一个Linux内核补丁的技术细节与心理过程。"
+      },
+      {
+        "id": 47476707,
+        "title": "How We Synchronized Editing for Rec Room's Multiplayer Scripting System",
+        "url": "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system",
+        "domain": "tyleo.com",
+        "score": 4,
+        "descendants": 0,
+        "by": "tyleo",
+        "tags": [],
+        "summary": "技术博文探讨在Rec Room多人脚本系统中实现实时协同编辑的机制。"
+      },
+      {
+        "id": 47470773,
+        "title": "Tinybox – A powerful computer for deep learning",
+        "url": "https://tinygrad.org/#tinybox",
+        "domain": "tinygrad.org",
+        "score": 518,
+        "descendants": 294,
+        "by": "albelfio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "tinygrad团队发布Tinybox，旨在为深度学习任务提供高效且平价的计算硬件方案。"
+      },
+      {
+        "id": 47476562,
+        "title": "More common mistakes to avoid when creating system architecture diagrams",
+        "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+        "domain": "ilograph.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "billyp-rva",
+        "tags": [],
+        "summary": "总结绘制系统架构图时常见的误区，帮助提升工程文档的清晰度。"
+      },
+      {
+        "id": 47467537,
+        "title": "Some things just take time",
+        "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "domain": "lucumr.pocoo.org",
+        "score": 746,
+        "descendants": 237,
+        "by": "vaylian",
+        "tags": [],
+        "summary": "探讨技术领域中某些复杂工程问题需要时间沉淀的哲学本质。"
+      },
+      {
+        "id": 47475155,
+        "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+        "url": "https://zenodo.org/records/18976656",
+        "domain": "zenodo.org",
+        "score": 35,
+        "descendants": 21,
+        "by": "rayanpal_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于GPT-5.2与Claude Opus 4.6等虚构模型在确定性静默状态下的技术探讨。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "hormuz.pythonic.ninja",
+          "count": 1
+        },
+        {
+          "domain": "john-rush.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 223,
+      "max_score": {
+        "title": "Some things just take time",
+        "score": 746
+      },
+      "most_discussed": {
+        "title": "Tinybox – A powerful computer for deep learning",
+        "comments": 294
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News关注点聚焦于高性能计算与AI工程实践，涵盖了大模型本地部署优化、深度学习硬件方案及软件开发中的架构反思。同时，关于JavaScript臃肿现状与软件开发心路历程的讨论也引发了社区广泛共鸣。"
   }
 }
