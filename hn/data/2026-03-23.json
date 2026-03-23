@@ -150,5 +150,140 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在软件工程的本质讨论，包括版本控制的演变、代码价值的重新审视以及开源生态的深度实践。同时，用户对网络技术优化、隐私保护及数字化知识存储等话题表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-03-23 13:26",
+    "stories": [
+      {
+        "id": 47480507,
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+        "domain": "stuartbreckenridge.net",
+        "score": 445,
+        "descendants": 227,
+        "by": "JumpCrisscross",
+        "tags": [],
+        "summary": "批评PC Gamer发布了一篇因加载过度导致流量浪费的RSS推荐文章，反映了网页性能的病态现状。"
+      },
+      {
+        "id": 47480886,
+        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+        "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+        "domain": "larstofus.com",
+        "score": 295,
+        "descendants": 88,
+        "by": "mariuz",
+        "tags": [],
+        "summary": "深度解析《过山车大亨》的底层优化，展示了极致的汇编代码编程如何支撑起复杂的游戏逻辑。"
+      },
+      {
+        "id": 47454647,
+        "title": "Tin Can, a 'landline' for kids",
+        "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
+        "domain": "businessinsider.com",
+        "score": 56,
+        "descendants": 51,
+        "by": "tejohnso",
+        "tags": [],
+        "summary": "介绍了一款名为Tin Can的儿童专用数字终端，旨在为孩子们提供一种类似“有线电话”的封闭式社交体验。"
+      },
+      {
+        "id": 47478401,
+        "title": "The future of version control",
+        "url": "https://bramcohen.com/p/manyana",
+        "domain": "bramcohen.com",
+        "score": 474,
+        "descendants": 263,
+        "by": "c17r",
+        "tags": [],
+        "summary": "BitTorrent创始人Bram Cohen从分布式系统角度探讨版本控制的未来演进趋势。"
+      },
+      {
+        "id": 47476315,
+        "title": "Reports of code's death are greatly exaggerated",
+        "url": "https://stevekrouse.com/precision",
+        "domain": "stevekrouse.com",
+        "score": 332,
+        "descendants": 247,
+        "by": "stevekrouse",
+        "tags": [],
+        "summary": "探讨AI时代代码价值的转变，认为虽然开发工具在演进，但核心逻辑与工程素养依然不可替代。"
+      },
+      {
+        "id": 47483830,
+        "title": "Migrating the American Express Payment Network, Twice",
+        "url": "https://americanexpress.io/migrating-the-payments-network-twice/",
+        "domain": "americanexpress.io",
+        "score": 52,
+        "descendants": 15,
+        "by": "madflojo",
+        "tags": [],
+        "summary": "美国运通分享了其支付网络在核心架构迁移过程中的复杂挑战与工程经验。"
+      },
+      {
+        "id": 47479751,
+        "title": "Why I love NixOS",
+        "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+        "domain": "birkey.co",
+        "score": 256,
+        "descendants": 168,
+        "by": "birkey",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者分享了转向NixOS的个人心路历程，探讨其声明式配置与系统复用性带来的生产力提升。"
+      },
+      {
+        "id": 47484227,
+        "title": "Intuitions for Tranformer Circuits",
+        "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
+        "domain": "connorjdavis.com",
+        "score": 35,
+        "descendants": 3,
+        "by": "cjamsonhn",
+        "tags": [],
+        "summary": "以直观视角解读Transformer模型中的电路机制，帮助理解深度学习模型的内部运作逻辑。"
+      },
+      {
+        "id": 47476821,
+        "title": "Project Nomad – Knowledge That Never Goes Offline",
+        "url": "https://www.projectnomad.us",
+        "domain": "projectnomad.us",
+        "score": 399,
+        "descendants": 130,
+        "by": "jensgk",
+        "tags": [],
+        "summary": "探讨Project Nomad项目，旨在构建一套能够实现知识离线化存储与永续保存的系统架构。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "stuartbreckenridge.net",
+          "count": 1
+        },
+        {
+          "domain": "larstofus.com",
+          "count": 1
+        },
+        {
+          "domain": "businessinsider.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 260,
+      "max_score": {
+        "title": "The future of version control",
+        "score": 474
+      },
+      "most_discussed": {
+        "title": "The future of version control",
+        "comments": 263
+      },
+      "hot_tags": [
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于技术深度与行业反思。从编程工具（版本控制与NixOS）和底层优化实践的探讨，到对软件开发现状的批判性思考，展现了社区对技术根基与知识持久性的持续关注。"
   }
 }
