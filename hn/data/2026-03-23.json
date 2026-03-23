@@ -285,5 +285,159 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于技术深度与行业反思。从编程工具（版本控制与NixOS）和底层优化实践的探讨，到对软件开发现状的批判性思考，展现了社区对技术根基与知识持久性的持续关注。"
+  },
+  "evening": {
+    "time": "2026-03-23 20:58",
+    "stories": [
+      {
+        "id": 47487436,
+        "title": "Migrating to the EU",
+        "url": "https://rz01.org/eu-migration/",
+        "domain": "rz01.org",
+        "score": 290,
+        "descendants": 197,
+        "by": "exitnode",
+        "tags": [],
+        "summary": "个人分享从非欧盟国家迁移至欧洲生活的完整流程与经验总结。"
+      },
+      {
+        "id": 47488015,
+        "title": "Attractive students no longer receive better results as classes moved online",
+        "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
+        "domain": "sciencedirect.com",
+        "score": 77,
+        "descendants": 67,
+        "by": "jdthedisciple",
+        "tags": [],
+        "summary": "研究显示转为线上教学后，学生的颜值不再与学术成绩的正向关联显著。"
+      },
+      {
+        "id": 47486726,
+        "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+        "url": "https://indieweb.org/POSSE",
+        "domain": "indieweb.org",
+        "score": 200,
+        "descendants": 47,
+        "by": "tosh",
+        "tags": [],
+        "summary": "介绍“在自有平台发布，并在其他平台同步”的 Web 内容发布哲学。"
+      },
+      {
+        "id": 47487584,
+        "title": "GitHub appears to be struggling with measly three nines availability",
+        "url": "https://www.theregister.com/2026/02/10/github_outages/",
+        "domain": "theregister.com",
+        "score": 106,
+        "descendants": 40,
+        "by": "richtr",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "分析 GitHub 近期频繁出现的可用性问题及其对开发工作流的影响。"
+      },
+      {
+        "id": 47480507,
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+        "domain": "stuartbreckenridge.net",
+        "score": 671,
+        "descendants": 317,
+        "by": "JumpCrisscross",
+        "tags": [],
+        "summary": "讽刺一篇推荐 RSS 阅读器的文章体积高达 37MB 且存在资源加载滥用问题。"
+      },
+      {
+        "id": 47458248,
+        "title": "General Motors Is Assisting with the Restoration of a Rare EV1",
+        "url": "https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/",
+        "domain": "evinfo.net",
+        "score": 22,
+        "descendants": 10,
+        "by": "betacollector64",
+        "tags": [],
+        "summary": "记录通用汽车参与修复全球极其罕见的电动车 EV1 的幕后过程。"
+      },
+      {
+        "id": 47436592,
+        "title": "Bombadil: Property-based testing for web UIs by Antithesis",
+        "url": "https://github.com/antithesishq/bombadil",
+        "domain": "github.com",
+        "score": 13,
+        "descendants": 0,
+        "by": "Klaster_1",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Antithesis 开源的用于 Web UI 自动化与属性基测试的工具。"
+      },
+      {
+        "id": 47454647,
+        "title": "Tin Can, a 'landline' for kids",
+        "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
+        "domain": "businessinsider.com",
+        "score": 185,
+        "descendants": 133,
+        "by": "tejohnso",
+        "tags": [],
+        "summary": "介绍一款专为儿童设计的物理实体“有线电话”设备，旨在提供安全的通话体验。"
+      },
+      {
+        "id": 47480886,
+        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+        "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+        "domain": "larstofus.com",
+        "score": 422,
+        "descendants": 122,
+        "by": "mariuz",
+        "tags": [],
+        "summary": "深入剖析经典游戏《过山车大亨》如何通过底层优化实现卓越性能。"
+      },
+      {
+        "id": 47444812,
+        "title": "Walmart: ChatGPT checkout converted 3x worse than website",
+        "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+        "domain": "searchengineland.com",
+        "score": 159,
+        "descendants": 108,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "数据表明沃尔玛的 ChatGPT 结账助手转化效果远低于传统网页端。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "rz01.org",
+          "count": 1
+        },
+        {
+          "domain": "sciencedirect.com",
+          "count": 1
+        },
+        {
+          "domain": "indieweb.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 214,
+      "max_score": {
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "score": 671
+      },
+      "most_discussed": {
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "comments": 317
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 关注技术基础设施与数字生活，讨论了 GitHub 可靠性问题、个人站点建设以及互联网优化实践。同时，科技伦理与产业应用亦引发热议，包括在线教育的偏见消除、以及 AI 电商转化率不如传统网页的深度思考。"
   }
 }
