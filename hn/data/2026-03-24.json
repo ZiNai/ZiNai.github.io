@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-03-24 09:03",
+    "stories": [
+      {
+        "id": 47496221,
+        "title": "Windows 3.1 tiled background .bmp archive",
+        "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+        "domain": "github.com",
+        "score": 105,
+        "descendants": 27,
+        "by": "justsomehnguy",
+        "tags": []
+      },
+      {
+        "id": 47495344,
+        "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+        "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+        "domain": "fcc.gov",
+        "score": 144,
+        "descendants": 87,
+        "by": "moonka",
+        "tags": []
+      },
+      {
+        "id": 47493460,
+        "title": "Autoresearch on an old research idea",
+        "url": "https://ykumar.me/blog/eclip-autoresearch/",
+        "domain": "ykumar.me",
+        "score": 261,
+        "descendants": 66,
+        "by": "ykumards",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 47490070,
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "url": "https://twitter.com/anemll/status/2035901335984611412",
+        "domain": "twitter.com",
+        "score": 474,
+        "descendants": 236,
+        "by": "anemll",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47467719,
+        "title": "Ju Ci: The Art of Repairing Porcelain",
+        "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+        "domain": "thesublimeblog.org",
+        "score": 42,
+        "descendants": 6,
+        "by": "lawrenceyan",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47491466,
+        "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+        "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+        "domain": "blog.mozilla.ai",
+        "score": 49,
+        "descendants": 17,
+        "by": "peteski22",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 47493657,
+        "title": "Local Stack Archived their GitHub repo and requires an account to run",
+        "url": "https://github.com/localstack/localstack",
+        "domain": "github.com",
+        "score": 150,
+        "descendants": 77,
+        "by": "ecshafer",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 47495527,
+        "title": "Claude Code Cheat Sheet",
+        "url": "https://cc.storyfox.cz",
+        "domain": "cc.storyfox.cz",
+        "score": 122,
+        "descendants": 35,
+        "by": "phasE89",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47475417,
+        "title": "Dune3d: A parametric 3D CAD application",
+        "url": "https://github.com/dune3d/dune3d",
+        "domain": "github.com",
+        "score": 96,
+        "descendants": 26,
+        "by": "luu",
+        "tags": []
+      },
+      {
+        "id": 47443903,
+        "title": "Finding all regex matches has always been O(n²)",
+        "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
+        "domain": "iev.ee",
+        "score": 150,
+        "descendants": 39,
+        "by": "lalitmaganti",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "fcc.gov",
+          "count": 1
+        },
+        {
+          "domain": "ykumar.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 159,
+      "max_score": {
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "score": 474
+      },
+      "most_discussed": {
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "comments": 236
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": ""
+  }
+}
