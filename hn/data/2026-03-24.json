@@ -306,5 +306,151 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于前沿人工智能的硬件突破与理论验证，展示了AI从模型推理到数学解决能力的快速进化。此外，硬件安全与隐私漏洞、科技政策变动以及科学考古发现也引起了社区的广泛关注与深入讨论。"
+  },
+  "evening": {
+    "time": "2026-03-24 21:03",
+    "stories": [
+      {
+        "id": 47500335,
+        "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+        "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+        "domain": "sambent.com",
+        "score": 375,
+        "descendants": 262,
+        "by": "h0ek",
+        "tags": []
+      },
+      {
+        "id": 47499721,
+        "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+        "url": "https://www.web-rewind.com",
+        "domain": "web-rewind.com",
+        "score": 110,
+        "descendants": 54,
+        "by": "thushanfernando",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 47499245,
+        "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+        "url": "https://burntsushi.net/ripgrep/",
+        "domain": "burntsushi.net",
+        "score": 129,
+        "descendants": 53,
+        "by": "jxmorris12",
+        "tags": []
+      },
+      {
+        "id": 47500746,
+        "title": "Debunking Zswap and Zram Myths",
+        "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+        "domain": "chrisdown.name",
+        "score": 39,
+        "descendants": 5,
+        "by": "javierhonduco",
+        "tags": []
+      },
+      {
+        "id": 47488686,
+        "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+        "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+        "domain": "jackhogan.me",
+        "score": 193,
+        "descendants": 62,
+        "by": "jackhogan11",
+        "tags": []
+      },
+      {
+        "id": 47500522,
+        "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+        "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+        "domain": "astrid.tech",
+        "score": 29,
+        "descendants": 20,
+        "by": "astralbijection",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 47498924,
+        "title": "Log File Viewer for the Terminal",
+        "url": "https://lnav.org/",
+        "domain": "lnav.org",
+        "score": 206,
+        "descendants": 26,
+        "by": "wiradikusuma",
+        "tags": []
+      },
+      {
+        "id": 47501729,
+        "title": "LiteLLM Python package compromised by supply-chain attack",
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "domain": "github.com",
+        "score": 7,
+        "descendants": 0,
+        "by": "theanonymousone",
+        "tags": [
+          "AI",
+          "Python"
+        ]
+      },
+      {
+        "id": 47453737,
+        "title": "Overcoming the Friendship Recession",
+        "url": "https://joeprevite.com/friendship-recession/",
+        "domain": "joeprevite.com",
+        "score": 14,
+        "descendants": 1,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 47467543,
+        "title": "MSA: Memory Sparse Attention",
+        "url": "https://github.com/EverMind-AI/MSA",
+        "domain": "github.com",
+        "score": 36,
+        "descendants": 2,
+        "by": "chaosprint",
+        "tags": [
+          "Systems"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "sambent.com",
+          "count": 1
+        },
+        {
+          "domain": "web-rewind.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 114,
+      "max_score": {
+        "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+        "score": 375
+      },
+      "most_discussed": {
+        "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+        "comments": 262
+      },
+      "hot_tags": [
+        "Systems",
+        "Web",
+        "AI",
+        "Python"
+      ]
+    },
+    "summary": ""
   }
 }
