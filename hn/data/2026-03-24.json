@@ -148,5 +148,163 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-03-24 13:18",
+    "stories": [
+      {
+        "id": 47497757,
+        "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+        "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+        "domain": "epoch.ai",
+        "score": 188,
+        "descendants": 80,
+        "by": "in-silico",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究机构Epoch证实GPT5.4 Pro在攻克前沿数学难题方面取得重大突破。"
+      },
+      {
+        "id": 47498509,
+        "title": "Box of Secrets: Discreetly modding an apartment intercom with Matter",
+        "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+        "domain": "jackhogan.me",
+        "score": 18,
+        "descendants": 1,
+        "by": "swq115",
+        "tags": [],
+        "summary": "通过Matter协议隐蔽改造公寓对讲机的技术实操指南。"
+      },
+      {
+        "id": 47493460,
+        "title": "Autoresearch on an old research idea",
+        "url": "https://ykumar.me/blog/eclip-autoresearch/",
+        "domain": "ykumar.me",
+        "score": 320,
+        "descendants": 71,
+        "by": "ykumards",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者通过自动化研究工具重访并推进一个搁置已久的科研课题。"
+      },
+      {
+        "id": 47495344,
+        "title": "FCC updates covered list to include foreign-made consumer routers",
+        "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+        "domain": "fcc.gov",
+        "score": 254,
+        "descendants": 169,
+        "by": "moonka",
+        "tags": [],
+        "summary": "美国FCC更新黑名单，正式将部分外国制造的消费级路由器列入监管限制。"
+      },
+      {
+        "id": 47490070,
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "url": "https://twitter.com/anemll/status/2035901335984611412",
+        "domain": "twitter.com",
+        "score": 534,
+        "descendants": 253,
+        "by": "anemll",
+        "tags": [
+          "AI"
+        ],
+        "summary": "演示视频显示iPhone 17 Pro已能流畅运行参数高达400B的超大规模语言模型。"
+      },
+      {
+        "id": 47453398,
+        "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
+        "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
+        "domain": "phys.org",
+        "score": 50,
+        "descendants": 10,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "考古研究发现庞贝古城遗迹中的损毁痕迹与古代防御性武器有关。"
+      },
+      {
+        "id": 47491466,
+        "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+        "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+        "domain": "blog.mozilla.ai",
+        "score": 100,
+        "descendants": 30,
+        "by": "peteski22",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "Mozilla发布Cq项目，旨在为AI编程代理提供类似于Stack Overflow的知识库支持。"
+      },
+      {
+        "id": 47429393,
+        "title": "Abusing Customizable Selects",
+        "url": "https://css-tricks.com/abusing-customizable-selects/",
+        "domain": "css-tricks.com",
+        "score": 67,
+        "descendants": 2,
+        "by": "speckx",
+        "tags": [],
+        "summary": "深度解析如何通过滥用现代网页CSS中的自定义选择器功能。"
+      },
+      {
+        "id": 47444387,
+        "title": "Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize",
+        "url": "https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/",
+        "domain": "scientificamerican.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "digital55",
+        "tags": [],
+        "summary": "曾证明莫德尔猜想的数学家格尔德·法尔廷斯荣获阿贝尔奖。"
+      },
+      {
+        "id": 47495719,
+        "title": "The Resolv hack: How one compromised key printed $23M",
+        "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+        "domain": "chainalysis.com",
+        "score": 74,
+        "descendants": 100,
+        "by": "timbowhite",
+        "tags": [
+          "Security"
+        ],
+        "summary": "复盘Resolv黑客攻击事件：解析单一密钥泄露如何导致2300万美元损失。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "epoch.ai",
+          "count": 1
+        },
+        {
+          "domain": "jackhogan.me",
+          "count": 1
+        },
+        {
+          "domain": "ykumar.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 162,
+      "max_score": {
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "score": 534
+      },
+      "most_discussed": {
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "comments": 253
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Show HN",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于前沿人工智能的硬件突破与理论验证，展示了AI从模型推理到数学解决能力的快速进化。此外，硬件安全与隐私漏洞、科技政策变动以及科学考古发现也引起了社区的广泛关注与深入讨论。"
   }
 }
