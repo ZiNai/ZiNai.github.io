@@ -156,5 +156,165 @@
       ]
     },
     "summary": "今日Hacker News重点关注科技行业动态，包括Sora项目的变动、苹果商业战略以及Arm在AGI领域的布局。同时，安全与技术实践类话题热度不减，尤其是针对开源供应链安全风险的警示以及开发者在垂直领域和编译技术上的深度探索。"
+  },
+  "noon": {
+    "time": "2026-03-25 13:19",
+    "stories": [
+      {
+        "id": 47511589,
+        "title": "Flighty Airports",
+        "url": "https://flighty.com/airports",
+        "domain": "flighty.com",
+        "score": 193,
+        "descendants": 62,
+        "by": "skogstokig",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Flighty Airports 提供了关于全球机场的实时信息与深度航旅数据服务。"
+      },
+      {
+        "id": 47512816,
+        "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+        "url": "https://v-os.dev",
+        "domain": "v-os.dev",
+        "score": 30,
+        "descendants": 7,
+        "by": "felixding",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "VitruvianOS 是一个受 BeOS 启发设计的桌面 Linux 发行版项目。"
+      },
+      {
+        "id": 47508246,
+        "title": "Goodbye to Sora",
+        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+        "domain": "twitter.com",
+        "score": 531,
+        "descendants": 403,
+        "by": "mikeocool",
+        "tags": [],
+        "summary": "针对 OpenAI Sora 模型的撤档或相关变动引发的社区热议与反思。"
+      },
+      {
+        "id": 47512891,
+        "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+        "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+        "domain": "github.com",
+        "score": 21,
+        "descendants": 1,
+        "by": "cigrainger",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "为 DuckDB 引入基于 ACORN-1 的预过滤 HNSW 向量索引社区扩展。"
+      },
+      {
+        "id": 47506713,
+        "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+        "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+        "domain": "videojs.org",
+        "score": 286,
+        "descendants": 51,
+        "by": "Heff",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Video.js 作者重掌项目后，通过彻底重构将库体积缩减了 88%。"
+      },
+      {
+        "id": 47509571,
+        "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+        "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+        "domain": "onhand.pro",
+        "score": 239,
+        "descendants": 109,
+        "by": "tezclarke",
+        "tags": [],
+        "summary": "开发者为了打造垂直 SaaS 系统，亲自入职虫害防治公司积累行业痛点经验。"
+      },
+      {
+        "id": 47504112,
+        "title": "Apple Business",
+        "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+        "domain": "apple.com",
+        "score": 563,
+        "descendants": 329,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "探讨苹果公司在企业级业务领域的产品布局及其生态体系。"
+      },
+      {
+        "id": 47501426,
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "domain": "github.com",
+        "score": 571,
+        "descendants": 396,
+        "by": "dot_treo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "警告：Litellm 版本 1.82.7 及 1.82.8 在 PyPI 上遭到恶意劫持与代码污染。"
+      },
+      {
+        "id": 47506251,
+        "title": "Arm AGI CPU",
+        "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+        "domain": "newsroom.arm.com",
+        "score": 309,
+        "descendants": 235,
+        "by": "RealityVoid",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "Arm 对 AGI 计算硬件需求的看法及其在通用人工智能算力层面的布局。"
+      },
+      {
+        "id": 47501825,
+        "title": "Why did the chicken cross the road?",
+        "url": "https://taylor.town/other-side",
+        "domain": "taylor.town",
+        "score": 7,
+        "descendants": 0,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "一个以“为什么鸡要过马路”为切入点的趣味思考实验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "flighty.com",
+          "count": 1
+        },
+        {
+          "domain": "v-os.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 275,
+      "max_score": {
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "score": 571
+      },
+      "most_discussed": {
+        "title": "Goodbye to Sora",
+        "comments": 403
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点在于技术安全警示与行业深度实践，涵盖了开源库供应链攻击、大模型与AI硬件发展动向，以及垂直行业软件创业的实地调研经验。整体呈现出技术探索与商业应用并重的趋势。"
   }
 }
