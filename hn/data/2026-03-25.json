@@ -316,5 +316,165 @@
       ]
     },
     "summary": "本期Hacker News关注焦点在于技术安全警示与行业深度实践，涵盖了开源库供应链攻击、大模型与AI硬件发展动向，以及垂直行业软件创业的实地调研经验。整体呈现出技术探索与商业应用并重的趋势。"
+  },
+  "evening": {
+    "time": "2026-03-25 21:00",
+    "stories": [
+      {
+        "id": 47514916,
+        "title": "Meta told to pay $375M for misleading users over child safety",
+        "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+        "domain": "bbc.com",
+        "score": 178,
+        "descendants": 79,
+        "by": "testrun",
+        "tags": [],
+        "summary": "Meta因在儿童安全问题上误导用户被判处3.75亿美元罚款。"
+      },
+      {
+        "id": 47513475,
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "domain": "research.google",
+        "score": 248,
+        "descendants": 59,
+        "by": "ray__",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google推出的TurboQuant通过极端压缩技术，旨在显著提升AI模型的运行效率。"
+      },
+      {
+        "id": 47472566,
+        "title": "Looking at Unity made me understand the point of C++ coroutines",
+        "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
+        "domain": "mropert.github.io",
+        "score": 64,
+        "descendants": 42,
+        "by": "ingve",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者通过分析Unity引擎的实现，深入探讨了C++协程的实际应用价值与设计逻辑。"
+      },
+      {
+        "id": 47508246,
+        "title": "Goodbye to Sora",
+        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+        "domain": "twitter.com",
+        "score": 812,
+        "descendants": 589,
+        "by": "mikeocool",
+        "tags": [],
+        "summary": "关于Sora项目近期动态的社区讨论，引发了对生成式AI视频技术发展的广泛关注。"
+      },
+      {
+        "id": 47512816,
+        "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+        "url": "https://v-os.dev",
+        "domain": "v-os.dev",
+        "score": 194,
+        "descendants": 119,
+        "by": "felixding",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "VitruvianOS是一款受BeOS启发设计的全新桌面Linux发行版，强调独特的交互体验。"
+      },
+      {
+        "id": 47511589,
+        "title": "Flighty Airports",
+        "url": "https://flighty.com/airports",
+        "domain": "flighty.com",
+        "score": 363,
+        "descendants": 126,
+        "by": "skogstokig",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Flighty推出的机场导航功能，展示了针对旅行场景的精细化地理信息数据应用。"
+      },
+      {
+        "id": 47506713,
+        "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+        "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+        "domain": "videojs.org",
+        "score": 467,
+        "descendants": 92,
+        "by": "Heff",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Video.js维护者在接管项目16年后，通过彻底重构将库体积减小了88%。"
+      },
+      {
+        "id": 47501426,
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "domain": "github.com",
+        "score": 745,
+        "descendants": 441,
+        "by": "dot_treo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "LiteLLM在PyPI上的最新版本遭到供应链攻击，提醒开发者立即排查相关依赖安全。"
+      },
+      {
+        "id": 47511703,
+        "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+        "url": "https://spectrum.ieee.org/data-center-dc",
+        "domain": "spectrum.ieee.org",
+        "score": 178,
+        "descendants": 209,
+        "by": "jnord",
+        "tags": [],
+        "summary": "数据中心正尝试从交流电（AC）转向直流电（DC）供电，以提升能源利用效率。"
+      },
+      {
+        "id": 47515502,
+        "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+        "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+        "domain": "bbc.com",
+        "score": 84,
+        "descendants": 78,
+        "by": "dabinat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一则关于试图向家人证明自己并非AI却惨遭质疑的趣闻，折射出当下公众对AI辨识的焦虑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bbc.com",
+          "count": 2
+        },
+        {
+          "domain": "research.google",
+          "count": 1
+        },
+        {
+          "domain": "mropert.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 333,
+      "max_score": {
+        "title": "Goodbye to Sora",
+        "score": 812
+      },
+      "most_discussed": {
+        "title": "Goodbye to Sora",
+        "comments": 589
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News焦点涵盖了技术基础设施与安全领域的重大变动，从LiteLLM供应链攻击的警示到数据中心电力架构的范式转移。同时，行业内关于AI效率、大型开源项目的重构以及操作系统创新的讨论依然活跃，反映出开发者对性能优化与技术可持续性的持续关注。"
   }
 }
