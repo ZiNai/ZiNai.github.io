@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-03-25 09:08",
+    "stories": [
+      {
+        "id": 47509571,
+        "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+        "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+        "domain": "onhand.pro",
+        "score": 177,
+        "descendants": 70,
+        "by": "tezclarke",
+        "tags": [],
+        "summary": "开发者为了打造虫害防治垂直SaaS软件，通过亲身入职一线技术员积累行业洞察的实战经历。"
+      },
+      {
+        "id": 47508246,
+        "title": "Goodbye to Sora",
+        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+        "domain": "twitter.com",
+        "score": 314,
+        "descendants": 236,
+        "by": "mikeocool",
+        "tags": [],
+        "summary": "针对Sora项目在技术研发或产品定位方向上的变动引发的行业讨论与回顾。"
+      },
+      {
+        "id": 47511589,
+        "title": "Flighty Airports",
+        "url": "https://flighty.com/airports",
+        "domain": "flighty.com",
+        "score": 22,
+        "descendants": 9,
+        "by": "skogstokig",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示Flighty App在机场数据追踪方面的最新功能与优化。"
+      },
+      {
+        "id": 47506713,
+        "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+        "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+        "domain": "videojs.org",
+        "score": 186,
+        "descendants": 22,
+        "by": "Heff",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Video.js作者在接手项目16年后，通过彻底重构将库体积缩小了88%的开发历程。"
+      },
+      {
+        "id": 47504112,
+        "title": "Apple Business",
+        "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+        "domain": "apple.com",
+        "score": 507,
+        "descendants": 313,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "探讨苹果在商业化及企业级市场领域的新动向与战略布局。"
+      },
+      {
+        "id": 47506251,
+        "title": "Arm AGI CPU",
+        "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+        "domain": "newsroom.arm.com",
+        "score": 270,
+        "descendants": 208,
+        "by": "RealityVoid",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "Arm官方发布针对AGI工作负载优化的处理器架构及其技术细节。"
+      },
+      {
+        "id": 47501426,
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "domain": "github.com",
+        "score": 475,
+        "descendants": 369,
+        "by": "dot_treo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "警告：Litellm的部分PyPI版本被发现存在安全攻击风险，建议开发者立即采取防范措施。"
+      },
+      {
+        "id": 47511703,
+        "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+        "url": "https://spectrum.ieee.org/data-center-dc",
+        "domain": "spectrum.ieee.org",
+        "score": 7,
+        "descendants": 0,
+        "by": "jnord",
+        "tags": [],
+        "summary": "探讨数据中心正在经历的技术转型，即从交流电（AC）向直流电（DC）供电系统的演进。"
+      },
+      {
+        "id": 47511208,
+        "title": "A Compiler Writing Journey",
+        "url": "https://github.com/DoctorWkt/acwj",
+        "domain": "github.com",
+        "score": 17,
+        "descendants": 0,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一位开发者记录其深入学习与构建编译器的技术实践与心得。"
+      },
+      {
+        "id": 47472120,
+        "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
+        "url": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
+        "domain": "nytimes.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "tintinnabula",
+        "tags": [],
+        "summary": "回顾CBS新闻广播长达数十年的媒体历程及其在数字时代落幕的行业背景。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "onhand.pro",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 199,
+      "max_score": {
+        "title": "Apple Business",
+        "score": 507
+      },
+      "most_discussed": {
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "comments": 369
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News重点关注科技行业动态，包括Sora项目的变动、苹果商业战略以及Arm在AGI领域的布局。同时，安全与技术实践类话题热度不减，尤其是针对开源供应链安全风险的警示以及开发者在垂直领域和编译技术上的深度探索。"
+  }
+}
