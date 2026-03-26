@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-03-26 09:13",
+    "stories": [
+      {
+        "id": 47523330,
+        "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+        "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+        "domain": "bugs.xdavidhu.me",
+        "score": 305,
+        "descendants": 98,
+        "by": "driesdep",
+        "tags": [
+          "AI"
+        ],
+        "summary": "硬核开发者通过拆解报废车辆零件，成功在桌面环境下运行特斯拉Model 3车载电脑系统。"
+      },
+      {
+        "id": 47521150,
+        "title": "ARC-AGI-3",
+        "url": "https://arcprize.org/arc-agi/3",
+        "domain": "arcprize.org",
+        "score": 242,
+        "descendants": 168,
+        "by": "lairv",
+        "tags": [],
+        "summary": "ARC-AGI竞赛发布新进展，旨在推动人工智能在处理复杂推理任务上的能力边界。"
+      },
+      {
+        "id": 47522709,
+        "title": "The EU still wants to scan  your private messages and photos",
+        "url": "https://fightchatcontrol.eu/?foo=bar",
+        "domain": "fightchatcontrol.eu",
+        "score": 671,
+        "descendants": 200,
+        "by": "MrBruh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "欧盟争议性立法提议引发关注，该草案要求扫描民众私人通信及图片以进行内容审查。"
+      },
+      {
+        "id": 47517606,
+        "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+        "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+        "domain": "washington.edu",
+        "score": 90,
+        "descendants": 39,
+        "by": "Brajeshwar",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "地震研究人员发现过度耕作会削弱土壤结构，并在实验农场中揭示了其科学机制。"
+      },
+      {
+        "id": 47477873,
+        "title": "My astrophotography in the movie Project Hail Mary",
+        "url": "https://rpastro.square.site/s/stories/phm",
+        "domain": "rpastro.square.site",
+        "score": 683,
+        "descendants": 180,
+        "by": "wallflower",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一位天文摄影师分享了其作品被选中收录进电影《Project Hail Mary》背后的创作经历。"
+      },
+      {
+        "id": 47521157,
+        "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+        "url": "https://www.claudescode.dev/?window=since_launch",
+        "domain": "claudescode.dev",
+        "score": 175,
+        "descendants": 100,
+        "by": "louiereederson",
+        "tags": [
+          "AI",
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "数据分析指出，大部分通过Claude生成的代码被上传至无人问津的低质量GitHub仓库中。"
+      },
+      {
+        "id": 47483286,
+        "title": "My DIY FPGA board can run Quake II",
+        "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+        "domain": "blog.mikhe.ch",
+        "score": 50,
+        "descendants": 13,
+        "by": "sznio",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "开发者展示了如何使用自研的FPGA电路板成功运行经典游戏《雷神之锤II》。"
+      },
+      {
+        "id": 47518281,
+        "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+        "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+        "domain": "nytimes.com",
+        "score": 269,
+        "descendants": 233,
+        "by": "oj2828",
+        "tags": [],
+        "summary": "最高法院在关于盗版音乐的版权诉讼中做出判决，支持了Cox通信公司的立场。"
+      },
+      {
+        "id": 47521876,
+        "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+        "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+        "domain": "lapcatsoftware.com",
+        "score": 274,
+        "descendants": 149,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "指责苹果公司要求用户反复验证Bug以保持反馈开启，否则将随机关闭未修复的错误报告。"
+      },
+      {
+        "id": 47519295,
+        "title": "Quantization from the Ground Up",
+        "url": "https://ngrok.com/blog/quantization",
+        "domain": "ngrok.com",
+        "score": 187,
+        "descendants": 36,
+        "by": "samwho",
+        "tags": [],
+        "summary": "一篇详细的技术科普文章，从底层原理剖析了模型量化在人工智能领域的运作方式。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bugs.xdavidhu.me",
+          "count": 1
+        },
+        {
+          "domain": "arcprize.org",
+          "count": 1
+        },
+        {
+          "domain": "fightchatcontrol.eu",
+          "count": 1
+        }
+      ],
+      "avg_score": 295,
+      "max_score": {
+        "title": "My astrophotography in the movie Project Hail Mary",
+        "score": 683
+      },
+      "most_discussed": {
+        "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+        "comments": 233
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿AI技术、隐私合规挑战及深度硬件工程。开发者们对AI应用生态、模型量化以及科技巨头的法律与政策动向保持着高度关注。"
+  }
+}
