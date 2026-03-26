@@ -161,5 +161,177 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿AI技术、隐私合规挑战及深度硬件工程。开发者们对AI应用生态、模型量化以及科技巨头的法律与政策动向保持着高度关注。"
+  },
+  "noon": {
+    "time": "2026-03-26 13:27",
+    "stories": [
+      {
+        "id": 47523330,
+        "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+        "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+        "domain": "bugs.xdavidhu.me",
+        "score": 487,
+        "descendants": 135,
+        "by": "driesdep",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者利用报废车辆零件，成功在桌面环境下运行特斯拉Model 3的车载计算机。"
+      },
+      {
+        "id": 47521150,
+        "title": "ARC-AGI-3",
+        "url": "https://arcprize.org/arc-agi/3",
+        "domain": "arcprize.org",
+        "score": 317,
+        "descendants": 200,
+        "by": "lairv",
+        "tags": [],
+        "summary": "介绍ARC-AGI-3竞赛的最新进展，旨在推动通用人工智能在抽象推理方面的突破。"
+      },
+      {
+        "id": 47477873,
+        "title": "My astrophotography in the movie Project Hail Mary",
+        "url": "https://rpastro.square.site/s/stories/phm",
+        "domain": "rpastro.square.site",
+        "score": 773,
+        "descendants": 192,
+        "by": "wallflower",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一位天文摄影师分享了其作品入选电影《Project Hail Mary》的幕后历程。"
+      },
+      {
+        "id": 47525378,
+        "title": "False claims in a widely-cited paper",
+        "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+        "domain": "statmodeling.stat.columbia.edu",
+        "score": 206,
+        "descendants": 70,
+        "by": "qsi",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "统计学家分析了一篇被广泛引用的论文中存在的虚假结论及数据错误。"
+      },
+      {
+        "id": 47517606,
+        "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+        "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+        "domain": "washington.edu",
+        "score": 129,
+        "descendants": 55,
+        "by": "Brajeshwar",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "地震学家研究发现过度耕作会削弱土壤结构，对实验农场的土质稳定性产生不利影响。"
+      },
+      {
+        "id": 47478599,
+        "title": "Two studies in compiler optimisations",
+        "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
+        "domain": "hmpcabral.com",
+        "score": 41,
+        "descendants": 1,
+        "by": "hmpc",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分享了两项关于编译器优化技术的深度研究成果。"
+      },
+      {
+        "id": 47522709,
+        "title": "The EU still wants to scan  your private messages and photos",
+        "url": "https://fightchatcontrol.eu/?foo=bar",
+        "domain": "fightchatcontrol.eu",
+        "score": 863,
+        "descendants": 230,
+        "by": "MrBruh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "欧盟针对端到端加密通信的监管提案再次引发隐私保护与监控争议。"
+      },
+      {
+        "id": 47521157,
+        "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+        "url": "https://www.claudescode.dev/?window=since_launch",
+        "domain": "claudescode.dev",
+        "score": 225,
+        "descendants": 135,
+        "by": "louiereederson",
+        "tags": [
+          "AI",
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "分析指出，90%由Claude生成的代码最终流入了缺乏关注度的低质量GitHub仓库。"
+      },
+      {
+        "id": 47483286,
+        "title": "My DIY FPGA board can run Quake II",
+        "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+        "domain": "blog.mikhe.ch",
+        "score": 98,
+        "descendants": 31,
+        "by": "sznio",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "开发者展示了如何使用自制FPGA开发板运行经典游戏《雷神之锤2》。"
+      },
+      {
+        "id": 47526486,
+        "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+        "url": "https://github.com/lightfeed/extractor",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 2,
+        "by": "andrew_zhong",
+        "tags": [
+          "AI",
+          "JavaScript",
+          "Web",
+          "Show HN"
+        ],
+        "summary": "介绍一个基于TypeScript开发的、用于从网站抓取数据的鲁棒性LLM提取工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bugs.xdavidhu.me",
+          "count": 1
+        },
+        {
+          "domain": "arcprize.org",
+          "count": 1
+        },
+        {
+          "domain": "rpastro.square.site",
+          "count": 1
+        }
+      ],
+      "avg_score": 315,
+      "max_score": {
+        "title": "The EU still wants to scan  your private messages and photos",
+        "score": 863
+      },
+      "most_discussed": {
+        "title": "The EU still wants to scan  your private messages and photos",
+        "comments": 230
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Science",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News重点关注前沿技术与隐私议题，AI开发生态及模型评估成为讨论热点。同时，硬核工程实践与学术界质疑的声音也引发了社区的广泛关注。"
   }
 }
