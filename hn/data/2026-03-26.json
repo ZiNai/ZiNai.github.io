@@ -333,5 +333,156 @@
       ]
     },
     "summary": "今日Hacker News重点关注前沿技术与隐私议题，AI开发生态及模型评估成为讨论热点。同时，硬核工程实践与学术界质疑的声音也引发了社区的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-03-26 21:05",
+    "stories": [
+      {
+        "id": 47522173,
+        "title": "Personal Encyclopedias",
+        "url": "https://whoami.wiki/blog/personal-encyclopedias",
+        "domain": "whoami.wiki",
+        "score": 391,
+        "descendants": 79,
+        "by": "jrmyphlmn",
+        "tags": [],
+        "summary": "探讨建立个人知识库（Personal Encyclopedia）的方法论与工具，旨在优化个人信息存储与检索体验。"
+      },
+      {
+        "id": 47527590,
+        "title": "Swift 6.3",
+        "url": "https://www.swift.org/blog/swift-6.3-released/",
+        "domain": "swift.org",
+        "score": 146,
+        "descendants": 71,
+        "by": "ingve",
+        "tags": [],
+        "summary": "Swift 6.3 版本正式发布，带来了编译器优化与功能改进，增强了开发者的语言体验。"
+      },
+      {
+        "id": 47499356,
+        "title": "From zero to a RAG system: successes and failures",
+        "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+        "domain": "en.andros.dev",
+        "score": 80,
+        "descendants": 16,
+        "by": "andros",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享从零开始构建RAG系统的完整路径，深入剖析了项目实施过程中的实战经验与失败教训。"
+      },
+      {
+        "id": 47529646,
+        "title": "European Parliament decided that Chat Control 1.0 must stop",
+        "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+        "domain": "bsky.app",
+        "score": 53,
+        "descendants": 8,
+        "by": "lemoncookiechip",
+        "tags": [],
+        "summary": "欧洲议会投票决定终止“Chat Control 1.0”提案，标志着隐私倡导者在反对大规模监控方面的阶段性胜利。"
+      },
+      {
+        "id": 47523330,
+        "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+        "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+        "domain": "bugs.xdavidhu.me",
+        "score": 692,
+        "descendants": 223,
+        "by": "driesdep",
+        "tags": [
+          "AI"
+        ],
+        "summary": "硬核极客通过购买报废车辆零件，成功在桌面环境下运行特斯拉Model 3车载电脑系统。"
+      },
+      {
+        "id": 47526478,
+        "title": "Obsolete Sounds",
+        "url": "https://citiesandmemory.com/obsolete-sounds/",
+        "domain": "citiesandmemory.com",
+        "score": 84,
+        "descendants": 13,
+        "by": "benbreen",
+        "tags": [],
+        "summary": "一个捕捉并记录世界各地即将消失的各种声音的文化档案项目。"
+      },
+      {
+        "id": 47529534,
+        "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+        "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+        "domain": "latimes.com",
+        "score": 34,
+        "descendants": 9,
+        "by": "1vuio0pswjnm7",
+        "tags": [],
+        "summary": "洛杉矶陪审团裁定，Instagram与YouTube平台的设计存在诱导未成年人成瘾的倾向。"
+      },
+      {
+        "id": 47528605,
+        "title": "LibreOffice and the Art of Overreacting",
+        "url": "https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/",
+        "domain": "blog.documentfoundation.org",
+        "score": 78,
+        "descendants": 43,
+        "by": "bundie",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "文档基金会针对 LibreOffice 社区争议发表声明，探讨了开源项目治理中的反应过度问题。"
+      },
+      {
+        "id": 47529609,
+        "title": "End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller",
+        "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
+        "domain": "patrick-breyer.de",
+        "score": 23,
+        "descendants": 6,
+        "by": "amarcheschi",
+        "tags": [],
+        "summary": "详细报道欧洲议会通过投票否决大规模监控法案的过程，分析了此举对欧盟数字隐私政策的深远意义。"
+      },
+      {
+        "id": 47525243,
+        "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+        "url": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+        "domain": "blog.hofstede.it",
+        "score": 203,
+        "descendants": 87,
+        "by": "zdw",
+        "tags": [],
+        "summary": "精选一系列实用Shell命令技巧，旨在简化日常操作并大幅提升终端使用效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "whoami.wiki",
+          "count": 1
+        },
+        {
+          "domain": "swift.org",
+          "count": 1
+        },
+        {
+          "domain": "en.andros.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 178,
+      "max_score": {
+        "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+        "score": 692
+      },
+      "most_discussed": {
+        "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+        "comments": 223
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript"
+      ]
+    },
+    "summary": "今日Hacker News重点关注前沿技术与社会议题，涵盖了从车载计算硬件复用、编程语言更新到RAG系统实践等深度技术话题。同时，关于欧盟废除Chat Control监控法案及社交媒体对儿童成瘾性设计的法律判决，引发了社区对于隐私保护与科技伦理的广泛讨论。"
   }
 }
