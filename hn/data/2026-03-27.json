@@ -322,5 +322,166 @@
       ]
     },
     "summary": "今日 Hacker News 讨论核心聚焦于 AI 代理的工程化落地与实践，从自主编程、任务调度到搜索增强等多个维度展示了当前 AI 应用的进展。此外，关于技术基础设施的迁移与历史工业设计美学的讨论也引发了社区关注。"
+  },
+  "evening": {
+    "time": "2026-03-27 20:57",
+    "stories": [
+      {
+        "id": 47540833,
+        "title": "Hold on to Your Hardware",
+        "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+        "domain": "xn--gckvb8fzb.com",
+        "score": 224,
+        "descendants": 157,
+        "by": "LucidLynx",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "呼吁用户保护并延长现有计算硬件的使用寿命，应对消费主义。 "
+      },
+      {
+        "id": 47539825,
+        "title": "A Faster Alternative to Jq",
+        "url": "https://micahkepe.com/blog/jsongrep/",
+        "domain": "micahkepe.com",
+        "score": 196,
+        "descendants": 104,
+        "by": "pistolario",
+        "tags": [],
+        "summary": "介绍一款性能显著优于传统 Jq 的 JSON 处理工具。"
+      },
+      {
+        "id": 47539188,
+        "title": "Schedule tasks on the web",
+        "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+        "domain": "code.claude.com",
+        "score": 182,
+        "descendants": 142,
+        "by": "iBelieve",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨在网页端调度任务的技术实现与应用场景。"
+      },
+      {
+        "id": 47535708,
+        "title": "Apple discontinues the Mac Pro",
+        "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+        "domain": "9to5mac.com",
+        "score": 455,
+        "descendants": 364,
+        "by": "bentocorp",
+        "tags": [],
+        "summary": "报道苹果公司正式停产 Mac Pro 的相关动态与市场影响。"
+      },
+      {
+        "id": 47539767,
+        "title": "The European AllSky7 fireball network",
+        "url": "https://www.allsky7.net/#archive",
+        "domain": "allsky7.net",
+        "score": 72,
+        "descendants": 7,
+        "by": "marklit",
+        "tags": [],
+        "summary": "介绍覆盖欧洲全境的 AllSky7 火流星监测网络及其科学意义。"
+      },
+      {
+        "id": 47518960,
+        "title": "Why so many control rooms were seafoam green (2025)",
+        "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+        "domain": "bethmathews.substack.com",
+        "score": 877,
+        "descendants": 176,
+        "by": "Amorymeltzer",
+        "tags": [],
+        "summary": "深度解析为何历史上许多工业控制室偏好使用海沫绿这一色彩。"
+      },
+      {
+        "id": 47493246,
+        "title": "Everything old is new again: memory optimization",
+        "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+        "domain": "nibblestew.blogspot.com",
+        "score": 71,
+        "descendants": 34,
+        "by": "ibobev",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "回顾并重申内存优化在软件开发中的经典价值。"
+      },
+      {
+        "id": 47500337,
+        "title": "Local Bernstein theory, and lower bounds for Lebesgue constants",
+        "url": "https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/",
+        "domain": "terrytao.wordpress.com",
+        "score": 17,
+        "descendants": 0,
+        "by": "jjgreen",
+        "tags": [],
+        "summary": "陶哲轩探讨局部伯恩斯坦理论及勒贝格常数的下界证明。"
+      },
+      {
+        "id": 47536761,
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "domain": "georgelarson.me",
+        "score": 278,
+        "descendants": 78,
+        "by": "j0rg3",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "作者分享如何通过 IRC 协议在廉价 VPS 上运行 AI 代理的实验项目。"
+      },
+      {
+        "id": 47533297,
+        "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+        "url": "https://github.com/itigges22/ATLAS",
+        "domain": "github.com",
+        "score": 336,
+        "descendants": 191,
+        "by": "yogthos",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "测评显示一款价值 500 美元的 GPU 在代码生成基准测试中超越了 Claude 3.5 Sonnet。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "xn--gckvb8fzb.com",
+          "count": 1
+        },
+        {
+          "domain": "micahkepe.com",
+          "count": 1
+        },
+        {
+          "domain": "code.claude.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 271,
+      "max_score": {
+        "title": "Why so many control rooms were seafoam green (2025)",
+        "score": 877
+      },
+      "most_discussed": {
+        "title": "Apple discontinues the Mac Pro",
+        "comments": 364
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Web",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于硬件技术演进与性能优化的讨论，涵盖了从 Mac Pro 产品线调整到高性价比 AI 计算的行业动态。开发者社区同时表现出对工具效率提升和复古工业设计研究的浓厚兴趣。"
   }
 }
