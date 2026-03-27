@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-03-27 09:13",
+    "stories": [
+      {
+        "id": 47536761,
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "domain": "georgelarson.me",
+        "score": 70,
+        "descendants": 20,
+        "by": "j0rg3",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "开发者尝试将 AI 代理部署在廉价 VPS 上，并以 IRC 作为通信协议的实验性项目。"
+      },
+      {
+        "id": 47518960,
+        "title": "Why so many control rooms were seafoam green (2025)",
+        "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+        "domain": "bethmathews.substack.com",
+        "score": 568,
+        "descendants": 112,
+        "by": "Amorymeltzer",
+        "tags": [],
+        "summary": "深度解析为何过去许多控制室偏爱海泡石绿配色的历史原因。"
+      },
+      {
+        "id": 47537106,
+        "title": "Chicago artist creates tourism posters for city's neighborhoods",
+        "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+        "domain": "chicagotribune.com",
+        "score": 30,
+        "descendants": 15,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "一位芝加哥艺术家为各街区设计了一系列别具风格的旅游宣传海报。"
+      },
+      {
+        "id": 47537228,
+        "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+        "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+        "domain": "cnn.com",
+        "score": 118,
+        "descendants": 41,
+        "by": "prawn",
+        "tags": [
+          "AI"
+        ],
+        "summary": "法院裁定阻止五角大楼将 Anthropic 列入供应链风险名单，以防对其造成不正当惩罚。"
+      },
+      {
+        "id": 47490705,
+        "title": "DOOM Over DNS",
+        "url": "https://github.com/resumex/doom-over-dns",
+        "domain": "github.com",
+        "score": 207,
+        "descendants": 64,
+        "by": "Venn1",
+        "tags": [],
+        "summary": "一个极具创意的黑客挑战：通过 DNS 协议运行经典游戏《DOOM》。"
+      },
+      {
+        "id": 47530330,
+        "title": "Moving from GitHub to Codeberg, for lazy people",
+        "url": "https://unterwaditzer.net/2025/codeberg.html",
+        "domain": "unterwaditzer.net",
+        "score": 514,
+        "descendants": 254,
+        "by": "jslakro",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一篇详细指南，探讨从 GitHub 迁移至 Codeberg 的流程，旨在帮助追求独立托管的用户。"
+      },
+      {
+        "id": 47536110,
+        "title": "Anthropic Subprocessor Changes",
+        "url": "https://trust.anthropic.com",
+        "domain": "trust.anthropic.com",
+        "score": 33,
+        "descendants": 16,
+        "by": "tencentshill",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 官方发布的关于其子处理器（Subprocessor）服务商的变动公告。"
+      },
+      {
+        "id": 47531967,
+        "title": "My minute-by-minute response to the LiteLLM malware attack",
+        "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+        "domain": "futuresearch.ai",
+        "score": 288,
+        "descendants": 123,
+        "by": "Fibonar",
+        "tags": [
+          "AI"
+        ],
+        "summary": "LiteLLM 作者复盘应对近期恶意软件攻击的详细过程与应急响应记录。"
+      },
+      {
+        "id": 47537051,
+        "title": "Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
+        "domain": "storage.courtlistener.com",
+        "score": 81,
+        "descendants": 4,
+        "by": "theindieman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 对抗美国国防部关于供应链风险标签的法院初步禁令裁定文件。"
+      },
+      {
+        "id": 47534629,
+        "title": "CERN to host a new phase of Open Research Europe",
+        "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
+        "domain": "home.cern",
+        "score": 189,
+        "descendants": 16,
+        "by": "JohnHammersley",
+        "tags": [
+          "Science"
+        ],
+        "summary": "CERN 宣布开启“欧洲开放研究”项目的新阶段，旨在推动学术科研透明化。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "georgelarson.me",
+          "count": 1
+        },
+        {
+          "domain": "bethmathews.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "chicagotribune.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 210,
+      "max_score": {
+        "title": "Why so many control rooms were seafoam green (2025)",
+        "score": 568
+      },
+      "most_discussed": {
+        "title": "Moving from GitHub to Codeberg, for lazy people",
+        "comments": 254
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 生态的安全监管与行业动态，Anthropic 涉及的法律诉讼与供应链标签引发广泛关注。同时，技术社区对开源工具迁移及复古技术实验表现出浓厚兴趣，反映了开发者对平台自主权与技术玩法的持续探索。"
+  }
+}
