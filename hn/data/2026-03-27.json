@@ -160,5 +160,167 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 生态的安全监管与行业动态，Anthropic 涉及的法律诉讼与供应链标签引发广泛关注。同时，技术社区对开源工具迁移及复古技术实验表现出浓厚兴趣，反映了开发者对平台自主权与技术玩法的持续探索。"
+  },
+  "noon": {
+    "time": "2026-03-27 13:28",
+    "stories": [
+      {
+        "id": 47539188,
+        "title": "Schedule Claude Code tasks on the web",
+        "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+        "domain": "code.claude.com",
+        "score": 26,
+        "descendants": 9,
+        "by": "iBelieve",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "Claude Code 新增网页端任务调度功能，提升开发者的自动化交互体验。"
+      },
+      {
+        "id": 47518960,
+        "title": "Why so many control rooms were seafoam green (2025)",
+        "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+        "domain": "bethmathews.substack.com",
+        "score": 704,
+        "descendants": 143,
+        "by": "Amorymeltzer",
+        "tags": [],
+        "summary": "深度解析为何 20 世纪中期的控制室大多采用“海泡石绿”作为标准配色。"
+      },
+      {
+        "id": 47535708,
+        "title": "Apple discontinues the Mac Pro",
+        "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+        "domain": "9to5mac.com",
+        "score": 229,
+        "descendants": 186,
+        "by": "bentocorp",
+        "tags": [],
+        "summary": "报道称苹果公司正式停产 Mac Pro 系列机型。"
+      },
+      {
+        "id": 47536761,
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "domain": "georgelarson.me",
+        "score": 169,
+        "descendants": 61,
+        "by": "j0rg3",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "开发者展示如何将 AI 代理部署在廉价 VPS 上，并以 IRC 作为独特的通信传输层。"
+      },
+      {
+        "id": 47538078,
+        "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+        "url": "https://www.symbolica.ai/blog/arc-agi-3",
+        "domain": "symbolica.ai",
+        "score": 56,
+        "descendants": 24,
+        "by": "lairv",
+        "tags": [],
+        "summary": "分享在 ARC-AGI-3 挑战赛首日即达成 36% 准确率的技术实现思路。"
+      },
+      {
+        "id": 47530330,
+        "title": "Moving from GitHub to Codeberg, for lazy people",
+        "url": "https://unterwaditzer.net/2025/codeberg.html",
+        "domain": "unterwaditzer.net",
+        "score": 560,
+        "descendants": 280,
+        "by": "jslakro",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "针对追求便捷的开发者，分享从 GitHub 迁移至 Codeberg 的避坑指南与流程。"
+      },
+      {
+        "id": 47534564,
+        "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+        "url": "https://www.trychroma.com/research/context-1",
+        "domain": "trychroma.com",
+        "score": 28,
+        "descendants": 1,
+        "by": "philip1209",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Chroma 发布 Context-1，展示了一种具备自我编辑能力的搜索代理训练方法。"
+      },
+      {
+        "id": 47489213,
+        "title": "Dobase – Your workspace, your server",
+        "url": "https://dobase.co/",
+        "domain": "dobase.co",
+        "score": 45,
+        "descendants": 13,
+        "by": "frenkel",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍 Dobase：一款旨在将工作空间与远程服务器无缝集成的开发工具。"
+      },
+      {
+        "id": 47538190,
+        "title": "Agent-to-Agent Pair Programming",
+        "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+        "domain": "axeldelafosse.com",
+        "score": 27,
+        "descendants": 9,
+        "by": "axldelafosse",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 AI 代理之间的协作模式，通过对码编程提升自动化开发效率。"
+      },
+      {
+        "id": 47495190,
+        "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
+        "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
+        "domain": "atgreen.github.io",
+        "score": 53,
+        "descendants": 2,
+        "by": "varjag",
+        "tags": [],
+        "summary": "开源项目 Whistler：允许用户直接在 Common Lisp REPL 中实时编写和调试 eBPF 程序。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "code.claude.com",
+          "count": 1
+        },
+        {
+          "domain": "bethmathews.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "9to5mac.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 190,
+      "max_score": {
+        "title": "Why so many control rooms were seafoam green (2025)",
+        "score": 704
+      },
+      "most_discussed": {
+        "title": "Moving from GitHub to Codeberg, for lazy people",
+        "comments": 280
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论核心聚焦于 AI 代理的工程化落地与实践，从自主编程、任务调度到搜索增强等多个维度展示了当前 AI 应用的进展。此外，关于技术基础设施的迁移与历史工业设计美学的讨论也引发了社区关注。"
   }
 }
