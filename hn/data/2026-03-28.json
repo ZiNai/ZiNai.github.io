@@ -160,5 +160,168 @@
       ]
     },
     "summary": "今日 Hacker News 重点关注科技巨头与开源生态的安全挑战，包括知名 Python 库遭到攻击及敏感政界邮箱被入侵的事件。同时，开发者社区对 macOS 系统体验、AI 模型配置及新兴硬件模拟技术的讨论热度较高，反映了用户对生产力工具定制化与稳定性的持续关注。"
+  },
+  "noon": {
+    "time": "2026-03-28 13:17",
+    "stories": [
+      {
+        "id": 47550282,
+        "title": "Don't YOLO your file system",
+        "url": "https://jai.scs.stanford.edu/",
+        "domain": "jai.scs.stanford.edu",
+        "score": 171,
+        "descendants": 95,
+        "by": "mazieres",
+        "tags": [],
+        "summary": "探讨不慎操作可能导致文件系统损坏的风险及其防范机制。"
+      },
+      {
+        "id": 47550878,
+        "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+        "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+        "domain": "arstechnica.com",
+        "score": 78,
+        "descendants": 34,
+        "by": "zdw",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "报道 AMD 旗舰处理器通过 208MB 大缓存设计带来的性能突破。"
+      },
+      {
+        "id": 47547009,
+        "title": "Make macOS consistently bad unironically",
+        "url": "https://lr0.org/blog/p/macos/",
+        "domain": "lr0.org",
+        "score": 349,
+        "descendants": 240,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "从反面视角深度分析 macOS 系统中令人诟病的交互逻辑。"
+      },
+      {
+        "id": 47495245,
+        "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
+        "url": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
+        "domain": "pcworld.com",
+        "score": 172,
+        "descendants": 89,
+        "by": "robotnikman",
+        "tags": [],
+        "summary": "解析 LG 低刷新率显示技术如何通过降低能耗提升笔记本续航。"
+      },
+      {
+        "id": 47543139,
+        "title": "Anatomy of the .claude/ folder",
+        "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+        "domain": "blog.dailydoseofds.com",
+        "score": 418,
+        "descendants": 199,
+        "by": "freedomben",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解构 Claude 开发工具目录的组成部分与工作原理。"
+      },
+      {
+        "id": 47549160,
+        "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+        "url": "https://twitchroulette.net/",
+        "domain": "twitchroulette.net",
+        "score": 76,
+        "descendants": 40,
+        "by": "ellg",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍一款旨在为低流量 Twitch 直播间导流的随机探索工具。"
+      },
+      {
+        "id": 47498571,
+        "title": "Nashville library launches Memory Lab for digitizing home movies",
+        "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+        "domain": "axios.com",
+        "score": 124,
+        "descendants": 32,
+        "by": "toomuchtodo",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "纳什维尔图书馆推出的家庭影像数字化公共服务项目。"
+      },
+      {
+        "id": 47548013,
+        "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+        "url": "https://github.com/davidmonterocrespo24/velxio",
+        "domain": "github.com",
+        "score": 111,
+        "descendants": 39,
+        "by": "dmcrespo",
+        "tags": [
+          "Web",
+          "Hardware"
+        ],
+        "summary": "一款支持在浏览器中模拟 Arduino 及树莓派硬件的开发环境。"
+      },
+      {
+        "id": 47520599,
+        "title": "The Bee That Everyone Wants to Save",
+        "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+        "domain": "naturalist.bearblog.dev",
+        "score": 16,
+        "descendants": 1,
+        "by": "nivethan",
+        "tags": [],
+        "summary": "关注一种生态价值高且正受保护的特定蜂类资源。"
+      },
+      {
+        "id": 47551254,
+        "title": "The future of text layout is not CSS",
+        "url": "https://chenglou.me/pretext/editorial-engine/",
+        "domain": "chenglou.me",
+        "score": 9,
+        "descendants": 5,
+        "by": "skeptrune",
+        "tags": [
+          "Web"
+        ],
+        "summary": "前瞻探讨未来文本排版技术可能脱离 CSS 的技术演进路径。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jai.scs.stanford.edu",
+          "count": 1
+        },
+        {
+          "domain": "arstechnica.com",
+          "count": 1
+        },
+        {
+          "domain": "lr0.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 152,
+      "max_score": {
+        "title": "Anatomy of the .claude/ folder",
+        "score": 418
+      },
+      "most_discussed": {
+        "title": "Make macOS consistently bad unironically",
+        "comments": 240
+      },
+      "hot_tags": [
+        "Hardware",
+        "Systems",
+        "Web",
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论聚焦于硬件性能创新与系统开发前沿，探讨了从 CPU 缓存技术到 macOS 系统体验及 AI 工具链配置的深层细节。同时，开发者社区关注开源模拟器与数字存档工具，展现了从底层架构到应用创新的广泛兴趣。"
   }
 }
