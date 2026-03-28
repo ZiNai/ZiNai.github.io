@@ -323,5 +323,154 @@
       ]
     },
     "summary": "今日 Hacker News 讨论聚焦于硬件性能创新与系统开发前沿，探讨了从 CPU 缓存技术到 macOS 系统体验及 AI 工具链配置的深层细节。同时，开发者社区关注开源模拟器与数字存档工具，展现了从底层架构到应用创新的广泛兴趣。"
+  },
+  "evening": {
+    "time": "2026-03-28 20:45",
+    "stories": [
+      {
+        "id": 47553798,
+        "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+        "url": "https://github.com/EnriqueLop/legalize-es",
+        "domain": "github.com",
+        "score": 74,
+        "descendants": 21,
+        "by": "enriquelop",
+        "tags": [],
+        "summary": "一位开发者将西班牙全部8642部法律放入Git仓库，通过版本控制直观展现法律条文的演变过程。"
+      },
+      {
+        "id": 47553185,
+        "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+        "url": "https://github.com/J-x-Z/cocoa-way",
+        "domain": "github.com",
+        "score": 101,
+        "descendants": 26,
+        "by": "OJFord",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Cocoa-Way是一个原生macOS Wayland合成器，旨在实现Linux应用在macOS上的无缝流畅运行。"
+      },
+      {
+        "id": 47553484,
+        "title": "Britain today generating 90%+ of electricity from renewables",
+        "url": "https://grid.iamkate.com/",
+        "domain": "grid.iamkate.com",
+        "score": 29,
+        "descendants": 17,
+        "by": "rwmj",
+        "tags": [
+          "AI"
+        ],
+        "summary": "今日英国电网数据统计显示，可再生能源发电占比已超过90%，创下能源结构转型的新里程碑。"
+      },
+      {
+        "id": 47553717,
+        "title": "I Built an Open-World Engine for the N64 [video]",
+        "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+        "domain": "youtube.com",
+        "score": 21,
+        "descendants": 1,
+        "by": "msephton",
+        "tags": [],
+        "summary": "开发者展示了为任天堂N64主机打造的开源开放世界引擎，挑战硬件性能极限。"
+      },
+      {
+        "id": 47552562,
+        "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+        "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+        "domain": "theopenreader.org",
+        "score": 139,
+        "descendants": 69,
+        "by": "TORcicada",
+        "tags": [
+          "AI"
+        ],
+        "summary": "CERN通过将微型AI模型烧录进硅片，实现了对大型强子对撞机产生的海量数据进行实时过滤处理。"
+      },
+      {
+        "id": 47550282,
+        "title": "Go hard on agents, not on your filesystem",
+        "url": "https://jai.scs.stanford.edu/",
+        "domain": "jai.scs.stanford.edu",
+        "score": 409,
+        "descendants": 237,
+        "by": "mazieres",
+        "tags": [],
+        "summary": "本文探讨在智能体时代，应改变传统的开发范式，将重点转向AI代理而非单纯操作文件系统。"
+      },
+      {
+        "id": 47550878,
+        "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+        "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+        "domain": "arstechnica.com",
+        "score": 202,
+        "descendants": 105,
+        "by": "zdw",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "AMD新款Ryzen 9 9950X3D2处理器集成208MB超大缓存，刷新了消费级芯片的性能潜力。"
+      },
+      {
+        "id": 47518568,
+        "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+        "url": "https://github.com/dbrll/ATTN-11",
+        "domain": "github.com",
+        "score": 24,
+        "descendants": 0,
+        "by": "rahen",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "这是一次硬核复古实验，作者成功在1976年的老式微型计算机上完成了Transformer模型的训练。"
+      },
+      {
+        "id": 47547009,
+        "title": "Make macOS consistently bad unironically",
+        "url": "https://lr0.org/blog/p/macos/",
+        "domain": "lr0.org",
+        "score": 438,
+        "descendants": 316,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者通过戏谑的方式剖析了macOS近年来的系统设计缺陷，探讨了为何系统交互体验变得日益糟糕。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "grid.iamkate.com",
+          "count": 1
+        },
+        {
+          "domain": "youtube.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 160,
+      "max_score": {
+        "title": "Make macOS consistently bad unironically",
+        "score": 438
+      },
+      "most_discussed": {
+        "title": "Make macOS consistently bad unironically",
+        "comments": 316
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了从底层硬件架构到高级软件工程的广泛议题，其中对macOS生态的吐槽与改造、AI在科研领域的深度应用，以及利用复古计算进行前沿实验成为讨论热点。开发者们持续关注高效的系统交互方式与极端性能优化，展现出极客群体对软硬结合创新的浓厚兴趣。"
   }
 }
