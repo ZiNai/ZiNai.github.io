@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-03-29 09:16",
+    "stories": [
+      {
+        "id": 47558997,
+        "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+        "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+        "domain": "reutersconnect.com",
+        "score": 108,
+        "descendants": 60,
+        "by": "_____k",
+        "tags": [],
+        "summary": "韩国出台新规，强制要求公共停车场安装太阳能板以推动可再生能源利用。"
+      },
+      {
+        "id": 47556729,
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "url": "https://sytse.com/cancer/",
+        "domain": "sytse.com",
+        "score": 688,
+        "descendants": 162,
+        "by": "bob_theslob646",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitLab创始人Sytse Sijbrandij在身患癌症期间，依然通过持续创立新公司来保持生命活力。"
+      },
+      {
+        "id": 47557960,
+        "title": "CSS is DOOMed",
+        "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+        "domain": "nielsleenheer.com",
+        "score": 174,
+        "descendants": 47,
+        "by": "msephton",
+        "tags": [
+          "Web"
+        ],
+        "summary": "文章探讨了CSS发展过程中面临的复杂性挑战及其对未来Web样式的潜在影响。"
+      },
+      {
+        "id": 47543186,
+        "title": "OpenBSD on Motorola 88000 Processors",
+        "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+        "domain": "miod.online.fr",
+        "score": 33,
+        "descendants": 2,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "回顾了OpenBSD系统在Motorola 88000处理器架构上的移植与实现细节。"
+      },
+      {
+        "id": 47557166,
+        "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+        "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+        "domain": "twitter.com",
+        "score": 141,
+        "descendants": 103,
+        "by": "mean_mistreater",
+        "tags": [
+          "AI"
+        ],
+        "summary": "人类研究者结合AI与证明助手工具，共同攻克高德纳提出的“Claude Cycles”数学难题。"
+      },
+      {
+        "id": 47554773,
+        "title": "AI overly affirms users asking for personal advice",
+        "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+        "domain": "news.stanford.edu",
+        "score": 518,
+        "descendants": 402,
+        "by": "oldfrenchfries",
+        "tags": [
+          "AI"
+        ],
+        "summary": "斯坦福大学研究指出，AI在提供个人建议时表现出过度顺从用户的倾向，引发对模型偏见与安全性的讨论。"
+      },
+      {
+        "id": 47557185,
+        "title": "The first 40 months of the AI era",
+        "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+        "domain": "lzon.ca",
+        "score": 106,
+        "descendants": 45,
+        "by": "jpmitchell",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过回顾AI爆发以来的前40个月，分析该技术对产业和社会带来的关键范式演变。"
+      },
+      {
+        "id": 47535863,
+        "title": "Joining databases across teams without copying data or running servers",
+        "url": "https://datahike.io/notes/collaborate-without-infrastructure/",
+        "domain": "datahike.io",
+        "score": 11,
+        "descendants": 0,
+        "by": "whilo",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍了一种无需复制数据或托管服务器即可实现多团队跨库查询的数据库解决方案。"
+      },
+      {
+        "id": 47556359,
+        "title": "Linux is an interpreter",
+        "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+        "domain": "astrid.tech",
+        "score": 159,
+        "descendants": 31,
+        "by": "frizlab",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者深入解析了Linux内核的工作原理，认为其本质上可以被视为一个精密的硬件抽象与调度解释器。"
+      },
+      {
+        "id": 47506889,
+        "title": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+        "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
+        "domain": "about.fb.com",
+        "score": 33,
+        "descendants": 5,
+        "by": "eatonphil",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Meta宣布与Arm达成战略合作，联合研发面向数据中心的新型定制化高性能芯片。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "reutersconnect.com",
+          "count": 1
+        },
+        {
+          "domain": "sytse.com",
+          "count": 1
+        },
+        {
+          "domain": "nielsleenheer.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 197,
+      "max_score": {
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "score": 688
+      },
+      "most_discussed": {
+        "title": "AI overly affirms users asking for personal advice",
+        "comments": 402
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Web",
+        "Database",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于AI技术的深远影响，从其在个人决策中的心理暗示到算法辅助学术攻关及行业演进。同时，技术社区对底层计算架构、Web标准发展以及跨系统数据集成等工程实践保持着持续关注。"
+  }
+}
