@@ -162,5 +162,167 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于AI技术的深远影响，从其在个人决策中的心理暗示到算法辅助学术攻关及行业演进。同时，技术社区对底层计算架构、Web标准发展以及跨系统数据集成等工程实践保持着持续关注。"
+  },
+  "noon": {
+    "time": "2026-03-29 13:30",
+    "stories": [
+      {
+        "id": 47560380,
+        "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
+        "url": "https://github.com/openyak/desktop",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 4,
+        "by": "wangzhangwu",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一款支持运行各类模型并可访问本地文件系统的开源协作工具。"
+      },
+      {
+        "id": 47556729,
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "url": "https://sytse.com/cancer/",
+        "domain": "sytse.com",
+        "score": 834,
+        "descendants": 189,
+        "by": "bob_theslob646",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitLab创始人Sytse Sijbrandij在抗癌期间通过持续创业对抗病魔的个人历程。"
+      },
+      {
+        "id": 47557960,
+        "title": "CSS is DOOMed",
+        "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+        "domain": "nielsleenheer.com",
+        "score": 252,
+        "descendants": 57,
+        "by": "msephton",
+        "tags": [
+          "Web"
+        ],
+        "summary": "深度分析CSS在当前Web开发环境中所面临的复杂挑战与局限性。"
+      },
+      {
+        "id": 47554773,
+        "title": "AI overly affirms users asking for personal advice",
+        "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+        "domain": "news.stanford.edu",
+        "score": 580,
+        "descendants": 443,
+        "by": "oldfrenchfries",
+        "tags": [
+          "AI"
+        ],
+        "summary": "斯坦福研究指出，AI在提供个人建议时往往倾向于过度迎合用户，可能导致误导性决策。"
+      },
+      {
+        "id": 47543186,
+        "title": "OpenBSD on Motorola 88000 Processors",
+        "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+        "domain": "miod.online.fr",
+        "score": 70,
+        "descendants": 8,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "关于在Motorola 88000架构处理器上运行OpenBSD系统的技术回顾与挑战。"
+      },
+      {
+        "id": 47557166,
+        "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+        "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+        "domain": "twitter.com",
+        "score": 179,
+        "descendants": 118,
+        "by": "mean_mistreater",
+        "tags": [
+          "AI"
+        ],
+        "summary": "人类专家结合AI与证明助手，深入探索Knuth提出的数学难题。"
+      },
+      {
+        "id": 47508078,
+        "title": "The case for becoming a manager",
+        "url": "https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager",
+        "domain": "newsletter.thelongcommit.com",
+        "score": 14,
+        "descendants": 2,
+        "by": "jcmartinezdev",
+        "tags": [],
+        "summary": "探讨为何技术人员应考虑职业转向管理岗位的价值与动机。"
+      },
+      {
+        "id": 47528853,
+        "title": "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
+        "url": "https://github.com/ben-j-c/verilog2factorio",
+        "domain": "github.com",
+        "score": 39,
+        "descendants": 2,
+        "by": "signa11",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "利用游戏《异星工厂》（Factorio）构建并模拟RISC-V CPU的硬核工程项目。"
+      },
+      {
+        "id": 47518010,
+        "title": "The 667MHz Machine",
+        "url": "https://www.0xsid.com/blog/667mhz-machine",
+        "domain": "0xsid.com",
+        "score": 33,
+        "descendants": 3,
+        "by": "ssiddharth",
+        "tags": [],
+        "summary": "关于以667MHz为代表的特定算力设备的技术怀旧与分析。"
+      },
+      {
+        "id": 47555556,
+        "title": "I decompiled the White House's new app",
+        "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+        "domain": "thereallo.dev",
+        "score": 445,
+        "descendants": 164,
+        "by": "amarcheschi",
+        "tags": [],
+        "summary": "开发者逆向分析白宫新发布的应用，揭示其技术实现细节与潜在隐私问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "sytse.com",
+          "count": 1
+        },
+        {
+          "domain": "nielsleenheer.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 247,
+      "max_score": {
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "score": 834
+      },
+      "most_discussed": {
+        "title": "AI overly affirms users asking for personal advice",
+        "comments": 443
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Web",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News涵盖了AI伦理与技术的深度探讨，包括AI建议偏见及计算证明研究，同时兼具硬核系统工程与个人叙事。技术社区持续关注软件工程实践、开源工具创新以及逆向工程在实际场景中的应用。"
   }
 }
