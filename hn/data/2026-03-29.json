@@ -324,5 +324,168 @@
       ]
     },
     "summary": "今日Hacker News涵盖了AI伦理与技术的深度探讨，包括AI建议偏见及计算证明研究，同时兼具硬核系统工程与个人叙事。技术社区持续关注软件工程实践、开源工具创新以及逆向工程在实际场景中的应用。"
+  },
+  "evening": {
+    "time": "2026-03-29 20:46",
+    "stories": [
+      {
+        "id": 47562288,
+        "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
+        "url": "https://sheetninja.io",
+        "domain": "sheetninja.io",
+        "score": 34,
+        "descendants": 35,
+        "by": "sxa001",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Sheet Ninja 允许开发者将 Google Sheets 作为快速原型开发的 CRUD 后端服务。"
+      },
+      {
+        "id": 47561711,
+        "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+        "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+        "domain": "news.umich.edu",
+        "score": 90,
+        "descendants": 40,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "研究发现实验室中常见的塑料手套污染可能是微塑料研究数据被高估的主要原因。"
+      },
+      {
+        "id": 47561819,
+        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+        "url": "https://github.com/austin-weeks/miasma",
+        "domain": "github.com",
+        "score": 38,
+        "descendants": 13,
+        "by": "LucidLynx",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "Miasma 是一款旨在通过伪造数据陷阱来诱捕和消耗 AI 网络爬虫资源的工具。"
+      },
+      {
+        "id": 47556729,
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "url": "https://sytse.com/cancer/",
+        "domain": "sytse.com",
+        "score": 1145,
+        "descendants": 223,
+        "by": "bob_theslob646",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitLab 创始人 Sytse Sijbrandij 在抗癌过程中通过持续创立新公司来保持人生目标感。"
+      },
+      {
+        "id": 47562589,
+        "title": "The Cloud: The dystopian book that changed Germany (2022)",
+        "url": "https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany",
+        "domain": "bbc.com",
+        "score": 4,
+        "descendants": 2,
+        "by": "leonidasrup",
+        "tags": [],
+        "summary": "回顾德国影响深远的灾难小说《云》，探讨其对核能恐惧与社会意识的塑造。"
+      },
+      {
+        "id": 47524778,
+        "title": "Technology: The (nearly) perfect USB cable tester does exist",
+        "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+        "domain": "blog.literarily-starved.com",
+        "score": 106,
+        "descendants": 47,
+        "by": "birdculture",
+        "tags": [],
+        "summary": "一篇深度评测文章，详述了市面上近乎完美的 USB 线材测试仪器的技术特性。"
+      },
+      {
+        "id": 47554773,
+        "title": "AI overly affirms users asking for personal advice",
+        "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+        "domain": "news.stanford.edu",
+        "score": 675,
+        "descendants": 529,
+        "by": "oldfrenchfries",
+        "tags": [
+          "AI"
+        ],
+        "summary": "斯坦福研究指出 AI 在提供个人建议时往往表现出盲目的顺从，可能导致误导性风险。"
+      },
+      {
+        "id": 47557960,
+        "title": "CSS is DOOMed",
+        "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+        "domain": "nielsleenheer.com",
+        "score": 387,
+        "descendants": 89,
+        "by": "msephton",
+        "tags": [
+          "Web"
+        ],
+        "summary": "深度分析现代 CSS 标准演进中的复杂性，质疑其过度膨胀是否导致了 Web 开发的灾难。"
+      },
+      {
+        "id": 47541969,
+        "title": "I turned my Kindle into my own personal newspaper",
+        "url": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
+        "domain": "manualdousuario.net",
+        "score": 57,
+        "descendants": 26,
+        "by": "rpgbr",
+        "tags": [
+          "Science"
+        ],
+        "summary": "技术教程：教你如何将 Kindle 定制为每天自动更新的个人化数字报纸。"
+      },
+      {
+        "id": 47533324,
+        "title": "Siclair Microvision (1977)",
+        "url": "https://r-type.org/articles/art-452.htm",
+        "domain": "r-type.org",
+        "score": 21,
+        "descendants": 7,
+        "by": "joebig",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾 1977 年推出的 Siclair Microvision 便携式微型电视机的复古硬件设计。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sheetninja.io",
+          "count": 1
+        },
+        {
+          "domain": "news.umich.edu",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 256,
+      "max_score": {
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "score": 1145
+      },
+      "most_discussed": {
+        "title": "AI overly affirms users asking for personal advice",
+        "comments": 529
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术前沿与社会议题的交织，包括 AI 工具开发与内容安全风险、科技在医疗和教育领域的创新应用，以及对 Web 标准和硬件测评的深度讨论。整体呈现出开发者对高效能工具的追求，同时伴随着对 AI 伦理和技术本质的反思。"
   }
 }
