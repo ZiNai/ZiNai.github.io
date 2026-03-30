@@ -157,5 +157,161 @@
       ]
     },
     "summary": "今日Hacker News聚焦于软件工程实践与AI辅助开发的博弈，从Claude Code的极端行为到编程代理对开源生态的影响，引发了关于工具自主性与技术依赖的广泛讨论。此外，航天工程的经典可靠性与Web技术现状的对比，也进一步凸显了开发者对现代计算复杂性与资源利用效率的深度反思。"
+  },
+  "noon": {
+    "time": "2026-03-30 13:53",
+    "stories": [
+      {
+        "id": 47570269,
+        "title": "Copilot Edited an Ad into My PR",
+        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+        "domain": "notes.zachmanson.com",
+        "score": 146,
+        "descendants": 45,
+        "by": "pavo-etc",
+        "tags": [],
+        "summary": "GitHub Copilot被曝在用户的代码拉取请求（PR）中擅自插入广告，引发开发者对AI插件界限的争议。"
+      },
+      {
+        "id": 47570547,
+        "title": "HD Audio Driver for Windows 98SE / Me",
+        "url": "https://github.com/andrew-hoffman/wdmhda",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "userbinator",
+        "tags": [],
+        "summary": "针对Windows 98SE/Me系统的高保真音频驱动程序发布，为老旧硬件平台的音频支持提供解决方案。"
+      },
+      {
+        "id": 47566865,
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "domain": "buchodi.com",
+        "score": 455,
+        "descendants": 325,
+        "by": "alberto-m",
+        "tags": [
+          "AI",
+          "JavaScript"
+        ],
+        "summary": "深度解析为何ChatGPT等网站在加载时过度依赖Cloudflare验证，导致用户无法正常输入文字的体验问题。"
+      },
+      {
+        "id": 47570435,
+        "title": "VHDL's Crown Jewel",
+        "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+        "domain": "sigasi.com",
+        "score": 12,
+        "descendants": 0,
+        "by": "cokernel_hacker",
+        "tags": [],
+        "summary": "探讨VHDL语言中被视为“皇冠明珠”的核心特性，分析其在硬件描述语言中的重要地位。"
+      },
+      {
+        "id": 47564421,
+        "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+        "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+        "domain": "techfixated.com",
+        "score": 459,
+        "descendants": 181,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "回顾航海者1号探测器如何仅靠69KB内存和8轨磁带机，在深空环境中维持长达数十年的运行。"
+      },
+      {
+        "id": 47545607,
+        "title": "15 Years of Forking",
+        "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+        "domain": "waterfox.com",
+        "score": 103,
+        "descendants": 8,
+        "by": "MrAlex94",
+        "tags": [],
+        "summary": "Waterfox浏览器创始人回顾过去15年开发分支版本与维护浏览器生态的心路历程。"
+      },
+      {
+        "id": 47569471,
+        "title": "Philly courts will ban all smart eyeglasses starting next week",
+        "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+        "domain": "inquirer.com",
+        "score": 162,
+        "descendants": 57,
+        "by": "Philadelphia",
+        "tags": [],
+        "summary": "费城法院宣布将于下周起全面禁止在法庭内佩戴智能眼镜，以防止未经授权的录音与数据收集。"
+      },
+      {
+        "id": 47557299,
+        "title": "Hardware Image Compression",
+        "url": "https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/",
+        "domain": "ludicon.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "luu",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍硬件层面的图像压缩技术原理及其在特定计算环境中的应用逻辑。"
+      },
+      {
+        "id": 47518382,
+        "title": "\"Roadrunner\": a bipedal, wheeled robot for multi-modal locomotion [video]",
+        "url": "https://www.youtube.com/watch?v=9kae-UAME1U",
+        "domain": "youtube.com",
+        "score": 14,
+        "descendants": 4,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "展示Roadrunner机器人的运动演示，该机器人结合双足行走与轮式移动，以应对复杂的跨模态地形。"
+      },
+      {
+        "id": 47556290,
+        "title": "Pretext: TypeScript library for multiline text measurement and layout",
+        "url": "https://github.com/chenglou/pretext",
+        "domain": "github.com",
+        "score": 254,
+        "descendants": 47,
+        "by": "emersonmacro",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "推介一个用于TypeScript环境下的多行文本测量与排版布局库，优化前端文本呈现效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "notes.zachmanson.com",
+          "count": 1
+        },
+        {
+          "domain": "buchodi.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 162,
+      "max_score": {
+        "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+        "score": 459
+      },
+      "most_discussed": {
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "comments": 325
+      },
+      "hot_tags": [
+        "JavaScript",
+        "AI",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点在于技术领域对用户体验与隐私的侵蚀，包括AI工具的激进嵌入、网络安全验证的过度化，以及对硬件架构和历史技术的深度探讨。整体呈现出对软硬件复杂性及其现实约束的持续审视，兼顾了前沿工程实践与复古技术维护。"
   }
 }
