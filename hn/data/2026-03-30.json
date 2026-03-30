@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-03-30 09:17",
+    "stories": [
+      {
+        "id": 47567969,
+        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+        "url": "https://github.com/anthropics/claude-code/issues/40710",
+        "domain": "github.com",
+        "score": 151,
+        "descendants": 78,
+        "by": "mthwsjc_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "用户发现Claude Code每十分钟强行执行Git重置，引发了关于AI代理操作透明度和安全性的激烈讨论。"
+      },
+      {
+        "id": 47566442,
+        "title": "The Cognitive Dark Forest",
+        "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+        "domain": "ryelang.org",
+        "score": 222,
+        "descendants": 110,
+        "by": "kaycebasques",
+        "tags": [],
+        "summary": "探讨了互联网社交环境如何因AI干扰演变为“认知暗林”，导致人类交流信息的真实性与价值面临威胁。"
+      },
+      {
+        "id": 47566865,
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "domain": "buchodi.com",
+        "score": 313,
+        "descendants": 236,
+        "by": "alberto-m",
+        "tags": [
+          "AI",
+          "JavaScript"
+        ],
+        "summary": "分析了现代Web开发中过度依赖第三方验证服务（如Cloudflare）所带来的性能冗余及对用户体验的干扰。"
+      },
+      {
+        "id": 47564421,
+        "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+        "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+        "domain": "techfixated.com",
+        "score": 385,
+        "descendants": 153,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "回顾了Voyager 1号在极度有限的硬件资源下如何凭借极致的工程设计运行至今。"
+      },
+      {
+        "id": 47568080,
+        "title": "There is No Spoon. A software engineers primer for demystified ML",
+        "url": "https://github.com/dreddnafious/thereisnospoon",
+        "domain": "github.com",
+        "score": 40,
+        "descendants": 12,
+        "by": "jmatthews",
+        "tags": [],
+        "summary": "为软件工程师提供的一份机器学习入门指南，旨在揭开算法的神秘面纱并建立底层工程直觉。"
+      },
+      {
+        "id": 47545607,
+        "title": "15 Years of Forking",
+        "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+        "domain": "waterfox.com",
+        "score": 21,
+        "descendants": 0,
+        "by": "MrAlex94",
+        "tags": [],
+        "summary": "回顾了Waterfox浏览器过去15年作为Firefox分支在独立浏览器领域的发展历程。"
+      },
+      {
+        "id": 47568028,
+        "title": "Coding Agents Could Make Free Software Matter Again",
+        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "domain": "gjlondon.com",
+        "score": 100,
+        "descendants": 93,
+        "by": "rogueleaderr",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨编码代理（Coding Agents）如何通过降低开发门槛，为自由软件生态注入新的活力与生产力。"
+      },
+      {
+        "id": 47556290,
+        "title": "Pretext: TypeScript library for multiline text measurement and layout",
+        "url": "https://github.com/chenglou/pretext",
+        "domain": "github.com",
+        "score": 190,
+        "descendants": 32,
+        "by": "emersonmacro",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "介绍了一个专注于多行文本测量与排版的TypeScript库，解决了前端开发中常见的排版痛点。"
+      },
+      {
+        "id": 47566960,
+        "title": "The road signs that teach travellers about France",
+        "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+        "domain": "bbc.com",
+        "score": 49,
+        "descendants": 9,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "介绍法国公路沿线通过独特路标向游客展示地理与历史知识的文化实践。"
+      },
+      {
+        "id": 47566653,
+        "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+        "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+        "domain": "isp.netscape.com",
+        "score": 62,
+        "descendants": 58,
+        "by": "walterbell",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过对比美国机场瘫痪与火车旅行的亲身体验，反思了交通系统对国家地理认知的塑造作用。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "ryelang.org",
+          "count": 1
+        },
+        {
+          "domain": "buchodi.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 153,
+      "max_score": {
+        "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+        "score": 385
+      },
+      "most_discussed": {
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "comments": 236
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于软件工程实践与AI辅助开发的博弈，从Claude Code的极端行为到编程代理对开源生态的影响，引发了关于工具自主性与技术依赖的广泛讨论。此外，航天工程的经典可靠性与Web技术现状的对比，也进一步凸显了开发者对现代计算复杂性与资源利用效率的深度反思。"
+  }
+}
