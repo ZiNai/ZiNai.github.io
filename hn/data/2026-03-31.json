@@ -152,5 +152,161 @@
       ]
     },
     "summary": "本期Hacker News热点聚焦于技术实用主义色彩浓厚，开发者们高度关注网络基础设施改造、AI工具的实操应用以及对科技生态的批判性思考。整体趋势呈现出从底层硬件黑客行为到操作系统生态监管、再到软件创作伦理的广泛技术讨论。"
+  },
+  "noon": {
+    "time": "2026-03-31 13:40",
+    "stories": [
+      {
+        "id": 47582220,
+        "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+        "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+        "domain": "stepsecurity.io",
+        "score": 334,
+        "descendants": 90,
+        "by": "mtud",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Axios NPM包遭劫持，恶意版本中包含远程访问木马，提醒开发者即刻核查依赖。"
+      },
+      {
+        "id": 47581701,
+        "title": "Universal Claude.md – cut Claude output tokens",
+        "url": "https://github.com/drona23/claude-token-efficient",
+        "domain": "github.com",
+        "score": 222,
+        "descendants": 79,
+        "by": "killme2008",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种通用Claude提示词配置方案，旨在有效精简AI输出的Token数量以降低成本。"
+      },
+      {
+        "id": 47582043,
+        "title": "Artemis II is not safe to fly",
+        "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+        "domain": "idlewords.com",
+        "score": 146,
+        "descendants": 67,
+        "by": "idlewords",
+        "tags": [],
+        "summary": "深度分析为何Artemis II任务在当前技术状态下被认为存在安全隐患。"
+      },
+      {
+        "id": 47582482,
+        "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+        "url": "https://ollama.com/blog/mlx",
+        "domain": "ollama.com",
+        "score": 76,
+        "descendants": 24,
+        "by": "redundantly",
+        "tags": [],
+        "summary": "Ollama预览版正式引入Apple Silicon的MLX加速支持，显著提升在Mac上的模型运行性能。"
+      },
+      {
+        "id": 47583045,
+        "title": "Google's 200M-parameter time-series foundation model with 16k context",
+        "url": "https://github.com/google-research/timesfm",
+        "domain": "github.com",
+        "score": 7,
+        "descendants": 1,
+        "by": "codepawl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布了一款拥有2亿参数的时间序列基础模型，支持长达16k上下文窗口。"
+      },
+      {
+        "id": 47577761,
+        "title": "Fedware: Government apps that spy harder than the apps they ban",
+        "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+        "domain": "sambent.com",
+        "score": 504,
+        "descendants": 161,
+        "by": "speckx",
+        "tags": [],
+        "summary": "探讨政府开发的应用程序如何通过比肩甚至超越被禁应用的行为进行隐私监控。"
+      },
+      {
+        "id": 47573519,
+        "title": "Do your own writing",
+        "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+        "domain": "alexhwoods.com",
+        "score": 449,
+        "descendants": 162,
+        "by": "karimf",
+        "tags": [],
+        "summary": "倡导在人工智能普及时代回归原创写作，强调独立思考与人工创作的不可替代性。"
+      },
+      {
+        "id": 47580297,
+        "title": "Android Developer Verification",
+        "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+        "domain": "android-developers.googleblog.com",
+        "score": 196,
+        "descendants": 179,
+        "by": "ingve",
+        "tags": [],
+        "summary": "谷歌更新Android开发者验证要求，进一步强化应用分发安全与开发者身份合规。"
+      },
+      {
+        "id": 47532891,
+        "title": "Clojure: The Documentary, official trailer [video]",
+        "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+        "domain": "youtube.com",
+        "score": 103,
+        "descendants": 5,
+        "by": "fogus",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Clojure编程语言的官方纪录片预告片发布，回顾该语言的历史与生态发展。"
+      },
+      {
+        "id": 47578572,
+        "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+        "url": "https://anishathalye.com/macbook-touchscreen/",
+        "domain": "anishathalye.com",
+        "score": 263,
+        "descendants": 116,
+        "by": "HughParry",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "回顾2018年的一项极客项目，演示如何仅用1美元的硬件将MacBook屏幕改造为触摸屏。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "stepsecurity.io",
+          "count": 1
+        },
+        {
+          "domain": "idlewords.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 230,
+      "max_score": {
+        "title": "Fedware: Government apps that spy harder than the apps they ban",
+        "score": 504
+      },
+      "most_discussed": {
+        "title": "Android Developer Verification",
+        "comments": 179
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News聚焦网络安全警示与前沿技术动向。除了关于Axios供应链攻击及政府应用监控的讨论外，AI模型效率优化与开发者工具的更新也占据了技术讨论的重心。"
   }
 }
