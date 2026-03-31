@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-03-31 09:15",
+    "stories": [
+      {
+        "id": 47577761,
+        "title": "Fedware: Government apps that spy harder than the apps they ban",
+        "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+        "domain": "sambent.com",
+        "score": 396,
+        "descendants": 121,
+        "by": "speckx",
+        "tags": [],
+        "summary": "文章批评了政府监管机构在封禁海外应用的同时，自身开发的应用却存在更为严重的隐私监控行为。"
+      },
+      {
+        "id": 47580297,
+        "title": "Android Developer Verification",
+        "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+        "domain": "android-developers.googleblog.com",
+        "score": 123,
+        "descendants": 92,
+        "by": "ingve",
+        "tags": [],
+        "summary": "谷歌宣布针对Android个人开发者账号实施更严格的身份核验要求，以打击恶意应用生态。"
+      },
+      {
+        "id": 47573519,
+        "title": "Do your own writing",
+        "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+        "domain": "alexhwoods.com",
+        "score": 345,
+        "descendants": 108,
+        "by": "karimf",
+        "tags": [],
+        "summary": "作者主张在AI辅助创作盛行的当下，人们仍需坚持亲手写作以保持深度思考与个人表达。"
+      },
+      {
+        "id": 47578572,
+        "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+        "url": "https://anishathalye.com/macbook-touchscreen/",
+        "domain": "anishathalye.com",
+        "score": 186,
+        "descendants": 87,
+        "by": "HughParry",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "作者演示了如何仅花费1美元的硬件成本，将普通MacBook屏幕改造为触控屏幕的极客方案。"
+      },
+      {
+        "id": 47579229,
+        "title": "Learn Claude Code by doing, not reading",
+        "url": "https://claude.nagdy.me/",
+        "domain": "claude.nagdy.me",
+        "score": 133,
+        "descendants": 77,
+        "by": "taubek",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇通过实战项目引导读者快速掌握Claude Code编程助手的使用指南。"
+      },
+      {
+        "id": 47574034,
+        "title": "How to turn anything into a router",
+        "url": "https://nbailey.ca/post/router/",
+        "domain": "nbailey.ca",
+        "score": 577,
+        "descendants": 207,
+        "by": "yabones",
+        "tags": [],
+        "summary": "一篇详尽的技术指南，教你如何利用开源软硬件将任意设备转化为功能齐备的路由器。"
+      },
+      {
+        "id": 47547843,
+        "title": "Agents of Chaos",
+        "url": "https://agentsofchaos.baulab.info/report.html",
+        "domain": "agentsofchaos.baulab.info",
+        "score": 66,
+        "descendants": 5,
+        "by": "luu",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨人工智能代理（AI Agents）如何通过自主行为影响网络环境并引发意料之外的混沌效应。"
+      },
+      {
+        "id": 47573887,
+        "title": "Bird brains (2023)",
+        "url": "https://www.dhanishsemar.com/writing/bird-brains",
+        "domain": "dhanishsemar.com",
+        "score": 292,
+        "descendants": 182,
+        "by": "DiffTheEnder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析鸟类大脑的神经结构如何启发人工智能设计，探索生物智能与计算系统的共性。"
+      },
+      {
+        "id": 47549824,
+        "title": "Cherri – programming language that compiles to an Apple Shortuct",
+        "url": "https://github.com/electrikmilk/cherri",
+        "domain": "github.com",
+        "score": 247,
+        "descendants": 47,
+        "by": "mihau",
+        "tags": [],
+        "summary": "介绍了一种名为Cherri的新型编程语言，它能将代码编译为可执行的苹果快捷指令。"
+      },
+      {
+        "id": 47578741,
+        "title": "Why I'm betting on ATProto (and why you should, too)",
+        "url": "https://brittanyellich.com/atproto/",
+        "domain": "brittanyellich.com",
+        "score": 54,
+        "descendants": 28,
+        "by": "speckx",
+        "tags": [],
+        "summary": "文章阐述了ATProto协议的去中心化优势，并分析了其为何是构建下一代社交网络的最佳赌注。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sambent.com",
+          "count": 1
+        },
+        {
+          "domain": "android-developers.googleblog.com",
+          "count": 1
+        },
+        {
+          "domain": "alexhwoods.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 242,
+      "max_score": {
+        "title": "How to turn anything into a router",
+        "score": 577
+      },
+      "most_discussed": {
+        "title": "How to turn anything into a router",
+        "comments": 207
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热点聚焦于技术实用主义色彩浓厚，开发者们高度关注网络基础设施改造、AI工具的实操应用以及对科技生态的批判性思考。整体趋势呈现出从底层硬件黑客行为到操作系统生态监管、再到软件创作伦理的广泛技术讨论。"
+  }
+}
