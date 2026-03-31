@@ -308,5 +308,160 @@
       ]
     },
     "summary": "本期Hacker News聚焦网络安全警示与前沿技术动向。除了关于Axios供应链攻击及政府应用监控的讨论外，AI模型效率优化与开发者工具的更新也占据了技术讨论的重心。"
+  },
+  "evening": {
+    "time": "2026-03-31 21:08",
+    "stories": [
+      {
+        "id": 47582220,
+        "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+        "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+        "domain": "stepsecurity.io",
+        "score": 1123,
+        "descendants": 401,
+        "by": "mtud",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Axios NPM包被植入恶意后门，开发者需立即排查供应链安全。"
+      },
+      {
+        "id": 47582482,
+        "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+        "url": "https://ollama.com/blog/mlx",
+        "domain": "ollama.com",
+        "score": 389,
+        "descendants": 187,
+        "by": "redundantly",
+        "tags": [],
+        "summary": "Ollama推出预览版，正式集成Apple Silicon的MLX框架以提升推理性能。"
+      },
+      {
+        "id": 47582043,
+        "title": "Artemis II is not safe to fly",
+        "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+        "domain": "idlewords.com",
+        "score": 473,
+        "descendants": 291,
+        "by": "idlewords",
+        "tags": [],
+        "summary": "深度分析指出Artemis II载人登月任务目前存在安全隐患。"
+      },
+      {
+        "id": 47584540,
+        "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+        "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+        "domain": "twitter.com",
+        "score": 534,
+        "descendants": 289,
+        "by": "treexs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Code源代码因NPM包中遗留的map文件导致泄露。"
+      },
+      {
+        "id": 47555273,
+        "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
+        "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
+        "domain": "psypost.org",
+        "score": 48,
+        "descendants": 26,
+        "by": "lentoutcry",
+        "tags": [],
+        "summary": "新音频证据揭露了米尔格拉姆权威服从实验中存在大规模违规行为。"
+      },
+      {
+        "id": 47581701,
+        "title": "Universal Claude.md – cut Claude output tokens",
+        "url": "https://github.com/drona23/claude-token-efficient",
+        "domain": "github.com",
+        "score": 361,
+        "descendants": 129,
+        "by": "killme2008",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Universal Claude.md项目旨在通过优化提示词减少Claude的输出Token冗余。"
+      },
+      {
+        "id": 47583045,
+        "title": "Google's 200M-parameter time-series foundation model with 16k context",
+        "url": "https://github.com/google-research/timesfm",
+        "domain": "github.com",
+        "score": 177,
+        "descendants": 78,
+        "by": "codepawl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布了一款拥有2亿参数、支持16k上下文窗口的时间序列基础模型。"
+      },
+      {
+        "id": 47577761,
+        "title": "Fedware: Government apps that spy harder than the apps they ban",
+        "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+        "domain": "sambent.com",
+        "score": 593,
+        "descendants": 223,
+        "by": "speckx",
+        "tags": [],
+        "summary": "文章质疑政府应用程序在监管第三方应用的同时，自身可能涉及过度监控。"
+      },
+      {
+        "id": 47585008,
+        "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+        "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+        "domain": "ciphercue.com",
+        "score": 34,
+        "descendants": 6,
+        "by": "adulion",
+        "tags": [
+          "AI"
+        ],
+        "summary": "年度勒索软件索赔数据分析，揭示了全球受害者在行业与区域上的分布趋势。"
+      },
+      {
+        "id": 47573519,
+        "title": "Do your own writing",
+        "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+        "domain": "alexhwoods.com",
+        "score": 612,
+        "descendants": 201,
+        "by": "karimf",
+        "tags": [],
+        "summary": "呼吁在AI生成内容泛滥的时代，回归个人原创写作的深度思考价值。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "stepsecurity.io",
+          "count": 1
+        },
+        {
+          "domain": "ollama.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 434,
+      "max_score": {
+        "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+        "score": 1123
+      },
+      "most_discussed": {
+        "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+        "comments": 401
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于安全漏洞与AI技术的双重冲击，Axios与Claude Code的安全事件引发了对供应链和代码泄露的广泛担忧。同时，AI领域继续快速迭代，包括Ollama对苹果芯片的深度优化及新型时间序列模型的发布，反映出社区对工具高效性和安全性的高度关注。"
   }
 }
