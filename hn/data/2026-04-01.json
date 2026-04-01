@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-04-01 09:21",
+    "stories": [
+      {
+        "id": 47586778,
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "domain": "alex000kim.com",
+        "score": 739,
+        "descendants": 314,
+        "by": "alex000kim",
+        "tags": [
+          "AI",
+          "Rust"
+        ],
+        "summary": "深入剖析Claude Code的代码库泄露事件，揭示了其中包含的隐藏指令与安全脆弱性。"
+      },
+      {
+        "id": 47541733,
+        "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+        "url": "https://arxiv.org/abs/2602.04118",
+        "domain": "arxiv.org",
+        "score": 39,
+        "descendants": 2,
+        "by": "sorenjan",
+        "tags": [],
+        "summary": "探讨TinyLoRA如何通过极小参数量提升大模型的推理能力。"
+      },
+      {
+        "id": 47593285,
+        "title": "Ministack (Replacement for LocalStack)",
+        "url": "https://ministack.org/",
+        "domain": "ministack.org",
+        "score": 132,
+        "descendants": 23,
+        "by": "kerblang",
+        "tags": [],
+        "summary": "介绍Ministack工具，作为LocalStack的替代方案以简化云服务的本地开发流程。"
+      },
+      {
+        "id": 47593556,
+        "title": "A dot a day keeps the clutter away",
+        "url": "https://scottlawsonbc.com/post/dot-system",
+        "domain": "scottlawsonbc.com",
+        "score": 120,
+        "descendants": 37,
+        "by": "scottlawson",
+        "tags": [],
+        "summary": "分享一种通过每日打点习惯来管理信息冗余与清理数字杂物的极简方法。"
+      },
+      {
+        "id": 47557171,
+        "title": "TruffleRuby",
+        "url": "https://chrisseaton.com/truffleruby/",
+        "domain": "chrisseaton.com",
+        "score": 15,
+        "descendants": 1,
+        "by": "tosh",
+        "tags": [],
+        "summary": "详细解读高性能Ruby实现TruffleRuby的技术特性与架构优势。"
+      },
+      {
+        "id": 47592755,
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "domain": "cnbc.com",
+        "score": 315,
+        "descendants": 282,
+        "by": "surprisetalk",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "报道OpenAI完成最新一轮融资，估值已飙升至8520亿美元。"
+      },
+      {
+        "id": 47593422,
+        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "url": "https://prismml.com/",
+        "domain": "prismml.com",
+        "score": 79,
+        "descendants": 35,
+        "by": "PrismML",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示1-Bit Bonsai项目，探索首个具有商业可行性的1-bit大语言模型技术。"
+      },
+      {
+        "id": 47549128,
+        "title": "4D Doom",
+        "url": "https://github.com/danieldugas/HYPERHELL",
+        "domain": "github.com",
+        "score": 117,
+        "descendants": 25,
+        "by": "chronolitus",
+        "tags": [],
+        "summary": "一个在四维空间内运行的Doom游戏实现，展示了独特的几何图形处理技术。"
+      },
+      {
+        "id": 47587953,
+        "title": "Slop is not necessarily the future",
+        "url": "https://www.greptile.com/blog/ai-slopware-future",
+        "domain": "greptile.com",
+        "score": 172,
+        "descendants": 320,
+        "by": "dakshgupta",
+        "tags": [],
+        "summary": "探讨AI生成的低质量内容（Slop）是否真的是未来互联网内容的主流趋势。"
+      },
+      {
+        "id": 47556074,
+        "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+        "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+        "domain": "os2museum.com",
+        "score": 23,
+        "descendants": 0,
+        "by": "kencausey",
+        "tags": [],
+        "summary": "深入考古计算历史，讲解旧时代浮点运算单元（FPU）的底层检测原理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "alex000kim.com",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "ministack.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 175,
+      "max_score": {
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "score": 739
+      },
+      "most_discussed": {
+        "title": "Slop is not necessarily the future",
+        "comments": 320
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Startup",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术演进与行业动态，Claude的代码库泄露引发了对模型安全性的广泛讨论，同时OpenAI的巨额融资与各类小型化、轻量化AI模型研究成为社区热点。此外，复古技术探索和实用工具创新也吸引了程序员群体的关注。"
+  }
+}
