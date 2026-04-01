@@ -154,5 +154,166 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术演进与行业动态，Claude的代码库泄露引发了对模型安全性的广泛讨论，同时OpenAI的巨额融资与各类小型化、轻量化AI模型研究成为社区热点。此外，复古技术探索和实用工具创新也吸引了程序员群体的关注。"
+  },
+  "noon": {
+    "time": "2026-04-01 13:50",
+    "stories": [
+      {
+        "id": 47597085,
+        "title": "Claude Code Unpacked : A visual guide",
+        "url": "https://ccunpacked.dev/",
+        "domain": "ccunpacked.dev",
+        "score": 20,
+        "descendants": 3,
+        "by": "autocracy101",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过可视化图解深入拆解Claude Code的技术架构。"
+      },
+      {
+        "id": 47586778,
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "domain": "alex000kim.com",
+        "score": 1050,
+        "descendants": 400,
+        "by": "alex000kim",
+        "tags": [
+          "AI",
+          "Rust"
+        ],
+        "summary": "深度揭秘Claude Code源码中包含的假工具、正则表达式及隐秘模式等争议性内容。"
+      },
+      {
+        "id": 47595572,
+        "title": "Neanderthals survived on a knife's edge for 350k years",
+        "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+        "domain": "science.org",
+        "score": 82,
+        "descendants": 27,
+        "by": "Hooke",
+        "tags": [],
+        "summary": "科学研究揭示尼安德特人在极其艰难的生存环境下坚持了35万年。"
+      },
+      {
+        "id": 47541733,
+        "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+        "url": "https://arxiv.org/abs/2602.04118",
+        "domain": "arxiv.org",
+        "score": 133,
+        "descendants": 14,
+        "by": "sorenjan",
+        "tags": [],
+        "summary": "探讨TinyLoRA如何通过仅13个参数实现模型的推理能力提升。"
+      },
+      {
+        "id": 47558101,
+        "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+        "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+        "domain": "jeffgeerling.com",
+        "score": 24,
+        "descendants": 5,
+        "by": "ingve",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "利用树莓派FireWire扩展板让过时的MiniDV摄影机重获新生。"
+      },
+      {
+        "id": 47557171,
+        "title": "TruffleRuby",
+        "url": "https://chrisseaton.com/truffleruby/",
+        "domain": "chrisseaton.com",
+        "score": 92,
+        "descendants": 4,
+        "by": "tosh",
+        "tags": [],
+        "summary": "详细介绍TruffleRuby的高性能实现及其在Ruby生态中的应用。"
+      },
+      {
+        "id": 47593422,
+        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "url": "https://prismml.com/",
+        "domain": "prismml.com",
+        "score": 180,
+        "descendants": 79,
+        "by": "PrismML",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示首个商业可行的1-Bit LLM项目，旨在优化大模型的运行效率。"
+      },
+      {
+        "id": 47593556,
+        "title": "A dot a day keeps the clutter away",
+        "url": "https://scottlawsonbc.com/post/dot-system",
+        "domain": "scottlawsonbc.com",
+        "score": 236,
+        "descendants": 73,
+        "by": "scottlawson",
+        "tags": [],
+        "summary": "分享一种通过每日打点记录来保持生活与工作环境整洁的方法。"
+      },
+      {
+        "id": 47593285,
+        "title": "Ministack (Replacement for LocalStack)",
+        "url": "https://ministack.org/",
+        "domain": "ministack.org",
+        "score": 182,
+        "descendants": 37,
+        "by": "kerblang",
+        "tags": [],
+        "summary": "介绍Ministack，一款旨在替代LocalStack的轻量级本地云服务模拟工具。"
+      },
+      {
+        "id": 47592755,
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "domain": "cnbc.com",
+        "score": 397,
+        "descendants": 338,
+        "by": "surprisetalk",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "OpenAI最新一轮融资完成，公司估值达到惊人的8520亿美元。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ccunpacked.dev",
+          "count": 1
+        },
+        {
+          "domain": "alex000kim.com",
+          "count": 1
+        },
+        {
+          "domain": "science.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 240,
+      "max_score": {
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "score": 1050
+      },
+      "most_discussed": {
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "comments": 400
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Hardware",
+        "Show HN",
+        "Startup"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术演进与产业动态，Claude Code的安全争议与技术分析成为讨论热点。同时，轻量化模型研究、基础设施工具创新以及OpenAI估值动态也在社区引发广泛讨论。"
   }
 }
