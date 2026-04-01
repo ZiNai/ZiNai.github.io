@@ -315,5 +315,157 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术演进与产业动态，Claude Code的安全争议与技术分析成为讨论热点。同时，轻量化模型研究、基础设施工具创新以及OpenAI估值动态也在社区引发广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-04-01 21:12",
+    "stories": [
+      {
+        "id": 47597085,
+        "title": "Claude Code Unpacked : A visual guide",
+        "url": "https://ccunpacked.dev/",
+        "domain": "ccunpacked.dev",
+        "score": 648,
+        "descendants": 199,
+        "by": "autocracy101",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过可视化指南深入剖析Claude Code工具的工作原理与核心功能。"
+      },
+      {
+        "id": 47597935,
+        "title": "CERN levels up with new superconducting karts",
+        "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+        "domain": "home.cern",
+        "score": 206,
+        "descendants": 49,
+        "by": "fnands",
+        "tags": [],
+        "summary": "CERN通过引入超导卡丁车技术展示了前沿物理研究在工程应用中的趣味成果。"
+      },
+      {
+        "id": 47598511,
+        "title": "I Quit. The Clankers Won",
+        "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+        "domain": "dbushell.com",
+        "score": 126,
+        "descendants": 79,
+        "by": "domysee",
+        "tags": [],
+        "summary": "一位开发者分享其离开当前工作环境的深度思考，讨论人机协作与自动化带来的行业变迁。"
+      },
+      {
+        "id": 47599956,
+        "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+        "url": "https://sycamore.dev",
+        "domain": "sycamore.dev",
+        "score": 12,
+        "descendants": 5,
+        "by": "lukechu10",
+        "tags": [
+          "AI",
+          "Rust",
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "介绍基于细粒度响应式架构的下一代Rust UI开发库Sycamore。"
+      },
+      {
+        "id": 47573450,
+        "title": "Intuiting Pratt Parsing",
+        "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+        "domain": "louis.co.nz",
+        "score": 56,
+        "descendants": 12,
+        "by": "signa11",
+        "tags": [],
+        "summary": "直观解释Pratt解析算法的运作机制，帮助开发者理解解析器设计。"
+      },
+      {
+        "id": 47571183,
+        "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+        "url": "https://github.com/yannick-cw/korb",
+        "domain": "github.com",
+        "score": 123,
+        "descendants": 47,
+        "by": "wazHFsRy",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示利用Haskell语言对REWE API进行逆向工程，实现命令行自动化购买杂货的有趣案例。"
+      },
+      {
+        "id": 47597119,
+        "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+        "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+        "domain": "github.com",
+        "score": 93,
+        "descendants": 30,
+        "by": "ishqdehlvi",
+        "tags": [
+          "AI",
+          "Systems",
+          "Security"
+        ],
+        "summary": "分析Claude如何协助发现并编写FreeBSD内核远程代码执行漏洞的利用程序。"
+      },
+      {
+        "id": 47593556,
+        "title": "A dot a day keeps the clutter away",
+        "url": "https://scottlawsonbc.com/post/dot-system",
+        "domain": "scottlawsonbc.com",
+        "score": 392,
+        "descendants": 111,
+        "by": "scottlawson",
+        "tags": [],
+        "summary": "探讨通过极简主义的日常小习惯来消除工作与生活中的数字杂乱。"
+      },
+      {
+        "id": 47562961,
+        "title": "Chess in SQL",
+        "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+        "domain": "dbpro.app",
+        "score": 93,
+        "descendants": 21,
+        "by": "upmostly",
+        "tags": [
+          "Database"
+        ],
+        "summary": "展示如何完全利用SQL语言逻辑来实现一套完整的国际象棋游戏。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "ccunpacked.dev",
+          "count": 1
+        },
+        {
+          "domain": "home.cern",
+          "count": 1
+        }
+      ],
+      "avg_score": 194,
+      "max_score": {
+        "title": "Claude Code Unpacked : A visual guide",
+        "score": 648
+      },
+      "most_discussed": {
+        "title": "Claude Code Unpacked : A visual guide",
+        "comments": 199
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI工具的深度应用与开发实践，涵盖了Claude代码生态的探索及安全研究。同时，开发者社区对高性能Rust框架、小众编程语言项目及趣味技术工程的热情依旧高涨。"
   }
 }
