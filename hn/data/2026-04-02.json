@@ -313,5 +313,165 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿科技进展与行业深度洞察。从Artemis II航天发射的实时关注、量子计算领域的突破，到软件开发生态（如OCaml、WordPress替代品）及开源硬件市场的生存困境，体现了极客社区对底层技术革新与工程实践的高度聚焦。"
+  },
+  "evening": {
+    "time": "2026-04-02 21:04",
+    "stories": [
+      {
+        "id": 47612724,
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "url": "https://lemonade-server.ai",
+        "domain": "lemonade-server.ai",
+        "score": 58,
+        "descendants": 17,
+        "by": "AbuAssar",
+        "tags": [
+          "AI",
+          "Hardware",
+          "Open Source"
+        ],
+        "summary": "AMD发布了Lemonade，一款利用GPU和NPU加速的开源本地大模型服务器。"
+      },
+      {
+        "id": 47613078,
+        "title": "Inside Nepal's Fake Rescue Racket",
+        "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+        "domain": "kathmandupost.com",
+        "score": 44,
+        "descendants": 2,
+        "by": "lode",
+        "tags": [],
+        "summary": "深入揭露尼泊尔救援行业背后存在的诈骗产业链。"
+      },
+      {
+        "id": 47611721,
+        "title": "IBM Announces Strategic Collaboration with Arm",
+        "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+        "domain": "newsroom.ibm.com",
+        "score": 144,
+        "descendants": 76,
+        "by": "bonzini",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "IBM与Arm宣布达成战略合作，双方将在芯片架构与计算领域展开联动。"
+      },
+      {
+        "id": 47612601,
+        "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+        "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+        "domain": "undark.org",
+        "score": 195,
+        "descendants": 101,
+        "by": "novaRom",
+        "tags": [],
+        "summary": "瑞典教育界开始回归传统，推行教室中用纸质书籍取代电子屏幕的改革。"
+      },
+      {
+        "id": 47611481,
+        "title": "Bringing Clojure programming to Enterprise (2021)",
+        "url": "https://blogit.michelin.io/clojure-programming/",
+        "domain": "blogit.michelin.io",
+        "score": 95,
+        "descendants": 31,
+        "by": "smartmic",
+        "tags": [],
+        "summary": "探讨如何将Clojure编程语言引入企业级开发环境的实践经验。"
+      },
+      {
+        "id": 47611921,
+        "title": "Significant Raise of Reports",
+        "url": "https://lwn.net/Articles/1065620/",
+        "domain": "lwn.net",
+        "score": 66,
+        "descendants": 31,
+        "by": "stratos123",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析近期Linux内核安全报告显著增加的现象及其背后的维护挑战。"
+      },
+      {
+        "id": 47582987,
+        "title": "Gone (Almost) Phishin'",
+        "url": "https://ma.tt/2026/03/gone-almost-phishin/",
+        "domain": "ma.tt",
+        "score": 72,
+        "descendants": 32,
+        "by": "luu",
+        "tags": [],
+        "summary": "Matt Mullenweg分享关于钓鱼攻击防范及个人信息安全的思考。"
+      },
+      {
+        "id": 47609694,
+        "title": "Email obfuscation: What works in 2026?",
+        "url": "https://spencermortensen.com/articles/email-obfuscation/",
+        "domain": "spencermortensen.com",
+        "score": 194,
+        "descendants": 62,
+        "by": "jaden",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47596739,
+        "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "domain": "techcrunch.com",
+        "score": 81,
+        "descendants": 22,
+        "by": "jackson-mcd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mercor公司因LiteLLM漏洞遭受网络攻击的相关报道与安全复盘。"
+      },
+      {
+        "id": 47608495,
+        "title": "Quantum computing bombshells that are not April Fools",
+        "url": "https://scottaaronson.blog/?p=9665",
+        "domain": "scottaaronson.blog",
+        "score": 208,
+        "descendants": 67,
+        "by": "Strilanc",
+        "tags": [
+          "Science"
+        ],
+        "summary": "Scott Aaronson评述近期量子计算领域具有实质突破性的科研进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lemonade-server.ai",
+          "count": 1
+        },
+        {
+          "domain": "kathmandupost.com",
+          "count": 1
+        },
+        {
+          "domain": "newsroom.ibm.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 116,
+      "max_score": {
+        "title": "Quantum computing bombshells that are not April Fools",
+        "score": 208
+      },
+      "most_discussed": {
+        "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+        "comments": 101
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了前沿AI基础设施、行业安全挑战及教育改革动态。技术层面，高性能本地大模型方案与计算硬件合作成为热议，而网络安全事件与量子计算理论突破则引发了社区对信息安全与科研前沿的深度讨论。"
   }
 }
