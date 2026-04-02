@@ -156,5 +156,162 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了技术深度与行业动态，从C++编译器架构演进、软件安全创新到硬件市场瓶颈的讨论，体现了技术社区对底层工程与系统可持续性的持续关注。此外，关于AI应用及复杂协议简化的前沿探索也展示了开发者解决实际工程痛点的积极思考。"
+  },
+  "noon": {
+    "time": "2026-04-02 13:27",
+    "stories": [
+      {
+        "id": 47603657,
+        "title": "Live: Artemis II Launch Day Updates",
+        "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+        "domain": "nasa.gov",
+        "score": 777,
+        "descendants": 700,
+        "by": "apitman",
+        "tags": [],
+        "summary": "Artemis II登月任务发射日的最新进展与实时动态更新。"
+      },
+      {
+        "id": 47609882,
+        "title": "Subscription bombing and how to mitigate it",
+        "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+        "domain": "bytemash.net",
+        "score": 25,
+        "descendants": 14,
+        "by": "homelessdino",
+        "tags": [],
+        "summary": "探讨如何识别并有效防范针对订阅服务的恶意攻击行为。"
+      },
+      {
+        "id": 47609294,
+        "title": "The Claude Code Leak",
+        "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+        "domain": "build.ms",
+        "score": 64,
+        "descendants": 20,
+        "by": "mergesort",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析关于Claude Code泄露事件的相关细节与讨论。"
+      },
+      {
+        "id": 47608495,
+        "title": "Quantum computing bombshells that are not April Fools",
+        "url": "https://scottaaronson.blog/?p=9665",
+        "domain": "scottaaronson.blog",
+        "score": 95,
+        "descendants": 26,
+        "by": "Strilanc",
+        "tags": [
+          "Science"
+        ],
+        "summary": "斯科特·阿伦森盘点并解析近期量子计算领域的重大真实科学进展。"
+      },
+      {
+        "id": 47608058,
+        "title": "A new C++ back end for ocamlc",
+        "url": "https://github.com/ocaml/ocaml/pull/14701",
+        "domain": "github.com",
+        "score": 139,
+        "descendants": 9,
+        "by": "glittershark",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍OCaml编译器的一个全新C++后端实现方案。"
+      },
+      {
+        "id": 47609564,
+        "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+        "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+        "domain": "phoronix.com",
+        "score": 111,
+        "descendants": 40,
+        "by": "hkmaxpro",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "数据显示Steam在Linux平台的市场份额在三月份显著增长至5%以上。"
+      },
+      {
+        "id": 47602832,
+        "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+        "url": "https://blog.cloudflare.com/emdash-wordpress/",
+        "domain": "blog.cloudflare.com",
+        "score": 518,
+        "descendants": 366,
+        "by": "elithrar",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Cloudflare推出的EmDash旨在作为WordPress的替代品，核心优化了插件安全问题。"
+      },
+      {
+        "id": 47606840,
+        "title": "DRAM pricing is killing the hobbyist SBC market",
+        "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+        "domain": "jeffgeerling.com",
+        "score": 391,
+        "descendants": 318,
+        "by": "ingve",
+        "tags": [],
+        "summary": "深入剖析DRAM内存价格上涨如何对单板计算机（SBC）爱好者市场造成冲击。"
+      },
+      {
+        "id": 47578582,
+        "title": "What Gödel Discovered (2020)",
+        "url": "https://stopa.io/post/269",
+        "domain": "stopa.io",
+        "score": 17,
+        "descendants": 2,
+        "by": "qnleigh",
+        "tags": [],
+        "summary": "回顾并解读库尔特·哥德尔在数学与逻辑领域的开创性发现。"
+      },
+      {
+        "id": 47584386,
+        "title": "Fast and Gorgeous Erosion Filter",
+        "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+        "domain": "blog.runevision.com",
+        "score": 108,
+        "descendants": 13,
+        "by": "runevision",
+        "tags": [],
+        "summary": "展示一种兼顾高性能与视觉美感的实时地形侵蚀算法。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nasa.gov",
+          "count": 1
+        },
+        {
+          "domain": "bytemash.net",
+          "count": 1
+        },
+        {
+          "domain": "build.ms",
+          "count": 1
+        }
+      ],
+      "avg_score": 224,
+      "max_score": {
+        "title": "Live: Artemis II Launch Day Updates",
+        "score": 777
+      },
+      "most_discussed": {
+        "title": "Live: Artemis II Launch Day Updates",
+        "comments": 700
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Science",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿科技进展与行业深度洞察。从Artemis II航天发射的实时关注、量子计算领域的突破，到软件开发生态（如OCaml、WordPress替代品）及开源硬件市场的生存困境，体现了极客社区对底层技术革新与工程实践的高度聚焦。"
   }
 }
