@@ -159,5 +159,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能领域，尤其是模型发布与开发工具的迭代升级，包括 Gemma 2 和 Qwen 系列的新动态。此外，科技基础设施的安全性讨论以及针对特定平台（如 Azure 和 Tailscale）的行业观察也引发了广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-04-03 13:28",
+    "stories": [
+      {
+        "id": 47616361,
+        "title": "Google releases Gemma 4 open models",
+        "url": "https://deepmind.google/models/gemma/gemma-4/",
+        "domain": "deepmind.google",
+        "score": 1278,
+        "descendants": 378,
+        "by": "jeffmcjunkin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google发布了全新的Gemma 4开放模型系列，旨在推动轻量级高性能AI模型的发展。"
+      },
+      {
+        "id": 47616242,
+        "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+        "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+        "domain": "isolveproblems.substack.com",
+        "score": 521,
+        "descendants": 187,
+        "by": "axelriet",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一位前Azure核心工程师深入剖析了导致Azure平台信任度下降的关键决策与内部问题。"
+      },
+      {
+        "id": 47598413,
+        "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+        "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+        "domain": "gist.github.com",
+        "score": 80,
+        "descendants": 13,
+        "by": "gaigalas",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了一个仅用纯Shell脚本编写的独立C89到ELF64编译器，展示了极简的工程实现。"
+      },
+      {
+        "id": 47618189,
+        "title": "Tailscale's new macOS home",
+        "url": "https://tailscale.com/blog/macos-notch-escape",
+        "domain": "tailscale.com",
+        "score": 386,
+        "descendants": 192,
+        "by": "tosh",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Tailscale宣布为其macOS客户端重构架构，旨在提供更原生且流畅的体验。"
+      },
+      {
+        "id": 47562214,
+        "title": "Free stuff makes us irrational",
+        "url": "https://thehustle.co/why-free-stuff-makes-us-irrational",
+        "domain": "thehustle.co",
+        "score": 27,
+        "descendants": 15,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "探讨了免费获取资源如何影响人类的理性决策行为。"
+      },
+      {
+        "id": 47618084,
+        "title": "Cursor 3",
+        "url": "https://cursor.com/blog/cursor-3",
+        "domain": "cursor.com",
+        "score": 342,
+        "descendants": 286,
+        "by": "adamfeldman",
+        "tags": [],
+        "summary": "Cursor发布了最新的3.0版本，进一步优化了AI辅助编程的开发体验。"
+      },
+      {
+        "id": 47609356,
+        "title": "Artemis II's toilet is a moon mission milestone",
+        "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+        "domain": "scientificamerican.com",
+        "score": 188,
+        "descendants": 75,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "科普了Artemis II任务中先进太空马桶设计对月球探测任务的重要性。"
+      },
+      {
+        "id": 47560959,
+        "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
+        "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
+        "domain": "thottingal.in",
+        "score": 12,
+        "descendants": 7,
+        "by": "sthottingal",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了一款通过Makefile声明式管理开发工具配置的轻量级工具Home Maker。"
+      },
+      {
+        "id": 47615002,
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "url": "https://qwen.ai/blog?id=qwen3.6",
+        "domain": "qwen.ai",
+        "score": 476,
+        "descendants": 168,
+        "by": "pretext",
+        "tags": [],
+        "summary": "Qwen团队发布了Qwen3.6-Plus模型，重点提升了其在现实世界场景中的智能代理表现。"
+      },
+      {
+        "id": 47617415,
+        "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+        "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+        "domain": "blog.danieldavies.com",
+        "score": 207,
+        "descendants": 87,
+        "by": "sedev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇2008年的旧文，论述了优秀观点无需谎言包装即可获得公众认可的辩论逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "deepmind.google",
+          "count": 1
+        },
+        {
+          "domain": "isolveproblems.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "gist.github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 352,
+      "max_score": {
+        "title": "Google releases Gemma 4 open models",
+        "score": 1278
+      },
+      "most_discussed": {
+        "title": "Google releases Gemma 4 open models",
+        "comments": 378
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Rust",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于前沿AI大模型的快速迭代与工程实践，同时涵盖了云服务信任危机、软件开发工具创新及深空探测技术等议题。开发者社区对于AI模型的能力边界、开发工具的便利性以及大型技术平台的治理逻辑表现出高度关注。"
   }
 }
