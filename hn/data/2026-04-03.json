@@ -319,5 +319,164 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于前沿AI大模型的快速迭代与工程实践，同时涵盖了云服务信任危机、软件开发工具创新及深空探测技术等议题。开发者社区对于AI模型的能力边界、开发工具的便利性以及大型技术平台的治理逻辑表现出高度关注。"
+  },
+  "evening": {
+    "time": "2026-04-03 20:55",
+    "stories": [
+      {
+        "id": 47624645,
+        "title": "Show HN: Apfel – The free AI already on your Mac",
+        "url": "https://apfel.franzai.com",
+        "domain": "apfel.franzai.com",
+        "score": 219,
+        "descendants": 30,
+        "by": "franze",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一款可在Mac上免费运行的AI工具，主打本地化AI助手功能。"
+      },
+      {
+        "id": 47625952,
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "url": "https://text.blogosphere.app/",
+        "domain": "text.blogosphere.app",
+        "score": 20,
+        "descendants": 8,
+        "by": "ramkarthikk",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个旨在聚合个人博客内容的展示平台。"
+      },
+      {
+        "id": 47624731,
+        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+        "domain": "gist.github.com",
+        "score": 73,
+        "descendants": 27,
+        "by": "greenstevester",
+        "tags": [],
+        "summary": "针对Mac mini环境部署Ollama与Gemma 4 26B模型的实践教程。"
+      },
+      {
+        "id": 47616361,
+        "title": "Google releases Gemma 4 open models",
+        "url": "https://deepmind.google/models/gemma/gemma-4/",
+        "domain": "deepmind.google",
+        "score": 1570,
+        "descendants": 423,
+        "by": "jeffmcjunkin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google正式发布Gemma 4系列开源模型，是目前社区最受关注的AI新闻。"
+      },
+      {
+        "id": 47625639,
+        "title": "TDF ejects its core developers",
+        "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+        "domain": "meeksfamily.uk",
+        "score": 10,
+        "descendants": 1,
+        "by": "janvdberg",
+        "tags": [],
+        "summary": "文档基金会（TDF）因内部矛盾驱逐核心开发人员的事件引发关注。"
+      },
+      {
+        "id": 47625665,
+        "title": "Lower Price for ChatGPT Business",
+        "url": "https://help.openai.com/en/articles/8792828-what-is-chatgpt-business",
+        "domain": "help.openai.com",
+        "score": 10,
+        "descendants": 3,
+        "by": "alxthm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI宣布下调ChatGPT企业版价格，以增强市场竞争力。"
+      },
+      {
+        "id": 47624741,
+        "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+        "url": "https://only-eu.eu/en/",
+        "domain": "only-eu.eu",
+        "score": 321,
+        "descendants": 133,
+        "by": "madman_dev",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "整理了一份全面的欧洲本土软件替代方案，旨在避开美国主流科技巨头。"
+      },
+      {
+        "id": 47616242,
+        "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+        "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+        "domain": "isolveproblems.substack.com",
+        "score": 899,
+        "descendants": 396,
+        "by": "axelriet",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一位前Azure核心工程师揭露了导致云服务信任崩塌的决策细节。"
+      },
+      {
+        "id": 47561678,
+        "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+        "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+        "domain": "espressif.com",
+        "score": 89,
+        "descendants": 50,
+        "by": "topspin",
+        "tags": [],
+        "summary": "乐鑫科技发布新款ESP32-S31芯片，大幅提升了主频及网络性能。"
+      },
+      {
+        "id": 47567222,
+        "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
+        "domain": "chalmovsky.com",
+        "score": 23,
+        "descendants": 4,
+        "by": "chalmovsky",
+        "tags": [],
+        "summary": "吐槽三星Magician磁盘工具极度不友好的卸载体验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apfel.franzai.com",
+          "count": 1
+        },
+        {
+          "domain": "text.blogosphere.app",
+          "count": 1
+        },
+        {
+          "domain": "gist.github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 323,
+      "max_score": {
+        "title": "Google releases Gemma 4 open models",
+        "score": 1570
+      },
+      "most_discussed": {
+        "title": "Google releases Gemma 4 open models",
+        "comments": 423
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI模型与开源生态，Google Gemma 4的发布引发热议，同时伴随着本地部署工具的兴起。此外，科技行业对于大厂信任度（如Azure）以及去美化替代方案的讨论依然是开发者关注的热点。"
   }
 }
