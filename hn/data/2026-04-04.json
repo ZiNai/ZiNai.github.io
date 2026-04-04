@@ -155,5 +155,165 @@
       ]
     },
     "summary": "今日Hacker News重点关注人工智能工具的变动与生态更新，包括Anthropic对Claude Code订阅政策的调整。同时，航天工程成就、开源嵌入式开发项目及科技对公民权利的影响等议题也引起了社区广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-04-04 13:17",
+    "stories": [
+      {
+        "id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "url": "https://news.ycombinator.com/item?id=47633396",
+        "domain": "news.ycombinator.com",
+        "score": 455,
+        "descendants": 428,
+        "by": "firloop",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic调整策略，取消了Claude Code对OpenClaw的订阅支持。"
+      },
+      {
+        "id": 47631118,
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+        "domain": "bbc.com",
+        "score": 615,
+        "descendants": 232,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "Artemis II任务组成员拍摄到了极其震撼的地球照片。"
+      },
+      {
+        "id": 47634690,
+        "title": "Delve removed from Y Combinator",
+        "url": "https://www.ycombinator.com/companies/delve",
+        "domain": "ycombinator.com",
+        "score": 153,
+        "descendants": 68,
+        "by": "carabiner",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "创业公司Delve已被正式从Y Combinator加速器项目中除名。"
+      },
+      {
+        "id": 47629433,
+        "title": "iNaturalist",
+        "url": "https://www.inaturalist.org/",
+        "domain": "inaturalist.org",
+        "score": 370,
+        "descendants": 104,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "介绍iNaturalist平台，通过社区协作记录并识别全球生物多样性数据。"
+      },
+      {
+        "id": 47601033,
+        "title": "New Color Mode Coming to GIMP",
+        "url": "https://www.gimp.org/news/2026/04/01/new-color-mode-coming-to-gimp/",
+        "domain": "gimp.org",
+        "score": 9,
+        "descendants": 1,
+        "by": "voxadam",
+        "tags": [],
+        "summary": "图像编辑软件GIMP即将引入全新的色彩模式功能。"
+      },
+      {
+        "id": 47635056,
+        "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+        "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+        "domain": "economictimes.indiatimes.com",
+        "score": 79,
+        "descendants": 42,
+        "by": "lxm",
+        "tags": [],
+        "summary": "黄金已超过美国国债，成为全球央行最大的外汇储备资产。"
+      },
+      {
+        "id": 47586885,
+        "title": "What changes when you turn a Linux box into a router",
+        "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+        "domain": "patrickmccanna.net",
+        "score": 131,
+        "descendants": 33,
+        "by": "0o_MrPatrick_o0",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度解析将Linux服务器改造为专业路由器时需要处理的技术细节与考量。"
+      },
+      {
+        "id": 47628608,
+        "title": "OpenClaw privilege escalation vulnerability",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+        "domain": "nvd.nist.gov",
+        "score": 296,
+        "descendants": 170,
+        "by": "kykeonaut",
+        "tags": [
+          "Security"
+        ],
+        "summary": "披露了OpenClaw软件中存在的权限提升漏洞，引起安全领域关注。"
+      },
+      {
+        "id": 47585469,
+        "title": "Herbie: Automatically improve imprecise floating point formulas",
+        "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+        "domain": "herbie.uwplse.org",
+        "score": 61,
+        "descendants": 9,
+        "by": "summarity",
+        "tags": [],
+        "summary": "Herbie工具介绍：能自动重写程序代码，以提升浮点运算的精度。"
+      },
+      {
+        "id": 47635033,
+        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+        "url": "https://github.com/borski/travel-hacking-toolkit",
+        "domain": "github.com",
+        "score": 44,
+        "descendants": 13,
+        "by": "borski",
+        "tags": [
+          "AI",
+          "Security",
+          "Show HN"
+        ],
+        "summary": "介绍一个结合AI技术的旅行黑客工具，辅助用户进行积分搜索与行程规划。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        },
+        {
+          "domain": "ycombinator.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 221,
+      "max_score": {
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "score": 615
+      },
+      "most_discussed": {
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "comments": 428
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Startup",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点高度集中于AI工具生态与安全，包括Anthropic的策略调整及相关软件漏洞披露。同时，社区也关注航天科学、开源工具更新及宏观经济动态，展现了技术前沿与现实应用并重的特点。"
   }
 }
