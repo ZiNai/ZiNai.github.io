@@ -315,5 +315,146 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点高度集中于AI工具生态与安全，包括Anthropic的策略调整及相关软件漏洞披露。同时，社区也关注航天科学、开源工具更新及宏观经济动态，展现了技术前沿与现实应用并重的特点。"
+  },
+  "evening": {
+    "time": "2026-04-04 20:45",
+    "stories": [
+      {
+        "id": 47637757,
+        "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+        "url": "https://arxiv.org/abs/2604.01193",
+        "domain": "arxiv.org",
+        "score": 126,
+        "descendants": 27,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "研究显示，一种名为“自蒸馏”的简单方法能显著提升AI模型代码生成能力。"
+      },
+      {
+        "id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "url": "https://news.ycombinator.com/item?id=47633396",
+        "domain": "news.ycombinator.com",
+        "score": 803,
+        "descendants": 628,
+        "by": "firloop",
+        "tags": [
+          "AI"
+        ],
+        "summary": "用户反馈Anthropic已限制Claude Code订阅用户访问OpenClaw，引发关于工具依赖与访问权限的广泛争议。"
+      },
+      {
+        "id": 47637287,
+        "title": "Some Unusual Trees",
+        "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+        "domain": "thoughts.wyounas.com",
+        "score": 67,
+        "descendants": 16,
+        "by": "simplegeek",
+        "tags": [],
+        "summary": "一篇关于自然界中形态奇特且不寻常树木的科普性随笔。"
+      },
+      {
+        "id": 47638075,
+        "title": "The CMS is dead. Long live the CMS",
+        "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+        "domain": "next.jazzsequence.com",
+        "score": 16,
+        "descendants": 3,
+        "by": "taubek",
+        "tags": [],
+        "summary": "探讨现代Web开发背景下CMS架构的演变及其在当前技术栈中的生存价值。"
+      },
+      {
+        "id": 47631118,
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+        "domain": "bbc.com",
+        "score": 830,
+        "descendants": 287,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "Artemis II任务机组人员拍摄了一张壮观的地球照片，展示了重返深空探测的进展。"
+      },
+      {
+        "id": 47629433,
+        "title": "iNaturalist",
+        "url": "https://www.inaturalist.org/",
+        "domain": "inaturalist.org",
+        "score": 454,
+        "descendants": 109,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "介绍iNaturalist平台，这是一个基于公众科学的生物多样性记录与分类数据库。"
+      },
+      {
+        "id": 47628608,
+        "title": "OpenClaw privilege escalation vulnerability",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+        "domain": "nvd.nist.gov",
+        "score": 418,
+        "descendants": 207,
+        "by": "kykeonaut",
+        "tags": [
+          "Security"
+        ],
+        "summary": "NVD发布关于OpenClaw软件中存在的特权升级漏洞的详细技术报告。"
+      },
+      {
+        "id": 47601194,
+        "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+        "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+        "domain": "dbreunig.com",
+        "score": 8,
+        "descendants": 3,
+        "by": "dbreunig",
+        "tags": [],
+        "summary": "通过Winchester Mystery House的类比，深度解析软件工程中“大教堂与集市”模式的局限与演变。"
+      },
+      {
+        "id": 47634690,
+        "title": "Delve removed from Y Combinator",
+        "url": "https://www.ycombinator.com/companies/delve",
+        "domain": "ycombinator.com",
+        "score": 367,
+        "descendants": 222,
+        "by": "carabiner",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "关于Delve项目被YC项目库移除的消息引发了社区对于初创公司退出机制及项目合规性的讨论。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "thoughts.wyounas.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 343,
+      "max_score": {
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "score": 830
+      },
+      "most_discussed": {
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "comments": 628
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Startup"
+      ]
+    },
+    "summary": "今日Hacker News重点关注科技行业动态，包括AI模型开发的新技术论文与OpenClaw工具引发的安全及订阅争议。此外，航天进展、生物多样性记录工具以及内容管理系统的架构趋势也是社区讨论的热点。"
   }
 }
