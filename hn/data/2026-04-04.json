@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-04-04 09:08",
+    "stories": [
+      {
+        "id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "url": "https://news.ycombinator.com/item?id=47633396",
+        "domain": "news.ycombinator.com",
+        "score": 197,
+        "descendants": 185,
+        "by": "firloop",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic宣布Claude Code订阅将不再支持使用OpenClaw插件，引发用户对于工具可用性的讨论。"
+      },
+      {
+        "id": 47631118,
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+        "domain": "bbc.com",
+        "score": 469,
+        "descendants": 192,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "Artemis II任务组员拍摄了壮观的地球照片，展示了载人登月任务的最新进展。"
+      },
+      {
+        "id": 47632750,
+        "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+        "url": "https://github.com/cmc-labo/tinyos-rtos",
+        "domain": "github.com",
+        "score": 65,
+        "descendants": 12,
+        "by": "hpscript",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一个专门为Cortex-M架构设计的极简实时操作系统（RTOS），完全使用C语言编写。"
+      },
+      {
+        "id": 47629433,
+        "title": "iNaturalist",
+        "url": "https://www.inaturalist.org/",
+        "domain": "inaturalist.org",
+        "score": 322,
+        "descendants": 93,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "介绍iNaturalist，一个用于记录和分享生物多样性数据的全球性公民科学平台。"
+      },
+      {
+        "id": 47633676,
+        "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+        "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+        "domain": "support.claude.com",
+        "score": 28,
+        "descendants": 26,
+        "by": "angst",
+        "tags": [
+          "AI"
+        ],
+        "summary": "为庆祝新使用套餐（Pro, Max, Team）发布，Anthropic向Claude用户发放额外使用额度。"
+      },
+      {
+        "id": 47633947,
+        "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+        "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+        "domain": "eff.org",
+        "score": 92,
+        "descendants": 13,
+        "by": "detaro",
+        "tags": [],
+        "summary": "EFF撰文指出FAA限制无人机飞行是对拍摄移民执法行为的一种事实上的刑事定罪尝试。"
+      },
+      {
+        "id": 47633116,
+        "title": "The house is a work of art: Frank Lloyd Wright",
+        "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
+        "domain": "aeon.co",
+        "score": 33,
+        "descendants": 8,
+        "by": "midnightfish",
+        "tags": [],
+        "summary": "探讨弗兰克·劳埃德·赖特的建筑哲学，分析其设计如何将住宅提升至艺术品的层次。"
+      },
+      {
+        "id": 47633157,
+        "title": "Fake Fans",
+        "url": "https://www.wordsfromeliza.com/p/fake-fans",
+        "domain": "wordsfromeliza.com",
+        "score": 51,
+        "descendants": 6,
+        "by": "performative",
+        "tags": [],
+        "summary": "关于现代数字社交媒体环境中“虚假粉丝”现象及其对内容创作影响的深度分析。"
+      },
+      {
+        "id": 47586885,
+        "title": "What changes when you turn a Linux box into a router",
+        "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+        "domain": "patrickmccanna.net",
+        "score": 93,
+        "descendants": 24,
+        "by": "0o_MrPatrick_o0",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "详细解析将Linux服务器转化为专用路由器过程中涉及的网络架构与配置变更。"
+      },
+      {
+        "id": 47625952,
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "url": "https://text.blogosphere.app/",
+        "domain": "text.blogosphere.app",
+        "score": 645,
+        "descendants": 168,
+        "by": "ramkarthikk",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "开发者构建了一个精选个人博客内容的聚合平台，旨在为独立博客提供更多曝光机会。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 200,
+      "max_score": {
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "score": 645
+      },
+      "most_discussed": {
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "comments": 192
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能工具的变动与生态更新，包括Anthropic对Claude Code订阅政策的调整。同时，航天工程成就、开源嵌入式开发项目及科技对公民权利的影响等议题也引起了社区广泛讨论。"
+  }
+}
