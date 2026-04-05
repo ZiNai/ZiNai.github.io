@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-04-05 09:17",
+    "stories": [
+      {
+        "id": 47640728,
+        "title": "Show HN: A game where you build a GPU",
+        "url": "https://jaso1024.com/mvidia/",
+        "domain": "jaso1024.com",
+        "score": 493,
+        "descendants": 129,
+        "by": "Jaso1024",
+        "tags": [
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "通过游戏化交互方式，引导玩家从基础电路构建出功能完备的 GPU。"
+      },
+      {
+        "id": 47645037,
+        "title": "Shooting down ideas is not a skill",
+        "url": "https://scottlawsonbc.com/post/shooting-down-ideas",
+        "domain": "scottlawsonbc.com",
+        "score": 40,
+        "descendants": 24,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨批判性思维的误区，指出单纯否定创意并非有效的问题解决技巧。"
+      },
+      {
+        "id": 47595695,
+        "title": "OpenScreen is an open-source alternative to Screen Studio",
+        "url": "https://github.com/siddharthvaddem/openscreen",
+        "domain": "github.com",
+        "score": 82,
+        "descendants": 13,
+        "by": "jskopek",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一款开源的屏幕录制工具，旨在提供对标付费软件 Screen Studio 的功能体验。"
+      },
+      {
+        "id": 47642569,
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+        "domain": "teybannerman.com",
+        "score": 394,
+        "descendants": 202,
+        "by": "gpi",
+        "tags": [],
+        "summary": "深度盘点微软庞大的产品线，梳理并吐槽其“Copilot”命名泛滥造成的认知混乱。"
+      },
+      {
+        "id": 47640875,
+        "title": "LLM Wiki – example of an \"idea file\"",
+        "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+        "domain": "gist.github.com",
+        "score": 48,
+        "descendants": 14,
+        "by": "tamnd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享了一个名为 LLM Wiki 的知识库案例，展示了如何构建结构化的个人“想法文件”。"
+      },
+      {
+        "id": 47644864,
+        "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
+        "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+        "domain": "phoronix.com",
+        "score": 66,
+        "descendants": 3,
+        "by": "crcastle",
+        "tags": [
+          "Systems",
+          "Database"
+        ],
+        "summary": "报道 Linux 7.0 内核导致的 PostgreSQL 性能显著下降，且该问题修复难度较大。"
+      },
+      {
+        "id": 47637757,
+        "title": "Embarrassingly simple self-distillation improves code generation",
+        "url": "https://arxiv.org/abs/2604.01193",
+        "domain": "arxiv.org",
+        "score": 543,
+        "descendants": 165,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "介绍一种简单的自蒸馏算法，能够显著提升预训练模型在代码生成任务上的表现。"
+      },
+      {
+        "id": 47644566,
+        "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+        "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+        "domain": "jxnl.co",
+        "score": 16,
+        "descendants": 3,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "作者反思职业生涯中对自己说过的谎言，为年轻专业人士提供诚恳的成长建议。"
+      },
+      {
+        "id": 47639779,
+        "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+        "url": "https://sllm.cloud",
+        "domain": "sllm.cloud",
+        "score": 123,
+        "descendants": 62,
+        "by": "jrandolf",
+        "tags": [
+          "AI",
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一个共享 GPU 节点算力的云平台，允许开发者按需分配资源并获取无限制 Token。"
+      },
+      {
+        "id": 47614532,
+        "title": "Ruckus: Racket for iOS",
+        "url": "https://ruckus.defn.io/",
+        "domain": "ruckus.defn.io",
+        "score": 67,
+        "descendants": 4,
+        "by": "nsm",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "在 iOS 平台上实现 Racket 编程语言的开发环境，助力移动端函数式编程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jaso1024.com",
+          "count": 1
+        },
+        {
+          "domain": "scottlawsonbc.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 187,
+      "max_score": {
+        "title": "Embarrassingly simple self-distillation improves code generation",
+        "score": 543
+      },
+      "most_discussed": {
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "comments": 202
+      },
+      "hot_tags": [
+        "Show HN",
+        "Hardware",
+        "AI",
+        "Systems",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术创新与工程实践，包括自蒸馏提升代码生成、GPU 资源共享及大模型应用探讨。同时，开发者持续关注微软生态混乱及 Linux 内核性能回归等技术热点。"
+  }
+}
