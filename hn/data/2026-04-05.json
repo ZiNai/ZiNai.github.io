@@ -162,5 +162,171 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术创新与工程实践，包括自蒸馏提升代码生成、GPU 资源共享及大模型应用探讨。同时，开发者持续关注微软生态混乱及 Linux 内核性能回归等技术热点。"
+  },
+  "noon": {
+    "time": "2026-04-05 13:40",
+    "stories": [
+      {
+        "id": 47645432,
+        "title": "Introduction to Computer Music (2009) [pdf]",
+        "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+        "domain": "composerprogrammer.com",
+        "score": 93,
+        "descendants": 26,
+        "by": "luu",
+        "tags": [],
+        "summary": "一份关于计算机音乐创作的入门指南，深入探讨了算法与声音合成的原理。"
+      },
+      {
+        "id": 47640728,
+        "title": "Show HN: A game where you build a GPU",
+        "url": "https://jaso1024.com/mvidia/",
+        "domain": "jaso1024.com",
+        "score": 600,
+        "descendants": 144,
+        "by": "Jaso1024",
+        "tags": [
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一款极具挑战性的游戏，引导玩家通过逻辑门构建完整的 GPU 系统。"
+      },
+      {
+        "id": 47595695,
+        "title": "OpenScreen is an open-source alternative to Screen Studio",
+        "url": "https://github.com/siddharthvaddem/openscreen",
+        "domain": "github.com",
+        "score": 174,
+        "descendants": 28,
+        "by": "jskopek",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "开源界对标 Screen Studio 的录屏与剪辑工具，提供更灵活的开发选择。"
+      },
+      {
+        "id": 47646065,
+        "title": "What if the browser built the UI for you?",
+        "url": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+        "domain": "jonno.nz",
+        "score": 19,
+        "descendants": 19,
+        "by": "jonnonz",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨浏览器是否应当具备自动生成用户界面的能力，以简化网页交互。"
+      },
+      {
+        "id": 47640875,
+        "title": "LLM Wiki – example of an \"idea file\"",
+        "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+        "domain": "gist.github.com",
+        "score": 122,
+        "descendants": 33,
+        "by": "tamnd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示了一个名为“想法文件”的 LLM 知识库，通过结构化存储提升 AI 辅助生产力。"
+      },
+      {
+        "id": 47642569,
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+        "domain": "teybannerman.com",
+        "score": 511,
+        "descendants": 252,
+        "by": "gpi",
+        "tags": [],
+        "summary": "深度剖析微软产品线命名混乱现象，试图厘清究竟有多少产品被冠以“Copilot”之名。"
+      },
+      {
+        "id": 47644864,
+        "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+        "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+        "domain": "phoronix.com",
+        "score": 188,
+        "descendants": 44,
+        "by": "crcastle",
+        "tags": [
+          "Systems",
+          "Database"
+        ],
+        "summary": "AWS 工程师发现 Linux 7.0 内核导致 PostgreSQL 性能减半，且修复工作面临技术挑战。"
+      },
+      {
+        "id": 47644406,
+        "title": "German implementation of eIDAS will require an Apple/Google account to function",
+        "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+        "domain": "bmi.usercontent.opencode.de",
+        "score": 62,
+        "descendants": 47,
+        "by": "DyslexicAtheist",
+        "tags": [],
+        "summary": "德国 eIDAS 数字身份实现方案因强制绑定 Apple/Google 账户而引发隐私争议。"
+      },
+      {
+        "id": 47645468,
+        "title": "Writing Lisp is AI resistant and I'm sad",
+        "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+        "domain": "blog.djhaskin.com",
+        "score": 54,
+        "descendants": 47,
+        "by": "djha-skin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者感叹 Lisp 语言因其复杂特性而难以被 AI 高效理解和生成，引发对编程未来的思考。"
+      },
+      {
+        "id": 47639303,
+        "title": "Show HN: I made open source, zero power PCB hackathon badges",
+        "url": "https://github.com/KaiPereira/Overglade-Badges",
+        "domain": "github.com",
+        "score": 73,
+        "descendants": 8,
+        "by": "kaipereira",
+        "tags": [
+          "Security",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "介绍一款开源的零功耗 PCB 徽章，展示了黑客松中极具创意的硬件设计方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "composerprogrammer.com",
+          "count": 1
+        },
+        {
+          "domain": "jaso1024.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 190,
+      "max_score": {
+        "title": "Show HN: A game where you build a GPU",
+        "score": 600
+      },
+      "most_discussed": {
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "comments": 252
+      },
+      "hot_tags": [
+        "Show HN",
+        "Open Source",
+        "AI",
+        "Hardware",
+        "Web"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热点涵盖了软硬件底层技术的深度探讨，包括 AWS 的性能故障排查及 GPU 构建机制。同时，关于微软 Copilot 命名混乱的质疑、数字身份隐私政策的担忧以及 AI 对传统编程范式影响的讨论，也引发了开发者的广泛关注。"
   }
 }
