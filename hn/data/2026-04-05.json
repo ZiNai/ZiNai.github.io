@@ -328,5 +328,151 @@
       ]
     },
     "summary": "今日 Hacker News 社区热点涵盖了软硬件底层技术的深度探讨，包括 AWS 的性能故障排查及 GPU 构建机制。同时，关于微软 Copilot 命名混乱的质疑、数字身份隐私政策的担忧以及 AI 对传统编程范式影响的讨论，也引发了开发者的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-04-05 20:49",
+    "stories": [
+      {
+        "id": 47647788,
+        "title": "The threat is comfortable drift toward not understanding what you're doing",
+        "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+        "domain": "ergosphere.blog",
+        "score": 152,
+        "descendants": 84,
+        "by": "zaikunzhang",
+        "tags": [],
+        "summary": "探讨技术人员在工作中逐渐丧失对系统底层运作原理认知这一潜在风险的深度思考。"
+      },
+      {
+        "id": 47647455,
+        "title": "Talk like caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "domain": "github.com",
+        "score": 163,
+        "descendants": 113,
+        "by": "tosh",
+        "tags": [],
+        "summary": "一个关于简化语言表达以达到“原始人式沟通”的项目，探讨极简逻辑的趣味性。"
+      },
+      {
+        "id": 47646843,
+        "title": "Lisette a little language inspired by Rust that compiles to Go",
+        "url": "https://lisette.run/",
+        "domain": "lisette.run",
+        "score": 125,
+        "descendants": 59,
+        "by": "jspdown",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍一种受Rust启发、可编译为Go代码的新型小型编程语言Lisette。"
+      },
+      {
+        "id": 47648452,
+        "title": "Ubuntu now requires more RAM than Windows 11",
+        "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+        "domain": "howtogeek.com",
+        "score": 46,
+        "descendants": 38,
+        "by": "jnord",
+        "tags": [],
+        "summary": "针对Ubuntu系统在现代版本中内存占用超过Windows 11的性能对比分析。"
+      },
+      {
+        "id": 47640728,
+        "title": "Show HN: A game where you build a GPU",
+        "url": "https://jaso1024.com/mvidia/",
+        "domain": "jaso1024.com",
+        "score": 808,
+        "descendants": 166,
+        "by": "Jaso1024",
+        "tags": [
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一款极具挑战性的硬核游戏，要求玩家从零开始通过逻辑门构建完整的GPU。"
+      },
+      {
+        "id": 47644406,
+        "title": "German implementation of eIDAS will require an Apple/Google account to function",
+        "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+        "domain": "bmi.usercontent.opencode.de",
+        "score": 363,
+        "descendants": 329,
+        "by": "DyslexicAtheist",
+        "tags": [],
+        "summary": "揭露德国电子身份认证（eIDAS）实现方案强制依赖苹果或谷歌账户引发的隐私与主权担忧。"
+      },
+      {
+        "id": 47595695,
+        "title": "OpenScreen is an open-source alternative to Screen Studio",
+        "url": "https://github.com/siddharthvaddem/openscreen",
+        "domain": "github.com",
+        "score": 345,
+        "descendants": 58,
+        "by": "jskopek",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一款开源的屏幕录制与编辑工具，旨在作为Screen Studio的免费替代品。"
+      },
+      {
+        "id": 47645432,
+        "title": "Introduction to Computer Music (2009) [pdf]",
+        "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+        "domain": "composerprogrammer.com",
+        "score": 174,
+        "descendants": 54,
+        "by": "luu",
+        "tags": [],
+        "summary": "一份涵盖计算机音乐基础理论与实践的经典入门指南（2009年版）。"
+      },
+      {
+        "id": 47590230,
+        "title": "Costco sued for seeking refunds on tariffs customers paid",
+        "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+        "domain": "arstechnica.com",
+        "score": 40,
+        "descendants": 18,
+        "by": "AdmiralAsshat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道Costco因试图要求退还已向客户收取的关税而面临法律诉讼的商业纠纷。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "ergosphere.blog",
+          "count": 1
+        },
+        {
+          "domain": "lisette.run",
+          "count": 1
+        }
+      ],
+      "avg_score": 246,
+      "max_score": {
+        "title": "Show HN: A game where you build a GPU",
+        "score": 808
+      },
+      "most_discussed": {
+        "title": "German implementation of eIDAS will require an Apple/Google account to function",
+        "comments": 329
+      },
+      "hot_tags": [
+        "Rust",
+        "Show HN",
+        "Hardware",
+        "Open Source",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News关注点集中在底层计算技术与隐私合规争议。用户对于构建硬件的硬核游戏和编程语言创新保持高热情，同时对操作系统资源占用及数字身份系统强制绑定商业账号的趋势表示担忧。"
   }
 }
