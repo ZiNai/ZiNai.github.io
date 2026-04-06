@@ -309,5 +309,150 @@
       ]
     },
     "summary": "本期Hacker News热门内容以AI技术创新为核心，涵盖了模型部署、搜索工具优化及大厂合规争议。此外，复古编程文化、射频硬件探索与UI设计哲学也吸引了大量技术讨论与关注。"
+  },
+  "evening": {
+    "time": "2026-04-06 21:01",
+    "stories": [
+      {
+        "id": 47660286,
+        "title": "What Being Ripped Off Taught Me",
+        "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+        "domain": "belief.horse",
+        "score": 6,
+        "descendants": 0,
+        "by": "doctorhandshake",
+        "tags": [],
+        "summary": "作者分享了被欺骗经历中获得的个人感悟与反思。"
+      },
+      {
+        "id": 47659109,
+        "title": "Age Verification as Mass Surveillance Infrastructure",
+        "url": "https://tboteproject.com/surveillancefindings/",
+        "domain": "tboteproject.com",
+        "score": 250,
+        "descendants": 72,
+        "by": "rurban",
+        "tags": [],
+        "summary": "探讨了年龄验证系统如何演变为一种大规模监控的基础设施。"
+      },
+      {
+        "id": 47655408,
+        "title": "Show HN: I built a tiny LLM to demystify how language models work",
+        "url": "https://github.com/arman-bd/guppylm",
+        "domain": "github.com",
+        "score": 608,
+        "descendants": 78,
+        "by": "armanified",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "分享了一个通过小型语言模型揭秘 AI 工作原理的教学项目。"
+      },
+      {
+        "id": 47658146,
+        "title": "France pulls last gold held in US for $15B gain",
+        "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+        "domain": "mining.com",
+        "score": 264,
+        "descendants": 155,
+        "by": "teleforce",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道了法国将最后一批黄金从美国运回并获得 150 亿美元收益的事件。"
+      },
+      {
+        "id": 47652561,
+        "title": "Gemma 4 on iPhone",
+        "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+        "domain": "apps.apple.com",
+        "score": 702,
+        "descendants": 197,
+        "by": "janandonly",
+        "tags": [],
+        "summary": "展示了在 iPhone 上成功运行 Gemma 4 大模型的实现方案。"
+      },
+      {
+        "id": 47651703,
+        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+        "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+        "domain": "jsnover.com",
+        "score": 565,
+        "descendants": 368,
+        "by": "naves",
+        "tags": [],
+        "summary": "尖锐指出微软自 Petzold 时代以来缺乏连贯且统一的图形界面策略。"
+      },
+      {
+        "id": 47656622,
+        "title": "An open-source 240-antenna array to bounce signals off the Moon",
+        "url": "https://moonrf.com/",
+        "domain": "moonrf.com",
+        "score": 148,
+        "descendants": 18,
+        "by": "hillcrestenigma",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍了一个利用 240 个天线阵列实现月球反射信号通信的开源项目。"
+      },
+      {
+        "id": 47652007,
+        "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+        "url": "https://github.com/fikrikarim/parlor",
+        "domain": "github.com",
+        "score": 143,
+        "descendants": 12,
+        "by": "karimf",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示了在 M3 Pro 芯片上实现实时音视频输入与语音输出的 AI 系统。"
+      },
+      {
+        "id": 47637377,
+        "title": "LÖVE: 2D Game Framework for Lua",
+        "url": "https://github.com/love2d/love",
+        "domain": "github.com",
+        "score": 334,
+        "descendants": 163,
+        "by": "cl3misch",
+        "tags": [],
+        "summary": "介绍了 LÖVE，一个基于 Lua 语言的流行 2D 游戏开发框架。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "belief.horse",
+          "count": 1
+        },
+        {
+          "domain": "tboteproject.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 336,
+      "max_score": {
+        "title": "Gemma 4 on iPhone",
+        "score": 702
+      },
+      "most_discussed": {
+        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+        "comments": 368
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能技术的最新应用与行业反思，涵盖了本地化运行轻量级大模型、AI 交互实测以及对微软 GUI 策略的深度批判。此外，关于隐私基础设施、地缘经济变动及极客硬件项目的讨论也引起了广泛关注。"
   }
 }
