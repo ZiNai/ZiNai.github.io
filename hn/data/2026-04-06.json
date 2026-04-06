@@ -151,5 +151,163 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 模型本地化部署与应用开发的创新，如 Gemma 4 在移动端的实践及相关辅助工具。此外，航天进展、人机协作的社会化影响以及对软件 GUI 设计的反思也引发了社区广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-04-06 13:54",
+    "stories": [
+      {
+        "id": 47655408,
+        "title": "Show HN: I built a tiny LLM to demystify how language models work",
+        "url": "https://github.com/arman-bd/guppylm",
+        "domain": "github.com",
+        "score": 244,
+        "descendants": 18,
+        "by": "armanified",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "开发者打造了一个小型语言模型，旨在通过可视化教学揭示大语言模型的工作原理。"
+      },
+      {
+        "id": 47655392,
+        "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
+        "url": "https://playlists.at/youtube/search/",
+        "domain": "playlists.at",
+        "score": 157,
+        "descendants": 99,
+        "by": "nevernothing",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "针对YouTube自带搜索功能不佳的问题，作者开发了一款带有高级过滤选项的第三方搜索表单。"
+      },
+      {
+        "id": 47652561,
+        "title": "Gemma 4 on iPhone",
+        "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+        "domain": "apps.apple.com",
+        "score": 533,
+        "descendants": 137,
+        "by": "janandonly",
+        "tags": [],
+        "summary": "展示了如何在iPhone本地成功运行Gemma 4大模型，引发了关于端侧AI性能的讨论。"
+      },
+      {
+        "id": 47655329,
+        "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+        "domain": "techcrunch.com",
+        "score": 121,
+        "descendants": 24,
+        "by": "airstrike",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软服务条款中将Copilot定义为“仅供娱乐使用”，引发公众对AI工具可靠性和法律责任的质疑。"
+      },
+      {
+        "id": 47652007,
+        "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+        "url": "https://github.com/fikrikarim/parlor",
+        "domain": "github.com",
+        "score": 13,
+        "descendants": 2,
+        "by": "karimf",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示了在M3 Pro芯片上运行实时音频/视频交互AI系统的技术路径，侧重性能与低延迟。"
+      },
+      {
+        "id": 47656622,
+        "title": "An open-source 240-antenna array to bounce signals off the Moon",
+        "url": "https://moonrf.com/",
+        "domain": "moonrf.com",
+        "score": 36,
+        "descendants": 9,
+        "by": "hillcrestenigma",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个开源项目利用240个天线组成的阵列，成功通过月球反射信号进行通信实验。"
+      },
+      {
+        "id": 47651703,
+        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+        "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+        "domain": "jsnover.com",
+        "score": 326,
+        "descendants": 187,
+        "by": "naves",
+        "tags": [],
+        "summary": "探讨了微软在Petzold时代后，长期缺乏连贯且统一的图形用户界面（GUI）设计战略。"
+      },
+      {
+        "id": 47656501,
+        "title": "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+        "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+        "domain": "twitter.com",
+        "score": 35,
+        "descendants": 13,
+        "by": "keepamovin",
+        "tags": [],
+        "summary": "回顾了1987年的经典游戏《The Last Ninja》，仅占用40KB内存却拥有惊人的内容量。"
+      },
+      {
+        "id": 47637377,
+        "title": "LÖVE: 2D Game Framework for Lua",
+        "url": "https://github.com/love2d/love",
+        "domain": "github.com",
+        "score": 252,
+        "descendants": 99,
+        "by": "cl3misch",
+        "tags": [],
+        "summary": "介绍并探讨了基于Lua语言的轻量级2D游戏开发框架LÖVE的使用与优势。"
+      },
+      {
+        "id": 47656682,
+        "title": "Winners of the 2026 Kokuyo Design Awards",
+        "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+        "domain": "spoon-tamago.com",
+        "score": 18,
+        "descendants": 1,
+        "by": "zdw",
+        "tags": [],
+        "summary": "展示了2026年Kokuyo设计奖的获奖作品，呈现了极具创意的产品设计灵感。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "playlists.at",
+          "count": 1
+        },
+        {
+          "domain": "apps.apple.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 174,
+      "max_score": {
+        "title": "Gemma 4 on iPhone",
+        "score": 533
+      },
+      "most_discussed": {
+        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+        "comments": 187
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容以AI技术创新为核心，涵盖了模型部署、搜索工具优化及大厂合规争议。此外，复古编程文化、射频硬件探索与UI设计哲学也吸引了大量技术讨论与关注。"
   }
 }
