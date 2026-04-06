@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-04-06 09:17",
+    "stories": [
+      {
+        "id": 47654620,
+        "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+        "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+        "domain": "techcrunch.com",
+        "score": 97,
+        "descendants": 84,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "日本利用机器人技术解决劳动力短缺问题，重点在于填补不受欢迎的职位空缺。"
+      },
+      {
+        "id": 47652561,
+        "title": "Gemma 4 on iPhone",
+        "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+        "domain": "apps.apple.com",
+        "score": 400,
+        "descendants": 99,
+        "by": "janandonly",
+        "tags": [],
+        "summary": "探讨了将 Google 的 Gemma 4 模型运行在 iPhone 上的可行性与技术实现。"
+      },
+      {
+        "id": 47655392,
+        "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
+        "url": "https://playlists.at/youtube/search/",
+        "domain": "playlists.at",
+        "score": 13,
+        "descendants": 4,
+        "by": "nevernothing",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者自制了一个带有高级筛选功能的 YouTube 搜索工具，以解决原生搜索体验不佳的问题。"
+      },
+      {
+        "id": 47637377,
+        "title": "LÖVE: 2D Game Framework for Lua",
+        "url": "https://github.com/love2d/love",
+        "domain": "github.com",
+        "score": 194,
+        "descendants": 84,
+        "by": "cl3misch",
+        "tags": [],
+        "summary": "介绍了一个基于 Lua 语言的轻量级 2D 游戏开发框架 LÖVE。"
+      },
+      {
+        "id": 47649721,
+        "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+        "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+        "domain": "bbc.com",
+        "score": 400,
+        "descendants": 306,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "Artemis II 任务组拍摄并分享了月球背面的首批影像资料。"
+      },
+      {
+        "id": 47648828,
+        "title": "Eight years of wanting, three months of building with AI",
+        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+        "domain": "lalitm.com",
+        "score": 600,
+        "descendants": 189,
+        "by": "brilee",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享个人利用 AI 技术在三个月内完成八年梦想的开发心得。"
+      },
+      {
+        "id": 47651703,
+        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+        "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+        "domain": "jsnover.com",
+        "score": 179,
+        "descendants": 101,
+        "by": "naves",
+        "tags": [],
+        "summary": "批判性分析指出微软自 Petzold 时代以来缺乏统一且连贯的图形用户界面设计策略。"
+      },
+      {
+        "id": 47655338,
+        "title": "Peter Thiel's big bet on solar-powered cow collars",
+        "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+        "domain": "techcrunch.com",
+        "score": 21,
+        "descendants": 23,
+        "by": "frasermarlow",
+        "tags": [],
+        "summary": "报道 Peter Thiel 投资太阳能驱动的智能项圈，旨在追踪及优化畜牧业管理。"
+      },
+      {
+        "id": 47647455,
+        "title": "Caveman: Why use many token when few token do trick",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "domain": "github.com",
+        "score": 691,
+        "descendants": 312,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍 Caveman 项目，探讨如何在 LLM 对话中通过精简 token 来提升效率。"
+      },
+      {
+        "id": 47651540,
+        "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+        "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+        "domain": "ai.georgeliu.com",
+        "score": 180,
+        "descendants": 50,
+        "by": "vbtechguy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "实测演示如何使用 LM Studio 的无头 CLI 和 Claude Code 在本地高效运行 Gemma 4。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "techcrunch.com",
+          "count": 2
+        },
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "apps.apple.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 278,
+      "max_score": {
+        "title": "Caveman: Why use many token when few token do trick",
+        "score": 691
+      },
+      "most_discussed": {
+        "title": "Caveman: Why use many token when few token do trick",
+        "comments": 312
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 模型本地化部署与应用开发的创新，如 Gemma 4 在移动端的实践及相关辅助工具。此外，航天进展、人机协作的社会化影响以及对软件 GUI 设计的反思也引发了社区广泛讨论。"
+  }
+}
