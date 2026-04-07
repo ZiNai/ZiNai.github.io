@@ -165,5 +165,166 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的深度博弈，包括对Claude Code工程局限性的激烈讨论，以及对Sam Altman权力边界的伦理审视。此外，开发者工具创新依然活跃，涉及macOS语音交互、AI代理沙箱及内存优化等实用开源项目。"
+  },
+  "noon": {
+    "time": "2026-04-07 13:42",
+    "stories": [
+      {
+        "id": 47669337,
+        "title": "Solod – A Subset of Go That Translates to C",
+        "url": "https://github.com/solod-dev/solod",
+        "domain": "github.com",
+        "score": 76,
+        "descendants": 17,
+        "by": "TheWiggles",
+        "tags": [],
+        "summary": "Solod：一个将Go语言子集转换为C语言的工具，旨在提高性能与兼容性。"
+      },
+      {
+        "id": 47666024,
+        "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+        "url": "https://github.com/matthartman/ghost-pepper",
+        "domain": "github.com",
+        "score": 319,
+        "descendants": 140,
+        "by": "MattHart88",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "Ghost Pepper：一款为macOS设计的本地语音转文字工具，支持按住通话，保护用户隐私。"
+      },
+      {
+        "id": 47663147,
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
+        "domain": "freestyle.sh",
+        "score": 241,
+        "descendants": 130,
+        "by": "benswerd",
+        "tags": [],
+        "summary": "Freestyle：专为AI编程代理（Coding Agents）打造的沙盒环境，提供更安全、可控的代码执行空间。"
+      },
+      {
+        "id": 47662234,
+        "title": "A cryptography engineer's perspective on quantum computing timelines",
+        "url": "https://words.filippo.io/crqc-timeline/",
+        "domain": "words.filippo.io",
+        "score": 409,
+        "descendants": 166,
+        "by": "thadt",
+        "tags": [
+          "Science"
+        ],
+        "summary": "密码学工程师从工程角度深入分析了量子计算的发展时间表，探讨了后量子密码学的现实意义。"
+      },
+      {
+        "id": 47660925,
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "url": "https://github.com/anthropics/claude-code/issues/42796",
+        "domain": "github.com",
+        "score": 909,
+        "descendants": 518,
+        "by": "StanAngeloff",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开发者反馈Claude Code在二月更新后，处理复杂工程任务的能力显著下降，引发社区讨论。"
+      },
+      {
+        "id": 47659135,
+        "title": "Sam Altman may control our future – can he be trusted?",
+        "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+        "domain": "newyorker.com",
+        "score": 1152,
+        "descendants": 439,
+        "by": "adrianhon",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "《纽约客》深度报道：探讨Sam Altman在人工智能领域的巨大影响力及其引发的信任与权力制衡争议。"
+      },
+      {
+        "id": 47660954,
+        "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+        "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+        "domain": "krebsonsecurity.com",
+        "score": 281,
+        "descendants": 139,
+        "by": "Bender",
+        "tags": [],
+        "summary": "德国警方公开了GandCrab和REvil勒索软件组织的疑似头目名单，展示了国际执法部门对网络犯罪的重拳打击。"
+      },
+      {
+        "id": 47662945,
+        "title": "Show HN: GovAuctions lets you browse government auctions at once",
+        "url": "https://www.govauctions.app/",
+        "domain": "govauctions.app",
+        "score": 257,
+        "descendants": 73,
+        "by": "player_piano",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "GovAuctions：一个聚合全美政府拍卖信息的平台，方便用户一站式浏览各类待拍资产。"
+      },
+      {
+        "id": 47627998,
+        "title": "VOID: Video Object and Interaction Deletion",
+        "url": "https://github.com/Netflix/void-model",
+        "domain": "github.com",
+        "score": 126,
+        "descendants": 39,
+        "by": "bobsoap",
+        "tags": [],
+        "summary": "VOID：一项视频对象与交互删除技术，展示了通过计算机视觉自动从视频中移除特定元素的能力。"
+      },
+      {
+        "id": 47667717,
+        "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "domain": "anthropic.com",
+        "score": 205,
+        "descendants": 91,
+        "by": "l1n",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic宣布扩大与Google及Broadcom的战略合作，旨在共同开发下一代AI计算基础设施。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "freestyle.sh",
+          "count": 1
+        },
+        {
+          "domain": "words.filippo.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 398,
+      "max_score": {
+        "title": "Sam Altman may control our future – can he be trusted?",
+        "score": 1152
+      },
+      "most_discussed": {
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "comments": 518
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Systems",
+        "Science",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI生态的演进与争议，涵盖Claude Code的工程实践挑战、Anthropic的算力布局，以及科技领袖权力边界的讨论。同时，量子计算的安全性分析和安全领域的勒索软件追踪也引起了社区的高度关注。"
   }
 }
