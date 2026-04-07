@@ -1,0 +1,169 @@
+{
+  "morning": {
+    "time": "2026-04-07 09:15",
+    "stories": [
+      {
+        "id": 47668727,
+        "title": "After 20 years I turned off Google Adsense for my websites",
+        "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+        "domain": "blog.ericgoldman.org",
+        "score": 83,
+        "descendants": 42,
+        "by": "datadrivenangel",
+        "tags": [
+          "Web"
+        ],
+        "summary": "作者分享了在运行20年后关闭Google Adsense的决定与心路历程。"
+      },
+      {
+        "id": 47667717,
+        "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "domain": "anthropic.com",
+        "score": 104,
+        "descendants": 39,
+        "by": "l1n",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic宣布与Google及Broadcom深化合作，以获取下一代计算资源。"
+      },
+      {
+        "id": 47666024,
+        "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+        "url": "https://github.com/matthartman/ghost-pepper",
+        "domain": "github.com",
+        "score": 219,
+        "descendants": 98,
+        "by": "MattHart88",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一款开源的macOS本地“按住说话”语音转文字工具，强调隐私与便捷。"
+      },
+      {
+        "id": 47659135,
+        "title": "Sam Altman may control our future – can he be trusted?",
+        "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+        "domain": "newyorker.com",
+        "score": 792,
+        "descendants": 283,
+        "by": "adrianhon",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "《纽约客》深度报道，探讨Sam Altman在AI行业的影响力及其潜在的信任危机。"
+      },
+      {
+        "id": 47663147,
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
+        "domain": "freestyle.sh",
+        "score": 199,
+        "descendants": 114,
+        "by": "benswerd",
+        "tags": [],
+        "summary": "针对AI编程代理（Coding Agents）设计的自动化沙箱测试环境。"
+      },
+      {
+        "id": 47662234,
+        "title": "A cryptography engineer's perspective on quantum computing timelines",
+        "url": "https://words.filippo.io/crqc-timeline/",
+        "domain": "words.filippo.io",
+        "score": 316,
+        "descendants": 137,
+        "by": "thadt",
+        "tags": [
+          "Science"
+        ],
+        "summary": "加密工程专家从技术底层视角分析量子计算落地的实际时间表。"
+      },
+      {
+        "id": 47662945,
+        "title": "Show HN: GovAuctions lets you browse government auctions at once",
+        "url": "https://www.govauctions.app/",
+        "domain": "govauctions.app",
+        "score": 209,
+        "descendants": 64,
+        "by": "player_piano",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个聚合全美政府拍卖信息的搜索工具，方便用户快速检索资产。"
+      },
+      {
+        "id": 47627595,
+        "title": "Porting Go's strings package to C",
+        "url": "https://antonz.org/porting-go-strings/",
+        "domain": "antonz.org",
+        "score": 21,
+        "descendants": 3,
+        "by": "ingve",
+        "tags": [],
+        "summary": "技术博客记录了将Go语言的字符串处理包移植到C语言的过程与挑战。"
+      },
+      {
+        "id": 47667672,
+        "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+        "url": "https://github.com/kitfunso/hippo-memory",
+        "domain": "github.com",
+        "score": 42,
+        "descendants": 13,
+        "by": "kitfunso",
+        "tags": [
+          "AI",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "受生物学启发的AI代理内存管理方案，旨在提升智能体的长期记忆能力。"
+      },
+      {
+        "id": 47660925,
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "url": "https://github.com/anthropics/claude-code/issues/42796",
+        "domain": "github.com",
+        "score": 740,
+        "descendants": 458,
+        "by": "StanAngeloff",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GitHub议题讨论指出Claude Code在二月更新后处理复杂工程任务时表现不佳。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "blog.ericgoldman.org",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 272,
+      "max_score": {
+        "title": "Sam Altman may control our future – can he be trusted?",
+        "score": 792
+      },
+      "most_discussed": {
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "comments": 458
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems",
+        "Web",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的深度博弈，包括对Claude Code工程局限性的激烈讨论，以及对Sam Altman权力边界的伦理审视。此外，开发者工具创新依然活跃，涉及macOS语音交互、AI代理沙箱及内存优化等实用开源项目。"
+  }
+}
