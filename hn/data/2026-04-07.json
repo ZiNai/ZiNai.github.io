@@ -326,5 +326,170 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI生态的演进与争议，涵盖Claude Code的工程实践挑战、Anthropic的算力布局，以及科技领袖权力边界的讨论。同时，量子计算的安全性分析和安全领域的勒索软件追踪也引起了社区的高度关注。"
+  },
+  "evening": {
+    "time": "2026-04-07 21:10",
+    "stories": [
+      {
+        "id": 47673005,
+        "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+        "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+        "domain": "juxt.pro",
+        "score": 121,
+        "descendants": 57,
+        "by": "henrygarner",
+        "tags": [],
+        "summary": "研究人员在阿波罗11号制导计算机的原始代码中发现了一个此前未记录的漏洞。"
+      },
+      {
+        "id": 47673541,
+        "title": "AI may be making us think and write more alike",
+        "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+        "domain": "dornsife.usc.edu",
+        "score": 83,
+        "descendants": 60,
+        "by": "giuliomagnifico",
+        "tags": [
+          "AI"
+        ],
+        "summary": "南加州大学的一项研究表明，AI工具的使用可能正在导致人类思考和写作方式趋于同质化。"
+      },
+      {
+        "id": 47673360,
+        "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+        "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+        "domain": "sam-burns.com",
+        "score": 57,
+        "descendants": 13,
+        "by": "sam-bee",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个采用粗野主义风格设计的混凝土材质笔记本电脑支架展示。"
+      },
+      {
+        "id": 47674027,
+        "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+        "url": "https://www.intofarlands.com/atlasofarda",
+        "domain": "intofarlands.com",
+        "score": 23,
+        "descendants": 3,
+        "by": "intofarlands",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一位制图师试图利用地理测绘学原理，重新绘制托尔金中土世界的地理布局。"
+      },
+      {
+        "id": 47672884,
+        "title": "Identify a London Underground Line just by listening to it",
+        "url": "https://tubesoundquiz.com/",
+        "domain": "tubesoundquiz.com",
+        "score": 67,
+        "descendants": 17,
+        "by": "nelson687",
+        "tags": [],
+        "summary": "一个通过音频线索测试你对伦敦地铁线路辨识能力的互动挑战游戏。"
+      },
+      {
+        "id": 47672318,
+        "title": "Blackholing My Email",
+        "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+        "domain": "johnsto.co.uk",
+        "score": 66,
+        "descendants": 1,
+        "by": "semyonsh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了通过“黑洞”化管理来彻底清理和规避垃圾邮件的个人实践方案。"
+      },
+      {
+        "id": 47672295,
+        "title": "Every GPU That Mattered",
+        "url": "https://sheets.works/data-viz/every-gpu",
+        "domain": "sheets.works",
+        "score": 150,
+        "descendants": 75,
+        "by": "jonbaer",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一份详尽的史料清单，梳理并盘点了图形处理领域历史上具有里程碑意义的显卡型号。"
+      },
+      {
+        "id": 47673880,
+        "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
+        "url": "https://github.com/pion/handoff",
+        "domain": "github.com",
+        "score": 14,
+        "descendants": 1,
+        "by": "Sean-Der",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一个旨在将WebRTC功能从浏览器移至Go后端实现的开源项目。"
+      },
+      {
+        "id": 47672778,
+        "title": "Breaking the console: a brief history of video game security",
+        "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
+        "domain": "sergioprado.blog",
+        "score": 41,
+        "descendants": 6,
+        "by": "sprado",
+        "tags": [
+          "Security"
+        ],
+        "summary": "回顾了游戏机硬件历史上针对安全机制的破解与博弈过程。"
+      },
+      {
+        "id": 47627217,
+        "title": "Running Out of Disk Space in Production",
+        "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+        "domain": "alt-romes.github.io",
+        "score": 42,
+        "descendants": 13,
+        "by": "romes",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨在生产环境服务器遇到磁盘空间不足故障时的排查与应急处理经验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "juxt.pro",
+          "count": 1
+        },
+        {
+          "domain": "dornsife.usc.edu",
+          "count": 1
+        },
+        {
+          "domain": "sam-burns.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 66,
+      "max_score": {
+        "title": "Every GPU That Mattered",
+        "score": 150
+      },
+      "most_discussed": {
+        "title": "Every GPU That Mattered",
+        "comments": 75
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Hardware",
+        "Web",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News内容多元，涵盖了从阿波罗11号源代码的古董级排障到现代AI对写作风格影响的探讨。技术类话题表现活跃，涉及图形处理硬件演进、WebRTC底层实现以及系统维护实操等领域，同时也包含了一些独特趣味的跨界创作。"
   }
 }
