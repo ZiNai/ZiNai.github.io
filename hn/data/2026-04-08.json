@@ -155,5 +155,158 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI领域，Anthropic公司发布了关于软件安全性及新模型Claude Mythos的详细报告，显示业界正加速提升大模型的可靠性与任务处理能力。此外，榜单还涵盖了从地理模型到艺术与文化轶事等多样化主题，反映了社区对前沿技术与人文探索的持续关注。"
+  },
+  "noon": {
+    "time": "2026-04-08 13:42",
+    "stories": [
+      {
+        "id": 47679121,
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "url": "https://www.anthropic.com/glasswing",
+        "domain": "anthropic.com",
+        "score": 1094,
+        "descendants": 503,
+        "by": "Ryan5453",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Project Glasswing，旨在为AI时代的核心软件架构提供强化安全方案。"
+      },
+      {
+        "id": 47676509,
+        "title": "Lunar Flyby",
+        "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+        "domain": "nasa.gov",
+        "score": 542,
+        "descendants": 129,
+        "by": "kipi",
+        "tags": [],
+        "summary": "NASA通过高清影像展示了月球飞掠任务的壮观视角。"
+      },
+      {
+        "id": 47684514,
+        "title": "Protect your shed",
+        "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+        "domain": "dylanbutler.dev",
+        "score": 66,
+        "descendants": 10,
+        "by": "baely",
+        "tags": [],
+        "summary": "关于如何保护及维护个人户外棚屋的技术建议与实践指南。"
+      },
+      {
+        "id": 47622436,
+        "title": "Slightly safer vibecoding by adopting old hacker habits",
+        "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+        "domain": "addxorrol.blogspot.com",
+        "score": 56,
+        "descendants": 25,
+        "by": "transpute",
+        "tags": [
+          "Security"
+        ],
+        "summary": "作者建议通过借鉴传统黑客习惯，提升当下流行AI辅助编程（vibecoding）的安全性与质量。"
+      },
+      {
+        "id": 47634422,
+        "title": "Native Americans had dice 12k years ago",
+        "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+        "domain": "nbcnews.com",
+        "score": 32,
+        "descendants": 4,
+        "by": "delichon",
+        "tags": [],
+        "summary": "考古新发现证实，北美原住民在1.2万年前就已经开始使用骰子作为博弈工具。"
+      },
+      {
+        "id": 47679258,
+        "title": "System Card: Claude Mythos Preview [pdf]",
+        "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+        "domain": "www-cdn.anthropic.com",
+        "score": 622,
+        "descendants": 447,
+        "by": "be7a",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Anthropic发布Claude Mythos模型预览系统的技术卡片，详述其性能边界与安全指标。"
+      },
+      {
+        "id": 47677853,
+        "title": "GLM-5.1: Towards Long-Horizon Tasks",
+        "url": "https://z.ai/blog/glm-5.1",
+        "domain": "z.ai",
+        "score": 477,
+        "descendants": 190,
+        "by": "zixuanlimit",
+        "tags": [],
+        "summary": "GLM-5.1模型发布，重点讨论其在长跨度复杂任务处理上的性能提升。"
+      },
+      {
+        "id": 47653642,
+        "title": "Binary obfuscation used in AAA Games",
+        "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
+        "domain": "blog.farzon.org",
+        "score": 58,
+        "descendants": 17,
+        "by": "noztol",
+        "tags": [],
+        "summary": "探讨 AAA 级游戏开发中广泛使用的二进制混淆技术及其在反作弊中的应用。"
+      },
+      {
+        "id": 47650887,
+        "title": "How to get better at guitar",
+        "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+        "domain": "jakeworth.com",
+        "score": 259,
+        "descendants": 124,
+        "by": "jwworth",
+        "tags": [],
+        "summary": "一份针对吉他学习者的进阶指南，分享了提升演奏技巧的实用建议与心态调整。"
+      },
+      {
+        "id": 47680404,
+        "title": "S3 Files",
+        "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+        "domain": "allthingsdistributed.com",
+        "score": 254,
+        "descendants": 74,
+        "by": "werner",
+        "tags": [],
+        "summary": "AWS官方博文，深度解读S3文件存储架构的核心特性及应用的最佳实践。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "nasa.gov",
+          "count": 1
+        },
+        {
+          "domain": "dylanbutler.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 346,
+      "max_score": {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "score": 1094
+      },
+      "most_discussed": {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "comments": 503
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术进展，Anthropic发布了两项关于模型安全与性能的关键文档。此外，议题涵盖了从历史考古、软件混淆到工程实践与个人技能提升等多元化内容，体现了开发者社区对AI治理及底层技术趋势的深度关注。"
   }
 }
