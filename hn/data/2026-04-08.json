@@ -308,5 +308,158 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术进展，Anthropic发布了两项关于模型安全与性能的关键文档。此外，议题涵盖了从历史考古、软件混淆到工程实践与个人技能提升等多元化内容，体现了开发者社区对AI治理及底层技术趋势的深度关注。"
+  },
+  "evening": {
+    "time": "2026-04-08 21:13",
+    "stories": [
+      {
+        "id": 47687273,
+        "title": "Git commands I run before reading any code",
+        "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+        "domain": "piechowski.io",
+        "score": 500,
+        "descendants": 119,
+        "by": "grepsedawk",
+        "tags": [],
+        "summary": "博主分享了自己在阅读开源代码前习惯运行的Git指令，旨在快速建立项目语境。"
+      },
+      {
+        "id": 47686549,
+        "title": "Veracrypt project update",
+        "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+        "domain": "sourceforge.net",
+        "score": 520,
+        "descendants": 156,
+        "by": "super256",
+        "tags": [],
+        "summary": "知名的开源磁盘加密软件VeraCrypt发布了项目更新公告，引起社区对隐私保护的关注。"
+      },
+      {
+        "id": 47687533,
+        "title": "I've sold out",
+        "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+        "domain": "mariozechner.at",
+        "score": 167,
+        "descendants": 103,
+        "by": "doppp",
+        "tags": [],
+        "summary": "作者公开分享了关于职业转变与“卖出”个人项目的思考，引发了关于独立开发者的商业抉择讨论。"
+      },
+      {
+        "id": 47689174,
+        "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+        "url": "https://arxiv.org/abs/2604.05091",
+        "domain": "arxiv.org",
+        "score": 20,
+        "descendants": 3,
+        "by": "chrsw",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "介绍MegaTrain技术，展示了如何通过优化在单块GPU上完成超千亿参数大模型的全精度训练。"
+      },
+      {
+        "id": 47687248,
+        "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+        "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+        "domain": "skoda-storyboard.com",
+        "score": 150,
+        "descendants": 206,
+        "by": "ra",
+        "tags": [],
+        "summary": "Škoda推出一款特制自行车铃，其声波频率旨在穿透降噪耳机，提醒佩戴者安全。"
+      },
+      {
+        "id": 47685739,
+        "title": "Revision Demoparty 2026: Razor1911 [video]",
+        "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+        "domain": "youtube.com",
+        "score": 236,
+        "descendants": 82,
+        "by": "tetrisgm",
+        "tags": [],
+        "summary": "著名黑客组织Razor1911在Revision Demoparty大会上的演示视频回顾。"
+      },
+      {
+        "id": 47679121,
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "url": "https://www.anthropic.com/glasswing",
+        "domain": "anthropic.com",
+        "score": 1357,
+        "descendants": 689,
+        "by": "Ryan5453",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Project Glasswing，旨在为人工智能时代构建更安全的软件基础设施。"
+      },
+      {
+        "id": 47676509,
+        "title": "Lunar Flyby",
+        "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+        "domain": "nasa.gov",
+        "score": 801,
+        "descendants": 197,
+        "by": "kipi",
+        "tags": [],
+        "summary": "NASA展示关于月球飞掠任务的详细数据与影像资料。"
+      },
+      {
+        "id": 47645717,
+        "title": "Explore union types in C# 15",
+        "url": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
+        "domain": "devblogs.microsoft.com",
+        "score": 49,
+        "descendants": 19,
+        "by": "0x00C0FFEE",
+        "tags": [],
+        "summary": "技术分析C# 15版本中引入的联合类型特性及其对代码架构的影响。"
+      },
+      {
+        "id": 47675446,
+        "title": "Audio Reactive LED Strips Are Diabolically Hard",
+        "url": "https://scottlawsonbc.com/post/audio-led",
+        "domain": "scottlawsonbc.com",
+        "score": 45,
+        "descendants": 9,
+        "by": "surprisetalk",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "开发者复盘音频响应式LED灯带制作过程，深入探讨了项目过程中遇到的工程难度。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "piechowski.io",
+          "count": 1
+        },
+        {
+          "domain": "sourceforge.net",
+          "count": 1
+        },
+        {
+          "domain": "mariozechner.at",
+          "count": 1
+        }
+      ],
+      "avg_score": 384,
+      "max_score": {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "score": 1357
+      },
+      "most_discussed": {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "comments": 689
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "JavaScript"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点涵盖了AI基础设施的最新突破与安全防范，以及开发者生产力工具与前沿技术的深度探讨。从大模型单卡训练方案到网络安全保护，社区展现了对硬核工程实践及创意技术应用的持续关注。"
   }
 }
