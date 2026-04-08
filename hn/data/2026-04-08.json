@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-04-08 09:16",
+    "stories": [
+      {
+        "id": 47679121,
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "url": "https://www.anthropic.com/glasswing",
+        "domain": "anthropic.com",
+        "score": 873,
+        "descendants": 396,
+        "by": "Ryan5453",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic详细介绍了旨在确保AI时代关键软件安全性的项目Glasswing。"
+      },
+      {
+        "id": 47676509,
+        "title": "Lunar Flyby",
+        "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+        "domain": "nasa.gov",
+        "score": 334,
+        "descendants": 80,
+        "by": "kipi",
+        "tags": [],
+        "summary": "NASA发布了关于月球飞掠任务的最新进展与相关数据。"
+      },
+      {
+        "id": 47682276,
+        "title": "US and Iran agree to provisional ceasefire",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+        "domain": "theguardian.com",
+        "score": 111,
+        "descendants": 212,
+        "by": "g-b-r",
+        "tags": [],
+        "summary": "报道称美国与伊朗已达成临时停火协议。"
+      },
+      {
+        "id": 47679258,
+        "title": "System Card: Claude Mythos Preview [pdf]",
+        "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+        "domain": "www-cdn.anthropic.com",
+        "score": 524,
+        "descendants": 379,
+        "by": "be7a",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Claude Mythos预览版的系统卡片，详细记录了该模型的开发背景与性能评估。"
+      },
+      {
+        "id": 47677853,
+        "title": "GLM-5.1: Towards Long-Horizon Tasks",
+        "url": "https://z.ai/blog/glm-5.1",
+        "domain": "z.ai",
+        "score": 406,
+        "descendants": 133,
+        "by": "zixuanlimit",
+        "tags": [],
+        "summary": "GLM-5.1发布，旨在提升模型在长周期复杂任务中的表现。"
+      },
+      {
+        "id": 47650887,
+        "title": "How to get better at guitar",
+        "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+        "domain": "jakeworth.com",
+        "score": 181,
+        "descendants": 78,
+        "by": "jwworth",
+        "tags": [],
+        "summary": "一篇关于如何通过科学方法有效提升吉他演奏水平的实践指南。"
+      },
+      {
+        "id": 47680404,
+        "title": "S3 Files",
+        "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+        "domain": "allthingsdistributed.com",
+        "score": 182,
+        "descendants": 55,
+        "by": "werner",
+        "tags": [],
+        "summary": "亚马逊AWS首席布道师探讨S3存储系统的架构设计与演进。"
+      },
+      {
+        "id": 47678573,
+        "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+        "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+        "domain": "bbc.com",
+        "score": 276,
+        "descendants": 64,
+        "by": "speckx",
+        "tags": [],
+        "summary": "柬埔寨为一只著名的排雷鼠立像，以表彰其在人道主义工作中的贡献。"
+      },
+      {
+        "id": 47657268,
+        "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+        "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+        "domain": "smithsonianmag.com",
+        "score": 240,
+        "descendants": 38,
+        "by": "1659447091",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "一名卡车司机耗时20年手工制作了纽约市每一栋建筑的等比例模型。"
+      },
+      {
+        "id": 47681112,
+        "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+        "url": "https://middle-earth-interactive-map.web.app/",
+        "domain": "middle-earth-interactive-map.web.app",
+        "score": 72,
+        "descendants": 13,
+        "by": "frasermarlow",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个交互式的托尔金中土世界地图，展示了极高的地理细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "nasa.gov",
+          "count": 1
+        },
+        {
+          "domain": "theguardian.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 320,
+      "max_score": {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "score": 873
+      },
+      "most_discussed": {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "comments": 396
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Startup",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，Anthropic公司发布了关于软件安全性及新模型Claude Mythos的详细报告，显示业界正加速提升大模型的可靠性与任务处理能力。此外，榜单还涵盖了从地理模型到艺术与文化轶事等多样化主题，反映了社区对前沿技术与人文探索的持续关注。"
+  }
+}
