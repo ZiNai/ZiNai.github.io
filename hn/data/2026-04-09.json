@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-04-09 09:06",
+    "stories": [
+      {
+        "id": 47691730,
+        "title": "I ported Mac OS X to the Nintendo Wii",
+        "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+        "domain": "bryankeller.github.io",
+        "score": 1215,
+        "descendants": 212,
+        "by": "blkhp19",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开发者成功将Mac OS X移植到任天堂Wii游戏机，展示了卓越的嵌入式系统破解与移植技术。"
+      },
+      {
+        "id": 47697870,
+        "title": "LittleSnitch for Linux",
+        "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+        "domain": "obdev.at",
+        "score": 39,
+        "descendants": 15,
+        "by": "pluc",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "著名网络监控工具LittleSnitch推出了Linux平台版本，旨在提供同级别的流量管理与隐私保护。"
+      },
+      {
+        "id": 47695012,
+        "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+        "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "domain": "werwolv.net",
+        "score": 173,
+        "descendants": 22,
+        "by": "WerWolv",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一篇面向软件开发者的USB技术指南，详细介绍了如何编写用户空间USB驱动程序。"
+      },
+      {
+        "id": 47687273,
+        "title": "Git commands I run before reading any code",
+        "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+        "domain": "piechowski.io",
+        "score": 1781,
+        "descendants": 383,
+        "by": "grepsedawk",
+        "tags": [],
+        "summary": "博主分享了一套阅读代码前必用的Git指令集，旨在提升代码库探索与理解的效率。"
+      },
+      {
+        "id": 47693153,
+        "title": "Understanding the Kalman filter with a simple radar example",
+        "url": "https://kalmanfilter.net",
+        "domain": "kalmanfilter.net",
+        "score": 206,
+        "descendants": 32,
+        "by": "alex_be",
+        "tags": [],
+        "summary": "通过雷达示例深入浅出地讲解卡尔曼滤波原理，适合想要理解状态估计算法及传感器融合的读者。"
+      },
+      {
+        "id": 47688678,
+        "title": "They're made out of meat (1991)",
+        "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+        "domain": "terrybisson.com",
+        "score": 401,
+        "descendants": 113,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "经典科幻短篇小说，以独特的视角探讨了人类文明在宇宙尺度下的本质与认知差异。"
+      },
+      {
+        "id": 47692043,
+        "title": "Muse Spark: Scaling towards personal superintelligence",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+        "domain": "ai.meta.com",
+        "score": 257,
+        "descendants": 283,
+        "by": "chabons",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Meta AI介绍了Muse Spark项目，探讨了如何通过规模化技术迈向个人化超级智能的目标。"
+      },
+      {
+        "id": 47694983,
+        "title": "Expanding Swift's IDE Support",
+        "url": "https://swift.org/blog/expanding-swift-ide-support/",
+        "domain": "swift.org",
+        "score": 73,
+        "descendants": 38,
+        "by": "frizlab",
+        "tags": [],
+        "summary": "Swift官方团队探讨了如何提升Swift语言在IDE中的支持能力，以改善开发者的编程体验。"
+      },
+      {
+        "id": 47661297,
+        "title": "What Does It Mean to \"Write Like You Talk\"?",
+        "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+        "domain": "arjunpanickssery.substack.com",
+        "score": 10,
+        "descendants": 5,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "深度剖析“像说话一样写作”的本质，探讨了口语化写作在文风与传播力上的平衡点。"
+      },
+      {
+        "id": 47689648,
+        "title": "ML promises to be profoundly weird",
+        "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+        "domain": "aphyr.com",
+        "score": 363,
+        "descendants": 398,
+        "by": "pabs3",
+        "tags": [],
+        "summary": "作者以极具洞察力的视角分析了机器学习模型中存在的反直觉表现，探讨AI技术带来的“诡异”挑战。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bryankeller.github.io",
+          "count": 1
+        },
+        {
+          "domain": "obdev.at",
+          "count": 1
+        },
+        {
+          "domain": "werwolv.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 452,
+      "max_score": {
+        "title": "Git commands I run before reading any code",
+        "score": 1781
+      },
+      "most_discussed": {
+        "title": "ML promises to be profoundly weird",
+        "comments": 398
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了复古硬件移植、底层驱动开发、软件工程效率提升及人工智能的深度思考。技术深度与跨学科探索并重，既有极客向的系统工程实践，也有关于AI发展及写作风格的深刻讨论。"
+  }
+}
