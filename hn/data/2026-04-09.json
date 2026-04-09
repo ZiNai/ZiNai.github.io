@@ -152,5 +152,164 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了复古硬件移植、底层驱动开发、软件工程效率提升及人工智能的深度思考。技术深度与跨学科探索并重，既有极客向的系统工程实践，也有关于AI发展及写作风格的深刻讨论。"
+  },
+  "noon": {
+    "time": "2026-04-09 13:43",
+    "stories": [
+      {
+        "id": 47697870,
+        "title": "LittleSnitch for Linux",
+        "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+        "domain": "obdev.at",
+        "score": 403,
+        "descendants": 133,
+        "by": "pluc",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "为 Linux 系统打造的类 LittleSnitch 网络监控与防火墙工具。"
+      },
+      {
+        "id": 47699181,
+        "title": "Open Source Security at Astral",
+        "url": "https://astral.sh/blog/open-source-security-at-astral",
+        "domain": "astral.sh",
+        "score": 62,
+        "descendants": 1,
+        "by": "vinhnx",
+        "tags": [
+          "Security",
+          "Open Source"
+        ],
+        "summary": "Astral 公司分享其在开源生态中构建安全保障机制的实践经验。"
+      },
+      {
+        "id": 47691730,
+        "title": "I ported Mac OS X to the Nintendo Wii",
+        "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+        "domain": "bryankeller.github.io",
+        "score": 1413,
+        "descendants": 238,
+        "by": "blkhp19",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "硬核开发者成功将古老的 Mac OS X 系统移植到任天堂 Wii 游戏机上运行。"
+      },
+      {
+        "id": 47666639,
+        "title": "The Importance of Being Idle",
+        "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
+        "domain": "theamericanscholar.org",
+        "score": 91,
+        "descendants": 12,
+        "by": "Caiero",
+        "tags": [],
+        "summary": "探讨在快节奏的工作文化中，适当保持“闲暇”状态对创造力与深度思考的重要性。"
+      },
+      {
+        "id": 47695012,
+        "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+        "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "domain": "werwolv.net",
+        "score": 247,
+        "descendants": 30,
+        "by": "WerWolv",
+        "tags": [
+          "Science"
+        ],
+        "summary": "面向软件开发者的 USB 协议入门指南，详细讲解如何编写用户态驱动程序。"
+      },
+      {
+        "id": 47693153,
+        "title": "Understanding the Kalman filter with a simple radar example",
+        "url": "https://kalmanfilter.net",
+        "domain": "kalmanfilter.net",
+        "score": 290,
+        "descendants": 38,
+        "by": "alex_be",
+        "tags": [],
+        "summary": "通过雷达追踪的生动案例，深入浅出地解析卡尔曼滤波算法的数学原理。"
+      },
+      {
+        "id": 47678690,
+        "title": "Six (and a half) intuitions for KL divergence",
+        "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+        "domain": "perfectlynormal.co.uk",
+        "score": 50,
+        "descendants": 3,
+        "by": "jxmorris12",
+        "tags": [],
+        "summary": "用六个直观的视角帮助读者理解信息论中 KL 散度的核心概念。"
+      },
+      {
+        "id": 47688678,
+        "title": "They're made out of meat (1991)",
+        "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+        "domain": "terrybisson.com",
+        "score": 469,
+        "descendants": 133,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "经典的科幻短篇小说，以独特的视角反思人类对生命的定义。"
+      },
+      {
+        "id": 47692043,
+        "title": "Muse Spark: Scaling towards personal superintelligence",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+        "domain": "ai.meta.com",
+        "score": 309,
+        "descendants": 314,
+        "by": "chabons",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Meta AI 展示其在个人超级智能领域的最新研究成果与扩展愿景。"
+      },
+      {
+        "id": 47643852,
+        "title": "Map Gesture Controls - Control maps with your hands",
+        "url": "https://sanderdesnaijer.github.io/map-gesture-controls/",
+        "domain": "sanderdesnaijer.github.io",
+        "score": 12,
+        "descendants": 2,
+        "by": "hebelehubele",
+        "tags": [],
+        "summary": "一个利用手势控制地图导航的实验性交互项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "obdev.at",
+          "count": 1
+        },
+        {
+          "domain": "astral.sh",
+          "count": 1
+        },
+        {
+          "domain": "bryankeller.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 335,
+      "max_score": {
+        "title": "I ported Mac OS X to the Nintendo Wii",
+        "score": 1413
+      },
+      "most_discussed": {
+        "title": "Muse Spark: Scaling towards personal superintelligence",
+        "comments": 314
+      },
+      "hot_tags": [
+        "Systems",
+        "Security",
+        "Open Source",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 热门讨论呈现出极客驱动的技术创新与跨平台探索，从 macOS 移植到 Wii 的趣味黑客项目到 USB 底层开发驱动，展现了开发者对系统底层机制的浓厚兴趣。此外，话题还涵盖了人工智能前沿动态、数学建模以及关于职场文化与科幻文学的深度思考。"
   }
 }
