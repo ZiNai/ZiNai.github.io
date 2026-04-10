@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-04-10 09:17",
+    "stories": [
+      {
+        "id": 47710907,
+        "title": "Many African families spend fortunes burying their dead",
+        "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+        "domain": "davidoks.blog",
+        "score": 108,
+        "descendants": 82,
+        "by": "powera",
+        "tags": [],
+        "summary": "探讨非洲社会在高昂葬礼支出背后的文化压力与经济影响。"
+      },
+      {
+        "id": 47708818,
+        "title": "Native Instant Space Switching on macOS",
+        "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+        "domain": "arhan.sh",
+        "score": 298,
+        "descendants": 146,
+        "by": "PaulHoule",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "介绍一种在macOS上实现原生即时空间切换的实用技术方案。"
+      },
+      {
+        "id": 47704804,
+        "title": "How NASA Built Artemis II’s Fault-Tolerant Computer",
+        "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+        "domain": "cacm.acm.org",
+        "score": 54,
+        "descendants": 10,
+        "by": "speckx",
+        "tags": [
+          "Science"
+        ],
+        "summary": "解析NASA如何为Artemis II月球任务构建高容错性的航空计算系统。"
+      },
+      {
+        "id": 47709158,
+        "title": "Charcuterie – Visual similarity Unicode explorer",
+        "url": "https://charcuterie.elastiq.ch/",
+        "domain": "charcuterie.elastiq.ch",
+        "score": 112,
+        "descendants": 19,
+        "by": "rickcarlino",
+        "tags": [],
+        "summary": "一个基于视觉相似性设计的Unicode字符探索与搜索工具。"
+      },
+      {
+        "id": 47708041,
+        "title": "PicoZ80 – Drop-In Z80 Replacement",
+        "url": "https://eaw.app/picoz80/",
+        "domain": "eaw.app",
+        "score": 139,
+        "descendants": 21,
+        "by": "rickcarlino",
+        "tags": [],
+        "summary": "介绍一款旨在完全替代传统Z80处理器的新型硬件模块。"
+      },
+      {
+        "id": 47709130,
+        "title": "Reverse engineering Gemini's SynthID detection",
+        "url": "https://github.com/aloshdenny/reverse-SynthID",
+        "domain": "github.com",
+        "score": 101,
+        "descendants": 42,
+        "by": "_tk_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入分析谷歌Gemini生成的SynthID水印技术的逆向工程实现。"
+      },
+      {
+        "id": 47670188,
+        "title": "Robots Eat Cars",
+        "url": "https://telemetry.endeff.com/p/robots-eat-cars",
+        "domain": "telemetry.endeff.com",
+        "score": 38,
+        "descendants": 23,
+        "by": "JMill",
+        "tags": [],
+        "summary": "探讨机器人技术对传统汽车行业带来的深远影响。"
+      },
+      {
+        "id": 47707632,
+        "title": "Instant 1.0, a backend for AI-coded apps",
+        "url": "https://www.instantdb.com/essays/architecture",
+        "domain": "instantdb.com",
+        "score": 82,
+        "descendants": 39,
+        "by": "stopachka",
+        "tags": [
+          "AI"
+        ],
+        "summary": "推介Instant 1.0，一款专为AI赋能的应用开发设计的后端数据库方案。"
+      },
+      {
+        "id": 47660911,
+        "title": "Will I ever own a zettaflop?",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html",
+        "domain": "geohot.github.io",
+        "score": 27,
+        "descendants": 10,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨个人拥有Zettaflop级别算力的技术可行性及其意义。"
+      },
+      {
+        "id": 47710007,
+        "title": "Moving from WordPress to Jekyll (and static site generators in general)",
+        "url": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
+        "domain": "demandsphere.com",
+        "score": 35,
+        "descendants": 15,
+        "by": "rgrieselhuber",
+        "tags": [],
+        "summary": "分享将内容从WordPress迁移至Jekyll等静态站点生成器的实践经验与考量。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "davidoks.blog",
+          "count": 1
+        },
+        {
+          "domain": "arhan.sh",
+          "count": 1
+        },
+        {
+          "domain": "cacm.acm.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 99,
+      "max_score": {
+        "title": "Native Instant Space Switching on macOS",
+        "score": 298
+      },
+      "most_discussed": {
+        "title": "Native Instant Space Switching on macOS",
+        "comments": 146
+      },
+      "hot_tags": [
+        "Science",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News热门内容涵盖了从硬件工程到现代软件开发的广泛议题。开发者群体对macOS系统定制、高性能复古芯片重构及AI技术细节保持高度关注，同时也有关于科技影响社会风俗的深度思考。"
+  }
+}
