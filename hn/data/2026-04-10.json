@@ -295,5 +295,168 @@
       ]
     },
     "summary": "本期 Hacker News 内容涵盖了从前沿航空工程到系统底层设计的广泛技术议题。除了对苹果隐私政策及算法演进的关注，社区还探讨了包括 RAM 设计缺陷、分布式系统理论及视觉探索工具在内的硬核技术话题。"
+  },
+  "evening": {
+    "time": "2026-04-10 21:01",
+    "stories": [
+      {
+        "id": 47716412,
+        "title": "Microsoft suspends dev accounts for high-profile open source projects",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+        "domain": "bleepingcomputer.com",
+        "score": 215,
+        "descendants": 50,
+        "by": "N19PEDL2",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "微软突然封禁知名开源项目开发者账户，引发社区对其平台管控政策的强烈担忧。"
+      },
+      {
+        "id": 47716809,
+        "title": "Intel 486 CPU announced April 10, 1989",
+        "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+        "domain": "dfarq.homeip.net",
+        "score": 38,
+        "descendants": 18,
+        "by": "jnord",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "回顾1989年英特尔486 CPU发布的历史时刻及其对计算性能的划时代意义。"
+      },
+      {
+        "id": 47716043,
+        "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+        "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+        "domain": "numerique.gouv.fr",
+        "score": 607,
+        "descendants": 269,
+        "by": "embedding-shape",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "法国政府正式启动全面转向Linux桌面的计划，标志着主权软件部署迈出关键一步。"
+      },
+      {
+        "id": 47713495,
+        "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+        "domain": "ethz.ch",
+        "score": 153,
+        "descendants": 33,
+        "by": "joko42",
+        "tags": [],
+        "summary": "苏黎世联邦理工学院展示了拥有1.7万量子位且保真度高达99.91%的量子阵列。"
+      },
+      {
+        "id": 47704804,
+        "title": "How NASA built Artemis II’s fault-tolerant computer",
+        "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+        "domain": "cacm.acm.org",
+        "score": 458,
+        "descendants": 176,
+        "by": "speckx",
+        "tags": [
+          "Science"
+        ],
+        "summary": "深入解析NASA如何为Artemis II任务构建兼具容错性与极端可靠性的机载计算机。"
+      },
+      {
+        "id": 47716490,
+        "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+        "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+        "domain": "9to5mac.com",
+        "score": 85,
+        "descendants": 31,
+        "by": "01-_-",
+        "tags": [],
+        "summary": "调查显示FBI利用iOS推送通知机制获取了用户已删除的Signal加密消息。"
+      },
+      {
+        "id": 47715339,
+        "title": "Show HN: Keeper – embedded secret store for Go (help me break it)",
+        "url": "https://github.com/agberohq/keeper",
+        "domain": "github.com",
+        "score": 37,
+        "descendants": 22,
+        "by": "babawere",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "使用基于模型的方法进行《龙与地下城》游戏规则与机制的测试探索。"
+      },
+      {
+        "id": 47712718,
+        "title": "I still prefer MCP over skills",
+        "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+        "domain": "david.coffee",
+        "score": 262,
+        "descendants": 227,
+        "by": "gmays",
+        "tags": [],
+        "summary": "作者分析并表达了在人工智能交互中对比“MCP”与“技能调用”方案的个人偏好。"
+      },
+      {
+        "id": 47674894,
+        "title": "Model-Based Testing for Dungeons & Dragons",
+        "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
+        "domain": "loskutoff.com",
+        "score": 50,
+        "descendants": 10,
+        "by": "Firfi",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47708818,
+        "title": "Native Instant Space Switching on macOS",
+        "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+        "domain": "arhan.sh",
+        "score": 558,
+        "descendants": 267,
+        "by": "PaulHoule",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "探讨如何在macOS上实现更流畅、原生的即时空间切换体验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bleepingcomputer.com",
+          "count": 1
+        },
+        {
+          "domain": "dfarq.homeip.net",
+          "count": 1
+        },
+        {
+          "domain": "numerique.gouv.fr",
+          "count": 1
+        }
+      ],
+      "avg_score": 246,
+      "max_score": {
+        "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+        "score": 607
+      },
+      "most_discussed": {
+        "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+        "comments": 269
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "Open Source",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在开源生态与大厂的冲突、政府推动开源替代以及前沿硬核技术探索。从法国政府部署Linux计划到微软封禁开源账户，技术主权与控制权的博弈成为开发者关注的核心议题，同时量子计算与太空工程等硬科技进展依然备受瞩目。"
   }
 }
