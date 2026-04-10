@@ -153,5 +153,147 @@
       ]
     },
     "summary": "今日Hacker News热门内容涵盖了从硬件工程到现代软件开发的广泛议题。开发者群体对macOS系统定制、高性能复古芯片重构及AI技术细节保持高度关注，同时也有关于科技影响社会风俗的深度思考。"
+  },
+  "noon": {
+    "time": "2026-04-10 13:52",
+    "stories": [
+      {
+        "id": 47712222,
+        "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
+        "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+        "domain": "bigbrotherwatch.org.uk",
+        "score": 155,
+        "descendants": 68,
+        "by": "josephcsible",
+        "tags": [],
+        "summary": "大哥哥观察组织指出，苹果最新的 iPhone 更新可能会限制英国用户的互联网自由。"
+      },
+      {
+        "id": 47704804,
+        "title": "How NASA built Artemis II’s fault-tolerant computer",
+        "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+        "domain": "cacm.acm.org",
+        "score": 223,
+        "descendants": 75,
+        "by": "speckx",
+        "tags": [
+          "Science"
+        ],
+        "summary": "深入解析 NASA 如何为 Artemis II 载人航天任务构建高可靠、容错的机载计算机系统。"
+      },
+      {
+        "id": 47708818,
+        "title": "Native Instant Space Switching on macOS",
+        "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+        "domain": "arhan.sh",
+        "score": 413,
+        "descendants": 196,
+        "by": "PaulHoule",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "探讨如何在 macOS 上实现原生且极速的空间切换体验，提升桌面工作流效率。"
+      },
+      {
+        "id": 47713113,
+        "title": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
+        "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+        "domain": "cockroachlabs.com",
+        "score": 36,
+        "descendants": 4,
+        "by": "vermilingua",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过电影《贱女孩》的幽默桥段，生动拆解 Raft 分布式一致性算法的核心机制。"
+      },
+      {
+        "id": 47675906,
+        "title": "Generative art over the years",
+        "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+        "domain": "blog.veitheller.de",
+        "score": 79,
+        "descendants": 20,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "回顾生成式艺术的历史演变及其在技术与创意交叉点上的发展过程。"
+      },
+      {
+        "id": 47675731,
+        "title": "Principles of Mechanical Sympathy",
+        "url": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
+        "domain": "martinfowler.com",
+        "score": 27,
+        "descendants": 0,
+        "by": "zdw",
+        "tags": [],
+        "summary": "重温机械共鸣（Mechanical Sympathy）原则，阐述如何通过深入理解底层硬件来编写高性能代码。"
+      },
+      {
+        "id": 47709158,
+        "title": "Charcuterie – Visual similarity Unicode explorer",
+        "url": "https://charcuterie.elastiq.ch/",
+        "domain": "charcuterie.elastiq.ch",
+        "score": 181,
+        "descendants": 33,
+        "by": "rickcarlino",
+        "tags": [],
+        "summary": "一款极具视觉美感的 Unicode 字符探索工具，帮助用户快速查找和比较相似的特殊字符。"
+      },
+      {
+        "id": 47713584,
+        "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
+        "url": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
+        "domain": "bbc.co.uk",
+        "score": 55,
+        "descendants": 9,
+        "by": "mellosouls",
+        "tags": [],
+        "summary": "报道嘻哈音乐先驱 Afrika Bambaataa 去世的消息，回顾其对音乐文化的深远影响。"
+      },
+      {
+        "id": 47680005,
+        "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+        "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+        "domain": "youtube.com",
+        "score": 124,
+        "descendants": 17,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "揭示一个自 1966 年以来便存在的 RAM 设计漏洞，作者展示了如何绕过该机制实现数据控制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bigbrotherwatch.org.uk",
+          "count": 1
+        },
+        {
+          "domain": "cacm.acm.org",
+          "count": 1
+        },
+        {
+          "domain": "arhan.sh",
+          "count": 1
+        }
+      ],
+      "avg_score": 144,
+      "max_score": {
+        "title": "Native Instant Space Switching on macOS",
+        "score": 413
+      },
+      "most_discussed": {
+        "title": "Native Instant Space Switching on macOS",
+        "comments": 196
+      },
+      "hot_tags": [
+        "Science",
+        "Systems",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 内容涵盖了从前沿航空工程到系统底层设计的广泛技术议题。除了对苹果隐私政策及算法演进的关注，社区还探讨了包括 RAM 设计缺陷、分布式系统理论及视觉探索工具在内的硬核技术话题。"
   }
 }
