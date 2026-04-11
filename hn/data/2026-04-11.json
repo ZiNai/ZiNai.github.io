@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-04-11 09:12",
+    "stories": [
+      {
+        "id": 47724352,
+        "title": "Filing the corners off my MacBooks",
+        "url": "https://kentwalters.com/posts/corners/",
+        "domain": "kentwalters.com",
+        "score": 291,
+        "descendants": 180,
+        "by": "normanvalentine",
+        "tags": [],
+        "summary": "博主分享了通过物理手段打磨MacBook锐利边角的实验过程，旨在提升握持舒适度。"
+      },
+      {
+        "id": 47725583,
+        "title": "Artemis II safely splashes down",
+        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "domain": "cbsnews.com",
+        "score": 247,
+        "descendants": 72,
+        "by": "areoform",
+        "tags": [],
+        "summary": "Artemis II任务成功完成海面溅落，标志着载人登月计划的关键节点顺利达成。"
+      },
+      {
+        "id": 47722333,
+        "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+        "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+        "domain": "bbc.com",
+        "score": 217,
+        "descendants": 114,
+        "by": "neversaydie",
+        "tags": [
+          "Science"
+        ],
+        "summary": "研究人员观察到乌干达黑猩猩群体间爆发了长达八年的暴力冲突，展现了类人猿复杂的社会行为。"
+      },
+      {
+        "id": 47719740,
+        "title": "1D Chess",
+        "url": "https://rowan441.github.io/1dchess/chess.html",
+        "domain": "rowan441.github.io",
+        "score": 641,
+        "descendants": 123,
+        "by": "burnt-resistor",
+        "tags": [],
+        "summary": "开发者通过将国际象棋逻辑简化至一维空间，构建了一个独特且具有挑战性的趣味变体游戏。"
+      },
+      {
+        "id": 47724118,
+        "title": "Installing Every* Firefox Extension",
+        "url": "https://jack.cab/blog/every-firefox-extension",
+        "domain": "jack.cab",
+        "score": 107,
+        "descendants": 18,
+        "by": "RohanAdwankar",
+        "tags": [
+          "Web"
+        ],
+        "summary": "博主尝试安装并测试海量Firefox扩展程序，探讨了浏览器插件生态的极限与潜在风险。"
+      },
+      {
+        "id": 47719942,
+        "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+        "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+        "domain": "lists.zx2c4.com",
+        "score": 392,
+        "descendants": 109,
+        "by": "zx2c4",
+        "tags": [],
+        "summary": "在解决了微软数字签名相关问题后，WireGuard发布了最新的Windows客户端版本。"
+      },
+      {
+        "id": 47720419,
+        "title": "Industrial design files for Keychron keyboards and mice",
+        "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+        "domain": "github.com",
+        "score": 294,
+        "descendants": 93,
+        "by": "stingraycharles",
+        "tags": [],
+        "summary": "Keychron公开了旗下键盘与鼠标的工业设计源文件，为硬件极客与改装玩家提供了便利。"
+      },
+      {
+        "id": 47725403,
+        "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+        "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+        "domain": "historytoday.com",
+        "score": 14,
+        "descendants": 2,
+        "by": "lermontov",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨意大利作家伊塔洛·卡尔维诺的作品哲学，分析其如何在不确定性世界中寻找叙事意义。"
+      },
+      {
+        "id": 47721953,
+        "title": "AI assistance when contributing to the Linux kernel",
+        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+        "domain": "github.com",
+        "score": 152,
+        "descendants": 123,
+        "by": "hmokiguess",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "讨论将人工智能引入Linux内核贡献流程的可行性与潜在的社区管理挑战。"
+      },
+      {
+        "id": 47721946,
+        "title": "JSON formatter Chrome plugin now closed and injecting adware",
+        "url": "https://github.com/callumlocke/json-formatter",
+        "domain": "github.com",
+        "score": 139,
+        "descendants": 72,
+        "by": "jkl5xx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "曝光某款流行的JSON格式化插件在更新后被植入广告代码，警示浏览器插件的安全隐患。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "kentwalters.com",
+          "count": 1
+        },
+        {
+          "domain": "cbsnews.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 249,
+      "max_score": {
+        "title": "1D Chess",
+        "score": 641
+      },
+      "most_discussed": {
+        "title": "Filing the corners off my MacBooks",
+        "comments": 180
+      },
+      "hot_tags": [
+        "Web",
+        "AI",
+        "Science",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从前沿科技动态到软件工程实践的广泛话题，其中开源软件维护、硬件设计以及生物学与数学等趣味性研究表现突出。整体呈现出技术探索与现实应用并重的趋势，既有关于系统安全与合规的讨论，也不乏针对个人设备改造及小众知识的趣味探索。"
+  }
+}
