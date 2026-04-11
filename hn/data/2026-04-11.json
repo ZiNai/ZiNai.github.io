@@ -310,5 +310,165 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了从太空探索到生物学研究等多元领域，技术社区对内核开发中的AI应用、开源硬件设计及软件工程实践展现出高度关注。整体趋势表现出极客文化在工程细节优化、工具链协同以及对科学前沿的好奇心。"
+  },
+  "evening": {
+    "time": "2026-04-11 20:48",
+    "stories": [
+      {
+        "id": 47724352,
+        "title": "Filing the corners off my MacBooks",
+        "url": "https://kentwalters.com/posts/corners/",
+        "domain": "kentwalters.com",
+        "score": 963,
+        "descendants": 464,
+        "by": "normanvalentine",
+        "tags": [],
+        "summary": "作者尝试通过打磨MacBook边缘来提升使用手感，分享这一极客改装过程与心得。"
+      },
+      {
+        "id": 47695213,
+        "title": "Optimal Strategy for Connect 4",
+        "url": "https://2swap.github.io/WeakC4/explanation/",
+        "domain": "2swap.github.io",
+        "score": 88,
+        "descendants": 11,
+        "by": "marvinborner",
+        "tags": [],
+        "summary": "深度剖析连接四棋（Connect 4）的最优获胜策略及背后的数学逻辑。"
+      },
+      {
+        "id": 47698455,
+        "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+        "url": "https://playstarfling.com",
+        "domain": "playstarfling.com",
+        "score": 268,
+        "descendants": 73,
+        "by": "iceberger2001",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一款基于单文件HTML开发的极简风格轨道弹射小游戏，展示了轻量级网页游戏的潜力。"
+      },
+      {
+        "id": 47727960,
+        "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+        "url": "https://news.ycombinator.com/item?id=47727960",
+        "domain": "news.ycombinator.com",
+        "score": 66,
+        "descendants": 15,
+        "by": "vidluther",
+        "tags": [
+          "Database",
+          "Show HN"
+        ],
+        "summary": "一个可供检索美国总统特赦记录的数据库，旨在提高政府文档的透明度。"
+      },
+      {
+        "id": 47719740,
+        "title": "1D Chess",
+        "url": "https://rowan441.github.io/1dchess/chess.html",
+        "domain": "rowan441.github.io",
+        "score": 867,
+        "descendants": 151,
+        "by": "burnt-resistor",
+        "tags": [],
+        "summary": "将经典象棋简化至一维维度，探讨这种特殊规则下的博弈策略与趣味性。"
+      },
+      {
+        "id": 47687443,
+        "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
+        "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
+        "domain": "apnews.com",
+        "score": 132,
+        "descendants": 12,
+        "by": "geox",
+        "tags": [],
+        "summary": "志愿者将乐迷积攒的万余场现场录音转化为可供公开聆听的珍贵音乐资料库。"
+      },
+      {
+        "id": 47724118,
+        "title": "Installing every* Firefox extension",
+        "url": "https://jack.cab/blog/every-firefox-extension",
+        "domain": "jack.cab",
+        "score": 449,
+        "descendants": 62,
+        "by": "RohanAdwankar",
+        "tags": [
+          "Web"
+        ],
+        "summary": "作者挑战在浏览器中安装所有的Firefox扩展，记录下系统崩溃与性能崩溃的实验结果。"
+      },
+      {
+        "id": 47722333,
+        "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+        "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+        "domain": "bbc.com",
+        "score": 355,
+        "descendants": 210,
+        "by": "neversaydie",
+        "tags": [
+          "Science"
+        ],
+        "summary": "研究发现乌干达的黑猩猩群体间爆发了长达八年的暴力冲突，揭示了灵长类动物复杂的社会行为。"
+      },
+      {
+        "id": 47725583,
+        "title": "Artemis II safely splashes down",
+        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "domain": "cbsnews.com",
+        "score": 998,
+        "descendants": 306,
+        "by": "areoform",
+        "tags": [],
+        "summary": "Artemis II任务顺利完成溅落，标志着人类重返月球准备阶段的重大里程碑。"
+      },
+      {
+        "id": 47721953,
+        "title": "AI assistance when contributing to the Linux kernel",
+        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+        "domain": "github.com",
+        "score": 367,
+        "descendants": 264,
+        "by": "hmokiguess",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "探讨在Linux内核开发流程中引入AI辅助编码的现实挑战、规范及潜在影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kentwalters.com",
+          "count": 1
+        },
+        {
+          "domain": "2swap.github.io",
+          "count": 1
+        },
+        {
+          "domain": "playstarfling.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 455,
+      "max_score": {
+        "title": "Artemis II safely splashes down",
+        "score": 998
+      },
+      "most_discussed": {
+        "title": "Filing the corners off my MacBooks",
+        "comments": 464
+      },
+      "hot_tags": [
+        "Web",
+        "Database",
+        "Show HN",
+        "Science",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿科技、实验性项目与自然科学的多元动态。核心话题聚焦于AI协作、开源游戏与技术极客的硬核DIY精神，同时也关注了重要的太空探索进展与独特的社会学现象。"
   }
 }
