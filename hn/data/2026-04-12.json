@@ -160,5 +160,159 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿突破与安全评估，探讨了小模型在漏洞挖掘及基准测试中的表现。同时，底层架构与工具链优化也是热门议题，涵盖了 Mac 系统模拟、分布式版本控制及 Rust 并发控制等硬核工程实践。"
+  },
+  "noon": {
+    "time": "2026-04-12 13:49",
+    "stories": [
+      {
+        "id": 47735535,
+        "title": "The End of Eleventy",
+        "url": "https://brennan.day/the-end-of-eleventy/",
+        "domain": "brennan.day",
+        "score": 101,
+        "descendants": 46,
+        "by": "ValentineC",
+        "tags": [],
+        "summary": "Eleventy静态站点生成器的作者宣布停止维护该项目。"
+      },
+      {
+        "id": 47732020,
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "domain": "aisle.com",
+        "score": 951,
+        "descendants": 260,
+        "by": "dominicq",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "研究发现小型AI模型在发现漏洞的能力上与Mythos等大型模型相当。"
+      },
+      {
+        "id": 47736172,
+        "title": "The Brainrot Industrial Complex",
+        "url": "https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex",
+        "domain": "jshamsul.com",
+        "score": 21,
+        "descendants": 7,
+        "by": "jibone",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨互联网内容碎片化与“脑退化”内容产业化的现状。"
+      },
+      {
+        "id": 47736298,
+        "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+        "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+        "domain": "theguardian.com",
+        "score": 37,
+        "descendants": 14,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "美国上诉法院裁定拥有158年历史的家用蒸馏酒禁令违宪。"
+      },
+      {
+        "id": 47733217,
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "domain": "rdi.berkeley.edu",
+        "score": 312,
+        "descendants": 85,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "伯克利研究团队分析了如何绕过AI智能体基准测试并提出未来改进方向。"
+      },
+      {
+        "id": 47673171,
+        "title": "How Complex is my Code?",
+        "url": "https://philodev.one/posts/2026-04-code-complexity/",
+        "domain": "philodev.one",
+        "score": 78,
+        "descendants": 12,
+        "by": "speckx",
+        "tags": [],
+        "summary": "探讨如何定量评估代码复杂度及其对开发维护的影响。"
+      },
+      {
+        "id": 47735927,
+        "title": "Excellence Is a Habit",
+        "url": "https://www.flyingbarron.com/2026/04/excellence-is-habit.html",
+        "domain": "flyingbarron.com",
+        "score": 25,
+        "descendants": 2,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "探讨卓越作为一种习惯的培养及其对职业生涯的长期影响。"
+      },
+      {
+        "id": 47733561,
+        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+        "url": "https://zenodo.org/records/19513269",
+        "domain": "zenodo.org",
+        "score": 183,
+        "descendants": 91,
+        "by": "iliatoli",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一种在氟化石墨烯上实现的原子级数据存储技术，具备极高密度与零保持能耗特性。"
+      },
+      {
+        "id": 47733521,
+        "title": "Dark Castle",
+        "url": "https://darkcastle.co.uk/",
+        "domain": "darkcastle.co.uk",
+        "score": 161,
+        "descendants": 19,
+        "by": "evo_9",
+        "tags": [],
+        "summary": "关于经典游戏《Dark Castle》的复刻或相关技术分析。"
+      },
+      {
+        "id": 47733971,
+        "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+        "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+        "domain": "khronokernel.com",
+        "score": 176,
+        "descendants": 121,
+        "by": "krackers",
+        "tags": [],
+        "summary": "技术指导，介绍如何绕过macOS在Apple Silicon上运行虚拟机的数量限制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "brennan.day",
+          "count": 1
+        },
+        {
+          "domain": "aisle.com",
+          "count": 1
+        },
+        {
+          "domain": "jshamsul.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 204,
+      "max_score": {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "score": 951
+      },
+      "most_discussed": {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "comments": 260
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点集中在技术深度调研与行业趋势分析。话题涵盖AI模型评估及其安全性挑战、底层存储物理极限的突破、以及针对特定软硬件平台的进阶技术改造。"
   }
 }
