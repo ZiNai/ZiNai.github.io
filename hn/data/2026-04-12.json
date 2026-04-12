@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-04-12 09:21",
+    "stories": [
+      {
+        "id": 47732020,
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "domain": "aisle.com",
+        "score": 816,
+        "descendants": 222,
+        "by": "dominicq",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "研究发现轻量级模型在漏洞识别任务中展现出与大型模型相当的潜力。"
+      },
+      {
+        "id": 47733971,
+        "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+        "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+        "domain": "khronokernel.com",
+        "score": 141,
+        "descendants": 79,
+        "by": "krackers",
+        "tags": [],
+        "summary": "探讨如何突破 Apple Silicon 设备对虚拟机的数量限制。"
+      },
+      {
+        "id": 47733561,
+        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+        "url": "https://zenodo.org/records/19513269",
+        "domain": "zenodo.org",
+        "score": 133,
+        "descendants": 65,
+        "by": "iliatoli",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了一种基于氟石墨烯的原子级存储技术，具备极高的存储密度且无需刷新能量。"
+      },
+      {
+        "id": 47733217,
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "domain": "rdi.berkeley.edu",
+        "score": 207,
+        "descendants": 58,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "伯克利研究团队揭示了当前 AI 代理基准测试的局限性及未来的演进方向。"
+      },
+      {
+        "id": 47733521,
+        "title": "Dark Castle",
+        "url": "https://darkcastle.co.uk/",
+        "domain": "darkcastle.co.uk",
+        "score": 115,
+        "descendants": 15,
+        "by": "evo_9",
+        "tags": [],
+        "summary": "关于经典游戏《Dark Castle》的复刻与相关信息介绍。"
+      },
+      {
+        "id": 47672941,
+        "title": "Pijul a FOSS distributed version control system",
+        "url": "https://pijul.org/",
+        "domain": "pijul.org",
+        "score": 75,
+        "descendants": 11,
+        "by": "kouosi",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍 Pijul，一款基于 Patch 理论构建的开源分布式版本控制系统。"
+      },
+      {
+        "id": 47731506,
+        "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+        "url": "https://www.v68k.org/advanced-mac-substitute/",
+        "domain": "v68k.org",
+        "score": 193,
+        "descendants": 49,
+        "by": "zdw",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "展示了一个旨在从 API 层面完整复刻 80 年代 Mac OS 的先进模拟项目。"
+      },
+      {
+        "id": 47732697,
+        "title": "How to build a `Git diff` driver",
+        "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+        "domain": "jvt.me",
+        "score": 75,
+        "descendants": 4,
+        "by": "zdw",
+        "tags": [],
+        "summary": "详细教学如何为特定文件格式编写自定义的 Git diff 驱动程序。"
+      },
+      {
+        "id": 47730194,
+        "title": "Cirrus Labs to join OpenAI",
+        "url": "https://cirruslabs.org/",
+        "domain": "cirruslabs.org",
+        "score": 232,
+        "descendants": 114,
+        "by": "seekdeep",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cirrus Labs 宣布加入 OpenAI，双方将深化技术合作。"
+      },
+      {
+        "id": 47693559,
+        "title": "Surelock: Deadlock-Free Mutexes for Rust",
+        "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+        "domain": "notes.brooklynzelenka.com",
+        "score": 166,
+        "descendants": 52,
+        "by": "codetheweb",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "探讨如何在 Rust 中通过 Surelock 实现死锁预防的互斥锁机制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "aisle.com",
+          "count": 1
+        },
+        {
+          "domain": "khronokernel.com",
+          "count": 1
+        },
+        {
+          "domain": "zenodo.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 215,
+      "max_score": {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "score": 816
+      },
+      "most_discussed": {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "comments": 222
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿突破与安全评估，探讨了小模型在漏洞挖掘及基准测试中的表现。同时，底层架构与工具链优化也是热门议题，涵盖了 Mac 系统模拟、分布式版本控制及 Rust 并发控制等硬核工程实践。"
+  }
+}
