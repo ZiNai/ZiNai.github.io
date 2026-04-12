@@ -314,5 +314,156 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点集中在技术深度调研与行业趋势分析。话题涵盖AI模型评估及其安全性挑战、底层存储物理极限的突破、以及针对特定软硬件平台的进阶技术改造。"
+  },
+  "evening": {
+    "time": "2026-04-12 20:53",
+    "stories": [
+      {
+        "id": 47738094,
+        "title": "JVM Options Explorer",
+        "url": "https://chriswhocodes.com/vm-options-explorer.html",
+        "domain": "chriswhocodes.com",
+        "score": 50,
+        "descendants": 21,
+        "by": "0x54MUR41",
+        "tags": [],
+        "summary": "一个交互式工具，帮助开发者直观查看和理解各种JVM选项的参数配置。"
+      },
+      {
+        "id": 47738996,
+        "title": "Why weekends are under threat",
+        "url": "https://thehustle.co/originals/why-weekends-are-under-threat",
+        "domain": "thehustle.co",
+        "score": 3,
+        "descendants": 0,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "探讨现代工作模式下周末时间如何逐渐被侵蚀的社会经济现象。"
+      },
+      {
+        "id": 47675444,
+        "title": "Happy Map",
+        "url": "https://pudding.cool/2026/02/happy-map/",
+        "domain": "pudding.cool",
+        "score": 37,
+        "descendants": 6,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "一个互动地图项目，通过数据可视化展示不同区域的情感地标。"
+      },
+      {
+        "id": 47737376,
+        "title": "Phyphox – Physical Experiments Using a Smartphone",
+        "url": "https://phyphox.org/",
+        "domain": "phyphox.org",
+        "score": 57,
+        "descendants": 14,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "利用智能手机内置传感器进行物理实验的开源教育平台。"
+      },
+      {
+        "id": 47706423,
+        "title": "An Interview with Pat Gelsinger",
+        "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+        "domain": "morethanmoore.substack.com",
+        "score": 63,
+        "descendants": 25,
+        "by": "zdw",
+        "tags": [],
+        "summary": "英特尔CEO Pat Gelsinger在访谈中回顾半导体产业发展及对未来计算的洞察。"
+      },
+      {
+        "id": 47674910,
+        "title": "The Miller Principle (2007)",
+        "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
+        "domain": "puredanger.github.io",
+        "score": 47,
+        "descendants": 36,
+        "by": "FelipeCortez",
+        "tags": [],
+        "summary": "探讨在复杂系统中处理意外故障与保持系统弹性的工程哲学。"
+      },
+      {
+        "id": 47736476,
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "url": "https://github.com/anthropics/claude-code/issues/46829",
+        "domain": "github.com",
+        "score": 138,
+        "descendants": 116,
+        "by": "lsdmtme",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开发者社区发现Anthropic悄然缩短了缓存生存时间（TTL），引发对API成本和性能影响的讨论。"
+      },
+      {
+        "id": 47672718,
+        "title": "Tofolli gates are all you need",
+        "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+        "domain": "johndcook.com",
+        "score": 83,
+        "descendants": 19,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "科普文章解释Toffoli门在量子计算中的核心地位及其通用性。"
+      },
+      {
+        "id": 47738196,
+        "title": "What have been the greatest intellectual achievements? (2017)",
+        "url": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
+        "domain": "thinkingcomplete.com",
+        "score": 26,
+        "descendants": 33,
+        "by": "o4c",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "回顾历史，探讨人类文明进程中最具深远意义的智力成就。"
+      },
+      {
+        "id": 47737563,
+        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "domain": "thealgorithmicbridge.com",
+        "score": 84,
+        "descendants": 112,
+        "by": "gHeadphone",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇深度评论，警示AI引发的社会焦虑可能导致暴力冲突及随之而来的严重后果。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "chriswhocodes.com",
+          "count": 1
+        },
+        {
+          "domain": "thehustle.co",
+          "count": 1
+        },
+        {
+          "domain": "pudding.cool",
+          "count": 1
+        }
+      ],
+      "avg_score": 59,
+      "max_score": {
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "score": 138
+      },
+      "most_discussed": {
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "comments": 116
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术的社会影响与伦理挑战，引发了关于行业走向的激烈辩论。同时，技术社区对底层计算原理、实验工具及JVM性能优化的兴趣依然浓厚，体现了从硬核工程到宏观趋势的多维度关注。"
   }
 }
