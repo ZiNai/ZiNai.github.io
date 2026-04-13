@@ -151,5 +151,159 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了从底层软件工程到数字文化的多样化议题，既有对编程语言设计哲学与性能优化工具的专业探讨，也包含了个人创造力项目与科技伦理争议。整体呈现出技术探索与深度思考并行的趋势，反映了社区对于构建更优编程范式及审视数字平台治理的持续关注。"
+  },
+  "noon": {
+    "time": "2026-04-13 14:08",
+    "stories": [
+      {
+        "id": 47746610,
+        "title": "All elementary functions from a single binary operator",
+        "url": "https://arxiv.org/abs/2603.21852",
+        "domain": "arxiv.org",
+        "score": 199,
+        "descendants": 59,
+        "by": "pizza",
+        "tags": [],
+        "summary": "通过单一二进制算子构建所有初等函数的数学理论探讨。"
+      },
+      {
+        "id": 47747248,
+        "title": "Haunt, the 70s text adventure game, is now playable on a website",
+        "url": "https://haunt.madebywindmill.com",
+        "domain": "haunt.madebywindmill.com",
+        "score": 42,
+        "descendants": 10,
+        "by": "jscalo",
+        "tags": [
+          "Web"
+        ],
+        "summary": "70年代经典文字冒险游戏《Haunt》现已适配浏览器在线可玩。"
+      },
+      {
+        "id": 47745284,
+        "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+        "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+        "domain": "eetimes.com",
+        "score": 122,
+        "descendants": 91,
+        "by": "mindcrime",
+        "tags": [],
+        "summary": "深度解析在硬件层面利用 ROCm 挑战 CUDA 垄断地位的技术路径与难点。"
+      },
+      {
+        "id": 47737542,
+        "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+        "url": "https://arxiv.org/abs/2604.07902",
+        "domain": "arxiv.org",
+        "score": 51,
+        "descendants": 3,
+        "by": "mpweiher",
+        "tags": [],
+        "summary": "探讨在 64 位架构下针对 32 位无符号常量除法的性能优化算法。"
+      },
+      {
+        "id": 47742200,
+        "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+        "url": "https://boringbar.app/",
+        "domain": "boringbar.app",
+        "score": 310,
+        "descendants": 178,
+        "by": "a-ve",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一款极简主义风格的 macOS 任务栏式 Dock 替代方案。"
+      },
+      {
+        "id": 47738827,
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "domain": "essays.johnloeber.com",
+        "score": 509,
+        "descendants": 273,
+        "by": "phil294",
+        "tags": [],
+        "summary": "探讨软件设计中回归“惯用设计”的重要性及对复杂化趋势的批评。"
+      },
+      {
+        "id": 47741701,
+        "title": "DIY Soft Drinks",
+        "url": "https://blinry.org/diy-soft-drinks/",
+        "domain": "blinry.org",
+        "score": 340,
+        "descendants": 93,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "探索家庭自制软饮料的工艺流程、配方及背后乐趣。"
+      },
+      {
+        "id": 47741527,
+        "title": "Ask HN: What Are You Working On? (April 2026)",
+        "url": "https://news.ycombinator.com/item?id=47741527",
+        "domain": "news.ycombinator.com",
+        "score": 181,
+        "descendants": 537,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 每月例行讨论帖，社区成员分享各自正在进行的开发项目。"
+      },
+      {
+        "id": 47744540,
+        "title": "A Perfectable Programming Language",
+        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+        "domain": "alok.github.io",
+        "score": 96,
+        "descendants": 30,
+        "by": "yuppiemephisto",
+        "tags": [],
+        "summary": "对理想编程语言定义的探讨，分析如何构建一门更具可完善性的语言。"
+      },
+      {
+        "id": 47702887,
+        "title": "Most people can't juggle one ball",
+        "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+        "domain": "lesswrong.com",
+        "score": 300,
+        "descendants": 92,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "从认知心理学视角剖析多数人难以掌握看似简单技能的深层逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 2
+        },
+        {
+          "domain": "haunt.madebywindmill.com",
+          "count": 1
+        },
+        {
+          "domain": "eetimes.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 215,
+      "max_score": {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "score": 509
+      },
+      "most_discussed": {
+        "title": "Ask HN: What Are You Working On? (April 2026)",
+        "comments": 537
+      },
+      "hot_tags": [
+        "Web",
+        "Systems",
+        "Show HN",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿算法与底层硬件的深度探讨，同时涵盖了复古文化与现代软件工程的审美反思。社区讨论重心分布在从数学基础到工程落地的跨度，并伴随有对日常生产力工具与技能习得心理的讨论。"
   }
 }
