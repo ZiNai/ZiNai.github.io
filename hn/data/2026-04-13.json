@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-04-13 09:22",
+    "stories": [
+      {
+        "id": 47745284,
+        "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+        "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+        "domain": "eetimes.com",
+        "score": 36,
+        "descendants": 38,
+        "by": "mindcrime",
+        "tags": [],
+        "summary": "探讨利用 AMD ROCm 平台挑战 CUDA 生态系统在高性能计算领域的统治地位。"
+      },
+      {
+        "id": 47738827,
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "domain": "essays.johnloeber.com",
+        "score": 451,
+        "descendants": 229,
+        "by": "phil294",
+        "tags": [],
+        "summary": "呼吁回归编程中的惯用设计（Idiomatic Design），主张代码应遵循语言的自然表达方式。"
+      },
+      {
+        "id": 47741701,
+        "title": "DIY Soft Drinks",
+        "url": "https://blinry.org/diy-soft-drinks/",
+        "domain": "blinry.org",
+        "score": 241,
+        "descendants": 58,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "详细介绍家庭自制软饮的实验过程，分享各种配方与风味调配心得。"
+      },
+      {
+        "id": 47741527,
+        "title": "Ask HN: What Are You Working On? (April 2026)",
+        "url": "https://news.ycombinator.com/item?id=47741527",
+        "domain": "news.ycombinator.com",
+        "score": 126,
+        "descendants": 328,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 每月例行交流贴，邀请用户分享正在开发的项目或研究课题。"
+      },
+      {
+        "id": 47702887,
+        "title": "Most people can't juggle one ball",
+        "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+        "domain": "lesswrong.com",
+        "score": 230,
+        "descendants": 79,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "从认知心理学角度分析为何多数人在简单任务中亦会面临注意力分配困难。"
+      },
+      {
+        "id": 47744540,
+        "title": "A Perfectable Programming Language",
+        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+        "domain": "alok.github.io",
+        "score": 44,
+        "descendants": 8,
+        "by": "yuppiemephisto",
+        "tags": [],
+        "summary": "对编程语言完美性进行思考，探讨如何设计一种更易于开发与维护的语言模型。"
+      },
+      {
+        "id": 47719490,
+        "title": "I gave every train in New York an instrument",
+        "url": "https://www.trainjazz.com/",
+        "domain": "trainjazz.com",
+        "score": 200,
+        "descendants": 40,
+        "by": "joshuawolk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "创意项目分享：将纽约地铁的行驶数据转化为实时音乐演奏的艺术装置。"
+      },
+      {
+        "id": 47743730,
+        "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+        "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+        "domain": "bsky.app",
+        "score": 288,
+        "descendants": 132,
+        "by": "super256",
+        "tags": [],
+        "summary": "Brendan Gregg 探讨在软件工程领域中，“懒惰”作为一种推动效率提升与简化设计的核心驱动力。"
+      },
+      {
+        "id": 47739174,
+        "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+        "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+        "domain": "github.com",
+        "score": 162,
+        "descendants": 36,
+        "by": "Rochus",
+        "tags": [
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "展示如何在树莓派 3 上原生运行 Oberon System 3，并提供可直接使用的 SD 卡镜像。"
+      },
+      {
+        "id": 47743628,
+        "title": "The peril of laziness lost",
+        "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+        "domain": "bcantrill.dtrace.org",
+        "score": 306,
+        "descendants": 101,
+        "by": "gpm",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "eetimes.com",
+          "count": 1
+        },
+        {
+          "domain": "essays.johnloeber.com",
+          "count": 1
+        },
+        {
+          "domain": "blinry.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 208,
+      "max_score": {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "score": 451
+      },
+      "most_discussed": {
+        "title": "Ask HN: What Are You Working On? (April 2026)",
+        "comments": 328
+      },
+      "hot_tags": [
+        "Ask HN",
+        "AI",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了从底层软件工程到数字文化的多样化议题，既有对编程语言设计哲学与性能优化工具的专业探讨，也包含了个人创造力项目与科技伦理争议。整体呈现出技术探索与深度思考并行的趋势，反映了社区对于构建更优编程范式及审视数字平台治理的持续关注。"
+  }
+}
