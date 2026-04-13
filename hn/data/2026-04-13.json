@@ -305,5 +305,158 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿算法与底层硬件的深度探讨，同时涵盖了复古文化与现代软件工程的审美反思。社区讨论重心分布在从数学基础到工程落地的跨度，并伴随有对日常生产力工具与技能习得心理的讨论。"
+  },
+  "evening": {
+    "time": "2026-04-13 21:17",
+    "stories": [
+      {
+        "id": 47750669,
+        "title": "Android now stops you sharing your location in photos",
+        "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+        "domain": "shkspr.mobi",
+        "score": 100,
+        "descendants": 50,
+        "by": "edent",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Android更新隐私策略，默认禁止在共享照片时包含位置信息。"
+      },
+      {
+        "id": 47751032,
+        "title": "AI could be the end of the digital wave, not the next big thing",
+        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+        "domain": "thenextwavefutures.wordpress.com",
+        "score": 40,
+        "descendants": 8,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI可能并非数字时代的终极浪潮，而是行业发展潜力的转折点。"
+      },
+      {
+        "id": 47751029,
+        "title": "I went to America's worst national parks so you don't have to",
+        "url": "https://substack.com/home/post/p-193626949",
+        "domain": "substack.com",
+        "score": 67,
+        "descendants": 15,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "深度测评美国国家公园，通过避雷指南帮助读者筛选旅游目的地。"
+      },
+      {
+        "id": 47746610,
+        "title": "All elementary functions from a single binary operator",
+        "url": "https://arxiv.org/abs/2603.21852",
+        "domain": "arxiv.org",
+        "score": 572,
+        "descendants": 149,
+        "by": "pizza",
+        "tags": [],
+        "summary": "学术论文探讨如何仅通过单一二元运算符推导所有基本数学函数。"
+      },
+      {
+        "id": 47748064,
+        "title": "The economics of software teams: Why most engineering orgs are flying blind",
+        "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+        "domain": "viktorcessan.com",
+        "score": 239,
+        "descendants": 119,
+        "by": "kiyanwang",
+        "tags": [],
+        "summary": "剖析软件开发团队的经济学逻辑，指出现代工程组织普遍缺乏科学评估依据。"
+      },
+      {
+        "id": 47750259,
+        "title": "Point Cloud Allemansrätten",
+        "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
+        "domain": "digitalflapjack.com",
+        "score": 21,
+        "descendants": 0,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "关于点云数据的开放存取权及相关技术讨论。"
+      },
+      {
+        "id": 47750821,
+        "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+        "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+        "domain": "thecentersquare.com",
+        "score": 18,
+        "descendants": 8,
+        "by": "iamnothere",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "密歇根州因隐私担忧，被迫撤回有关“数字时代”的多项法案。"
+      },
+      {
+        "id": 47745284,
+        "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+        "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+        "domain": "eetimes.com",
+        "score": 207,
+        "descendants": 160,
+        "by": "mindcrime",
+        "tags": [],
+        "summary": "分析AMD的ROCm如何逐步挑战CUDA在GPU计算领域的统治地位。"
+      },
+      {
+        "id": 47741701,
+        "title": "DIY Soft Drinks",
+        "url": "https://blinry.org/diy-soft-drinks/",
+        "domain": "blinry.org",
+        "score": 545,
+        "descendants": 164,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "分享自制软饮料的实验过程与DIY心得。"
+      },
+      {
+        "id": 47738827,
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "domain": "essays.johnloeber.com",
+        "score": 594,
+        "descendants": 338,
+        "by": "phil294",
+        "tags": [],
+        "summary": "作者呼吁回归产品设计中的“惯用设计”原则，以应对现代设计复杂化的趋势。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "shkspr.mobi",
+          "count": 1
+        },
+        {
+          "domain": "thenextwavefutures.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "substack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 240,
+      "max_score": {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "score": 594
+      },
+      "most_discussed": {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "comments": 338
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News关注点分散，涵盖了技术演进（如CUDA替代方案及软件工程经济学）、隐私安全（Android位置权限及数字法案争议）以及计算基础理论。此外，生活方式与设计哲学（如自制饮料及回溯惯用设计）也引发了社区的广泛讨论。"
   }
 }
