@@ -1,0 +1,151 @@
+{
+  "morning": {
+    "time": "2026-04-14 09:21",
+    "stories": [
+      {
+        "id": 47755629,
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+        "domain": "anchor.host",
+        "score": 669,
+        "descendants": 185,
+        "by": "speckx",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 47759709,
+        "title": "Lean proved this program correct; then I found a bug",
+        "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+        "domain": "kirancodes.me",
+        "score": 52,
+        "descendants": 10,
+        "by": "bumbledraven",
+        "tags": []
+      },
+      {
+        "id": 47757495,
+        "title": "GitHub Stacked PRs",
+        "url": "https://github.github.com/gh-stack/",
+        "domain": "github.github.com",
+        "score": 400,
+        "descendants": 241,
+        "by": "ezekg",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 47759341,
+        "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+        "url": "https://github.com/fabienmillet/WiiFin",
+        "domain": "github.com",
+        "score": 32,
+        "descendants": 2,
+        "by": "throwawayk7h",
+        "tags": []
+      },
+      {
+        "id": 47753472,
+        "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+        "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+        "domain": "github.com",
+        "score": 352,
+        "descendants": 171,
+        "by": "m-hodges",
+        "tags": []
+      },
+      {
+        "id": 47756321,
+        "title": "How to make Firefox builds 17% faster",
+        "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+        "domain": "blog.farre.se",
+        "score": 133,
+        "descendants": 17,
+        "by": "mbitsnbites",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 47729694,
+        "title": "An Introduction to Obsidian",
+        "url": "https://bryanhogan.com/blog/obsidian-introduction",
+        "domain": "bryanhogan.com",
+        "score": 141,
+        "descendants": 92,
+        "by": "bryanhogan",
+        "tags": []
+      },
+      {
+        "id": 47756772,
+        "title": "(AMD) Build AI Agents That Run Locally",
+        "url": "https://amd-gaia.ai/docs",
+        "domain": "amd-gaia.ai",
+        "score": 93,
+        "descendants": 23,
+        "by": "galaxyLogic",
+        "tags": [
+          "AI",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 47750872,
+        "title": "Servo is now available on crates.io",
+        "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+        "domain": "servo.org",
+        "score": 418,
+        "descendants": 137,
+        "by": "ffin",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47753689,
+        "title": "Building a CLI for All of Cloudflare",
+        "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+        "domain": "blog.cloudflare.com",
+        "score": 257,
+        "descendants": 80,
+        "by": "soheilpro",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "anchor.host",
+          "count": 1
+        },
+        {
+          "domain": "kirancodes.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 255,
+      "max_score": {
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "score": 669
+      },
+      "most_discussed": {
+        "title": "GitHub Stacked PRs",
+        "comments": 241
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Open Source",
+        "Web",
+        "Hardware"
+      ]
+    },
+    "summary": ""
+  }
+}
