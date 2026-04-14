@@ -147,5 +147,144 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-04-14 13:54",
+    "stories": [
+      {
+        "id": 47760529,
+        "title": "DaVinci Resolve releases Photo Editor",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "domain": "blackmagicdesign.com",
+        "score": 263,
+        "descendants": 61,
+        "by": "thebiblelover7",
+        "tags": []
+      },
+      {
+        "id": 47760764,
+        "title": "A new spam policy for \"back button hijacking\"",
+        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "domain": "developers.google.com",
+        "score": 148,
+        "descendants": 76,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 47755629,
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+        "domain": "anchor.host",
+        "score": 836,
+        "descendants": 235,
+        "by": "speckx",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 47757495,
+        "title": "GitHub Stacked PRs",
+        "url": "https://github.github.com/gh-stack/",
+        "domain": "github.github.com",
+        "score": 601,
+        "descendants": 337,
+        "by": "ezekg",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 47759709,
+        "title": "Lean proved this program correct; then I found a bug",
+        "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+        "domain": "kirancodes.me",
+        "score": 184,
+        "descendants": 93,
+        "by": "bumbledraven",
+        "tags": []
+      },
+      {
+        "id": 47760750,
+        "title": "Sometimes powerful people just do dumb shit",
+        "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+        "domain": "joanwestenberg.com",
+        "score": 51,
+        "descendants": 3,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 47759341,
+        "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+        "url": "https://github.com/fabienmillet/WiiFin",
+        "domain": "github.com",
+        "score": 118,
+        "descendants": 49,
+        "by": "throwawayk7h",
+        "tags": []
+      },
+      {
+        "id": 47716805,
+        "title": "Anastasia (1997) live action reference material",
+        "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+        "domain": "lostmediawiki.com",
+        "score": 13,
+        "descendants": 1,
+        "by": "hyperific",
+        "tags": []
+      },
+      {
+        "id": 47715389,
+        "title": "I shipped a transaction bug, so I built a linter",
+        "url": "https://leonh.fr/posts/go-transaction-linter/",
+        "domain": "leonh.fr",
+        "score": 24,
+        "descendants": 2,
+        "by": "leonhfr",
+        "tags": []
+      },
+      {
+        "id": 47718284,
+        "title": "Design and implementation of DuckDB internals",
+        "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+        "domain": "duckdb.org",
+        "score": 85,
+        "descendants": 8,
+        "by": "mpweiher",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blackmagicdesign.com",
+          "count": 1
+        },
+        {
+          "domain": "developers.google.com",
+          "count": 1
+        },
+        {
+          "domain": "anchor.host",
+          "count": 1
+        }
+      ],
+      "avg_score": 232,
+      "max_score": {
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "score": 836
+      },
+      "most_discussed": {
+        "title": "GitHub Stacked PRs",
+        "comments": 337
+      },
+      "hot_tags": [
+        "Security",
+        "Open Source"
+      ]
+    },
+    "summary": ""
   }
 }
