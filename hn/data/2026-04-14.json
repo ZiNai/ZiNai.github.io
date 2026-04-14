@@ -286,5 +286,150 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-04-14 21:17",
+    "stories": [
+      {
+        "id": 47763759,
+        "title": "What is jj and why should I care?",
+        "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+        "domain": "steveklabnik.github.io",
+        "score": 121,
+        "descendants": 65,
+        "by": "tigerlily",
+        "tags": []
+      },
+      {
+        "id": 47760529,
+        "title": "DaVinci Resolve – Photo",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "domain": "blackmagicdesign.com",
+        "score": 734,
+        "descendants": 195,
+        "by": "thebiblelover7",
+        "tags": []
+      },
+      {
+        "id": 47764098,
+        "title": "NimConf 2026: Dates Announced, Registrations Open",
+        "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+        "domain": "nim-lang.org",
+        "score": 37,
+        "descendants": 9,
+        "by": "moigagoo",
+        "tags": []
+      },
+      {
+        "id": 47760764,
+        "title": "A new spam policy for “back button hijacking”",
+        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "domain": "developers.google.com",
+        "score": 504,
+        "descendants": 298,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 47762864,
+        "title": "Backblaze has stopped backing up your data",
+        "url": "https://rareese.com/posts/backblaze/",
+        "domain": "rareese.com",
+        "score": 360,
+        "descendants": 226,
+        "by": "rrreese",
+        "tags": []
+      },
+      {
+        "id": 47755629,
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+        "domain": "anchor.host",
+        "score": 1032,
+        "descendants": 295,
+        "by": "speckx",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 47762641,
+        "title": "Introspective Diffusion Language Models",
+        "url": "https://introspective-diffusion.github.io/",
+        "domain": "introspective-diffusion.github.io",
+        "score": 102,
+        "descendants": 26,
+        "by": "zagwdt",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47757495,
+        "title": "GitHub Stacked PRs",
+        "url": "https://github.github.com/gh-stack/",
+        "domain": "github.github.com",
+        "score": 773,
+        "descendants": 423,
+        "by": "ezekg",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 47722629,
+        "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+        "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+        "domain": "buttondown.com",
+        "score": 53,
+        "descendants": 26,
+        "by": "rfarley04",
+        "tags": []
+      },
+      {
+        "id": 47704729,
+        "title": "The M×N problem of tool calling and open-source models",
+        "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+        "domain": "thetypicalset.com",
+        "score": 32,
+        "descendants": 7,
+        "by": "remilouf",
+        "tags": [
+          "AI",
+          "Open Source"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "steveklabnik.github.io",
+          "count": 1
+        },
+        {
+          "domain": "blackmagicdesign.com",
+          "count": 1
+        },
+        {
+          "domain": "nim-lang.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 375,
+      "max_score": {
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "score": 1032
+      },
+      "most_discussed": {
+        "title": "GitHub Stacked PRs",
+        "comments": 423
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Security"
+      ]
+    },
+    "summary": ""
   }
 }
