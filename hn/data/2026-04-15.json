@@ -297,5 +297,138 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在技术生态的深度反思与创新应用。开发者们在探讨敏捷开发与依赖管理等行业惯例的弊端，同时，AI 工具的落地应用、复古硬件的现代化改造以及数字文化的存档保护也引发了社区的热烈讨论。"
+  },
+  "evening": {
+    "time": "2026-04-15 21:16",
+    "stories": [
+      {
+        "id": 47776796,
+        "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+        "url": "https://prog21.dadgum.com/30.html",
+        "domain": "prog21.dadgum.com",
+        "score": 194,
+        "descendants": 54,
+        "by": "downbad_",
+        "tags": [
+          "Systems",
+          "Science"
+        ]
+      },
+      {
+        "id": 47776557,
+        "title": "Good Sleep, Good Learning (2012)",
+        "url": "https://super-memory.com/articles/sleep.htm",
+        "domain": "super-memory.com",
+        "score": 132,
+        "descendants": 56,
+        "by": "downbad_",
+        "tags": []
+      },
+      {
+        "id": 47740840,
+        "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+        "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+        "domain": "en.wikipedia.org",
+        "score": 60,
+        "descendants": 21,
+        "by": "vinnyglennon",
+        "tags": []
+      },
+      {
+        "id": 47774789,
+        "title": "Fixing a 20-year-old bug in Enlightenment E16",
+        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+        "domain": "iczelia.net",
+        "score": 189,
+        "descendants": 75,
+        "by": "snoofydude",
+        "tags": []
+      },
+      {
+        "id": 47774971,
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+        "domain": "gizmoweek.com",
+        "score": 105,
+        "descendants": 74,
+        "by": "takumi123",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47708710,
+        "title": "Metro stop is Ancient Rome's new attraction",
+        "url": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
+        "domain": "bbc.com",
+        "score": 24,
+        "descendants": 3,
+        "by": "Stevvo",
+        "tags": []
+      },
+      {
+        "id": 47768133,
+        "title": "Claude Code Routines",
+        "url": "https://code.claude.com/docs/en/routines",
+        "domain": "code.claude.com",
+        "score": 664,
+        "descendants": 375,
+        "by": "matthieu_bl",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47777882,
+        "title": "New bill would let New Yorkers hang solar panels from windows",
+        "url": "https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows",
+        "domain": "gothamist.com",
+        "score": 23,
+        "descendants": 18,
+        "by": "geox",
+        "tags": []
+      },
+      {
+        "id": 47775628,
+        "title": "Wacli – WhatsApp CLI: sync, search, send",
+        "url": "https://github.com/steipete/wacli",
+        "domain": "github.com",
+        "score": 144,
+        "descendants": 108,
+        "by": "dinakars777",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "prog21.dadgum.com",
+          "count": 1
+        },
+        {
+          "domain": "super-memory.com",
+          "count": 1
+        },
+        {
+          "domain": "en.wikipedia.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 171,
+      "max_score": {
+        "title": "Claude Code Routines",
+        "score": 664
+      },
+      "most_discussed": {
+        "title": "Claude Code Routines",
+        "comments": 375
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": ""
   }
 }
