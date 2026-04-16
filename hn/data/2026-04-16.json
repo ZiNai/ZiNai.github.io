@@ -303,5 +303,167 @@
       ]
     },
     "summary": "本期Hacker News热点呈现出多元的技术视角，从前沿的AI应用与推理优化，到网络协议标准演进与系统底层安全性分析。整体关注点聚焦于高性能基础设施构建、历史技术的回顾及对现代安全架构的深刻反思。"
+  },
+  "evening": {
+    "time": "2026-04-16 21:22",
+    "stories": [
+      {
+        "id": 47791871,
+        "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+        "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+        "domain": "discuss.ai.google.dev",
+        "score": 162,
+        "descendants": 105,
+        "by": "zanbezi",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "由于Firebase密钥配置疏忽，开发者的Gemini API调用在13小时内产生了5.4万欧元的巨额账单。"
+      },
+      {
+        "id": 47777894,
+        "title": "IPv6 traffic crosses the 50% mark",
+        "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+        "domain": "google.com",
+        "score": 470,
+        "descendants": 291,
+        "by": "Aaronmacaron",
+        "tags": [],
+        "summary": "全球IPv6流量比例正式突破50%，标志着互联网基础设施向新协议迁移的重大转折。"
+      },
+      {
+        "id": 47788542,
+        "title": "Darkbloom – Private inference on idle Macs",
+        "url": "https://darkbloom.dev",
+        "domain": "darkbloom.dev",
+        "score": 325,
+        "descendants": 162,
+        "by": "twapi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Darkbloom项目旨在利用闲置Mac设备进行隐私计算，实现本地化的推理任务。"
+      },
+      {
+        "id": 47792026,
+        "title": "Show HN: 48 absurd web projects – one every month",
+        "url": "https://news.ycombinator.com/item?id=47792026",
+        "domain": "news.ycombinator.com",
+        "score": 15,
+        "descendants": 6,
+        "by": "absurdwebsite",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "博主展示了其在过去48个月里每月开发一个古怪网页项目的有趣尝试。"
+      },
+      {
+        "id": 47791282,
+        "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+        "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+        "domain": "reich.hms.harvard.edu",
+        "score": 31,
+        "descendants": 11,
+        "by": "Metacelsus",
+        "tags": [],
+        "summary": "通过古代DNA研究，揭示了西亚欧大陆人口在进化过程中广泛存在的定向选择现象。"
+      },
+      {
+        "id": 47788424,
+        "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+        "url": "https://daedal.io/@thomzane/116410863009847575",
+        "domain": "daedal.io",
+        "score": 233,
+        "descendants": 132,
+        "by": "pabs3",
+        "tags": [
+          "AI"
+        ],
+        "summary": "自由软件基金会（FSF）正尝试联系Google，以处理一个通过Gmail大量发送垃圾邮件的账号。"
+      },
+      {
+        "id": 47791236,
+        "title": "AI cybersecurity is not proof of work",
+        "url": "https://antirez.com/news/163",
+        "domain": "antirez.com",
+        "score": 33,
+        "descendants": 2,
+        "by": "surprisetalk",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "作者探讨了为何AI网络安全不应与加密货币中的工作量证明（PoW）机制相混淆。"
+      },
+      {
+        "id": 47791212,
+        "title": "Codex Hacked a Samsung TV",
+        "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+        "domain": "blog.calif.io",
+        "score": 82,
+        "descendants": 55,
+        "by": "campuscodi",
+        "tags": [
+          "Security"
+        ],
+        "summary": "文章详细记录了研究人员通过Codex AI模型成功入侵三星电视的过程。"
+      },
+      {
+        "id": 47737499,
+        "title": "Modern Microprocessors – A 90-Minute Guide",
+        "url": "https://www.lighterra.com/articles/",
+        "domain": "lighterra.com",
+        "score": 63,
+        "descendants": 5,
+        "by": "Flex247A",
+        "tags": [],
+        "summary": "一份时长90分钟的深度指南，系统梳理了现代微处理器的核心架构与演进。"
+      },
+      {
+        "id": 47791855,
+        "title": "Apple accelerates eco progress with highest-ever recycled materials",
+        "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
+        "domain": "apple.com",
+        "score": 19,
+        "descendants": 9,
+        "by": "salkahfi",
+        "tags": [],
+        "summary": "苹果宣布其产品在再生材料使用比例上达到历史新高，以加速实现环保减排目标。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "discuss.ai.google.dev",
+          "count": 1
+        },
+        {
+          "domain": "google.com",
+          "count": 1
+        },
+        {
+          "domain": "darkbloom.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 143,
+      "max_score": {
+        "title": "IPv6 traffic crosses the 50% mark",
+        "score": 470
+      },
+      "most_discussed": {
+        "title": "IPv6 traffic crosses the 50% mark",
+        "comments": 291
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于技术安全与生态挑战，包括Firebase配置不当导致的巨额账单及AI领域的安全争论。同时，IPv6普及率迎来里程碑，以及从古代DNA研究到苹果环保策略等多样化前沿议题吸引了广泛讨论。"
   }
 }
