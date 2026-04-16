@@ -141,5 +141,167 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-04-16 13:55",
+    "stories": [
+      {
+        "id": 47788857,
+        "title": "IPv8 Proposal",
+        "url": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+        "domain": "ietf.org",
+        "score": 67,
+        "descendants": 39,
+        "by": "EvanZhouDev",
+        "tags": [],
+        "summary": "介绍利用闲置Mac设备进行隐私计算与模型推理的Darkbloom平台。"
+      },
+      {
+        "id": 47788542,
+        "title": "Darkbloom – Private inference on idle Macs",
+        "url": "https://darkbloom.dev",
+        "domain": "darkbloom.dev",
+        "score": 81,
+        "descendants": 49,
+        "by": "twapi",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47788845,
+        "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
+        "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+        "domain": "chalkbeat.org",
+        "score": 17,
+        "descendants": 3,
+        "by": "the-mitr",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Sal Khan探讨为何他预想的教育AI革命尚未如期到来。"
+      },
+      {
+        "id": 47788424,
+        "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+        "url": "https://daedal.io/@thomzane/116410863009847575",
+        "domain": "daedal.io",
+        "score": 45,
+        "descendants": 17,
+        "by": "pabs3",
+        "tags": [
+          "AI"
+        ],
+        "summary": "FSF试图联系Google处理一名通过Gmail发送海量垃圾邮件的滥用者。"
+      },
+      {
+        "id": 47747770,
+        "title": "The paper computer",
+        "url": "https://jsomers.net/blog/the-paper-computer",
+        "domain": "jsomers.net",
+        "score": 96,
+        "descendants": 15,
+        "by": "jsomers",
+        "tags": [
+          "Science"
+        ],
+        "summary": "深入剖析计算本质的经典文章，重温早期纸面计算逻辑的魅力。"
+      },
+      {
+        "id": 47769089,
+        "title": "Cybersecurity looks like proof of work now",
+        "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "domain": "dbreunig.com",
+        "score": 337,
+        "descendants": 120,
+        "by": "dbreunig",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深度论证当前的现代网络安全对抗已演变为类似“工作量证明”的资源博弈。"
+      },
+      {
+        "id": 47788473,
+        "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+        "url": "https://github.com/Nightmare-Eclipse/RedSun",
+        "domain": "github.com",
+        "score": 28,
+        "descendants": 1,
+        "by": "airhangerf15",
+        "tags": [],
+        "summary": "披露针对Windows 10/11及Server系统的系统用户权限提权漏洞。"
+      },
+      {
+        "id": 47788633,
+        "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+        "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+        "domain": "tokyodev.com",
+        "score": 15,
+        "descendants": 0,
+        "by": "pwim",
+        "tags": [],
+        "summary": "回顾日本独特且老旧的NaviDial电话服务及其技术架构。"
+      },
+      {
+        "id": 47788818,
+        "title": "Airbnb discloses a billion-series Prometheus metrics pipeline",
+        "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+        "domain": "medium.com",
+        "score": 9,
+        "descendants": 0,
+        "by": "jmarbach",
+        "tags": [
+          "AI",
+          "Python"
+        ],
+        "summary": "Airbnb技术团队分享其处理十亿级Prometheus指标的规模化流水线架构。"
+      },
+      {
+        "id": 47749548,
+        "title": "Introduction to spherical harmonics for graphics programmers",
+        "url": "https://gpfault.net/posts/sph.html",
+        "domain": "gpfault.net",
+        "score": 66,
+        "descendants": 7,
+        "by": "luu",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "面向图形程序员的球面谐波入门指南，解析光照计算中的数学基础。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ietf.org",
+          "count": 1
+        },
+        {
+          "domain": "darkbloom.dev",
+          "count": 1
+        },
+        {
+          "domain": "chalkbeat.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 76,
+      "max_score": {
+        "title": "Cybersecurity looks like proof of work now",
+        "score": 337
+      },
+      "most_discussed": {
+        "title": "Cybersecurity looks like proof of work now",
+        "comments": 120
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Security",
+        "Python",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热点呈现出多元的技术视角，从前沿的AI应用与推理优化，到网络协议标准演进与系统底层安全性分析。整体关注点聚焦于高性能基础设施构建、历史技术的回顾及对现代安全架构的深刻反思。"
   }
 }
