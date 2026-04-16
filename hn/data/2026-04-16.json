@@ -1,0 +1,145 @@
+{
+  "morning": {
+    "time": "2026-04-16 09:23",
+    "stories": [
+      {
+        "id": 47769089,
+        "title": "Cybersecurity looks like proof of work now",
+        "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "domain": "dbreunig.com",
+        "score": 221,
+        "descendants": 84,
+        "by": "dbreunig",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 47786164,
+        "title": "I made a terminal pager",
+        "url": "https://theleo.zone/posts/pager/",
+        "domain": "theleo.zone",
+        "score": 54,
+        "descendants": 8,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 47786791,
+        "title": "YouTube now lets you turn off Shorts",
+        "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+        "domain": "theverge.com",
+        "score": 125,
+        "descendants": 54,
+        "by": "pentagrama",
+        "tags": []
+      },
+      {
+        "id": 47782570,
+        "title": "Google broke its promise to me – now ICE has my data",
+        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+        "domain": "eff.org",
+        "score": 1082,
+        "descendants": 470,
+        "by": "Brajeshwar",
+        "tags": []
+      },
+      {
+        "id": 47785948,
+        "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+        "url": "https://www.bbc.com/news/technology-39576394",
+        "domain": "bbc.com",
+        "score": 54,
+        "descendants": 40,
+        "by": "harambae",
+        "tags": []
+      },
+      {
+        "id": 47780456,
+        "title": "Cal.com is going closed source",
+        "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+        "domain": "cal.com",
+        "score": 204,
+        "descendants": 153,
+        "by": "Benjamin_Dobell",
+        "tags": []
+      },
+      {
+        "id": 47784244,
+        "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+        "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+        "domain": "tinycorelinux.net",
+        "score": 78,
+        "descendants": 6,
+        "by": "gregsadetsky",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 47778475,
+        "title": "God sleeps in the minerals",
+        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "domain": "wchambliss.wordpress.com",
+        "score": 448,
+        "descendants": 96,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 47777897,
+        "title": "Retrofitting JIT Compilers into C Interpreters",
+        "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+        "domain": "tratt.net",
+        "score": 33,
+        "descendants": 9,
+        "by": "ltratt",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 47783713,
+        "title": "Live Nation illegally monopolized ticketing market, jury finds",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+        "domain": "bloomberg.com",
+        "score": 381,
+        "descendants": 115,
+        "by": "Alex_Bond",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dbreunig.com",
+          "count": 1
+        },
+        {
+          "domain": "theleo.zone",
+          "count": 1
+        },
+        {
+          "domain": "theverge.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 268,
+      "max_score": {
+        "title": "Google broke its promise to me – now ICE has my data",
+        "score": 1082
+      },
+      "most_discussed": {
+        "title": "Google broke its promise to me – now ICE has my data",
+        "comments": 470
+      },
+      "hot_tags": [
+        "Systems",
+        "Security",
+        "Hardware"
+      ]
+    },
+    "summary": ""
+  }
+}
