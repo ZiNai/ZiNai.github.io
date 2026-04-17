@@ -158,5 +158,168 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI领域，Anthropic与Qwen等大模型发布引起广泛关注，同时硬核工程与自动化工具（如硬件黑客AI、Android开发利器）展现了技术应用的新深度。此外，关于科技巨头定价策略的法律调查以及编程语言生态的持续演进也是社区讨论的热点。"
+  },
+  "noon": {
+    "time": "2026-04-17 13:57",
+    "stories": [
+      {
+        "id": 47793411,
+        "title": "Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
+        "domain": "anthropic.com",
+        "score": 1619,
+        "descendants": 1142,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Claude Opus 3.7，展示了模型在推理与性能方面的最新突破。"
+      },
+      {
+        "id": 47796469,
+        "title": "Codex for almost everything",
+        "url": "https://openai.com/index/codex-for-almost-everything/",
+        "domain": "openai.com",
+        "score": 785,
+        "descendants": 393,
+        "by": "mikeevans",
+        "tags": [],
+        "summary": "OpenAI推出的Codex更新，旨在通过智能化赋能各类软件开发流程。"
+      },
+      {
+        "id": 47772725,
+        "title": "CadQuery is an open-source Python library for building 3D CAD models",
+        "url": "https://cadquery.github.io/",
+        "domain": "cadquery.github.io",
+        "score": 91,
+        "descendants": 13,
+        "by": "gregsadetsky",
+        "tags": [
+          "AI",
+          "Python",
+          "Open Source"
+        ],
+        "summary": "介绍一款基于Python的开源库CadQuery，用于通过代码高效构建3D CAD模型。"
+      },
+      {
+        "id": 47800033,
+        "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+        "url": "https://github.com/gainsec/autoprober",
+        "domain": "github.com",
+        "score": 141,
+        "descendants": 28,
+        "by": "scaredpelican",
+        "tags": [
+          "AI",
+          "Security",
+          "Hardware"
+        ],
+        "summary": "一名创客利用胶带、旧摄像头和CNC机器打造了一台由AI驱动的硬件黑客机械臂。"
+      },
+      {
+        "id": 47755261,
+        "title": "A Python Interpreter Written in Python",
+        "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+        "domain": "aosabook.org",
+        "score": 18,
+        "descendants": 4,
+        "by": "xk3",
+        "tags": [
+          "Python"
+        ],
+        "summary": "深入探讨如何用Python编写一个Python解释器，揭示其底层的实现机制。"
+      },
+      {
+        "id": 47801255,
+        "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+        "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+        "domain": "lucasgerads.com",
+        "score": 53,
+        "descendants": 11,
+        "by": "_fizz_buzz_",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "开发者展示了如何结合电路模拟与Claude Code自动化工具进行电子验证的实验。"
+      },
+      {
+        "id": 47799573,
+        "title": "A Better R Programming Experience Thanks to Tree-sitter",
+        "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+        "domain": "ropensci.org",
+        "score": 112,
+        "descendants": 11,
+        "by": "sebg",
+        "tags": [],
+        "summary": "探讨如何利用Tree-sitter技术提升R语言的开发体验与代码分析能力。"
+      },
+      {
+        "id": 47802312,
+        "title": "Human Accelerated Region 1",
+        "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+        "domain": "en.wikipedia.org",
+        "score": 11,
+        "descendants": 0,
+        "by": "apollinaire",
+        "tags": [],
+        "summary": "探讨关于人类加速区1（HAR1）的维基百科条目，涉及遗传学与演化生物学领域。"
+      },
+      {
+        "id": 47798345,
+        "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+        "url": "https://clojure.org/about/documentary",
+        "domain": "clojure.org",
+        "score": 149,
+        "descendants": 42,
+        "by": "adityaathalye",
+        "tags": [],
+        "summary": "Clojure官方发布的纪录片页面，整合了项目历史、视频资源及深度访谈笔记。"
+      },
+      {
+        "id": 47797665,
+        "title": "Android CLI: Build Android apps 3x faster using any agent",
+        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+        "domain": "android-developers.googleblog.com",
+        "score": 182,
+        "descendants": 60,
+        "by": "ingve",
+        "tags": [],
+        "summary": "谷歌介绍全新的Android CLI工具，旨在通过AI Agent代理加速Android应用构建速度。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "cadquery.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 316,
+      "max_score": {
+        "title": "Claude Opus 4.7",
+        "score": 1619
+      },
+      "most_discussed": {
+        "title": "Claude Opus 4.7",
+        "comments": 1142
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Open Source",
+        "Security",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在人工智能领域的演进与工具化应用，包括Claude及OpenAI新模型的发布与集成。此外，开发者社区对CAD建模、编程语言工具链优化以及创意性工程项目的关注度持续走高。"
   }
 }
