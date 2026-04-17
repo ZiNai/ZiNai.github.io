@@ -321,5 +321,165 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在人工智能领域的演进与工具化应用，包括Claude及OpenAI新模型的发布与集成。此外，开发者社区对CAD建模、编程语言工具链优化以及创意性工程项目的关注度持续走高。"
+  },
+  "evening": {
+    "time": "2026-04-17 21:09",
+    "stories": [
+      {
+        "id": 47804965,
+        "title": "Isaac Asimov: The Last Question",
+        "url": "https://hex.ooo/library/last_question.html",
+        "domain": "hex.ooo",
+        "score": 61,
+        "descendants": 12,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "重温艾萨克·阿西莫夫的经典短篇小说《最后的问题》，探讨人类与AI的终极命题。"
+      },
+      {
+        "id": 47803844,
+        "title": "Ada, Its Design, and the Language That Built the Languages",
+        "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+        "domain": "iqiipi.com",
+        "score": 137,
+        "descendants": 75,
+        "by": "mpweiher",
+        "tags": [],
+        "summary": "回顾Ada编程语言的设计理念及其对后续语言生态产生的深远架构影响。"
+      },
+      {
+        "id": 47793411,
+        "title": "Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
+        "domain": "anthropic.com",
+        "score": 1823,
+        "descendants": 1318,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Claude Opus 4.7版本，在AI社区引发了关于模型性能与应用边界的深度讨论。"
+      },
+      {
+        "id": 47754603,
+        "title": "Average Is All You Need",
+        "url": "https://rawquery.dev/blog/average-is-all-you-need",
+        "domain": "rawquery.dev",
+        "score": 35,
+        "descendants": 21,
+        "by": "AlexC04",
+        "tags": [],
+        "summary": "探讨在复杂数据处理中回归简单均值统计的有效性与实践价值。"
+      },
+      {
+        "id": 47803323,
+        "title": "FIM – Linux framebuffer image viewer",
+        "url": "https://www.nongnu.org/fbi-improved/",
+        "domain": "nongnu.org",
+        "score": 88,
+        "descendants": 45,
+        "by": "Mr_Minderbinder",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍FIM，一款无需X窗口系统即可在Linux帧缓冲区中直接查看图像的轻量级工具。"
+      },
+      {
+        "id": 47796469,
+        "title": "Codex for almost everything",
+        "url": "https://openai.com/index/codex-for-almost-everything/",
+        "domain": "openai.com",
+        "score": 918,
+        "descendants": 483,
+        "by": "mikeevans",
+        "tags": [],
+        "summary": "讨论Codex模型在广泛编程场景下的应用潜力及其带来的效率变革。"
+      },
+      {
+        "id": 47772725,
+        "title": "CadQuery is an open-source Python library for building 3D CAD models",
+        "url": "https://cadquery.github.io/",
+        "domain": "cadquery.github.io",
+        "score": 169,
+        "descendants": 46,
+        "by": "gregsadetsky",
+        "tags": [
+          "AI",
+          "Python",
+          "Open Source"
+        ],
+        "summary": "介绍CadQuery库，一种通过Python脚本进行参数化3D建模的开源解决方案。"
+      },
+      {
+        "id": 47755261,
+        "title": "A Python Interpreter Written in Python",
+        "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+        "domain": "aosabook.org",
+        "score": 92,
+        "descendants": 24,
+        "by": "xk3",
+        "tags": [
+          "Python"
+        ],
+        "summary": "深入解析如何用Python语言本身编写一个功能完备的Python解释器。"
+      },
+      {
+        "id": 47759436,
+        "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+        "url": "https://chapel-lang.org/blog/posts/30years/",
+        "domain": "chapel-lang.org",
+        "score": 73,
+        "descendants": 43,
+        "by": "matt_d",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "分析过去30年高性能计算的发展轨迹，探讨为何硬件进步未能显著推动新编程语言的普及。"
+      },
+      {
+        "id": 47751011,
+        "title": "中文 Literacy Speedrun II: Character Cyclotron",
+        "url": "https://blog.kevinzwu.com/character-cyclotron/",
+        "domain": "blog.kevinzwu.com",
+        "score": 34,
+        "descendants": 16,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "分享通过循环训练法进行中文识字能力快速提升的经验总结。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hex.ooo",
+          "count": 1
+        },
+        {
+          "domain": "iqiipi.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 343,
+      "max_score": {
+        "title": "Claude Opus 4.7",
+        "score": 1823
+      },
+      "most_discussed": {
+        "title": "Claude Opus 4.7",
+        "comments": 1318
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Systems",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI技术的快速迭代，包括Anthropic与OpenAI的最新动态引发的广泛讨论。此外，社区对计算机科学史、高性能计算挑战及编程语言设计等硬核工程主题展现了浓厚兴趣。"
   }
 }
