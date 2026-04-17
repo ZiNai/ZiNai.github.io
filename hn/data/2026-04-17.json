@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-04-17 09:21",
+    "stories": [
+      {
+        "id": 47793411,
+        "title": "Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
+        "domain": "anthropic.com",
+        "score": 1445,
+        "descendants": 1051,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Claude Opus 4.7，引发关于大模型性能基准与行业影响的深度讨论。"
+      },
+      {
+        "id": 47796469,
+        "title": "Codex for almost everything",
+        "url": "https://openai.com/index/codex-for-almost-everything/",
+        "domain": "openai.com",
+        "score": 657,
+        "descendants": 358,
+        "by": "mikeevans",
+        "tags": [],
+        "summary": "探讨OpenAI Codex在各种场景下的广泛应用及其对开发流程的重塑。"
+      },
+      {
+        "id": 47800738,
+        "title": "Everything we like is a psyop",
+        "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+        "domain": "techcrunch.com",
+        "score": 73,
+        "descendants": 39,
+        "by": "evo_9",
+        "tags": [],
+        "summary": "一篇探讨现代文化与消费习惯中‘心理操纵’现象的文章，反思大众偏好的形成机制。"
+      },
+      {
+        "id": 47800033,
+        "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+        "url": "https://github.com/gainsec/autoprober",
+        "domain": "github.com",
+        "score": 81,
+        "descendants": 14,
+        "by": "scaredpelican",
+        "tags": [
+          "AI",
+          "Security",
+          "Hardware"
+        ],
+        "summary": "硬核极客利用报废摄像头、CNC部件及胶带打造了一款AI驱动的自动化硬件焊接手臂。"
+      },
+      {
+        "id": 47799573,
+        "title": "A Better R Programming Experience Thanks to Tree-sitter",
+        "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+        "domain": "ropensci.org",
+        "score": 74,
+        "descendants": 6,
+        "by": "sebg",
+        "tags": [],
+        "summary": "介绍了如何通过Tree-sitter优化R语言的编程体验，提升开发效率。"
+      },
+      {
+        "id": 47798345,
+        "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+        "url": "https://clojure.org/about/documentary",
+        "domain": "clojure.org",
+        "score": 100,
+        "descendants": 20,
+        "by": "adityaathalye",
+        "tags": [],
+        "summary": "官方Clojure纪录片正式上线，汇集了该编程语言的历史、深度解析及相关资源。"
+      },
+      {
+        "id": 47797665,
+        "title": "Android CLI: Build Android apps 3x faster using any agent",
+        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+        "domain": "android-developers.googleblog.com",
+        "score": 112,
+        "descendants": 29,
+        "by": "ingve",
+        "tags": [],
+        "summary": "谷歌官方推出的Android CLI工具，旨在利用AI代理将应用构建速度提升至原来的3倍。"
+      },
+      {
+        "id": 47772725,
+        "title": "CadQuery is an open-source Python library for building 3D CAD models",
+        "url": "https://cadquery.github.io/",
+        "domain": "cadquery.github.io",
+        "score": 8,
+        "descendants": 0,
+        "by": "gregsadetsky",
+        "tags": [
+          "AI",
+          "Python",
+          "Open Source"
+        ],
+        "summary": "介绍开源Python库CadQuery，通过代码参数化方式高效创建精密3D CAD模型。"
+      },
+      {
+        "id": 47800166,
+        "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+        "domain": "theguardian.com",
+        "score": 91,
+        "descendants": 16,
+        "by": "kmfrk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "新解封文件显示加州总检察长指控亚马逊通过非法定价手段干扰市场竞争。"
+      },
+      {
+        "id": 47792764,
+        "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+        "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+        "domain": "qwen.ai",
+        "score": 893,
+        "descendants": 415,
+        "by": "cmitsakis",
+        "tags": [],
+        "summary": "Qwen开源3.6-35B-A3B模型，主打强大的智能体编码能力，旨在提升开源代码生成水平。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "techcrunch.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 353,
+      "max_score": {
+        "title": "Claude Opus 4.7",
+        "score": 1445
+      },
+      "most_discussed": {
+        "title": "Claude Opus 4.7",
+        "comments": 1051
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Hardware",
+        "Python",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，Anthropic与Qwen等大模型发布引起广泛关注，同时硬核工程与自动化工具（如硬件黑客AI、Android开发利器）展现了技术应用的新深度。此外，关于科技巨头定价策略的法律调查以及编程语言生态的持续演进也是社区讨论的热点。"
+  }
+}
