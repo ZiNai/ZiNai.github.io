@@ -308,5 +308,159 @@
       ]
     },
     "summary": "今日Hacker News重点关注人工智能的最新进展，包括Claude的设计哲学、AI代理的成本分析以及大模型Token计算。此外，社区对经典科幻文学的重温和关于月球尘埃的科学趣闻也引发了广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-04-18 20:54",
+    "stories": [
+      {
+        "id": 47815118,
+        "title": "State of Kdenlive",
+        "url": "https://kdenlive.org/news/2026/state-2026/",
+        "domain": "kdenlive.org",
+        "score": 29,
+        "descendants": 6,
+        "by": "f_r_d",
+        "tags": [],
+        "summary": "Kdenlive 视频编辑软件的现状与未来发展规划概览。"
+      },
+      {
+        "id": 47782925,
+        "title": "Michael Rabin Has Died",
+        "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+        "domain": "en.wikipedia.org",
+        "score": 160,
+        "descendants": 17,
+        "by": "tkhattra",
+        "tags": [],
+        "summary": "悼念计算机科学领域著名学者 Michael Rabin。"
+      },
+      {
+        "id": 47813668,
+        "title": "Category Theory Illustrated – Orders",
+        "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+        "domain": "abuseofnotation.github.io",
+        "score": 128,
+        "descendants": 36,
+        "by": "boris_m",
+        "tags": [],
+        "summary": "通过直观图解方式深入浅出地讲解范畴论中的序理论。"
+      },
+      {
+        "id": 47813566,
+        "title": "Amiga Graphics",
+        "url": "https://amiga.lychesis.net/",
+        "domain": "amiga.lychesis.net",
+        "score": 134,
+        "descendants": 24,
+        "by": "sph",
+        "tags": [],
+        "summary": "回顾 Amiga 电脑独特的图形显示技术与架构历史。"
+      },
+      {
+        "id": 47806725,
+        "title": "Claude Design",
+        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "domain": "anthropic.com",
+        "score": 1086,
+        "descendants": 713,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 Anthropic 在 Claude 模型设计中贯彻的原则与哲学。"
+      },
+      {
+        "id": 47767398,
+        "title": "It's OK to compare floating-points for equality",
+        "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+        "domain": "lisyarus.github.io",
+        "score": 46,
+        "descendants": 26,
+        "by": "coinfused",
+        "tags": [],
+        "summary": "探讨在特定场景下进行浮点数相等性比较的可行性与技巧。"
+      },
+      {
+        "id": 47812341,
+        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
+        "domain": "victorpoughon.github.io",
+        "score": 196,
+        "descendants": 39,
+        "by": "fouronnes3",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍一款支持在不相交区间集上进行数学运算的计算器。"
+      },
+      {
+        "id": 47807006,
+        "title": "Measuring Claude 4.7's tokenizer costs",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+        "domain": "claudecodecamp.com",
+        "score": 628,
+        "descendants": 445,
+        "by": "aray07",
+        "tags": [
+          "AI"
+        ],
+        "summary": "量化分析 Claude 模型 tokenizer 对使用成本的影响。"
+      },
+      {
+        "id": 47778938,
+        "title": "Towards trust in Emacs",
+        "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+        "domain": "eshelyaron.com",
+        "score": 140,
+        "descendants": 19,
+        "by": "eshelyaron",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "讨论如何增强 Emacs 环境的信任度与安全性。"
+      },
+      {
+        "id": 47808913,
+        "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+        "domain": "esa.int",
+        "score": 359,
+        "descendants": 212,
+        "by": "cybermango",
+        "tags": [],
+        "summary": "重温登月宇航员因吸入类似火药味的月尘而引发过敏现象的科学轶事。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kdenlive.org",
+          "count": 1
+        },
+        {
+          "domain": "en.wikipedia.org",
+          "count": 1
+        },
+        {
+          "domain": "abuseofnotation.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 291,
+      "max_score": {
+        "title": "Claude Design",
+        "score": 1086
+      },
+      "most_discussed": {
+        "title": "Claude Design",
+        "comments": 713
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热点集中于前沿 AI 技术与数学科学领域，Claude 相关的模型设计与成本分析引发了大量讨论。此外，复古计算技术、数学理论应用及科学趣闻也占据了重要的榜单位置，展现了极客社区对底层技术与知识深度的持续关注。"
   }
 }
