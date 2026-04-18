@@ -148,5 +148,165 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-04-18 13:28",
+    "stories": [
+      {
+        "id": 47806725,
+        "title": "Claude Design",
+        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "domain": "anthropic.com",
+        "score": 942,
+        "descendants": 618,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic详细拆解了Claude的设计理念与界面交互逻辑。"
+      },
+      {
+        "id": 47812341,
+        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
+        "domain": "victorpoughon.github.io",
+        "score": 31,
+        "descendants": 3,
+        "by": "fouronnes3",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个能够基于不相交区间集进行计算的计算器工具。"
+      },
+      {
+        "id": 47778938,
+        "title": "Towards trust in Emacs",
+        "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+        "domain": "eshelyaron.com",
+        "score": 66,
+        "descendants": 4,
+        "by": "eshelyaron",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "探讨如何构建更值得信赖的Emacs编辑环境。"
+      },
+      {
+        "id": 47808913,
+        "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+        "domain": "esa.int",
+        "score": 287,
+        "descendants": 163,
+        "by": "cybermango",
+        "tags": [],
+        "summary": "回顾阿波罗计划中登月宇航员因吸入月尘而产生的过敏反应及其独特的火药气味。"
+      },
+      {
+        "id": 47810872,
+        "title": "A simplified model of Fil-C",
+        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+        "domain": "corsix.org",
+        "score": 144,
+        "descendants": 69,
+        "by": "aw1621107",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对Fil-C内存模型的简化分析与研究。"
+      },
+      {
+        "id": 47778922,
+        "title": "Are the costs of AI agents also rising exponentially? (2025)",
+        "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+        "domain": "tobyord.com",
+        "score": 157,
+        "descendants": 36,
+        "by": "louiereederson",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析讨论AI智能体在执行任务时，其运算成本是否也在呈现指数级增长。"
+      },
+      {
+        "id": 47804965,
+        "title": "Isaac Asimov: The Last Question (1956)",
+        "url": "https://hex.ooo/library/last_question.html",
+        "domain": "hex.ooo",
+        "score": 682,
+        "descendants": 271,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "重温艾萨克·阿西莫夫的经典短篇科幻作品《最后的问题》。"
+      },
+      {
+        "id": 47807006,
+        "title": "Measuring Claude 4.7's tokenizer costs",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+        "domain": "claudecodecamp.com",
+        "score": 572,
+        "descendants": 399,
+        "by": "aray07",
+        "tags": [
+          "AI"
+        ],
+        "summary": "量化评估Claude 4.7模型在Tokenizer处理上的具体成本表现。"
+      },
+      {
+        "id": 47808268,
+        "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+        "url": "https://github.com/smol-machines/smolvm",
+        "domain": "github.com",
+        "score": 283,
+        "descendants": 91,
+        "by": "binsquare",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍一个旨在实现亚秒级冷启动且具备高度可移植性的虚拟机方案。"
+      },
+      {
+        "id": 47806845,
+        "title": "Slop Cop",
+        "url": "https://awnist.com/slop-cop",
+        "domain": "awnist.com",
+        "score": 131,
+        "descendants": 82,
+        "by": "ericHosick",
+        "tags": [],
+        "summary": "探讨Slop Cop工具在识别和处理互联网垃圾内容方面的应用。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "victorpoughon.github.io",
+          "count": 1
+        },
+        {
+          "domain": "eshelyaron.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 330,
+      "max_score": {
+        "title": "Claude Design",
+        "score": 942
+      },
+      "most_discussed": {
+        "title": "Claude Design",
+        "comments": 618
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能的最新进展，包括Claude的设计哲学、AI代理的成本分析以及大模型Token计算。此外，社区对经典科幻文学的重温和关于月球尘埃的科学趣闻也引发了广泛讨论。"
   }
 }
