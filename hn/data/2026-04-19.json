@@ -1,0 +1,153 @@
+{
+  "morning": {
+    "time": "2026-04-19 09:23",
+    "stories": [
+      {
+        "id": 47819453,
+        "title": "NIST scientists create 'any wavelength' lasers",
+        "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+        "domain": "nist.gov",
+        "score": 154,
+        "descendants": 69,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "NIST科学家研发出可调谐的“任意波长”激光器，为精密测量和光学技术带来突破。"
+      },
+      {
+        "id": 47816960,
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "url": "https://tokens.billchambers.me/leaderboard",
+        "domain": "tokens.billchambers.me",
+        "score": 420,
+        "descendants": 426,
+        "by": "anabranch",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析Opus版本更新中匿名请求令牌对比机制的安全性与技术实现。"
+      },
+      {
+        "id": 47817132,
+        "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+        "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+        "domain": "righto.com",
+        "score": 266,
+        "descendants": 76,
+        "by": "NelsonMinar",
+        "tags": [],
+        "summary": "拆解B-52轰炸机星象跟踪仪内部精巧的机电角度计算装置。"
+      },
+      {
+        "id": 47818485,
+        "title": "College instructor turns to typewriters to curb AI-written work",
+        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+        "domain": "sentinelcolorado.com",
+        "score": 119,
+        "descendants": 126,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ],
+        "summary": "面对AI生成的作业内容，大学讲师通过回归打字机教学来抑制学术不端。"
+      },
+      {
+        "id": 47779659,
+        "title": "Modern Common Lisp with FSet",
+        "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+        "domain": "fset.common-lisp.dev",
+        "score": 82,
+        "descendants": 5,
+        "by": "larve",
+        "tags": []
+      },
+      {
+        "id": 47815395,
+        "title": "Why Japan has such good railways",
+        "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+        "domain": "worksinprogress.co",
+        "score": 302,
+        "descendants": 304,
+        "by": "RickJWagner",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析日本铁路系统高效运营背后的管理策略与工程逻辑。"
+      },
+      {
+        "id": 47819369,
+        "title": "Optimizing Ruby Path Methods",
+        "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+        "domain": "byroot.github.io",
+        "score": 47,
+        "descendants": 19,
+        "by": "weaksauce",
+        "tags": [],
+        "summary": "详细探讨如何对Ruby中的路径处理方法进行性能优化。"
+      },
+      {
+        "id": 47815774,
+        "title": "Migrating from DigitalOcean to Hetzner",
+        "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+        "domain": "isayeter.com",
+        "score": 674,
+        "descendants": 348,
+        "by": "yusufusta",
+        "tags": [],
+        "summary": "从DigitalOcean迁移至Hetzner的技术与成本分析报告。"
+      },
+      {
+        "id": 47818700,
+        "title": "Thoughts and feelings around Claude Design",
+        "url": "https://samhenri.gold/blog/20260418-claude-design/",
+        "domain": "samhenri.gold",
+        "score": 221,
+        "descendants": 152,
+        "by": "cdrnsf",
+        "tags": [
+          "AI"
+        ],
+        "summary": "设计师分享对Claude设计语言及交互体验的深度思考与感受。"
+      },
+      {
+        "id": 47815118,
+        "title": "State of Kdenlive",
+        "url": "https://kdenlive.org/news/2026/state-2026/",
+        "domain": "kdenlive.org",
+        "score": 333,
+        "descendants": 112,
+        "by": "f_r_d",
+        "tags": [],
+        "summary": "回顾并总结开源视频剪辑软件Kdenlive的当前开发状态与未来规划。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nist.gov",
+          "count": 1
+        },
+        {
+          "domain": "tokens.billchambers.me",
+          "count": 1
+        },
+        {
+          "domain": "righto.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 262,
+      "max_score": {
+        "title": "Migrating from DigitalOcean to Hetzner",
+        "score": 674
+      },
+      "most_discussed": {
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "comments": 426
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖硬核工程与软件开发实践，重点关注从光电物理到轨道交通等复杂系统的深度分析。同时，AI写作带来的学术反思及针对性的基础设施迁移方案也引发了社区的广泛讨论。"
+  }
+}
