@@ -149,5 +149,153 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖硬核工程与软件开发实践，重点关注从光电物理到轨道交通等复杂系统的深度分析。同时，AI写作带来的学术反思及针对性的基础设施迁移方案也引发了社区的广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-04-19 13:52",
+    "stories": [
+      {
+        "id": 47819453,
+        "title": "NIST scientists create 'any wavelength' lasers",
+        "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+        "domain": "nist.gov",
+        "score": 242,
+        "descendants": 105,
+        "by": "rbanffy",
+        "tags": []
+      },
+      {
+        "id": 47816960,
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "url": "https://tokens.billchambers.me/leaderboard",
+        "domain": "tokens.billchambers.me",
+        "score": 479,
+        "descendants": 479,
+        "by": "anabranch",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47818485,
+        "title": "College instructor turns to typewriters to curb AI-written work",
+        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+        "domain": "sentinelcolorado.com",
+        "score": 219,
+        "descendants": 201,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47806021,
+        "title": "What Are Skiplists Good For?",
+        "url": "https://antithesis.com/blog/2026/skiptrees/",
+        "domain": "antithesis.com",
+        "score": 21,
+        "descendants": 3,
+        "by": "mfiguiere",
+        "tags": []
+      },
+      {
+        "id": 47791771,
+        "title": "Updating Gun Rocket through 10 years of Unity Engine",
+        "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+        "domain": "jackpritz.com",
+        "score": 53,
+        "descendants": 16,
+        "by": "tyleo",
+        "tags": []
+      },
+      {
+        "id": 47817132,
+        "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+        "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+        "domain": "righto.com",
+        "score": 308,
+        "descendants": 87,
+        "by": "NelsonMinar",
+        "tags": []
+      },
+      {
+        "id": 47783890,
+        "title": "Metatextual Literacy",
+        "url": "https://www.jenn.site/metatextual-literacy/",
+        "domain": "jenn.site",
+        "score": 14,
+        "descendants": 1,
+        "by": "dado3212",
+        "tags": []
+      },
+      {
+        "id": 47820195,
+        "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+        "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+        "domain": "abacusnoir.com",
+        "score": 57,
+        "descendants": 21,
+        "by": "agambrahma",
+        "tags": [
+          "AI",
+          "Web",
+          "Systems",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 47815395,
+        "title": "Why Japan has such good railways",
+        "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+        "domain": "worksinprogress.co",
+        "score": 353,
+        "descendants": 351,
+        "by": "RickJWagner",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47779659,
+        "title": "Modern Common Lisp with FSet",
+        "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+        "domain": "fset.common-lisp.dev",
+        "score": 125,
+        "descendants": 15,
+        "by": "larve",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nist.gov",
+          "count": 1
+        },
+        {
+          "domain": "tokens.billchambers.me",
+          "count": 1
+        },
+        {
+          "domain": "sentinelcolorado.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 187,
+      "max_score": {
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "score": 479
+      },
+      "most_discussed": {
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "comments": 479
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": ""
   }
 }
