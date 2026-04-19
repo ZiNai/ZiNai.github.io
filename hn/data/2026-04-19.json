@@ -297,5 +297,157 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-04-19 20:53",
+    "stories": [
+      {
+        "id": 47806096,
+        "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+        "url": "https://archive.org/details/byte-magazine-1975-09",
+        "domain": "archive.org",
+        "score": 130,
+        "descendants": 32,
+        "by": "DamnInteresting",
+        "tags": [],
+        "summary": "互联网档案馆收录了自1975年创刊号以来的完整《Byte》杂志档案，供读者重温个人计算历史。"
+      },
+      {
+        "id": 47822805,
+        "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+        "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+        "domain": "usenix.org",
+        "score": 80,
+        "descendants": 34,
+        "by": "Eridanus2",
+        "tags": [],
+        "summary": "这篇2017年的论文展示了如何利用音频扬声器作为麦克风收集信息的安全风险与技术实现。"
+      },
+      {
+        "id": 47793161,
+        "title": "Game devs explain the tricks involved with letting you pause a game",
+        "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+        "domain": "kotaku.com",
+        "score": 186,
+        "descendants": 119,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "游戏开发者深入解析了在复杂的游戏循环中实现“暂停”功能背后的技术逻辑与技巧。"
+      },
+      {
+        "id": 47806021,
+        "title": "What are skiplists good for?",
+        "url": "https://antithesis.com/blog/2026/skiptrees/",
+        "domain": "antithesis.com",
+        "score": 141,
+        "descendants": 27,
+        "by": "mfiguiere",
+        "tags": [],
+        "summary": "文章详细分析了跳表（skiplists）的数据结构特性及其在特定场景下的适用性。"
+      },
+      {
+        "id": 47796759,
+        "title": "Shader Lab, like Photoshop but for shaders",
+        "url": "https://eng.basement.studio/tools/shader-lab",
+        "domain": "eng.basement.studio",
+        "score": 12,
+        "descendants": 0,
+        "by": "ragojose",
+        "tags": [],
+        "summary": "Shader Lab是一款专为着色器编程打造的工具，提供类似Photoshop的直观视觉编辑体验。"
+      },
+      {
+        "id": 47822486,
+        "title": "The seven programming ur-languages (2022)",
+        "url": "https://madhadron.com/programming/seven_ur_languages.html",
+        "domain": "madhadron.com",
+        "score": 48,
+        "descendants": 15,
+        "by": "helloplanets",
+        "tags": [],
+        "summary": "探讨了七种奠定现代编程范式基础的“原型语言”，回顾其对计算机科学的深远影响。"
+      },
+      {
+        "id": 47819453,
+        "title": "NIST scientists create 'any wavelength' lasers",
+        "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+        "domain": "nist.gov",
+        "score": 343,
+        "descendants": 148,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "NIST科学家研发出新型激光技术，能够产生任意波长的光，在光谱学和精密测量领域具有重要意义。"
+      },
+      {
+        "id": 47818485,
+        "title": "College instructor turns to typewriters to curb AI-written work",
+        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+        "domain": "sentinelcolorado.com",
+        "score": 323,
+        "descendants": 320,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ],
+        "summary": "面对AI写作的普及，一位大学讲师选择回归使用打字机进行教学，以应对学术诚信挑战。"
+      },
+      {
+        "id": 47816960,
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "url": "https://tokens.billchambers.me/leaderboard",
+        "domain": "tokens.billchambers.me",
+        "score": 548,
+        "descendants": 534,
+        "by": "anabranch",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析了Opus模型在4.6与4.7版本间请求令牌处理机制的差异及安全性变动。"
+      },
+      {
+        "id": 47823270,
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "domain": "simonwillison.net",
+        "score": 45,
+        "descendants": 14,
+        "by": "pretext",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Simon Willison对比了Claude Opus模型在不同版本间系统提示词的变化，揭示了模型行为调整的细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "archive.org",
+          "count": 1
+        },
+        {
+          "domain": "usenix.org",
+          "count": 1
+        },
+        {
+          "domain": "kotaku.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 186,
+      "max_score": {
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "score": 548
+      },
+      "most_discussed": {
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "comments": 534
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News聚焦技术演进与挑战，涵盖了早期科技档案整理、硬件安全与前沿物理研究等深度话题。同时，关于AI对教育的冲击、模型版本更新的透明度以及经典编程理论的探讨也引发了社区的广泛关注。"
   }
 }
