@@ -160,5 +160,157 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于科技行业的安全与商业动向，包括 Vercel 的重大安全事件及多家 AI 企业的合规与财务风波。同时，开发者社区对 3D 生成技术、瑞士数字化基础设施以及内容管理系统（CMS）的演进表现出持续关注。"
+  },
+  "noon": {
+    "time": "2026-04-20 14:08",
+    "stories": [
+      {
+        "id": 47824463,
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "domain": "bleepingcomputer.com",
+        "score": 658,
+        "descendants": 375,
+        "by": "colesantiago",
+        "tags": [
+          "Security"
+        ],
+        "summary": "报道了 Vercel 在 2026 年 4 月发生的安全事件及其带来的影响。"
+      },
+      {
+        "id": 47822734,
+        "title": "A Brief History of Fish Sauce",
+        "url": "https://www.legalnomads.com/fish-sauce/",
+        "domain": "legalnomads.com",
+        "score": 149,
+        "descendants": 62,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "深入探讨了鱼露的历史渊源及其在全球饮食文化中的演变。"
+      },
+      {
+        "id": 47827259,
+        "title": "Stop trying to engineer your way out of listening to people",
+        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+        "domain": "ashley.rolfmore.com",
+        "score": 123,
+        "descendants": 40,
+        "by": "walterbell",
+        "tags": [],
+        "summary": "探讨职场沟通哲学，强调直接倾听的重要性，反对过度工程化的管理模式。"
+      },
+      {
+        "id": 47828853,
+        "title": "Sudo for Windows (2024)",
+        "url": "https://github.com/microsoft/sudo",
+        "domain": "github.com",
+        "score": 59,
+        "descendants": 32,
+        "by": "luispa",
+        "tags": [],
+        "summary": "介绍了 Windows 版 Sudo 工具的使用及技术实现。"
+      },
+      {
+        "id": 47829178,
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "domain": "simonwillison.net",
+        "score": 48,
+        "descendants": 17,
+        "by": "twapi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Simon Willison 推出的 Claude Token 计数工具，现已支持多模型对比功能。"
+      },
+      {
+        "id": 47826100,
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "domain": "warontherocks.com",
+        "score": 182,
+        "descendants": 90,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "分析了溴元素在全球供应链中的战略重要性及其潜在的供应瓶颈风险。"
+      },
+      {
+        "id": 47804178,
+        "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+        "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+        "domain": "phys.org",
+        "score": 20,
+        "descendants": 4,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "考古发现显示，挪威土丘下的船葬遗迹时间比维京时代更早。"
+      },
+      {
+        "id": 47828896,
+        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+        "url": "https://github.com/shivampkumar/trellis-mac",
+        "domain": "github.com",
+        "score": 133,
+        "descendants": 21,
+        "by": "shivampkumar",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了一个在 Apple Silicon 芯片上原生运行 TRELLIS.2 模型进行 3D 生成的项目。"
+      },
+      {
+        "id": 47780743,
+        "title": "Mechanical Keyboard Sounds – A listening Museum",
+        "url": "https://sheets.works/data-viz/keyboard-sounds",
+        "domain": "sheets.works",
+        "score": 80,
+        "descendants": 30,
+        "by": "akashwadhwani35",
+        "tags": [],
+        "summary": "一个专注于展示各种机械键盘敲击声的在线虚拟博物馆。"
+      },
+      {
+        "id": 47825160,
+        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+        "domain": "pcgamer.com",
+        "score": 188,
+        "descendants": 159,
+        "by": "Brajeshwar",
+        "tags": [],
+        "summary": "Turtle WoW 魔兽经典服在暴雪获得法庭禁令后被迫关闭。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "bleepingcomputer.com",
+          "count": 1
+        },
+        {
+          "domain": "legalnomads.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 164,
+      "max_score": {
+        "title": "Vercel April 2026 security incident",
+        "score": 658
+      },
+      "most_discussed": {
+        "title": "Vercel April 2026 security incident",
+        "comments": 375
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论焦点集中于重大的网络安全事件与科技产业变动，包括 Vercel 的安全事故及暴雪针对魔兽私服的法律行动。此外，社区对人工智能工具（3D 生成与 Token 计数）及跨学科的历史与文化趣味内容表现出持续关注。"
   }
 }
