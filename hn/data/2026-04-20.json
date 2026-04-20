@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-04-20 09:24",
+    "stories": [
+      {
+        "id": 47822734,
+        "title": "A Brief History of Fish Sauce",
+        "url": "https://www.legalnomads.com/fish-sauce/",
+        "domain": "legalnomads.com",
+        "score": 58,
+        "descendants": 21,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "一篇深入探讨鱼露起源与历史演变的文化随笔。"
+      },
+      {
+        "id": 47824463,
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "domain": "bleepingcomputer.com",
+        "score": 516,
+        "descendants": 311,
+        "by": "colesantiago",
+        "tags": [
+          "Security"
+        ],
+        "summary": "报道 Vercel 在 2026 年 4 月遭遇的安全事件及其带来的影响。"
+      },
+      {
+        "id": 47826100,
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "domain": "warontherocks.com",
+        "score": 145,
+        "descendants": 72,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "分析溴资源在关键技术供应链中的战略重要性与潜在瓶颈。"
+      },
+      {
+        "id": 47829280,
+        "title": "The race to build the next WordPress",
+        "url": "https://opencomputer.dev/blog/the-race-to-build-the-next-wordpress/",
+        "domain": "opencomputer.dev",
+        "score": 3,
+        "descendants": 0,
+        "by": "iacguy",
+        "tags": [],
+        "summary": "探讨下一代 WordPress 竞争格局中出现的创新与挑战。"
+      },
+      {
+        "id": 47828896,
+        "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+        "url": "https://github.com/shivampkumar/trellis-mac",
+        "domain": "github.com",
+        "score": 16,
+        "descendants": 0,
+        "by": "shivampkumar",
+        "tags": [
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一款无需 Nvidia GPU 即可在 Mac 芯片上运行的 TRELLIS.2 图像转 3D 工具。"
+      },
+      {
+        "id": 47828420,
+        "title": "2,100 Swiss municipalities showing which provider handles their official email",
+        "url": "https://mxmap.ch/",
+        "domain": "mxmap.ch",
+        "score": 55,
+        "descendants": 15,
+        "by": "doener",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一张可视化地图，展示了瑞士各市镇官方电子邮件的服务商分布。"
+      },
+      {
+        "id": 47808956,
+        "title": "Show HN: A working reference implementation of context engineering",
+        "url": "https://github.com/outcomeops/context-engineering",
+        "domain": "github.com",
+        "score": 21,
+        "descendants": 6,
+        "by": "linsys",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "提供了一份关于“上下文工程（Context Engineering）”的可运行参考实现。"
+      },
+      {
+        "id": 47828444,
+        "title": "Swiss AI Initiative (2023)",
+        "url": "https://www.swiss-ai.org",
+        "domain": "swiss-ai.org",
+        "score": 10,
+        "descendants": 2,
+        "by": "doener",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾 2023 年启动的瑞士人工智能倡议的核心目标。"
+      },
+      {
+        "id": 47826328,
+        "title": "Uber’s Anthropic AI push hits a wall",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
+        "domain": "finance.yahoo.com",
+        "score": 54,
+        "descendants": 65,
+        "by": "dakiol",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析 Uber 与 Anthropic 合作中遇到的商业阻碍与挑战。"
+      },
+      {
+        "id": 47828225,
+        "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+        "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+        "domain": "reuters.com",
+        "score": 74,
+        "descendants": 28,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一家破产 AI 公司的前高管因涉嫌欺诈面临法律指控。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "legalnomads.com",
+          "count": 1
+        },
+        {
+          "domain": "bleepingcomputer.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 95,
+      "max_score": {
+        "title": "Vercel April 2026 security incident",
+        "score": 516
+      },
+      "most_discussed": {
+        "title": "Vercel April 2026 security incident",
+        "comments": 311
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Security",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于科技行业的安全与商业动向，包括 Vercel 的重大安全事件及多家 AI 企业的合规与财务风波。同时，开发者社区对 3D 生成技术、瑞士数字化基础设施以及内容管理系统（CMS）的演进表现出持续关注。"
+  }
+}
