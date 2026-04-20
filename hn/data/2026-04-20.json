@@ -312,5 +312,166 @@
       ]
     },
     "summary": "今日 Hacker News 讨论焦点集中于重大的网络安全事件与科技产业变动，包括 Vercel 的安全事故及暴雪针对魔兽私服的法律行动。此外，社区对人工智能工具（3D 生成与 Token 计数）及跨学科的历史与文化趣味内容表现出持续关注。"
+  },
+  "evening": {
+    "time": "2026-04-20 21:21",
+    "stories": [
+      {
+        "id": 47832248,
+        "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+        "domain": "earthquake.usgs.gov",
+        "score": 88,
+        "descendants": 40,
+        "by": "Someone",
+        "tags": [],
+        "summary": "日本宫古市东北部发生7.4级地震，引发国际关注。"
+      },
+      {
+        "id": 47831621,
+        "title": "GitHub's Fake Star Economy",
+        "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+        "domain": "awesomeagents.ai",
+        "score": 297,
+        "descendants": 181,
+        "by": "Liriel",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "深入揭秘GitHub上存在的大规模虚假星标交易生态及利益链条。"
+      },
+      {
+        "id": 47833558,
+        "title": "ggsql: A Grammar of Graphics for SQL",
+        "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+        "domain": "opensource.posit.co",
+        "score": 16,
+        "descendants": 2,
+        "by": "thomasp85",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍一种将图形语法应用于SQL查询的新型开源工具。"
+      },
+      {
+        "id": 47810531,
+        "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+        "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+        "domain": "newatlas.com",
+        "score": 62,
+        "descendants": 12,
+        "by": "breve",
+        "tags": [],
+        "summary": "研究人员开发出利用聚焦微波技术在复杂表面直接打印电路的方法。"
+      },
+      {
+        "id": 47810101,
+        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+        "domain": "discovermagazine.com",
+        "score": 97,
+        "descendants": 12,
+        "by": "janandonly",
+        "tags": [],
+        "summary": "发现某墓地下方隐藏着由数百万只蜜蜂构成的庞大地下蜂巢网络。"
+      },
+      {
+        "id": 47832222,
+        "title": "NSA is using Anthropic's Mythos despite blacklist",
+        "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+        "domain": "reuters.com",
+        "score": 159,
+        "descendants": 116,
+        "by": "Palmik",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "报道称美国国家安全局尽管处于黑名单限制下，仍在使用Anthropic的Mythos模型。"
+      },
+      {
+        "id": 47819410,
+        "title": "SDF Public Access Unix System",
+        "url": "https://sdf.org/?ssh",
+        "domain": "sdf.org",
+        "score": 108,
+        "descendants": 46,
+        "by": "neehao",
+        "tags": [],
+        "summary": "回顾并介绍老牌公共Unix访问系统SDF的现状与历史意义。"
+      },
+      {
+        "id": 47824463,
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "domain": "bleepingcomputer.com",
+        "score": 789,
+        "descendants": 452,
+        "by": "colesantiago",
+        "tags": [
+          "Security"
+        ],
+        "summary": "详细回顾Vercel在2026年4月发生的大规模安全事故及其影响。"
+      },
+      {
+        "id": 47813616,
+        "title": "What if database branching was easy?",
+        "url": "https://xata.io/blog/what-if-database-branching-was-easy",
+        "domain": "xata.io",
+        "score": 15,
+        "descendants": 5,
+        "by": "tee-es-gee",
+        "tags": [
+          "Database"
+        ],
+        "summary": "探讨数据库分支技术在简化开发工作流中的潜力与应用前景。"
+      },
+      {
+        "id": 47833026,
+        "title": "Why macOS27 won't be supporting Intel anymore",
+        "url": "https://twitter.com/Lina_Hoshino/status/2046112493320458649",
+        "domain": "twitter.com",
+        "score": 33,
+        "descendants": 37,
+        "by": "tasoeur",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "分析macOS 27版本为何决定全面放弃对Intel架构处理器的支持。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "earthquake.usgs.gov",
+          "count": 1
+        },
+        {
+          "domain": "awesomeagents.ai",
+          "count": 1
+        },
+        {
+          "domain": "opensource.posit.co",
+          "count": 1
+        }
+      ],
+      "avg_score": 166,
+      "max_score": {
+        "title": "Vercel April 2026 security incident",
+        "score": 789
+      },
+      "most_discussed": {
+        "title": "Vercel April 2026 security incident",
+        "comments": 452
+      },
+      "hot_tags": [
+        "Database",
+        "Open Source",
+        "AI",
+        "Systems",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了全球突发自然灾害与前沿科技进展，其中Vercel的安全漏洞事件引发了社区对云平台安全的高度关注。此外，GitHub生态的灰色产业及数据库技术创新也成为开发者讨论的热点，展现了安全隐私与技术底层基础设施的并重趋势。"
   }
 }
