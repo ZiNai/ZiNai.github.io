@@ -158,5 +158,151 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于科技巨头的人事变动与AI基础设施的快速迭代。大语言模型领域持续推进推理效率与评估标准，同时开源社区在编程语言解释器及数据可视化SQL工具方面表现活跃，展现出技术深度与实用工具并重的趋势。"
+  },
+  "noon": {
+    "time": "2026-04-21 13:56",
+    "stories": [
+      {
+        "id": 47840219,
+        "title": "John Ternus to become Apple CEO",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "domain": "apple.com",
+        "score": 1519,
+        "descendants": 763,
+        "by": "schappim",
+        "tags": []
+      },
+      {
+        "id": 47844431,
+        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+        "domain": "webmatrices.com",
+        "score": 66,
+        "descendants": 23,
+        "by": "bishwasbh",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47844269,
+        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+        "url": "https://docs.openclaw.ai/providers/anthropic",
+        "domain": "docs.openclaw.ai",
+        "score": 35,
+        "descendants": 16,
+        "by": "jmsflknr",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47843194,
+        "title": "How to make a fast dynamic language interpreter",
+        "url": "https://zef-lang.dev/implementation",
+        "domain": "zef-lang.dev",
+        "score": 114,
+        "descendants": 14,
+        "by": "pizlonator",
+        "tags": []
+      },
+      {
+        "id": 47835411,
+        "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+        "url": "https://mediator.ai/",
+        "domain": "mediator.ai",
+        "score": 20,
+        "descendants": 4,
+        "by": "sanity",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 47823135,
+        "title": "Tim Davis – Probabilistic engineering and the 24-7 employee",
+        "url": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
+        "domain": "timdavis.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "kiyanwang",
+        "tags": []
+      },
+      {
+        "id": 47834565,
+        "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+        "domain": "qwen.ai",
+        "score": 587,
+        "descendants": 312,
+        "by": "mfiguiere",
+        "tags": []
+      },
+      {
+        "id": 47841129,
+        "title": "Jujutsu megamerges for fun and profit",
+        "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+        "domain": "isaaccorbrey.com",
+        "score": 195,
+        "descendants": 72,
+        "by": "icorbrey",
+        "tags": []
+      },
+      {
+        "id": 47797457,
+        "title": "How a subsea cable is repaired",
+        "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+        "domain": "onesteppower.com",
+        "score": 30,
+        "descendants": 7,
+        "by": "slicktux",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47838703,
+        "title": "Kimi vendor verifier – verify accuracy of inference providers",
+        "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+        "domain": "kimi.com",
+        "score": 217,
+        "descendants": 18,
+        "by": "Alifatisk",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apple.com",
+          "count": 1
+        },
+        {
+          "domain": "webmatrices.com",
+          "count": 1
+        },
+        {
+          "domain": "docs.openclaw.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 279,
+      "max_score": {
+        "title": "John Ternus to become Apple CEO",
+        "score": 1519
+      },
+      "most_discussed": {
+        "title": "John Ternus to become Apple CEO",
+        "comments": 763
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": ""
   }
 }
