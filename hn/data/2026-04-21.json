@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-04-21 09:21",
+    "stories": [
+      {
+        "id": 47840219,
+        "title": "John Ternus to become Apple CEO",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "domain": "apple.com",
+        "score": 1129,
+        "descendants": 582,
+        "by": "schappim",
+        "tags": [],
+        "summary": "苹果高管John Ternus即将接任CEO的消息引发行业对公司未来走向的广泛讨论。"
+      },
+      {
+        "id": 47841129,
+        "title": "Jujutsu megamerges for fun and profit",
+        "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+        "domain": "isaaccorbrey.com",
+        "score": 117,
+        "descendants": 28,
+        "by": "icorbrey",
+        "tags": [],
+        "summary": "探讨Jujutsu版本控制系统中通过合并操作实现项目优化与收益的技术逻辑。"
+      },
+      {
+        "id": 47834565,
+        "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+        "domain": "qwen.ai",
+        "score": 525,
+        "descendants": 278,
+        "by": "mfiguiere",
+        "tags": [],
+        "summary": "通义千问发布Qwen3.6-Max-Preview，展示了模型在智能程度与进化速度上的最新进展。"
+      },
+      {
+        "id": 47839645,
+        "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+        "url": "https://github.com/gizmo64k/soulplayer-c64",
+        "domain": "github.com",
+        "score": 71,
+        "descendants": 16,
+        "by": "adunk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "极客挑战：在仅有1MHz频率的Commodore 64古董电脑上成功运行Transformer模型。"
+      },
+      {
+        "id": 47843194,
+        "title": "How to Make a Fast Dynamic Language Interpreter",
+        "url": "https://zef-lang.dev/implementation",
+        "domain": "zef-lang.dev",
+        "score": 11,
+        "descendants": 0,
+        "by": "pizlonator",
+        "tags": [],
+        "summary": "一篇关于如何设计并构建高性能动态语言解释器的技术指南。"
+      },
+      {
+        "id": 47838703,
+        "title": "Kimi vendor verifier – verify accuracy of inference providers",
+        "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+        "domain": "kimi.com",
+        "score": 153,
+        "descendants": 17,
+        "by": "Alifatisk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Kimi推出的供应商验证工具，旨在提升AI推理服务商的输出准确性。"
+      },
+      {
+        "id": 47812749,
+        "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+        "url": "https://prismml.com/news/ternary-bonsai",
+        "domain": "prismml.com",
+        "score": 29,
+        "descendants": 7,
+        "by": "nnx",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "探索Ternary Bonsai在1.58位超低精度下实现顶尖智能水平的研究方案。"
+      },
+      {
+        "id": 47833558,
+        "title": "ggsql: A Grammar of Graphics for SQL",
+        "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+        "domain": "opensource.posit.co",
+        "score": 343,
+        "descendants": 72,
+        "by": "thomasp85",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍ggsql库，它将图形语法（Grammar of Graphics）概念引入SQL数据查询与可视化。"
+      },
+      {
+        "id": 47836784,
+        "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+        "url": "https://words.filippo.io/128-bits/",
+        "domain": "words.filippo.io",
+        "score": 125,
+        "descendants": 55,
+        "by": "hasheddan",
+        "tags": [
+          "Science"
+        ],
+        "summary": "安全专家分析指出，现有量子计算技术并不会对比特对称加密算法构成实质威胁。"
+      },
+      {
+        "id": 47840980,
+        "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+        "domain": "adweek.com",
+        "score": 159,
+        "descendants": 72,
+        "by": "jlark77777",
+        "tags": [
+          "AI"
+        ],
+        "summary": "揭秘OpenAI广告合作伙伴如何利用“提示词相关性”向用户精准投放商业广告。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apple.com",
+          "count": 1
+        },
+        {
+          "domain": "isaaccorbrey.com",
+          "count": 1
+        },
+        {
+          "domain": "qwen.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 266,
+      "max_score": {
+        "title": "John Ternus to become Apple CEO",
+        "score": 1129
+      },
+      "most_discussed": {
+        "title": "John Ternus to become Apple CEO",
+        "comments": 582
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Database",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于科技巨头的人事变动与AI基础设施的快速迭代。大语言模型领域持续推进推理效率与评估标准，同时开源社区在编程语言解释器及数据可视化SQL工具方面表现活跃，展现出技术深度与实用工具并重的趋势。"
+  }
+}
