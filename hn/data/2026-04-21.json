@@ -304,5 +304,165 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-04-21 21:16",
+    "stories": [
+      {
+        "id": 47847179,
+        "title": "Laws of Software Engineering",
+        "url": "https://lawsofsoftwareengineering.com",
+        "domain": "lawsofsoftwareengineering.com",
+        "score": 174,
+        "descendants": 60,
+        "by": "milanm081",
+        "tags": [],
+        "summary": "一份涵盖软件工程核心原则与最佳实践的整理合集。"
+      },
+      {
+        "id": 47847558,
+        "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+        "url": "https://vidstudio.app/video-editor",
+        "domain": "vidstudio.app",
+        "score": 45,
+        "descendants": 11,
+        "by": "kolx",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一款强调隐私保护、无需上传文件即可在浏览器中编辑视频的工具。"
+      },
+      {
+        "id": 47840219,
+        "title": "John Ternus to become Apple CEO",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "domain": "apple.com",
+        "score": 1977,
+        "descendants": 1088,
+        "by": "schappim",
+        "tags": [],
+        "summary": "苹果官方宣布John Ternus即将接任CEO职位的重大人事变动。"
+      },
+      {
+        "id": 47846946,
+        "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+        "url": "https://codemix.com/graph",
+        "domain": "codemix.com",
+        "score": 49,
+        "descendants": 15,
+        "by": "phpnode",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍一种结合CRDT技术的类型安全实时协同图形数据库方案。"
+      },
+      {
+        "id": 47834689,
+        "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+        "url": "http://mnt.stanleylieber.com/reform/",
+        "domain": "mnt.stanleylieber.com",
+        "score": 116,
+        "descendants": 41,
+        "by": "speckx",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 47844269,
+        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+        "url": "https://docs.openclaw.ai/providers/anthropic",
+        "domain": "docs.openclaw.ai",
+        "score": 289,
+        "descendants": 177,
+        "by": "jmsflknr",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic重新开放了对OpenClaw类Claude CLI工具的支持。"
+      },
+      {
+        "id": 47847324,
+        "title": "Tim Cook's Impeccable Timing",
+        "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+        "domain": "stratechery.com",
+        "score": 18,
+        "descendants": 5,
+        "by": "hasheddan",
+        "tags": [],
+        "summary": "深度解析Tim Cook在公司领导权交接时点选择的战略考量。"
+      },
+      {
+        "id": 47847124,
+        "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+        "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+        "domain": "fsfe.org",
+        "score": 96,
+        "descendants": 10,
+        "by": "kirschner",
+        "tags": [],
+        "summary": "报告称苹果无视DMA互操作性请求且与自身技术文档存在矛盾。"
+      },
+      {
+        "id": 47848110,
+        "title": "Show HN: Antenna – RSS reader with a built-in MCP server",
+        "url": "https://antennafeed.com/",
+        "domain": "antennafeed.com",
+        "score": 3,
+        "descendants": 1,
+        "by": "toddllm",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款集成MCP（模型上下文协议）服务器的RSS阅读器。"
+      },
+      {
+        "id": 47844890,
+        "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+        "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+        "domain": "science.org",
+        "score": 65,
+        "descendants": 38,
+        "by": "1659447091",
+        "tags": [
+          "AI"
+        ],
+        "summary": "科学研究表明接触可卡因及其代谢物的鲑鱼表现出更广泛的活动范围。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lawsofsoftwareengineering.com",
+          "count": 1
+        },
+        {
+          "domain": "vidstudio.app",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 283,
+      "max_score": {
+        "title": "John Ternus to become Apple CEO",
+        "score": 1977
+      },
+      "most_discussed": {
+        "title": "John Ternus to become Apple CEO",
+        "comments": 1088
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Web",
+        "Database",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News焦点高度集中在苹果公司的人事变动及合规性挑战上，此外软件工程准则、开源硬件及AI工具应用也是社区讨论的热点。整体呈现出对大型科技公司决策影响力的关注，以及对隐私优先、协作性技术方案的兴趣。"
   }
 }
