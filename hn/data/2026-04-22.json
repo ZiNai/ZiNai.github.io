@@ -157,5 +157,154 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于人工智能开发与安全（OpenAI 新动态、LLM 安全工具、平台漏洞），以及高科技硬件与软件架构的工程讨论。同时，技术界对收购传闻、经典游戏回顾及开源替代方案表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-04-22 13:54",
+    "stories": [
+      {
+        "id": 47842569,
+        "title": "Making RAM at Home [video]",
+        "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+        "domain": "youtube.com",
+        "score": 145,
+        "descendants": 28,
+        "by": "kaipereira",
+        "tags": [],
+        "summary": "一名工程师在家中尝试自制RAM内存条的技术视频。"
+      },
+      {
+        "id": 47852835,
+        "title": "ChatGPT Images 2.0",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "domain": "openai.com",
+        "score": 653,
+        "descendants": 526,
+        "by": "wahnfrieden",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布ChatGPT图像生成技术2.0版本。"
+      },
+      {
+        "id": 47835635,
+        "title": "Acetaminophen vs. ibuprofen",
+        "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+        "domain": "asteriskmag.com",
+        "score": 193,
+        "descendants": 74,
+        "by": "nkurz",
+        "tags": [],
+        "summary": "关于对乙酰氨基酚与布洛芬在药理作用与安全性方面的深度对比分析。"
+      },
+      {
+        "id": 47846861,
+        "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+        "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
+        "domain": "courthousenews.com",
+        "score": 45,
+        "descendants": 0,
+        "by": "geox",
+        "tags": [],
+        "summary": "火星探测任务首次通过SAM TMAH实验发现了多种有机分子。"
+      },
+      {
+        "id": 47855293,
+        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+        "url": "https://twitter.com/spacex/status/2046713419978453374",
+        "domain": "twitter.com",
+        "score": 459,
+        "descendants": 568,
+        "by": "dmarcos",
+        "tags": [
+          "Science"
+        ],
+        "summary": "关于SpaceX计划以600亿美元收购AI编程工具Cursor的传闻及讨论。"
+      },
+      {
+        "id": 47856535,
+        "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+        "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+        "domain": "luminousmen.substack.com",
+        "score": 100,
+        "descendants": 49,
+        "by": "zdw",
+        "tags": [],
+        "summary": "一位资深工程师总结的职业发展感悟与职场经验分享。"
+      },
+      {
+        "id": 47851634,
+        "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+        "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+        "domain": "trendmicro.com",
+        "score": 299,
+        "descendants": 105,
+        "by": "queenelvis",
+        "tags": [],
+        "summary": "分析Vercel平台因OAuth攻击导致的敏感环境变量泄露事件及风险。"
+      },
+      {
+        "id": 47847179,
+        "title": "Laws of Software Engineering",
+        "url": "https://lawsofsoftwareengineering.com",
+        "domain": "lawsofsoftwareengineering.com",
+        "score": 903,
+        "descendants": 450,
+        "by": "milanm081",
+        "tags": [],
+        "summary": "整理并归纳软件工程领域的关键原则与实战规律。"
+      },
+      {
+        "id": 47851885,
+        "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+        "url": "https://britannica11.org/",
+        "domain": "britannica11.org",
+        "score": 258,
+        "descendants": 93,
+        "by": "ahaspel",
+        "tags": [],
+        "summary": "一个将1911年版大英百科全书数字化并进行结构化处理的项目。"
+      },
+      {
+        "id": 47835837,
+        "title": "A printing press for biological data",
+        "url": "https://www.owlposting.com/p/the-printing-press-for-biological",
+        "domain": "owlposting.com",
+        "score": 15,
+        "descendants": 0,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "探讨如何构建一种用于生物数据的打印技术。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "asteriskmag.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 307,
+      "max_score": {
+        "title": "Laws of Software Engineering",
+        "score": 903
+      },
+      "most_discussed": {
+        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+        "comments": 568
+      },
+      "hot_tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿AI动态、软件工程的深度思考与实践，以及硬核的工程技术突破。从行业安全警示到复古知识库的数字化整理，展现了社区对技术深度与现实工程应用的高度关注。"
   }
 }
