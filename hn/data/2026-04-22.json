@@ -306,5 +306,165 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿AI动态、软件工程的深度思考与实践，以及硬核的工程技术突破。从行业安全警示到复古知识库的数字化整理，展现了社区对技术深度与现实工程应用的高度关注。"
+  },
+  "evening": {
+    "time": "2026-04-22 21:18",
+    "stories": [
+      {
+        "id": 47861270,
+        "title": "Windows 9x Subsystem for Linux",
+        "url": "https://social.hails.org/@hailey/116446826733136456",
+        "domain": "social.hails.org",
+        "score": 300,
+        "descendants": 68,
+        "by": "sohkamyung",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一个在 Windows 9x 系统上实现 Linux 子系统的实验性项目。"
+      },
+      {
+        "id": 47862386,
+        "title": "3.4M Solar Panels",
+        "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+        "domain": "tech.marksblogg.com",
+        "score": 68,
+        "descendants": 9,
+        "by": "marklit",
+        "tags": [],
+        "summary": "探讨 340 万块太阳能电池板规模下的能源基础设施建设挑战。"
+      },
+      {
+        "id": 47862331,
+        "title": "GitHub CLI now collects pseudoanonymous telemetry",
+        "url": "https://cli.github.com/telemetry",
+        "domain": "cli.github.com",
+        "score": 77,
+        "descendants": 36,
+        "by": "ingve",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub CLI 开始收集伪匿名遥测数据引发社区对隐私的讨论。"
+      },
+      {
+        "id": 47862497,
+        "title": "Our eighth generation TPUs: two chips for the agentic era",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+        "domain": "blog.google",
+        "score": 37,
+        "descendants": 16,
+        "by": "xnx",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Google 发布第八代 TPU，专门针对智能体时代的计算需求进行了优化。"
+      },
+      {
+        "id": 47861731,
+        "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
+        "url": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+        "domain": "news.alvaroduran.com",
+        "score": 54,
+        "descendants": 20,
+        "by": "ohduran",
+        "tags": [],
+        "summary": "深度复盘 Uber 因账本错误导致 800 万美元损失及其背后的责任追究争议。"
+      },
+      {
+        "id": 47842569,
+        "title": "Making RAM at Home [video]",
+        "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+        "domain": "youtube.com",
+        "score": 445,
+        "descendants": 125,
+        "by": "kaipereira",
+        "tags": [],
+        "summary": "技术硬核玩家在自制内存条过程中的工程挑战与实录视频。"
+      },
+      {
+        "id": 47861087,
+        "title": "How the Heck Does GPS Work?",
+        "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+        "domain": "perthirtysix.com",
+        "score": 84,
+        "descendants": 18,
+        "by": "alfanick",
+        "tags": [],
+        "summary": "从原理层面深入浅出地解析全球定位系统 (GPS) 的运行逻辑。"
+      },
+      {
+        "id": 47852835,
+        "title": "ChatGPT Images 2.0",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "domain": "openai.com",
+        "score": 908,
+        "descendants": 762,
+        "by": "wahnfrieden",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 推出 ChatGPT Images 2.0，在多模态生成能力上实现重大升级。"
+      },
+      {
+        "id": 47862626,
+        "title": "Columnar Storage Is Normalization",
+        "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+        "domain": "buttondown.com",
+        "score": 8,
+        "descendants": 2,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "提出列式存储本质上是数据规范化的一种形式的观点探讨。"
+      },
+      {
+        "id": 47862230,
+        "title": "Kernel code removals driven by LLM-created security reports",
+        "url": "https://lwn.net/Articles/1068928/",
+        "domain": "lwn.net",
+        "score": 17,
+        "descendants": 2,
+        "by": "edward",
+        "tags": [
+          "AI",
+          "Systems",
+          "Security"
+        ],
+        "summary": "讨论在 LLM 生成的安全报告驱动下，内核代码移除所带来的合规与安全影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "social.hails.org",
+          "count": 1
+        },
+        {
+          "domain": "tech.marksblogg.com",
+          "count": 1
+        },
+        {
+          "domain": "cli.github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 200,
+      "max_score": {
+        "title": "ChatGPT Images 2.0",
+        "score": 908
+      },
+      "most_discussed": {
+        "title": "ChatGPT Images 2.0",
+        "comments": 762
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Open Source",
+        "Hardware",
+        "Security"
+      ]
+    },
+    "summary": "今日 Hacker News 关注焦点集中在 AI 技术迭代与底层系统工程的交叉领域，既有对 OpenAI 新版图像生成技术的广泛讨论，也涵盖了 TPU 架构演进及内核开发中自动化工具的应用。此外，硬件自制与技术史背景下的科普内容也引发了社区的浓厚兴趣。"
   }
 }
