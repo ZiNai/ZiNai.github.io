@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-04-22 09:19",
+    "stories": [
+      {
+        "id": 47852835,
+        "title": "ChatGPT Images 2.0",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "domain": "openai.com",
+        "score": 402,
+        "descendants": 394,
+        "by": "wahnfrieden",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 发布 ChatGPT Images 2.0，引发关于图像生成能力提升的广泛讨论。"
+      },
+      {
+        "id": 47855293,
+        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+        "url": "https://twitter.com/spacex/status/2046713419978453374",
+        "domain": "twitter.com",
+        "score": 203,
+        "descendants": 287,
+        "by": "dmarcos",
+        "tags": [
+          "Science"
+        ],
+        "summary": "传闻 SpaceX 拟以 600 亿美元收购 AI 编程工具 Cursor，引发科技圈关于市场整合的巨大争议。"
+      },
+      {
+        "id": 47851634,
+        "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+        "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+        "domain": "trendmicro.com",
+        "score": 255,
+        "descendants": 97,
+        "by": "queenelvis",
+        "tags": [],
+        "summary": "Vercel 发生 OAuth 安全漏洞，暴露了平台环境变量在云环境中的潜在风险。"
+      },
+      {
+        "id": 47850212,
+        "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+        "url": "https://www.brex.com/crabtrap",
+        "domain": "brex.com",
+        "score": 69,
+        "descendants": 13,
+        "by": "pedrofranceschi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Brex 开源 CrabTrap，一种用于生产环境代理、通过 LLM 判断来增强 AI Agent 安全性的方案。"
+      },
+      {
+        "id": 47814874,
+        "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+        "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+        "domain": "thinkygames.com",
+        "score": 129,
+        "descendants": 61,
+        "by": "tobr",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度回顾经典游戏《Stephen's Sausage Roll》，探讨其作为推理解谜游戏的深远影响力。"
+      },
+      {
+        "id": 47821801,
+        "title": "Windows Server 2025 Runs Better on ARM",
+        "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+        "domain": "jasoneckert.github.io",
+        "score": 16,
+        "descendants": 2,
+        "by": "jasoneckert",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "测试表明 Windows Server 2025 在 ARM 架构上展现出更优的性能表现。"
+      },
+      {
+        "id": 47851885,
+        "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+        "url": "https://britannica11.org/",
+        "domain": "britannica11.org",
+        "score": 212,
+        "descendants": 89,
+        "by": "ahaspel",
+        "tags": [],
+        "summary": "Britannica11.org 将 1911 年版大英百科全书整理为结构化版本，便于数字时代检索。"
+      },
+      {
+        "id": 47847179,
+        "title": "Laws of Software Engineering",
+        "url": "https://lawsofsoftwareengineering.com",
+        "domain": "lawsofsoftwareengineering.com",
+        "score": 813,
+        "descendants": 412,
+        "by": "milanm081",
+        "tags": [],
+        "summary": "整理并探讨软件工程中的核心原则，旨在提升开发实践与系统架构的设计质量。"
+      },
+      {
+        "id": 47852177,
+        "title": "Framework Laptop 13 Pro",
+        "url": "https://frame.work/laptop13pro",
+        "domain": "frame.work",
+        "score": 896,
+        "descendants": 502,
+        "by": "Trollmann",
+        "tags": [],
+        "summary": "Framework Laptop 13 Pro 正式发布，持续推动模块化、可维修笔记本电脑的发展。"
+      },
+      {
+        "id": 47852155,
+        "title": "Cal.diy: open-source community edition of cal.com",
+        "url": "https://github.com/calcom/cal.diy",
+        "domain": "github.com",
+        "score": 146,
+        "descendants": 39,
+        "by": "petecooper",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Cal.diy 发布，作为 Cal.com 的开源社区版本，提供可自托管的日程安排解决方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "trendmicro.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 314,
+      "max_score": {
+        "title": "Framework Laptop 13 Pro",
+        "score": 896
+      },
+      "most_discussed": {
+        "title": "Framework Laptop 13 Pro",
+        "comments": 502
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能开发与安全（OpenAI 新动态、LLM 安全工具、平台漏洞），以及高科技硬件与软件架构的工程讨论。同时，技术界对收购传闻、经典游戏回顾及开源替代方案表现出浓厚兴趣。"
+  }
+}
