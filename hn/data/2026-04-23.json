@@ -315,5 +315,153 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了前沿 AI 模型发布、隐私安全漏洞分析以及独特的工程技术实践。开发者群体展现了对低功耗设计、系统底层原理及逆向工程研究的持续关注，同时社会性议题如企业并购与隐私保护依然引发热烈讨论。"
+  },
+  "evening": {
+    "time": "2026-04-23 21:18",
+    "stories": [
+      {
+        "id": 47874814,
+        "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+        "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+        "domain": "techcrunch.com",
+        "score": 91,
+        "descendants": 21,
+        "by": "mentalgear",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "调查显示监控厂商利用电信网络漏洞追踪民众地理位置，引发对个人隐私权的深层忧虑。"
+      },
+      {
+        "id": 47874647,
+        "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+        "url": "https://github.com/russellromney/honker",
+        "domain": "github.com",
+        "score": 47,
+        "descendants": 9,
+        "by": "russellthehippo",
+        "tags": [
+          "Database",
+          "Show HN"
+        ],
+        "summary": "一个为SQLite引入Postgres式NOTIFY/LISTEN通信机制的开源工具。"
+      },
+      {
+        "id": 47872324,
+        "title": "I am building a cloud",
+        "url": "https://crawshaw.io/blog/building-a-cloud",
+        "domain": "crawshaw.io",
+        "score": 568,
+        "descendants": 282,
+        "by": "bumbledraven",
+        "tags": [],
+        "summary": "一位开发者详述其从零构建云平台的工程挑战与思考。"
+      },
+      {
+        "id": 47874631,
+        "title": "Sneaky spam in conversational replies to blog posts",
+        "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+        "domain": "shkspr.mobi",
+        "score": 32,
+        "descendants": 9,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "博主揭露博客评论区中伪装成正常对话的垃圾广告策略。"
+      },
+      {
+        "id": 47865868,
+        "title": "Alberta startup sells no-tech tractors for half price",
+        "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+        "domain": "wheelfront.com",
+        "score": 1885,
+        "descendants": 626,
+        "by": "Kaibeezy",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "阿尔伯塔一家初创公司通过去技术化设计，以半价提供实用性极高的拖拉机。"
+      },
+      {
+        "id": 47846688,
+        "title": "Your hex editor should color-code bytes",
+        "url": "https://simonomi.dev/blog/color-code-your-bytes/",
+        "domain": "simonomi.dev",
+        "score": 206,
+        "descendants": 59,
+        "by": "tobr",
+        "tags": [],
+        "summary": "探讨为何十六进制编辑器应当引入色彩编码来提升二进制数据分析的效率。"
+      },
+      {
+        "id": 47868867,
+        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+        "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+        "domain": "techcrunch.com",
+        "score": 666,
+        "descendants": 166,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "苹果修复了此前被执法部门用于提取iPhone已删除聊天记录的关键安全漏洞。"
+      },
+      {
+        "id": 47873694,
+        "title": "Writing a C Compiler, in Zig",
+        "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+        "domain": "ar-ms.me",
+        "score": 43,
+        "descendants": 7,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分享作者使用Zig语言编写C语言编译器的开发历程与心得。"
+      },
+      {
+        "id": 47866697,
+        "title": "We found a stable Firefox identifier linking all your private Tor identities",
+        "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+        "domain": "fingerprint.com",
+        "score": 776,
+        "descendants": 229,
+        "by": "danpinto",
+        "tags": [
+          "Web"
+        ],
+        "summary": "研究人员发现Firefox存在指纹漏洞，可能导致用户在Tor网络中的不同身份被关联。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "techcrunch.com",
+          "count": 2
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "crawshaw.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 479,
+      "max_score": {
+        "title": "Alberta startup sells no-tech tractors for half price",
+        "score": 1885
+      },
+      "most_discussed": {
+        "title": "Alberta startup sells no-tech tractors for half price",
+        "comments": 626
+      },
+      "hot_tags": [
+        "Systems",
+        "Database",
+        "Show HN",
+        "Startup",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在隐私安全与底层技术开发上。除了关于监控厂商滥用电信数据和浏览器指纹追踪的严重安全警告，社区对构建云基础设施、编译器设计及各种硬件与软件工程实践展现出浓厚兴趣。"
   }
 }
