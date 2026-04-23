@@ -158,5 +158,162 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中在AI模型与编程工具的进展，包括Qwen3.6的新模型发布与代码优化探讨。此外，隐私安全领域的硬件与浏览器指纹漏洞，以及行业的技术债务反思也是社区讨论的热点。"
+  },
+  "noon": {
+    "time": "2026-04-23 13:59",
+    "stories": [
+      {
+        "id": 47865868,
+        "title": "Alberta startup sells no-tech tractors for half price",
+        "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+        "domain": "wheelfront.com",
+        "score": 1582,
+        "descendants": 518,
+        "by": "Kaibeezy",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "一家阿尔伯塔初创公司通过去技术化设计，将拖拉机价格降低了一半。"
+      },
+      {
+        "id": 47872324,
+        "title": "I am building a cloud",
+        "url": "https://crawshaw.io/blog/building-a-cloud",
+        "domain": "crawshaw.io",
+        "score": 62,
+        "descendants": 8,
+        "by": "bumbledraven",
+        "tags": [],
+        "summary": "一位开发者分享了构建个人云服务基础设施的实践过程。"
+      },
+      {
+        "id": 47868867,
+        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+        "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+        "domain": "techcrunch.com",
+        "score": 506,
+        "descendants": 124,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "苹果修复了一个曾被警方用于提取被删 iPhone 聊天记录的关键漏洞。"
+      },
+      {
+        "id": 47835366,
+        "title": "How does Shazam work?",
+        "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+        "domain": "perthirtysix.com",
+        "score": 129,
+        "descendants": 29,
+        "by": "datadrivenangel",
+        "tags": [],
+        "summary": "深度解析 Shazam 音频识别算法背后的技术原理。"
+      },
+      {
+        "id": 47866697,
+        "title": "We found a stable Firefox identifier linking all your private Tor identities",
+        "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+        "domain": "fingerprint.com",
+        "score": 572,
+        "descendants": 163,
+        "by": "danpinto",
+        "tags": [
+          "Web"
+        ],
+        "summary": "研究人员发现 Firefox 中存在漏洞，可跨私有 Tor 身份追踪用户指纹。"
+      },
+      {
+        "id": 47863217,
+        "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+        "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+        "domain": "qwen.ai",
+        "score": 787,
+        "descendants": 371,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "阿里发布 Qwen3.6-27B 模型，在保持较小体积的同时实现了旗舰级的代码生成能力。"
+      },
+      {
+        "id": 47871817,
+        "title": "Borrow-checking without type-checking",
+        "url": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+        "domain": "scattered-thoughts.net",
+        "score": 40,
+        "descendants": 3,
+        "by": "jamii",
+        "tags": [],
+        "summary": "探讨如何在不进行完整类型检查的情况下实现借用检查机制。"
+      },
+      {
+        "id": 47846718,
+        "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
+        "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
+        "domain": "quantamagazine.org",
+        "score": 29,
+        "descendants": 1,
+        "by": "Prof_Sigmund",
+        "tags": [
+          "Security",
+          "Science"
+        ],
+        "summary": "Quanta Magazine 探讨生物物理学中驱动生物机能的核心动力机制。"
+      },
+      {
+        "id": 47824943,
+        "title": "5x5 Pixel font for tiny screens",
+        "url": "https://maurycyz.com/projects/mcufont/",
+        "domain": "maurycyz.com",
+        "score": 516,
+        "descendants": 118,
+        "by": "zdw",
+        "tags": [],
+        "summary": "为极小尺寸屏幕设计的 5x5 像素字体方案。"
+      },
+      {
+        "id": 47843434,
+        "title": "The Onion to Take over InfoWars",
+        "url": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
+        "domain": "nytimes.com",
+        "score": 51,
+        "descendants": 4,
+        "by": "lxm",
+        "tags": [],
+        "summary": "讽刺新闻网站 The Onion 成功收购阴谋论媒体 InfoWars。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "wheelfront.com",
+          "count": 1
+        },
+        {
+          "domain": "crawshaw.io",
+          "count": 1
+        },
+        {
+          "domain": "techcrunch.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 427,
+      "max_score": {
+        "title": "Alberta startup sells no-tech tractors for half price",
+        "score": 1582
+      },
+      "most_discussed": {
+        "title": "Alberta startup sells no-tech tractors for half price",
+        "comments": 518
+      },
+      "hot_tags": [
+        "Startup",
+        "Web",
+        "AI",
+        "Security",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了前沿 AI 模型发布、隐私安全漏洞分析以及独特的工程技术实践。开发者群体展现了对低功耗设计、系统底层原理及逆向工程研究的持续关注，同时社会性议题如企业并购与隐私保护依然引发热烈讨论。"
   }
 }
