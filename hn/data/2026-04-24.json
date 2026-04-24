@@ -323,5 +323,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能领域的剧烈变动，包括 DeepSeek v4、GPT-5.5 的动态及 Claude 的质量反馈，反映了行业竞争的加剧。与此同时，科技界的安全挑战和企业人事调整也成为关注重点，显示出当前技术生态在高速迭代下的不确定性与风险并存。"
+  },
+  "evening": {
+    "time": "2026-04-24 21:14",
+    "stories": [
+      {
+        "id": 47888557,
+        "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+        "url": "https://www.bmj.com/content/393/bmj.s781",
+        "domain": "bmj.com",
+        "score": 107,
+        "descendants": 37,
+        "by": "dberhane",
+        "tags": [
+          "AI"
+        ],
+        "summary": "英国生物银行发生严重数据泄露，涉及50万人的医疗详细信息被黑客挂网兜售。"
+      },
+      {
+        "id": 47887683,
+        "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+        "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+        "domain": "bbc.com",
+        "score": 139,
+        "descendants": 84,
+        "by": "giuliomagnifico",
+        "tags": [
+          "AI"
+        ],
+        "summary": "韩国警方因一名男子利用AI生成狼群出逃图片造成社会混乱而将其逮捕。"
+      },
+      {
+        "id": 47889279,
+        "title": "The operating cost of adult and gambling startups",
+        "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
+        "domain": "orchidfiles.com",
+        "score": 28,
+        "descendants": 8,
+        "by": "theorchid",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "文章深入分析了博彩类创业公司的运营成本结构与财务逻辑。"
+      },
+      {
+        "id": 47888372,
+        "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+        "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+        "domain": "nate.leaflet.pub",
+        "score": 83,
+        "descendants": 64,
+        "by": "calcifer",
+        "tags": [],
+        "summary": "探讨如何通过疏离且不连贯的社交体验来达成一种反社交的生活方式。"
+      },
+      {
+        "id": 47887334,
+        "title": "Spinel: Ruby AOT Native Compiler",
+        "url": "https://github.com/matz/spinel",
+        "domain": "github.com",
+        "score": 124,
+        "descendants": 27,
+        "by": "dluan",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍 Spinel 项目，这是一个针对 Ruby 语言的实验性预先（AOT）编译编译器。"
+      },
+      {
+        "id": 47889030,
+        "title": "Aspartame is not that bad?",
+        "url": "https://dynomight.net/aspartame/",
+        "domain": "dynomight.net",
+        "score": 26,
+        "descendants": 15,
+        "by": "pHequals7",
+        "tags": [],
+        "summary": "基于多项研究探讨代糖阿斯巴甜的安全性争议，重新评估其对健康的实际影响。"
+      },
+      {
+        "id": 47884971,
+        "title": "DeepSeek v4",
+        "url": "https://api-docs.deepseek.com/",
+        "domain": "api-docs.deepseek.com",
+        "score": 1225,
+        "descendants": 869,
+        "by": "impact_sy",
+        "tags": [],
+        "summary": "DeepSeek 正式发布 v4 版本，详细介绍了该大模型的架构改进与 API 技术细节。"
+      },
+      {
+        "id": 47888124,
+        "title": "Mounting tar archives as a filesystem in WebAssembly",
+        "url": "https://jeroen.github.io/notes/webassembly-tar/",
+        "domain": "jeroen.github.io",
+        "score": 28,
+        "descendants": 4,
+        "by": "datajeroen",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "技术演示如何利用 WebAssembly 技术将 tar 归档文件直接挂载为可读文件系统。"
+      },
+      {
+        "id": 47882645,
+        "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+        "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+        "domain": "cnn.com",
+        "score": 355,
+        "descendants": 399,
+        "by": "nkrisc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一名美军特种部队成员因涉嫌参与针对马杜罗的突袭行动并非法获利40万美元被捕。"
+      },
+      {
+        "id": 47884768,
+        "title": "Why I Write (1946)",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+        "domain": "orwellfoundation.com",
+        "score": 199,
+        "descendants": 50,
+        "by": "RyanShook",
+        "tags": [],
+        "summary": "乔治·奥威尔在1946年撰写的经典名篇，深刻阐述了作者作为作家的动机与写作目的。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bmj.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        },
+        {
+          "domain": "orchidfiles.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 231,
+      "max_score": {
+        "title": "DeepSeek v4",
+        "score": 1225
+      },
+      "most_discussed": {
+        "title": "DeepSeek v4",
+        "comments": 869
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Startup",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在重磅 AI 模型 DeepSeek v4 的发布，以及围绕网络安全、地缘政治与社会现象的深度探讨。整体讨论呈现出从前沿技术演进到生物数据安全及社会法律边界的多样化视角。"
   }
 }
