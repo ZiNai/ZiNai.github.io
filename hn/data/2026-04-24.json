@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-04-24 09:24",
+    "stories": [
+      {
+        "id": 47879092,
+        "title": "GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "domain": "openai.com",
+        "score": 1066,
+        "descendants": 717,
+        "by": "rd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布GPT-5.5，引发社区对其模型能力与性能提升的广泛讨论。"
+      },
+      {
+        "id": 47876043,
+        "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+        "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+        "domain": "socket.dev",
+        "score": 637,
+        "descendants": 309,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Bitwarden命令行工具遭到供应链攻击，安全专家提醒开发者审查相关依赖。"
+      },
+      {
+        "id": 47882697,
+        "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+        "url": "https://github.com/refactoringhq/tolaria",
+        "domain": "github.com",
+        "score": 83,
+        "descendants": 28,
+        "by": "lucaronin",
+        "tags": [
+          "Systems",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "开源macOS应用Tolaria发布，旨在通过本地化管理简化Markdown知识库的维护。"
+      },
+      {
+        "id": 47883108,
+        "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+        "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+        "domain": "justice.gov",
+        "score": 183,
+        "descendants": 84,
+        "by": "paulpauper",
+        "tags": [],
+        "summary": "一名美军士兵因利用机密情报获利参与预测市场而被官方起诉。"
+      },
+      {
+        "id": 47878117,
+        "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+        "url": "https://blog.meshcore.io/2026/04/23/the-split",
+        "domain": "blog.meshcore.io",
+        "score": 149,
+        "descendants": 87,
+        "by": "wielebny",
+        "tags": [
+          "AI"
+        ],
+        "summary": "MeshCore开发团队因商标纠纷及过度依赖AI生成代码产生分裂。"
+      },
+      {
+        "id": 47881786,
+        "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+        "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+        "domain": "developers.googleblog.com",
+        "score": 46,
+        "descendants": 2,
+        "by": "mji",
+        "tags": [],
+        "summary": "谷歌官方介绍TorchTPU，旨在实现PyTorch在TPU硬件上的原生高性能运行。"
+      },
+      {
+        "id": 47878905,
+        "title": "An update on recent Claude Code quality reports",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "domain": "anthropic.com",
+        "score": 561,
+        "descendants": 424,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic针对Claude Code近期收到的质量反馈做出公开回应并更新进展。"
+      },
+      {
+        "id": 47872324,
+        "title": "I am building a cloud",
+        "url": "https://crawshaw.io/blog/building-a-cloud",
+        "domain": "crawshaw.io",
+        "score": 987,
+        "descendants": 487,
+        "by": "bumbledraven",
+        "tags": [],
+        "summary": "开发者分享其从零开始构建云平台的深度技术实践与思考。"
+      },
+      {
+        "id": 47877644,
+        "title": "Incident with multple GitHub services",
+        "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+        "domain": "githubstatus.com",
+        "score": 205,
+        "descendants": 99,
+        "by": "bwannasek",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub通报近期发生的多项服务中断事故及修复情况。"
+      },
+      {
+        "id": 47865822,
+        "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+        "url": "https://github.com/Infisical/agent-vault",
+        "domain": "github.com",
+        "score": 66,
+        "descendants": 21,
+        "by": "dangtony98",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "Agent Vault项目发布，提供开源的凭证代理与保险箱服务，专为AI代理设计。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "socket.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 398,
+      "max_score": {
+        "title": "GPT-5.5",
+        "score": 1066
+      },
+      "most_discussed": {
+        "title": "GPT-5.5",
+        "comments": 717
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术演进、网络安全风险以及开发者工具的最新动态。OpenAI与Anthropic的动作引发关注，同时供应链攻击和云基础设施构建等技术挑战成为社区讨论的核心议题。"
+  }
+}
