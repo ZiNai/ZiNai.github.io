@@ -162,5 +162,166 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术演进、网络安全风险以及开发者工具的最新动态。OpenAI与Anthropic的动作引发关注，同时供应链攻击和云基础设施构建等技术挑战成为社区讨论的核心议题。"
+  },
+  "noon": {
+    "time": "2026-04-24 14:01",
+    "stories": [
+      {
+        "id": 47884971,
+        "title": "DeepSeek v4",
+        "url": "https://api-docs.deepseek.com/",
+        "domain": "api-docs.deepseek.com",
+        "score": 461,
+        "descendants": 185,
+        "by": "impact_sy",
+        "tags": [],
+        "summary": "DeepSeek v4 正式发布，相关 API 文档已同步上线。"
+      },
+      {
+        "id": 47884768,
+        "title": "Why I Write (1946)",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+        "domain": "orwellfoundation.com",
+        "score": 103,
+        "descendants": 23,
+        "by": "RyanShook",
+        "tags": [],
+        "summary": "乔治·奥威尔撰写的经典随笔，探讨了作者创作动机与写作的本质。"
+      },
+      {
+        "id": 47879092,
+        "title": "GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "domain": "openai.com",
+        "score": 1242,
+        "descendants": 839,
+        "by": "rd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 公布了 GPT-5.5 的相关进展，引发广泛讨论。"
+      },
+      {
+        "id": 47878905,
+        "title": "An update on recent Claude Code quality reports",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "domain": "anthropic.com",
+        "score": 641,
+        "descendants": 495,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 对近期有关 Claude Code 的代码质量反馈作出正式回应与更新说明。"
+      },
+      {
+        "id": 47876043,
+        "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+        "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+        "domain": "socket.dev",
+        "score": 711,
+        "descendants": 347,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Bitwarden CLI 受到供应链攻击影响，安全隐患引发关注。"
+      },
+      {
+        "id": 47882645,
+        "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+        "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+        "domain": "cnn.com",
+        "score": 122,
+        "descendants": 182,
+        "by": "nkrisc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一名美国特种兵因涉嫌在马杜罗相关行动中非法获利 40 万美元被捕。"
+      },
+      {
+        "id": 47885377,
+        "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+        "url": "https://www.nature.com/articles/s41467-026-71264-8",
+        "domain": "nature.com",
+        "score": 60,
+        "descendants": 25,
+        "by": "scubakid",
+        "tags": [],
+        "summary": "Nature 发表研究探讨了长期饮用咖啡对肠道微生物、生理机能及认知的重塑作用。"
+      },
+      {
+        "id": 47882697,
+        "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
+        "url": "https://github.com/refactoringhq/tolaria",
+        "domain": "github.com",
+        "score": 165,
+        "descendants": 52,
+        "by": "lucaronin",
+        "tags": [
+          "Systems",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "开源 macOS 应用 Tolaria，旨在帮助用户高效管理 Markdown 知识库。"
+      },
+      {
+        "id": 47879986,
+        "title": "Meta tells staff it will cut 10% of jobs",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
+        "domain": "bloomberg.com",
+        "score": 525,
+        "descendants": 497,
+        "by": "Vaslo",
+        "tags": [],
+        "summary": "Meta 内部消息显示公司计划裁减 10% 的员工。"
+      },
+      {
+        "id": 47878117,
+        "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+        "url": "https://blog.meshcore.io/2026/04/23/the-split",
+        "domain": "blog.meshcore.io",
+        "score": 193,
+        "descendants": 104,
+        "by": "wielebny",
+        "tags": [
+          "AI"
+        ],
+        "summary": "MeshCore 开发团队因商标争议及 AI 生成代码的使用问题导致分裂。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "api-docs.deepseek.com",
+          "count": 1
+        },
+        {
+          "domain": "orwellfoundation.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 422,
+      "max_score": {
+        "title": "GPT-5.5",
+        "score": 1242
+      },
+      "most_discussed": {
+        "title": "GPT-5.5",
+        "comments": 839
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能领域的剧烈变动，包括 DeepSeek v4、GPT-5.5 的动态及 Claude 的质量反馈，反映了行业竞争的加剧。与此同时，科技界的安全挑战和企业人事调整也成为关注重点，显示出当前技术生态在高速迭代下的不确定性与风险并存。"
   }
 }
