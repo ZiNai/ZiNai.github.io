@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-04-25 09:17",
+    "stories": [
+      {
+        "id": 47892074,
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+        "domain": "bloomberg.com",
+        "score": 307,
+        "descendants": 369,
+        "by": "elffjs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "据报道，谷歌计划向AI初创公司Anthropic注资高达400亿美元。"
+      },
+      {
+        "id": 47894747,
+        "title": "My audio interface has SSH enabled by default",
+        "url": "https://hhh.hn/rodecaster-duo-fw/",
+        "domain": "hhh.hn",
+        "score": 152,
+        "descendants": 38,
+        "by": "hhh",
+        "tags": [],
+        "summary": "作者发现其音频接口设备在默认设置下竟开启了SSH服务，引发对IoT设备安全的担忧。"
+      },
+      {
+        "id": 47864056,
+        "title": "Iliad fragment found in Roman-era mummy",
+        "url": "https://www.thehistoryblog.com/archives/75877",
+        "domain": "thehistoryblog.com",
+        "score": 92,
+        "descendants": 29,
+        "by": "wise_blood",
+        "tags": [],
+        "summary": "考古学家在罗马时代的木乃伊包裹层中发现了《伊利亚特》的残片。"
+      },
+      {
+        "id": 47894435,
+        "title": "The Classic American Diner",
+        "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+        "domain": "blogs.loc.gov",
+        "score": 153,
+        "descendants": 92,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "回顾美国经典餐厅的文化演变及其在公共空间中的独特地位。"
+      },
+      {
+        "id": 47890799,
+        "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+        "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+        "domain": "kevinlynagh.com",
+        "score": 351,
+        "descendants": 90,
+        "by": "alcazar",
+        "tags": [],
+        "summary": "探讨过度思考、范围蔓延和结构性差异如何导致项目陷入瘫痪及失败。"
+      },
+      {
+        "id": 47893779,
+        "title": "There Will Be a Scientific Theory of Deep Learning",
+        "url": "https://arxiv.org/abs/2604.21691",
+        "domain": "arxiv.org",
+        "score": 121,
+        "descendants": 45,
+        "by": "jamie-simon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章论述了构建深度学习统一科学理论的必要性与可行路径。"
+      },
+      {
+        "id": 47896086,
+        "title": "Generalised plusequals",
+        "url": "https://leontrolski.github.io/alt.html",
+        "domain": "leontrolski.github.io",
+        "score": 5,
+        "descendants": 1,
+        "by": "leontrolski",
+        "tags": [],
+        "summary": "探讨编程语言中广义“+=”赋值运算符的实现逻辑与应用。"
+      },
+      {
+        "id": 47851613,
+        "title": "Work with the garage door up (2024)",
+        "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+        "domain": "notes.andymatuschak.org",
+        "score": 111,
+        "descendants": 86,
+        "by": "jxmorris12",
+        "tags": [],
+        "summary": "倡导透明工作文化，鼓励在“车库门大开”的状态下向外界展示工作进度。"
+      },
+      {
+        "id": 47896163,
+        "title": "Show HN: I've built a nice home server OS",
+        "url": "https://lightwhale.asklandd.dk/",
+        "domain": "lightwhale.asklandd.dk",
+        "score": 52,
+        "descendants": 25,
+        "by": "Zta77",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "作者展示并分享了一款专为家庭服务器设计的新型操作系统。"
+      },
+      {
+        "id": 47895765,
+        "title": "Google Flow Music",
+        "url": "https://www.flowmusic.app/",
+        "domain": "flowmusic.app",
+        "score": 92,
+        "descendants": 62,
+        "by": "hmokiguess",
+        "tags": [],
+        "summary": "介绍Google Flow Music项目，探索AI在音乐创作与交互中的应用。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        },
+        {
+          "domain": "hhh.hn",
+          "count": 1
+        },
+        {
+          "domain": "thehistoryblog.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 144,
+      "max_score": {
+        "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+        "score": 351
+      },
+      "most_discussed": {
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "comments": 369
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了科技巨头的巨额投资、网络安全隐患以及深度学习理论的进展。同时，社区讨论延伸至产品开发策略、复古文化回顾及个人开源项目的展示，反映了开发者对前沿技术与基础架构实用性的双重关注。"
+  }
+}
