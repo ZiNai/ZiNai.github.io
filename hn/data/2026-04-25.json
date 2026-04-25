@@ -305,5 +305,165 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿AI巨额投资动态、软件工程深度思考及科学考古发现。从Google对Anthropic的百亿级布局到关于项目过度设计的避坑指南，反映了技术从业者对人工智能行业动向与工程实践本质的持续关注。"
+  },
+  "evening": {
+    "time": "2026-04-25 20:55",
+    "stories": [
+      {
+        "id": 47899053,
+        "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+        "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+        "domain": "jeffgeerling.com",
+        "score": 283,
+        "descendants": 134,
+        "by": "calcifer",
+        "tags": [],
+        "summary": "测评新款 10GbE USB 转接器，对比前代产品在体积、温度和价格上的显著改善。"
+      },
+      {
+        "id": 47892074,
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+        "domain": "bloomberg.com",
+        "score": 642,
+        "descendants": 633,
+        "by": "elffjs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "据报道 Google 计划向 AI 初创公司 Anthropic 投入高达 400 亿美元的资金。"
+      },
+      {
+        "id": 47857563,
+        "title": "How to Implement an FPS Counter",
+        "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+        "domain": "vplesko.com",
+        "score": 55,
+        "descendants": 7,
+        "by": "vplesko",
+        "tags": [],
+        "summary": "从基础逻辑出发，深入浅出地介绍如何从零实现一个游戏帧率计数器。"
+      },
+      {
+        "id": 47900506,
+        "title": "Lambda Calculus Benchmark for AI",
+        "url": "https://victortaelin.github.io/lambench/",
+        "domain": "victortaelin.github.io",
+        "score": 10,
+        "descendants": 1,
+        "by": "marvinborner",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提出使用 Lambda 演算作为基准测试，用于评估大语言模型的逻辑推理能力。"
+      },
+      {
+        "id": 47862541,
+        "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+        "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+        "domain": "clad.you",
+        "score": 87,
+        "descendants": 15,
+        "by": "arkadiuss",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍一种仅通过八个问题即可生成 3D 人体模型的轻量化方法，无需摄影与显卡加速。"
+      },
+      {
+        "id": 47899844,
+        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+        "url": "https://github.com/nex-crm/wuphf",
+        "domain": "github.com",
+        "score": 105,
+        "descendants": 51,
+        "by": "najmuzzaman",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "分享一个基于 Markdown 和 Git 的知识库工具，旨在让 AI 智能体自动维护类似 Karpathy 风格的 Wiki。"
+      },
+      {
+        "id": 47897681,
+        "title": "Plain text has been around for decades and it’s here to stay",
+        "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+        "domain": "unsung.aresluna.org",
+        "score": 139,
+        "descendants": 57,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度探讨纯文本格式为何在数十年技术变迁后，依然是信息存储与交换的最优方案。"
+      },
+      {
+        "id": 47858294,
+        "title": "Humpback whales are forming super-groups",
+        "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+        "domain": "bbc.com",
+        "score": 139,
+        "descendants": 69,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "科学报道揭示座头鲸正改变传统行为，开始形成前所未见的大规模觅食群体。"
+      },
+      {
+        "id": 47859543,
+        "title": "A Man Who Invented the Future",
+        "url": "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future",
+        "domain": "hedgehogreview.com",
+        "score": 13,
+        "descendants": 5,
+        "by": "apollinaire",
+        "tags": [],
+        "summary": "探讨某位前瞻性技术先驱的生平，分析其思想如何对现代科技发展产生深远影响。"
+      },
+      {
+        "id": 47897647,
+        "title": "Replace IBM Quantum back end with /dev/urandom",
+        "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+        "domain": "github.com",
+        "score": 203,
+        "descendants": 30,
+        "by": "pigeons",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一个讽刺性的实验项目，通过对比测试指出 IBM 量子计算后端的随机性输出表现。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "jeffgeerling.com",
+          "count": 1
+        },
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 168,
+      "max_score": {
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "score": 642
+      },
+      "most_discussed": {
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "comments": 633
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技工业巨头的重磅投资与硬件创新，涵盖了 AI 领域的算力评估、量子计算的趣味实验及硬件性能优化。同时，社区对极简技术方案（如纯文本）和生物多样性等科普话题表现出持续关注。"
   }
 }
