@@ -151,5 +151,159 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了科技巨头的巨额投资、网络安全隐患以及深度学习理论的进展。同时，社区讨论延伸至产品开发策略、复古文化回顾及个人开源项目的展示，反映了开发者对前沿技术与基础架构实用性的双重关注。"
+  },
+  "noon": {
+    "time": "2026-04-25 13:43",
+    "stories": [
+      {
+        "id": 47892074,
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+        "domain": "bloomberg.com",
+        "score": 467,
+        "descendants": 476,
+        "by": "elffjs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google计划向AI公司Anthropic投入高达400亿美元，进一步加剧了云服务领域的AI竞赛。"
+      },
+      {
+        "id": 47898597,
+        "title": "Turbo Vision 2.0 – a modern port",
+        "url": "https://github.com/magiblot/tvision",
+        "domain": "github.com",
+        "score": 28,
+        "descendants": 4,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "经典的Turbo Vision框架迎来2.0现代版本更新，为复古开发体验带来新支持。"
+      },
+      {
+        "id": 47858939,
+        "title": "Paraloid B-72",
+        "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+        "domain": "en.wikipedia.org",
+        "score": 112,
+        "descendants": 21,
+        "by": "Ariarule",
+        "tags": [],
+        "summary": "介绍文物保护领域广泛使用的合成树脂Paraloid B-72及其化学特性与应用场景。"
+      },
+      {
+        "id": 47858294,
+        "title": "Humpback whales are forming super-groups",
+        "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+        "domain": "bbc.com",
+        "score": 63,
+        "descendants": 21,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "座头鲸群体行为发生演变，开始形成规模庞大的超级群体进行协同捕食。"
+      },
+      {
+        "id": 47862541,
+        "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+        "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+        "domain": "clad.you",
+        "score": 10,
+        "descendants": 1,
+        "by": "arkadiuss",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍一种仅需回答八个问题即可构建3D人体模型的轻量级技术方案。"
+      },
+      {
+        "id": 47894747,
+        "title": "My audio interface has SSH enabled by default",
+        "url": "https://hhh.hn/rodecaster-duo-fw/",
+        "domain": "hhh.hn",
+        "score": 201,
+        "descendants": 62,
+        "by": "hhh",
+        "tags": [],
+        "summary": "安全研究员发现某款音频接口设备默认开启SSH服务，暴露出消费级硬件的安全隐患。"
+      },
+      {
+        "id": 47897647,
+        "title": "Replace IBM Quantum back end with /dev/urandom",
+        "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+        "domain": "github.com",
+        "score": 92,
+        "descendants": 12,
+        "by": "pigeons",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者通过将IBM量子后端替换为伪随机数生成器，讽刺性地探讨了计算资源的替代方案。"
+      },
+      {
+        "id": 47864056,
+        "title": "Iliad fragment found in Roman-era mummy",
+        "url": "https://www.thehistoryblog.com/archives/75877",
+        "domain": "thehistoryblog.com",
+        "score": 153,
+        "descendants": 42,
+        "by": "wise_blood",
+        "tags": [],
+        "summary": "考古学家在罗马时期的木乃伊包装物中发现了失传已久的《伊利亚特》残片。"
+      },
+      {
+        "id": 47890799,
+        "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+        "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+        "domain": "kevinlynagh.com",
+        "score": 392,
+        "descendants": 104,
+        "by": "alcazar",
+        "tags": [],
+        "summary": "深入剖析技术项目中过度思考和范围蔓延如何成为扼杀工程质量与效率的隐形杀手。"
+      },
+      {
+        "id": 47897681,
+        "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+        "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+        "domain": "unsung.aresluna.org",
+        "score": 35,
+        "descendants": 5,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章重申纯文本格式因其极高的持久性与兼容性，依然是数字时代不可替代的基石。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        },
+        {
+          "domain": "en.wikipedia.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 155,
+      "max_score": {
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "score": 467
+      },
+      "most_discussed": {
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "comments": 476
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿AI巨额投资动态、软件工程深度思考及科学考古发现。从Google对Anthropic的百亿级布局到关于项目过度设计的避坑指南，反映了技术从业者对人工智能行业动向与工程实践本质的持续关注。"
   }
 }
