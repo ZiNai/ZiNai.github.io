@@ -1,0 +1,142 @@
+{
+  "morning": {
+    "time": "2026-04-26 09:26",
+    "stories": [
+      {
+        "id": 47905984,
+        "title": "Why has there been so little progress on Alzheimer's disease?",
+        "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+        "domain": "freakonomics.com",
+        "score": 46,
+        "descendants": 9,
+        "by": "chiefalchemist",
+        "tags": []
+      },
+      {
+        "id": 47904876,
+        "title": "USB Cheat Sheet (2022)",
+        "url": "https://fabiensanglard.net/usbcheat/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 149,
+        "descendants": 45,
+        "by": "gwerbret",
+        "tags": []
+      },
+      {
+        "id": 47860198,
+        "title": "The Free Universal Construction Kit",
+        "url": "https://fffff.at/free-universal-construction-kit/",
+        "domain": "fffff.at",
+        "score": 266,
+        "descendants": 50,
+        "by": "robinhouston",
+        "tags": []
+      },
+      {
+        "id": 47905681,
+        "title": "Her Life Savings Mysteriously Disappeared After a Systems Glitch",
+        "url": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
+        "domain": "nytimes.com",
+        "score": 18,
+        "descendants": 10,
+        "by": "danso",
+        "tags": []
+      },
+      {
+        "id": 47905837,
+        "title": "Agents Aren't Coworkers, Embed Them in Your Software",
+        "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+        "domain": "feldera.com",
+        "score": 25,
+        "descendants": 3,
+        "by": "gz09",
+        "tags": []
+      },
+      {
+        "id": 47870901,
+        "title": "OpenAI Privacy Filter",
+        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+        "domain": "openai.com",
+        "score": 76,
+        "descendants": 14,
+        "by": "tanelpoder",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 47863570,
+        "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+        "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+        "domain": "hypertalking.com",
+        "score": 522,
+        "descendants": 86,
+        "by": "stephen-hill",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47902525,
+        "title": "Using coding assistance tools to revive projects you never were going to finish",
+        "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+        "domain": "blog.matthewbrunelle.com",
+        "score": 173,
+        "descendants": 104,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 47903945,
+        "title": "America's Geothermal Breakthrough",
+        "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+        "domain": "oilprice.com",
+        "score": 63,
+        "descendants": 71,
+        "by": "sleepyguy",
+        "tags": []
+      },
+      {
+        "id": 47867473,
+        "title": "Flickr: The first and last great photo platform",
+        "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+        "domain": "petapixel.com",
+        "score": 27,
+        "descendants": 6,
+        "by": "Nrbelex",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "freakonomics.com",
+          "count": 1
+        },
+        {
+          "domain": "fabiensanglard.net",
+          "count": 1
+        },
+        {
+          "domain": "fffff.at",
+          "count": 1
+        }
+      ],
+      "avg_score": 136,
+      "max_score": {
+        "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+        "score": 522
+      },
+      "most_discussed": {
+        "title": "Using coding assistance tools to revive projects you never were going to finish",
+        "comments": 104
+      },
+      "hot_tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": ""
+  }
+}
