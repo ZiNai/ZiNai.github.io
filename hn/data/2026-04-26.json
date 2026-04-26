@@ -138,5 +138,157 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-04-26 14:00",
+    "stories": [
+      {
+        "id": 47903126,
+        "title": "Amateur armed with ChatGPT solves an Erdős problem",
+        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+        "domain": "scientificamerican.com",
+        "score": 238,
+        "descendants": 154,
+        "by": "pr337h4m",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "一名数学爱好者通过ChatGPT辅助成功解决了一个困扰数学界的埃尔德什问题。"
+      },
+      {
+        "id": 47905984,
+        "title": "Why has there been so little progress on Alzheimer's disease?",
+        "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+        "domain": "freakonomics.com",
+        "score": 164,
+        "descendants": 76,
+        "by": "chiefalchemist",
+        "tags": [],
+        "summary": "深度探讨为何数十年来针对阿尔茨海默病的研究进展依然缓慢的深层原因。"
+      },
+      {
+        "id": 47904876,
+        "title": "USB Cheat Sheet (2022)",
+        "url": "https://fabiensanglard.net/usbcheat/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 237,
+        "descendants": 50,
+        "by": "gwerbret",
+        "tags": [],
+        "summary": "一份详尽的USB接口标准速查表，涵盖了复杂的物理规格与传输协议差异。"
+      },
+      {
+        "id": 47906253,
+        "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+        "url": "https://news.ycombinator.com/item?id=47906253",
+        "domain": "news.ycombinator.com",
+        "score": 135,
+        "descendants": 69,
+        "by": "_-x-_",
+        "tags": [],
+        "summary": "用户反馈iPhone存在不明应用每日自动安装的异常行为，引发对系统安全漏洞的担忧。"
+      },
+      {
+        "id": 47885239,
+        "title": "Mahjong: A Visual Guide",
+        "url": "https://themahjong.guide/",
+        "domain": "themahjong.guide",
+        "score": 39,
+        "descendants": 6,
+        "by": "iamwil",
+        "tags": [],
+        "summary": "图解麻将的基础玩法与规则，适合初学者快速上手的视觉指南。"
+      },
+      {
+        "id": 47867473,
+        "title": "Flickr: The first and last great photo platform",
+        "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+        "domain": "petapixel.com",
+        "score": 116,
+        "descendants": 58,
+        "by": "Nrbelex",
+        "tags": [],
+        "summary": "回顾Flickr作为早期影像社交平台的历史地位，及其在当前社交媒体环境下的独特遗产。"
+      },
+      {
+        "id": 47907130,
+        "title": "EU Age Control: The trojan horse for digital IDs",
+        "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+        "domain": "juraj.bednar.io",
+        "score": 60,
+        "descendants": 13,
+        "by": "gasull",
+        "tags": [],
+        "summary": "分析欧盟年龄验证法规背后的潜在风险，担忧其可能成为强制推行数字身份的诱因。"
+      },
+      {
+        "id": 47907018,
+        "title": "GnuPG – post-quantum crypto landing in mainline",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+        "domain": "lists.gnupg.org",
+        "score": 13,
+        "descendants": 1,
+        "by": "zdkaster",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "GnuPG宣布正式将后量子加密技术集成至主线版本，以应对未来的加密威胁。"
+      },
+      {
+        "id": 47854221,
+        "title": "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
+        "url": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline",
+        "domain": "github.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "PearsonZero",
+        "tags": [],
+        "summary": "对经典的柯达测试影像集进行主成分分析（PCA）的开源数据集与技术报告。"
+      },
+      {
+        "id": 47860198,
+        "title": "The Free Universal Construction Kit",
+        "url": "https://fffff.at/free-universal-construction-kit/",
+        "domain": "fffff.at",
+        "score": 298,
+        "descendants": 62,
+        "by": "robinhouston",
+        "tags": [],
+        "summary": "介绍一套能够连接不同玩具建筑系统的通用适配器，展示了开放协作设计的价值。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "scientificamerican.com",
+          "count": 1
+        },
+        {
+          "domain": "freakonomics.com",
+          "count": 1
+        },
+        {
+          "domain": "fabiensanglard.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 131,
+      "max_score": {
+        "title": "The Free Universal Construction Kit",
+        "score": 298
+      },
+      "most_discussed": {
+        "title": "Amateur armed with ChatGPT solves an Erdős problem",
+        "comments": 154
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了从前沿数学科研突破到底层硬件协议的科普，反映了社区对技术底层原理及AI应用能力的持续关注。此外，用户隐私安全、数字身份监管以及老牌数字平台的文化遗产讨论也引发了热议。"
   }
 }
