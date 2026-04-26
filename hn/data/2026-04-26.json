@@ -290,5 +290,159 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了从前沿数学科研突破到底层硬件协议的科普，反映了社区对技术底层原理及AI应用能力的持续关注。此外，用户隐私安全、数字身份监管以及老牌数字平台的文化遗产讨论也引发了热议。"
+  },
+  "evening": {
+    "time": "2026-04-26 20:58",
+    "stories": [
+      {
+        "id": 47909226,
+        "title": "Asahi Linux Progress Linux 7.0",
+        "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+        "domain": "asahilinux.org",
+        "score": 89,
+        "descendants": 2,
+        "by": "elisaado",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Asahi Linux宣布支持Linux 7.0内核，在Apple Silicon芯片上的原生运行性能实现进一步突破。"
+      },
+      {
+        "id": 47908833,
+        "title": "Statecharts: hierarchical state machines",
+        "url": "https://statecharts.dev/",
+        "domain": "statecharts.dev",
+        "score": 80,
+        "descendants": 16,
+        "by": "sph",
+        "tags": [],
+        "summary": "探讨分层状态机（Statecharts）如何通过可视化设计解决复杂应用逻辑的建模难题。"
+      },
+      {
+        "id": 47903126,
+        "title": "Amateur armed with ChatGPT solves an Erdős problem",
+        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+        "domain": "scientificamerican.com",
+        "score": 469,
+        "descendants": 305,
+        "by": "pr337h4m",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "详细叙述了一名编程业余爱好者如何利用ChatGPT协助破解困扰数学界多年的埃尔德什问题。"
+      },
+      {
+        "id": 47905984,
+        "title": "Why has there been so little progress on Alzheimer's disease?",
+        "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+        "domain": "freakonomics.com",
+        "score": 279,
+        "descendants": 170,
+        "by": "chiefalchemist",
+        "tags": [],
+        "summary": "分析了为何阿尔茨海默病药物研发长期进展缓慢，以及科学界在攻克该难题上遭遇的系统性挑战。"
+      },
+      {
+        "id": 47907879,
+        "title": "The West forgot how to make things, now it’s forgetting how to code",
+        "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+        "domain": "techtrenches.dev",
+        "score": 581,
+        "descendants": 346,
+        "by": "milkglass",
+        "tags": [],
+        "summary": "作者批判性地指出西方在制造业与软件开发领域正经历某种“去技能化”的衰退过程。"
+      },
+      {
+        "id": 47876071,
+        "title": "Show HN: Turning a Gaussian Splat into a videogame",
+        "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+        "domain": "blog.playcanvas.com",
+        "score": 54,
+        "descendants": 10,
+        "by": "yak32",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示如何通过高斯溅射技术（Gaussian Splatting）将静态3D场景转化为可交互的视频游戏环境。"
+      },
+      {
+        "id": 47906253,
+        "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+        "url": "https://news.ycombinator.com/item?id=47906253",
+        "domain": "news.ycombinator.com",
+        "score": 339,
+        "descendants": 126,
+        "by": "_-x-_",
+        "tags": [],
+        "summary": "讨论一位用户发现iPhone存在不明应用每日自动安装的异常行为，引发对苹果生态安全机制的质疑。"
+      },
+      {
+        "id": 47904876,
+        "title": "USB Cheat Sheet (2022)",
+        "url": "https://fabiensanglard.net/usbcheat/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 372,
+        "descendants": 66,
+        "by": "gwerbret",
+        "tags": [],
+        "summary": "一份详尽的USB技术参考指南，梳理了各版本接口、传输速度及供电标准的差异。"
+      },
+      {
+        "id": 47877277,
+        "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
+        "url": "https://www.npmjs.com/package/ooko",
+        "domain": "npmjs.com",
+        "score": 47,
+        "descendants": 43,
+        "by": "okovooo",
+        "tags": [],
+        "summary": "开发者因厌恶现有的看板管理工具，耗时六年自主研发出一套符合其工作流的Kanban系统。"
+      },
+      {
+        "id": 47863103,
+        "title": "Cheating at Tetris",
+        "url": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
+        "domain": "chalkdustmagazine.com",
+        "score": 18,
+        "descendants": 4,
+        "by": "t-3",
+        "tags": [],
+        "summary": "探讨在俄罗斯方块游戏中利用算法与数据结构实现自动“作弊”的极客实验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "asahilinux.org",
+          "count": 1
+        },
+        {
+          "domain": "statecharts.dev",
+          "count": 1
+        },
+        {
+          "domain": "scientificamerican.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 233,
+      "max_score": {
+        "title": "The West forgot how to make things, now it’s forgetting how to code",
+        "score": 581
+      },
+      "most_discussed": {
+        "title": "The West forgot how to make things, now it’s forgetting how to code",
+        "comments": 346
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术深度与社会议题的碰撞，既有关于AI解决数学难题及硬件工程瓶颈的深入探讨，也涵盖了软件开发实践与苹果设备安全异常等实操话题。总体呈现出从前沿科研到底层架构再到个人开发者工具的多维关注。"
   }
 }
