@@ -1,0 +1,150 @@
+{
+  "morning": {
+    "time": "2026-04-27 09:27",
+    "stories": [
+      {
+        "id": 47914165,
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "domain": "ca98am79.medium.com",
+        "score": 361,
+        "descendants": 199,
+        "by": "ca98am79",
+        "tags": []
+      },
+      {
+        "id": 47908051,
+        "title": "Self-updating screenshots",
+        "url": "https://interblah.net/self-updating-screenshots",
+        "domain": "interblah.net",
+        "score": 29,
+        "descendants": 4,
+        "by": "bjhess",
+        "tags": []
+      },
+      {
+        "id": 47913855,
+        "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+        "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+        "domain": "sentinelone.com",
+        "score": 140,
+        "descendants": 43,
+        "by": "dd23",
+        "tags": []
+      },
+      {
+        "id": 47903541,
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "domain": "jordanlord.co.uk",
+        "score": 18,
+        "descendants": 3,
+        "by": "nervous_north",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47916410,
+        "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+        "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+        "domain": "ft.com",
+        "score": 45,
+        "descendants": 10,
+        "by": "donsupreme",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47878231,
+        "title": "Box to save memory in Rust",
+        "url": "https://dystroy.org/blog/box-to-save-memory/",
+        "domain": "dystroy.org",
+        "score": 52,
+        "descendants": 6,
+        "by": "emschwartz",
+        "tags": [
+          "Rust",
+          "Systems"
+        ]
+      },
+      {
+        "id": 47913650,
+        "title": "AI should elevate your thinking, not replace it",
+        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "domain": "koshyjohn.com",
+        "score": 272,
+        "descendants": 224,
+        "by": "koshyjohn",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47914677,
+        "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+        "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+        "domain": "smithsonianmag.com",
+        "score": 120,
+        "descendants": 29,
+        "by": "1659447091",
+        "tags": []
+      },
+      {
+        "id": 47910877,
+        "title": "Lessons from building multiplayer browsers",
+        "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+        "domain": "alejandro.pe",
+        "score": 6,
+        "descendants": 1,
+        "by": "alejandrohacks",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 47910388,
+        "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+        "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+        "domain": "openai.com",
+        "score": 244,
+        "descendants": 138,
+        "by": "kmdupree",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ca98am79.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "interblah.net",
+          "count": 1
+        },
+        {
+          "domain": "sentinelone.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 129,
+      "max_score": {
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "score": 361
+      },
+      "most_discussed": {
+        "title": "AI should elevate your thinking, not replace it",
+        "comments": 224
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Systems",
+        "Web"
+      ]
+    },
+    "summary": ""
+  }
+}
