@@ -146,5 +146,145 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-04-27 14:21",
+    "stories": [
+      {
+        "id": 47875795,
+        "title": "Flipdiscs",
+        "url": "https://flipdisc.io",
+        "domain": "flipdisc.io",
+        "score": 92,
+        "descendants": 17,
+        "by": "skogstokig",
+        "tags": []
+      },
+      {
+        "id": 47914165,
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "domain": "ca98am79.medium.com",
+        "score": 633,
+        "descendants": 352,
+        "by": "ca98am79",
+        "tags": []
+      },
+      {
+        "id": 47916890,
+        "title": "TurboQuant: A first-principles walkthrough",
+        "url": "https://arkaung.github.io/interactive-turboquant/",
+        "domain": "arkaung.github.io",
+        "score": 82,
+        "descendants": 12,
+        "by": "kweezar",
+        "tags": []
+      },
+      {
+        "id": 47908051,
+        "title": "Self-updating screenshots",
+        "url": "https://interblah.net/self-updating-screenshots",
+        "domain": "interblah.net",
+        "score": 205,
+        "descendants": 30,
+        "by": "bjhess",
+        "tags": []
+      },
+      {
+        "id": 47917026,
+        "title": "The Prompt API",
+        "url": "https://developer.chrome.com/docs/ai/prompt-api",
+        "domain": "developer.chrome.com",
+        "score": 67,
+        "descendants": 48,
+        "by": "gslin",
+        "tags": []
+      },
+      {
+        "id": 47903541,
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "domain": "jordanlord.co.uk",
+        "score": 145,
+        "descendants": 22,
+        "by": "nervous_north",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47913855,
+        "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+        "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+        "domain": "sentinelone.com",
+        "score": 210,
+        "descendants": 47,
+        "by": "dd23",
+        "tags": []
+      },
+      {
+        "id": 47918009,
+        "title": "AI can cost more than human workers now",
+        "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+        "domain": "axios.com",
+        "score": 25,
+        "descendants": 10,
+        "by": "nreece",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47916909,
+        "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+        "url": "https://github.com/evanklem/evanflow",
+        "domain": "github.com",
+        "score": 47,
+        "descendants": 18,
+        "by": "evanklem2004",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47906420,
+        "title": "When the cheap one is the cool one",
+        "url": "https://arun.is/blog/cheap-cool/",
+        "domain": "arun.is",
+        "score": 76,
+        "descendants": 26,
+        "by": "ddrmaxgt37",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "flipdisc.io",
+          "count": 1
+        },
+        {
+          "domain": "ca98am79.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "arkaung.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 158,
+      "max_score": {
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "score": 633
+      },
+      "most_discussed": {
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "comments": 352
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": ""
   }
 }
