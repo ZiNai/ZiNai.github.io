@@ -286,5 +286,164 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-04-27 21:43",
+    "stories": [
+      {
+        "id": 47919997,
+        "title": "Pgbackrest is no longer being maintained",
+        "url": "https://github.com/pgbackrest/pgbackrest",
+        "domain": "github.com",
+        "score": 196,
+        "descendants": 84,
+        "by": "c0l0",
+        "tags": [
+          "AI"
+        ],
+        "summary": "PostgreSQL备份工具pgBackRest确认不再维护，引发运维人员关注。"
+      },
+      {
+        "id": 47921130,
+        "title": "Tim Cook Is Leaving. Good",
+        "url": "https://routerjockey.com/tim-cook-is-leaving-good/",
+        "domain": "routerjockey.com",
+        "score": 21,
+        "descendants": 18,
+        "by": "tonhe",
+        "tags": [],
+        "summary": "一篇评论文章探讨了Tim Cook即将卸任苹果CEO的潜在影响。"
+      },
+      {
+        "id": 47920787,
+        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+        "url": "https://github.com/dirac-run/dirac",
+        "domain": "github.com",
+        "score": 48,
+        "descendants": 14,
+        "by": "GodelNumbering",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示一个在TerminalBench测试中表现优异的开源AI Agent项目。"
+      },
+      {
+        "id": 47901433,
+        "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+        "url": "https://github.com/WeebLabs/DSPi",
+        "domain": "github.com",
+        "score": 108,
+        "descendants": 22,
+        "by": "BoingBoomTschak",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "为树莓派Pico开发的一套功能完备的音频数字信号处理（DSP）固件方案。"
+      },
+      {
+        "id": 47920074,
+        "title": "Men Who Stare at Walls",
+        "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+        "domain": "alexselimov.com",
+        "score": 52,
+        "descendants": 23,
+        "by": "aselimov3",
+        "tags": [],
+        "summary": "探讨“盯着墙看的人”这一现象背后的心理或技术隐喻。"
+      },
+      {
+        "id": 47875795,
+        "title": "Flipdiscs",
+        "url": "https://flipdisc.io",
+        "domain": "flipdisc.io",
+        "score": 383,
+        "descendants": 67,
+        "by": "skogstokig",
+        "tags": [],
+        "summary": "关于翻转显示板（Flip-disc）技术的详细介绍与艺术展示。"
+      },
+      {
+        "id": 47914165,
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "domain": "ca98am79.medium.com",
+        "score": 933,
+        "descendants": 471,
+        "by": "ca98am79",
+        "tags": [],
+        "summary": "作者分享了以3万美元收购老牌社交平台Friendster后的运营计划。"
+      },
+      {
+        "id": 47921262,
+        "title": "The next phase of the Microsoft OpenAI partnership – OpenAI",
+        "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+        "domain": "openai.com",
+        "score": 9,
+        "descendants": 3,
+        "by": "helsinkiandrew",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软与OpenAI合作关系的最新进展公告。"
+      },
+      {
+        "id": 47919630,
+        "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+        "url": "https://app.oravys.com/blog/mercor-breach-2026",
+        "domain": "app.oravys.com",
+        "score": 34,
+        "descendants": 8,
+        "by": "Oravys",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mercor公司发生数据泄露，导致4万名AI合同工的4TB语音样本被窃。"
+      },
+      {
+        "id": 47913650,
+        "title": "AI should elevate your thinking, not replace it",
+        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "domain": "koshyjohn.com",
+        "score": 647,
+        "descendants": 464,
+        "by": "koshyjohn",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度讨论人工智能应作为思维的辅助工具而非替代品。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "routerjockey.com",
+          "count": 1
+        },
+        {
+          "domain": "alexselimov.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 243,
+      "max_score": {
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "score": 933
+      },
+      "most_discussed": {
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "comments": 471
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术影响与企业并购动态，既有对AI应用与安全性（数据泄露、提升思考能力）的深入反思，也有如Friendster收购等引发社区高度讨论的互联网怀旧与商业新闻。此外，开源维护、嵌入式硬件开发及行业高层变动也是开发者关注的焦点。"
   }
 }
