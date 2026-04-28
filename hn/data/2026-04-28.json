@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-04-28 09:47",
+    "stories": [
+      {
+        "id": 47928554,
+        "title": "New Integrated by Design FreeBSD Book",
+        "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+        "domain": "vivianvoss.net",
+        "score": 61,
+        "descendants": 16,
+        "by": "vermaden",
+        "tags": [],
+        "summary": "一本深入探讨FreeBSD系统设计与集成的技术书籍推荐。"
+      },
+      {
+        "id": 47921248,
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "domain": "bloomberg.com",
+        "score": 749,
+        "descendants": 660,
+        "by": "helsinkiandrew",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软与OpenAI正式终止排他性协议及收入分成条款，标志着双方合作关系的战略性调整。"
+      },
+      {
+        "id": 47927903,
+        "title": "Talkie: a 13B vintage language model from 1930",
+        "url": "https://talkie-lm.com/introducing-talkie",
+        "domain": "talkie-lm.com",
+        "score": 76,
+        "descendants": 25,
+        "by": "jekude",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个通过模拟1930年代语言特征训练而成的13B参数复古风格语言模型。"
+      },
+      {
+        "id": 47928885,
+        "title": "Generative AI Vegetarianism",
+        "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+        "domain": "sboots.ca",
+        "score": 25,
+        "descendants": 32,
+        "by": "marvinborner",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨在AI生成内容泛滥的时代，坚持非AI辅助创作的“素食主义”数字哲学。"
+      },
+      {
+        "id": 47906942,
+        "title": "Meetings are forcing functions",
+        "url": "https://www.mooreds.com/wordpress/archives/3734",
+        "domain": "mooreds.com",
+        "score": 35,
+        "descendants": 12,
+        "by": "zdw",
+        "tags": [],
+        "summary": "论述高效会议如何作为管理手段，强制推动项目进展和决策落地。"
+      },
+      {
+        "id": 47927070,
+        "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+        "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+        "domain": "tps.ca",
+        "score": 87,
+        "descendants": 46,
+        "by": "gnabgib",
+        "tags": [],
+        "summary": "多伦多警方逮捕三名利用非法基站发送钓鱼短信的嫌疑人。"
+      },
+      {
+        "id": 47929454,
+        "title": "I quit drinking for a year",
+        "url": "https://dynomight.net/drinking/",
+        "domain": "dynomight.net",
+        "score": 6,
+        "descendants": 2,
+        "by": "webninja",
+        "tags": [],
+        "summary": "作者分享个人戒酒一年后的心理与生理状态变化及洞察。"
+      },
+      {
+        "id": 47924813,
+        "title": "Easyduino: Open Source PCB Devboards for KiCad",
+        "url": "https://github.com/Hanqaqa/Easyduino",
+        "domain": "github.com",
+        "score": 173,
+        "descendants": 26,
+        "by": "Hanqaqa",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一套为KiCad设计的开源PCB开发板项目，旨在简化硬件原型开发流程。"
+      },
+      {
+        "id": 47903439,
+        "title": "The quiet resurgence of RF engineering",
+        "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+        "domain": "atempleton.bearblog.dev",
+        "score": 131,
+        "descendants": 76,
+        "by": "merlinq",
+        "tags": [],
+        "summary": "探讨射频工程在现代科技环境下悄然回暖的技术与产业背景。"
+      },
+      {
+        "id": 47926861,
+        "title": "Is my blue your blue?",
+        "url": "https://ismy.blue/",
+        "domain": "ismy.blue",
+        "score": 330,
+        "descendants": 223,
+        "by": "theogravity",
+        "tags": [],
+        "summary": "一个互动测试工具，通过直观的颜色对比实验探索不同个体对色觉感知的主观差异。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "vivianvoss.net",
+          "count": 1
+        },
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        },
+        {
+          "domain": "talkie-lm.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 167,
+      "max_score": {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "score": 749
+      },
+      "most_discussed": {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "comments": 660
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点在于科技巨头商业模式的重大变动，特别是微软与OpenAI关系的转向。同时，社区对AI技术伦理、底层工程实践以及跨学科的社会观察（如颜色感知差异和生活方式实验）表现出了浓厚兴趣。"
+  }
+}
