@@ -308,5 +308,169 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于人工智能领域的重大变动与安全风险，包括OpenAI与微软合作关系的调整以及AI数据泄露事件。此外，开发者社区持续关注前沿技术工具，如Rust开发的Postgres扩展和流式3D重建等创新方案。"
+  },
+  "evening": {
+    "time": "2026-04-28 21:54",
+    "stories": [
+      {
+        "id": 47933208,
+        "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+        "url": "https://github.com/localsend/localsend",
+        "domain": "github.com",
+        "score": 186,
+        "descendants": 77,
+        "by": "bilsbie",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一款开源且跨平台的AirDrop替代工具，支持本地局域网快速文件共享。"
+      },
+      {
+        "id": 47933236,
+        "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "domain": "github.com",
+        "score": 82,
+        "descendants": 42,
+        "by": "tosh",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "微软推出的开源前端语音AI项目，旨在提供更灵活的语音交互体验。"
+      },
+      {
+        "id": 47901064,
+        "title": "The World's Most Complex Machine",
+        "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+        "domain": "worksinprogress.co",
+        "score": 174,
+        "descendants": 84,
+        "by": "mellosouls",
+        "tags": [],
+        "summary": "探讨人类历史上最复杂机械装置的技术深度与演变历史。"
+      },
+      {
+        "id": 47927903,
+        "title": "Talkie: a 13B vintage language model from 1930",
+        "url": "https://talkie-lm.com/introducing-talkie",
+        "domain": "talkie-lm.com",
+        "score": 467,
+        "descendants": 186,
+        "by": "jekude",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个基于1930年代风格构建的13B参数语言模型，展示了极具特色的怀旧交互效果。"
+      },
+      {
+        "id": 47934261,
+        "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+        "url": "https://www.lumara-space.app/",
+        "domain": "lumara-space.app",
+        "score": 3,
+        "descendants": 0,
+        "by": "beeswaxpat",
+        "tags": [
+          "Show HN",
+          "Science"
+        ],
+        "summary": "通过NASA实时数据展示太阳与月球状态的动态仪表盘项目。"
+      },
+      {
+        "id": 47932028,
+        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+        "domain": "github.blog",
+        "score": 35,
+        "descendants": 20,
+        "by": "whtsky",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub宣布Copilot代码审查功能将开始消耗用户的GitHub Actions额度时长。"
+      },
+      {
+        "id": 47921248,
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "domain": "bloomberg.com",
+        "score": 926,
+        "descendants": 787,
+        "by": "helsinkiandrew",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软与OpenAI正式终止独家合作及收入分成协议，标志着AI行业格局的重大调整。"
+      },
+      {
+        "id": 47933983,
+        "title": "UAE to leave OPEC in blow to oil cartel",
+        "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+        "domain": "ft.com",
+        "score": 75,
+        "descendants": 57,
+        "by": "bazzmt",
+        "tags": [],
+        "summary": "阿联酋宣布退出欧佩克，引发全球能源市场与国际组织地缘政治变动。"
+      },
+      {
+        "id": 47911675,
+        "title": "The predictable failure of the QDay Prize",
+        "url": "https://algassert.com/post/2601",
+        "domain": "algassert.com",
+        "score": 24,
+        "descendants": 1,
+        "by": "firefly284",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入分析为何QDay量子计算竞赛未能达到预期目标的根本原因。"
+      },
+      {
+        "id": 47918891,
+        "title": "Can You Find the Comet?",
+        "url": "https://apod.nasa.gov/apod/ap260427.html",
+        "domain": "apod.nasa.gov",
+        "score": 90,
+        "descendants": 45,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "NASA天文日图挑战：邀请读者参与寻找隐藏在星空图像中的彗星。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "worksinprogress.co",
+          "count": 1
+        },
+        {
+          "domain": "talkie-lm.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 206,
+      "max_score": {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "score": 926
+      },
+      "most_discussed": {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "comments": 787
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News焦点集中在重磅行业变动与开源技术进展上。微软与OpenAI关系解体成为最受关注的宏观新闻，与此同时，开源工具及AI模型在社区持续走热，涵盖了跨平台文件传输、语音合成及复古模型实验等多元应用场景。"
   }
 }
