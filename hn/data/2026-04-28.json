@@ -151,5 +151,162 @@
       ]
     },
     "summary": "本期Hacker News焦点在于科技巨头商业模式的重大变动，特别是微软与OpenAI关系的转向。同时，社区对AI技术伦理、底层工程实践以及跨学科的社会观察（如颜色感知差异和生活方式实验）表现出了浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-04-28 14:23",
+    "stories": [
+      {
+        "id": 47927903,
+        "title": "Talkie: a 13B vintage language model from 1930",
+        "url": "https://talkie-lm.com/introducing-talkie",
+        "domain": "talkie-lm.com",
+        "score": 271,
+        "descendants": 77,
+        "by": "jekude",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Talkie是一个模拟1930年代风格的13B参数轻量化语言模型项目。"
+      },
+      {
+        "id": 47921248,
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "domain": "bloomberg.com",
+        "score": 833,
+        "descendants": 712,
+        "by": "helsinkiandrew",
+        "tags": [
+          "AI"
+        ],
+        "summary": "彭博社报道称微软与OpenAI已终止独家合作及收入分成协议，标志着双方联盟关系的重大转变。"
+      },
+      {
+        "id": 47899669,
+        "title": "Pgrx: Build Postgres Extensions with Rust",
+        "url": "https://github.com/pgcentralfoundation/pgrx",
+        "domain": "github.com",
+        "score": 42,
+        "descendants": 1,
+        "by": "luu",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "介绍如何利用Rust语言高效构建Postgres数据库扩展的开发框架。"
+      },
+      {
+        "id": 47926861,
+        "title": "Is my blue your blue?",
+        "url": "https://ismy.blue/",
+        "domain": "ismy.blue",
+        "score": 444,
+        "descendants": 304,
+        "by": "theogravity",
+        "tags": [],
+        "summary": "通过互动测试探讨不同个体间对色彩感知差异的哲学与科学问题。"
+      },
+      {
+        "id": 47902269,
+        "title": "Mo RAM, Mo Problems (2025)",
+        "url": "https://fabiensanglard.net/curse/",
+        "domain": "fabiensanglard.net",
+        "score": 91,
+        "descendants": 7,
+        "by": "blfr",
+        "tags": [],
+        "summary": "深度解析随着软件与AI需求增长，计算机硬件内存瓶颈所带来的挑战。"
+      },
+      {
+        "id": 47930170,
+        "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+        "url": "https://technology.robbyant.com/lingbot-map",
+        "domain": "technology.robbyant.com",
+        "score": 17,
+        "descendants": 1,
+        "by": "nateb2022",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种结合几何上下文Transformer的流式实时3D重建技术方案。"
+      },
+      {
+        "id": 47929035,
+        "title": "High Performance Git",
+        "url": "https://gitperf.com/",
+        "domain": "gitperf.com",
+        "score": 83,
+        "descendants": 12,
+        "by": "gnabgib",
+        "tags": [],
+        "summary": "分析优化Git版本控制系统在大规模代码库下性能表现的实践指南。"
+      },
+      {
+        "id": 47927070,
+        "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+        "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+        "domain": "tps.ca",
+        "score": 139,
+        "descendants": 64,
+        "by": "gnabgib",
+        "tags": [],
+        "summary": "多伦多警方逮捕了三名涉嫌使用伪基站设备进行非法短信拦截的嫌疑人。"
+      },
+      {
+        "id": 47928554,
+        "title": "Integrated by Design",
+        "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+        "domain": "vivianvoss.net",
+        "score": 91,
+        "descendants": 37,
+        "by": "vermaden",
+        "tags": [],
+        "summary": "讨论在产品开发过程中如何将集成思维融入设计阶段以提升系统效能。"
+      },
+      {
+        "id": 47919630,
+        "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+        "url": "https://app.oravys.com/blog/mercor-breach-2026",
+        "domain": "app.oravys.com",
+        "score": 499,
+        "descendants": 176,
+        "by": "Oravys",
+        "tags": [
+          "AI"
+        ],
+        "summary": "AI招聘平台Mercor遭遇大规模数据泄露，涉及4万名承包商的4TB语音训练样本。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "talkie-lm.com",
+          "count": 1
+        },
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 251,
+      "max_score": {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "score": 833
+      },
+      "most_discussed": {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "comments": 712
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于人工智能领域的重大变动与安全风险，包括OpenAI与微软合作关系的调整以及AI数据泄露事件。此外，开发者社区持续关注前沿技术工具，如Rust开发的Postgres扩展和流式3D重建等创新方案。"
   }
 }
