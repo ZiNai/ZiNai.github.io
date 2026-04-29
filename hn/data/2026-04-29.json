@@ -326,5 +326,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于技术生态的变动，包括 Ghostty 撤离 GitHub 引发的平台依赖讨论，以及 Rust 安全局限与 AI 模型集成等技术深度议题。此外，内容涵盖了科学界的物理常数测量挑战、AI 商业化与安全策略，以及带有个人叙事色彩的趣味性随笔。"
+  },
+  "evening": {
+    "time": "2026-04-29 21:46",
+    "stories": [
+      {
+        "id": 47945918,
+        "title": "Soft launch of open-source code platform for government",
+        "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+        "domain": "nldigitalgovernment.nl",
+        "score": 295,
+        "descendants": 94,
+        "by": "e12e",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "荷兰政府推出开源代码协作平台，旨在提升公共部门的数字化透明度与协作水平。"
+      },
+      {
+        "id": 47939579,
+        "title": "Ghostty is leaving GitHub",
+        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+        "domain": "mitchellh.com",
+        "score": 2909,
+        "descendants": 873,
+        "by": "WadeGrimridge",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "知名开发者 Mitchell Hashimoto 宣布其终端模拟器项目 Ghostty 正式迁移出 GitHub。"
+      },
+      {
+        "id": 47946958,
+        "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+        "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+        "domain": "theregister.com",
+        "score": 212,
+        "descendants": 109,
+        "by": "terminalbraid",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "HashiCorp 联合创始人公开批评 GitHub，认为其已不再适合进行严肃的开发工作。"
+      },
+      {
+        "id": 47947525,
+        "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+        "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+        "domain": "blog.jeffschomay.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "jschomay",
+        "tags": [
+          "AI"
+        ],
+        "summary": "博主分享构建基于 AI 的智能测试环境，通过自动化 Agent 进行游戏试玩测试的实践经验。"
+      },
+      {
+        "id": 47943499,
+        "title": "Bugs Rust won't catch",
+        "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+        "domain": "corrode.dev",
+        "score": 416,
+        "descendants": 217,
+        "by": "lwhsiao",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "深入探讨 Rust 语言在内存安全之外的逻辑缺陷，解析即使使用 Rust 也难以规避的潜在 bug。"
+      },
+      {
+        "id": 47947490,
+        "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+        "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+        "domain": "diabettech.com",
+        "score": 129,
+        "descendants": 153,
+        "by": "sarusso",
+        "tags": [
+          "AI"
+        ],
+        "summary": "实验揭示 ChatGPT 在处理重复性碳水计算任务时存在严重不确定性，同一输入在多次查询下无法给出一致答案。"
+      },
+      {
+        "id": 47940921,
+        "title": "Before GitHub",
+        "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+        "domain": "lucumr.pocoo.org",
+        "score": 546,
+        "descendants": 174,
+        "by": "mlex",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 47942437,
+        "title": "How ChatGPT serves ads",
+        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "domain": "buchodi.com",
+        "score": 404,
+        "descendants": 272,
+        "by": "lmbbuchodi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析文章揭露了 ChatGPT 目前如何嵌入广告及相关商业流量引导的运作模式。"
+      },
+      {
+        "id": 47945955,
+        "title": "Show HN: Rip.so – a graveyard for dead internet things",
+        "url": "https://rip.so",
+        "domain": "rip.so",
+        "score": 113,
+        "descendants": 84,
+        "by": "bozdemir",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者发布 Rip.so 网站，旨在作为一个数字墓地，收集并纪念那些已消亡的网络服务与产品。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nldigitalgovernment.nl",
+          "count": 1
+        },
+        {
+          "domain": "mitchellh.com",
+          "count": 1
+        },
+        {
+          "domain": "theregister.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 559,
+      "max_score": {
+        "title": "Ghostty is leaving GitHub",
+        "score": 2909
+      },
+      "most_discussed": {
+        "title": "Ghostty is leaving GitHub",
+        "comments": 873
+      },
+      "hot_tags": [
+        "Open Source",
+        "AI",
+        "Rust",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 的核心议题围绕开发者基础设施的去向展开，尤其是围绕 GitHub 的平台信任度及其作为协作中心的地位引发了广泛辩论。同时，技术界对 AI 在测试、数据一致性及商业模式应用中的局限性表现出浓厚兴趣，反映了社区在面对工具变迁与 AI 热潮时的冷静反思。"
   }
 }
