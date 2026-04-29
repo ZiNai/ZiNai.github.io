@@ -162,5 +162,169 @@
       ]
     },
     "summary": "今日Hacker News焦点聚焦于AI领域的行业动态与技术隐忧，包括OpenAI与AWS的合作、Claude的系统提示词漏洞及LLM成本优化实践。此外，开源开发者社区的生态变迁（如Ghostty撤出GitHub）引发了广泛的讨论，展现了开发者对平台依赖与托管工具选择的深度思考。"
+  },
+  "noon": {
+    "time": "2026-04-29 14:16",
+    "stories": [
+      {
+        "id": 47939579,
+        "title": "Ghostty is leaving GitHub",
+        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+        "domain": "mitchellh.com",
+        "score": 2165,
+        "descendants": 656,
+        "by": "WadeGrimridge",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "终端模拟器 Ghostty 宣布离开 GitHub，引发了关于开发者工具托管平台依赖性的广泛讨论。"
+      },
+      {
+        "id": 47943499,
+        "title": "Bugs Rust won't catch",
+        "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+        "domain": "corrode.dev",
+        "score": 120,
+        "descendants": 40,
+        "by": "lwhsiao",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "深入探讨了即便使用 Rust 语言，开发者仍可能遭遇的逻辑漏洞与内存安全之外的陷阱。"
+      },
+      {
+        "id": 47940921,
+        "title": "Before GitHub",
+        "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+        "domain": "lucumr.pocoo.org",
+        "score": 368,
+        "descendants": 111,
+        "by": "mlex",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "回顾了 GitHub 崛起之前的软件协作生态，分析了现代开发流程的演变与范式转变。"
+      },
+      {
+        "id": 47942437,
+        "title": "How ChatGPT serves ads",
+        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "domain": "buchodi.com",
+        "score": 249,
+        "descendants": 153,
+        "by": "lmbbuchodi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析 ChatGPT 如何在对话界面中植入广告并探索其背后的商业化变现逻辑。"
+      },
+      {
+        "id": 47937380,
+        "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+        "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+        "domain": "github.com",
+        "score": 76,
+        "descendants": 17,
+        "by": "fesens",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "展示了一个名为 Auto-Architecture 的项目，通过将 Karpathy 的算法循环指向 CPU 来实现自动架构设计。"
+      },
+      {
+        "id": 47926148,
+        "title": "Withnail's Coat and I",
+        "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+        "domain": "ontherow.substack.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "apollinaire",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇关于电影《我与威尔斯》及其标志性外套的个人叙事随笔。"
+      },
+      {
+        "id": 47920599,
+        "title": "We still don't have a more precise value for \"Big G\"",
+        "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+        "domain": "arstechnica.com",
+        "score": 32,
+        "descendants": 15,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "讨论了为何人类至今仍难以精确测量万有引力常数（Big G）的科学实验难题。"
+      },
+      {
+        "id": 47939320,
+        "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+        "domain": "stratechery.com",
+        "score": 225,
+        "descendants": 78,
+        "by": "translocator",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "OpenAI 与 AWS 高管访谈，探讨 OpenAI 模型接入 Amazon Bedrock 的战略意义。"
+      },
+      {
+        "id": 47942492,
+        "title": "Regression: malware reminder on every read still causes subagent refusals",
+        "url": "https://github.com/anthropics/claude-code/issues/49363",
+        "domain": "github.com",
+        "score": 187,
+        "descendants": 81,
+        "by": "thomashobohm",
+        "tags": [],
+        "summary": "反馈关于安全合规策略误报的问题，即恶意软件检测机制导致 subagent 频繁拒绝正常请求。"
+      },
+      {
+        "id": 47940389,
+        "title": "I won a championship that doesn't exist",
+        "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+        "domain": "ron.stoner.com",
+        "score": 119,
+        "descendants": 65,
+        "by": "SEJeff",
+        "tags": [],
+        "summary": "讲述了一段关于参与并赢得一个虚构冠军头衔的荒诞而有趣的个人经历。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "mitchellh.com",
+          "count": 1
+        },
+        {
+          "domain": "corrode.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 355,
+      "max_score": {
+        "title": "Ghostty is leaving GitHub",
+        "score": 2165
+      },
+      "most_discussed": {
+        "title": "Ghostty is leaving GitHub",
+        "comments": 656
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Systems",
+        "Rust",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术生态的变动，包括 Ghostty 撤离 GitHub 引发的平台依赖讨论，以及 Rust 安全局限与 AI 模型集成等技术深度议题。此外，内容涵盖了科学界的物理常数测量挑战、AI 商业化与安全策略，以及带有个人叙事色彩的趣味性随笔。"
   }
 }
