@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-04-29 09:50",
+    "stories": [
+      {
+        "id": 47939579,
+        "title": "Ghostty is leaving GitHub",
+        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+        "domain": "mitchellh.com",
+        "score": 1673,
+        "descendants": 539,
+        "by": "WadeGrimridge",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Ghostty终端模拟器宣布离开GitHub，引起了关于开发平台去中心化与托管策略的讨论。"
+      },
+      {
+        "id": 47942437,
+        "title": "ChatGPT serves ads. Here's the full attribution loop",
+        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "domain": "buchodi.com",
+        "score": 126,
+        "descendants": 70,
+        "by": "lmbbuchodi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析ChatGPT如何通过广告投放进行流量归因追踪的完整链路。"
+      },
+      {
+        "id": 47940921,
+        "title": "Before GitHub",
+        "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+        "domain": "lucumr.pocoo.org",
+        "score": 260,
+        "descendants": 70,
+        "by": "mlex",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "回顾GitHub出现之前的协作生态，反思代码托管平台对现代开发流程的影响。"
+      },
+      {
+        "id": 47942492,
+        "title": "Claude system prompt bug wastes user money and bricks managed agents",
+        "url": "https://github.com/anthropics/claude-code/issues/49363",
+        "domain": "github.com",
+        "score": 79,
+        "descendants": 23,
+        "by": "thomashobohm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "披露Claude存在的一项系统提示词漏洞，该漏洞可能导致托管智能体产生额外计费甚至故障。"
+      },
+      {
+        "id": 47942903,
+        "title": "We decreased our LLM costs with Opus",
+        "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+        "domain": "mendral.com",
+        "score": 21,
+        "descendants": 0,
+        "by": "shad42",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享通过Claude Opus优化大模型使用效率并成功降低调用成本的工程实践。"
+      },
+      {
+        "id": 47942386,
+        "title": "Claude for Creative Work",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "domain": "anthropic.com",
+        "score": 38,
+        "descendants": 29,
+        "by": "elsewhen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨Claude在创意写作与艺术创作领域中的应用价值与工作流支持。"
+      },
+      {
+        "id": 47939320,
+        "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+        "domain": "stratechery.com",
+        "score": 179,
+        "descendants": 69,
+        "by": "translocator",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "OpenAI模型接入亚马逊Bedrock平台的深度访谈，分析两大巨头合作背后的战略意图。"
+      },
+      {
+        "id": 47941590,
+        "title": "Carrot Disclosure: Forgejo",
+        "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+        "domain": "dustri.org",
+        "score": 96,
+        "descendants": 35,
+        "by": "bo0tzz",
+        "tags": [],
+        "summary": "关于Forgejo项目的披露报告，探讨其作为GitHub替代方案的治理与发展现状。"
+      },
+      {
+        "id": 47940389,
+        "title": "I won a championship that doesn't exist",
+        "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+        "domain": "ron.stoner.com",
+        "score": 78,
+        "descendants": 56,
+        "by": "SEJeff",
+        "tags": [],
+        "summary": "作者记录了一场虚构锦标赛的夺冠经历，深入探讨集体幻觉与叙事构建的心理机制。"
+      },
+      {
+        "id": 47885644,
+        "title": "Intel Arc Pro B70 Review",
+        "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+        "domain": "pugetsystems.com",
+        "score": 109,
+        "descendants": 61,
+        "by": "zdw",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "评测英特尔Arc Pro B70显卡在专业工作负载下的性能表现与性价比分析。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mitchellh.com",
+          "count": 1
+        },
+        {
+          "domain": "buchodi.com",
+          "count": 1
+        },
+        {
+          "domain": "lucumr.pocoo.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 266,
+      "max_score": {
+        "title": "Ghostty is leaving GitHub",
+        "score": 1673
+      },
+      "most_discussed": {
+        "title": "Ghostty is leaving GitHub",
+        "comments": 539
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于AI领域的行业动态与技术隐忧，包括OpenAI与AWS的合作、Claude的系统提示词漏洞及LLM成本优化实践。此外，开源开发者社区的生态变迁（如Ghostty撤出GitHub）引发了广泛的讨论，展现了开发者对平台依赖与托管工具选择的深度思考。"
+  }
+}
