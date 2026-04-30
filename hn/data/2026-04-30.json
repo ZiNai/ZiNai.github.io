@@ -150,5 +150,158 @@
       ]
     },
     "summary": "本期Hacker News聚焦开发工具的迭代与安全议题，Zed 1.0正式发布引发广泛关注，同时围绕AI编码工具（Claude Code/Cursor）的讨论以及关于代码仓库的安全漏洞报告占据了热门话题。整体反映了开发者社区对下一代编辑器性能、AI辅助编程效率及系统架构底层协议稳健性的高度关注。"
+  },
+  "noon": {
+    "time": "2026-04-30 14:21",
+    "stories": [
+      {
+        "id": 47957688,
+        "title": "Where the goblins came from",
+        "url": "https://openai.com/index/where-the-goblins-came-from/",
+        "domain": "openai.com",
+        "score": 352,
+        "descendants": 159,
+        "by": "ilreb",
+        "tags": []
+      },
+      {
+        "id": 47957101,
+        "title": "Craig Venter has died",
+        "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+        "domain": "jcvi.org",
+        "score": 184,
+        "descendants": 33,
+        "by": "rdl",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47957627,
+        "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+        "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+        "domain": "github.com",
+        "score": 83,
+        "descendants": 45,
+        "by": "reconnecting",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 47949027,
+        "title": "Zed 1.0",
+        "url": "https://zed.dev/blog/zed-1-0",
+        "domain": "zed.dev",
+        "score": 1714,
+        "descendants": 554,
+        "by": "salkahfi",
+        "tags": []
+      },
+      {
+        "id": 47927627,
+        "title": "Noctua releases official 3D CAD models for its cooling fans",
+        "url": "https://www.noctua.at/en/3d-cad-models",
+        "domain": "noctua.at",
+        "score": 83,
+        "descendants": 16,
+        "by": "embedding-shape",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47957294,
+        "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+        "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+        "domain": "simonwillison.net",
+        "score": 119,
+        "descendants": 41,
+        "by": "lumpa",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      },
+      {
+        "id": 47957624,
+        "title": "Functional programmers need to take a look at Zig",
+        "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+        "domain": "pure-systems.org",
+        "score": 56,
+        "descendants": 39,
+        "by": "xngbuilds",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 47952181,
+        "title": "Copy Fail",
+        "url": "https://copy.fail/",
+        "domain": "copy.fail",
+        "score": 814,
+        "descendants": 315,
+        "by": "unsnap_biceps",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47957714,
+        "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+        "url": "https://burrito.bio/essays/biology-is-a-burrito",
+        "domain": "burrito.bio",
+        "score": 55,
+        "descendants": 8,
+        "by": "the-mitr",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 47949939,
+        "title": "Cursor Camp",
+        "url": "https://neal.fun/cursor-camp/",
+        "domain": "neal.fun",
+        "score": 820,
+        "descendants": 135,
+        "by": "bpierre",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "jcvi.org",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 428,
+      "max_score": {
+        "title": "Zed 1.0",
+        "score": 1714
+      },
+      "most_discussed": {
+        "title": "Zed 1.0",
+        "comments": 554
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Science"
+      ]
+    },
+    "summary": ""
   }
 }
