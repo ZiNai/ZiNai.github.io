@@ -303,5 +303,150 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-04-30 21:45",
+    "stories": [
+      {
+        "id": 47961319,
+        "title": "Belgium stops decommissioning nuclear power plants",
+        "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+        "domain": "dpa-international.com",
+        "score": 164,
+        "descendants": 90,
+        "by": "mpweiher",
+        "tags": []
+      },
+      {
+        "id": 47961378,
+        "title": "I aggregated 28 US Government auction sites into one search",
+        "url": "https://bidprowl.com",
+        "domain": "bidprowl.com",
+        "score": 53,
+        "descendants": 17,
+        "by": "scarsam",
+        "tags": []
+      },
+      {
+        "id": 47961838,
+        "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+        "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+        "domain": "bbc.com",
+        "score": 44,
+        "descendants": 15,
+        "by": "gorbachev",
+        "tags": []
+      },
+      {
+        "id": 47960507,
+        "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+        "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+        "domain": "firethering.com",
+        "score": 157,
+        "descendants": 90,
+        "by": "steveharing1",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47959463,
+        "title": "Mozilla's Opposition to Chrome's Prompt API",
+        "url": "https://github.com/mozilla/standards-positions/issues/1213",
+        "domain": "github.com",
+        "score": 280,
+        "descendants": 105,
+        "by": "jaffathecake",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 47957688,
+        "title": "Where the goblins came from",
+        "url": "https://openai.com/index/where-the-goblins-came-from/",
+        "domain": "openai.com",
+        "score": 808,
+        "descendants": 483,
+        "by": "ilreb",
+        "tags": []
+      },
+      {
+        "id": 47927627,
+        "title": "Noctua releases official 3D CAD models for its cooling fans",
+        "url": "https://www.noctua.at/en/3d-cad-models",
+        "domain": "noctua.at",
+        "score": 365,
+        "descendants": 79,
+        "by": "embedding-shape",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 47949027,
+        "title": "Zed 1.0",
+        "url": "https://zed.dev/blog/zed-1-0",
+        "domain": "zed.dev",
+        "score": 1970,
+        "descendants": 631,
+        "by": "salkahfi",
+        "tags": []
+      },
+      {
+        "id": 47957294,
+        "title": "The Zig project's rationale for their anti-AI contribution policy",
+        "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+        "domain": "simonwillison.net",
+        "score": 428,
+        "descendants": 215,
+        "by": "lumpa",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      },
+      {
+        "id": 47925792,
+        "title": "My Stratum-0 Atomic Clock",
+        "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
+        "domain": "coverclock.blogspot.com",
+        "score": 13,
+        "descendants": 0,
+        "by": "g0xA52A2A",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dpa-international.com",
+          "count": 1
+        },
+        {
+          "domain": "bidprowl.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 428,
+      "max_score": {
+        "title": "Zed 1.0",
+        "score": 1970
+      },
+      "most_discussed": {
+        "title": "Zed 1.0",
+        "comments": 631
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": ""
   }
 }
