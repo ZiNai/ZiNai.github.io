@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-05-01 09:51",
+    "stories": [
+      {
+        "id": 47967786,
+        "title": "Rivian allows you to disable all internet connectivity",
+        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+        "domain": "rivian.com",
+        "score": 493,
+        "descendants": 183,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "Rivian更新功能，允许用户完全断开车辆互联网连接以保护隐私。"
+      },
+      {
+        "id": 47965060,
+        "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 429,
+        "descendants": 127,
+        "by": "the-mitr",
+        "tags": [],
+        "summary": "通过书籍节选回顾Mark Klein揭露NSA秘密监控设施Room 641A的惊险过程。"
+      },
+      {
+        "id": 47951295,
+        "title": "Opus 4.7 knows the real Kelsey",
+        "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+        "domain": "theargumentmag.com",
+        "score": 152,
+        "descendants": 87,
+        "by": "ilamont",
+        "tags": [],
+        "summary": "探讨Opus 4.7模型在处理关于真实人物身份识别时的表现与争议。"
+      },
+      {
+        "id": 47965108,
+        "title": "CopyFail was not disclosed to distro developers?",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "domain": "openwall.com",
+        "score": 372,
+        "descendants": 299,
+        "by": "ori_b",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于CopyFail漏洞未向发行版开发者披露引发的行业安全质疑。"
+      },
+      {
+        "id": 47964617,
+        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "domain": "semgrep.dev",
+        "score": 325,
+        "descendants": 111,
+        "by": "j12y",
+        "tags": [
+          "AI"
+        ],
+        "summary": "PyTorch Lightning AI训练库中发现伪装成沙丘主题的恶意软件。"
+      },
+      {
+        "id": 47965503,
+        "title": "I built a Game Boy emulator in F#",
+        "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+        "domain": "nickkossolapov.github.io",
+        "score": 215,
+        "descendants": 48,
+        "by": "elvis70",
+        "tags": [],
+        "summary": "开发者分享使用F#语言从零构建Game Boy模拟器的技术实践。"
+      },
+      {
+        "id": 47969288,
+        "title": "The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940",
+        "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+        "domain": "labs.watchtowr.com",
+        "score": 32,
+        "descendants": 12,
+        "by": "zikani_03",
+        "tags": [
+          "Security"
+        ],
+        "summary": "详细拆解CPanel/WHM中导致大规模互联网安全隐患的认证绕过漏洞。"
+      },
+      {
+        "id": 47963204,
+        "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+        "url": "https://twitter.com/theo/status/2049645973350363168",
+        "domain": "twitter.com",
+        "score": 958,
+        "descendants": 534,
+        "by": "elmean",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Code被曝针对提及“OpenClaw”的用户进行限制或额外收费。"
+      },
+      {
+        "id": 47962548,
+        "title": "How an oil refinery works",
+        "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+        "domain": "construction-physics.com",
+        "score": 325,
+        "descendants": 98,
+        "by": "chmaynard",
+        "tags": [],
+        "summary": "深入浅出地解析现代炼油厂的运作原理与复杂流程。"
+      },
+      {
+        "id": 47967508,
+        "title": "The upsell game – Vercel upselling tactics revealed",
+        "url": "https://theupsellgame.com/",
+        "domain": "theupsellgame.com",
+        "score": 98,
+        "descendants": 17,
+        "by": "bartoindahouse",
+        "tags": [],
+        "summary": "文章揭露并分析了Vercel在产品定价与销售中采用的推销手段。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "rivian.com",
+          "count": 1
+        },
+        {
+          "domain": "thereader.mitpress.mit.edu",
+          "count": 1
+        },
+        {
+          "domain": "theargumentmag.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 340,
+      "max_score": {
+        "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+        "score": 958
+      },
+      "most_discussed": {
+        "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+        "comments": 534
+      },
+      "hot_tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于技术安全与平台争议。除了对网络隐私、软件供应链漏洞及恶意软件的深入探讨外，社区对AI工具（如Claude Code）的商业策略及各平台的收费与审查机制表现出高度关注。"
+  }
+}
