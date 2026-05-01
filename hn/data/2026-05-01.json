@@ -151,5 +151,157 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于技术安全与平台争议。除了对网络隐私、软件供应链漏洞及恶意软件的深入探讨外，社区对AI工具（如Claude Code）的商业策略及各平台的收费与审查机制表现出高度关注。"
+  },
+  "noon": {
+    "time": "2026-05-01 14:30",
+    "stories": [
+      {
+        "id": 47965060,
+        "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 530,
+        "descendants": 177,
+        "by": "the-mitr",
+        "tags": [],
+        "summary": "Mark Klein揭露美国国家安全局监控枢纽Room 641A的幕后故事及其对EFF的报料经过。"
+      },
+      {
+        "id": 47965108,
+        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "domain": "openwall.com",
+        "score": 450,
+        "descendants": 337,
+        "by": "ori_b",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入探讨Linux内核漏洞修复过程中，上游开发者与发行版之间缺乏有效预警沟通的风险。"
+      },
+      {
+        "id": 47951295,
+        "title": "Opus 4.7 knows the real Kelsey",
+        "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+        "domain": "theargumentmag.com",
+        "score": 282,
+        "descendants": 142,
+        "by": "ilamont",
+        "tags": [],
+        "summary": "一篇关于Opus 4.7与其人物叙事的深度文学与文化评论。"
+      },
+      {
+        "id": 47964617,
+        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "domain": "semgrep.dev",
+        "score": 374,
+        "descendants": 127,
+        "by": "j12y",
+        "tags": [
+          "AI"
+        ],
+        "summary": "PyTorch Lightning AI训练库中发现以《沙丘》为主题的恶意软件分析报告。"
+      },
+      {
+        "id": 47948152,
+        "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+        "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+        "domain": "spectrum.ieee.org",
+        "score": 19,
+        "descendants": 4,
+        "by": "oldnetguy",
+        "tags": [],
+        "summary": "一位机器人专家转行教师，成功复刻了一台等比例大小的ENIAC计算机。"
+      },
+      {
+        "id": 47946899,
+        "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+        "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+        "domain": "tcd.ie",
+        "score": 22,
+        "descendants": 1,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "考古人员在罗马发现了一份拥有1300年历史的早期英语诗歌手稿副本。"
+      },
+      {
+        "id": 47942863,
+        "title": "Maladaptive Frugality",
+        "url": "https://herbertlui.net/maladaptive-frugality/",
+        "domain": "herbertlui.net",
+        "score": 69,
+        "descendants": 48,
+        "by": "herbertl",
+        "tags": [],
+        "summary": "探讨心理学层面的“适应性吝啬”，分析为何过度节俭反而会导致长期的资源损耗。"
+      },
+      {
+        "id": 47967786,
+        "title": "Can I disable all data collection from my vehicle?",
+        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+        "domain": "rivian.com",
+        "score": 585,
+        "descendants": 230,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "车主发起关于如何彻底禁用现代汽车数据采集功能的讨论，反映了对联网车辆隐私的深度焦虑。"
+      },
+      {
+        "id": 47969288,
+        "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+        "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+        "domain": "labs.watchtowr.com",
+        "score": 83,
+        "descendants": 24,
+        "by": "zikani_03",
+        "tags": [
+          "Security"
+        ],
+        "summary": "关于CVE-2026-41940漏洞的分析，揭示了CPanel和WHM后台的认证绕过风险。"
+      },
+      {
+        "id": 47970622,
+        "title": "OpenWarp",
+        "url": "https://openwarp.zerx.dev",
+        "domain": "openwarp.zerx.dev",
+        "score": 67,
+        "descendants": 59,
+        "by": "zero-lab",
+        "tags": [],
+        "summary": "开源项目OpenWarp的发布，展示了其在图像处理或特定技术领域的应用功能。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "thereader.mitpress.mit.edu",
+          "count": 1
+        },
+        {
+          "domain": "openwall.com",
+          "count": 1
+        },
+        {
+          "domain": "theargumentmag.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 248,
+      "max_score": {
+        "title": "Can I disable all data collection from my vehicle?",
+        "score": 585
+      },
+      "most_discussed": {
+        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+        "comments": 337
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热点主要集中在网络安全、个人隐私与科技历史三大领域。安全漏洞报告及开源软件安全引发了广泛讨论，同时用户对于现代科技产品数据侵犯隐私的担忧也成为了关注焦点。"
   }
 }
