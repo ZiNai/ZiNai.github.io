@@ -303,5 +303,166 @@
       ]
     },
     "summary": "本期Hacker News热点主要集中在网络安全、个人隐私与科技历史三大领域。安全漏洞报告及开源软件安全引发了广泛讨论，同时用户对于现代科技产品数据侵犯隐私的担忧也成为了关注焦点。"
+  },
+  "evening": {
+    "time": "2026-05-01 21:10",
+    "stories": [
+      {
+        "id": 47973376,
+        "title": "Your Website Is Not for You",
+        "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+        "domain": "websmith.studio",
+        "score": 81,
+        "descendants": 48,
+        "by": "pumbaa",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨网站开发应优先考虑用户需求而非个人偏好的设计哲学。"
+      },
+      {
+        "id": 47973755,
+        "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+        "url": "https://www.pagetable.com/?p=1854",
+        "domain": "pagetable.com",
+        "score": 22,
+        "descendants": 6,
+        "by": "ingve",
+        "tags": [
+          "Web"
+        ],
+        "summary": "作者成功在浏览器中运行了 1991 年版的 Adobe PostScript 解释器。"
+      },
+      {
+        "id": 47973559,
+        "title": "Show HN: Site Mogging",
+        "url": "https://sitemogging.com",
+        "domain": "sitemogging.com",
+        "score": 21,
+        "descendants": 17,
+        "by": "jilles",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个旨在对比分析网站性能与视觉排版的开发工具。"
+      },
+      {
+        "id": 47973378,
+        "title": "Apple accidentally left Claude.md files Apple Support app",
+        "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+        "domain": "xcancel.com",
+        "score": 86,
+        "descendants": 37,
+        "by": "andruby",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Apple 支持应用中被发现意外包含了 Claude 的相关说明文档。"
+      },
+      {
+        "id": 47972888,
+        "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+        "url": "https://news.ycombinator.com/item?id=47972888",
+        "domain": "news.ycombinator.com",
+        "score": 51,
+        "descendants": 10,
+        "by": "mayerwin",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "为 Windows 系统开发的高性能蓝牙 MIDI 连接解决方案。"
+      },
+      {
+        "id": 47965060,
+        "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 634,
+        "descendants": 215,
+        "by": "the-mitr",
+        "tags": [],
+        "summary": "节选自相关书籍，记录了举报人揭露 NSA 秘密监控设施 Room 641A 的内幕。"
+      },
+      {
+        "id": 47972511,
+        "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+        "url": "https://github.com/darrylmorley/whatcable",
+        "domain": "github.com",
+        "score": 182,
+        "descendants": 65,
+        "by": "sleepingNomad",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款 Mac 菜单栏小工具，用于检测 USB-C 线材的规格参数。"
+      },
+      {
+        "id": 47972447,
+        "title": "Grok 4.3",
+        "url": "https://docs.x.ai/developers/models/grok-4.3",
+        "domain": "docs.x.ai",
+        "score": 168,
+        "descendants": 227,
+        "by": "simianwords",
+        "tags": [],
+        "summary": "关于 Grok 4.3 版本的更新公告与功能概览。"
+      },
+      {
+        "id": 47946899,
+        "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+        "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+        "domain": "tcd.ie",
+        "score": 99,
+        "descendants": 62,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "在罗马发现了一份 1300 年前英语诗歌的最早版本手稿。"
+      },
+      {
+        "id": 47965108,
+        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "domain": "openwall.com",
+        "score": 538,
+        "descendants": 435,
+        "by": "ori_b",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度分析 Linux 内核漏洞披露机制中，发行版无法提前获知补丁的问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "websmith.studio",
+          "count": 1
+        },
+        {
+          "domain": "pagetable.com",
+          "count": 1
+        },
+        {
+          "domain": "sitemogging.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 188,
+      "max_score": {
+        "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "score": 634
+      },
+      "most_discussed": {
+        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+        "comments": 435
+      },
+      "hot_tags": [
+        "Show HN",
+        "Web",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论聚焦于隐私泄露与网络安全治理，包括对 Linux 内核补丁分发机制的深入反思及互联网基础设施监控的揭秘。同时，开发者社区关注浏览器仿真技术、Apple 的文档泄露事件以及硬件与工具类的实用型创作，体现了从底层系统架构到前端开发工具的广泛兴趣。"
   }
 }
