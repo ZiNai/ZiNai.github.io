@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-05-02 09:29",
+    "stories": [
+      {
+        "id": 47979583,
+        "title": "Ti-84 Evo",
+        "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+        "domain": "education.ti.com",
+        "score": 272,
+        "descendants": 266,
+        "by": "thatxliner",
+        "tags": [],
+        "summary": "Ti-84计算器引发的热议，探讨了现代教育工具在技术迭代中的位置。"
+      },
+      {
+        "id": 47977748,
+        "title": "New research suggests people can communicate and practice skills while dreaming",
+        "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+        "domain": "newyorker.com",
+        "score": 232,
+        "descendants": 120,
+        "by": "XzetaU8",
+        "tags": [
+          "Science"
+        ],
+        "summary": "研究显示人类能够在清醒梦状态下进行交流和技能练习，揭示了睡眠认知的新潜能。"
+      },
+      {
+        "id": 47954394,
+        "title": "Artemis II Photo Timeline",
+        "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+        "domain": "artemistimeline.com",
+        "score": 39,
+        "descendants": 3,
+        "by": "geerlingguy",
+        "tags": [],
+        "summary": "Artemis II任务的时间线照片集合，详细记录了人类重返月球准备工作的历程。"
+      },
+      {
+        "id": 47950070,
+        "title": "The smelly baby problem",
+        "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+        "domain": "worksinprogress.news",
+        "score": 91,
+        "descendants": 36,
+        "by": "dionysou",
+        "tags": [],
+        "summary": "分析所谓“臭婴儿问题”，通过社会学视角探讨育儿与现代生活方式的冲突。"
+      },
+      {
+        "id": 47981669,
+        "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+        "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+        "domain": "mirandaheath.website",
+        "score": 18,
+        "descendants": 3,
+        "by": "susam",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "2025年开源软件社区倦怠状况报告，深入剖析了维护者面临的精神健康挑战。"
+      },
+      {
+        "id": 47955789,
+        "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+        "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+        "domain": "wired.com",
+        "score": 85,
+        "descendants": 104,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Eka的机器人爪技术展示了触觉反馈的进步，被认为是机器人领域的“ChatGPT时刻”。"
+      },
+      {
+        "id": 47975571,
+        "title": "Ask HN: Who is hiring? (May 2026)",
+        "url": "https://news.ycombinator.com/item?id=47975571",
+        "domain": "news.ycombinator.com",
+        "score": 224,
+        "descendants": 250,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "2026年5月版Hacker News官方招聘帖，汇集了科技行业的最新人才需求。"
+      },
+      {
+        "id": 47978834,
+        "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+        "url": "https://github.com/microsoft/lib0xc",
+        "domain": "github.com",
+        "score": 68,
+        "descendants": 20,
+        "by": "wooster",
+        "tags": [],
+        "summary": "Lib0xc项目提供了一套类C标准库的API，旨在通过更现代的接口提升系统编程安全性。"
+      },
+      {
+        "id": 47979190,
+        "title": "Whimsical Animations Course Open House",
+        "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+        "domain": "courses.joshwcomeau.com",
+        "score": 63,
+        "descendants": 9,
+        "by": "SpyCoder77",
+        "tags": [],
+        "summary": "Josh W. Comeau推出的趣味动画课程，通过互动教学讲解复杂的前端动画实现。"
+      },
+      {
+        "id": 47975592,
+        "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+        "url": "https://github.com/whohas/whohas",
+        "domain": "github.com",
+        "score": 123,
+        "descendants": 28,
+        "by": "peter_d_sherman",
+        "tags": [],
+        "summary": "Whohas工具让用户能在不同Linux发行版和软件仓库中快速搜索软件包。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "education.ti.com",
+          "count": 1
+        },
+        {
+          "domain": "newyorker.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 122,
+      "max_score": {
+        "title": "Ti-84 Evo",
+        "score": 272
+      },
+      "most_discussed": {
+        "title": "Ti-84 Evo",
+        "comments": 266
+      },
+      "hot_tags": [
+        "Science",
+        "Open Source",
+        "AI",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了从教育技术革新到开源领域心理健康的多元议题。开发者与科技爱好者正密切关注Lucid Dreaming的研究进展、机器人控制的突破，以及系统级编程的安全性优化。"
+  }
+}
