@@ -153,5 +153,143 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了从教育技术革新到开源领域心理健康的多元议题。开发者与科技爱好者正密切关注Lucid Dreaming的研究进展、机器人控制的突破，以及系统级编程的安全性优化。"
+  },
+  "noon": {
+    "time": "2026-05-02 13:59",
+    "stories": [
+      {
+        "id": 47983226,
+        "title": "Ask.com has closed",
+        "url": "https://www.ask.com/",
+        "domain": "ask.com",
+        "score": 153,
+        "descendants": 76,
+        "by": "supermdguy",
+        "tags": [],
+        "summary": "早期搜索引擎鼻祖 Ask.com 正式宣布关闭服务。"
+      },
+      {
+        "id": 47979583,
+        "title": "Ti-84 Evo",
+        "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+        "domain": "education.ti.com",
+        "score": 396,
+        "descendants": 361,
+        "by": "thatxliner",
+        "tags": [],
+        "summary": "围绕 Ti-84 计算器在教育领域的影响及演变的讨论。"
+      },
+      {
+        "id": 47982512,
+        "title": "Job Postings for Software Engineers Are Rapidly Rising",
+        "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+        "domain": "citadelsecurities.com",
+        "score": 99,
+        "descendants": 31,
+        "by": "delichon",
+        "tags": [],
+        "summary": "Citadel Securities 分析显示软件工程师职位需求正在显著反弹。"
+      },
+      {
+        "id": 47954394,
+        "title": "Artemis II Photo Timeline",
+        "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+        "domain": "artemistimeline.com",
+        "score": 146,
+        "descendants": 12,
+        "by": "geerlingguy",
+        "tags": [],
+        "summary": "展示 Artemis II 登月任务进程的官方时间轴影像资料。"
+      },
+      {
+        "id": 47977748,
+        "title": "New research suggests people can communicate and practice skills while dreaming",
+        "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+        "domain": "newyorker.com",
+        "score": 300,
+        "descendants": 170,
+        "by": "XzetaU8",
+        "tags": [
+          "Science"
+        ],
+        "summary": "研究发现人类在睡眠梦境中具备学习与练习技能的潜力。"
+      },
+      {
+        "id": 47957648,
+        "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+        "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+        "domain": "liquid.ai",
+        "score": 14,
+        "descendants": 2,
+        "by": "nateb2022",
+        "tags": [],
+        "summary": "Liquid AI 发布的 LFM2-24B-A2B 模型在架构规模化上的技术细节。"
+      },
+      {
+        "id": 47983176,
+        "title": "K3k: Kubernetes in Kubernetes",
+        "url": "https://github.com/rancher/k3k",
+        "domain": "github.com",
+        "score": 12,
+        "descendants": 2,
+        "by": "jzebedee",
+        "tags": [],
+        "summary": "一款实现 Kubernetes 集群在 Kubernetes 内部运行的开源工具。"
+      },
+      {
+        "id": 47949794,
+        "title": "To Restore an Island Paradise, Add Fungi",
+        "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+        "domain": "e360.yale.edu",
+        "score": 38,
+        "descendants": 2,
+        "by": "Brajeshwar",
+        "tags": [],
+        "summary": "探讨如何利用真菌生态修复技术来恢复岛屿自然环境。"
+      },
+      {
+        "id": 47982708,
+        "title": "I built the Playwright for desktop apps. 80% token savings",
+        "url": "https://github.com/lahfir/agent-desktop",
+        "domain": "github.com",
+        "score": 33,
+        "descendants": 4,
+        "by": "lahfir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款专为桌面应用设计的自动化工具，旨在通过架构优化大幅降低 token 消耗。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "ask.com",
+          "count": 1
+        },
+        {
+          "domain": "education.ti.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 132,
+      "max_score": {
+        "title": "Ti-84 Evo",
+        "score": 396
+      },
+      "most_discussed": {
+        "title": "Ti-84 Evo",
+        "comments": 361
+      },
+      "hot_tags": [
+        "Science",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了技术与科学的跨界动态，包括 AI 模型架构演进、软件工程市场趋势及前沿睡眠认知研究。此外，经典互联网服务的停运与怀旧科技工具的讨论也引发了社区对数字化进程的关注。"
   }
 }
