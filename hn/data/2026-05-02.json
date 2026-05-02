@@ -291,5 +291,168 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了技术与科学的跨界动态，包括 AI 模型架构演进、软件工程市场趋势及前沿睡眠认知研究。此外，经典互联网服务的停运与怀旧科技工具的讨论也引发了社区对数字化进程的关注。"
+  },
+  "evening": {
+    "time": "2026-05-02 21:00",
+    "stories": [
+      {
+        "id": 47984852,
+        "title": "How fast is a macOS VM, and how small could it be?",
+        "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+        "domain": "eclecticlight.co",
+        "score": 69,
+        "descendants": 19,
+        "by": "moosia",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨了 macOS 虚拟机在性能上限与体积优化方面的极限尝试。"
+      },
+      {
+        "id": 47983352,
+        "title": "Why does it take so long to release black fan versions?",
+        "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+        "domain": "noctua.at",
+        "score": 352,
+        "descendants": 162,
+        "by": "buildbot",
+        "tags": [],
+        "summary": "分析了 Noctua 粉丝对于推出黑色版散热器产品为何响应迟缓的背景原因。"
+      },
+      {
+        "id": 47984522,
+        "title": "Why are there both TMP and TEMP environment variables? (2015)",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+        "domain": "devblogs.microsoft.com",
+        "score": 75,
+        "descendants": 41,
+        "by": "ankitg12",
+        "tags": [],
+        "summary": "回顾了 Windows 环境下同时存在 TMP 和 TEMP 变量的历史缘由及演变。"
+      },
+      {
+        "id": 47985725,
+        "title": "The Century-Long Pause in Fundamental Physics",
+        "url": "https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics",
+        "domain": "danieltan.weblog.lol",
+        "score": 8,
+        "descendants": 0,
+        "by": "danieltanfh95",
+        "tags": [
+          "Science"
+        ],
+        "summary": "审视了基础物理学领域长达一个世纪的理论进展停滞现象。"
+      },
+      {
+        "id": 47949066,
+        "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+        "url": "https://github.com/bruin-data/dac",
+        "domain": "github.com",
+        "score": 39,
+        "descendants": 8,
+        "by": "karakanb",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "介绍了一款面向 AI 智能体与人类交互的开源仪表盘代码工具。"
+      },
+      {
+        "id": 47985210,
+        "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+        "url": "https://piruet.app",
+        "domain": "piruet.app",
+        "score": 28,
+        "descendants": 28,
+        "by": "patillacode",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "分享了一位开发者为女友亲手构建的自托管私密日记应用。"
+      },
+      {
+        "id": 47964957,
+        "title": "Dotcl: Common Lisp Implementation on .NET",
+        "url": "https://github.com/dotcl/dotcl",
+        "domain": "github.com",
+        "score": 51,
+        "descendants": 6,
+        "by": "reikonomusha",
+        "tags": [],
+        "summary": "展示了基于 .NET 平台运行的 Common Lisp 开发实现方案。"
+      },
+      {
+        "id": 47979583,
+        "title": "Ti-84 Evo",
+        "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+        "domain": "education.ti.com",
+        "score": 481,
+        "descendants": 406,
+        "by": "thatxliner",
+        "tags": [],
+        "summary": "报道了德州仪器经典计算器 Ti-84 系列的最新硬件升级与型号迭代。"
+      },
+      {
+        "id": 47984734,
+        "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+        "url": "https://iesna.eu/?wasm=skyglow_demo",
+        "domain": "iesna.eu",
+        "score": 22,
+        "descendants": 6,
+        "by": "holg",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "基于真实光度测量数据实现的浏览器端光污染模拟器。"
+      },
+      {
+        "id": 47985077,
+        "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+        "url": "https://mljar.com/",
+        "domain": "mljar.com",
+        "score": 24,
+        "descendants": 3,
+        "by": "pplonski86",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一款本地 AI 数据分析工具，能将分析过程自动保存为交互式笔记本。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "eclecticlight.co",
+          "count": 1
+        },
+        {
+          "domain": "noctua.at",
+          "count": 1
+        }
+      ],
+      "avg_score": 115,
+      "max_score": {
+        "title": "Ti-84 Evo",
+        "score": 481
+      },
+      "most_discussed": {
+        "title": "Ti-84 Evo",
+        "comments": 406
+      },
+      "hot_tags": [
+        "Show HN",
+        "Systems",
+        "Science",
+        "Open Source",
+        "Web"
+      ]
+    },
+    "summary": "今日 Hacker News 热门讨论涵盖了从底层操作系统性能与环境配置到专业硬件更新的多样化技术话题。同时，社区展现了对开源 AI 开发工具和个人自建应用的持续关注，体现了开发者在实用工具创新与底层原理探索间的平衡。"
   }
 }
