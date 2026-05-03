@@ -149,5 +149,156 @@
       ]
     },
     "summary": "今日Hacker News话题集中在软件工程实践、技术生态与科研发现。开发者们不仅关注生产环境中的工具体验优化与编程语言演进，还讨论了隐私保护、开源项目资助以及跨学科的考古与环保科技进展。"
+  },
+  "noon": {
+    "time": "2026-05-03 14:19",
+    "stories": [
+      {
+        "id": 47993235,
+        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "domain": "thinkpol.ca",
+        "score": 156,
+        "descendants": 70,
+        "by": "bazlightyear",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Kimi K2.6在编码测试中展现超越Claude与GPT系列模型的性能表现。"
+      },
+      {
+        "id": 47992338,
+        "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+        "domain": "bbc.com",
+        "score": 134,
+        "descendants": 61,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "通过秘密网络向伊朗走私Starlink设备以突破网络封锁的调查报告。"
+      },
+      {
+        "id": 47991802,
+        "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+        "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+        "domain": "blog.haskell.org",
+        "score": 133,
+        "descendants": 54,
+        "by": "unignorant",
+        "tags": [],
+        "summary": "Mercury银行分享在生产环境中维护数百万行Haskell代码的工程经验。"
+      },
+      {
+        "id": 47990318,
+        "title": "This Month in Ladybird - April 2026",
+        "url": "https://ladybird.org/newsletter/2026-04-30/",
+        "domain": "ladybird.org",
+        "score": 248,
+        "descendants": 41,
+        "by": "richardboegli",
+        "tags": [],
+        "summary": "Ladybird浏览器更新回顾：记录2026年4月的最新架构演进与开发进展。"
+      },
+      {
+        "id": 47962645,
+        "title": "The IBM Granite 4.1 family of models",
+        "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+        "domain": "research.ibm.com",
+        "score": 37,
+        "descendants": 4,
+        "by": "wglb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "IBM发布Granite 4.1系列模型，补充其企业级AI技术栈。"
+      },
+      {
+        "id": 47990606,
+        "title": "Six Years Perfecting Maps on WatchOS",
+        "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+        "domain": "david-smith.org",
+        "score": 243,
+        "descendants": 53,
+        "by": "valzevul",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开发者分享在WatchOS上深度打磨地图应用体验的六年历程。"
+      },
+      {
+        "id": 47988504,
+        "title": "Dav2d",
+        "url": "https://code.videolan.org/videolan/dav2d",
+        "domain": "code.videolan.org",
+        "score": 420,
+        "descendants": 119,
+        "by": "dabinat",
+        "tags": [],
+        "summary": "VideoLAN开源项目Dav2d的详细解析与技术特点介绍。"
+      },
+      {
+        "id": 47990284,
+        "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+        "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+        "domain": "universiteitleiden.nl",
+        "score": 148,
+        "descendants": 52,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "考古研究揭示尼安德特人在12.5万年前已具备利用动物脂肪的高级生存策略。"
+      },
+      {
+        "id": 47988592,
+        "title": "Do_not_track",
+        "url": "https://donottrack.sh/",
+        "domain": "donottrack.sh",
+        "score": 265,
+        "descendants": 86,
+        "by": "RubyGuy",
+        "tags": [],
+        "summary": "关于do_not_track协议的深度探讨及网络隐私追踪防护机制分析。"
+      },
+      {
+        "id": 47992859,
+        "title": "Windows API Is Successful Cross-Platform API",
+        "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+        "domain": "retrocoding.net",
+        "score": 55,
+        "descendants": 38,
+        "by": "phendrenad2",
+        "tags": [],
+        "summary": "回顾Windows API作为一种意外却持久的跨平台接口的演变与成功原因。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "thinkpol.ca",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.haskell.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 184,
+      "max_score": {
+        "title": "Dav2d",
+        "score": 420
+      },
+      "most_discussed": {
+        "title": "Dav2d",
+        "comments": 119
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI前沿模型的性能基准测试与IBM的新动向，以及科技生态在复杂环境中的应用，如Starlink的抗审查实践。此外，跨平台开发框架、编程语言生产级应用经验及科技历史考古也引发了开发者社区的广泛讨论。"
   }
 }
