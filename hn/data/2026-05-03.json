@@ -1,0 +1,153 @@
+{
+  "morning": {
+    "time": "2026-05-03 09:44",
+    "stories": [
+      {
+        "id": 47989883,
+        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+        "url": "https://github.com/microsoft/vscode/pull/310226",
+        "domain": "github.com",
+        "score": 765,
+        "descendants": 358,
+        "by": "indrora",
+        "tags": [],
+        "summary": "用户投诉VS Code在提交代码时强制插入协作署名，引发了关于IDE自动化行为和用户控制权的讨论。"
+      },
+      {
+        "id": 47991802,
+        "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+        "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+        "domain": "blog.haskell.org",
+        "score": 36,
+        "descendants": 5,
+        "by": "unignorant",
+        "tags": [],
+        "summary": "Mercury公司分享其使用数百万行Haskell代码构建生产工程系统的经验与挑战。"
+      },
+      {
+        "id": 47990318,
+        "title": "This Month in Ladybird - April 2026",
+        "url": "https://ladybird.org/newsletter/2026-04-30/",
+        "domain": "ladybird.org",
+        "score": 148,
+        "descendants": 24,
+        "by": "richardboegli",
+        "tags": [],
+        "summary": "Ladybird浏览器项目发布2026年4月进展报告，展示了独立浏览器引擎开发的最新里程碑。"
+      },
+      {
+        "id": 47990606,
+        "title": "Six Years Perfecting Maps on WatchOS",
+        "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+        "domain": "david-smith.org",
+        "score": 168,
+        "descendants": 32,
+        "by": "valzevul",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "苹果开发者分享在WatchOS上优化地图应用六年的技术细节与性能打磨经验。"
+      },
+      {
+        "id": 47988504,
+        "title": "Dav2d",
+        "url": "https://code.videolan.org/videolan/dav2d",
+        "domain": "code.videolan.org",
+        "score": 332,
+        "descendants": 105,
+        "by": "dabinat",
+        "tags": [],
+        "summary": "介绍Dav2d视频解码器及其在视频处理技术栈中的应用。"
+      },
+      {
+        "id": 47990284,
+        "title": "Neanderthals ran 'fat factories' 125,000 years ago",
+        "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+        "domain": "universiteitleiden.nl",
+        "score": 107,
+        "descendants": 24,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "研究发现12.5万年前的尼安德特人已具备成熟的动物脂肪加工能力。"
+      },
+      {
+        "id": 47988592,
+        "title": "Do_not_track",
+        "url": "https://donottrack.sh/",
+        "domain": "donottrack.sh",
+        "score": 200,
+        "descendants": 67,
+        "by": "RubyGuy",
+        "tags": [],
+        "summary": "一个关于提升网络隐私保护与追踪控制的开源项目及倡议。"
+      },
+      {
+        "id": 47990789,
+        "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+        "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+        "domain": "clojuriststogether.org",
+        "score": 35,
+        "descendants": 5,
+        "by": "dragandj",
+        "tags": [
+          "Startup",
+          "Open Source"
+        ],
+        "summary": "Clojurists Together公布2026年第二季度开源项目资金支持计划。"
+      },
+      {
+        "id": 47960015,
+        "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+        "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+        "domain": "epo.org",
+        "score": 156,
+        "descendants": 9,
+        "by": "JeanKage",
+        "tags": [],
+        "summary": "过去十年间，全球关于废旧电池回收与再利用的专利发明数量增长了七倍。"
+      },
+      {
+        "id": 47984589,
+        "title": "Dabbling in Erlang, part 2: A minimal introduction (2013)",
+        "url": "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/",
+        "domain": "agis.io",
+        "score": 12,
+        "descendants": 1,
+        "by": "pasxizeis",
+        "tags": [],
+        "summary": "一篇关于Erlang语言的入门级技术指南，重温并发编程的基础知识。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.haskell.org",
+          "count": 1
+        },
+        {
+          "domain": "ladybird.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 196,
+      "max_score": {
+        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+        "score": 765
+      },
+      "most_discussed": {
+        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+        "comments": 358
+      },
+      "hot_tags": [
+        "Systems",
+        "Startup",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News话题集中在软件工程实践、技术生态与科研发现。开发者们不仅关注生产环境中的工具体验优化与编程语言演进，还讨论了隐私保护、开源项目资助以及跨学科的考古与环保科技进展。"
+  }
+}
