@@ -149,5 +149,156 @@
       ]
     },
     "summary": "今日 Hacker News 重点关注 AI 代理的应用趋势，尤其是 DeepClaude 等优化成本的工具方案，同时引发了关于代码代理陷阱及终端用户界面可访问性的深入讨论。硬件创新与航空行业动态也吸引了广泛关注，展现了技术探索与实用主义并重的社区风向。"
+  },
+  "noon": {
+    "time": "2026-05-04 14:32",
+    "stories": [
+      {
+        "id": 48004380,
+        "title": "Humanoid Robot Actuators: The Complete Engineering Guide",
+        "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+        "domain": "firgelli.com",
+        "score": 58,
+        "descendants": 4,
+        "by": "ofrzeta",
+        "tags": [],
+        "summary": "一份详尽的人形机器人驱动器工程指南，涵盖了硬件选型与设计核心。"
+      },
+      {
+        "id": 47977990,
+        "title": "Using \"underdrawings\" for accurate text and numbers",
+        "url": "https://samcollins.blog/underdrawings/",
+        "domain": "samcollins.blog",
+        "score": 142,
+        "descendants": 27,
+        "by": "samcollins",
+        "tags": [],
+        "summary": "探讨通过绘制“底稿”来提升手动绘制文本和数字精度的技巧。"
+      },
+      {
+        "id": 47999636,
+        "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+        "url": "https://partyon.xyz/@nullagent/116499715071759135",
+        "domain": "partyon.xyz",
+        "score": 336,
+        "descendants": 107,
+        "by": "nullagent",
+        "tags": [],
+        "summary": "介绍一款全新的LoRa Mesh无线电技术，声称能带来百倍带宽提升。"
+      },
+      {
+        "id": 48002136,
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "url": "https://github.com/aattaran/deepclaude",
+        "domain": "github.com",
+        "score": 352,
+        "descendants": 131,
+        "by": "alattaran",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一种将DeepSeek V4 Pro接入Claude Code的代理方案，大幅降低了AI开发成本。"
+      },
+      {
+        "id": 47968187,
+        "title": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+        "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+        "domain": "blog.stuffedcow.net",
+        "score": 41,
+        "descendants": 1,
+        "by": "TapamN",
+        "tags": [],
+        "summary": "通过微基准测试手段，还原并分析硬盘物理几何结构的经典技术文章。"
+      },
+      {
+        "id": 47977510,
+        "title": "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
+        "url": "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html",
+        "domain": "nytimes.com",
+        "score": 35,
+        "descendants": 3,
+        "by": "ChrisArchitect",
+        "tags": [],
+        "summary": "回顾“希曼”动作玩偶创作者Roger Sweet去世的消息及其设计影响。"
+      },
+      {
+        "id": 48002607,
+        "title": "The 'Hidden' Costs of Great Abstractions",
+        "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+        "domain": "jdgr.net",
+        "score": 129,
+        "descendants": 33,
+        "by": "jdgr",
+        "tags": [],
+        "summary": "深入剖析优秀抽象概念在软件开发中所带来的隐藏维护与复杂性成本。"
+      },
+      {
+        "id": 47991981,
+        "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+        "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+        "domain": "theguardian.com",
+        "score": 362,
+        "descendants": 290,
+        "by": "donsupreme",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究显示OpenAI o1模型在急诊诊断准确率上优于人类分诊医生。"
+      },
+      {
+        "id": 47961208,
+        "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+        "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+        "domain": "aruljohn.com",
+        "score": 84,
+        "descendants": 52,
+        "by": "heresie-dabord",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "解析为何macOS创建的tar压缩包在Linux环境下解压时会出现报错及其解决方法。"
+      },
+      {
+        "id": 47998946,
+        "title": "Southwest Headquarters Tour",
+        "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+        "domain": "katherinemichel.github.io",
+        "score": 225,
+        "descendants": 71,
+        "by": "KatiMichel",
+        "tags": [],
+        "summary": "带你走进西南航空总部的参观记录，分享其企业文化与运营细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "firgelli.com",
+          "count": 1
+        },
+        {
+          "domain": "samcollins.blog",
+          "count": 1
+        },
+        {
+          "domain": "partyon.xyz",
+          "count": 1
+        }
+      ],
+      "avg_score": 176,
+      "max_score": {
+        "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+        "score": 362
+      },
+      "most_discussed": {
+        "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+        "comments": 290
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术的前沿应用与性能优化，包括DeepSeek驱动的Claude代理提效及AI在医疗诊断中的潜力。同时，硬件工程、底层系统调试及技术复盘等硬核技术话题持续引发社区深入讨论。"
   }
 }
