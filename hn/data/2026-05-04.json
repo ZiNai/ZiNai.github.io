@@ -1,0 +1,153 @@
+{
+  "morning": {
+    "time": "2026-05-04 09:45",
+    "stories": [
+      {
+        "id": 48002938,
+        "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+        "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+        "domain": "xogium.me",
+        "score": 95,
+        "descendants": 36,
+        "by": "SpyCoder77",
+        "tags": [],
+        "summary": "批评现代终端界面（TUI）因过度追求视觉效果而忽视了辅助功能，导致使用体验下降。"
+      },
+      {
+        "id": 48002442,
+        "title": "Agentic Coding Is a Trap",
+        "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+        "domain": "larsfaye.com",
+        "score": 126,
+        "descendants": 92,
+        "by": "ayoisaiah",
+        "tags": [],
+        "summary": "探讨 AI 辅助编程代理的局限性，指出盲目依赖自动驾驶编码可能陷入难以维护的困境。"
+      },
+      {
+        "id": 47999636,
+        "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+        "url": "https://partyon.xyz/@nullagent/116499715071759135",
+        "domain": "partyon.xyz",
+        "score": 254,
+        "descendants": 82,
+        "by": "nullagent",
+        "tags": [],
+        "summary": "介绍一款名为 BYOMesh 的新型 LoRa 网状网络设备，号称将带宽性能提升了 100 倍。"
+      },
+      {
+        "id": 48002777,
+        "title": "Let's Buy Spirit Air",
+        "url": "https://letsbuyspiritair.com/",
+        "domain": "letsbuyspiritair.com",
+        "score": 97,
+        "descendants": 63,
+        "by": "bjhess",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一项关于收购 Spirit Airlines 的可行性分析或相关商业计划探讨。"
+      },
+      {
+        "id": 48002136,
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "url": "https://github.com/aattaran/deepclaude",
+        "domain": "github.com",
+        "score": 161,
+        "descendants": 71,
+        "by": "alattaran",
+        "tags": [
+          "AI"
+        ],
+        "summary": "利用 DeepSeek V4 Pro 驱动 Claude Code 代理，在保持高性能的同时显著降低了开发成本。"
+      },
+      {
+        "id": 48002607,
+        "title": "The 'Hidden' Costs of Great Abstractions",
+        "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+        "domain": "jdgr.net",
+        "score": 51,
+        "descendants": 10,
+        "by": "jdgr",
+        "tags": [],
+        "summary": "剖析软件开发中优质抽象带来的隐性代价，提醒开发者警惕过度封装的陷阱。"
+      },
+      {
+        "id": 47977990,
+        "title": "Using \"underdrawings\" for accurate text and numbers",
+        "url": "https://samcollins.blog/underdrawings/",
+        "domain": "samcollins.blog",
+        "score": 26,
+        "descendants": 3,
+        "by": "samcollins",
+        "tags": [],
+        "summary": "分享在手绘或排版过程中使用“底稿”技术，以确保文字和数字排列精准的技巧。"
+      },
+      {
+        "id": 47998946,
+        "title": "Southwest Headquarters Tour",
+        "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+        "domain": "katherinemichel.github.io",
+        "score": 189,
+        "descendants": 55,
+        "by": "KatiMichel",
+        "tags": [],
+        "summary": "通过实地探访西南航空总部，展示其办公环境、企业文化及运营背后的细节。"
+      },
+      {
+        "id": 47974682,
+        "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+        "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+        "domain": "phys.org",
+        "score": 90,
+        "descendants": 39,
+        "by": "leopoldj",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍美印联合太空任务如何利用遥感数据精准监测墨西哥城地表沉降的严重现状。"
+      },
+      {
+        "id": 48002089,
+        "title": "Introduction to Atom",
+        "url": "https://validator.w3.org/feed/docs/atom.html",
+        "domain": "validator.w3.org",
+        "score": 28,
+        "descendants": 6,
+        "by": "susam",
+        "tags": [],
+        "summary": "W3C 发布关于 Atom 聚合格式的入门指南，介绍其在网页订阅和数据交换中的基础应用。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "xogium.me",
+          "count": 1
+        },
+        {
+          "domain": "larsfaye.com",
+          "count": 1
+        },
+        {
+          "domain": "partyon.xyz",
+          "count": 1
+        }
+      ],
+      "avg_score": 112,
+      "max_score": {
+        "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+        "score": 254
+      },
+      "most_discussed": {
+        "title": "Agentic Coding Is a Trap",
+        "comments": 92
+      },
+      "hot_tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 重点关注 AI 代理的应用趋势，尤其是 DeepClaude 等优化成本的工具方案，同时引发了关于代码代理陷阱及终端用户界面可访问性的深入讨论。硬件创新与航空行业动态也吸引了广泛关注，展现了技术探索与实用主义并重的社区风向。"
+  }
+}
