@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-05-05 09:45",
+    "stories": [
+      {
+        "id": 48016880,
+        "title": "Bun is being ported from Zig to Rust",
+        "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+        "domain": "github.com",
+        "score": 55,
+        "descendants": 21,
+        "by": "SergeAx",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Systems"
+        ],
+        "summary": "Bun项目宣布将底层架构从Zig迁移至Rust，旨在提升工程可持续性与生态适配度。"
+      },
+      {
+        "id": 48013919,
+        "title": "How OpenAI delivers low-latency voice AI at scale",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+        "domain": "openai.com",
+        "score": 281,
+        "descendants": 100,
+        "by": "Sean-Der",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI官方技术博文解析其如何实现大规模低延迟实时语音AI的技术架构。"
+      },
+      {
+        "id": 48007438,
+        "title": "Talking to strangers at the gym",
+        "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+        "domain": "thienantran.com",
+        "score": 1147,
+        "descendants": 537,
+        "by": "thitran",
+        "tags": [],
+        "summary": "一篇关于在健身房环境中与陌生人社交的观察与心得分享。"
+      },
+      {
+        "id": 48015397,
+        "title": "Agent Skills",
+        "url": "https://addyosmani.com/blog/agent-skills/",
+        "domain": "addyosmani.com",
+        "score": 108,
+        "descendants": 32,
+        "by": "BOOSTERHIDROGEN",
+        "tags": [],
+        "summary": "探讨AI代理（Agent）如何通过技能工程实现更复杂、更自动化的任务执行。"
+      },
+      {
+        "id": 48012162,
+        "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+        "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+        "domain": "strix.ai",
+        "score": 168,
+        "descendants": 74,
+        "by": "bearsyankees",
+        "tags": [
+          "Security"
+        ],
+        "summary": "安全研究员披露其在国防承包商系统中发现的多租户授权漏洞案例分析。"
+      },
+      {
+        "id": 47998158,
+        "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+        "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+        "domain": "oldvcr.blogspot.com",
+        "score": 59,
+        "descendants": 8,
+        "by": "zdw",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "技术博主展示在Apple Network Server 2.0 ROM上运行macOS的复古实验过程。"
+      },
+      {
+        "id": 48009983,
+        "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+        "url": "https://www.nber.org/papers/w35117",
+        "domain": "nber.org",
+        "score": 210,
+        "descendants": 206,
+        "by": "littlexsparkee",
+        "tags": [],
+        "summary": "NBER研究报告：分析劳动力市场冲击后的就业情况与认知能力下降的关联性。"
+      },
+      {
+        "id": 48009172,
+        "title": "Redis array: short story of a long development process",
+        "url": "https://antirez.com/news/164",
+        "domain": "antirez.com",
+        "score": 228,
+        "descendants": 80,
+        "by": "antirez",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Redis创始人antirez回顾Redis数组功能开发背后的技术抉择与心路历程。"
+      },
+      {
+        "id": 48012735,
+        "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+        "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+        "domain": "twitter.com",
+        "score": 408,
+        "descendants": 146,
+        "by": "cft",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "爆料指控Microsoft Edge在闲置状态下仍将所有密码以明文形式驻留在内存中。"
+      },
+      {
+        "id": 48011184,
+        "title": "I am worried about Bun",
+        "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+        "domain": "wwj.dev",
+        "score": 407,
+        "descendants": 279,
+        "by": "remote-dev",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "开发者表达对Bun生态快速迭代与架构调整带来的长期稳定性担忧。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "thienantran.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 307,
+      "max_score": {
+        "title": "Talking to strangers at the gym",
+        "score": 1147
+      },
+      "most_discussed": {
+        "title": "Talking to strangers at the gym",
+        "comments": 537
+      },
+      "hot_tags": [
+        "Systems",
+        "JavaScript",
+        "Rust",
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术工程决策与安全漏洞，Bun转用Rust的架构重构及Edge浏览器的明文密码安全隐患引发广泛讨论。同时，AI语音技术架构、企业安全漏洞挖掘以及探讨职场对认知衰退影响的社会科学研究，构成了多元的技术与人文话题版图。"
+  }
+}
