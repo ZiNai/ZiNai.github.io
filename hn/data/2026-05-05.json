@@ -162,5 +162,154 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在技术工程决策与安全漏洞，Bun转用Rust的架构重构及Edge浏览器的明文密码安全隐患引发广泛讨论。同时，AI语音技术架构、企业安全漏洞挖掘以及探讨职场对认知衰退影响的社会科学研究，构成了多元的技术与人文话题版图。"
+  },
+  "noon": {
+    "time": "2026-05-05 14:09",
+    "stories": [
+      {
+        "id": 48018066,
+        "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+        "url": "https://walzr.com/empty-screenings",
+        "domain": "walzr.com",
+        "score": 86,
+        "descendants": 54,
+        "by": "MrBuddyCasino",
+        "tags": []
+      },
+      {
+        "id": 48017298,
+        "title": "What I'm Hearing About Cognitive Debt (So Far)",
+        "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+        "domain": "margaretstorey.com",
+        "score": 161,
+        "descendants": 79,
+        "by": "raphaelcosta",
+        "tags": []
+      },
+      {
+        "id": 48016880,
+        "title": "Bun is being ported from Zig to Rust",
+        "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+        "domain": "github.com",
+        "score": 365,
+        "descendants": 239,
+        "by": "SergeAx",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Systems"
+        ]
+      },
+      {
+        "id": 48017948,
+        "title": "Train Your Own LLM from Scratch",
+        "url": "https://github.com/angelos-p/llm-from-scratch",
+        "domain": "github.com",
+        "score": 56,
+        "descendants": 8,
+        "by": "kristianpaul",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48017813,
+        "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+        "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+        "domain": "dragonsreach.it",
+        "score": 59,
+        "descendants": 15,
+        "by": "averi",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 48017399,
+        "title": "Pulitzer Prize Winner in International Reporting",
+        "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+        "domain": "pulitzer.org",
+        "score": 67,
+        "descendants": 3,
+        "by": "jay_kyburz",
+        "tags": []
+      },
+      {
+        "id": 48013919,
+        "title": "How OpenAI delivers low-latency voice AI at scale",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+        "domain": "openai.com",
+        "score": 361,
+        "descendants": 118,
+        "by": "Sean-Der",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48017251,
+        "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+        "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+        "domain": "nobodyaskedforthis.lol",
+        "score": 51,
+        "descendants": 29,
+        "by": "cadito",
+        "tags": []
+      },
+      {
+        "id": 48015397,
+        "title": "Agent Skills",
+        "url": "https://addyosmani.com/blog/agent-skills/",
+        "domain": "addyosmani.com",
+        "score": 203,
+        "descendants": 87,
+        "by": "BOOSTERHIDROGEN",
+        "tags": []
+      },
+      {
+        "id": 48017907,
+        "title": "Hand Drawn QR Codes",
+        "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+        "domain": "sethmlarson.dev",
+        "score": 12,
+        "descendants": 0,
+        "by": "jollyjerry",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "walzr.com",
+          "count": 1
+        },
+        {
+          "domain": "margaretstorey.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 142,
+      "max_score": {
+        "title": "Bun is being ported from Zig to Rust",
+        "score": 365
+      },
+      "most_discussed": {
+        "title": "Bun is being ported from Zig to Rust",
+        "comments": 239
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "JavaScript",
+        "Systems",
+        "Security"
+      ]
+    },
+    "summary": ""
   }
 }
