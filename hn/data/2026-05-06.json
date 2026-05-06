@@ -1,0 +1,146 @@
+{
+  "morning": {
+    "time": "2026-05-06 09:30",
+    "stories": [
+      {
+        "id": 48027897,
+        "title": ".de TLD offline due to DNSSEC?",
+        "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+        "domain": "dnssec-analyzer.verisignlabs.com",
+        "score": 523,
+        "descendants": 242,
+        "by": "warpspin",
+        "tags": []
+      },
+      {
+        "id": 48024540,
+        "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+        "domain": "blog.google",
+        "score": 444,
+        "descendants": 199,
+        "by": "amrrs",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48024859,
+        "title": "Computer Use is 45x more expensive than structured APIs",
+        "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+        "domain": "reflex.dev",
+        "score": 309,
+        "descendants": 175,
+        "by": "palashawas",
+        "tags": []
+      },
+      {
+        "id": 48023861,
+        "title": "Three Inverse Laws of AI",
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "domain": "susam.net",
+        "score": 353,
+        "descendants": 244,
+        "by": "blenderob",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48024129,
+        "title": "EEVblog: The 555 Timer is 55 years old [video]",
+        "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+        "domain": "youtube.com",
+        "score": 220,
+        "descendants": 54,
+        "by": "brudgers",
+        "tags": []
+      },
+      {
+        "id": 48028842,
+        "title": "Write some software, give it away for free",
+        "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+        "domain": "nonogra.ph",
+        "score": 127,
+        "descendants": 95,
+        "by": "nohell",
+        "tags": []
+      },
+      {
+        "id": 48028546,
+        "title": "Why most product tours get skipped",
+        "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+        "domain": "productonboarding.com",
+        "score": 65,
+        "descendants": 55,
+        "by": "pancomplex",
+        "tags": []
+      },
+      {
+        "id": 48029114,
+        "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+        "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+        "domain": "npr.org",
+        "score": 201,
+        "descendants": 88,
+        "by": "ilamont",
+        "tags": []
+      },
+      {
+        "id": 48026342,
+        "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+        "url": "https://paletteinspiration.com/",
+        "domain": "paletteinspiration.com",
+        "score": 102,
+        "descendants": 39,
+        "by": "ouli",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 48026021,
+        "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+        "url": "https://arxiv.org/abs/2604.26752",
+        "domain": "arxiv.org",
+        "score": 112,
+        "descendants": 23,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dnssec-analyzer.verisignlabs.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "reflex.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 246,
+      "max_score": {
+        "title": ".de TLD offline due to DNSSEC?",
+        "score": 523
+      },
+      "most_discussed": {
+        "title": "Three Inverse Laws of AI",
+        "comments": 244
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "{\n  \"overall\": \"今日Hacker News聚焦于网络基础设施稳定性与AI技术迭代，包括.de域名解析故障、谷歌Gemma模型推理优化及多模态智能体研究。同时，社区围绕AI应用成本、产品用户体验设计及 Polymarket总部争议等话题展开了深度探讨。\",\n  \"stories\": {\n    \"48027897\": \".de顶级域名因DNSSEC配置问题导致全球解析中断。\",\n    \"48024540\": 谷歌通过多token预测机制显著提升了Gemma模型推理速度。\",\n    \"48024859\": 深度对比显示，通用计算机操作（Computer Use）的成本远高于调用结构化API。\",\n    \"48023861\": 探讨人工智能发展过程中的三条反直觉演进规律。\",\n    \"48024129\": 经典555定时器芯片迎来55周年，回顾其电子工业基石地位。\",\n    \"48028842\": 呼吁开发者回归纯粹，倡导编写并免费开源实用软件的理念。\",\n    \"48028546\": 分析用户为何总是跳过产品新手引导，并探讨提升交互体验的策略。\",\n    \"48029114\": NPR调查发现预测平台Polymarket在巴拿马的注册地并未见其实际办公点。\",\n    \"48026342\": 展示一个基于3000幅艺术大师名画提取配色方案的灵感工具。\",\n    \"48026021\": 介绍GLM-5V-Turbo模型，旨在为多模态智能体提供更原生的基础模型支持。\"\n  }\n}"
+  }
+}
