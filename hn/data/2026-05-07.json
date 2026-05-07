@@ -304,5 +304,134 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿技术与基础工具的深度探讨，涵盖了 Valve 开放硬件设计、数据库与存储标准的权威认可，以及对 AI 编码工具与办公效率现象的广泛审视。整体呈现出软硬件开源共创、存储持久化方案以及对软件工程范式变迁的思考热潮。"
+  },
+  "evening": {
+    "time": "2026-05-07 21:56",
+    "stories": [
+      {
+        "id": 48010729,
+        "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+        "url": "https://ratex.lites.dev/",
+        "domain": "ratex.lites.dev",
+        "score": 38,
+        "descendants": 9,
+        "by": "atilimcetin",
+        "tags": [
+          "Rust"
+        ]
+      },
+      {
+        "id": 48037555,
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+        "domain": "digitalfoundry.net",
+        "score": 1579,
+        "descendants": 521,
+        "by": "haunter",
+        "tags": []
+      },
+      {
+        "id": 48008999,
+        "title": "Indian matchbox labels as a visual archive",
+        "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+        "domain": "itsnicethat.com",
+        "score": 55,
+        "descendants": 15,
+        "by": "sahar_builds",
+        "tags": []
+      },
+      {
+        "id": 48014521,
+        "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+        "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+        "domain": "ticalc.org",
+        "score": 92,
+        "descendants": 37,
+        "by": "suoken",
+        "tags": []
+      },
+      {
+        "id": 48047826,
+        "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+        "url": "https://ahk.cardor.dev",
+        "domain": "ahk.cardor.dev",
+        "score": 42,
+        "descendants": 8,
+        "by": "enmanuelmag",
+        "tags": []
+      },
+      {
+        "id": 48047981,
+        "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+        "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
+        "domain": "paulkrugman.substack.com",
+        "score": 176,
+        "descendants": 120,
+        "by": "Qem",
+        "tags": []
+      },
+      {
+        "id": 48042434,
+        "title": "SQLite Is a Library of Congress Recommended Storage Format",
+        "url": "https://sqlite.org/locrsf.html",
+        "domain": "sqlite.org",
+        "score": 406,
+        "descendants": 121,
+        "by": "whatisabcdefgh",
+        "tags": [
+          "Database"
+        ]
+      },
+      {
+        "id": 48038001,
+        "title": "Appearing productive in the workplace",
+        "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "domain": "nooneshappy.com",
+        "score": 1363,
+        "descendants": 545,
+        "by": "diebillionaires",
+        "tags": []
+      },
+      {
+        "id": 48044638,
+        "title": "Permacomputing Principles",
+        "url": "https://permacomputing.net/principles/",
+        "domain": "permacomputing.net",
+        "score": 197,
+        "descendants": 101,
+        "by": "andsoitis",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ratex.lites.dev",
+          "count": 1
+        },
+        {
+          "domain": "digitalfoundry.net",
+          "count": 1
+        },
+        {
+          "domain": "itsnicethat.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 439,
+      "max_score": {
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "score": 1579
+      },
+      "most_discussed": {
+        "title": "Appearing productive in the workplace",
+        "comments": 545
+      },
+      "hot_tags": [
+        "Rust",
+        "Database"
+      ]
+    },
+    "summary": ""
   }
 }
