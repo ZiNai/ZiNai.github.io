@@ -149,5 +149,160 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中于技术生态与工作方式的演进。开发者们正深入探讨开源商业模式的转型、人工智能辅助编程带来的工程范式变革，以及如何剥离职场中的无效内卷，回归工程效率的核心本质。"
+  },
+  "noon": {
+    "time": "2026-05-07 14:28",
+    "stories": [
+      {
+        "id": 48037555,
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+        "domain": "digitalfoundry.net",
+        "score": 1269,
+        "descendants": 391,
+        "by": "haunter",
+        "tags": [],
+        "summary": "Valve 发布了 Steam 手柄的 CAD 设计文件，正式授权开源以供社区进行硬件制造与定制。"
+      },
+      {
+        "id": 48038001,
+        "title": "Appearing productive in the workplace",
+        "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "domain": "nooneshappy.com",
+        "score": 944,
+        "descendants": 364,
+        "by": "diebillionaires",
+        "tags": [],
+        "summary": "本文深度剖析了职场中常见的“表演式生产力”现象及其对组织和个人造成的负面影响。"
+      },
+      {
+        "id": 48045012,
+        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+        "url": "https://aniket.foo/posts/20260505-netboot/",
+        "domain": "aniket.foo",
+        "score": 51,
+        "descendants": 16,
+        "by": "stereo-highway",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨了通过 ZFS、iSCSI 和 PXE 技术实现无盘 Linux 系统启动的技术架构与配置实践。"
+      },
+      {
+        "id": 48044638,
+        "title": "Permacomputing Principles",
+        "url": "https://permacomputing.net/principles/",
+        "domain": "permacomputing.net",
+        "score": 84,
+        "descendants": 22,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "介绍永久计算（Permacomputing）的核心准则，提倡利用现有硬件资源进行可持续的软件开发。"
+      },
+      {
+        "id": 48042434,
+        "title": "SQLite Is a Library of Congress Recommended Storage Format",
+        "url": "https://sqlite.org/locrsf.html",
+        "domain": "sqlite.org",
+        "score": 140,
+        "descendants": 31,
+        "by": "whatisabcdefgh",
+        "tags": [
+          "Database"
+        ],
+        "summary": "美国国会图书馆正式将 SQLite 作为推荐的长期数字存档存储格式。"
+      },
+      {
+        "id": 48037128,
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "domain": "simonwillison.net",
+        "score": 527,
+        "descendants": 573,
+        "by": "e12e",
+        "tags": [],
+        "summary": "Simon Willison 讨论了“Vibe Coding”与代理式工程的发展趋势，并对其对软件质量的潜在影响表示忧虑。"
+      },
+      {
+        "id": 48045174,
+        "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+        "url": "https://arxiv.org/abs/2605.03546",
+        "domain": "arxiv.org",
+        "score": 13,
+        "descendants": 10,
+        "by": "jonbaer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究人员提出 ProgramBench，用于评估大型语言模型从零开始重构程序代码的能力。"
+      },
+      {
+        "id": 48019414,
+        "title": "The Mathematical Dance Inside Plant Cells",
+        "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+        "domain": "quantamagazine.org",
+        "score": 17,
+        "descendants": 1,
+        "by": "isaacfrond",
+        "tags": [],
+        "summary": "探索植物细胞内部复杂的数学秩序，揭示大自然中微妙的几何结构规律。"
+      },
+      {
+        "id": 48044311,
+        "title": "The Vatican's Website in Latin",
+        "url": "https://www.vatican.va/latin/latin_index.html",
+        "domain": "vatican.va",
+        "score": 103,
+        "descendants": 65,
+        "by": "ks2048",
+        "tags": [
+          "Web"
+        ],
+        "summary": "展示了梵蒂冈官网提供的拉丁语版本，体现了这一古老语言在当代数字媒介中的特殊存在。"
+      },
+      {
+        "id": 48038827,
+        "title": "From Supabase to Clerk to Better Auth",
+        "url": "https://blog.val.town/better-auth",
+        "domain": "blog.val.town",
+        "score": 240,
+        "descendants": 164,
+        "by": "stevekrouse",
+        "tags": [],
+        "summary": "开发者分享了从 Supabase 迁移至 Clerk 等身份验证服务的技术考量与经验总结。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "digitalfoundry.net",
+          "count": 1
+        },
+        {
+          "domain": "nooneshappy.com",
+          "count": 1
+        },
+        {
+          "domain": "aniket.foo",
+          "count": 1
+        }
+      ],
+      "avg_score": 339,
+      "max_score": {
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "score": 1269
+      },
+      "most_discussed": {
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "comments": 573
+      },
+      "hot_tags": [
+        "Systems",
+        "Database",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿技术与基础工具的深度探讨，涵盖了 Valve 开放硬件设计、数据库与存储标准的权威认可，以及对 AI 编码工具与办公效率现象的广泛审视。整体呈现出软硬件开源共创、存储持久化方案以及对软件工程范式变迁的思考热潮。"
   }
 }
