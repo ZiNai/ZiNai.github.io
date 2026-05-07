@@ -1,0 +1,153 @@
+{
+  "morning": {
+    "time": "2026-05-07 09:48",
+    "stories": [
+      {
+        "id": 48037555,
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+        "domain": "digitalfoundry.net",
+        "score": 1056,
+        "descendants": 345,
+        "by": "haunter",
+        "tags": [],
+        "summary": "Valve公开了Steam控制器的CAD设计源文件，允许社区进行免费修改与二次创作。"
+      },
+      {
+        "id": 48044311,
+        "title": "The Vatican's Website in Latin",
+        "url": "https://www.vatican.va/latin/latin_index.html",
+        "domain": "vatican.va",
+        "score": 17,
+        "descendants": 4,
+        "by": "ks2048",
+        "tags": [
+          "Web"
+        ],
+        "summary": "梵蒂冈官网提供了拉丁语版本，展示了古典语言在现代互联网环境下的存在。"
+      },
+      {
+        "id": 48038001,
+        "title": "Appearing productive in the workplace",
+        "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "domain": "nooneshappy.com",
+        "score": 713,
+        "descendants": 278,
+        "by": "diebillionaires",
+        "tags": [],
+        "summary": "深度解析职场中“表演式生产力”的心理动机及其对个人与组织造成的隐形负面影响。"
+      },
+      {
+        "id": 48043706,
+        "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+        "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+        "domain": "harpers.org",
+        "score": 20,
+        "descendants": 7,
+        "by": "Caiero",
+        "tags": [],
+        "summary": "探讨美国政坛日益严重的“老人政治”现象及其对国家治理结构带来的结构性危机。"
+      },
+      {
+        "id": 48044022,
+        "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+        "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+        "domain": "paritydeals.com",
+        "score": 25,
+        "descendants": 7,
+        "by": "sachinneravath",
+        "tags": [
+          "JavaScript",
+          "Open Source"
+        ],
+        "summary": "作者分享了通过双重授权模式，成功将一个开源JavaScript库实现35万美元变现的实战经验。"
+      },
+      {
+        "id": 48037128,
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "domain": "simonwillison.net",
+        "score": 394,
+        "descendants": 424,
+        "by": "e12e",
+        "tags": [],
+        "summary": "探讨“Vibe Coding”与代理工程的崛起，反思AI生成代码对软件工程逻辑和质量控制的潜在威胁。"
+      },
+      {
+        "id": 48038827,
+        "title": "From Supabase to Clerk to Better Auth",
+        "url": "https://blog.val.town/better-auth",
+        "domain": "blog.val.town",
+        "score": 204,
+        "descendants": 128,
+        "by": "stevekrouse",
+        "tags": [],
+        "summary": "作者详细记录了从Supabase迁移至Clerk再到Better Auth的身份验证架构选择演进过程。"
+      },
+      {
+        "id": 48006967,
+        "title": "The bottleneck was never the code",
+        "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+        "domain": "thetypicalset.com",
+        "score": 509,
+        "descendants": 329,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "指出系统性能瓶颈往往不在于代码执行效率，而在于架构设计、数据流动和业务边界的错误定义。"
+      },
+      {
+        "id": 48039362,
+        "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+        "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+        "domain": "cloud.google.com",
+        "score": 209,
+        "descendants": 203,
+        "by": "unforgivenpasta",
+        "tags": [],
+        "summary": "Google云推出新一代欺诈防御系统，展示了reCAPTCHA在复杂对抗环境下的技术进化路径。"
+      },
+      {
+        "id": 48025540,
+        "title": "Building my own Vi text editor in BASIC",
+        "url": "https://leetusman.com/nosebook/yvi",
+        "domain": "leetusman.com",
+        "score": 23,
+        "descendants": 7,
+        "by": "zeech",
+        "tags": [],
+        "summary": "开发者挑战自我，尝试使用BASIC语言从零实现一个极简版的Vi文本编辑器。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "digitalfoundry.net",
+          "count": 1
+        },
+        {
+          "domain": "vatican.va",
+          "count": 1
+        },
+        {
+          "domain": "nooneshappy.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 317,
+      "max_score": {
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "score": 1056
+      },
+      "most_discussed": {
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "comments": 424
+      },
+      "hot_tags": [
+        "Web",
+        "JavaScript",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中于技术生态与工作方式的演进。开发者们正深入探讨开源商业模式的转型、人工智能辅助编程带来的工程范式变革，以及如何剥离职场中的无效内卷，回归工程效率的核心本质。"
+  }
+}
