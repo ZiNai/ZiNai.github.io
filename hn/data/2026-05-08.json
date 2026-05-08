@@ -303,5 +303,147 @@
       ]
     },
     "summary": "今日Hacker News焦点集中于重大网络安全威胁与科技企业动荡，包括学校数据泄露风险、Linux本地提权漏洞以及Cloudflare的裁员消息。同时，开发者社区对AI代理架构设计及系统底层机制表现出高度关注，反映了技术领域在安全与工程效能上的双重焦虑。"
+  },
+  "evening": {
+    "time": "2026-05-08 21:23",
+    "stories": [
+      {
+        "id": 48062117,
+        "title": "Poland is now among the 20 largest economies. How it happened",
+        "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+        "domain": "apnews.com",
+        "score": 133,
+        "descendants": 99,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 48061566,
+        "title": "An Introduction to Meshtastic",
+        "url": "https://meshtastic.org/docs/introduction/",
+        "domain": "meshtastic.org",
+        "score": 38,
+        "descendants": 14,
+        "by": "ColinWright",
+        "tags": []
+      },
+      {
+        "id": 48055913,
+        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "domain": "theverge.com",
+        "score": 773,
+        "descendants": 483,
+        "by": "stefanpie",
+        "tags": []
+      },
+      {
+        "id": 48054423,
+        "title": "Cloudflare to cut about 20% workforce",
+        "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "domain": "reuters.com",
+        "score": 938,
+        "descendants": 642,
+        "by": "PriorityLeft",
+        "tags": []
+      },
+      {
+        "id": 48056227,
+        "title": "Maybe you shouldn't install new software for a bit",
+        "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "domain": "xeiaso.net",
+        "score": 635,
+        "descendants": 351,
+        "by": "psxuaw",
+        "tags": []
+      },
+      {
+        "id": 48059662,
+        "title": "ClojureScript Gets Async/Await",
+        "url": "https://clojurescript.org/news/2026-05-07-release",
+        "domain": "clojurescript.org",
+        "score": 129,
+        "descendants": 39,
+        "by": "Borkdude",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48059606,
+        "title": "Nintendo announces price increases for Nintendo Switch 2",
+        "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+        "domain": "nintendo.co.jp",
+        "score": 128,
+        "descendants": 102,
+        "by": "razorbeamz",
+        "tags": []
+      },
+      {
+        "id": 48060918,
+        "title": "GeoJSON",
+        "url": "https://geojson.org/",
+        "domain": "geojson.org",
+        "score": 41,
+        "descendants": 19,
+        "by": "tosh",
+        "tags": []
+      },
+      {
+        "id": 48053623,
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "domain": "openwall.com",
+        "score": 695,
+        "descendants": 287,
+        "by": "flipped",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 48009879,
+        "title": "Dithering with CSS",
+        "url": "https://ikesau.co/blog/dithering-with-css/",
+        "domain": "ikesau.co",
+        "score": 56,
+        "descendants": 17,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apnews.com",
+          "count": 1
+        },
+        {
+          "domain": "meshtastic.org",
+          "count": 1
+        },
+        {
+          "domain": "theverge.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 357,
+      "max_score": {
+        "title": "Cloudflare to cut about 20% workforce",
+        "score": 938
+      },
+      "most_discussed": {
+        "title": "Cloudflare to cut about 20% workforce",
+        "comments": 642
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Web"
+      ]
+    },
+    "summary": ""
   }
 }
