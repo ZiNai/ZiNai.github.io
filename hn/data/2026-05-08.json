@@ -151,5 +151,157 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在网络安全威胁与人工智能的技术演进。内容涵盖了勒索软件攻击、Linux 内核漏洞等紧迫安全议题，同时也深度讨论了 AI 代理控制流、语言模型认知机制以及软件安装风险，反映了社区对技术稳定性与前沿创新的双重关注。"
+  },
+  "noon": {
+    "time": "2026-05-08 13:50",
+    "stories": [
+      {
+        "id": 48055913,
+        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "domain": "theverge.com",
+        "score": 477,
+        "descendants": 319,
+        "by": "stefanpie",
+        "tags": [],
+        "summary": "Canvas教育平台遭遇安全威胁，黑客组织ShinyHunters声称已窃取学校数据并威胁公开。"
+      },
+      {
+        "id": 48056227,
+        "title": "Maybe you shouldn't install new software for a bit",
+        "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "domain": "xeiaso.net",
+        "score": 339,
+        "descendants": 148,
+        "by": "psxuaw",
+        "tags": [],
+        "summary": "作者警告近期软件供应链环境复杂，建议用户近期谨慎安装新软件以规避潜在风险。"
+      },
+      {
+        "id": 48054423,
+        "title": "Cloudflare to cut about 20% workforce",
+        "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "domain": "reuters.com",
+        "score": 490,
+        "descendants": 285,
+        "by": "PriorityLeft",
+        "tags": [],
+        "summary": "路透社报道称Cloudflare计划裁减约20%的员工，引发对云服务巨头经营状况的讨论。"
+      },
+      {
+        "id": 48053623,
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "domain": "openwall.com",
+        "score": 533,
+        "descendants": 219,
+        "by": "flipped",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "安全研究人员披露名为Dirtyfrag的Linux内核通用本地提权（LPE）漏洞。"
+      },
+      {
+        "id": 48035420,
+        "title": "Pinocchio is weirder than you remembered",
+        "url": "https://storica.club/blog/pinocchio-in-italian/",
+        "domain": "storica.club",
+        "score": 82,
+        "descendants": 19,
+        "by": "cemsakarya",
+        "tags": [],
+        "summary": "深入挖掘经典童话《木偶奇遇记》的原著内容，探讨其比大众印象中更为诡异的故事内核。"
+      },
+      {
+        "id": 48049653,
+        "title": "The map that keeps Burning Man honest",
+        "url": "https://www.not-ship.com/burning-man-moop/",
+        "domain": "not-ship.com",
+        "score": 596,
+        "descendants": 307,
+        "by": "speckx",
+        "tags": [],
+        "summary": "探讨一张独特的地图如何成为维持火人节（Burning Man）社区规范与透明度的核心工具。"
+      },
+      {
+        "id": 48051562,
+        "title": "Agents need control flow, not more prompts",
+        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+        "domain": "bsuh.bearblog.dev",
+        "score": 410,
+        "descendants": 204,
+        "by": "bsuh",
+        "tags": [],
+        "summary": "文章认为AI代理的发展瓶颈在于控制流逻辑的缺失，而非简单的Prompt优化。"
+      },
+      {
+        "id": 48057901,
+        "title": "Mojo 1.0 Beta",
+        "url": "https://mojolang.org/",
+        "domain": "mojolang.org",
+        "score": 15,
+        "descendants": 1,
+        "by": "sbt567",
+        "tags": [],
+        "summary": "编程语言Mojo发布1.0 Beta版本，标志着其在高性能AI计算领域进一步迈向成熟。"
+      },
+      {
+        "id": 48036746,
+        "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+        "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+        "domain": "zknill.io",
+        "score": 12,
+        "descendants": 0,
+        "by": "zknill",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术指南：如何构建支持断点续传、手动取消及跨设备同步的SSE数据流。"
+      },
+      {
+        "id": 48056749,
+        "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+        "url": "https://github.com/robertdfrench/ifuncd-up",
+        "domain": "github.com",
+        "score": 54,
+        "descendants": 24,
+        "by": "foltik",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深度技术分析指出，GNU IFUNC机制才是导致此前著名的CVE-2024-3094后门事件的根本原因。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "theverge.com",
+          "count": 1
+        },
+        {
+          "domain": "xeiaso.net",
+          "count": 1
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 301,
+      "max_score": {
+        "title": "The map that keeps Burning Man honest",
+        "score": 596
+      },
+      "most_discussed": {
+        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+        "comments": 319
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News焦点集中于重大网络安全威胁与科技企业动荡，包括学校数据泄露风险、Linux本地提权漏洞以及Cloudflare的裁员消息。同时，开发者社区对AI代理架构设计及系统底层机制表现出高度关注，反映了技术领域在安全与工程效能上的双重焦虑。"
   }
 }
