@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-05-08 09:52",
+    "stories": [
+      {
+        "id": 48055913,
+        "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "domain": "theverge.com",
+        "score": 211,
+        "descendants": 70,
+        "by": "stefanpie",
+        "tags": [],
+        "summary": "Canvas 在线学习平台因持续的勒索软件攻击导致服务中断。"
+      },
+      {
+        "id": 48053623,
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "domain": "openwall.com",
+        "score": 408,
+        "descendants": 187,
+        "by": "flipped",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "研究人员披露了一个名为 Dirtyfrag 的 Linux 本地权限提升（LPE）漏洞。"
+      },
+      {
+        "id": 48056227,
+        "title": "Maybe you shouldn't install new software for a bit",
+        "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "domain": "xeiaso.net",
+        "score": 115,
+        "descendants": 56,
+        "by": "psxuaw",
+        "tags": [],
+        "summary": "作者建议近期审慎安装新软件，以应对日益复杂的安全环境。"
+      },
+      {
+        "id": 48056158,
+        "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+        "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+        "domain": "uchicagomedicine.org",
+        "score": 51,
+        "descendants": 18,
+        "by": "hhs",
+        "tags": [],
+        "summary": "调查显示非营利医院在咨询服务上投入数十亿，但对实际医疗效果并无明显改善。"
+      },
+      {
+        "id": 48049653,
+        "title": "The Burning Man MOOP Map",
+        "url": "https://www.not-ship.com/burning-man-moop/",
+        "domain": "not-ship.com",
+        "score": 536,
+        "descendants": 282,
+        "by": "speckx",
+        "tags": [],
+        "summary": "火人节 MOOP 地图揭示了大型活动结束后场地清理的难度与挑战。"
+      },
+      {
+        "id": 48051562,
+        "title": "Agents need control flow, not more prompts",
+        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+        "domain": "bsuh.bearblog.dev",
+        "score": 327,
+        "descendants": 181,
+        "by": "bsuh",
+        "tags": [],
+        "summary": "文章认为 AI 代理的能力瓶颈不在于提示词工程，而在于引入更完善的控制流逻辑。"
+      },
+      {
+        "id": 48056268,
+        "title": "Researchers discover advanced language processing in the unconscious human brain",
+        "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+        "domain": "bcm.edu",
+        "score": 40,
+        "descendants": 11,
+        "by": "hhs",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "科学家发现人类潜意识大脑具备处理复杂语言逻辑的能力。"
+      },
+      {
+        "id": 48054423,
+        "title": "Building for the Future",
+        "url": "https://blog.cloudflare.com/building-for-the-future/",
+        "domain": "blog.cloudflare.com",
+        "score": 254,
+        "descendants": 156,
+        "by": "PriorityLeft",
+        "tags": [],
+        "summary": "Cloudflare 分享关于基础设施建设与长期技术架构的思考。"
+      },
+      {
+        "id": 48052537,
+        "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+        "domain": "anthropic.com",
+        "score": 196,
+        "descendants": 66,
+        "by": "instagraham",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过自然语言自动编码器，将 Claude 模型内部的思维链转化为可视化文本。"
+      },
+      {
+        "id": 48042817,
+        "title": "The Disappearance of the Public Bench",
+        "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
+        "domain": "placesjournal.org",
+        "score": 24,
+        "descendants": 11,
+        "by": "cainxinth",
+        "tags": [],
+        "summary": "探讨现代城市规划中公共长椅消失带来的社会与空间影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "theverge.com",
+          "count": 1
+        },
+        {
+          "domain": "openwall.com",
+          "count": 1
+        },
+        {
+          "domain": "xeiaso.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 216,
+      "max_score": {
+        "title": "The Burning Man MOOP Map",
+        "score": 536
+      },
+      "most_discussed": {
+        "title": "The Burning Man MOOP Map",
+        "comments": 282
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在网络安全威胁与人工智能的技术演进。内容涵盖了勒索软件攻击、Linux 内核漏洞等紧迫安全议题，同时也深度讨论了 AI 代理控制流、语言模型认知机制以及软件安装风险，反映了社区对技术稳定性与前沿创新的双重关注。"
+  }
+}
