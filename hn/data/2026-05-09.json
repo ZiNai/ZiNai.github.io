@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-05-09 09:47",
+    "stories": [
+      {
+        "id": 48067119,
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+        "domain": "reclaimthenet.org",
+        "score": 620,
+        "descendants": 221,
+        "by": "anonymousiam",
+        "tags": [],
+        "summary": "Google的reCAPTCHA系统不再支持去谷歌化的Android设备，导致用户无法正常通过验证。"
+      },
+      {
+        "id": 48051951,
+        "title": "OpenAI's WebRTC problem",
+        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "domain": "moq.dev",
+        "score": 92,
+        "descendants": 22,
+        "by": "atgctg",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "探讨OpenAI在实现WebRTC过程中面临的技术挑战及实现细节。"
+      },
+      {
+        "id": 48065511,
+        "title": "The React2Shell Story",
+        "url": "https://lachlan.nz/blog/the-react2shell-story/",
+        "domain": "lachlan.nz",
+        "score": 32,
+        "descendants": 3,
+        "by": "mufeedvh",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "回顾并分析React2Shell漏洞事件，探讨Web应用安全及其影响。"
+      },
+      {
+        "id": 48037760,
+        "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+        "url": "https://www.wiisfi.com/",
+        "domain": "wiisfi.com",
+        "score": 82,
+        "descendants": 30,
+        "by": "homebrewer",
+        "tags": [],
+        "summary": "通过详尽的科普梳理Wi-Fi 4到Wi-Fi 8（802.11标准）的技术演进与命名规律。"
+      },
+      {
+        "id": 48066524,
+        "title": "AI is breaking two vulnerability cultures",
+        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "domain": "jefftk.com",
+        "score": 240,
+        "descendants": 102,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "分析AI如何改变软件行业的漏洞发现与修复文化，挑战传统的安全性定义。"
+      },
+      {
+        "id": 48067734,
+        "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+        "url": "https://ze3tar.github.io/post-zcrx.html",
+        "domain": "ze3tar.github.io",
+        "score": 138,
+        "descendants": 86,
+        "by": "MrBruh",
+        "tags": [],
+        "summary": "技术深度解析一个利用io_uring零拷贝功能中freelist机制引发的本地提权（LPE）漏洞。"
+      },
+      {
+        "id": 48065254,
+        "title": "Can LLMs model real-world systems in TLA+?",
+        "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+        "domain": "sigops.org",
+        "score": 29,
+        "descendants": 4,
+        "by": "mad",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨利用大语言模型自动建模TLA+规格说明书以验证复杂系统逻辑的可行性。"
+      },
+      {
+        "id": 48040470,
+        "title": "Light without electricity? Glowing algae could make it possible",
+        "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+        "domain": "colorado.edu",
+        "score": 19,
+        "descendants": 2,
+        "by": "geox",
+        "tags": [],
+        "summary": "科学家正研究利用发光藻类提供不依赖电力的照明方案，探索生物发光应用场景。"
+      },
+      {
+        "id": 48058197,
+        "title": "AWS North Virginia data center outage – recovery to take hours",
+        "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+        "domain": "cnbc.com",
+        "score": 128,
+        "descendants": 78,
+        "by": "christhecaribou",
+        "tags": [],
+        "summary": "报道AWS北弗吉尼亚区域数据中心的大规模宕机事件及其漫长的恢复过程。"
+      },
+      {
+        "id": 48065360,
+        "title": "Cartoon Network Flash Games",
+        "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+        "domain": "webdesignmuseum.org",
+        "score": 280,
+        "descendants": 98,
+        "by": "willmeyers",
+        "tags": [],
+        "summary": "带你重温Cartoon Network的经典Flash游戏，追溯互联网网页设计的早期时代。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "reclaimthenet.org",
+          "count": 1
+        },
+        {
+          "domain": "moq.dev",
+          "count": 1
+        },
+        {
+          "domain": "lachlan.nz",
+          "count": 1
+        }
+      ],
+      "avg_score": 166,
+      "max_score": {
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "score": 620
+      },
+      "most_discussed": {
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "comments": 221
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "JavaScript",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在网络安全与系统底层机制的深度探讨，包括io_uring提权漏洞、AI引发的漏洞文化变革及reCAPTCHA的反谷歌兼容性问题。同时，行业基础设施稳定性（AWS宕机）与怀旧数字文化（Flash游戏）也引发了社区的广泛讨论。"
+  }
+}
