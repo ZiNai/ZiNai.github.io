@@ -315,5 +315,162 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于AI技术的深度应用及其引发的安全挑战，涵盖了Claude Code的实践探索与OpenAI的技术争议。此外，网络基础设施的稳定性和软硬件协议的技术深度解析也是社区关注的核心议题。"
+  },
+  "evening": {
+    "time": "2026-05-09 21:07",
+    "stories": [
+      {
+        "id": 48074265,
+        "title": "Internet Archive Switzerland",
+        "url": "https://internetarchive.ch/",
+        "domain": "internetarchive.ch",
+        "score": 55,
+        "descendants": 13,
+        "by": "hggh",
+        "tags": [],
+        "summary": "探讨 Internet Archive 在瑞士建立数据中心以保障数字资产完整性的举措。"
+      },
+      {
+        "id": 48074087,
+        "title": "Forking the Web",
+        "url": "https://dillo-browser.org/lab/web-fork/",
+        "domain": "dillo-browser.org",
+        "score": 26,
+        "descendants": 19,
+        "by": "wrxd",
+        "tags": [
+          "Web"
+        ],
+        "summary": "针对当前网络浏览器的局限性，讨论如何通过“分支”Web技术来重构浏览体验。"
+      },
+      {
+        "id": 48071262,
+        "title": "A recent experience with ChatGPT 5.5 Pro",
+        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+        "domain": "gowers.wordpress.com",
+        "score": 411,
+        "descendants": 246,
+        "by": "_alternator_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享作者在使用 ChatGPT 5.5 Pro 过程中的真实体验与深度评价。"
+      },
+      {
+        "id": 48067119,
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+        "domain": "reclaimthenet.org",
+        "score": 1163,
+        "descendants": 412,
+        "by": "anonymousiam",
+        "tags": [],
+        "summary": "指出 Google 通过 reCAPTCHA 限制去谷歌化 Android 用户的服务访问，引发对平台垄断的争议。"
+      },
+      {
+        "id": 48071940,
+        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+        "url": "https://twitter.com/trq212/status/2052809885763747935",
+        "domain": "twitter.com",
+        "score": 214,
+        "descendants": 122,
+        "by": "pretext",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "通过 Claude Code 的实际案例，探讨 HTML 在现代开发工作流中的非凡效用。"
+      },
+      {
+        "id": 48051951,
+        "title": "OpenAI’s WebRTC problem",
+        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "domain": "moq.dev",
+        "score": 360,
+        "descendants": 88,
+        "by": "atgctg",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "分析 OpenAI 在 WebRTC 实现中遇到的技术挑战及相关基础设施问题。"
+      },
+      {
+        "id": 48042204,
+        "title": "Making Julia as Fast as C++ (2019)",
+        "url": "https://flow.byu.edu/posts/julia-c++",
+        "domain": "flow.byu.edu",
+        "score": 28,
+        "descendants": 13,
+        "by": "d_tr",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "回顾 2019 年关于如何将 Julia 语言性能优化至媲美 C++ 的技术路径。"
+      },
+      {
+        "id": 48037243,
+        "title": "America's carpet capital: an empire and its toxic legacy",
+        "url": "https://apnews.com/projects/pfas-forever-stained/",
+        "domain": "apnews.com",
+        "score": 52,
+        "descendants": 24,
+        "by": "rawgabbit",
+        "tags": [],
+        "summary": "揭露美国地毯产业背后的辉煌帝国史及其对环境遗留的严重毒性污染问题。"
+      },
+      {
+        "id": 48073394,
+        "title": "Killswitch: Per-function short-circuit mitigation primitive",
+        "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+        "domain": "lwn.net",
+        "score": 20,
+        "descendants": 5,
+        "by": "signa11",
+        "tags": []
+      },
+      {
+        "id": 48040412,
+        "title": "Reviving the IBM Selectric Composer Fonts (2023)",
+        "url": "https://www.kutilek.de/selectric/",
+        "domain": "kutilek.de",
+        "score": 13,
+        "descendants": 0,
+        "by": "tangus",
+        "tags": [],
+        "summary": "讲述对 IBM Selectric Composer 复古字体的修复与现代数字化重制过程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "internetarchive.ch",
+          "count": 1
+        },
+        {
+          "domain": "dillo-browser.org",
+          "count": 1
+        },
+        {
+          "domain": "gowers.wordpress.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 234,
+      "max_score": {
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "score": 1163
+      },
+      "most_discussed": {
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "comments": 412
+      },
+      "hot_tags": [
+        "Web",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技生态的控制权与抗争，涵盖了 Google 服务对去谷歌化系统的兼容性、AI 工具（ChatGPT、Claude）的深度实践与基础设施问题。此外，技术社区还关注了 Web 浏览器架构的去中心化尝试及经典技术的历史复兴。"
   }
 }
