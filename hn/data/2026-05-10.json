@@ -316,5 +316,151 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了底层技术探索、开源社区动向及软件安全性分析。从汇编语言开发和Bun的Rust重写，到浏览器查询参数的架构思考及操作系统提权漏洞，显示出开发者群体对底层架构优化与安全性研究的持续浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-05-10 21:08",
+    "stories": [
+      {
+        "id": 48082968,
+        "title": "Space Cadet Pinball on Linux",
+        "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+        "domain": "brennan.io",
+        "score": 77,
+        "descendants": 20,
+        "by": "jandeboevrie",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "经典游戏Space Cadet Pinball成功移植至Linux平台，带来原汁原味的桌面娱乐体验。"
+      },
+      {
+        "id": 48073201,
+        "title": "I returned to AWS, and was reminded why I left",
+        "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+        "domain": "fourlightyears.blogspot.com",
+        "score": 78,
+        "descendants": 33,
+        "by": "andrewstuart",
+        "tags": [],
+        "summary": "作者重回AWS的经历引发了关于云服务复杂性与开发体验的反思。"
+      },
+      {
+        "id": 48047930,
+        "title": "Idempotency Is Easy Until the Second Request Is Different",
+        "url": "https://blog.dochia.dev/blog/idempotency/",
+        "domain": "blog.dochia.dev",
+        "score": 139,
+        "descendants": 62,
+        "by": "ludovicianul",
+        "tags": [],
+        "summary": "介绍卡西欧推出的高端S100X日本漆器特别版计算器，展示其精湛的工艺与设计。"
+      },
+      {
+        "id": 48073680,
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "domain": "twitter.com",
+        "score": 616,
+        "descendants": 588,
+        "by": "heldrida",
+        "tags": [
+          "Rust",
+          "Systems"
+        ],
+        "summary": "Bun将核心逻辑重写为Rust，在Linux x64环境下已实现高达99.8%的测试兼容性。"
+      },
+      {
+        "id": 48048684,
+        "title": "The One Dollar Counterfeiter",
+        "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+        "domain": "amusingplanet.com",
+        "score": 194,
+        "descendants": 71,
+        "by": "cainxinth",
+        "tags": [],
+        "summary": "回顾历史上著名的伪造一美元纸币案件及其背后的社会与技术细节。"
+      },
+      {
+        "id": 48080587,
+        "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+        "url": "https://github.com/imtomt/ymawky",
+        "domain": "github.com",
+        "score": 323,
+        "descendants": 152,
+        "by": "imtomt",
+        "tags": [
+          "Web",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "作者通过用汇编语言编写Web服务器来寻找个人意义的极客实践分享。"
+      },
+      {
+        "id": 48048407,
+        "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+        "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+        "domain": "casio.com",
+        "score": 182,
+        "descendants": 80,
+        "by": "dr_kiszonka",
+        "tags": []
+      },
+      {
+        "id": 48037223,
+        "title": "We see something that works, and then we understand it",
+        "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+        "domain": "lemire.me",
+        "score": 134,
+        "descendants": 48,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨人类先实践后认知的认知偏差现象，分析这种模式在科学发现中的作用。"
+      },
+      {
+        "id": 48074265,
+        "title": "Internet Archive Switzerland",
+        "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+        "domain": "blog.archive.org",
+        "score": 638,
+        "descendants": 104,
+        "by": "hggh",
+        "tags": [],
+        "summary": "互联网档案馆正式在瑞士设立机构，旨在通过地理多样性强化数据备份与数字文明保护。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "brennan.io",
+          "count": 1
+        },
+        {
+          "domain": "fourlightyears.blogspot.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.dochia.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 265,
+      "max_score": {
+        "title": "Internet Archive Switzerland",
+        "score": 638
+      },
+      "most_discussed": {
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "comments": 588
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "Rust",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术底层架构与开源生态，Bun的Rust重构引发了关于性能与兼容性的广泛讨论。此外，从底层Web服务器实现到云平台架构体验，以及对数字存档与小众工业设计的关注，反映了社区对技术深度与怀旧创新并行的兴趣。"
   }
 }
