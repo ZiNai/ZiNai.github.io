@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-05-10 09:48",
+    "stories": [
+      {
+        "id": 48073680,
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "domain": "twitter.com",
+        "score": 414,
+        "descendants": 399,
+        "by": "heldrida",
+        "tags": [
+          "Rust",
+          "Systems"
+        ],
+        "summary": "Bun推出实验性Rust重构版本，在Linux x64平台上实现了极高的测试兼容性。"
+      },
+      {
+        "id": 48074265,
+        "title": "Internet Archive Switzerland",
+        "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+        "domain": "blog.archive.org",
+        "score": 536,
+        "descendants": 76,
+        "by": "hggh",
+        "tags": [],
+        "summary": "互联网档案馆宣布在瑞士建立新的基础设施节点，以增强数据的全球访问与保存能力。"
+      },
+      {
+        "id": 48049828,
+        "title": "The Serial TTL connector we deserve",
+        "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+        "domain": "kohlschuetter.github.io",
+        "score": 43,
+        "descendants": 33,
+        "by": "kohlschuetter",
+        "tags": [],
+        "summary": "探讨一种更理想、设计更人性化的串行TTL连接器标准方案。"
+      },
+      {
+        "id": 48078575,
+        "title": "Rust but Lisp",
+        "url": "https://github.com/ThatXliner/rust-but-lisp",
+        "domain": "github.com",
+        "score": 71,
+        "descendants": 35,
+        "by": "thatxliner",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一个将Rust的内存安全与Lisp语法灵活性结合的实验性编程语言项目。"
+      },
+      {
+        "id": 48076173,
+        "title": "I’ve banned query strings",
+        "url": "https://chrismorgan.info/no-query-strings",
+        "domain": "chrismorgan.info",
+        "score": 262,
+        "descendants": 147,
+        "by": "susam",
+        "tags": [],
+        "summary": "博主分享了彻底弃用URL查询字符串后的架构考量与实现心得。"
+      },
+      {
+        "id": 48077971,
+        "title": "Local privilege escalation via execve()",
+        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "domain": "freebsd.org",
+        "score": 86,
+        "descendants": 57,
+        "by": "Deeg9rie9usi",
+        "tags": [
+          "Security"
+        ],
+        "summary": "FreeBSD发布的关于execve()系统调用导致本地权限提升漏洞的详细安全报告。"
+      },
+      {
+        "id": 48076815,
+        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "url": "https://github.com/nooga/let-go",
+        "domain": "github.com",
+        "score": 89,
+        "descendants": 29,
+        "by": "marcingas",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "开发者使用Go语言实现了一门Clojure风格的脚本语言，具备7毫秒的极速启动特性。"
+      },
+      {
+        "id": 48076651,
+        "title": "Zed Editor Theme-Builder",
+        "url": "https://zed.dev/theme-builder",
+        "domain": "zed.dev",
+        "score": 156,
+        "descendants": 44,
+        "by": "cuechan",
+        "tags": [],
+        "summary": "Zed编辑器推出的在线主题生成器，方便用户快速自定义开发环境视觉风格。"
+      },
+      {
+        "id": 48048902,
+        "title": "Making your own programming language is easier than you think (but also harder)",
+        "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+        "domain": "lisyarus.github.io",
+        "score": 48,
+        "descendants": 17,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "深度解析自制编程语言的挑战与实践，探讨为何该任务看似简单实则充满复杂性。"
+      },
+      {
+        "id": 48038573,
+        "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+        "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
+        "domain": "righto.com",
+        "score": 17,
+        "descendants": 0,
+        "by": "rsecora",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "回顾1962年由转磁芯驱动的Arma微型计算机，考证其作为早期微型机雏形的地位。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.archive.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 172,
+      "max_score": {
+        "title": "Internet Archive Switzerland",
+        "score": 536
+      },
+      "most_discussed": {
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "comments": 399
+      },
+      "hot_tags": [
+        "Rust",
+        "Systems",
+        "Security",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于编程语言生态的演进，包括Bun的底层重构、Lisp与Rust的风格融合及自制编程语言的讨论。同时，技术社区对Web基础设施如查询字符串规范、系统安全漏洞以及复古计算机历史展现了浓厚兴趣。"
+  }
+}
