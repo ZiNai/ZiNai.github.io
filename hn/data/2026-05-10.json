@@ -157,5 +157,164 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于编程语言生态的演进，包括Bun的底层重构、Lisp与Rust的风格融合及自制编程语言的讨论。同时，技术社区对Web基础设施如查询字符串规范、系统安全漏洞以及复古计算机历史展现了浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-05-10 14:27",
+    "stories": [
+      {
+        "id": 48080587,
+        "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+        "url": "https://github.com/imtomt/ymawky",
+        "domain": "github.com",
+        "score": 163,
+        "descendants": 63,
+        "by": "imtomt",
+        "tags": [
+          "Web",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一位开发者挑战使用汇编语言编写Web服务器，以此探索底层计算的深度与意义。"
+      },
+      {
+        "id": 48073680,
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "domain": "twitter.com",
+        "score": 500,
+        "descendants": 467,
+        "by": "heldrida",
+        "tags": [
+          "Rust",
+          "Systems"
+        ],
+        "summary": "Bun项目通过实验性的Rust重写，在Linux x64 glibc环境上实现了极高的测试兼容性。"
+      },
+      {
+        "id": 48048684,
+        "title": "The One Dollar Counterfeiter",
+        "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+        "domain": "amusingplanet.com",
+        "score": 49,
+        "descendants": 13,
+        "by": "cainxinth",
+        "tags": [],
+        "summary": "回顾一位巧妙制造一美元假币的伪钞犯的离奇历史故事。"
+      },
+      {
+        "id": 48048407,
+        "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+        "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+        "domain": "casio.com",
+        "score": 75,
+        "descendants": 27,
+        "by": "dr_kiszonka",
+        "tags": [],
+        "summary": "卡西欧推出采用日本传统漆艺的S100X特别版计算器。"
+      },
+      {
+        "id": 48080702,
+        "title": "Gemini API File Search is now multimodal",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+        "domain": "blog.google",
+        "score": 48,
+        "descendants": 4,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌宣布Gemini API的文档搜索功能升级为支持多模态数据输入。"
+      },
+      {
+        "id": 48074265,
+        "title": "Internet Archive Switzerland",
+        "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+        "domain": "blog.archive.org",
+        "score": 586,
+        "descendants": 88,
+        "by": "hggh",
+        "tags": [],
+        "summary": "互联网档案馆宣布在瑞士建立新的备份节点，旨在保障数字文化遗产的长期安全。"
+      },
+      {
+        "id": 48076173,
+        "title": "I’ve banned query strings",
+        "url": "https://chrismorgan.info/no-query-strings",
+        "domain": "chrismorgan.info",
+        "score": 341,
+        "descendants": 186,
+        "by": "susam",
+        "tags": [],
+        "summary": "博主分享了在Web应用中弃用查询字符串以提升系统架构简洁性的实践与思考。"
+      },
+      {
+        "id": 48039249,
+        "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+        "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+        "domain": "evilgeniuslabs.ca",
+        "score": 82,
+        "descendants": 22,
+        "by": "speckx",
+        "tags": [],
+        "summary": "Visual Basic发展史系列文章开启，第一章深度追溯该编程语言的起源。"
+      },
+      {
+        "id": 48037223,
+        "title": "We see something that works, and then we understand it",
+        "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+        "domain": "lemire.me",
+        "score": 24,
+        "descendants": 4,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨人类认知模式：我们往往先观察到现象的实际成效，随后才深入理解其内在机理。"
+      },
+      {
+        "id": 48077971,
+        "title": "Local privilege escalation via execve()",
+        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "domain": "freebsd.org",
+        "score": 126,
+        "descendants": 70,
+        "by": "Deeg9rie9usi",
+        "tags": [
+          "Security"
+        ],
+        "summary": "FreeBSD披露了一项关于通过execve()系统调用实现本地提权的漏洞技术细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "amusingplanet.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 199,
+      "max_score": {
+        "title": "Internet Archive Switzerland",
+        "score": 586
+      },
+      "most_discussed": {
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "comments": 467
+      },
+      "hot_tags": [
+        "Systems",
+        "Web",
+        "Show HN",
+        "Rust",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了底层技术探索、开源社区动向及软件安全性分析。从汇编语言开发和Bun的Rust重写，到浏览器查询参数的架构思考及操作系统提权漏洞，显示出开发者群体对底层架构优化与安全性研究的持续浓厚兴趣。"
   }
 }
