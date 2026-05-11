@@ -157,5 +157,168 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于科技生态的控制权与安全性问题，硬件验证机制垄断和软件供应链攻击引起广泛担忧。同时，社区对本地化运行 AI 模型展现出强烈兴趣，反映了开发者在追求隐私与效能平衡方面的技术趋势。"
+  },
+  "noon": {
+    "time": "2026-05-11 14:57",
+    "stories": [
+      {
+        "id": 48086190,
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+        "domain": "grapheneos.social",
+        "score": 1301,
+        "descendants": 430,
+        "by": "ChuckMcM",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "文章探讨了硬件证明机制（Hardware Attestation）如何被大科技公司利用，形成破坏竞争与用户自主权的数字垄断。"
+      },
+      {
+        "id": 48085821,
+        "title": "Local AI needs to be the norm",
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "domain": "unix.foo",
+        "score": 928,
+        "descendants": 409,
+        "by": "cylo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者主张本地部署 AI 应当成为行业标准，以解决隐私、成本及对云端服务过度依赖的问题。"
+      },
+      {
+        "id": 48090521,
+        "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+        "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+        "domain": "openculture.com",
+        "score": 113,
+        "descendants": 38,
+        "by": "susam",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾电视史上最伟大的长镜头拍摄，讲述詹姆斯·伯克（James Burke）如何在没有任何后期补救的情况下完成高难度表演。"
+      },
+      {
+        "id": 48091085,
+        "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+        "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+        "domain": "matt.might.net",
+        "score": 28,
+        "descendants": 3,
+        "by": "azhenley",
+        "tags": [],
+        "summary": "展示了一个为 Claude Code 开发的开源工具，通过多智能体协作提升 GitHub 拉取请求（PR）的审核质量。"
+      },
+      {
+        "id": 48090029,
+        "title": "I'm going back to writing code by hand",
+        "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+        "domain": "blog.k10s.dev",
+        "score": 244,
+        "descendants": 101,
+        "by": "dropbox_miner",
+        "tags": [],
+        "summary": "作者分享了回归纸笔编写代码的实验性尝试，旨在通过慢思考提升逻辑设计能力。"
+      },
+      {
+        "id": 48089091,
+        "title": "Running local models on an M4 with 24GB memory",
+        "url": "https://jola.dev/posts/running-local-models-on-m4",
+        "domain": "jola.dev",
+        "score": 246,
+        "descendants": 79,
+        "by": "shintoist",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "实测在配备 24GB 内存的 M4 芯片 Mac 上运行本地 AI 大模型的性能表现与局限性。"
+      },
+      {
+        "id": 48088576,
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "domain": "cyber.netsecops.io",
+        "score": 167,
+        "descendants": 79,
+        "by": "cmbailey",
+        "tags": [],
+        "summary": "曝光一起 Obsidian 插件遭到恶意篡改并被利用植入远程访问木马（RAT）的安全事件。"
+      },
+      {
+        "id": 48089289,
+        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+        "domain": "jamesshore.com",
+        "score": 117,
+        "descendants": 28,
+        "by": "cratermoon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 AI 编码代理在辅助开发时的核心价值，强调其必须有效降低代码维护成本而非引入新麻烦。"
+      },
+      {
+        "id": 48086082,
+        "title": "Incident Report: CVE-2024-YIKES",
+        "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+        "domain": "nesbitt.io",
+        "score": 483,
+        "descendants": 121,
+        "by": "miniBill",
+        "tags": [
+          "Security"
+        ],
+        "summary": "详细复盘了一起名为 CVE-2024-YIKES 的严重安全漏洞事件，分析其影响及应对机制。"
+      },
+      {
+        "id": 48090276,
+        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "domain": "github.com",
+        "score": 19,
+        "descendants": 1,
+        "by": "adamthegoalie",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "grapheneos.social",
+          "count": 1
+        },
+        {
+          "domain": "unix.foo",
+          "count": 1
+        },
+        {
+          "domain": "openculture.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 365,
+      "max_score": {
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "score": 1301
+      },
+      "most_discussed": {
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "comments": 430
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术落地的深度讨论，包括本地模型运行、AI 编码代理及其带来的维护挑战与安全隐患。此外，硬件证明机制垄断风险及软件开发中的怀旧与实用主义倾向也引发了社区广泛关注。"
   }
 }
