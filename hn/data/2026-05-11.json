@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-05-11 09:55",
+    "stories": [
+      {
+        "id": 48086190,
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+        "domain": "grapheneos.social",
+        "score": 888,
+        "descendants": 327,
+        "by": "ChuckMcM",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨硬件验证技术如何被大公司利用以巩固垄断地位并限制用户自由。"
+      },
+      {
+        "id": 48085821,
+        "title": "Local AI needs to be the norm",
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "domain": "unix.foo",
+        "score": 582,
+        "descendants": 273,
+        "by": "cylo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "主张为了隐私和长期可持续性，本地运行 AI 应成为行业标准。"
+      },
+      {
+        "id": 48090029,
+        "title": "I'm going back to writing code by hand",
+        "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+        "domain": "blog.k10s.dev",
+        "score": 21,
+        "descendants": 5,
+        "by": "dropbox_miner",
+        "tags": [],
+        "summary": "作者分享回归纸笔编程方式的心得，以重拾深度思考能力。"
+      },
+      {
+        "id": 48086082,
+        "title": "Incident Report: CVE-2024-YIKES",
+        "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+        "domain": "nesbitt.io",
+        "score": 393,
+        "descendants": 94,
+        "by": "miniBill",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深度分析名为 CVE-2024-YIKES 的安全漏洞事件报告。"
+      },
+      {
+        "id": 48088576,
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "domain": "cyber.netsecops.io",
+        "score": 77,
+        "descendants": 37,
+        "by": "cmbailey",
+        "tags": [],
+        "summary": "Obsidian 插件遭恶意利用植入远程木马，警示开源生态的供应链安全风险。"
+      },
+      {
+        "id": 48089091,
+        "title": "Running local models on an M4 with 24GB memory",
+        "url": "https://jola.dev/posts/running-local-models-on-m4",
+        "domain": "jola.dev",
+        "score": 79,
+        "descendants": 43,
+        "by": "shintoist",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "实测在 M4 芯片 24GB 内存环境下运行本地大语言模型的性能表现。"
+      },
+      {
+        "id": 48067698,
+        "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+        "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+        "domain": "nytimes.com",
+        "score": 56,
+        "descendants": 11,
+        "by": "nxobject",
+        "tags": [],
+        "summary": "回顾 BBC 史上最著名的误报受访者 Guy Goma 意外事件的二十周年影响。"
+      },
+      {
+        "id": 48085993,
+        "title": "Ask HN: What are you working on? (May 2026)",
+        "url": "https://news.ycombinator.com/item?id=48085993",
+        "domain": "news.ycombinator.com",
+        "score": 131,
+        "descendants": 453,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 每月例行专题：邀请开发者分享近期正在进行的开发项目。"
+      },
+      {
+        "id": 48050666,
+        "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+        "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+        "domain": "arup.com",
+        "score": 44,
+        "descendants": 9,
+        "by": "robin_reala",
+        "tags": [],
+        "summary": "介绍连接德国与丹麦的费马恩海峡隧道首个沉管安装工程的进展。"
+      },
+      {
+        "id": 48067402,
+        "title": "I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
+        "url": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
+        "domain": "brendanoconnor.net",
+        "score": 17,
+        "descendants": 2,
+        "by": "brendo_y",
+        "tags": [],
+        "summary": "设计者亲述微软 EA 渠道从 2001 年建立到 2026 年被拆解的历程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "grapheneos.social",
+          "count": 1
+        },
+        {
+          "domain": "unix.foo",
+          "count": 1
+        },
+        {
+          "domain": "blog.k10s.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 229,
+      "max_score": {
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "score": 888
+      },
+      "most_discussed": {
+        "title": "Ask HN: What are you working on? (May 2026)",
+        "comments": 453
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Security",
+        "Systems",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于科技生态的控制权与安全性问题，硬件验证机制垄断和软件供应链攻击引起广泛担忧。同时，社区对本地化运行 AI 模型展现出强烈兴趣，反映了开发者在追求隐私与效能平衡方面的技术趋势。"
+  }
+}
