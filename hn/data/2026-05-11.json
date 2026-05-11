@@ -320,5 +320,161 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术落地的深度讨论，包括本地模型运行、AI 编码代理及其带来的维护挑战与安全隐患。此外，硬件证明机制垄断风险及软件开发中的怀旧与实用主义倾向也引发了社区广泛关注。"
+  },
+  "evening": {
+    "time": "2026-05-11 22:40",
+    "stories": [
+      {
+        "id": 48093100,
+        "title": "Ratty – A terminal emulator with inline 3D graphics",
+        "url": "https://ratty-term.org/",
+        "domain": "ratty-term.org",
+        "score": 298,
+        "descendants": 89,
+        "by": "orhunp_",
+        "tags": [],
+        "summary": "一款支持内嵌3D图形渲染的终端仿真器项目。"
+      },
+      {
+        "id": 48095468,
+        "title": "Killed by Apple",
+        "url": "https://killedbyapple.theden.sh/",
+        "domain": "killedbyapple.theden.sh",
+        "score": 17,
+        "descendants": 5,
+        "by": "theden",
+        "tags": [],
+        "summary": "汇总整理了那些被苹果公司收购或通过功能更迭而“扼杀”的产品与服务。"
+      },
+      {
+        "id": 48086190,
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+        "domain": "grapheneos.social",
+        "score": 1854,
+        "descendants": 610,
+        "by": "ChuckMcM",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨硬件证明机制如何被科技巨头利用以构建封闭生态并限制用户自由。"
+      },
+      {
+        "id": 48067184,
+        "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+        "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
+        "domain": "abc7chicago.com",
+        "score": 180,
+        "descendants": 98,
+        "by": "bryan0",
+        "tags": [],
+        "summary": "一宗离奇的DUI案件：受害者通过定位功能发现丢失的笔记本竟在州警家中。"
+      },
+      {
+        "id": 48085821,
+        "title": "Local AI needs to be the norm",
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "domain": "unix.foo",
+        "score": 1475,
+        "descendants": 575,
+        "by": "cylo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "主张为了隐私与控制权，本地化运行AI模型应成为行业主流标准。"
+      },
+      {
+        "id": 48070571,
+        "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+        "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+        "domain": "wired.com",
+        "score": 71,
+        "descendants": 13,
+        "by": "littlexsparkee",
+        "tags": [],
+        "summary": "研究发现毒液和辣椒素中的特定成分有望成为攻克抗药性细菌的新武器。"
+      },
+      {
+        "id": 48092028,
+        "title": "Gmail registration now requires scanning a QR code and sending a text message",
+        "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+        "domain": "discuss.privacyguides.net",
+        "score": 133,
+        "descendants": 71,
+        "by": "negura",
+        "tags": [
+          "AI"
+        ],
+        "summary": "指出Gmail注册流程收紧，新增扫描二维码及发送短信的双重验证门槛。"
+      },
+      {
+        "id": 48085685,
+        "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+        "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+        "domain": "cocoawithlove.com",
+        "score": 19,
+        "descendants": 0,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过Swift语言实现矩阵乘法性能优化，将算力从Gflop/s提升至Tflop/s的实战教学。"
+      },
+      {
+        "id": 48090029,
+        "title": "I'm going back to writing code by hand",
+        "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+        "domain": "blog.k10s.dev",
+        "score": 638,
+        "descendants": 344,
+        "by": "dropbox_miner",
+        "tags": [],
+        "summary": "作者分享回归纸笔写代码的复古思考，探讨为何这种方式能提升逻辑深度。"
+      },
+      {
+        "id": 48089091,
+        "title": "Running local models on an M4 with 24GB memory",
+        "url": "https://jola.dev/posts/running-local-models-on-m4",
+        "domain": "jola.dev",
+        "score": 436,
+        "descendants": 130,
+        "by": "shintoist",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ratty-term.org",
+          "count": 1
+        },
+        {
+          "domain": "killedbyapple.theden.sh",
+          "count": 1
+        },
+        {
+          "domain": "grapheneos.social",
+          "count": 1
+        }
+      ],
+      "avg_score": 512,
+      "max_score": {
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "score": 1854
+      },
+      "most_discussed": {
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "comments": 610
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在隐私安全、本地计算与编程实践的深度探讨。用户群体对于硬件厂商垄断控制的担忧以及推动本地化AI运行的趋势日益显著，同时对于底层编程技术和信息安全事件保持高度关注。"
   }
 }
