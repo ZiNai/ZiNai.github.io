@@ -314,5 +314,140 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-05-12 22:11",
+    "stories": [
+      {
+        "id": 48106024,
+        "title": "Learning Software Architecture",
+        "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+        "domain": "matklad.github.io",
+        "score": 273,
+        "descendants": 51,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "一份深度探讨软件架构设计原则与实战的指南。"
+      },
+      {
+        "id": 48107997,
+        "title": "Rendering the Sky, Sunsets, and Planets",
+        "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+        "domain": "blog.maximeheckel.com",
+        "score": 27,
+        "descendants": 1,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "介绍如何通过程序化渲染实现逼真的天空、日落与行星视觉效果。"
+      },
+      {
+        "id": 48104428,
+        "title": "Screenshots of Old Desktop OSes",
+        "url": "http://www.typewritten.org/Media/",
+        "domain": "typewritten.org",
+        "score": 402,
+        "descendants": 181,
+        "by": "adunk",
+        "tags": [],
+        "summary": "汇集了早期桌面操作系统的界面截图，带你回顾计算机图形界面的演变。"
+      },
+      {
+        "id": 48106534,
+        "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+        "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+        "domain": "cnbc.com",
+        "score": 225,
+        "descendants": 172,
+        "by": "thm",
+        "tags": [],
+        "summary": "欧盟计划采取严厉措施，打击TikTok和Instagram针对青少年的上瘾性设计。"
+      },
+      {
+        "id": 48100706,
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "domain": "tanstack.com",
+        "score": 933,
+        "descendants": 392,
+        "by": "varunsharma07",
+        "tags": [
+          "AI"
+        ],
+        "summary": "TanStack官方发布的关于其NPM供应链攻击事件的详细事后复盘报告。"
+      },
+      {
+        "id": 48082948,
+        "title": "Profiling.sampling – Statistical Profiler",
+        "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+        "domain": "docs.python.org",
+        "score": 21,
+        "descendants": 2,
+        "by": "djoldman",
+        "tags": [],
+        "summary": "Python官方文档中关于sampling模块及其统计分析功能的说明。"
+      },
+      {
+        "id": 48080111,
+        "title": "Chasing Chicago's movable bridges (2014)",
+        "url": "https://aresluna.org/seesaws-for-giants/",
+        "domain": "aresluna.org",
+        "score": 31,
+        "descendants": 2,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "带你深入了解芝加哥标志性可移动桥梁的历史与运作机制。"
+      },
+      {
+        "id": 48108313,
+        "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+        "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
+        "domain": "bbc.com",
+        "score": 19,
+        "descendants": 1,
+        "by": "tartoran",
+        "tags": [],
+        "summary": "报道伊朗战争引发能源价格波动，导致美国通胀率攀升至3.8%。"
+      },
+      {
+        "id": 48102700,
+        "title": "They Live (1988) inspired Adblocker",
+        "url": "https://github.com/davmlaw/they_live_adblocker",
+        "domain": "github.com",
+        "score": 389,
+        "descendants": 123,
+        "by": "tokenburner",
+        "tags": [],
+        "summary": "一款灵感源自电影《极度空间》的广告拦截工具，用独特视角抵御商业干扰。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "matklad.github.io",
+          "count": 1
+        },
+        {
+          "domain": "blog.maximeheckel.com",
+          "count": 1
+        },
+        {
+          "domain": "typewritten.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 258,
+      "max_score": {
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "score": 933
+      },
+      "most_discussed": {
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "comments": 392
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现多元化，涵盖了软件架构设计、图形渲染技术及复古操作系统审美等技术热点。同时，社区高度关注TanStack供应链安全漏洞事件，以及欧盟对社交平台成瘾性设计的监管动态。"
   }
 }
