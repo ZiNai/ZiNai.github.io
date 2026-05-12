@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-05-12 09:51",
+    "stories": [
+      {
+        "id": 48100706,
+        "title": "Postmortem: TanStack npm supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "domain": "tanstack.com",
+        "score": 523,
+        "descendants": 188,
+        "by": "varunsharma07",
+        "tags": [
+          "AI"
+        ],
+        "summary": "TanStack官方复盘此次npm供应链攻击事件，详细说明了项目受感染的经过及后续防御加固措施。"
+      },
+      {
+        "id": 48098261,
+        "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+        "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+        "domain": "stemcell.ucla.edu",
+        "score": 234,
+        "descendants": 45,
+        "by": "bookofjoe",
+        "tags": [
+          "AI"
+        ],
+        "summary": "UCLA研究团队发现首款能修复脑损伤并促进中风康复的药物，为神经修复领域带来突破性进展。"
+      },
+      {
+        "id": 48100433,
+        "title": "If AI writes your code, why use Python?",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "domain": "medium.com",
+        "score": 141,
+        "descendants": 151,
+        "by": "indigodaddy",
+        "tags": [
+          "AI",
+          "Python"
+        ],
+        "summary": "作者反思在AI生成代码普及的背景下，Python是否依然是最佳编程语言选择。"
+      },
+      {
+        "id": 48099616,
+        "title": "Library for fast mapping of Java records to native memory",
+        "url": "https://github.com/mamba-studio/TypedMemory",
+        "domain": "github.com",
+        "score": 108,
+        "descendants": 24,
+        "by": "joe_mwangi",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一个支持将Java Record快速映射至原生内存的高性能库，旨在优化内存管理效率。"
+      },
+      {
+        "id": 48100500,
+        "title": "GitLab announces workforce reduction and end of their CREDIT values",
+        "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+        "domain": "about.gitlab.com",
+        "score": 317,
+        "descendants": 311,
+        "by": "AnonGitLabEmpl",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitLab宣布裁员及废除原有的CREDIT价值观体系，引发了关于企业文化与运营调整的讨论。"
+      },
+      {
+        "id": 48100662,
+        "title": "I let AI build a tool to help me figure out what was waking me up at night",
+        "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+        "domain": "martin.sh",
+        "score": 67,
+        "descendants": 68,
+        "by": "showmypost",
+        "tags": [
+          "AI"
+        ],
+        "summary": "博主利用AI工具分析睡眠质量数据，成功定位并解决导致夜间惊醒的潜在干扰因素。"
+      },
+      {
+        "id": 48093100,
+        "title": "Ratty – A terminal emulator with inline 3D graphics",
+        "url": "https://ratty-term.org/",
+        "domain": "ratty-term.org",
+        "score": 611,
+        "descendants": 198,
+        "by": "orhunp_",
+        "tags": [],
+        "summary": "介绍一款支持内嵌3D图形渲染的现代终端模拟器Ratty，展示了终端交互的视觉新可能。"
+      },
+      {
+        "id": 48060077,
+        "title": "Nullsoft, 1997-2004 (2004)",
+        "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+        "domain": "slate.com",
+        "score": 223,
+        "descendants": 70,
+        "by": "downbad_",
+        "tags": [],
+        "summary": "重温Nullsoft在1997年至2004年间的辉煌历程，回顾那段改变数字媒体播放史的传奇时光。"
+      },
+      {
+        "id": 48100970,
+        "title": "Griffin PowerMate driver for modern macOS",
+        "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+        "domain": "github.com",
+        "score": 39,
+        "descendants": 14,
+        "by": "classichasclass",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "为经典的Griffin PowerMate旋钮控制器开发了适配现代macOS系统的驱动程序。"
+      },
+      {
+        "id": 48092028,
+        "title": "Gmail registration now requires scanning a QR code and sending a text message",
+        "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+        "domain": "discuss.privacyguides.net",
+        "score": 562,
+        "descendants": 412,
+        "by": "negura",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "tanstack.com",
+          "count": 1
+        },
+        {
+          "domain": "stemcell.ucla.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 282,
+      "max_score": {
+        "title": "Ratty – A terminal emulator with inline 3D graphics",
+        "score": 611
+      },
+      "most_discussed": {
+        "title": "Gmail registration now requires scanning a QR code and sending a text message",
+        "comments": 412
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Python",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News重点关注网络安全与企业变动，TanStack供应链攻击引发开发者广泛讨论，同时GitLab裁员及企业文化变革也成为焦点。此外，社区对AI辅助编程的语言选择以及前沿神经康复技术的进展展现出浓厚兴趣。"
+  }
+}
