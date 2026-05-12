@@ -161,5 +161,158 @@
       ]
     },
     "summary": "今日Hacker News重点关注网络安全与企业变动，TanStack供应链攻击引发开发者广泛讨论，同时GitLab裁员及企业文化变革也成为焦点。此外，社区对AI辅助编程的语言选择以及前沿神经康复技术的进展展现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-05-12 14:30",
+    "stories": [
+      {
+        "id": 48100706,
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "domain": "tanstack.com",
+        "score": 728,
+        "descendants": 267,
+        "by": "varunsharma07",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48102700,
+        "title": "They Live (1988) inspired Adblocker",
+        "url": "https://github.com/davmlaw/they_live_adblocker",
+        "domain": "github.com",
+        "score": 129,
+        "descendants": 25,
+        "by": "tokenburner",
+        "tags": []
+      },
+      {
+        "id": 48100433,
+        "title": "If AI writes your code, why use Python?",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "domain": "medium.com",
+        "score": 366,
+        "descendants": 379,
+        "by": "indigodaddy",
+        "tags": [
+          "AI",
+          "Python"
+        ]
+      },
+      {
+        "id": 48103042,
+        "title": "Claude Platform on AWS",
+        "url": "https://claude.com/blog/claude-platform-on-aws",
+        "domain": "claude.com",
+        "score": 108,
+        "descendants": 49,
+        "by": "matrixhelix",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48098261,
+        "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+        "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+        "domain": "stemcell.ucla.edu",
+        "score": 298,
+        "descendants": 61,
+        "by": "bookofjoe",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48103511,
+        "title": "Software Internals Book Club",
+        "url": "https://eatonphil.com/bookclub.html",
+        "domain": "eatonphil.com",
+        "score": 56,
+        "descendants": 10,
+        "by": "aragonite",
+        "tags": []
+      },
+      {
+        "id": 48094641,
+        "title": "Google says criminal hackers used AI to find a major software flaw",
+        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "domain": "nytimes.com",
+        "score": 157,
+        "descendants": 117,
+        "by": "donohoe",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 48074589,
+        "title": "Boriel BASIC",
+        "url": "https://zxbasic.readthedocs.io/en/docs/",
+        "domain": "zxbasic.readthedocs.io",
+        "score": 16,
+        "descendants": 3,
+        "by": "AlexeyBrin",
+        "tags": []
+      },
+      {
+        "id": 48100662,
+        "title": "I let AI build a tool to help me figure out what was waking me up at night",
+        "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+        "domain": "martin.sh",
+        "score": 134,
+        "descendants": 145,
+        "by": "showmypost",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48074668,
+        "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+        "url": "https://github.com/tsirysndr/rockbox-zig",
+        "domain": "github.com",
+        "score": 60,
+        "descendants": 7,
+        "by": "tsiry",
+        "tags": [
+          "Show HN"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "tanstack.com",
+          "count": 1
+        },
+        {
+          "domain": "medium.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "score": 728
+      },
+      "most_discussed": {
+        "title": "If AI writes your code, why use Python?",
+        "comments": 379
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": ""
   }
 }
