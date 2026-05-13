@@ -144,5 +144,151 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-05-13 14:40",
+    "stories": [
+      {
+        "id": 48117810,
+        "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+        "url": "https://arxiv.org/abs/2605.08419",
+        "domain": "arxiv.org",
+        "score": 90,
+        "descendants": 15,
+        "by": "matt_d",
+        "tags": []
+      },
+      {
+        "id": 48115127,
+        "title": "Restore full BambuNetwork support for Bambu Lab printers",
+        "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+        "domain": "github.com",
+        "score": 343,
+        "descendants": 139,
+        "by": "Murfalo",
+        "tags": []
+      },
+      {
+        "id": 48033483,
+        "title": "The vi family",
+        "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+        "domain": "lpar.ATH0.com",
+        "score": 97,
+        "descendants": 34,
+        "by": "hggh",
+        "tags": []
+      },
+      {
+        "id": 48111545,
+        "title": "Googlebook",
+        "url": "https://googlebook.google/",
+        "domain": "googlebook.google",
+        "score": 720,
+        "descendants": 1201,
+        "by": "tambourine_man",
+        "tags": []
+      },
+      {
+        "id": 48111896,
+        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle",
+        "domain": "github.com",
+        "score": 391,
+        "descendants": 137,
+        "by": "HenryNdubuaku",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 48113895,
+        "title": "How to make your text look futuristic (2016)",
+        "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+        "domain": "typesetinthefuture.com",
+        "score": 304,
+        "descendants": 36,
+        "by": "_vaporwave_",
+        "tags": []
+      },
+      {
+        "id": 48115823,
+        "title": "Kraftwerk's radical 1976 track",
+        "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+        "domain": "bbc.com",
+        "score": 123,
+        "descendants": 50,
+        "by": "tcp_handshaker",
+        "tags": []
+      },
+      {
+        "id": 48112042,
+        "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+        "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+        "domain": "lists.thekelleys.org.uk",
+        "score": 289,
+        "descendants": 132,
+        "by": "chizhik-pyzhik",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 48109460,
+        "title": "Why senior developers fail to communicate their expertise",
+        "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+        "domain": "nair.sh",
+        "score": 507,
+        "descendants": 213,
+        "by": "nilirl",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48116207,
+        "title": "My graduation cap runs Rust",
+        "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+        "domain": "ericswpark.com",
+        "score": 136,
+        "descendants": 34,
+        "by": "ericswpark",
+        "tags": [
+          "Rust"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "lpar.ATH0.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 300,
+      "max_score": {
+        "title": "Googlebook",
+        "score": 720
+      },
+      "most_discussed": {
+        "title": "Googlebook",
+        "comments": 1201
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Security",
+        "Rust"
+      ]
+    },
+    "summary": ""
   }
 }
