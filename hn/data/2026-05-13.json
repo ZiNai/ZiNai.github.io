@@ -290,5 +290,152 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-05-13 22:23",
+    "stories": [
+      {
+        "id": 48120629,
+        "title": "I Moved My Digital Stack to Europe",
+        "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+        "domain": "monokai.com",
+        "score": 391,
+        "descendants": 277,
+        "by": "monokai_nl",
+        "tags": []
+      },
+      {
+        "id": 48121266,
+        "title": "Why I'm leaving GitHub for Forgejo",
+        "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+        "domain": "jorijn.com",
+        "score": 146,
+        "descendants": 108,
+        "by": "jorijn",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 48121929,
+        "title": "The US Is Winning the AI Race",
+        "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+        "domain": "avkcode.github.io",
+        "score": 26,
+        "descendants": 21,
+        "by": "akrylov",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48093578,
+        "title": "An idiot's guide to lead optimisation for proteins",
+        "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+        "domain": "magnusross.github.io",
+        "score": 28,
+        "descendants": 0,
+        "by": "magni121",
+        "tags": []
+      },
+      {
+        "id": 48091812,
+        "title": "Preserving Fisher-Price Pixter",
+        "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+        "domain": "dmitry.gr",
+        "score": 106,
+        "descendants": 13,
+        "by": "dmitrygr",
+        "tags": []
+      },
+      {
+        "id": 48121299,
+        "title": "Dutch suicide prevention website shares data with tech companies without consent",
+        "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+        "domain": "nltimes.nl",
+        "score": 89,
+        "descendants": 39,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 48089921,
+        "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+        "domain": "sciencedaily.com",
+        "score": 166,
+        "descendants": 56,
+        "by": "HardwareLust",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48115127,
+        "title": "Restore full BambuNetwork support for Bambu Lab printers",
+        "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+        "domain": "github.com",
+        "score": 546,
+        "descendants": 241,
+        "by": "Murfalo",
+        "tags": []
+      },
+      {
+        "id": 48117810,
+        "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+        "url": "https://arxiv.org/abs/2605.08419",
+        "domain": "arxiv.org",
+        "score": 247,
+        "descendants": 58,
+        "by": "matt_d",
+        "tags": []
+      },
+      {
+        "id": 48077924,
+        "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+        "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+        "domain": "discuss.python.org",
+        "score": 19,
+        "descendants": 2,
+        "by": "curiousgal",
+        "tags": [
+          "Python"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "monokai.com",
+          "count": 1
+        },
+        {
+          "domain": "jorijn.com",
+          "count": 1
+        },
+        {
+          "domain": "avkcode.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 176,
+      "max_score": {
+        "title": "Restore full BambuNetwork support for Bambu Lab printers",
+        "score": 546
+      },
+      "most_discussed": {
+        "title": "I Moved My Digital Stack to Europe",
+        "comments": 277
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Web",
+        "Python"
+      ]
+    },
+    "summary": ""
   }
 }
