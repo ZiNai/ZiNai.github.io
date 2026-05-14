@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-05-14 09:59",
+    "stories": [
+      {
+        "id": 48087887,
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+        "domain": "xda-developers.com",
+        "score": 530,
+        "descendants": 345,
+        "by": "haunter",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分析Linux如何通过整合Windows API特性实现游戏性能的跨越式提升。"
+      },
+      {
+        "id": 48129694,
+        "title": "Scorched Earth 2000 is back",
+        "url": "http://www.scorch2000.com/web/",
+        "domain": "scorch2000.com",
+        "score": 30,
+        "descendants": 12,
+        "by": "meshko",
+        "tags": [],
+        "summary": "经典怀旧游戏Scorched Earth 2000以Web版本回归。"
+      },
+      {
+        "id": 48122635,
+        "title": "Setting up a free *.city.state.us locality domain (2025)",
+        "url": "https://fredchan.org/blog/locality-domains-guide/",
+        "domain": "fredchan.org",
+        "score": 490,
+        "descendants": 155,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于如何申请并部署免费的美国地方政府域名（.city.state.us）的指南。"
+      },
+      {
+        "id": 48073979,
+        "title": "A History of IDEs at Google",
+        "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+        "domain": "laurent.le-brun.eu",
+        "score": 274,
+        "descendants": 197,
+        "by": "laurentlb",
+        "tags": [],
+        "summary": "深度回顾Google内部集成开发环境（IDE）的演变史及其对工程效率的影响。"
+      },
+      {
+        "id": 48096760,
+        "title": "Chess puzzle I found in my dad's old book",
+        "url": "https://ardoedo.it/kempelen/",
+        "domain": "ardoedo.it",
+        "score": 86,
+        "descendants": 28,
+        "by": "Eswo",
+        "tags": [],
+        "summary": "分享博主在父亲旧书堆中挖掘出的独特象棋残局。"
+      },
+      {
+        "id": 48095782,
+        "title": "Marco Polo: Finding a friend with only distance and motion",
+        "url": "https://www.jackhogan.me/blog/marco-polo",
+        "domain": "jackhogan.me",
+        "score": 38,
+        "descendants": 5,
+        "by": "jackhogan11",
+        "tags": [],
+        "summary": "探讨仅利用距离和运动数据实现“Marco Polo”式目标定位的算法实现。"
+      },
+      {
+        "id": 48118727,
+        "title": "The Emacsification of Software",
+        "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+        "domain": "sockpuppet.org",
+        "score": 194,
+        "descendants": 131,
+        "by": "rdslw",
+        "tags": [],
+        "summary": "探讨软件系统日益向高度可配置、可扩展的“Emacs化”架构演变的现象。"
+      },
+      {
+        "id": 48126848,
+        "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+        "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+        "domain": "dailyprincetonian.com",
+        "score": 247,
+        "descendants": 356,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "普林斯顿大学打破百年传统，强制要求线下考试使用监考软件引发争议。"
+      },
+      {
+        "id": 48129561,
+        "title": "The Other Half of AI Safety",
+        "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "domain": "personalaisafety.com",
+        "score": 40,
+        "descendants": 49,
+        "by": "sofiaqt",
+        "tags": [
+          "AI"
+        ],
+        "summary": "从个人视角探讨AI安全领域中除模型控制之外的另一半核心议题。"
+      },
+      {
+        "id": 48115438,
+        "title": "Twin brothers wipe 96 government databases minutes after being fired",
+        "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+        "domain": "arstechnica.com",
+        "score": 306,
+        "descendants": 233,
+        "by": "jnord",
+        "tags": [
+          "Database"
+        ],
+        "summary": "报道一对双胞胎程序员在被解雇后恶意删除政府数据库的法律与安全事件。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "xda-developers.com",
+          "count": 1
+        },
+        {
+          "domain": "scorch2000.com",
+          "count": 1
+        },
+        {
+          "domain": "fredchan.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 224,
+      "max_score": {
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "score": 530
+      },
+      "most_discussed": {
+        "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+        "comments": 356
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了操作系统性能演进、软件工程历史与工具理念，以及围绕数字安全与隐私治理的社会争议。从Linux架构的深层优化到机构内部的监管转型，技术社区正持续关注基础架构革新与数字生存权的边界。"
+  }
+}
