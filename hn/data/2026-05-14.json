@@ -152,5 +152,161 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了操作系统性能演进、软件工程历史与工具理念，以及围绕数字安全与隐私治理的社会争议。从Linux架构的深层优化到机构内部的监管转型，技术社区正持续关注基础架构革新与数字生存权的边界。"
+  },
+  "noon": {
+    "time": "2026-05-14 14:39",
+    "stories": [
+      {
+        "id": 48130950,
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "domain": "anthropic.com",
+        "score": 138,
+        "descendants": 78,
+        "by": "neilfrndes",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 推出针对小型企业的新版 Claude 服务，旨在通过 AI 增强商业工作流效率。"
+      },
+      {
+        "id": 48129694,
+        "title": "Scorched Earth 2000 – Web",
+        "url": "http://www.scorch2000.com/web/",
+        "domain": "scorch2000.com",
+        "score": 204,
+        "descendants": 79,
+        "by": "meshko",
+        "tags": [
+          "Web"
+        ],
+        "summary": "经典炮术游戏 Scorched Earth 2000 被移植至网页端，重现怀旧的弹道射击体验。"
+      },
+      {
+        "id": 48087887,
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+        "domain": "xda-developers.com",
+        "score": 644,
+        "descendants": 427,
+        "by": "haunter",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分析指出 Linux 游戏性能超越 Windows 的原因在于相关 API 正逐步被整合进 Linux 内核。"
+      },
+      {
+        "id": 48130123,
+        "title": "Cisco workforce reductions",
+        "url": "https://blogs.cisco.com/news/our-path-forward",
+        "domain": "blogs.cisco.com",
+        "score": 149,
+        "descendants": 112,
+        "by": "ahmedomran8",
+        "tags": [],
+        "summary": "思科官方披露了最新的裁员计划与组织结构调整细节。"
+      },
+      {
+        "id": 48130711,
+        "title": "Arena AI Model ELO History",
+        "url": "https://mayerwin.github.io/AI-Arena-History/",
+        "domain": "mayerwin.github.io",
+        "score": 31,
+        "descendants": 11,
+        "by": "mayerwin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示了各类 AI 大模型在竞技场（Arena）中的 ELO 评分历史演变过程。"
+      },
+      {
+        "id": 48122635,
+        "title": "Setting up a free *.city.state.us locality domain (2025)",
+        "url": "https://fredchan.org/blog/locality-domains-guide/",
+        "domain": "fredchan.org",
+        "score": 544,
+        "descendants": 171,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "手把手教你如何注册并设置一个免费的 .city.state.us 地区性地理域名。"
+      },
+      {
+        "id": 48073979,
+        "title": "A History of IDEs at Google",
+        "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+        "domain": "laurent.le-brun.eu",
+        "score": 339,
+        "descendants": 233,
+        "by": "laurentlb",
+        "tags": [],
+        "summary": "深入回顾了 Google 开发工具（IDE）的发展历程与技术变迁。"
+      },
+      {
+        "id": 48125617,
+        "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+        "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+        "domain": "jdhodges.com",
+        "score": 175,
+        "descendants": 183,
+        "by": "tosh",
+        "tags": [],
+        "summary": "从芯片晶圆经济学角度分析 MacBook 基础版 8GB 内存配置的性价比与决策逻辑。"
+      },
+      {
+        "id": 48118727,
+        "title": "The Emacsification of Software",
+        "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+        "domain": "sockpuppet.org",
+        "score": 265,
+        "descendants": 173,
+        "by": "rdslw",
+        "tags": [],
+        "summary": "探讨现代软件开发中各种工具趋向于“高度定制化与插件化”的 Emacs 化现象。"
+      },
+      {
+        "id": 48129934,
+        "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+        "domain": "pubs.rsc.org",
+        "score": 26,
+        "descendants": 1,
+        "by": "efavdb",
+        "tags": [],
+        "summary": "科学论文讨论了在微塑料检测过程中，如何识别并减少因干燥手套接触导致的实验假阳性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "scorch2000.com",
+          "count": 1
+        },
+        {
+          "domain": "xda-developers.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 252,
+      "max_score": {
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "score": 644
+      },
+      "most_discussed": {
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "comments": 427
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论聚焦于科技界的技术演进与行业动向，涵盖了 Linux 系统性能提升、AI 模型评价标准以及企业战略调整等核心议题。同时，开源工具与硬件经济学相关的话题也引发了社区的广泛关注与深度探讨。"
   }
 }
