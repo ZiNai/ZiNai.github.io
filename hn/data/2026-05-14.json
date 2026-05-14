@@ -308,5 +308,164 @@
       ]
     },
     "summary": "今日 Hacker News 讨论聚焦于科技界的技术演进与行业动向，涵盖了 Linux 系统性能提升、AI 模型评价标准以及企业战略调整等核心议题。同时，开源工具与硬件经济学相关的话题也引发了社区的广泛关注与深度探讨。"
+  },
+  "evening": {
+    "time": "2026-05-14 21:59",
+    "stories": [
+      {
+        "id": 48134993,
+        "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+        "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+        "domain": "agweb.com",
+        "score": 58,
+        "descendants": 28,
+        "by": "littlexsparkee",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美国农业部预测受大平原干旱影响，本国小麦产量将降至1972年以来最低水平。"
+      },
+      {
+        "id": 48134743,
+        "title": "Computer Hobby Movement in Canada",
+        "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+        "domain": "museum.eecs.yorku.ca",
+        "score": 25,
+        "descendants": 0,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "介绍加拿大早期计算机爱好者的历史与相关运动轨迹。"
+      },
+      {
+        "id": 48133561,
+        "title": "Show HN: Running the second public ODoH relay",
+        "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+        "domain": "numa.rs",
+        "score": 63,
+        "descendants": 19,
+        "by": "rdme",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者分享了其运行第二个公共ODoH（Oblivious DoH）中继节点的实践经验。"
+      },
+      {
+        "id": 48130950,
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "domain": "anthropic.com",
+        "score": 377,
+        "descendants": 337,
+        "by": "neilfrndes",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨Claude大模型在小型企业场景中的应用潜力与实际价值。"
+      },
+      {
+        "id": 48134014,
+        "title": "The European Union backs Italy's right to make Meta pay for news",
+        "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
+        "domain": "niemanlab.org",
+        "score": 20,
+        "descendants": 6,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "欧盟明确支持意大利要求Meta支付新闻转载费用的权利，这对全球数字平台监管具有风向标意义。"
+      },
+      {
+        "id": 48133908,
+        "title": "Myths about /dev/urandom (2014)",
+        "url": "https://www.2uo.de/myths-about-urandom/",
+        "domain": "2uo.de",
+        "score": 27,
+        "descendants": 20,
+        "by": "signa11",
+        "tags": [],
+        "summary": "深入解析关于Linux系统中/dev/urandom的常见误解与技术真相。"
+      },
+      {
+        "id": 48099688,
+        "title": "The Tree House: A voyage to the source of a backyard dream",
+        "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+        "domain": "laphamsquarterly.org",
+        "score": 23,
+        "descendants": 1,
+        "by": "Caiero",
+        "tags": [],
+        "summary": "一篇关于在后院建造树屋的个人叙事，探讨追逐梦想的旅程。"
+      },
+      {
+        "id": 48134869,
+        "title": "The Whole Anthropic Kerfuffle",
+        "url": "https://twitter.com/josevalim/status/2054887621336174799",
+        "domain": "twitter.com",
+        "score": 41,
+        "descendants": 26,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对近期关于Anthropic公司的一系列争议事件的汇总与分析。"
+      },
+      {
+        "id": 48087887,
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+        "domain": "xda-developers.com",
+        "score": 837,
+        "descendants": 524,
+        "by": "haunter",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分析指出Windows API逐渐融入Linux内核，是推动Linux游戏性能提升的核心动力。"
+      },
+      {
+        "id": 48129694,
+        "title": "Scorched Earth 2000 – Web",
+        "url": "http://www.scorch2000.com/web/",
+        "domain": "scorch2000.com",
+        "score": 311,
+        "descendants": 126,
+        "by": "meshko",
+        "tags": [
+          "Web"
+        ],
+        "summary": "网页版的经典策略游戏《焦土2000》，带你重温千禧年初的电脑游戏回忆。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "agweb.com",
+          "count": 1
+        },
+        {
+          "domain": "museum.eecs.yorku.ca",
+          "count": 1
+        },
+        {
+          "domain": "numa.rs",
+          "count": 1
+        }
+      ],
+      "avg_score": 178,
+      "max_score": {
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "score": 837
+      },
+      "most_discussed": {
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "comments": 524
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI行业动态、技术基础设施及怀旧计算。AI相关议题占据了讨论重心，特别涉及Claude的商业化应用及其争议，同时技术圈对Linux内核改进、隐私中继技术及经典游戏重现保持了持续的关注。"
   }
 }
