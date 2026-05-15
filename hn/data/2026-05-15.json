@@ -154,5 +154,162 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中在硬件安全与逆向工程，多篇关于汽车电子、路由器及固件层面的漏洞分析占据热榜。同时，关于AI应用进展及底层软件性能（如Opus错误率、Nginx漏洞）的讨论也反映了技术圈对基础设施稳定性和新型硬件防御机制的高度重视。"
+  },
+  "noon": {
+    "time": "2026-05-15 14:49",
+    "stories": [
+      {
+        "id": 48145144,
+        "title": "UK Government Kicks Out Palantir",
+        "url": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+        "domain": "shkspr.mobi",
+        "score": 39,
+        "descendants": 2,
+        "by": "robin_reala",
+        "tags": [],
+        "summary": "英国政府终止与Palantir的合作引发关注。"
+      },
+      {
+        "id": 48143880,
+        "title": "Mullvad exit IPs are surprisingly identifying",
+        "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+        "domain": "tmctmt.com",
+        "score": 272,
+        "descendants": 135,
+        "by": "RGBCube",
+        "tags": [],
+        "summary": "研究指出Mullvad的退出节点IP存在严重的去匿名化风险。"
+      },
+      {
+        "id": 48144494,
+        "title": "How Claude Code works in large codebases",
+        "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "domain": "claude.com",
+        "score": 112,
+        "descendants": 70,
+        "by": "shenli3514",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析Claude Code如何在大型代码库中高效运行。"
+      },
+      {
+        "id": 48138136,
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+        "domain": "arkadiyt.com",
+        "score": 763,
+        "descendants": 407,
+        "by": "arkadiyt",
+        "tags": [],
+        "summary": "作者分享了通过物理手段移除现代汽车调制解调器与GPS模块以强化隐私的过程。"
+      },
+      {
+        "id": 48143284,
+        "title": "Access to frontier AI will soon be limited by economic and security constraints",
+        "url": "https://writing.antonleicht.me/p/cut-off",
+        "domain": "writing.antonleicht.me",
+        "score": 88,
+        "descendants": 47,
+        "by": "thoughtpeddler",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "分析指出前沿AI的获取未来将受制于经济成本与国家安全因素。"
+      },
+      {
+        "id": 48142108,
+        "title": "A few words on DS4",
+        "url": "https://antirez.com/news/165",
+        "domain": "antirez.com",
+        "score": 263,
+        "descendants": 92,
+        "by": "caust1c",
+        "tags": [],
+        "summary": "Redis作者Antirez分享关于DS4（数据科学工具）的技术见解。"
+      },
+      {
+        "id": 48144380,
+        "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+        "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+        "domain": "tristandc.com",
+        "score": 48,
+        "descendants": 5,
+        "by": "kspacewalk2",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾特里斯坦达库尼亚群岛历史上一次大胆的空投补给任务细节。"
+      },
+      {
+        "id": 48144490,
+        "title": "Solar-based sleep patterns compared to modern norms",
+        "url": "https://dylan.gr/1775146616",
+        "domain": "dylan.gr",
+        "score": 16,
+        "descendants": 5,
+        "by": "James72689",
+        "tags": [],
+        "summary": "对比分析基于太阳周期的睡眠模式与当代作息习惯的差异。"
+      },
+      {
+        "id": 48139219,
+        "title": "First public macOS kernel memory corruption exploit on Apple M5",
+        "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "domain": "blog.calif.io",
+        "score": 328,
+        "descendants": 71,
+        "by": "quadrige",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "披露针对Apple M5芯片的首个公开macOS内核内存破坏漏洞利用。"
+      },
+      {
+        "id": 48137145,
+        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "domain": "scottjg.com",
+        "score": 550,
+        "descendants": 140,
+        "by": "allenleee",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨RTX 5090与M4 MacBook Air在实际游戏场景中的性能表现。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "shkspr.mobi",
+          "count": 1
+        },
+        {
+          "domain": "tmctmt.com",
+          "count": 1
+        },
+        {
+          "domain": "claude.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 248,
+      "max_score": {
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "score": 763
+      },
+      "most_discussed": {
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "comments": 407
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注隐私与安全领域的深层技术讨论，涵盖硬件改造、内核漏洞及追踪溯源问题。同时，AI代码工程化与前沿AI发展的经济门槛也成为了社区关注的核心议题。"
   }
 }
