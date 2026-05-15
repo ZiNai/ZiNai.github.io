@@ -311,5 +311,151 @@
       ]
     },
     "summary": "今日Hacker News重点关注隐私与安全领域的深层技术讨论，涵盖硬件改造、内核漏洞及追踪溯源问题。同时，AI代码工程化与前沿AI发展的经济门槛也成为了社区关注的核心议题。"
+  },
+  "evening": {
+    "time": "2026-05-15 21:57",
+    "stories": [
+      {
+        "id": 48148391,
+        "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+        "url": "https://turso.tech/blog/the-wonders-of-ai",
+        "domain": "turso.tech",
+        "score": 30,
+        "descendants": 4,
+        "by": "tjek",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Turso宣布关闭漏洞赏金计划，引发关于AI时代安全策略调整的讨论。"
+      },
+      {
+        "id": 48147058,
+        "title": "O(x)Caml in Space",
+        "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+        "domain": "gazagnaire.org",
+        "score": 133,
+        "descendants": 17,
+        "by": "yminsky",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨OCaml语言在航天与卫星系统中的应用潜力与挑战。"
+      },
+      {
+        "id": 48146129,
+        "title": "Explore Wikipedia Like a Windows XP Desktop",
+        "url": "https://explorer.samismith.com/",
+        "domain": "explorer.samismith.com",
+        "score": 271,
+        "descendants": 66,
+        "by": "smusamashah",
+        "tags": [],
+        "summary": "一个极具怀旧感的项目，将维基百科界面模拟为Windows XP桌面风格。"
+      },
+      {
+        "id": 48146369,
+        "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+        "url": "https://github.com/Andyyyy64/whichllm",
+        "domain": "github.com",
+        "score": 227,
+        "descendants": 38,
+        "by": "andyyyy64",
+        "tags": [
+          "AI",
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一个开源工具，通过基准测试帮助用户为其硬件匹配最优的本地运行大模型。"
+      },
+      {
+        "id": 48147603,
+        "title": "Radicle: Sovereign {code forge} built on Git",
+        "url": "https://radicle.dev/",
+        "domain": "radicle.dev",
+        "score": 56,
+        "descendants": 11,
+        "by": "KolmogorovComp",
+        "tags": [],
+        "summary": "介绍Radicle，一个基于Git构建的去中心化协作代码托管平台。"
+      },
+      {
+        "id": 48138136,
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+        "domain": "arkadiyt.com",
+        "score": 945,
+        "descendants": 486,
+        "by": "arkadiyt",
+        "tags": [],
+        "summary": "作者详细记录了通过移除2024款RAV4混动版内部GPS与调制解调器来保护车辆隐私的过程。"
+      },
+      {
+        "id": 48147988,
+        "title": "Cursing the government does not fix potholes. Spray-painting them does",
+        "url": "https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway",
+        "domain": "imagenotfound.writeas.com",
+        "score": 53,
+        "descendants": 38,
+        "by": "bogomil",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨通过直接行动解决基础设施缺陷的社会现象，以修复坑洼为例讨论公民参与方式。"
+      },
+      {
+        "id": 48142251,
+        "title": "UK government replaces Palantir software with internally-built refugee system",
+        "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+        "domain": "bbc.com",
+        "score": 370,
+        "descendants": 138,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "英国政府决定弃用Palantir软件，转向自研难民管理系统以提升自主权。"
+      },
+      {
+        "id": 48142108,
+        "title": "A few words on DS4",
+        "url": "https://antirez.com/news/165",
+        "domain": "antirez.com",
+        "score": 366,
+        "descendants": 147,
+        "by": "caust1c",
+        "tags": [],
+        "summary": "Redis创始人antirez发表关于DS4技术的深度心得与个人见解。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "turso.tech",
+          "count": 1
+        },
+        {
+          "domain": "gazagnaire.org",
+          "count": 1
+        },
+        {
+          "domain": "explorer.samismith.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 272,
+      "max_score": {
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "score": 945
+      },
+      "most_discussed": {
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "comments": 486
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术深度探索与隐私安全实践，包括硬件层面的隐私改造、政府级软件系统的自主化趋势，以及对现代开发工具与编程语言的创新思考。开发者们依然关注开源架构与实用化AI技术的评估工具，表现出对技术主权与硬件控制权的强烈兴趣。"
   }
 }
