@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-05-15 09:57",
+    "stories": [
+      {
+        "id": 48138136,
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+        "domain": "arkadiyt.com",
+        "score": 618,
+        "descendants": 364,
+        "by": "arkadiyt",
+        "tags": [],
+        "summary": "车主详细记录了如何通过物理手段移除2024款RAV4混合动力车的GPS和调制解调器，以增强个人隐私。"
+      },
+      {
+        "id": 48142108,
+        "title": "A few words on DS4",
+        "url": "https://antirez.com/news/165",
+        "domain": "antirez.com",
+        "score": 149,
+        "descendants": 46,
+        "by": "caust1c",
+        "tags": [],
+        "summary": "Antirez分享了对DS4（一种轻量级数据格式）的设计理念与技术细节思考。"
+      },
+      {
+        "id": 48142964,
+        "title": "Elevated error rates on Opus 4.7",
+        "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+        "domain": "status.claude.com",
+        "score": 47,
+        "descendants": 36,
+        "by": "rob",
+        "tags": [],
+        "summary": "Claude官方状态页通报了Opus 4.7版本存在的错误率异常升高问题及处理进度。"
+      },
+      {
+        "id": 48139219,
+        "title": "First public macOS kernel memory corruption exploit on Apple M5",
+        "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "domain": "blog.calif.io",
+        "score": 259,
+        "descendants": 45,
+        "by": "quadrige",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "研究人员公布了针对Apple M5芯片的首个macOS内核内存损坏公开漏洞利用方案。"
+      },
+      {
+        "id": 48142553,
+        "title": "Have a Coherent AI Policy",
+        "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+        "domain": "brianmeeker.me",
+        "score": 39,
+        "descendants": 25,
+        "by": "ai_critic",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨企业为何需要制定明确且连贯的AI使用政策，以应对日益复杂的生产环境与合规需求。"
+      },
+      {
+        "id": 48140529,
+        "title": "Codex is now in the ChatGPT mobile app",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "domain": "openai.com",
+        "score": 177,
+        "descendants": 84,
+        "by": "mikeevans",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI宣布将Codex编程模型功能整合进ChatGPT移动端应用中，提升代码辅助能力。"
+      },
+      {
+        "id": 48137145,
+        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "domain": "scottjg.com",
+        "score": 491,
+        "descendants": 134,
+        "by": "allenleee",
+        "tags": [
+          "AI"
+        ],
+        "summary": "评测对比RTX 5090显卡与M4 MacBook Air在实际游戏场景下的性能表现。"
+      },
+      {
+        "id": 48138268,
+        "title": "New Nginx Exploit",
+        "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+        "domain": "github.com",
+        "score": 291,
+        "descendants": 62,
+        "by": "hetsaraiya",
+        "tags": [],
+        "summary": "安全社区披露了Nginx的一项新漏洞，建议相关运维人员关注补丁更新。"
+      },
+      {
+        "id": 48140541,
+        "title": "RISC-V Router",
+        "url": "https://router.start9.com/",
+        "domain": "router.start9.com",
+        "score": 73,
+        "descendants": 34,
+        "by": "janandonly",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍一款基于RISC-V架构的路由器方案，旨在提供更透明、可控的网络基础设施。"
+      },
+      {
+        "id": 48140953,
+        "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+        "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+        "domain": "synacktiv.com",
+        "score": 59,
+        "descendants": 20,
+        "by": "p_stuart82",
+        "tags": [],
+        "summary": "安全团队发现Tesla壁挂充电器的引导加载程序存在漏洞，可绕过固件降级限制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arkadiyt.com",
+          "count": 1
+        },
+        {
+          "domain": "antirez.com",
+          "count": 1
+        },
+        {
+          "domain": "status.claude.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 220,
+      "max_score": {
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "score": 618
+      },
+      "most_discussed": {
+        "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "comments": 364
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在硬件安全与逆向工程，多篇关于汽车电子、路由器及固件层面的漏洞分析占据热榜。同时，关于AI应用进展及底层软件性能（如Opus错误率、Nginx漏洞）的讨论也反映了技术圈对基础设施稳定性和新型硬件防御机制的高度重视。"
+  }
+}
