@@ -148,5 +148,158 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了技术开发与行业反思，Erlang新版本发布与Git工具创新展示了工程领域的活跃度，而关于AI幻觉的广泛讨论则反映了业界对当前技术热潮的深度审视。此外，从底层存储技术到社会文化议题的多元内容，显示了社区对硬核科学与社会现实关注的广泛交织。"
+  },
+  "noon": {
+    "time": "2026-05-16 14:14",
+    "stories": [
+      {
+        "id": 48150431,
+        "title": "Project Gutenberg – keeps getting better",
+        "url": "https://www.gutenberg.org/",
+        "domain": "gutenberg.org",
+        "score": 846,
+        "descendants": 184,
+        "by": "JSeiko",
+        "tags": [],
+        "summary": "古登堡计划作为数字时代的免费电子书宝库，其服务质量与馆藏资源仍在持续完善。"
+      },
+      {
+        "id": 48114208,
+        "title": "Ploopy Bean: a trackpoint for every computer",
+        "url": "https://ploopy.co/shop/bean-pointing-stick/",
+        "domain": "ploopy.co",
+        "score": 62,
+        "descendants": 25,
+        "by": "jibcage",
+        "tags": [],
+        "summary": "介绍一款可适配任意电脑的开源轨迹点鼠标，为硬件爱好者提供灵活的输入设备选择。"
+      },
+      {
+        "id": 48153379,
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "domain": "twitter.com",
+        "score": 1122,
+        "descendants": 512,
+        "by": "reasonableklout",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者尖锐指出当前许多公司陷入了盲目跟风AI的集体错觉，质疑其业务的可持续性。"
+      },
+      {
+        "id": 48132106,
+        "title": "The bird eye was pushed to an evolutionary extreme",
+        "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+        "domain": "quantamagazine.org",
+        "score": 69,
+        "descendants": 16,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "深度剖析鸟类视觉如何通过进化实现极致的感知能力，揭示自然界的光学奇迹。"
+      },
+      {
+        "id": 48155212,
+        "title": "SQL patterns I use to catch transaction fraud",
+        "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+        "domain": "analytics.fixelsmith.com",
+        "score": 82,
+        "descendants": 17,
+        "by": "redbell",
+        "tags": [
+          "Database"
+        ],
+        "summary": "分享利用SQL模式高效识别并抓取交易欺诈行为的实战技巧。"
+      },
+      {
+        "id": 48149259,
+        "title": "Additive Blending on the Nintendo 64",
+        "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+        "domain": "phoboslab.org",
+        "score": 76,
+        "descendants": 7,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "深入解析任天堂64代游戏机实现加法混合渲染的技术细节与历史意义。"
+      },
+      {
+        "id": 48155324,
+        "title": "The main thing about P2P meth is that there's so much of it (2021)",
+        "url": "https://dynomight.net/p2p-meth/",
+        "domain": "dynomight.net",
+        "score": 97,
+        "descendants": 88,
+        "by": "tomjakubowski",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨P2P合成冰毒的泛滥现状及其背后复杂的化学与社会影响。"
+      },
+      {
+        "id": 48136000,
+        "title": "Naturally Occurring Quasicrystals",
+        "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+        "domain": "johncarlosbaez.wordpress.com",
+        "score": 85,
+        "descendants": 6,
+        "by": "lukeplato",
+        "tags": [],
+        "summary": "科普自然界中存在的准晶体结构，探讨其非周期性排列的物理特性与发现过程。"
+      },
+      {
+        "id": 48118478,
+        "title": "England Runestones",
+        "url": "https://en.wikipedia.org/wiki/England_runestones",
+        "domain": "en.wikipedia.org",
+        "score": 20,
+        "descendants": 2,
+        "by": "cl3misch",
+        "tags": [],
+        "summary": "回顾英格兰地区出土的如尼石刻，简述这些古老符号及其背后的历史背景。"
+      },
+      {
+        "id": 48148460,
+        "title": "A 0-click exploit chain for the Pixel 10",
+        "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+        "domain": "projectzero.google",
+        "score": 357,
+        "descendants": 167,
+        "by": "happyhardcore",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google Project Zero团队披露了一项针对Pixel 10手机的零点击漏洞攻击链详情。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gutenberg.org",
+          "count": 1
+        },
+        {
+          "domain": "ploopy.co",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 282,
+      "max_score": {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "score": 1122
+      },
+      "most_discussed": {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "comments": 512
+      },
+      "hot_tags": [
+        "AI",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点高度多元，既涵盖了对AI泡沫化的深度行业批判，也有针对古登堡计划等知识共享项目的赞誉。技术话题依旧扎实，内容横跨漏洞研究、数据库审计模式、怀旧硬件解析及前沿自然科学探讨。"
   }
 }
