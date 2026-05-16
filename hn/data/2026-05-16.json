@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-05-16 09:50",
+    "stories": [
+      {
+        "id": 48155297,
+        "title": "Erlang/OTP 29.0",
+        "url": "https://www.erlang.org/news/188",
+        "domain": "erlang.org",
+        "score": 94,
+        "descendants": 4,
+        "by": "pyinstallwoes",
+        "tags": [],
+        "summary": "Erlang/OTP 29.0 正式发布，带来了多项性能改进与功能更新。"
+      },
+      {
+        "id": 48150431,
+        "title": "Project Gutenberg – keeps getting better",
+        "url": "https://www.gutenberg.org/",
+        "domain": "gutenberg.org",
+        "score": 717,
+        "descendants": 175,
+        "by": "JSeiko",
+        "tags": [],
+        "summary": "数字图书馆古腾堡计划持续进化，提供更优质的免费文学资源访问体验。"
+      },
+      {
+        "id": 48153379,
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "domain": "twitter.com",
+        "score": 805,
+        "descendants": 349,
+        "by": "reasonableklout",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者深入探讨了目前许多企业陷入“AI 幻觉”泡沫中的现象及其潜在风险。"
+      },
+      {
+        "id": 48155324,
+        "title": "The main thing about P2P meth is that there's so much of it (2022)",
+        "url": "https://dynomight.net/p2p-meth/",
+        "domain": "dynomight.net",
+        "score": 44,
+        "descendants": 17,
+        "by": "tomjakubowski",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度回顾并分析了 P2P 冰毒泛滥的社会现象及其背后的复杂成因。"
+      },
+      {
+        "id": 48152168,
+        "title": "The Zulip Foundation",
+        "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+        "domain": "blog.zulip.com",
+        "score": 217,
+        "descendants": 52,
+        "by": "boramalper",
+        "tags": [],
+        "summary": "Zulip 基金会正式成立，旨在保障这款开源实时协作平台的长期发展与独立性。"
+      },
+      {
+        "id": 48155690,
+        "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
+        "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+        "domain": "kevinpatel.xyz",
+        "score": 49,
+        "descendants": 11,
+        "by": "alligatorplum",
+        "tags": [],
+        "summary": "一篇针对某款包管理器频繁出现严重安全或技术问题的讽刺性评论文章。"
+      },
+      {
+        "id": 48136000,
+        "title": "Naturally Occurring Quasicrystals",
+        "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+        "domain": "johncarlosbaez.wordpress.com",
+        "score": 54,
+        "descendants": 5,
+        "by": "lukeplato",
+        "tags": [],
+        "summary": "数学家 John Baez 解析了自然界中准晶体的形成原理与科学背景。"
+      },
+      {
+        "id": 48149259,
+        "title": "Additive Blending on the Nintendo 64",
+        "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+        "domain": "phoboslab.org",
+        "score": 12,
+        "descendants": 1,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "一篇关于如何高效向 SSD 存储设备进行写入操作的学术论文。"
+      },
+      {
+        "id": 48154711,
+        "title": "How to Write to SSDs [pdf]",
+        "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+        "domain": "vldb.org",
+        "score": 50,
+        "descendants": 5,
+        "by": "matt_d",
+        "tags": []
+      },
+      {
+        "id": 48155570,
+        "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+        "url": "https://ljtn.github.io/epiq/",
+        "domain": "ljtn.github.io",
+        "score": 14,
+        "descendants": 3,
+        "by": "jolaflow",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款基于分布式 Git 的终端 UI 问题追踪工具的首次展示。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "erlang.org",
+          "count": 1
+        },
+        {
+          "domain": "gutenberg.org",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 206,
+      "max_score": {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "score": 805
+      },
+      "most_discussed": {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "comments": 349
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了技术开发与行业反思，Erlang新版本发布与Git工具创新展示了工程领域的活跃度，而关于AI幻觉的广泛讨论则反映了业界对当前技术热潮的深度审视。此外，从底层存储技术到社会文化议题的多元内容，显示了社区对硬核科学与社会现实关注的广泛交织。"
+  }
+}
