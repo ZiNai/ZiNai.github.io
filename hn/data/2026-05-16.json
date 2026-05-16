@@ -301,5 +301,148 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点高度多元，既涵盖了对AI泡沫化的深度行业批判，也有针对古登堡计划等知识共享项目的赞誉。技术话题依旧扎实，内容横跨漏洞研究、数据库审计模式、怀旧硬件解析及前沿自然科学探讨。"
+  },
+  "evening": {
+    "time": "2026-05-16 21:13",
+    "stories": [
+      {
+        "id": 48158506,
+        "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+        "url": "https://arxiv.org/abs/2605.12357",
+        "domain": "arxiv.org",
+        "score": 92,
+        "descendants": 23,
+        "by": "44za12",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "提出一种名为Δ-Mem的在线记忆机制，旨在显著提升大语言模型处理长序列时的内存效率。"
+      },
+      {
+        "id": 48159241,
+        "title": "Accelerando (2005)",
+        "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+        "domain": "antipope.org",
+        "score": 48,
+        "descendants": 13,
+        "by": "eamag",
+        "tags": [],
+        "summary": "查尔斯·斯特罗斯撰写的硬科幻经典作品，探讨了技术奇点背景下人类文明的剧烈转型。"
+      },
+      {
+        "id": 48158606,
+        "title": "Futhark by Example",
+        "url": "https://futhark-lang.org/examples.html",
+        "domain": "futhark-lang.org",
+        "score": 49,
+        "descendants": 13,
+        "by": "tosh",
+        "tags": [],
+        "summary": "通过系列代码示例，详细介绍了高性能函数式数据并行编程语言Futhark的语法与应用。"
+      },
+      {
+        "id": 48159445,
+        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "url": "https://nvlabs.github.io/Sana/WM/",
+        "domain": "nvlabs.github.io",
+        "score": 10,
+        "descendants": 8,
+        "by": "mjgil",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "英伟达推出SANA-WM世界模型，具备生成高质量一分钟720p视频的开源能力。"
+      },
+      {
+        "id": 48150431,
+        "title": "Project Gutenberg – keeps getting better",
+        "url": "https://www.gutenberg.org/",
+        "domain": "gutenberg.org",
+        "score": 1010,
+        "descendants": 207,
+        "by": "JSeiko",
+        "tags": [],
+        "summary": "古腾堡计划持续通过志愿者协作提升数字图书质量，其作为免费公共知识库的价值愈发凸显。"
+      },
+      {
+        "id": 48131865,
+        "title": "A Tiny E Reader",
+        "url": "https://nthp.me/blog/2026/a-tiny-e-reader/",
+        "domain": "nthp.me",
+        "score": 29,
+        "descendants": 9,
+        "by": "louismerlin",
+        "tags": [],
+        "summary": "开发者分享了制作极简电子书阅读器的过程，展示了小尺寸屏幕与电子墨水屏的硬件工程实践。"
+      },
+      {
+        "id": 48157559,
+        "title": "Frontier AI has broken the open CTF format",
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "domain": "kabir.au",
+        "score": 202,
+        "descendants": 171,
+        "by": "frays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度剖析前沿AI模型如何以颠覆性的方式破解传统网络安全CTF比赛的规则与题型。"
+      },
+      {
+        "id": 48110804,
+        "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+        "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+        "domain": "openculture.com",
+        "score": 30,
+        "descendants": 17,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "经典情景喜剧《辛辛那提WKRP》中的虚构广播电台，在现实世界中通过广播版权运作成为真实存在。"
+      },
+      {
+        "id": 48158494,
+        "title": "Fecal transplants for autism deliver success in clinical trials",
+        "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+        "domain": "refractor.io",
+        "score": 75,
+        "descendants": 35,
+        "by": "breve",
+        "tags": [],
+        "summary": "探讨肠道微生物群移植在临床试验中对缓解自闭症症状所展示的潜力与初步成果。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "antipope.org",
+          "count": 1
+        },
+        {
+          "domain": "futhark-lang.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 172,
+      "max_score": {
+        "title": "Project Gutenberg – keeps getting better",
+        "score": 1010
+      },
+      "most_discussed": {
+        "title": "Project Gutenberg – keeps getting better",
+        "comments": 207
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿人工智能技术、科研创新与社会文化议题。AI领域持续聚焦于模型效率优化与多模态生成，同时医学研究的突破性进展与数字阅读、经典媒体的数字化演进也引发了社区的广泛关注。"
   }
 }
