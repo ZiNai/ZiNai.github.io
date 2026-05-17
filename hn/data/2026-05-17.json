@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-05-17 09:53",
+    "stories": [
+      {
+        "id": 48164287,
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "domain": "crates.io",
+        "score": 158,
+        "descendants": 45,
+        "by": "gidellav",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "使用Rust编写的Unix风格编程智能代理，探索底层系统集成与自动化开发的新范式。"
+      },
+      {
+        "id": 48164432,
+        "title": "A nicer voltmeter clock",
+        "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+        "domain": "lcamtuf.substack.com",
+        "score": 59,
+        "descendants": 13,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "展示了一款利用老式电压表改装的创意时钟项目，融合了电子硬件美学与工程改造趣味。"
+      },
+      {
+        "id": 48164294,
+        "title": "MCP Hello Page",
+        "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+        "domain": "hybridlogic.co.uk",
+        "score": 48,
+        "descendants": 20,
+        "by": "Dachande663",
+        "tags": [],
+        "summary": "介绍模型上下文协议（MCP）的入门指引，探讨如何提升AI模型与开发环境的互操作性。"
+      },
+      {
+        "id": 48109756,
+        "title": "A molecule with half-Möbius topology",
+        "url": "https://www.science.org/doi/10.1126/science.aea3321",
+        "domain": "science.org",
+        "score": 65,
+        "descendants": 0,
+        "by": "bryanrasmussen",
+        "tags": [],
+        "summary": "探讨一种具有特殊半莫比乌斯拓扑结构的分子，解析其在化学结构领域的新发现。"
+      },
+      {
+        "id": 48159445,
+        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "url": "https://nvlabs.github.io/Sana/WM/",
+        "domain": "nvlabs.github.io",
+        "score": 299,
+        "descendants": 125,
+        "by": "mjgil",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "英伟达推出SANA-WM世界模型，支持生成长达一分钟的高清视频，标志着视频生成技术的性能突破。"
+      },
+      {
+        "id": 48158400,
+        "title": "Moving away from Tailwind, and learning to structure my CSS",
+        "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+        "domain": "jvns.ca",
+        "score": 435,
+        "descendants": 280,
+        "by": "mpweiher",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "资深博主分享从Tailwind CSS迁移的思考，重点探讨如何构建更易于维护和扩展的CSS架构。"
+      },
+      {
+        "id": 48164891,
+        "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+        "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+        "domain": "electrek.co",
+        "score": 42,
+        "descendants": 7,
+        "by": "breve",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Fisker破产后，前车主社区自发组建开源汽车公司，试图通过开源方式延续品牌生命。"
+      },
+      {
+        "id": 48134784,
+        "title": "The Third Hard Problem",
+        "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+        "domain": "mmapped.blog",
+        "score": 26,
+        "descendants": 20,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨软件工程中除命名和缓存失效外的第三大技术难点，分析复杂系统中的核心挑战。"
+      },
+      {
+        "id": 48162468,
+        "title": "Halt and Catch Fire",
+        "url": "https://unstack.io/halt-and-catch-fire",
+        "domain": "unstack.io",
+        "score": 81,
+        "descendants": 51,
+        "by": "ScottWRobinson",
+        "tags": [],
+        "summary": "分析经典科技剧集《电脑狂人》，探讨其对早期计算硬件竞争和软件创业史的深刻还原。"
+      },
+      {
+        "id": 48159241,
+        "title": "Accelerando (2005)",
+        "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+        "domain": "antipope.org",
+        "score": 240,
+        "descendants": 140,
+        "by": "eamag",
+        "tags": [],
+        "summary": "重温查尔斯·斯特罗斯的科幻经典《加速》，探讨书中预言的后人类文明与经济技术变迁。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "crates.io",
+          "count": 1
+        },
+        {
+          "domain": "lcamtuf.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "hybridlogic.co.uk",
+          "count": 1
+        }
+      ],
+      "avg_score": 145,
+      "max_score": {
+        "title": "Moving away from Tailwind, and learning to structure my CSS",
+        "score": 435
+      },
+      "most_discussed": {
+        "title": "Moving away from Tailwind, and learning to structure my CSS",
+        "comments": 280
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Rust",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于前沿AI技术与软件开发工程实践。除了SANA-WM等重磅AI模型发布外，开发者们正热衷于探讨前端框架的重构策略、Unix哲学在编程代理中的应用，以及从硬件工程到科幻叙事的深度跨界讨论。"
+  }
+}
