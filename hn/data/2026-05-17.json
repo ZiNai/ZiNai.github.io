@@ -316,5 +316,164 @@
       ]
     },
     "summary": "本期Hacker News热门趋势聚焦于AI技术的创新与社会化应用，涵盖了视频生成、持续学习模型以及政府级部署等话题。同时，硬核工程实践与编程工具开发依然活跃，包括低功耗硬件创新及Rust编写的新型编码代理。"
+  },
+  "evening": {
+    "time": "2026-05-17 21:10",
+    "stories": [
+      {
+        "id": 48168058,
+        "title": "Native all the way, until you need text",
+        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+        "domain": "justsitandgrin.im",
+        "score": 72,
+        "descendants": 43,
+        "by": "dive",
+        "tags": [],
+        "summary": "探讨原生应用在处理复杂文本渲染时的局限性及面临的挑战。"
+      },
+      {
+        "id": 48168221,
+        "title": "I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "domain": "frederickvanbrabant.com",
+        "score": 41,
+        "descendants": 18,
+        "by": "TheEdonian",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析为何 AI 工具在实际工作流中可能无法带来预期的效率提升。"
+      },
+      {
+        "id": 48168056,
+        "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+        "domain": "thestateofbrand.com",
+        "score": 26,
+        "descendants": 15,
+        "by": "mooreds",
+        "tags": [
+          "AI"
+        ],
+        "summary": "指出企业大规模采购 AI 订阅服务背后潜藏的长期财务与合规风险。"
+      },
+      {
+        "id": 48168198,
+        "title": "Apple Silicon costs more than OpenRouter",
+        "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+        "domain": "williamangel.net",
+        "score": 43,
+        "descendants": 25,
+        "by": "datadrivenangel",
+        "tags": [],
+        "summary": "对比 Apple Silicon 本地推理成本与 OpenRouter 等云端 API 的经济性。"
+      },
+      {
+        "id": 48164287,
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "domain": "crates.io",
+        "score": 457,
+        "descendants": 230,
+        "by": "gidellav",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍一款由 Rust 编写、采用 Unix 设计哲学的 AI 代码辅助工具。"
+      },
+      {
+        "id": 48147091,
+        "title": "Prolog Basics Explained with Pokémon",
+        "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+        "domain": "unplannedobsolescence.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "birdculture",
+        "tags": [
+          "AI"
+        ],
+        "summary": "利用宝可梦元素深入浅出地讲解 Prolog 编程逻辑。"
+      },
+      {
+        "id": 48166459,
+        "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+        "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+        "domain": "blog.mozilla.org",
+        "score": 352,
+        "descendants": 143,
+        "by": "WithinReason",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Mozilla 向英国监管机构申明 VPN 对数字隐私与安全的核心重要性。"
+      },
+      {
+        "id": 48164432,
+        "title": "A nicer voltmeter clock",
+        "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+        "domain": "lcamtuf.substack.com",
+        "score": 236,
+        "descendants": 29,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "展示一个基于电压表指针制作的极具美感的创意时钟项目。"
+      },
+      {
+        "id": 48142115,
+        "title": "Colossus: The Forbin Project",
+        "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+        "domain": "en.wikipedia.org",
+        "score": 134,
+        "descendants": 46,
+        "by": "doener",
+        "tags": [],
+        "summary": "回顾探讨 1970 年代科幻电影《巨人：福宾计划》中关于 AI 意识与控制的预言。"
+      },
+      {
+        "id": 48165295,
+        "title": "Hosting a website on an 8-bit microcontroller",
+        "url": "https://maurycyz.com/projects/mcusite/",
+        "domain": "maurycyz.com",
+        "score": 163,
+        "descendants": 13,
+        "by": "zdw",
+        "tags": [
+          "Web"
+        ],
+        "summary": "技术实操：展示如何在性能受限的 8 位单片机上托管一个小型网站。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "justsitandgrin.im",
+          "count": 1
+        },
+        {
+          "domain": "frederickvanbrabant.com",
+          "count": 1
+        },
+        {
+          "domain": "thestateofbrand.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 157,
+      "max_score": {
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "score": 457
+      },
+      "most_discussed": {
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "comments": 230
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Security",
+        "Web"
+      ]
+    },
+    "summary": "今日 Hacker News 的讨论焦点集中在 AI 生态的经济性与技术局限性，以及系统工程与嵌入式开发的硬核实践。除了对 AI 企业级订阅模式和成本结构的质疑外，开源项目与底层计算技术的性能探索也引起了社区广泛关注。"
   }
 }
