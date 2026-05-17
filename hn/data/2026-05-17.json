@@ -155,5 +155,166 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于前沿AI技术与软件开发工程实践。除了SANA-WM等重磅AI模型发布外，开发者们正热衷于探讨前端框架的重构策略、Unix哲学在编程代理中的应用，以及从硬件工程到科幻叙事的深度跨界讨论。"
+  },
+  "noon": {
+    "time": "2026-05-17 14:38",
+    "stories": [
+      {
+        "id": 48164287,
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "domain": "crates.io",
+        "score": 307,
+        "descendants": 115,
+        "by": "gidellav",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Zerostack是一个采用纯Rust编写、受Unix设计哲学启发的新型AI编程代理。"
+      },
+      {
+        "id": 48165295,
+        "title": "Hosting a website on an 8-bit microcontroller",
+        "url": "https://maurycyz.com/projects/mcusite/",
+        "domain": "maurycyz.com",
+        "score": 94,
+        "descendants": 5,
+        "by": "zdw",
+        "tags": [
+          "Web"
+        ],
+        "summary": "作者分享了在低功耗8位微控制器上运行网站的极简工程实现。"
+      },
+      {
+        "id": 48142115,
+        "title": "Colossus: The Forbin Project",
+        "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+        "domain": "en.wikipedia.org",
+        "score": 66,
+        "descendants": 7,
+        "by": "doener",
+        "tags": [],
+        "summary": "探讨了关于科幻经典电影《地狱列车》（Colossus: The Forbin Project）及其对AI预测影响的内容。"
+      },
+      {
+        "id": 48164432,
+        "title": "A nicer voltmeter clock",
+        "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+        "domain": "lcamtuf.substack.com",
+        "score": 131,
+        "descendants": 20,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "展示了一个基于老式电压表改造而成的美学时钟项目。"
+      },
+      {
+        "id": 48166275,
+        "title": "Show HN: Codiff, a local diff review tool",
+        "url": "https://github.com/nkzw-tech/codiff/releases",
+        "domain": "github.com",
+        "score": 6,
+        "descendants": 3,
+        "by": "cpojer",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Codiff是一款开源的本地化代码差异（diff）审查工具。"
+      },
+      {
+        "id": 48165265,
+        "title": "Self-Distillation Enables Continual Learning [pdf]",
+        "url": "https://arxiv.org/abs/2601.19897",
+        "domain": "arxiv.org",
+        "score": 39,
+        "descendants": 13,
+        "by": "teleforce",
+        "tags": [],
+        "summary": "探讨通过自蒸馏技术解决人工智能模型在连续学习任务中的性能下降问题。"
+      },
+      {
+        "id": 48163392,
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "domain": "openai.com",
+        "score": 144,
+        "descendants": 137,
+        "by": "bookofjoe",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI与马耳他政府达成合作，计划向全体国民提供ChatGPT Plus订阅服务。"
+      },
+      {
+        "id": 48144584,
+        "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+        "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+        "domain": "lucisqr.substack.com",
+        "score": 80,
+        "descendants": 38,
+        "by": "signa11",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分析了C++26标准中引入的一个极具争议且实用性受质疑的SIMD库。"
+      },
+      {
+        "id": 48139435,
+        "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
+        "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+        "domain": "phys.org",
+        "score": 13,
+        "descendants": 5,
+        "by": "PaulHoule",
+        "tags": [],
+        "summary": "研究探讨了史前克洛维斯文明工匠为何倾向于选择难以加工的石英晶体作为制具材料。"
+      },
+      {
+        "id": 48159445,
+        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "url": "https://nvlabs.github.io/Sana/WM/",
+        "domain": "nvlabs.github.io",
+        "score": 322,
+        "descendants": 133,
+        "by": "mjgil",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "介绍了SANA-WM，一个能够生成1分钟720p视频的轻量级2.6B参数开源世界模型。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "crates.io",
+          "count": 1
+        },
+        {
+          "domain": "maurycyz.com",
+          "count": 1
+        },
+        {
+          "domain": "en.wikipedia.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 120,
+      "max_score": {
+        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "score": 322
+      },
+      "most_discussed": {
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "comments": 137
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Web",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门趋势聚焦于AI技术的创新与社会化应用，涵盖了视频生成、持续学习模型以及政府级部署等话题。同时，硬核工程实践与编程工具开发依然活跃，包括低功耗硬件创新及Rust编写的新型编码代理。"
   }
 }
