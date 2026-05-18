@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-05-18 10:04",
+    "stories": [
+      {
+        "id": 48173429,
+        "title": "GenCAD",
+        "url": "https://gencad.github.io/",
+        "domain": "gencad.github.io",
+        "score": 109,
+        "descendants": 23,
+        "by": "dagenix",
+        "tags": [],
+        "summary": "介绍一个旨在简化 CAD 设计流程的开源工具 GenCAD。"
+      },
+      {
+        "id": 48168668,
+        "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+        "url": "https://github.com/tech4bot/rk3562deb",
+        "domain": "github.com",
+        "score": 255,
+        "descendants": 120,
+        "by": "tech4bot",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "极客分享如何将 80 美元的低价安卓平板成功改装为 Debian Linux 工作站的过程。"
+      },
+      {
+        "id": 48173268,
+        "title": "Prolog Coding Horror",
+        "url": "https://www.metalevel.at/prolog/horror",
+        "domain": "metalevel.at",
+        "score": 58,
+        "descendants": 21,
+        "by": "RohanAdwankar",
+        "tags": [],
+        "summary": "探讨 Prolog 编程中常见的逻辑陷阱与代码规范问题。"
+      },
+      {
+        "id": 48173468,
+        "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+        "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "domain": "idahonews.com",
+        "score": 96,
+        "descendants": 76,
+        "by": "ChrisArchitect",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道两架 EA-18 战斗机在航展相撞，飞行员安全弹射的突发事故。"
+      },
+      {
+        "id": 48152754,
+        "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+        "url": "https://askanastronaut.issinrealtime.org/",
+        "domain": "askanastronaut.issinrealtime.org",
+        "score": 33,
+        "descendants": 3,
+        "by": "gaws",
+        "tags": [],
+        "summary": "汇总了长达 333 小时的宇航员问答视频资源，提供深入了解太空生活的机会。"
+      },
+      {
+        "id": 48155936,
+        "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+        "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+        "domain": "rogerebert.com",
+        "score": 74,
+        "descendants": 27,
+        "by": "walterbell",
+        "tags": [],
+        "summary": "重温经典剧集《北国风云》的艺术风格及其在 25 年后的文化影响力。"
+      },
+      {
+        "id": 48169874,
+        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "url": "https://github.com/MinishLab/semble",
+        "domain": "github.com",
+        "score": 174,
+        "descendants": 42,
+        "by": "Bibabomas",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "开源代码搜索工具 Semble，旨在通过高效索引显著降低 AI 代理的 Token 消耗。"
+      },
+      {
+        "id": 48147351,
+        "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+        "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+        "domain": "fosdem.org",
+        "score": 162,
+        "descendants": 151,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "回顾版本控制系统 Mercurial 诞生 20 年来的生存之道与技术生命力。"
+      },
+      {
+        "id": 48141960,
+        "title": "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
+        "url": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
+        "domain": "science.org",
+        "score": 35,
+        "descendants": 2,
+        "by": "gmays",
+        "tags": [],
+        "summary": "科学解析灰海豹之间发生的同类相食行为及其留下的独特螺旋状伤痕。"
+      },
+      {
+        "id": 48172505,
+        "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+        "url": "https://spectrum.ieee.org/payphone-voip",
+        "domain": "spectrum.ieee.org",
+        "score": 115,
+        "descendants": 34,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "探讨 VoIP 技术如何让老式公用电话亭在佛蒙特州农村地区重焕生机。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "gencad.github.io",
+          "count": 1
+        },
+        {
+          "domain": "metalevel.at",
+          "count": 1
+        }
+      ],
+      "avg_score": 111,
+      "max_score": {
+        "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+        "score": 255
+      },
+      "most_discussed": {
+        "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+        "comments": 151
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了硬件极客改造、开源工具创新与罕见科学趣闻。社区讨论呈现出从老旧设备复活到高效开发工具演进的多样化技术兴趣，同时也关注了航空安全与自然科学等领域的动态。"
+  }
+}
