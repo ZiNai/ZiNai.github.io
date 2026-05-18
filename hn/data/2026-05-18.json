@@ -306,5 +306,164 @@
       ]
     },
     "summary": "今日Hacker News热门内容涵盖了前沿硬件黑客技术、软件工程创新以及跨学科的硬核科学发现。社区讨论重点聚焦于低成本设备改装、高效能编程工具的开发，以及针对意识本质和航空安全等深层话题的广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-05-18 23:20",
+    "stories": [
+      {
+        "id": 48179677,
+        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "url": "https://github.com/zakirullin/files.md",
+        "domain": "github.com",
+        "score": 164,
+        "descendants": 80,
+        "by": "zakirullin",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "Files.md是一个开源的Markdown笔记替代方案，旨在提供类似Obsidian的本地化知识管理体验。"
+      },
+      {
+        "id": 48180204,
+        "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+        "url": "https://github.com/2b2tplace/1m_release",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 12,
+        "by": "exploraz",
+        "tags": [],
+        "summary": "项目详细记录了如何下载与探索2B2T Minecraft服务器规模达万亿级方块的巨大世界。"
+      },
+      {
+        "id": 48179183,
+        "title": "'We mould trees to grow into the shape of chairs'",
+        "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+        "domain": "bbc.co.uk",
+        "score": 86,
+        "descendants": 26,
+        "by": "bauc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了通过引导树木自然生长成家具形状的独特“植物雕塑”工艺及其背后的园艺艺术。"
+      },
+      {
+        "id": 48151990,
+        "title": "The Aperiodic Table",
+        "url": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
+        "domain": "blog.jgc.org",
+        "score": 36,
+        "descendants": 7,
+        "by": "jgrahamc",
+        "tags": [],
+        "summary": "探讨了关于非周期性平铺结构的数学研究及其在几何图形设计中的应用与发现。"
+      },
+      {
+        "id": 48163389,
+        "title": "The Quiet Renovation at Bitwarden",
+        "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+        "domain": "blog.ppb1701.com",
+        "score": 22,
+        "descendants": 9,
+        "by": "DaSHacka",
+        "tags": [],
+        "summary": "分析了密码管理工具Bitwarden近期在架构或运营方面的低调调整及其潜在影响。"
+      },
+      {
+        "id": 48135096,
+        "title": "Math Jokes in Alice in Wonderland",
+        "url": "https://storica.club/blog/alice-is-math-jokes/",
+        "domain": "storica.club",
+        "score": 71,
+        "descendants": 33,
+        "by": "yekbun123",
+        "tags": [],
+        "summary": "深入解析《爱丽丝梦游仙境》中隐藏的数学笑话与逻辑隐喻。"
+      },
+      {
+        "id": 48178692,
+        "title": "Linux security mailing list 'almost unmanageable'",
+        "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+        "domain": "theregister.com",
+        "score": 111,
+        "descendants": 46,
+        "by": "jonbaer",
+        "tags": [
+          "AI",
+          "Systems",
+          "Security"
+        ],
+        "summary": "讨论Linux安全邮件列表因负载过大导致管理几近崩溃的困境及潜在解决方案。"
+      },
+      {
+        "id": 48180091,
+        "title": "Actually, Democracy Dies in H.R.",
+        "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+        "domain": "nytimes.com",
+        "score": 55,
+        "descendants": 18,
+        "by": "mitchbob",
+        "tags": [],
+        "summary": "《纽约时报》评论探讨人力资源部门的权力扩张如何可能对职场民主产生负面影响。"
+      },
+      {
+        "id": 48179029,
+        "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+        "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+        "domain": "theregister.com",
+        "score": 89,
+        "descendants": 40,
+        "by": "Bender",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Domo首席数据官呼吁企业停止对AI的盲目恐慌与追逐，应采取更稳健的慢节奏发展策略。"
+      },
+      {
+        "id": 48179931,
+        "title": "Shame them, shun them, ban them, beat them",
+        "url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+        "domain": "experimental-history.com",
+        "score": 25,
+        "descendants": 4,
+        "by": "mday27",
+        "tags": [],
+        "summary": "探讨社会道德规范与舆论惩罚机制，分析当群体排斥成为手段时带来的伦理挑战。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "theregister.com",
+          "count": 2
+        },
+        {
+          "domain": "bbc.co.uk",
+          "count": 1
+        }
+      ],
+      "avg_score": 68,
+      "max_score": {
+        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "score": 164
+      },
+      "most_discussed": {
+        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "comments": 80
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Systems",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点多元，从开源笔记工具的兴起、互联网亚文化历史如Minecraft服务器档案保存，到对AI焦虑的冷思考及技术社区治理挑战。整体趋势呈现出对数字文化遗产的重塑与对当下技术发展速度的理性反思。"
   }
 }
