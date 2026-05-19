@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-05-19 10:03",
+    "stories": [
+      {
+        "id": 48187054,
+        "title": "Click (2016)",
+        "url": "https://clickclickclick.click/",
+        "domain": "clickclickclick.click",
+        "score": 198,
+        "descendants": 42,
+        "by": "andrewzeno",
+        "tags": [],
+        "summary": "一个关于2016年互动点击项目Click的复古回顾。"
+      },
+      {
+        "id": 48187201,
+        "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+        "domain": "vaticannews.va",
+        "score": 101,
+        "descendants": 62,
+        "by": "cucho",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic联合创始人将与教皇探讨AI伦理与愿景。"
+      },
+      {
+        "id": 48182281,
+        "title": "Anthropic acquires Stainless",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "domain": "anthropic.com",
+        "score": 361,
+        "descendants": 255,
+        "by": "tomeraberbach",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic宣布收购API开发平台Stainless以强化其生态建设。"
+      },
+      {
+        "id": 48184322,
+        "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+        "url": "https://hyperpolyglot.org/lisp",
+        "domain": "hyperpolyglot.org",
+        "score": 132,
+        "descendants": 28,
+        "by": "veqq",
+        "tags": [],
+        "summary": "多语言Lisp对比指南，涵盖Common Lisp、Racket、Clojure及Emacs Lisp。"
+      },
+      {
+        "id": 48181125,
+        "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "domain": "archestra.ai",
+        "score": 414,
+        "descendants": 189,
+        "by": "ildari",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "通过利用Git的author标志有效拦截GitHub仓库中的AI垃圾自动回复。"
+      },
+      {
+        "id": 48183301,
+        "title": "We let AIs run radio stations",
+        "url": "https://andonlabs.com/blog/andon-fm",
+        "domain": "andonlabs.com",
+        "score": 169,
+        "descendants": 161,
+        "by": "lukaspetersson",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨由人工智能自主运行广播电台的技术尝试与效果。"
+      },
+      {
+        "id": 48163389,
+        "title": "The Quiet Renovation at Bitwarden",
+        "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+        "domain": "blog.ppb1701.com",
+        "score": 530,
+        "descendants": 246,
+        "by": "DaSHacka",
+        "tags": [],
+        "summary": "深度剖析Bitwarden近期在架构与功能上的持续更新改进。"
+      },
+      {
+        "id": 48179677,
+        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "url": "https://github.com/zakirullin/files.md",
+        "domain": "github.com",
+        "score": 553,
+        "descendants": 281,
+        "by": "zakirullin",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "Files.md：一个面向开发者的开源Obsidian替代方案。"
+      },
+      {
+        "id": 48123359,
+        "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
+        "url": "https://isabisabel.com/gacha/",
+        "domain": "isabisabel.com",
+        "score": 44,
+        "descendants": 11,
+        "by": "babel16",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一款将抽卡游戏玩法精简至极致的极简网页游戏。"
+      },
+      {
+        "id": 48176873,
+        "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
+        "url": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
+        "domain": "thescientificdrop.com",
+        "score": 27,
+        "descendants": 21,
+        "by": "jonbaer",
+        "tags": [
+          "Science"
+        ],
+        "summary": "可视化呈现人类历史上向太空发射的所有无线电信号形成的辐射泡。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "clickclickclick.click",
+          "count": 1
+        },
+        {
+          "domain": "vaticannews.va",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 253,
+      "max_score": {
+        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "score": 553
+      },
+      "most_discussed": {
+        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "comments": 281
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的产业动向，包括Anthropic的战略收购与跨界合作，以及利用技术手段治理AI机器人垃圾信息。此外，开源工具与程序语言的实践分享依然是社区讨论的热点，反映了开发者对效率工具和技术深度的持续关注。"
+  }
+}
