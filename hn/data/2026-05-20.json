@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-05-20 10:02",
+    "stories": [
+      {
+        "id": 48201484,
+        "title": "Railway Blocked by Google Cloud",
+        "url": "https://status.railway.com/?date=20260519",
+        "domain": "status.railway.com",
+        "score": 127,
+        "descendants": 32,
+        "by": "aarondf",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Railway遭遇Google Cloud平台封锁，引发关于云服务稳定性及托管平台运营风险的讨论。"
+      },
+      {
+        "id": 48196570,
+        "title": "Gemini 3.5 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "domain": "blog.google",
+        "score": 584,
+        "descendants": 440,
+        "by": "spectraldrift",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google正式发布Gemini 3.5 Flash模型，进一步提升其轻量化AI模型的性能与响应速度。"
+      },
+      {
+        "id": 48195009,
+        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+        "url": "https://virtualosmuseum.org/",
+        "domain": "virtualosmuseum.org",
+        "score": 601,
+        "descendants": 146,
+        "by": "andreww591",
+        "tags": [],
+        "summary": "开发者构建了一个收录几乎所有操作系统历史版本的虚拟博物馆，通过浏览器即可体验计算史。"
+      },
+      {
+        "id": 48197370,
+        "title": "Google changes its search box",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "domain": "blog.google",
+        "score": 377,
+        "descendants": 548,
+        "by": "berkeleyjunk",
+        "tags": [],
+        "summary": "Google更新搜索框设计，意在优化用户交互体验并调整其核心搜索产品的呈现方式。"
+      },
+      {
+        "id": 48198291,
+        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+        "url": "https://openai.com/index/advancing-content-provenance/",
+        "domain": "openai.com",
+        "score": 200,
+        "descendants": 102,
+        "by": "smooke",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI引入Google SynthID数字水印技术，并发布配套工具以验证AI生成图片的真实性。"
+      },
+      {
+        "id": 48200569,
+        "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+        "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+        "domain": "github.com",
+        "score": 117,
+        "descendants": 70,
+        "by": "janalsncm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个开源CLI项目发布，旨在演示如何从AI生成图像中移除数字水印，引发技术伦理讨论。"
+      },
+      {
+        "id": 48192383,
+        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "url": "https://github.com/antoinezambelli/forge",
+        "domain": "github.com",
+        "score": 275,
+        "descendants": 98,
+        "by": "zambelli",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "Forge项目通过加入护栏机制，显著提升了8B小模型在代理任务中的成功率。"
+      },
+      {
+        "id": 48197995,
+        "title": "Mistral AI acquires Emmi AI",
+        "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "domain": "emmi.ai",
+        "score": 168,
+        "descendants": 43,
+        "by": "doener",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral AI宣布收购AI初创公司Emmi AI，旨在增强其在特定领域的AI能力。"
+      },
+      {
+        "id": 48176384,
+        "title": "The Mercury logic programming system",
+        "url": "https://github.com/Mercury-Language/mercury",
+        "domain": "github.com",
+        "score": 15,
+        "descendants": 0,
+        "by": "Antibabelic",
+        "tags": [],
+        "summary": "介绍Mercury逻辑编程系统，重点展示了该语言在声明式编程领域的特性。"
+      },
+      {
+        "id": 48192224,
+        "title": "Apple unveils new accessibility features",
+        "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+        "domain": "apple.com",
+        "score": 595,
+        "descendants": 309,
+        "by": "interpol_p",
+        "tags": [],
+        "summary": "Apple发布一系列全新的辅助功能，旨在利用软硬件协同提升残障人士的设备交互体验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "blog.google",
+          "count": 2
+        },
+        {
+          "domain": "status.railway.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 306,
+      "max_score": {
+        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+        "score": 601
+      },
+      "most_discussed": {
+        "title": "Google changes its search box",
+        "comments": 548
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于AI领域的最新技术突破与生态演变，涵盖了从模型发布、大厂AI水印工具到开源工具的反制措施。同时，Apple的无障碍功能更新及跨平台操作系统的数字化博物馆也吸引了广泛关注，展现了技术界在产品创新与基础设施监管方面的动态。"
+  }
+}
