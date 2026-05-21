@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-05-21 10:02",
+    "stories": [
+      {
+        "id": 48212493,
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "domain": "openai.com",
+        "score": 747,
+        "descendants": 543,
+        "by": "tedsanders",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 模型成功证明了离散几何中的一个核心猜想，展示了 AI 在数学科研领域的应用潜力。"
+      },
+      {
+        "id": 48207660,
+        "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+        "domain": "bleepingcomputer.com",
+        "score": 545,
+        "descendants": 196,
+        "by": "Timofeibu",
+        "tags": [
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "GitHub 确认因恶意 VSCode 插件导致 3800 个代码仓库遭遇安全泄露。"
+      },
+      {
+        "id": 48215418,
+        "title": "DOS Zone",
+        "url": "https://dos.zone/",
+        "domain": "dos.zone",
+        "score": 93,
+        "descendants": 21,
+        "by": "rglover",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "DOS Zone 提供了一个便捷的网页端 DOS 游戏模拟器，让复古游戏体验触手可及。"
+      },
+      {
+        "id": 48215979,
+        "title": "I reverse engineered Apple's video wallpapers",
+        "url": "https://github.com/kageroumado/phosphene",
+        "domain": "github.com",
+        "score": 61,
+        "descendants": 10,
+        "by": "kageroumado",
+        "tags": [
+          "Science"
+        ],
+        "summary": "博主通过逆向工程揭秘了 Apple 视频壁纸的实现机制与底层代码逻辑。"
+      },
+      {
+        "id": 48213651,
+        "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+        "url": "https://legiscan.com/CO/bill/SB051/2026",
+        "domain": "legiscan.com",
+        "score": 123,
+        "descendants": 32,
+        "by": "ki4jgt",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "科罗拉多州修正案明确将开源项目排除在年龄验证法案的监管范围之外，保护开源生态。"
+      },
+      {
+        "id": 48212046,
+        "title": "Flipper One Tech Specs",
+        "url": "https://docs.flipper.net/one/general/tech-specs",
+        "domain": "docs.flipper.net",
+        "score": 256,
+        "descendants": 94,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "官方公布了 Flipper One 的技术规格文档，详细介绍这款多功能硬件的参数配置。"
+      },
+      {
+        "id": 48183167,
+        "title": "Your Most Improbable Life",
+        "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
+        "domain": "kevinkelly.substack.com",
+        "score": 35,
+        "descendants": 4,
+        "by": "jger15",
+        "tags": [],
+        "summary": "探讨人类个体存在的概率性，反思生命作为极其偶然事件的意义。"
+      },
+      {
+        "id": 48174920,
+        "title": "How fast is N tokens per second really?",
+        "url": "https://mikeveerman.github.io/tokenspeed/",
+        "domain": "mikeveerman.github.io",
+        "score": 306,
+        "descendants": 73,
+        "by": "hexagr",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入剖析大模型中“每秒 N 个 Token”这一指标的实际含义及其对性能评估的局限性。"
+      },
+      {
+        "id": 48205626,
+        "title": "Qwen3.7-Max: The Agent Frontier",
+        "url": "https://qwen.ai/blog?id=qwen3.7",
+        "domain": "qwen.ai",
+        "score": 609,
+        "descendants": 246,
+        "by": "kevinsimper",
+        "tags": [],
+        "summary": "Qwen3.7-Max 发布，重点强化了智能体（Agent）能力，标志着模型向自主执行方向演进。"
+      },
+      {
+        "id": 48154796,
+        "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
+        "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
+        "domain": "openculture.com",
+        "score": 54,
+        "descendants": 19,
+        "by": "diodorus",
+        "tags": [],
+        "summary": "考古学家在埃及木乃伊墓穴中发现了一份埋藏千年的《伊利亚特》手稿。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "bleepingcomputer.com",
+          "count": 1
+        },
+        {
+          "domain": "dos.zone",
+          "count": 1
+        }
+      ],
+      "avg_score": 283,
+      "max_score": {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "score": 747
+      },
+      "most_discussed": {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "comments": 543
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 关注焦点集中在 AI 前沿进展与网络安全，OpenAI 在几何领域取得科研突破，Qwen3.7-Max 刷新大模型能力边界。同时，开发者群体正密切关注 GitHub 恶意插件漏洞及数字隐私法律法规的演进。"
+  }
+}
