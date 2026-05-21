@@ -320,5 +320,161 @@
       ]
     },
     "summary": "本期Hacker News聚焦于前沿AI突破与网络安全威胁，包括OpenAI在离散几何领域的数学进展及GitHub仓库被恶意插件入侵的警示。同时，社区对Apple技术内幕、编程语言生态更新以及经典复古计算内容保持高度关注。"
+  },
+  "evening": {
+    "time": "2026-05-21 22:56",
+    "stories": [
+      {
+        "id": 48222383,
+        "title": "AI is just unauthorised plagiarism at a bigger scale",
+        "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+        "domain": "axelk.ee",
+        "score": 329,
+        "descendants": 186,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者认为当前的AI模型本质上是大规模的未经授权剽窃行为。"
+      },
+      {
+        "id": 48220647,
+        "title": "Flipper One – we need your help",
+        "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+        "domain": "blog.flipper.net",
+        "score": 483,
+        "descendants": 245,
+        "by": "sandebert",
+        "tags": [],
+        "summary": "Flipper Zero开发团队公开寻求社区支持，以推动Flipper One项目的研发进程。"
+      },
+      {
+        "id": 48222529,
+        "title": "Google's Antigravity Bait and Switch",
+        "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+        "domain": "0xsid.com",
+        "score": 87,
+        "descendants": 50,
+        "by": "ssiddharth",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析Google在反重力技术或相关底层架构调整中存在的策略性诱导问题。"
+      },
+      {
+        "id": 48220105,
+        "title": "Google officially announces that ads will be included in AI Mode search results",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+        "domain": "blog.google",
+        "score": 369,
+        "descendants": 311,
+        "by": "sofumel",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google官方确认将在AI驱动的搜索结果中正式引入商业广告。"
+      },
+      {
+        "id": 48220696,
+        "title": "Python 3.15: features that didn't make the headlines",
+        "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+        "domain": "blog.changs.co.uk",
+        "score": 151,
+        "descendants": 67,
+        "by": "rbanffy",
+        "tags": [
+          "Python"
+        ],
+        "summary": "详细盘点Python 3.15中那些未被广泛报道但极具价值的功能更新。"
+      },
+      {
+        "id": 48223303,
+        "title": "Michael Keating has died at the age of 79 (1947–2026)",
+        "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+        "domain": "bigfinish.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "speckx",
+        "tags": [],
+        "summary": "知名配音演员及制作人Michael Keating于79岁高龄去世。"
+      },
+      {
+        "id": 48220639,
+        "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+        "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+        "domain": "spectrum.ieee.org",
+        "score": 90,
+        "descendants": 22,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "IEEE报道了1945年三位一体核试验珍贵遗失影像的修复过程。"
+      },
+      {
+        "id": 48222241,
+        "title": "US employers spend more than $1.5B a year to fight labor unions, report finds",
+        "url": "https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions",
+        "domain": "theguardian.com",
+        "score": 105,
+        "descendants": 53,
+        "by": "robtherobber",
+        "tags": [],
+        "summary": "报告显示美国雇主每年投入超过15亿美元用于对抗工会组织。"
+      },
+      {
+        "id": 48221415,
+        "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+        "url": "https://fatgid.io/",
+        "domain": "fatgid.io",
+        "score": 34,
+        "descendants": 2,
+        "by": "WhyNotHugo",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "揭示了FreeBSD 14.x内核中存在的本地权限提升安全漏洞。"
+      },
+      {
+        "id": 48221877,
+        "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+        "domain": "papers.ssrn.com",
+        "score": 25,
+        "descendants": 13,
+        "by": "vcf",
+        "tags": [],
+        "summary": "基于Polymarket的数据分析，探讨预测市场中的赢家与输家特征。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "axelk.ee",
+          "count": 1
+        },
+        {
+          "domain": "blog.flipper.net",
+          "count": 1
+        },
+        {
+          "domain": "0xsid.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 168,
+      "max_score": {
+        "title": "Flipper One – we need your help",
+        "score": 483
+      },
+      "most_discussed": {
+        "title": "Google officially announces that ads will be included in AI Mode search results",
+        "comments": 311
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术应用与商业化争议，包括AI内容版权伦理及搜索广告模式的扩张。同时，技术界关注软硬件安全漏洞与Python新特性，以及对社会议题如劳工权益与预测市场的研究分析。"
   }
 }
