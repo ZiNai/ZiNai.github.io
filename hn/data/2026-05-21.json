@@ -158,5 +158,167 @@
       ]
     },
     "summary": "今日 Hacker News 关注焦点集中在 AI 前沿进展与网络安全，OpenAI 在几何领域取得科研突破，Qwen3.7-Max 刷新大模型能力边界。同时，开发者群体正密切关注 GitHub 恶意插件漏洞及数字隐私法律法规的演进。"
+  },
+  "noon": {
+    "time": "2026-05-21 15:40",
+    "stories": [
+      {
+        "id": 48212493,
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "domain": "openai.com",
+        "score": 1052,
+        "descendants": 767,
+        "by": "tedsanders",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI模型成功反证了离散几何领域的一项核心猜想，展示了AI在复杂数学推理中的潜力。"
+      },
+      {
+        "id": 48207660,
+        "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+        "domain": "bleepingcomputer.com",
+        "score": 763,
+        "descendants": 293,
+        "by": "Timofeibu",
+        "tags": [
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "GitHub确认超3800个代码仓库因恶意VSCode扩展程序被入侵，安全专家提醒开发者谨慎安装插件。"
+      },
+      {
+        "id": 48216983,
+        "title": "Haskell Foundation 2026 Update",
+        "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+        "domain": "discourse.haskell.org",
+        "score": 88,
+        "descendants": 15,
+        "by": "azhenley",
+        "tags": [],
+        "summary": "Haskell基金会发布2026年最新动态，概述了该函数式编程语言的未来发展规划。"
+      },
+      {
+        "id": 48215979,
+        "title": "Show HN: I reverse engineered Apple's video wallpapers",
+        "url": "https://github.com/kageroumado/phosphene",
+        "domain": "github.com",
+        "score": 240,
+        "descendants": 43,
+        "by": "kageroumado",
+        "tags": [
+          "Show HN",
+          "Science"
+        ],
+        "summary": "一位开发者分享了通过逆向工程解析苹果视频壁纸文件格式的技术细节。"
+      },
+      {
+        "id": 48188302,
+        "title": "New features in GCC 16: Improved error messages and SARIF output",
+        "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+        "domain": "developers.redhat.com",
+        "score": 61,
+        "descendants": 7,
+        "by": "siteshwar",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "GCC 16编译器带来重要更新，显著提升了报错信息的友好度并支持SARIF输出格式。"
+      },
+      {
+        "id": 48215418,
+        "title": "DOS Zone",
+        "url": "https://dos.zone/",
+        "domain": "dos.zone",
+        "score": 223,
+        "descendants": 41,
+        "by": "rglover",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "DOS Zone网站提供了一个便捷的浏览器端环境，让用户可以直接在线运行各种经典的DOS游戏。"
+      },
+      {
+        "id": 48216016,
+        "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+        "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+        "domain": "gwern.net",
+        "score": 136,
+        "descendants": 16,
+        "by": "bambax",
+        "tags": [],
+        "summary": "唐纳德·克努特（Donald Knuth）1980年的经典文章，探讨了关于字母“S”的各种趣闻与分析。"
+      },
+      {
+        "id": 48212046,
+        "title": "Flipper One Tech Specs",
+        "url": "https://docs.flipper.net/one/general/tech-specs",
+        "domain": "docs.flipper.net",
+        "score": 346,
+        "descendants": 124,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "Flipper One设备的详细技术规格说明文档，揭示了这款硬件的性能参数与功能布局。"
+      },
+      {
+        "id": 48214017,
+        "title": "Anthropic is expanding to Colossus2. Will use GB200",
+        "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+        "domain": "twitter.com",
+        "score": 164,
+        "descendants": 140,
+        "by": "aurareturn",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic宣布将训练基础设施扩容至Colossus2，并计划采用英伟达GB200 AI芯片。"
+      },
+      {
+        "id": 48154796,
+        "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
+        "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
+        "domain": "openculture.com",
+        "score": 118,
+        "descendants": 81,
+        "by": "diodorus",
+        "tags": [],
+        "summary": "考古发现显示，一具古埃及木乃伊被发现随葬了史诗巨著《伊利亚特》，引发历史与文化讨论。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "bleepingcomputer.com",
+          "count": 1
+        },
+        {
+          "domain": "discourse.haskell.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 319,
+      "max_score": {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "score": 1052
+      },
+      "most_discussed": {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "comments": 767
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Open Source",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于前沿AI突破与网络安全威胁，包括OpenAI在离散几何领域的数学进展及GitHub仓库被恶意插件入侵的警示。同时，社区对Apple技术内幕、编程语言生态更新以及经典复古计算内容保持高度关注。"
   }
 }
