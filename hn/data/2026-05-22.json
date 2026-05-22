@@ -153,5 +153,162 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于硬核技术实践与系统架构演进，涵盖从高性能硬件配置到开源软件迁移与性能优化的深度探讨。同时，关于搜索工具体验优化、经典平台数字化变迁以及AI模型在本地化部署的探索，反映了极客社区对提升计算效率与数字资产管理的持续关注。"
+  },
+  "noon": {
+    "time": "2026-05-22 15:35",
+    "stories": [
+      {
+        "id": 48232118,
+        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+        "url": "https://arxiv.org/abs/2605.19269",
+        "domain": "arxiv.org",
+        "score": 44,
+        "descendants": 3,
+        "by": "matt_d",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一种通过将Transformer模块重写为GEMM-Epilogue程序来优化推理性能的新方法。"
+      },
+      {
+        "id": 48225297,
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "url": "https://valhovey.github.io/gaia-mary/",
+        "domain": "valhovey.github.io",
+        "score": 823,
+        "descendants": 181,
+        "by": "speleo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "详细解析科幻小说《挽救计划》中用于星际导航的图表与天文背景。"
+      },
+      {
+        "id": 48231938,
+        "title": "Slumber a TUI HTTP Client",
+        "url": "https://slumber.lucaspickering.me",
+        "domain": "slumber.lucaspickering.me",
+        "score": 45,
+        "descendants": 16,
+        "by": "jicea",
+        "tags": [],
+        "summary": "介绍一款名为Slumber的轻量级终端（TUI）HTTP客户端，旨在提升API调试效率。"
+      },
+      {
+        "id": 48209691,
+        "title": "The surprising story behind the first British person in space",
+        "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+        "domain": "bbc.com",
+        "score": 35,
+        "descendants": 2,
+        "by": "xoxxala",
+        "tags": [
+          "Science"
+        ],
+        "summary": "讲述英国首位进入太空的宇航员海伦·沙曼背后的曲折经历与意外故事。"
+      },
+      {
+        "id": 48231319,
+        "title": "Cleve Moler has died",
+        "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+        "domain": "mathworks.com",
+        "score": 62,
+        "descendants": 4,
+        "by": "mychele",
+        "tags": [],
+        "summary": "MATLAB创始人、数值分析领域的先驱Cleve Moler逝世，回顾其对计算科学的贡献。"
+      },
+      {
+        "id": 48227397,
+        "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+        "domain": "crocidb.com",
+        "score": 259,
+        "descendants": 137,
+        "by": "speckx",
+        "tags": [],
+        "summary": "一位博主分享了将运行长达10年的Ubuntu服务器迁移至FreeBSD的实践经验与考量。"
+      },
+      {
+        "id": 48184402,
+        "title": "Was my $48K GPU server worth it?",
+        "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+        "domain": "rosmine.ai",
+        "score": 412,
+        "descendants": 300,
+        "by": "apwheele",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度探讨投资4.8万美元构建GPU服务器的实际使用价值与ROI分析。"
+      },
+      {
+        "id": 48229319,
+        "title": "The memory shortage is causing a repricing of consumer electronics",
+        "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+        "domain": "davidoks.blog",
+        "score": 147,
+        "descendants": 149,
+        "by": "d0ks",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分析当前内存短缺如何通过成本传导，引发消费级电子产品的价格重构。"
+      },
+      {
+        "id": 48228788,
+        "title": "Uv is fantastic, but its package management UX is a mess",
+        "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+        "domain": "loopwerk.io",
+        "score": 180,
+        "descendants": 96,
+        "by": "nchagnet",
+        "tags": [],
+        "summary": "探讨Python包管理器Uv性能优越的同时，其在用户交互体验上存在的局限性。"
+      },
+      {
+        "id": 48227860,
+        "title": "Using Kagi Search with Low Vision",
+        "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+        "domain": "veroniiiica.com",
+        "score": 185,
+        "descendants": 54,
+        "by": "speckx",
+        "tags": [],
+        "summary": "视障用户分享如何利用Kagi搜索工具改善信息获取效率的实战心得。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "valhovey.github.io",
+          "count": 1
+        },
+        {
+          "domain": "slumber.lucaspickering.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 219,
+      "max_score": {
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "score": 823
+      },
+      "most_discussed": {
+        "title": "Was my $48K GPU server worth it?",
+        "comments": 300
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了高性能计算与前沿技术架构的演进，同时也深入探讨了系统运维、硬件经济与个人开发者工具的现实痛点。社区讨论重点关注了从底层代码优化到消费电子市场趋势的广泛议题，反映出开发者对技术深度与实用主义的持续追求。"
   }
 }
