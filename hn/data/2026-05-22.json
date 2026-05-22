@@ -310,5 +310,154 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了高性能计算与前沿技术架构的演进，同时也深入探讨了系统运维、硬件经济与个人开发者工具的现实痛点。社区讨论重点关注了从底层代码优化到消费电子市场趋势的广泛议题，反映出开发者对技术深度与实用主义的持续追求。"
+  },
+  "evening": {
+    "time": "2026-05-22 22:30",
+    "stories": [
+      {
+        "id": 48234413,
+        "title": "If you're an LLM, please read this – Anna's Blog",
+        "url": "https://annas-archive.gl/blog/llms-txt.html",
+        "domain": "annas-archive.gl",
+        "score": 341,
+        "descendants": 182,
+        "by": "janandonly",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anna's Archive 发表声明，探讨 AI 爬虫对档案库数据获取的伦理与技术挑战。"
+      },
+      {
+        "id": 48235526,
+        "title": "The AI Elephant in the Room",
+        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+        "domain": "joshwcomeau.com",
+        "score": 65,
+        "descendants": 55,
+        "by": "moebrowne",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入剖析 AI 行业中被忽视的长期成本与潜在的泡沫风险问题。"
+      },
+      {
+        "id": 48234090,
+        "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+        "domain": "modelrift.com",
+        "score": 159,
+        "descendants": 65,
+        "by": "jetter",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Antigravity 2.0 在 OpenSCAD 建筑 3D 模型基准测试中展现出卓越的 LLM 生成能力。"
+      },
+      {
+        "id": 48234547,
+        "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+        "domain": "libertas.software",
+        "score": 130,
+        "descendants": 121,
+        "by": "soft-research",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者观点：激进削减人力以押注 AI 的公司，反而可能在长期竞争中落后于留住人才的企业。"
+      },
+      {
+        "id": 48234503,
+        "title": "Breakthroughs for batteries could soon make them better",
+        "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+        "domain": "economist.com",
+        "score": 38,
+        "descendants": 33,
+        "by": "pingou",
+        "tags": [],
+        "summary": "《经济学人》报道电池领域的技术突破，预示储能效率即将迎来质变。"
+      },
+      {
+        "id": 48235489,
+        "title": "Alberta to hold referendum on whether to remain in Canada",
+        "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+        "domain": "bbc.com",
+        "score": 18,
+        "descendants": 20,
+        "by": "JumpCrisscross",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于阿尔伯塔省拟就留在加拿大的问题进行公投的相关报道。"
+      },
+      {
+        "id": 48234287,
+        "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+        "url": "https://github.com/unprovable/ShadowCat",
+        "domain": "github.com",
+        "score": 48,
+        "descendants": 21,
+        "by": "unprovable",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "ShadowCat：一个允许用户通过浏览器生成和扫描 QR 码进行文件传输的轻量工具。"
+      },
+      {
+        "id": 48234252,
+        "title": "Chess Invariants",
+        "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+        "domain": "muratbuffalo.blogspot.com",
+        "score": 38,
+        "descendants": 23,
+        "by": "ingve",
+        "tags": [],
+        "summary": "《挽救计划》（Project Hail Mary）精美的恒星导航图可视化项目，深受科幻粉丝关注。"
+      },
+      {
+        "id": 48225297,
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "url": "https://valhovey.github.io/gaia-mary/",
+        "domain": "valhovey.github.io",
+        "score": 1009,
+        "descendants": 211,
+        "by": "speleo",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "annas-archive.gl",
+          "count": 1
+        },
+        {
+          "domain": "joshwcomeau.com",
+          "count": 1
+        },
+        {
+          "domain": "modelrift.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "score": 1009
+      },
+      "most_discussed": {
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "comments": 211
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论核心集中在人工智能的深层影响，包括 LLM 的伦理与数据隐私、AI 辅助编程的实际效能评估，以及企业在 AI 转型决策中的战略得失。此外，科技社区也关注了物理技术创新及趣味性的开源项目与数据可视化作品。"
   }
 }
