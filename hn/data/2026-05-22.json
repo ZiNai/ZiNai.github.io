@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-05-22 10:04",
+    "stories": [
+      {
+        "id": 48225297,
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "url": "https://valhovey.github.io/gaia-mary/",
+        "domain": "valhovey.github.io",
+        "score": 578,
+        "descendants": 136,
+        "by": "speleo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "《挽救计划》中星际导航图的开源解析与可视化展示。"
+      },
+      {
+        "id": 48227860,
+        "title": "Using Kagi Search with Low Vision",
+        "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+        "domain": "veroniiiica.com",
+        "score": 132,
+        "descendants": 24,
+        "by": "speckx",
+        "tags": [],
+        "summary": "低视力用户分享通过Kagi搜索工具改善网页浏览体验的心得。"
+      },
+      {
+        "id": 48227397,
+        "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+        "domain": "crocidb.com",
+        "score": 167,
+        "descendants": 91,
+        "by": "speckx",
+        "tags": [],
+        "summary": "记录博主将维护十年的Ubuntu 16.04旧站迁移至FreeBSD的过程与思考。"
+      },
+      {
+        "id": 48192605,
+        "title": "The Death of the Brick and Mortar Toy Store",
+        "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+        "domain": "brainbaking.com",
+        "score": 15,
+        "descendants": 6,
+        "by": "speckx",
+        "tags": [],
+        "summary": "分析实体玩具店在数字化浪潮冲击下的式微与生存现状。"
+      },
+      {
+        "id": 48184402,
+        "title": "Was my $48K GPU server worth it?",
+        "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+        "domain": "rosmine.ai",
+        "score": 289,
+        "descendants": 214,
+        "by": "apwheele",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度复盘价值4.8万美元的GPU服务器构建与使用价值评估。"
+      },
+      {
+        "id": 48223362,
+        "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+        "url": "https://freenet.org/",
+        "domain": "freenet.org",
+        "score": 196,
+        "descendants": 102,
+        "by": "sanity",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍Freenet平台及其在去中心化应用领域的架构设计与潜力。"
+      },
+      {
+        "id": 48230049,
+        "title": "The IBM-ification of Google?",
+        "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+        "domain": "zeroshot.bearblog.dev",
+        "score": 66,
+        "descendants": 62,
+        "by": "sabatonfan",
+        "tags": [],
+        "summary": "探讨谷歌文化与管理模式是否正呈现出类似IBM的官僚化倾向。"
+      },
+      {
+        "id": 48222733,
+        "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+        "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+        "domain": "blog.simbastack.com",
+        "score": 294,
+        "descendants": 91,
+        "by": "asenna",
+        "tags": [],
+        "summary": "实测在MacBook上通过50GB内存交换空间本地化运行Gemma4-31B模型索引视频。"
+      },
+      {
+        "id": 48209905,
+        "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+        "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+        "domain": "pacifichorticulture.org",
+        "score": 35,
+        "descendants": 4,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "科普菌根真菌在自然生态系统与植物生存中的关键作用。"
+      },
+      {
+        "id": 48220696,
+        "title": "Python 3.15: features that didn't make the headlines",
+        "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+        "domain": "blog.changs.co.uk",
+        "score": 331,
+        "descendants": 159,
+        "by": "rbanffy",
+        "tags": [
+          "Python"
+        ],
+        "summary": "深入挖掘Python 3.15版本更新中被大众忽略的技术特性与改进。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "valhovey.github.io",
+          "count": 1
+        },
+        {
+          "domain": "veroniiiica.com",
+          "count": 1
+        },
+        {
+          "domain": "crocidb.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 210,
+      "max_score": {
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "score": 578
+      },
+      "most_discussed": {
+        "title": "Was my $48K GPU server worth it?",
+        "comments": 214
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Show HN",
+        "Python"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于硬核技术实践与系统架构演进，涵盖从高性能硬件配置到开源软件迁移与性能优化的深度探讨。同时，关于搜索工具体验优化、经典平台数字化变迁以及AI模型在本地化部署的探索，反映了极客社区对提升计算效率与数字资产管理的持续关注。"
+  }
+}
