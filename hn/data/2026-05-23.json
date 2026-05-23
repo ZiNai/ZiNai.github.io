@@ -155,5 +155,158 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿科技、工程奇观及社会议题。从Anthropic的模型进展到SpaceX的航天壮举，技术创新与跨领域应用（如医疗、基础设施、开源工具）成为了社区关注的核心焦点。"
+  },
+  "noon": {
+    "time": "2026-05-23 14:27",
+    "stories": [
+      {
+        "id": 48241997,
+        "title": "Shipping a laptop to a refugee camp in Uganda",
+        "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+        "domain": "notesbylex.com",
+        "score": 330,
+        "descendants": 103,
+        "by": "lexandstuff",
+        "tags": [],
+        "summary": "博主分享了克服物流与合规难题，成功向乌干达难民营寄送笔记本电脑的个人经历。"
+      },
+      {
+        "id": 48237163,
+        "title": "Why Japanese companies do so many different things",
+        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+        "domain": "davidoks.blog",
+        "score": 604,
+        "descendants": 299,
+        "by": "d0ks",
+        "tags": [],
+        "summary": "深度剖析日本企业为何倾向于采取“多元化经营”这一特殊商业策略及其深层文化动因。"
+      },
+      {
+        "id": 48207043,
+        "title": "Sp.h is the standard library that C deserves",
+        "url": "https://spader.zone/sp/",
+        "domain": "spader.zone",
+        "score": 63,
+        "descendants": 37,
+        "by": "dboon",
+        "tags": [],
+        "summary": "介绍旨在补全C语言标准库缺失功能、提升编程体验的开源项目sp.h。"
+      },
+      {
+        "id": 48240419,
+        "title": "Project Glasswing: An Initial Update",
+        "url": "https://www.anthropic.com/research/glasswing-initial-update",
+        "domain": "anthropic.com",
+        "score": 393,
+        "descendants": 230,
+        "by": "louiereederson",
+        "tags": [],
+        "summary": "Anthropic发布关于Project Glasswing项目的最新更新，探讨其在AI交互领域的进展。"
+      },
+      {
+        "id": 48242278,
+        "title": "Sleep research led to a new sleep apnea drug",
+        "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+        "domain": "temertymedicine.utoronto.ca",
+        "score": 128,
+        "descendants": 79,
+        "by": "colinprince",
+        "tags": [
+          "Science"
+        ],
+        "summary": "多伦多大学研究人员通过深入分析睡眠机制，成功开发出针对睡眠呼吸暂停的新型药物。"
+      },
+      {
+        "id": 48204985,
+        "title": "Blood Pumping Mechanism of the Hoof (2020)",
+        "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+        "domain": "horses.extension.org",
+        "score": 63,
+        "descendants": 10,
+        "by": "thunderbong",
+        "tags": [],
+        "summary": "通过生物力学视角揭秘马蹄如何通过复杂的构造在运动中充当辅助心脏的血液泵。"
+      },
+      {
+        "id": 48206763,
+        "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+        "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+        "domain": "phys.org",
+        "score": 44,
+        "descendants": 10,
+        "by": "layer8",
+        "tags": [
+          "AI"
+        ],
+        "summary": "科学家利用中子散射技术揭示了无麸质面条易破碎的微观结构原因。"
+      },
+      {
+        "id": 48214025,
+        "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
+        "domain": "devblogs.microsoft.com",
+        "score": 14,
+        "descendants": 4,
+        "by": "supermatou",
+        "tags": [],
+        "summary": "深入探究Windows系统历史中一个罕见且神秘的内存管理错误代码来源。"
+      },
+      {
+        "id": 48238896,
+        "title": "Microsoft starts canceling Claude Code licenses",
+        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+        "domain": "theverge.com",
+        "score": 178,
+        "descendants": 123,
+        "by": "robertkarl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道微软由于合规或策略调整，开始取消用户持有的Claude Code AI编码工具授权。"
+      },
+      {
+        "id": 48238429,
+        "title": "CISA tries to contain data leak",
+        "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+        "domain": "krebsonsecurity.com",
+        "score": 180,
+        "descendants": 46,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "追踪CISA正尝试遏制因系统漏洞导致的敏感数据泄露事件的最新进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "notesbylex.com",
+          "count": 1
+        },
+        {
+          "domain": "davidoks.blog",
+          "count": 1
+        },
+        {
+          "domain": "spader.zone",
+          "count": 1
+        }
+      ],
+      "avg_score": 200,
+      "max_score": {
+        "title": "Why Japanese companies do so many different things",
+        "score": 604
+      },
+      "most_discussed": {
+        "title": "Why Japanese companies do so many different things",
+        "comments": 299
+      },
+      "hot_tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点涵盖了科技企业动态、前沿医学突破及工程科学趣味研究。热门话题集中在Anthropic及微软的工具生态调整，同时社区对多元化工程挑战与生理科学机制表现出浓厚兴趣。"
   }
 }
