@@ -308,5 +308,154 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点涵盖了科技企业动态、前沿医学突破及工程科学趣味研究。热门话题集中在Anthropic及微软的工具生态调整，同时社区对多元化工程挑战与生理科学机制表现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-05-23 21:15",
+    "stories": [
+      {
+        "id": 48247127,
+        "title": "I Miss Terry Pratchett",
+        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+        "domain": "mahl.me",
+        "score": 65,
+        "descendants": 22,
+        "by": "gorgmah",
+        "tags": [],
+        "summary": "一篇怀念知名奇幻作家特里·普拉切特及其作品影响力的情感感怀文章。"
+      },
+      {
+        "id": 48247004,
+        "title": "80386 Microcode Disassembled",
+        "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+        "domain": "reenigne.org",
+        "score": 48,
+        "descendants": 7,
+        "by": "nand2mario",
+        "tags": [],
+        "summary": "对Intel 80386处理器微代码（Microcode）进行的详细逆向工程与技术拆解。"
+      },
+      {
+        "id": 48246889,
+        "title": "Making Deep Learning Go Brrrr from First Principles",
+        "url": "https://horace.io/brrr_intro.html",
+        "domain": "horace.io",
+        "score": 24,
+        "descendants": 9,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "从第一性原理出发，探讨如何通过底层优化提升深度学习模型的运行效率。"
+      },
+      {
+        "id": 48246614,
+        "title": "US tech firms share Dutch regulator officials' names with Senate",
+        "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+        "domain": "dutchnews.nl",
+        "score": 96,
+        "descendants": 57,
+        "by": "zqna",
+        "tags": [],
+        "summary": "美国科技公司将荷兰监管官员名单提交至参议院，引发关于隐私与跨国游说的争议。"
+      },
+      {
+        "id": 48241997,
+        "title": "Shipping a laptop to a refugee camp in Uganda",
+        "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+        "domain": "notesbylex.com",
+        "score": 545,
+        "descendants": 194,
+        "by": "lexandstuff",
+        "tags": [],
+        "summary": "记录了一次将笔记本电脑送往乌干达难民营的实践经历与思考。"
+      },
+      {
+        "id": 48245262,
+        "title": "Rubish: A Unix shell written in pure Ruby",
+        "url": "https://github.com/amatsuda/rubish",
+        "domain": "github.com",
+        "score": 82,
+        "descendants": 43,
+        "by": "winebarrel",
+        "tags": [],
+        "summary": "介绍了一个完全使用Ruby语言编写的轻量级Unix Shell项目。"
+      },
+      {
+        "id": 48237163,
+        "title": "Why Japanese companies do so many different things",
+        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+        "domain": "davidoks.blog",
+        "score": 742,
+        "descendants": 344,
+        "by": "d0ks",
+        "tags": [],
+        "summary": "深度分析日本企业为何倾向于采取跨领域、多元化的商业经营模式。"
+      },
+      {
+        "id": 48245862,
+        "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+        "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+        "domain": "xcancel.com",
+        "score": 172,
+        "descendants": 55,
+        "by": "Tomte",
+        "tags": [],
+        "summary": "讨论BambuStudio在分支PrusaSlicer代码后涉嫌违反AGPL开源协议的争议。"
+      },
+      {
+        "id": 48206387,
+        "title": "The quadratic sandwich",
+        "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+        "domain": "fedemagnani.github.io",
+        "score": 79,
+        "descendants": 5,
+        "by": "cpp_frog",
+        "tags": [],
+        "summary": "探讨数学中关于二次项优化及其在算法应用中的相关概念。"
+      },
+      {
+        "id": 48225782,
+        "title": "Improving C# Memory Safety",
+        "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+        "domain": "devblogs.microsoft.com",
+        "score": 39,
+        "descendants": 3,
+        "by": "soheilpro",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "微软官方技术博客解析如何通过更新机制提升C#语言的内存安全性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mahl.me",
+          "count": 1
+        },
+        {
+          "domain": "reenigne.org",
+          "count": 1
+        },
+        {
+          "domain": "horace.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 189,
+      "max_score": {
+        "title": "Why Japanese companies do so many different things",
+        "score": 742
+      },
+      "most_discussed": {
+        "title": "Why Japanese companies do so many different things",
+        "comments": 344
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了开源生态争议、深度学习底层架构及科技行业热点。内容兼顾了对经典硬件的怀旧技术解析、工程实践的深度分享，以及关于企业合规与全球公益的社会议题。"
   }
 }
