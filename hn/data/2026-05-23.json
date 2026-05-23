@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-05-23 09:53",
+    "stories": [
+      {
+        "id": 48241997,
+        "title": "Shipping a laptop to a refugee camp in Uganda",
+        "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+        "domain": "notesbylex.com",
+        "score": 187,
+        "descendants": 46,
+        "by": "lexandstuff",
+        "tags": [],
+        "summary": "一位开发者分享了向乌干达难民营寄送笔记本电脑的经历与挑战。"
+      },
+      {
+        "id": 48240419,
+        "title": "Project Glasswing: An Initial Update",
+        "url": "https://www.anthropic.com/research/glasswing-initial-update",
+        "domain": "anthropic.com",
+        "score": 306,
+        "descendants": 193,
+        "by": "louiereederson",
+        "tags": [],
+        "summary": "Anthropic发布了Project Glasswing的初步更新，探讨其模型研究方向。"
+      },
+      {
+        "id": 48237163,
+        "title": "Why Japanese companies do so many different things",
+        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+        "domain": "davidoks.blog",
+        "score": 482,
+        "descendants": 276,
+        "by": "d0ks",
+        "tags": [],
+        "summary": "深度解析日本企业为何倾向于采取多元化经营模式的底层逻辑。"
+      },
+      {
+        "id": 48242278,
+        "title": "Sleep research led to a new sleep apnea drug",
+        "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+        "domain": "temertymedicine.utoronto.ca",
+        "score": 59,
+        "descendants": 38,
+        "by": "colinprince",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨睡眠科研如何推动了针对睡眠呼吸暂停症新型药物的研发。"
+      },
+      {
+        "id": 48213529,
+        "title": "A Wayland Compositor in Minecraft",
+        "url": "https://modrinth.com/mod/waylandcraft",
+        "domain": "modrinth.com",
+        "score": 120,
+        "descendants": 24,
+        "by": "Jotalea",
+        "tags": [],
+        "summary": "一位开发者成功在Minecraft游戏内部实现了一个Wayland显示服务器。"
+      },
+      {
+        "id": 48206313,
+        "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+        "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+        "domain": "bumbershootsoft.wordpress.com",
+        "score": 27,
+        "descendants": 0,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "对比分析四款老旧CPU在运行LZ4解压算法时的性能表现。"
+      },
+      {
+        "id": 48242959,
+        "title": "SpaceX launches Starship v3 rocket",
+        "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+        "domain": "nbcnews.com",
+        "score": 103,
+        "descendants": 33,
+        "by": "busymom0",
+        "tags": [
+          "Science"
+        ],
+        "summary": "SpaceX成功完成了Starship v3火箭的发射任务。"
+      },
+      {
+        "id": 48239413,
+        "title": "Open source Kanban desktop app that runs parallel agents on every card",
+        "url": "https://www.kanbots.dev/",
+        "domain": "kanbots.dev",
+        "score": 165,
+        "descendants": 95,
+        "by": "vitriapp",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍一款开源看板桌面应用，其特色是为每个任务卡片运行并行AI代理。"
+      },
+      {
+        "id": 48204985,
+        "title": "Blood Pumping Mechanism of the Hoof",
+        "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+        "domain": "horses.extension.org",
+        "score": 14,
+        "descendants": 0,
+        "by": "thunderbong",
+        "tags": [],
+        "summary": "通过生物力学视角解析马蹄如何通过运动辅助血液循环。"
+      },
+      {
+        "id": 48238429,
+        "title": "CISA tries to contain data leak",
+        "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+        "domain": "krebsonsecurity.com",
+        "score": 128,
+        "descendants": 36,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道CISA应对近期发生的一起严重数据泄露事件的相关措施。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "notesbylex.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "davidoks.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 159,
+      "max_score": {
+        "title": "Why Japanese companies do so many different things",
+        "score": 482
+      },
+      "most_discussed": {
+        "title": "Why Japanese companies do so many different things",
+        "comments": 276
+      },
+      "hot_tags": [
+        "Science",
+        "Systems",
+        "Open Source",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿科技、工程奇观及社会议题。从Anthropic的模型进展到SpaceX的航天壮举，技术创新与跨领域应用（如医疗、基础设施、开源工具）成为了社区关注的核心焦点。"
+  }
+}
