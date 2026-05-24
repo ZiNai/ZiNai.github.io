@@ -1,0 +1,150 @@
+{
+  "morning": {
+    "time": "2026-05-24 10:00",
+    "stories": [
+      {
+        "id": 48253386,
+        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+        "domain": "arstechnica.com",
+        "score": 20,
+        "descendants": 2,
+        "by": "DamnInteresting",
+        "tags": [
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "微软开源了迄今为止发现的最早的 DOS 源代码，引发开发者对计算历史的关注。"
+      },
+      {
+        "id": 48253060,
+        "title": "Wake up! 16b",
+        "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+        "domain": "hellmood.111mb.de",
+        "score": 38,
+        "descendants": 4,
+        "by": "MaximilianEmel",
+        "tags": [],
+        "summary": "一个极限压缩的 16 字节程序展示了极简代码的创造力。"
+      },
+      {
+        "id": 48250144,
+        "title": "Time to talk about my writerdeck",
+        "url": "https://veronicaexplains.net/my-first-writerdeck/",
+        "domain": "veronicaexplains.net",
+        "score": 293,
+        "descendants": 160,
+        "by": "hggh",
+        "tags": [],
+        "summary": "作者分享了其构建专属“写作台”的经验，探讨了硬件对创作流程的优化。"
+      },
+      {
+        "id": 48253186,
+        "title": "Scammers are abusing an internal Microsoft account to send spam links",
+        "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+        "domain": "techcrunch.com",
+        "score": 12,
+        "descendants": 1,
+        "by": "spike021",
+        "tags": [],
+        "summary": "报道称诈骗者正在利用微软内部账户进行钓鱼攻击，暴露了企业安全体系的漏洞。"
+      },
+      {
+        "id": 48252535,
+        "title": "My I3-Emacs Integration",
+        "url": "https://khz.ac/software/i3-integration.html",
+        "domain": "khz.ac",
+        "score": 28,
+        "descendants": 7,
+        "by": "nosolace",
+        "tags": [],
+        "summary": "博主展示了其深度集成 i3 窗口管理器与 Emacs 的工作流配置。"
+      },
+      {
+        "id": 48214311,
+        "title": "My two-part desk setup (2025)",
+        "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+        "domain": "arslan.io",
+        "score": 222,
+        "descendants": 128,
+        "by": "James72689",
+        "tags": [],
+        "summary": "博主详细介绍了其 2025 年的双分区办公桌面设置方案。"
+      },
+      {
+        "id": 48232721,
+        "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+        "url": "https://sales-and-dungeons.app/",
+        "domain": "sales-and-dungeons.app",
+        "score": 46,
+        "descendants": 16,
+        "by": "hyperific",
+        "tags": [],
+        "summary": "一款名为 Sales and Dungeons 的工具，利用热敏打印机为桌游玩家提供便利。"
+      },
+      {
+        "id": 48247325,
+        "title": "On The <dl> (2021)",
+        "url": "https://benmyers.dev/blog/on-the-dl/",
+        "domain": "benmyers.dev",
+        "score": 350,
+        "descendants": 107,
+        "by": "ravenical",
+        "tags": [],
+        "summary": "深入解析了 HTML 中 <dl> 定义列表标签的语义用法与最佳实践。"
+      },
+      {
+        "id": 48241890,
+        "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+        "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+        "domain": "nytimes.com",
+        "score": 566,
+        "descendants": 979,
+        "by": "tlhunter",
+        "tags": [],
+        "summary": "报道指出特朗普政府要求绿卡申请者必须离境办理，引发了关于移民政策变动的广泛讨论。"
+      },
+      {
+        "id": 48252146,
+        "title": "Byrne's Euclid",
+        "url": "https://www.c82.net/euclid/",
+        "domain": "c82.net",
+        "score": 18,
+        "descendants": 4,
+        "by": "layer8",
+        "tags": [],
+        "summary": "展示了 Byrne 版《欧几里得几何》的在线版本，以独特的视觉化方式呈现数学证明。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arstechnica.com",
+          "count": 1
+        },
+        {
+          "domain": "hellmood.111mb.de",
+          "count": 1
+        },
+        {
+          "domain": "veronicaexplains.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 159,
+      "max_score": {
+        "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+        "score": 566
+      },
+      "most_discussed": {
+        "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+        "comments": 979
+      },
+      "hot_tags": [
+        "Systems",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了从复古计算与技术历史到现代桌面生产力工具的多元议题。除科技话题外，有关美国移民政策的社会新闻引起了社区内极高的讨论热度。"
+  }
+}
