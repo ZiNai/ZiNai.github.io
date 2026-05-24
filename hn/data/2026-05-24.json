@@ -301,5 +301,160 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了科技巨头的争议性决策，如微软的开源动作与AWS员工流失问题，以及对移民政策与编程工具的深度探讨。整体讨论呈现出技术历史溯源、软件开发环境变迁与社会议题交织的趋势。"
+  },
+  "evening": {
+    "time": "2026-05-24 21:16",
+    "stories": [
+      {
+        "id": 48256475,
+        "title": "Mastering Dyalog APL",
+        "url": "https://mastering.dyalog.com/README.html",
+        "domain": "mastering.dyalog.com",
+        "score": 28,
+        "descendants": 3,
+        "by": "tosh",
+        "tags": [],
+        "summary": "深入介绍Dyalog APL编程语言的架构与特性，适合追求函数式编程极致简洁性的开发者。"
+      },
+      {
+        "id": 48255593,
+        "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+        "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+        "domain": "fs.blog",
+        "score": 85,
+        "descendants": 49,
+        "by": "prakashqwerty",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI联合创始人讲述公司生死存亡的72小时内幕，揭秘其内部冲突与转折点。"
+      },
+      {
+        "id": 48256597,
+        "title": "Childhood Computing",
+        "url": "https://susam.net/childhood-computing.html",
+        "domain": "susam.net",
+        "score": 18,
+        "descendants": 6,
+        "by": "blenderob",
+        "tags": [],
+        "summary": "作者回顾童年时期接触早期计算机的经历，探讨对个人编程兴趣启蒙的深远影响。"
+      },
+      {
+        "id": 48223997,
+        "title": "I spent 50 hours drawing a line graph",
+        "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+        "domain": "dougmacdowell.com",
+        "score": 130,
+        "descendants": 22,
+        "by": "dougdude3339",
+        "tags": [],
+        "summary": "一位开发者投入50小时手绘复杂折线图的过程记录，展示了极客精神下的数据可视化执着。"
+      },
+      {
+        "id": 48253386,
+        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+        "domain": "arstechnica.com",
+        "score": 320,
+        "descendants": 98,
+        "by": "DamnInteresting",
+        "tags": [
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "微软正式开源迄今为止发现的最早版本DOS源码，为计算机历史研究提供宝贵资料。"
+      },
+      {
+        "id": 48254309,
+        "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+        "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+        "domain": "adaptivesupport.amd.com",
+        "score": 225,
+        "descendants": 104,
+        "by": "zdw",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "讨论AMD Vivado 2026.1版本取消Linux免费版支持引发的开发者不满与生态忧虑。"
+      },
+      {
+        "id": 48219158,
+        "title": "Artificial egg hatched 26 healthy chickens",
+        "url": "https://colossal.com/colossal-biosciences-artificial-egg-dodo-moa/",
+        "domain": "colossal.com",
+        "score": 12,
+        "descendants": 6,
+        "by": "BaudouinVH",
+        "tags": [],
+        "summary": "科研团队通过人工孵化器成功孵化26只健康小鸡，在禽类辅助生殖技术上取得新进展。"
+      },
+      {
+        "id": 48253186,
+        "title": "Scammers are abusing an internal Microsoft account to send spam links",
+        "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+        "domain": "techcrunch.com",
+        "score": 182,
+        "descendants": 90,
+        "by": "spike021",
+        "tags": [],
+        "summary": "报道黑客滥用微软内部账户发送钓鱼邮件的漏洞，凸显企业生态链安全隐患。"
+      },
+      {
+        "id": 48253060,
+        "title": "Wake up! 16b",
+        "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+        "domain": "hellmood.111mb.de",
+        "score": 293,
+        "descendants": 20,
+        "by": "MaximilianEmel",
+        "tags": [],
+        "summary": "一个名为“Wake up! 16b”的极简演示作品，展示了在极低字节限制下的精巧代码艺术。"
+      },
+      {
+        "id": 48210937,
+        "title": "Silk: Open-source cooperative fiber scheduler",
+        "url": "https://github.com/ClickHouse/silk",
+        "domain": "github.com",
+        "score": 58,
+        "descendants": 5,
+        "by": "animetyan",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍一款高性能的开源协作式光纤调度器，专为高并发任务处理提供优化方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mastering.dyalog.com",
+          "count": 1
+        },
+        {
+          "domain": "fs.blog",
+          "count": 1
+        },
+        {
+          "domain": "susam.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 135,
+      "max_score": {
+        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+        "score": 320
+      },
+      "most_discussed": {
+        "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+        "comments": 104
+      },
+      "hot_tags": [
+        "Systems",
+        "Open Source",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术深度与行业动向，包括开源项目的演进（DOS源码、协作调度器）以及科技巨头（Microsoft、OpenAI）的安全与战略动态。同时，怀旧计算体验与实验性工程创作也引发了开发者社区的广泛关注。"
   }
 }
