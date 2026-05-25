@@ -317,5 +317,152 @@
       ]
     },
     "summary": "本期Hacker News聚焦于软件工程与前沿技术，DeepSeek推出的编码智能体及从Go到Rust的迁移实践引发了广泛讨论。此外，从硬件架构修复到分布式系统高精度同步等底层技术话题，依然是开发者关注的焦点。"
+  },
+  "evening": {
+    "time": "2026-05-25 22:45",
+    "stories": [
+      {
+        "id": 48266051,
+        "title": "Search engines alternatives now that Google isn't Google anymore",
+        "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+        "domain": "techcrunch.com",
+        "score": 300,
+        "descendants": 237,
+        "by": "elorant",
+        "tags": [],
+        "summary": "探讨在谷歌搜索质量下降背景下，目前有哪些值得尝试的替代搜索引擎方案。"
+      },
+      {
+        "id": 48265206,
+        "title": "Magnifica Humanitas (Encyclical Letter)",
+        "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+        "domain": "vatican.va",
+        "score": 390,
+        "descendants": 146,
+        "by": "theletterf",
+        "tags": [],
+        "summary": "梵蒂冈发布关于人类价值的通谕，探讨技术进步背景下的精神与道德指引。"
+      },
+      {
+        "id": 48266906,
+        "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+        "domain": "krebsonsecurity.com",
+        "score": 28,
+        "descendants": 0,
+        "by": "jruohonen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "荷兰警方查封800台服务器并逮捕两名嫌疑人，打击非法网络攻击基础设施。"
+      },
+      {
+        "id": 48267126,
+        "title": "C extensions, portability, and alternative compilers",
+        "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+        "domain": "lemon.rip",
+        "score": 15,
+        "descendants": 2,
+        "by": "xngbuilds",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入剖析C语言扩展的移植性挑战及替代编译器在构建系统中的角色。"
+      },
+      {
+        "id": 48266895,
+        "title": "2026 HIPAA Security Rule Update",
+        "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+        "domain": "medcurity.com",
+        "score": 24,
+        "descendants": 2,
+        "by": "mooreds",
+        "tags": [
+          "Security"
+        ],
+        "summary": "解读2026年HIPAA安全规则的最新更新对医疗数据保护的影响。"
+      },
+      {
+        "id": 48266485,
+        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+        "domain": "religionnews.com",
+        "score": 119,
+        "descendants": 43,
+        "by": "benwerd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道教皇关于AI应服务全人类而非少数权贵的主张及其对技术伦理的看法。"
+      },
+      {
+        "id": 48265876,
+        "title": "Leave Me Behind",
+        "url": "http://androidessence.com/leave-me-behind/",
+        "domain": "androidessence.com",
+        "score": 140,
+        "descendants": 97,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "一篇探讨放弃追逐快节奏或主流趋势，转而寻求个人独立成长与认知的个人思考。"
+      },
+      {
+        "id": 48265056,
+        "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+        "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+        "domain": "futurumgroup.com",
+        "score": 60,
+        "descendants": 16,
+        "by": "rbanffy",
+        "tags": [
+          "Hardware",
+          "Science"
+        ],
+        "summary": "一项经典研究回顾，探讨吹奏迪吉里杜管作为缓解阻塞性睡眠呼吸暂停的辅助疗法潜力。"
+      },
+      {
+        "id": 48243666,
+        "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+        "domain": "pmc.ncbi.nlm.nih.gov",
+        "score": 212,
+        "descendants": 105,
+        "by": "kelseyfrog",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "techcrunch.com",
+          "count": 1
+        },
+        {
+          "domain": "vatican.va",
+          "count": 1
+        },
+        {
+          "domain": "krebsonsecurity.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 143,
+      "max_score": {
+        "title": "Magnifica Humanitas (Encyclical Letter)",
+        "score": 390
+      },
+      "most_discussed": {
+        "title": "Search engines alternatives now that Google isn't Google anymore",
+        "comments": 237
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News话题涵盖了科技行业的深度反思与现实挑战。讨论重点在于对搜索引擎现状的批判性思考、人工智能在伦理与社会价值层面的争议，以及网络安全、医疗技术创新和冷门科学研究的跨界报道。"
   }
 }
