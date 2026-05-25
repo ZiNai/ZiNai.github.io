@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-05-25 10:08",
+    "stories": [
+      {
+        "id": 48258015,
+        "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+        "url": "https://audiomass.co/?multitrack=1",
+        "domain": "audiomass.co",
+        "score": 157,
+        "descendants": 40,
+        "by": "pantelisk",
+        "tags": [
+          "Web",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "一款完全免费且开源的 Web 端多轨音频编辑器，无需安装即可直接在浏览器中处理音频文件。"
+      },
+      {
+        "id": 48256953,
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "domain": "esengine.github.io",
+        "score": 443,
+        "descendants": 199,
+        "by": "Alifatisk",
+        "tags": [],
+        "summary": "DeepSeek 推出的原生编码代理，主打高缓存命中率与低使用成本，引发了关于 AI 编程辅助工具的讨论。"
+      },
+      {
+        "id": 48260117,
+        "title": "A fundamental principle of aeronautical engineering has been overturned",
+        "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+        "domain": "wired.com",
+        "score": 59,
+        "descendants": 31,
+        "by": "littlexsparkee",
+        "tags": [],
+        "summary": "航空工程领域的一项基本原则被推翻，揭示了流体力学研究的最新进展。"
+      },
+      {
+        "id": 48258684,
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "domain": "epoch.ai",
+        "score": 296,
+        "descendants": 313,
+        "by": "intelkishan",
+        "tags": [
+          "AI",
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "研究显示存储器在 AI 芯片总成本中的占比已接近三分之二，凸显了算力硬件在内存带宽方面的瓶颈。"
+      },
+      {
+        "id": 48223997,
+        "title": "I spent 50 hours drawing a line graph",
+        "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+        "domain": "dougmacdowell.com",
+        "score": 440,
+        "descendants": 74,
+        "by": "dougdude3339",
+        "tags": [],
+        "summary": "作者详细记录了耗时 50 小时绘制复杂折线图的过程，展示了数据可视化背后的耐心与构思。"
+      },
+      {
+        "id": 48256912,
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "domain": "arxiv.org",
+        "score": 177,
+        "descendants": 86,
+        "by": "wek",
+        "tags": [
+          "AI"
+        ],
+        "summary": "论文探讨了 LLM 代理在处理后端代码生成时面临的约束衰减问题，分析了模型自动生成代码的局限性。"
+      },
+      {
+        "id": 48195698,
+        "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+        "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+        "domain": "clarityboss.com",
+        "score": 57,
+        "descendants": 6,
+        "by": "dan_sbl",
+        "tags": [],
+        "summary": "介绍在 Go 1.24 版本中利用 HTTP/2 Cleartext 协议配置服务器的技术细节。"
+      },
+      {
+        "id": 48259861,
+        "title": "Defeating Git Rigour Fatigue with Jujutsu",
+        "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+        "domain": "ikesau.co",
+        "score": 96,
+        "descendants": 88,
+        "by": "ikesau",
+        "tags": []
+      },
+      {
+        "id": 48200071,
+        "title": "1k-year-old dingo bones show that it was injured, cared for, and ritually buried",
+        "url": "https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/",
+        "domain": "popsci.com",
+        "score": 22,
+        "descendants": 1,
+        "by": "gmays",
+        "tags": [],
+        "summary": "考古发现显示一千年前的澳洲野犬曾受到人类的救助与仪式性埋葬，揭示了人与动物历史互动的证据。"
+      },
+      {
+        "id": 48253386,
+        "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+        "domain": "arstechnica.com",
+        "score": 428,
+        "descendants": 149,
+        "by": "DamnInteresting",
+        "tags": [
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "微软开源了迄今为止发现的最早版本 DOS 源代码，为计算机历史研究者提供了珍贵的原始数据。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "audiomass.co",
+          "count": 1
+        },
+        {
+          "domain": "esengine.github.io",
+          "count": 1
+        },
+        {
+          "domain": "wired.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 218,
+      "max_score": {
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "score": 443
+      },
+      "most_discussed": {
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "comments": 313
+      },
+      "hot_tags": [
+        "Open Source",
+        "AI",
+        "Systems",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能领域，特别是 AI 芯片成本架构与 LLM 代理在代码生成任务中的可靠性讨论。此外，开源项目与历史考古也引发了社区关注，显示出开发者对技术工具底层优化及数字化档案价值的浓厚兴趣。"
+  }
+}
