@@ -158,5 +158,164 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于人工智能领域，特别是 AI 芯片成本架构与 LLM 代理在代码生成任务中的可靠性讨论。此外，开源项目与历史考古也引发了社区关注，显示出开发者对技术工具底层优化及数字化档案价值的浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-05-25 16:10",
+    "stories": [
+      {
+        "id": 48263253,
+        "title": "Jira Is Turing-Complete",
+        "url": "https://seriot.ch/computation/jira.html",
+        "domain": "seriot.ch",
+        "score": 132,
+        "descendants": 45,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "探讨了Jira复杂的工作流配置如何实现图灵完备性。"
+      },
+      {
+        "id": 48243666,
+        "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+        "domain": "pmc.ncbi.nlm.nih.gov",
+        "score": 80,
+        "descendants": 21,
+        "by": "kelseyfrog",
+        "tags": [],
+        "summary": "回顾2006年的医学研究，分析吹奏迪吉里杜管作为缓解阻塞性睡眠呼吸暂停的辅助疗法。"
+      },
+      {
+        "id": 48240025,
+        "title": "I love my Bluetooth keyboard",
+        "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+        "domain": "liquidbrain.net",
+        "score": 59,
+        "descendants": 34,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "作者分享了对蓝牙键盘的个人使用心得与情感共鸣。"
+      },
+      {
+        "id": 48258015,
+        "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+        "url": "https://audiomass.co/?multitrack=1",
+        "domain": "audiomass.co",
+        "score": 332,
+        "descendants": 68,
+        "by": "pantelisk",
+        "tags": [
+          "Web",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "介绍一款免费开源的网页端多轨音频编辑器Audiomass。"
+      },
+      {
+        "id": 48256953,
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "domain": "esengine.github.io",
+        "score": 539,
+        "descendants": 226,
+        "by": "Alifatisk",
+        "tags": [],
+        "summary": "DeepSeek发布原生编码智能体，强调高缓存效率与低运行成本的优势。"
+      },
+      {
+        "id": 48259808,
+        "title": "Migrating from Go to Rust",
+        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "domain": "corrode.dev",
+        "score": 250,
+        "descendants": 229,
+        "by": "jabits",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "深入探讨从Go语言迁移至Rust的技术挑战、权衡与开发体验差异。"
+      },
+      {
+        "id": 48245916,
+        "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+        "url": "https://ohwr.org/projects/white-rabbit/",
+        "domain": "ohwr.org",
+        "score": 82,
+        "descendants": 21,
+        "by": "michaelsbradley",
+        "tags": [],
+        "summary": "详解用于大型分布式系统、精度达到亚纳秒级的White Rabbit同步技术。"
+      },
+      {
+        "id": 48242546,
+        "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+        "url": "https://phabricator.services.mozilla.com/D301917",
+        "domain": "phabricator.services.mozilla.com",
+        "score": 79,
+        "descendants": 22,
+        "by": "luu",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "Mozilla记录了修复Intel Raptor Lake处理器导致浏览器崩溃的补丁工作。"
+      },
+      {
+        "id": 48260117,
+        "title": "A fundamental principle of aeronautical engineering has been overturned",
+        "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+        "domain": "wired.com",
+        "score": 152,
+        "descendants": 76,
+        "by": "littlexsparkee",
+        "tags": [],
+        "summary": "报道航空工程领域的一项基础理论被推翻，引发对经典力学理解的重审。"
+      },
+      {
+        "id": 48228608,
+        "title": "C constructs that still don't work in C++",
+        "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+        "domain": "lospino.so",
+        "score": 50,
+        "descendants": 34,
+        "by": "jalospinoso",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "梳理了那些在C语言中合法但在C++中无法编译或表现不一致的语法结构。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "seriot.ch",
+          "count": 1
+        },
+        {
+          "domain": "pmc.ncbi.nlm.nih.gov",
+          "count": 1
+        },
+        {
+          "domain": "liquidbrain.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 176,
+      "max_score": {
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "score": 539
+      },
+      "most_discussed": {
+        "title": "Migrating from Go to Rust",
+        "comments": 229
+      },
+      "hot_tags": [
+        "Systems",
+        "Web",
+        "Show HN",
+        "Open Source",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于软件工程与前沿技术，DeepSeek推出的编码智能体及从Go到Rust的迁移实践引发了广泛讨论。此外，从硬件架构修复到分布式系统高精度同步等底层技术话题，依然是开发者关注的焦点。"
   }
 }
