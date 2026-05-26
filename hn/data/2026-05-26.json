@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-05-26 09:59",
+    "stories": [
+      {
+        "id": 48272984,
+        "title": "Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "domain": "nolanlawson.com",
+        "score": 141,
+        "descendants": 43,
+        "by": "signa11",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48270770,
+        "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "domain": "blocksandfiles.com",
+        "score": 162,
+        "descendants": 75,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48272670,
+        "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+        "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+        "domain": "apa.org",
+        "score": 54,
+        "descendants": 31,
+        "by": "bilsbie",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 48269580,
+        "title": "Exit IP VPN servers mitigation rollout",
+        "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+        "domain": "mullvad.net",
+        "score": 263,
+        "descendants": 42,
+        "by": "Cider9986",
+        "tags": []
+      },
+      {
+        "id": 48272715,
+        "title": "How Shamir's Secret Sharing Works",
+        "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+        "domain": "ente.com",
+        "score": 40,
+        "descendants": 6,
+        "by": "subract",
+        "tags": []
+      },
+      {
+        "id": 48271629,
+        "title": "Ferrari Luce",
+        "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+        "domain": "ferrari.com",
+        "score": 60,
+        "descendants": 180,
+        "by": "jumploops",
+        "tags": []
+      },
+      {
+        "id": 48269961,
+        "title": "California moves to exempt Linux from its age-verification law after backlash",
+        "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+        "domain": "tomshardware.com",
+        "score": 653,
+        "descendants": 285,
+        "by": "rbanffy",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 48257087,
+        "title": "Squares in Squares",
+        "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+        "domain": "kingbird.myphotos.cc",
+        "score": 23,
+        "descendants": 1,
+        "by": "carlos-menezes",
+        "tags": []
+      },
+      {
+        "id": 48271127,
+        "title": "Hacker News front page as a site",
+        "url": "https://thefrontpage.dev/",
+        "domain": "thefrontpage.dev",
+        "score": 117,
+        "descendants": 42,
+        "by": "thatxliner",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 48225338,
+        "title": "Show HN: Write your BPF programs in Go, not C",
+        "url": "https://github.com/boratanrikulu/gobee",
+        "domain": "github.com",
+        "score": 59,
+        "descendants": 30,
+        "by": "boratanrikulu",
+        "tags": [
+          "Show HN"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nolanlawson.com",
+          "count": 1
+        },
+        {
+          "domain": "blocksandfiles.com",
+          "count": 1
+        },
+        {
+          "domain": "apa.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 157,
+      "max_score": {
+        "title": "California moves to exempt Linux from its age-verification law after backlash",
+        "score": 653
+      },
+      "most_discussed": {
+        "title": "California moves to exempt Linux from its age-verification law after backlash",
+        "comments": 285
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": ""
+  }
+}
