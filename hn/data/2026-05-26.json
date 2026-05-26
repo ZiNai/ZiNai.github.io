@@ -298,5 +298,155 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-05-26 22:58",
+    "stories": [
+      {
+        "id": 48278374,
+        "title": "GitHub Actions down again today",
+        "url": "https://www.githubstatus.com/?today",
+        "domain": "githubstatus.com",
+        "score": 448,
+        "descendants": 223,
+        "by": "cebert",
+        "tags": [
+          "AI",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 48247416,
+        "title": "Opaque Types in Python",
+        "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+        "domain": "blog.glyph.im",
+        "score": 41,
+        "descendants": 0,
+        "by": "lumpa",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "id": 48272984,
+        "title": "Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "domain": "nolanlawson.com",
+        "score": 902,
+        "descendants": 338,
+        "by": "signa11",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48279842,
+        "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+        "url": "https://retrogamecoders.com/overhead-camera-view/",
+        "domain": "retrogamecoders.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "ibobev",
+        "tags": []
+      },
+      {
+        "id": 48276363,
+        "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+        "url": "https://dynip.dev/",
+        "domain": "dynip.dev",
+        "score": 221,
+        "descendants": 93,
+        "by": "dynip",
+        "tags": []
+      },
+      {
+        "id": 48278406,
+        "title": "Netherlands blocks US takeover of vital digital supplier",
+        "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+        "domain": "politico.eu",
+        "score": 222,
+        "descendants": 71,
+        "by": "vrganj",
+        "tags": []
+      },
+      {
+        "id": 48278610,
+        "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+        "domain": "signalbloom.ai",
+        "score": 55,
+        "descendants": 57,
+        "by": "GodelNumbering",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48278407,
+        "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+        "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+        "domain": "vllm.ai",
+        "score": 40,
+        "descendants": 15,
+        "by": "berlianta",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48272670,
+        "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+        "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+        "domain": "apa.org",
+        "score": 444,
+        "descendants": 184,
+        "by": "bilsbie",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 48278090,
+        "title": "Incident with Actions and Pages",
+        "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
+        "domain": "githubstatus.com",
+        "score": 47,
+        "descendants": 12,
+        "by": "hakube",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "githubstatus.com",
+          "count": 2
+        },
+        {
+          "domain": "blog.glyph.im",
+          "count": 1
+        },
+        {
+          "domain": "nolanlawson.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 243,
+      "max_score": {
+        "title": "Using AI to write better code more slowly",
+        "score": 902
+      },
+      "most_discussed": {
+        "title": "Using AI to write better code more slowly",
+        "comments": 338
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Python",
+        "Science"
+      ]
+    },
+    "summary": ""
   }
 }
