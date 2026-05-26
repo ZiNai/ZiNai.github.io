@@ -148,5 +148,155 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-05-26 15:34",
+    "stories": [
+      {
+        "id": 48272984,
+        "title": "Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "domain": "nolanlawson.com",
+        "score": 528,
+        "descendants": 200,
+        "by": "signa11",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48275059,
+        "title": "The User Is Visibly Frustrated",
+        "url": "https://pscanf.com/s/354/",
+        "domain": "pscanf.com",
+        "score": 91,
+        "descendants": 54,
+        "by": "croes",
+        "tags": [
+          "Rust"
+        ]
+      },
+      {
+        "id": 48272670,
+        "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+        "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+        "domain": "apa.org",
+        "score": 234,
+        "descendants": 77,
+        "by": "bilsbie",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 48274711,
+        "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+        "url": "https://earthiongame.com/",
+        "domain": "earthiongame.com",
+        "score": 48,
+        "descendants": 13,
+        "by": "MrBuddyCasino",
+        "tags": []
+      },
+      {
+        "id": 48272715,
+        "title": "How Shamir's Secret Sharing Works",
+        "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+        "domain": "ente.com",
+        "score": 170,
+        "descendants": 25,
+        "by": "subract",
+        "tags": []
+      },
+      {
+        "id": 48275508,
+        "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+        "url": "https://news.ycombinator.com/item?id=48275508",
+        "domain": "news.ycombinator.com",
+        "score": 62,
+        "descendants": 24,
+        "by": "widenrun",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ]
+      },
+      {
+        "id": 48270812,
+        "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+        "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+        "domain": "bgr.com",
+        "score": 131,
+        "descendants": 106,
+        "by": "rmason",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48270770,
+        "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "domain": "blocksandfiles.com",
+        "score": 245,
+        "descendants": 149,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48271629,
+        "title": "Ferrari Luce",
+        "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+        "domain": "ferrari.com",
+        "score": 200,
+        "descendants": 412,
+        "by": "jumploops",
+        "tags": []
+      },
+      {
+        "id": 48269580,
+        "title": "Exit IP VPN servers mitigation rollout",
+        "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+        "domain": "mullvad.net",
+        "score": 339,
+        "descendants": 61,
+        "by": "Cider9986",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nolanlawson.com",
+          "count": 1
+        },
+        {
+          "domain": "pscanf.com",
+          "count": 1
+        },
+        {
+          "domain": "apa.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "Using AI to write better code more slowly",
+        "score": 528
+      },
+      "most_discussed": {
+        "title": "Ferrari Luce",
+        "comments": 412
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Science",
+        "Ask HN"
+      ]
+    },
+    "summary": ""
   }
 }
