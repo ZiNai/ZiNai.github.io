@@ -285,5 +285,146 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-05-27 23:28",
+    "stories": [
+      {
+        "id": 48292224,
+        "title": "I'm Tired of Talking to AI",
+        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+        "domain": "orchidfiles.com",
+        "score": 1121,
+        "descendants": 608,
+        "by": "theorchid",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48291947,
+        "title": "Mini Micro Fantasy Computer",
+        "url": "https://miniscript.org/MiniMicro/index.html#about",
+        "domain": "miniscript.org",
+        "score": 152,
+        "descendants": 61,
+        "by": "nicoloren",
+        "tags": []
+      },
+      {
+        "id": 48293014,
+        "title": "XLIDE: VBA without excel",
+        "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+        "domain": "github.com",
+        "score": 40,
+        "descendants": 7,
+        "by": "sts153",
+        "tags": []
+      },
+      {
+        "id": 48247005,
+        "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+        "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+        "domain": "thonking.ai",
+        "score": 65,
+        "descendants": 12,
+        "by": "tosh",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 48291225,
+        "title": "All of human cooking compressed into 2 megabytes",
+        "url": "https://arxiv.org/abs/2605.22391",
+        "domain": "arxiv.org",
+        "score": 187,
+        "descendants": 73,
+        "by": "josefchen",
+        "tags": []
+      },
+      {
+        "id": 48295460,
+        "title": "Corporations can vote in some Delaware elections, judge says",
+        "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+        "domain": "news.bloomberglaw.com",
+        "score": 30,
+        "descendants": 10,
+        "by": "marcher",
+        "tags": []
+      },
+      {
+        "id": 48293080,
+        "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+        "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+        "domain": "githubstatus.com",
+        "score": 154,
+        "descendants": 125,
+        "by": "maxnoe",
+        "tags": []
+      },
+      {
+        "id": 48284711,
+        "title": "The Melancholy of Slaying Monsters",
+        "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 206,
+        "descendants": 83,
+        "by": "prismatic",
+        "tags": []
+      },
+      {
+        "id": 48294670,
+        "title": "The VibeSec Reckoning",
+        "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
+        "domain": "martinfowler.com",
+        "score": 24,
+        "descendants": 7,
+        "by": "HieronymusBosch",
+        "tags": []
+      },
+      {
+        "id": 48289950,
+        "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+        "url": "https://arps18.github.io/posts/claude-code-mastery/",
+        "domain": "arps18.github.io",
+        "score": 197,
+        "descendants": 149,
+        "by": "arps18",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "orchidfiles.com",
+          "count": 1
+        },
+        {
+          "domain": "miniscript.org",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 218,
+      "max_score": {
+        "title": "I'm Tired of Talking to AI",
+        "score": 1121
+      },
+      "most_discussed": {
+        "title": "I'm Tired of Talking to AI",
+        "comments": 608
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": ""
   }
 }
