@@ -140,5 +140,150 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-05-27 15:54",
+    "stories": [
+      {
+        "id": 48228728,
+        "title": "The Structural Barriers to AI Lawyers",
+        "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+        "domain": "diffuseai.pub",
+        "score": 17,
+        "descendants": 6,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48258848,
+        "title": "What Gets Kept",
+        "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+        "domain": "newyorker.com",
+        "score": 16,
+        "descendants": 1,
+        "by": "lermontov",
+        "tags": []
+      },
+      {
+        "id": 48284711,
+        "title": "The Melancholy of Slaying Monsters",
+        "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 20,
+        "descendants": 1,
+        "by": "prismatic",
+        "tags": []
+      },
+      {
+        "id": 48287468,
+        "title": "Cloudflare Flagship",
+        "url": "https://developers.cloudflare.com/flagship/",
+        "domain": "developers.cloudflare.com",
+        "score": 198,
+        "descendants": 94,
+        "by": "tjek",
+        "tags": []
+      },
+      {
+        "id": 48277107,
+        "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+        "url": "https://badhost.org/",
+        "domain": "badhost.org",
+        "score": 28,
+        "descendants": 5,
+        "by": "ylk",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 48284712,
+        "title": "That Methyl Methacrylate Tank",
+        "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+        "domain": "science.org",
+        "score": 319,
+        "descendants": 120,
+        "by": "nooks",
+        "tags": []
+      },
+      {
+        "id": 48271448,
+        "title": "A few interesting modern pixel fonts",
+        "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+        "domain": "unsung.aresluna.org",
+        "score": 336,
+        "descendants": 69,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 48238703,
+        "title": "I built a Git-tracked book production pipeline",
+        "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+        "domain": "djspeckhals.com",
+        "score": 226,
+        "descendants": 58,
+        "by": "dustin1114",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "id": 48285344,
+        "title": "The worst job interview I ever had",
+        "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+        "domain": "oliverio.dev",
+        "score": 232,
+        "descendants": 196,
+        "by": "oliverio",
+        "tags": []
+      },
+      {
+        "id": 48260219,
+        "title": "A history of obituaries in American newspapers",
+        "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+        "domain": "blogs.loc.gov",
+        "score": 19,
+        "descendants": 0,
+        "by": "NaOH",
+        "tags": [
+          "Science"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "diffuseai.pub",
+          "count": 1
+        },
+        {
+          "domain": "newyorker.com",
+          "count": 1
+        },
+        {
+          "domain": "thereader.mitpress.mit.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 141,
+      "max_score": {
+        "title": "A few interesting modern pixel fonts",
+        "score": 336
+      },
+      "most_discussed": {
+        "title": "The worst job interview I ever had",
+        "comments": 196
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Python",
+        "Science"
+      ]
+    },
+    "summary": ""
   }
 }
