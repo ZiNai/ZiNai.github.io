@@ -1,0 +1,144 @@
+{
+  "morning": {
+    "time": "2026-05-27 10:08",
+    "stories": [
+      {
+        "id": 48287952,
+        "title": "Erin Brockovich made a map to track data centers around the country",
+        "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+        "domain": "niemanlab.org",
+        "score": 71,
+        "descendants": 50,
+        "by": "cratermoon",
+        "tags": []
+      },
+      {
+        "id": 48284712,
+        "title": "Chemistry behind the Garden Grove chemical tank",
+        "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+        "domain": "science.org",
+        "score": 227,
+        "descendants": 87,
+        "by": "nooks",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 48287468,
+        "title": "Cloudflare Flagship",
+        "url": "https://developers.cloudflare.com/flagship/",
+        "domain": "developers.cloudflare.com",
+        "score": 63,
+        "descendants": 26,
+        "by": "tjek",
+        "tags": []
+      },
+      {
+        "id": 48287649,
+        "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+        "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+        "domain": "theaileverageweekly.com",
+        "score": 21,
+        "descendants": 11,
+        "by": "talvardi7",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48271448,
+        "title": "A few interesting modern pixel fonts",
+        "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+        "domain": "unsung.aresluna.org",
+        "score": 255,
+        "descendants": 54,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 48287982,
+        "title": "Stripe is friendly to \"friendly fraud\"",
+        "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+        "domain": "gingerlime.com",
+        "score": 70,
+        "descendants": 20,
+        "by": "gingerlime",
+        "tags": []
+      },
+      {
+        "id": 48238703,
+        "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+        "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+        "domain": "djspeckhals.com",
+        "score": 168,
+        "descendants": 40,
+        "by": "dustin1114",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "id": 48275564,
+        "title": "A portentous reunion",
+        "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+        "domain": "bcantrill.dtrace.org",
+        "score": 49,
+        "descendants": 20,
+        "by": "cafkafk",
+        "tags": []
+      },
+      {
+        "id": 48285592,
+        "title": "Big tech's anti-labor playbook has come for Wikipedia",
+        "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+        "domain": "medium.com",
+        "score": 302,
+        "descendants": 153,
+        "by": "cdrnsf",
+        "tags": []
+      },
+      {
+        "id": 48263560,
+        "title": "C array types are weird",
+        "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+        "domain": "anselmschueler.com",
+        "score": 55,
+        "descendants": 28,
+        "by": "signa11",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "niemanlab.org",
+          "count": 1
+        },
+        {
+          "domain": "science.org",
+          "count": 1
+        },
+        {
+          "domain": "developers.cloudflare.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 128,
+      "max_score": {
+        "title": "Big tech's anti-labor playbook has come for Wikipedia",
+        "score": 302
+      },
+      "most_discussed": {
+        "title": "Big tech's anti-labor playbook has come for Wikipedia",
+        "comments": 153
+      },
+      "hot_tags": [
+        "Science",
+        "AI",
+        "Python"
+      ]
+    },
+    "summary": ""
+  }
+}
