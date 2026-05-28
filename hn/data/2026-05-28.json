@@ -154,5 +154,157 @@
       ]
     },
     "summary": "本期Hacker News热门讨论聚焦于AI领域的行业动态，涵盖YouTube的内容标注新规、头部大模型的市场验证以及AI搜索对传统搜索引擎格局的影响。此外，技术圈关注焦点还延伸至怀旧软件重制、嵌入式硬件开发及去中心化网络技术等多样化话题。"
+  },
+  "noon": {
+    "time": "2026-05-28 15:45",
+    "stories": [
+      {
+        "id": 48299753,
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "domain": "blog.youtube",
+        "score": 811,
+        "descendants": 467,
+        "by": "nopg",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "YouTube宣布将自动为人工智能生成的视频添加标签，以增强平台内容的透明度与可信度。"
+      },
+      {
+        "id": 48304260,
+        "title": "Hallucinate – Massively Multiplayer Online Rave",
+        "url": "https://hallucinate.site",
+        "domain": "hallucinate.site",
+        "score": 158,
+        "descendants": 62,
+        "by": "stagas",
+        "tags": [],
+        "summary": "一个结合了多人在线交互与电子音乐狂欢体验的实验性平台。"
+      },
+      {
+        "id": 48302220,
+        "title": "I analysed 20 years of my chats",
+        "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+        "domain": "drobinin.com",
+        "score": 82,
+        "descendants": 22,
+        "by": "valzevul",
+        "tags": [],
+        "summary": "作者通过对过去20年的个人聊天记录进行深入数据挖掘与分析，分享了从中观察到的变化与洞察。"
+      },
+      {
+        "id": 48305446,
+        "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+        "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+        "domain": "iisc.ac.in",
+        "score": 12,
+        "descendants": 0,
+        "by": "kunalsin9h",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一种模仿自然逻辑的“尤里卡”机器，旨在突破当前AI在某些领域探索能力的局限。"
+      },
+      {
+        "id": 48296794,
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "domain": "simonwillison.net",
+        "score": 818,
+        "descendants": 956,
+        "by": "simonw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度探讨Anthropic和OpenAI如何通过技术迭代成功实现产品与市场的真正契合。"
+      },
+      {
+        "id": 48264223,
+        "title": "Our 2D game character grew 3% taller every time he walked",
+        "url": "https://hey.paris/posts/leo-sprite-alignment/",
+        "domain": "hey.paris",
+        "score": 16,
+        "descendants": 8,
+        "by": "parisidau",
+        "tags": [],
+        "summary": "开发者分享在游戏开发中遇到的离奇Bug：角色在行走时身高会以3%的比例持续增长。"
+      },
+      {
+        "id": 48299220,
+        "title": "What Apple and Google are doing to push notifications",
+        "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+        "domain": "jacquescorbytuech.com",
+        "score": 261,
+        "descendants": 257,
+        "by": "iamacyborg",
+        "tags": [],
+        "summary": "剖析苹果和谷歌在移动端推送通知系统上的策略调整及其对开发者生态的影响。"
+      },
+      {
+        "id": 48297645,
+        "title": "SimCity 3k in 4k (2025)",
+        "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+        "domain": "thran.uk",
+        "score": 351,
+        "descendants": 127,
+        "by": "speckx",
+        "tags": [],
+        "summary": "探讨将经典模拟经营游戏《模拟城市3000》以4K高清画质重新呈现的技术实现。"
+      },
+      {
+        "id": 48262160,
+        "title": "The Green Side of the Lua",
+        "url": "https://arxiv.org/abs/2601.16670",
+        "domain": "arxiv.org",
+        "score": 36,
+        "descendants": 19,
+        "by": "radiator",
+        "tags": [],
+        "summary": "探讨Lua编程语言在高性能或特定环境下的应用潜力与技术特质。"
+      },
+      {
+        "id": 48299638,
+        "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+        "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+        "domain": "jonaharagon.com",
+        "score": 177,
+        "descendants": 56,
+        "by": "Panda_",
+        "tags": [],
+        "summary": "介绍作者在探索Meshtastic等去中心化网状网络技术过程中的学习心得与实践。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.youtube",
+          "count": 1
+        },
+        {
+          "domain": "hallucinate.site",
+          "count": 1
+        },
+        {
+          "domain": "drobinin.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 272,
+      "max_score": {
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "score": 818
+      },
+      "most_discussed": {
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "comments": 956
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于AI行业的深层变动，包括YouTube的内容标签化管理、大模型产品市场契合度的探讨以及AI在科学探索中的新应用。同时，技术社区对网状网络技术、经典游戏重制及个人数据挖掘等实用与趣味话题表现出浓厚兴趣。"
   }
 }
