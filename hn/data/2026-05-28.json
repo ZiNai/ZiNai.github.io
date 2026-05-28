@@ -306,5 +306,165 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于AI行业的深层变动，包括YouTube的内容标签化管理、大模型产品市场契合度的探讨以及AI在科学探索中的新应用。同时，技术社区对网状网络技术、经典游戏重制及个人数据挖掘等实用与趣味话题表现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-05-28 23:41",
+    "stories": [
+      {
+        "id": 48307887,
+        "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+        "url": "https://lenz.io/research/llm-disagreement",
+        "domain": "lenz.io",
+        "score": 376,
+        "descendants": 256,
+        "by": "kostaj",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究显示五大主流大模型在面对真实事实核查问题时，有高达67%的结论存在不一致。"
+      },
+      {
+        "id": 48299753,
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "domain": "blog.youtube",
+        "score": 1130,
+        "descendants": 671,
+        "by": "nopg",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "YouTube宣布将强制要求创作者自动标记AI生成的视频内容以提升透明度。"
+      },
+      {
+        "id": 48282180,
+        "title": "Indoor Wi-Fi Roaming with OpenWRT",
+        "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+        "domain": "taoofmac.com",
+        "score": 39,
+        "descendants": 11,
+        "by": "zdw",
+        "tags": [],
+        "summary": "一篇关于如何利用OpenWRT实现家庭环境下无缝Wi-Fi漫游的技术实践指南。"
+      },
+      {
+        "id": 48309302,
+        "title": "EU fines Temu €200M for allowing sale of illegal products",
+        "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+        "domain": "bbc.co.uk",
+        "score": 65,
+        "descendants": 34,
+        "by": "jjp",
+        "tags": [],
+        "summary": "欧盟因监管不力导致非法商品销售，对电商平台Temu处以2亿欧元罚款。"
+      },
+      {
+        "id": 48309233,
+        "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+        "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+        "domain": "latimes.com",
+        "score": 197,
+        "descendants": 208,
+        "by": "brandonb",
+        "tags": [],
+        "summary": "加州大学教职员工因学生数学基础薄弱，呼吁恢复STEM专业的SAT入学考试要求。"
+      },
+      {
+        "id": 48307231,
+        "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+        "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+        "domain": "itsfoss.com",
+        "score": 273,
+        "descendants": 119,
+        "by": "teleforce",
+        "tags": [
+          "AI",
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "AMD针对Vivado许可证的变动被指对Linux用户造成不便，引发开源社区不满。"
+      },
+      {
+        "id": 48296794,
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "domain": "simonwillison.net",
+        "score": 1013,
+        "descendants": 1123,
+        "by": "simonw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度探讨Anthropic与OpenAI如何通过技术迭代正式确立产品市场契合度。"
+      },
+      {
+        "id": 48304260,
+        "title": "Hallucinate – Massively Multiplayer Online Rave",
+        "url": "https://hallucinate.site",
+        "domain": "hallucinate.site",
+        "score": 321,
+        "descendants": 141,
+        "by": "stagas",
+        "tags": [],
+        "summary": "介绍一个名为Hallucinate的大型多人在线狂欢派对平台。"
+      },
+      {
+        "id": 48309645,
+        "title": "Creusot helps you prove your Rust code is correct",
+        "url": "https://github.com/creusot-rs/creusot/tree/master",
+        "domain": "github.com",
+        "score": 21,
+        "descendants": 1,
+        "by": "fanf2",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Creusot工具库支持开发者利用形式化验证方法证明Rust代码的逻辑正确性。"
+      },
+      {
+        "id": 48297645,
+        "title": "SimCity 3k in 4k (2025)",
+        "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+        "domain": "thran.uk",
+        "score": 436,
+        "descendants": 172,
+        "by": "speckx",
+        "tags": [],
+        "summary": "通过技术手段将经典游戏《模拟城市3000》渲染至4K分辨率的复古重温项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lenz.io",
+          "count": 1
+        },
+        {
+          "domain": "blog.youtube",
+          "count": 1
+        },
+        {
+          "domain": "taoofmac.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 387,
+      "max_score": {
+        "title": "YouTube to automatically label AI-generated videos",
+        "score": 1130
+      },
+      "most_discussed": {
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "comments": 1123
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI技术的深度应用与监管争议，包括模型事实准确性的挑战、平台内容治理以及行业竞争格局的演变。此外，技术社区对开源工具、Rust编程验证及复古计算等领域展现了持续的热情。"
   }
 }
