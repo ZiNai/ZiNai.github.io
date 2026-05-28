@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-05-28 09:51",
+    "stories": [
+      {
+        "id": 48302745,
+        "title": "Can we have the day off?",
+        "url": "https://mlsu.io/posts/day-off/",
+        "domain": "mlsu.io",
+        "score": 260,
+        "descendants": 169,
+        "by": "mlsu",
+        "tags": [],
+        "summary": "探讨现代职场中关于工作平衡与休息的文化争议。"
+      },
+      {
+        "id": 48299753,
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "domain": "blog.youtube",
+        "score": 537,
+        "descendants": 323,
+        "by": "nopg",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "YouTube宣布将强制自动标注AI生成的视频内容，以增强平台透明度。"
+      },
+      {
+        "id": 48296794,
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "domain": "simonwillison.net",
+        "score": 650,
+        "descendants": 797,
+        "by": "simonw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析认为Anthropic与OpenAI已成功实现产品与市场的深度契合，成为AI商业化的先行者。"
+      },
+      {
+        "id": 48299220,
+        "title": "What Apple and Google are doing to push notifications",
+        "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+        "domain": "jacquescorbytuech.com",
+        "score": 177,
+        "descendants": 179,
+        "by": "iamacyborg",
+        "tags": [],
+        "summary": "深入解析苹果与谷歌在推送通知机制及生态控制上的技术策略。"
+      },
+      {
+        "id": 48297645,
+        "title": "SimCity 3k in 4k (2025)",
+        "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+        "domain": "thran.uk",
+        "score": 283,
+        "descendants": 107,
+        "by": "speckx",
+        "tags": [],
+        "summary": "开发者分享将经典游戏《模拟城市3000》移植并优化至4K分辨率的尝试。"
+      },
+      {
+        "id": 48275255,
+        "title": "A New Typst Template for Pandoc",
+        "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+        "domain": "imaginarytext.ca",
+        "score": 32,
+        "descendants": 2,
+        "by": "ankitg12",
+        "tags": [],
+        "summary": "介绍一款专为Pandoc设计的Typst排版模板，旨在优化学术与技术文档撰写。"
+      },
+      {
+        "id": 48299623,
+        "title": "Rust (and Slint) on a Jailbroken Kindle",
+        "url": "https://sverre.me/blog/rust-on-kindle/",
+        "domain": "sverre.me",
+        "score": 104,
+        "descendants": 11,
+        "by": "homarp",
+        "tags": [
+          "AI",
+          "Rust"
+        ],
+        "summary": "展示在越狱后的Kindle设备上运行Rust语言及Slint UI框架的实验过程。"
+      },
+      {
+        "id": 48267558,
+        "title": "The Ask",
+        "url": "https://randsinrepose.com/archives/the-ask/",
+        "domain": "randsinrepose.com",
+        "score": 8,
+        "descendants": 1,
+        "by": "digitallogic",
+        "tags": [],
+        "summary": "探讨在职业规划与职场沟通中如何提出核心需求与诉求。"
+      },
+      {
+        "id": 48299638,
+        "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+        "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+        "domain": "jonaharagon.com",
+        "score": 68,
+        "descendants": 20,
+        "by": "Panda_",
+        "tags": [],
+        "summary": "分享对Meshtastic等网状网络技术的探索及其实践应用案例。"
+      },
+      {
+        "id": 48296649,
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "domain": "pcgamer.com",
+        "score": 671,
+        "descendants": 334,
+        "by": "HelloUsername",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数据表明在Google强调AI搜索战略后，DuckDuckGo的访问量反而显著增长。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mlsu.io",
+          "count": 1
+        },
+        {
+          "domain": "blog.youtube",
+          "count": 1
+        },
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 279,
+      "max_score": {
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "score": 671
+      },
+      "most_discussed": {
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "comments": 797
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News热门讨论聚焦于AI领域的行业动态，涵盖YouTube的内容标注新规、头部大模型的市场验证以及AI搜索对传统搜索引擎格局的影响。此外，技术圈关注焦点还延伸至怀旧软件重制、嵌入式硬件开发及去中心化网络技术等多样化话题。"
+  }
+}
