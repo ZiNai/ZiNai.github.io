@@ -153,5 +153,155 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点集中在AI技术前沿与工程实践，包括Claude新版本发布及基于Postgres的持久化工作流构建。此外，社会性议题如Lego资产纠纷，以及技术回顾与行业见解也引发了社区的广泛关注与讨论。"
+  },
+  "noon": {
+    "time": "2026-05-29 15:44",
+    "stories": [
+      {
+        "id": 48311647,
+        "title": "Claude Opus 4.8",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "domain": "anthropic.com",
+        "score": 1452,
+        "descendants": 1155,
+        "by": "craigmart",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布新一代大模型Claude Opus 4.8，引发社区热议。"
+      },
+      {
+        "id": 48314136,
+        "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+        "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+        "domain": "mybricklog.com",
+        "score": 868,
+        "descendants": 403,
+        "by": "philips",
+        "tags": [],
+        "summary": "一家乐高二手店被指控盗窃并转卖价值20万美元的私人乐高收藏，引起巨大法律争议。"
+      },
+      {
+        "id": 48319509,
+        "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+        "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 1,
+        "by": "Kwastie",
+        "tags": [],
+        "summary": "大众汽车通过更改验证协议，间接阻断了Home Assistant对车辆的集成支持。"
+      },
+      {
+        "id": 48314951,
+        "title": "I made a million dollar product from my dorm room (2025)",
+        "url": "https://nick.winans.io/blog/nice-nano/",
+        "domain": "nick.winans.io",
+        "score": 352,
+        "descendants": 47,
+        "by": "mattrighetti",
+        "tags": [],
+        "summary": "作者分享了如何在大学宿舍起步并最终打造出百万美元级产品的创业经历。"
+      },
+      {
+        "id": 48319524,
+        "title": "Zot now supports Claude Opus 4.8",
+        "url": "https://www.zot.sh",
+        "domain": "zot.sh",
+        "score": 20,
+        "descendants": 12,
+        "by": "patriceckhart",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Zot工具现已正式适配并支持Claude Opus 4.8模型。"
+      },
+      {
+        "id": 48318481,
+        "title": "Cars collect a startling amount of data about you",
+        "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+        "domain": "bbc.com",
+        "score": 279,
+        "descendants": 125,
+        "by": "1vuio0pswjnm7",
+        "tags": [],
+        "summary": "BBC报道揭露了现代汽车收集用户高敏感度个人数据的隐私风险问题。"
+      },
+      {
+        "id": 48318313,
+        "title": "Italians and Dutch share the same gestural instinct for teaching",
+        "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+        "domain": "mpi.nl",
+        "score": 40,
+        "descendants": 9,
+        "by": "vi_sextus_vi",
+        "tags": [],
+        "summary": "一项研究发现意大利人和荷兰人在教学手势上存在惊人的相似性，揭示了跨文化沟通的生物本能。"
+      },
+      {
+        "id": 48261377,
+        "title": "Ten Basic Clouds",
+        "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+        "domain": "noaa.gov",
+        "score": 96,
+        "descendants": 27,
+        "by": "nopg",
+        "tags": [],
+        "summary": "NOAA提供的关于十种基本云朵类型的科学分类指南。"
+      },
+      {
+        "id": 48318174,
+        "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+        "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+        "domain": "buildingbetter.tech",
+        "score": 44,
+        "descendants": 5,
+        "by": "ankitg12",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析Claude Code工具中未公开的配置选项与使用技巧。"
+      },
+      {
+        "id": 48314002,
+        "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+        "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+        "domain": "chiark.greenend.org.uk",
+        "score": 228,
+        "descendants": 77,
+        "by": "speckx",
+        "tags": [],
+        "summary": "从技术极客视角对电影《创：战纪》中shell历史记录场景的专业挑错。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "mybricklog.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 340,
+      "max_score": {
+        "title": "Claude Opus 4.8",
+        "score": 1452
+      },
+      "most_discussed": {
+        "title": "Claude Opus 4.8",
+        "comments": 1155
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，Claude Opus 4.8的发布及其生态集成引发了广泛讨论。此外，公众对汽车数据隐私泄露的担忧以及关于个人创业经验与科技文化趣闻的探讨也占据了重要讨论空间。"
   }
 }
