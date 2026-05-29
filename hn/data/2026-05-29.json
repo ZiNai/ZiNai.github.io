@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-05-29 10:00",
+    "stories": [
+      {
+        "id": 48311647,
+        "title": "Claude Opus 4.8",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "domain": "anthropic.com",
+        "score": 1237,
+        "descendants": 1004,
+        "by": "craigmart",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Claude Opus 4.8，引发了关于新模型性能及其在AI领域影响的热烈讨论。"
+      },
+      {
+        "id": 48314136,
+        "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+        "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+        "domain": "mybricklog.com",
+        "score": 607,
+        "descendants": 332,
+        "by": "philips",
+        "tags": [],
+        "summary": "一家名为Bricks and Minifigs的门店涉嫌盗窃并出售价值20万美元的乐高收藏品，引发社区对此类商业纠纷的关注。"
+      },
+      {
+        "id": 48314951,
+        "title": "I made a million dollar product from my dorm room (2025)",
+        "url": "https://nick.winans.io/blog/nice-nano/",
+        "domain": "nick.winans.io",
+        "score": 189,
+        "descendants": 24,
+        "by": "mattrighetti",
+        "tags": [],
+        "summary": "一位开发者分享了自己如何在宿舍里从零开始，打造出一款年入百万美元产品的创业经历。"
+      },
+      {
+        "id": 48314002,
+        "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+        "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+        "domain": "chiark.greenend.org.uk",
+        "score": 154,
+        "descendants": 58,
+        "by": "speckx",
+        "tags": [],
+        "summary": "技术博主详细剖析并挑刺电影《创：战纪》中出现的shell历史命令场景。"
+      },
+      {
+        "id": 48261377,
+        "title": "Ten Basic Clouds",
+        "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+        "domain": "noaa.gov",
+        "score": 36,
+        "descendants": 12,
+        "by": "nopg",
+        "tags": [],
+        "summary": "来自NOAA的科普文章，介绍了关于十种基础云层的科学分类与识别指南。"
+      },
+      {
+        "id": 48317043,
+        "title": "Garnix (A Nix CI) is shutting down",
+        "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+        "domain": "discourse.nixos.org",
+        "score": 32,
+        "descendants": 12,
+        "by": "agnishom",
+        "tags": [],
+        "summary": "Nix生态系统中的CI服务商Garnix宣布即将关闭，引发关于CI/CD工具选择与维护的讨论。"
+      },
+      {
+        "id": 48317339,
+        "title": "Where are the economies of scale in homebuilding?",
+        "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+        "domain": "construction-physics.com",
+        "score": 18,
+        "descendants": 6,
+        "by": "JumpCrisscross",
+        "tags": [],
+        "summary": "深度探讨建筑行业在规模化生产方面面临的障碍，分析为何房屋建筑难以实现经济规模效应。"
+      },
+      {
+        "id": 48312528,
+        "title": "I hated writing until I learned there’s a science to it (2024)",
+        "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+        "domain": "science.org",
+        "score": 141,
+        "descendants": 60,
+        "by": "o4c",
+        "tags": [
+          "Science"
+        ],
+        "summary": "文章探讨写作并非纯粹的艺术创作，通过学习科学的方法可以显著提升写作效率与质量。"
+      },
+      {
+        "id": 48313530,
+        "title": "Building durable workflows on Postgres",
+        "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+        "domain": "dbos.dev",
+        "score": 271,
+        "descendants": 115,
+        "by": "KraftyOne",
+        "tags": [
+          "Database"
+        ],
+        "summary": "深入解析如何利用Postgres数据库构建稳定、可持久化的任务调度与执行工作流。"
+      },
+      {
+        "id": 48276598,
+        "title": "News about Raspberry Pi 6 and Microcontroller Development",
+        "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+        "domain": "jeffgeerling.com",
+        "score": 146,
+        "descendants": 111,
+        "by": "rbanffy",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Jeff Geerling分享关于树莓派6的预测及微控制器开发的最新行业动态。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "mybricklog.com",
+          "count": 1
+        },
+        {
+          "domain": "nick.winans.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 283,
+      "max_score": {
+        "title": "Claude Opus 4.8",
+        "score": 1237
+      },
+      "most_discussed": {
+        "title": "Claude Opus 4.8",
+        "comments": 1004
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Database",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点集中在AI技术前沿与工程实践，包括Claude新版本发布及基于Postgres的持久化工作流构建。此外，社会性议题如Lego资产纠纷，以及技术回顾与行业见解也引发了社区的广泛关注与讨论。"
+  }
+}
