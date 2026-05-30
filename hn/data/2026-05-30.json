@@ -317,5 +317,165 @@
       ]
     },
     "summary": "本期Hacker News热点涵盖了从编程工具链创新到AI行业应用的多元技术趋势。开发者关注TypeScript编译优化与工作流存储方案，同时围绕AI发展、行业供应链短缺及科技在物理世界的跨界应用展开了深度讨论。"
+  },
+  "evening": {
+    "time": "2026-05-30 21:19",
+    "stories": [
+      {
+        "id": 48334515,
+        "title": "Pandoc Templates",
+        "url": "https://pandoc-templates.org/",
+        "domain": "pandoc-templates.org",
+        "score": 155,
+        "descendants": 11,
+        "by": "ankitg12",
+        "tags": [],
+        "summary": "Pandoc模板资源集合，为文档转换提供高效的格式化方案。"
+      },
+      {
+        "id": 48334048,
+        "title": "Zig: Build System Reworked",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+        "domain": "ziglang.org",
+        "score": 162,
+        "descendants": 56,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Zig编程语言宣布彻底重构其构建系统，旨在提升开发效率与灵活性。"
+      },
+      {
+        "id": 48335135,
+        "title": "Proposed new US funding rules: We can cancel any grant at any time",
+        "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+        "domain": "arstechnica.com",
+        "score": 113,
+        "descendants": 56,
+        "by": "mhalle",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "美国拟议的新科研资助规则引发争议，机构可能随时取消任何已发放的补助金。"
+      },
+      {
+        "id": 48334949,
+        "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+        "url": "https://helios.southlondonscientific.com/",
+        "domain": "helios.southlondonscientific.com",
+        "score": 24,
+        "descendants": 4,
+        "by": "ruaraidh",
+        "tags": [
+          "AI",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "Helios项目展示了一个可估算英国任意地点太阳能发电潜力的小型工具。"
+      },
+      {
+        "id": 48334710,
+        "title": "Leo's first encyclical attacks technological messianism",
+        "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+        "domain": "economist.com",
+        "score": 29,
+        "descendants": 13,
+        "by": "1vuio0pswjnm7",
+        "tags": [],
+        "summary": "探讨利奥教宗的通谕，分析其对技术弥赛亚主义的批判视角。"
+      },
+      {
+        "id": 48334854,
+        "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+        "url": "https://github.com/kristapsdz/openrsync",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "sph",
+        "tags": [],
+        "summary": "OpenBSD团队推出的rsync开源实现，侧重于安全与代码质量。"
+      },
+      {
+        "id": 48326802,
+        "title": "SQLite is all you need for durable workflows",
+        "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+        "domain": "obeli.sk",
+        "score": 591,
+        "descendants": 299,
+        "by": "tomasol",
+        "tags": [
+          "Database"
+        ],
+        "summary": "深入解析如何通过SQLite构建稳健、可维护的持久化工作流系统。"
+      },
+      {
+        "id": 48298912,
+        "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+        "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+        "domain": "engadget.com",
+        "score": 17,
+        "descendants": 1,
+        "by": "amichail",
+        "tags": [],
+        "summary": "回顾并分析蝗虫防治及相关历史生物事件。"
+      },
+      {
+        "id": 48281772,
+        "title": "What Happened to the Locusts?",
+        "url": "https://explosion-scratch.github.io/locusts/",
+        "domain": "explosion-scratch.github.io",
+        "score": 55,
+        "descendants": 12,
+        "by": "explosion-s",
+        "tags": [],
+        "summary": "探讨IXI自动对焦透镜技术的进展，其有望成为多焦点眼镜的替代方案。"
+      },
+      {
+        "id": 48333820,
+        "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+        "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+        "domain": "reuters.com",
+        "score": 280,
+        "descendants": 216,
+        "by": "vrganj",
+        "tags": [
+          "Science"
+        ],
+        "summary": "丹麦养老基金因治理与估值忧虑宣布撤资SpaceX，引发关于独角兽公司治理的讨论。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pandoc-templates.org",
+          "count": 1
+        },
+        {
+          "domain": "ziglang.org",
+          "count": 1
+        },
+        {
+          "domain": "arstechnica.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 144,
+      "max_score": {
+        "title": "SQLite is all you need for durable workflows",
+        "score": 591
+      },
+      "most_discussed": {
+        "title": "SQLite is all you need for durable workflows",
+        "comments": 299
+      },
+      "hot_tags": [
+        "Systems",
+        "Startup",
+        "AI",
+        "Show HN",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News重点关注技术深度工具与开源项目，涵盖Zig构建系统升级及SQLite在持久化工作流中的应用。此外，针对美国科研资助政策及大型企业公司治理的社会议题引发了社区的广泛讨论。"
   }
 }
