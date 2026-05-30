@@ -158,5 +158,164 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中在AI技术栈的演进与硬件生态的反思上。开发者们在讨论大模型推理优化的新方案、工作流持久化实现以及消费级硬件（如Framework笔记本）的实用性价值，体现了技术社区从纯模型研究向工程落地与成本效益分析的深度转型。"
+  },
+  "noon": {
+    "time": "2026-05-30 14:39",
+    "stories": [
+      {
+        "id": 48332151,
+        "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+        "url": "https://www.perryts.com/",
+        "domain": "perryts.com",
+        "score": 51,
+        "descendants": 32,
+        "by": "0x1997",
+        "tags": [
+          "JavaScript",
+          "Systems"
+        ],
+        "summary": "Perry是一个利用SWC和LLVM将TypeScript直接编译为独立可执行文件的工具。"
+      },
+      {
+        "id": 48326802,
+        "title": "SQLite is all you need for durable workflows",
+        "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+        "domain": "obeli.sk",
+        "score": 468,
+        "descendants": 236,
+        "by": "tomasol",
+        "tags": [
+          "Database"
+        ],
+        "summary": "本文探讨了为何使用SQLite即可满足构建稳健、持久化工作流的所有需求。"
+      },
+      {
+        "id": 48284494,
+        "title": "Snowboard Kids 2 is 100% Decompiled",
+        "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+        "domain": "blog.chrislewis.au",
+        "score": 152,
+        "descendants": 47,
+        "by": "GaggiX",
+        "tags": [],
+        "summary": "经典游戏《雪人兄弟2》已实现100%反编译，揭示了项目背后的技术挑战与历程。"
+      },
+      {
+        "id": 48293119,
+        "title": "Math-to-Manim",
+        "url": "https://github.com/HarleyCoops/Math-To-Manim",
+        "domain": "github.com",
+        "score": 33,
+        "descendants": 4,
+        "by": "georgewsinger",
+        "tags": [],
+        "summary": "Math-to-Manim工具可将数学公式快速转化为Manim动画演示。"
+      },
+      {
+        "id": 48325340,
+        "title": "Notes from the Mistral AI Now Summit",
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "domain": "koenvangilst.nl",
+        "score": 335,
+        "descendants": 127,
+        "by": "vnglst",
+        "tags": [
+          "AI"
+        ],
+        "summary": "总结了Mistral AI峰会的核心观点，关注其在AI模型与生态系统中的最新进展。"
+      },
+      {
+        "id": 48331786,
+        "title": "Naphtha shortages in Japan",
+        "url": "https://www.nippon.com/en/japan-data/h02783/",
+        "domain": "nippon.com",
+        "score": 87,
+        "descendants": 43,
+        "by": "takakaze",
+        "tags": [],
+        "summary": "分析了日本石脑油供应短缺的现状及其对化工行业和宏观经济的影响。"
+      },
+      {
+        "id": 48330436,
+        "title": "MCP is dead?",
+        "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "domain": "quandri.io",
+        "score": 161,
+        "descendants": 151,
+        "by": "nadis",
+        "tags": [],
+        "summary": "文章讨论了模型上下文协议（MCP）的市场现状及关于其是否已“死亡”的争议。"
+      },
+      {
+        "id": 48283410,
+        "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+        "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+        "domain": "blog.prusa3d.com",
+        "score": 126,
+        "descendants": 23,
+        "by": "rented_mule",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "PrusaSlicer推出的ColorMix开源方案，让用户能够通过单喷头打印出数十种颜色。"
+      },
+      {
+        "id": 48303623,
+        "title": "What It Takes to Preserve Floppy Disks",
+        "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+        "domain": "spectrum.ieee.org",
+        "score": 23,
+        "descendants": 4,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "深入解析了保存老旧软盘数据所面临的技术难题及数字化保护流程。"
+      },
+      {
+        "id": 48327962,
+        "title": "Shift will clean homes for free to train future robots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+        "domain": "theverge.com",
+        "score": 115,
+        "descendants": 174,
+        "by": "evilsimon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "初创公司Shift通过提供免费家政服务来收集家庭环境数据，以训练通用服务机器人。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "perryts.com",
+          "count": 1
+        },
+        {
+          "domain": "obeli.sk",
+          "count": 1
+        },
+        {
+          "domain": "blog.chrislewis.au",
+          "count": 1
+        }
+      ],
+      "avg_score": 155,
+      "max_score": {
+        "title": "SQLite is all you need for durable workflows",
+        "score": 468
+      },
+      "most_discussed": {
+        "title": "SQLite is all you need for durable workflows",
+        "comments": 236
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Systems",
+        "Database",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热点涵盖了从编程工具链创新到AI行业应用的多元技术趋势。开发者关注TypeScript编译优化与工作流存储方案，同时围绕AI发展、行业供应链短缺及科技在物理世界的跨界应用展开了深度讨论。"
   }
 }
