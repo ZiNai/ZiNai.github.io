@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-05-30 09:54",
+    "stories": [
+      {
+        "id": 48326802,
+        "title": "SQLite is all you need for durable workflows",
+        "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+        "domain": "obeli.sk",
+        "score": 354,
+        "descendants": 202,
+        "by": "tomasol",
+        "tags": [
+          "Database"
+        ],
+        "summary": "作者建议利用SQLite的特性来构建更具稳健性和持久性的自动化工作流。"
+      },
+      {
+        "id": 48324712,
+        "title": "The dead economy theory",
+        "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+        "domain": "owenmcgrann.com",
+        "score": 697,
+        "descendants": 877,
+        "by": "WillDaSilva",
+        "tags": [],
+        "summary": "探讨关于当前经济体系可能已陷入停滞或失去活力的理论分析。"
+      },
+      {
+        "id": 48284494,
+        "title": "Snowboard Kids 2 is 100% Decompiled",
+        "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+        "domain": "blog.chrislewis.au",
+        "score": 51,
+        "descendants": 11,
+        "by": "GaggiX",
+        "tags": [],
+        "summary": "任天堂经典游戏《滑雪小子2》已完成100%反编译，揭示了复古游戏的开发技术细节。"
+      },
+      {
+        "id": 48325340,
+        "title": "Notes from the Mistral AI Now Summit",
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "domain": "koenvangilst.nl",
+        "score": 310,
+        "descendants": 110,
+        "by": "vnglst",
+        "tags": [
+          "AI"
+        ],
+        "summary": "总结了Mistral AI峰会中关于大模型技术架构及生态发展的关键信息。"
+      },
+      {
+        "id": 48330436,
+        "title": "MCP is dead?",
+        "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "domain": "quandri.io",
+        "score": 78,
+        "descendants": 65,
+        "by": "nadis",
+        "tags": [],
+        "summary": "针对模型上下文协议（MCP）近期引发的行业热议与争议进行深度剖析。"
+      },
+      {
+        "id": 48283410,
+        "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+        "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+        "domain": "blog.prusa3d.com",
+        "score": 75,
+        "descendants": 2,
+        "by": "rented_mule",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Prusa3D推出开源ColorMix方案，旨在简化并提升3D打印的多色混合打印效果。"
+      },
+      {
+        "id": 48327962,
+        "title": "Shift will clean homes for free to train future robots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+        "domain": "theverge.com",
+        "score": 83,
+        "descendants": 115,
+        "by": "evilsimon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道一家名为Shift的公司通过免费提供家政服务，为机器人训练收集真实场景数据。"
+      },
+      {
+        "id": 48323869,
+        "title": "It's hard to justify buying a Framework 12",
+        "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+        "domain": "jeffgeerling.com",
+        "score": 224,
+        "descendants": 382,
+        "by": "watermelon0",
+        "tags": [],
+        "summary": "Jeff Geerling分析了购买Framework 12模块化笔记本在当前市场环境下的权衡与现实挑战。"
+      },
+      {
+        "id": 48324853,
+        "title": "You can just say it",
+        "url": "https://noperator.dev/posts/you-can-just-say-it/",
+        "domain": "noperator.dev",
+        "score": 216,
+        "descendants": 97,
+        "by": "antirez",
+        "tags": [],
+        "summary": "探讨在沟通与技术表达中，如何通过简洁直接的方式阐明观点以提升效率。"
+      },
+      {
+        "id": 48328184,
+        "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+        "url": "https://github.com/jmaczan/tiny-vllm",
+        "domain": "github.com",
+        "score": 84,
+        "descendants": 7,
+        "by": "yu3zhou4",
+        "tags": [
+          "AI",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "介绍一个基于C++和CUDA构建的高性能开源大模型推理引擎项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "obeli.sk",
+          "count": 1
+        },
+        {
+          "domain": "owenmcgrann.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.chrislewis.au",
+          "count": 1
+        }
+      ],
+      "avg_score": 217,
+      "max_score": {
+        "title": "The dead economy theory",
+        "score": 697
+      },
+      "most_discussed": {
+        "title": "The dead economy theory",
+        "comments": 877
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Open Source",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在AI技术栈的演进与硬件生态的反思上。开发者们在讨论大模型推理优化的新方案、工作流持久化实现以及消费级硬件（如Framework笔记本）的实用性价值，体现了技术社区从纯模型研究向工程落地与成本效益分析的深度转型。"
+  }
+}
