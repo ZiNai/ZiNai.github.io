@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-05-31 10:09",
+    "stories": [
+      {
+        "id": 48341578,
+        "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+        "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+        "domain": "consumerrights.wiki",
+        "score": 347,
+        "descendants": 119,
+        "by": "antipurist",
+        "tags": [],
+        "summary": "微软被指通过更新手段降低了永久授权离线产品的功能，引发用户对数字权益的广泛担忧。"
+      },
+      {
+        "id": 48340411,
+        "title": "Domain expertise has always been the real moat",
+        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "domain": "brethorsting.com",
+        "score": 293,
+        "descendants": 177,
+        "by": "aaronbrethorst",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章分析认为，在技术工具普及的今天，深厚的领域专业知识才是企业真正的护城河。"
+      },
+      {
+        "id": 48318402,
+        "title": "I found a seashell in the middle of the desert",
+        "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+        "domain": "github.com",
+        "score": 219,
+        "descendants": 64,
+        "by": "Hawzen",
+        "tags": [],
+        "summary": "开发者分享在沙漠中心发现海螺的奇遇，引发关于地理演变与自然记录的讨论。"
+      },
+      {
+        "id": 48342097,
+        "title": "Anyone can build a platform now. Almost nobody can get people to find it",
+        "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
+        "domain": "claudefolio.com",
+        "score": 29,
+        "descendants": 12,
+        "by": "misterinfo",
+        "tags": [],
+        "summary": "探讨构建平台门槛的降低与流量获取困难之间的矛盾，指出产品冷启动的本质挑战。"
+      },
+      {
+        "id": 48337987,
+        "title": "Accenture to acquire Ookla",
+        "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+        "domain": "newsroom.accenture.com",
+        "score": 242,
+        "descendants": 125,
+        "by": "Garbage",
+        "tags": [],
+        "summary": "埃森哲（Accenture）宣布收购网络测速工具Ookla，旨在强化其数字服务与网络质量分析能力。"
+      },
+      {
+        "id": 48341062,
+        "title": "Shantell Sans",
+        "url": "https://shantellsans.com/process",
+        "domain": "shantellsans.com",
+        "score": 69,
+        "descendants": 7,
+        "by": "aleda145",
+        "tags": [],
+        "summary": "介绍由艺术家Shantell Martin创作的同名手写字体Shantell Sans。"
+      },
+      {
+        "id": 48340422,
+        "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+        "url": "https://github.com/wolfSSL/wolfCOSE",
+        "domain": "github.com",
+        "score": 64,
+        "descendants": 12,
+        "by": "aidangarske",
+        "tags": [],
+        "summary": "wolfSSL推出嵌入式COSE协议栈，支持零内存分配，专为资源受限的物联网环境设计。"
+      },
+      {
+        "id": 48339894,
+        "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+        "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+        "domain": "lowendmac.com",
+        "score": 72,
+        "descendants": 36,
+        "by": "tylerdane",
+        "tags": [],
+        "summary": "回顾Mac之父Jef Raskin的职业生涯及其对苹果早期人机交互理念的深远影响。"
+      },
+      {
+        "id": 48341407,
+        "title": "Cheese Paper: a text editor specifically designed for writing",
+        "url": "https://brie.gay/cheese-paper/",
+        "domain": "brie.gay",
+        "score": 49,
+        "descendants": 8,
+        "by": "sohkamyung",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍一款名为Cheese Paper的极简文本编辑器，专为纯粹的写作体验而设计。"
+      },
+      {
+        "id": 48338673,
+        "title": "Zig ELF Linker Improvements Devlog",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+        "domain": "ziglang.org",
+        "score": 172,
+        "descendants": 48,
+        "by": "kristoff_it",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Zig官方详细说明了ELF链接器的最新性能优化，旨在提升构建速度与工程效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "consumerrights.wiki",
+          "count": 1
+        },
+        {
+          "domain": "brethorsting.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 156,
+      "max_score": {
+        "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+        "score": 347
+      },
+      "most_discussed": {
+        "title": "Domain expertise has always been the real moat",
+        "comments": 177
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术生态的演变与商业动态，涵盖了微软永久授权软件功能的受限争议、Accenture的收购举动，以及领域专家在当前平台构建热潮中的核心壁垒地位。此外，开发者社区持续关注Zig语言的底层性能优化及嵌入式安全技术的创新进展。"
+  }
+}
