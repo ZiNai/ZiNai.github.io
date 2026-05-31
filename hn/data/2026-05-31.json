@@ -150,5 +150,143 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在技术生态的演变与商业动态，涵盖了微软永久授权软件功能的受限争议、Accenture的收购举动，以及领域专家在当前平台构建热潮中的核心壁垒地位。此外，开发者社区持续关注Zig语言的底层性能优化及嵌入式安全技术的创新进展。"
+  },
+  "noon": {
+    "time": "2026-05-31 15:37",
+    "stories": [
+      {
+        "id": 48343683,
+        "title": "The Website Specification",
+        "url": "https://specification.website/",
+        "domain": "specification.website",
+        "score": 29,
+        "descendants": 4,
+        "by": "k1m",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一份关于现代网站构建规范的详细技术规格说明。"
+      },
+      {
+        "id": 48340411,
+        "title": "Domain expertise has always been the real moat",
+        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "domain": "brethorsting.com",
+        "score": 510,
+        "descendants": 308,
+        "by": "aaronbrethorst",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨行业专业知识为何始终是商业竞争中不可逾越的核心壁垒。"
+      },
+      {
+        "id": 48318624,
+        "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+        "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+        "domain": "cryptography101.ca",
+        "score": 62,
+        "descendants": 1,
+        "by": "jayhoon",
+        "tags": [],
+        "summary": "一份深入浅出、面向初学者的基于格的密码学研究指南。"
+      },
+      {
+        "id": 48343078,
+        "title": "Ahoy, DECmate II the little PDP-8 that could",
+        "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+        "domain": "oldvcr.blogspot.com",
+        "score": 27,
+        "descendants": 1,
+        "by": "TMWNN",
+        "tags": [],
+        "summary": "对经典 DECmate II 型 PDP-8 计算机的硬件历史回顾与性能解析。"
+      },
+      {
+        "id": 48341062,
+        "title": "Shantell Sans (2023)",
+        "url": "https://shantellsans.com/process",
+        "domain": "shantellsans.com",
+        "score": 207,
+        "descendants": 16,
+        "by": "aleda145",
+        "tags": [],
+        "summary": "介绍一款兼具艺术感与功能性的创意开源字体项目。"
+      },
+      {
+        "id": 48343287,
+        "title": "A pictorial introduction to differential geometry (2017)",
+        "url": "https://arxiv.org/abs/1709.08492",
+        "domain": "arxiv.org",
+        "score": 12,
+        "descendants": 0,
+        "by": "ricudis",
+        "tags": [],
+        "summary": "通过可视化手段辅助理解微分几何概念的数学入门文章。"
+      },
+      {
+        "id": 48343424,
+        "title": "Avian Visitors",
+        "url": "https://theodore.net/projects/AvianVisitors/",
+        "domain": "theodore.net",
+        "score": 16,
+        "descendants": 0,
+        "by": "fdb",
+        "tags": [],
+        "summary": "分享关于鸟类观察及其生态行为的记录。"
+      },
+      {
+        "id": 48313952,
+        "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+        "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+        "domain": "journals.biologists.com",
+        "score": 24,
+        "descendants": 7,
+        "by": "croes",
+        "tags": [],
+        "summary": "研究表明蚊子可以通过关联学习改变对驱避剂 DEET 的感知倾向。"
+      },
+      {
+        "id": 48318402,
+        "title": "I found a seashell in the middle of the desert",
+        "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+        "domain": "github.com",
+        "score": 300,
+        "descendants": 76,
+        "by": "Hawzen",
+        "tags": [],
+        "summary": "作者在沙漠深处意外发现贝壳，由此引发的地理与历史思考。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "specification.website",
+          "count": 1
+        },
+        {
+          "domain": "brethorsting.com",
+          "count": 1
+        },
+        {
+          "domain": "cryptography101.ca",
+          "count": 1
+        }
+      ],
+      "avg_score": 132,
+      "max_score": {
+        "title": "Domain expertise has always been the real moat",
+        "score": 510
+      },
+      "most_discussed": {
+        "title": "Domain expertise has always been the real moat",
+        "comments": 308
+      },
+      "hot_tags": [
+        "Web",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News内容广泛，涵盖了技术底层的密码学研究、计算机硬件史回顾及字体设计等专业领域。同时，社区讨论关注点延伸至商业竞争中的核心壁垒论证以及跨学科的生物与地质趣味发现，体现了硬核科技与科普探索并重的趋势。"
   }
 }
