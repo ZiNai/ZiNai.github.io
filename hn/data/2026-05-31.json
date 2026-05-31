@@ -288,5 +288,160 @@
       ]
     },
     "summary": "本期Hacker News内容广泛，涵盖了技术底层的密码学研究、计算机硬件史回顾及字体设计等专业领域。同时，社区讨论关注点延伸至商业竞争中的核心壁垒论证以及跨学科的生物与地质趣味发现，体现了硬核科技与科普探索并重的趋势。"
+  },
+  "evening": {
+    "time": "2026-05-31 21:27",
+    "stories": [
+      {
+        "id": 48344961,
+        "title": "Dav2d",
+        "url": "https://jbkempf.com/blog/2026/dav2d/",
+        "domain": "jbkempf.com",
+        "score": 134,
+        "descendants": 33,
+        "by": "captain_bender",
+        "tags": [],
+        "summary": "关于 Dav2d 项目的开发动态与技术实现分享。"
+      },
+      {
+        "id": 48345090,
+        "title": "Backpressure is all you need",
+        "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+        "domain": "lucasfcosta.com",
+        "score": 25,
+        "descendants": 24,
+        "by": "lucasfcosta",
+        "tags": [],
+        "summary": "探讨在异步架构与系统性能优化中，背压（Backpressure）机制的核心地位与应用。"
+      },
+      {
+        "id": 48343683,
+        "title": "The Website Specification",
+        "url": "https://specification.website/",
+        "domain": "specification.website",
+        "score": 264,
+        "descendants": 103,
+        "by": "k1m",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一份关于现代网站构建的通用技术规范建议书，旨在提升 Web 开发的一致性。"
+      },
+      {
+        "id": 48343714,
+        "title": "London's Free Roof Terraces",
+        "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+        "domain": "diamondgeezer.blogspot.com",
+        "score": 143,
+        "descendants": 62,
+        "by": "zeristor",
+        "tags": [],
+        "summary": "盘点伦敦市内那些对公众免费开放的屋顶露台，提供独特的城市观景建议。"
+      },
+      {
+        "id": 48340411,
+        "title": "Domain expertise has always been the real moat",
+        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "domain": "brethorsting.com",
+        "score": 697,
+        "descendants": 405,
+        "by": "aaronbrethorst",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度剖析商业竞争中，领域专业知识（Domain Expertise）为何是企业最难被复制的护城河。"
+      },
+      {
+        "id": 48321089,
+        "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+        "url": "https://secret-archive.org/",
+        "domain": "secret-archive.org",
+        "score": 35,
+        "descendants": 2,
+        "by": "ColinWright",
+        "tags": [
+          "Security"
+        ],
+        "summary": "介绍安全信封（Security Envelope）模式的分类与实战应用合集。"
+      },
+      {
+        "id": 48313427,
+        "title": "What it's like to have your insulin pump die while you're on vacation",
+        "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+        "domain": "blog.lauramichet.com",
+        "score": 14,
+        "descendants": 6,
+        "by": "speckx",
+        "tags": [],
+        "summary": "作者分享在度假期间胰岛素泵故障的紧急经历，探讨依赖医疗技术的风险与应对。"
+      },
+      {
+        "id": 48341062,
+        "title": "Shantell Sans (2023)",
+        "url": "https://shantellsans.com/process",
+        "domain": "shantellsans.com",
+        "score": 300,
+        "descendants": 35,
+        "by": "aleda145",
+        "tags": [],
+        "summary": "介绍 Shantell Sans 这一充满个性与手绘风格的开源字体设计项目。"
+      },
+      {
+        "id": 48323303,
+        "title": "One year of Roto, a compiled scripting language for Rust",
+        "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+        "domain": "blog.nlnetlabs.nl",
+        "score": 63,
+        "descendants": 14,
+        "by": "Hasnep",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "回顾 Roto 语言开发一年的经验，这是一种专为 Rust 设计的编译型脚本语言。"
+      },
+      {
+        "id": 48343424,
+        "title": "Avian Visitors",
+        "url": "https://theodore.net/projects/AvianVisitors/",
+        "domain": "theodore.net",
+        "score": 73,
+        "descendants": 7,
+        "by": "fdb",
+        "tags": [],
+        "summary": "记录并观察访问花园的鸟类，提供关于自然观测的图文随笔。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jbkempf.com",
+          "count": 1
+        },
+        {
+          "domain": "lucasfcosta.com",
+          "count": 1
+        },
+        {
+          "domain": "specification.website",
+          "count": 1
+        }
+      ],
+      "avg_score": 175,
+      "max_score": {
+        "title": "Domain expertise has always been the real moat",
+        "score": 697
+      },
+      "most_discussed": {
+        "title": "Domain expertise has always been the real moat",
+        "comments": 405
+      },
+      "hot_tags": [
+        "Web",
+        "AI",
+        "Security",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点聚集于技术哲学与数字基础设施，涵盖了领域专家壁垒、高性能计算技术及软件规范探讨。同时，内容呈现出多元化的趋势，从城市生活指南到罕见的技术安全标准与艺术字体设计，展示了社区对专业深度与人文体验并重的偏好。"
   }
 }
