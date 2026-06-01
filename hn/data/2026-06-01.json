@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-06-01 10:31",
+    "stories": [
+      {
+        "id": 48345840,
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "domain": "hacktivis.me",
+        "score": 529,
+        "descendants": 296,
+        "by": "HypnoticOcelot",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Cloudflare的Turnstile验证技术被发现强制要求WebGL指纹，引发隐私泄露担忧。"
+      },
+      {
+        "id": 48351858,
+        "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
+        "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
+        "domain": "practicalengineering.management",
+        "score": 4,
+        "descendants": 1,
+        "by": "Alupis",
+        "tags": [],
+        "summary": "探讨从传统主从架构向对等（Leader-Leader）架构演进的管理与技术意义。"
+      },
+      {
+        "id": 48346257,
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "domain": "prismml.com",
+        "score": 295,
+        "descendants": 102,
+        "by": "modinfo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种名为1-Bit Bonsai的低内存占用AI图像生成模型，专为本地设备优化。"
+      },
+      {
+        "id": 48322984,
+        "title": "New Beam Spring Keyboards",
+        "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+        "domain": "modelfkeyboards.com",
+        "score": 64,
+        "descendants": 40,
+        "by": "recursivedoubts",
+        "tags": [],
+        "summary": "复刻经典Beam Spring键盘的新产品评测，探讨其独特的打字手感与历史地位。"
+      },
+      {
+        "id": 48350598,
+        "title": "Chuwi Minibook X: the netbook we deserve",
+        "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+        "domain": "tylercipriani.com",
+        "score": 99,
+        "descendants": 82,
+        "by": "thcipriani",
+        "tags": [],
+        "summary": "评测Chuwi Minibook X，认为其设计填补了现代轻便型上网本的市场空白。"
+      },
+      {
+        "id": 48346947,
+        "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+        "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+        "domain": "thesciverse.org",
+        "score": 492,
+        "descendants": 323,
+        "by": "MrJagil",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "最新研究显示肌酸补充剂有助于提升大脑能量水平并减缓认知能力下降。"
+      },
+      {
+        "id": 48344961,
+        "title": "Dav2d",
+        "url": "https://jbkempf.com/blog/2026/dav2d/",
+        "domain": "jbkempf.com",
+        "score": 401,
+        "descendants": 146,
+        "by": "captain_bender",
+        "tags": [],
+        "summary": "关于Dav2d项目的相关技术介绍及其在媒体格式领域的研究进展。"
+      },
+      {
+        "id": 48345248,
+        "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+        "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+        "domain": "simpleflying.com",
+        "score": 277,
+        "descendants": 432,
+        "by": "Eridanus2",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美联航航班因乘客蓝牙热点名称触发安全警报而紧急返航的事件复盘。"
+      },
+      {
+        "id": 48347354,
+        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+        "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+        "domain": "techcrunch.com",
+        "score": 127,
+        "descendants": 200,
+        "by": "tambourine_man",
+        "tags": [],
+        "summary": "Meta在多平台正式推出订阅服务，旨在通过付费模式为用户提供去广告或增值体验。"
+      },
+      {
+        "id": 48306225,
+        "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+        "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+        "domain": "computerenhance.com",
+        "score": 79,
+        "descendants": 32,
+        "by": "tosh",
+        "tags": [],
+        "summary": "回顾并解析1994年微软实习生面试的四道经典编程题，考察基础算法能力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hacktivis.me",
+          "count": 1
+        },
+        {
+          "domain": "practicalengineering.management",
+          "count": 1
+        },
+        {
+          "domain": "prismml.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 237,
+      "max_score": {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "score": 529
+      },
+      "most_discussed": {
+        "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+        "comments": 432
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News关注点集中在技术伦理、前沿AI应用与软硬件评测上。用户对于隐私追踪技术的演进、生成式AI的轻量化趋势，以及科学研究对认知健康的分析表现出高度兴趣。"
+  }
+}
