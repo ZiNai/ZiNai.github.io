@@ -153,5 +153,161 @@
       ]
     },
     "summary": "本期Hacker News关注点集中在技术伦理、前沿AI应用与软硬件评测上。用户对于隐私追踪技术的演进、生成式AI的轻量化趋势，以及科学研究对认知健康的分析表现出高度兴趣。"
+  },
+  "evening": {
+    "time": "2026-06-01 17:09",
+    "stories": [
+      {
+        "id": 48353348,
+        "title": "A 10 year old Xeon is all you need (for 26B-A4B MTP Drafters without GPU)",
+        "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+        "domain": "point.free",
+        "score": 42,
+        "descendants": 17,
+        "by": "cafkafk",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨如何利用十年历史的Xeon服务器在无GPU环境下高效运行26B参数规模的MTP模型。"
+      },
+      {
+        "id": 48350598,
+        "title": "Chuwi Minibook X",
+        "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+        "domain": "tylercipriani.com",
+        "score": 267,
+        "descendants": 196,
+        "by": "thcipriani",
+        "tags": [],
+        "summary": "对Chuwi Minibook X迷你笔记本电脑的深入评测与用户体验分享。"
+      },
+      {
+        "id": 48345840,
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "domain": "hacktivis.me",
+        "score": 661,
+        "descendants": 359,
+        "by": "HypnoticOcelot",
+        "tags": [
+          "Web"
+        ],
+        "summary": "批评Cloudflare Turnstile验证机制强制要求WebGL指纹识别引发的隐私及合规争议。"
+      },
+      {
+        "id": 48353427,
+        "title": "Rift: Better Alternative to Git Worktrees",
+        "url": "https://github.com/anomalyco/rift",
+        "domain": "github.com",
+        "score": 17,
+        "descendants": 2,
+        "by": "f4n4tiX",
+        "tags": [],
+        "summary": "介绍Rift工具，旨在提供比标准Git Worktrees更高效的代码仓库管理方案。"
+      },
+      {
+        "id": 48353965,
+        "title": "Meta legal action forces Facebook whistleblower to sit in silence",
+        "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+        "domain": "theguardian.com",
+        "score": 31,
+        "descendants": 5,
+        "by": "beardyw",
+        "tags": [],
+        "summary": "报道Meta利用法律手段限制Facebook内部举报人公开发声的争议事件。"
+      },
+      {
+        "id": 48327453,
+        "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+        "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+        "domain": "fisheries.noaa.gov",
+        "score": 115,
+        "descendants": 14,
+        "by": "rawgabbit",
+        "tags": [],
+        "summary": "讲述通过数十年努力成功恢复Alameda Creek河流生态，使虹鳟和鲑鱼回归的环保成果。"
+      },
+      {
+        "id": 48352500,
+        "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+        "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+        "domain": "quantamagazine.org",
+        "score": 25,
+        "descendants": 4,
+        "by": "adm4",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Rubin天文台如何利用先进观测技术追踪近地巨型小行星并识别超新星爆发。"
+      },
+      {
+        "id": 48346257,
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "domain": "prismml.com",
+        "score": 382,
+        "descendants": 146,
+        "by": "modinfo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种用于本地设备的1-bit Bonsai图像生成技术，旨在降低模型算力需求。"
+      },
+      {
+        "id": 48349487,
+        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "domain": "promptarmor.com",
+        "score": 208,
+        "descendants": 58,
+        "by": "hackerBanana",
+        "tags": [
+          "AI"
+        ],
+        "summary": "安全研究发现某ChatGPT谷歌表格插件存在数据泄露风险，会向外部服务器上传工作簿内容。"
+      },
+      {
+        "id": 48314719,
+        "title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket",
+        "url": "https://www.chiply.dev/post-ij-sierpinski",
+        "domain": "chiply.dev",
+        "score": 16,
+        "descendants": 8,
+        "by": "chiply",
+        "tags": [],
+        "summary": "通过数学与编程视角解析《无尽的玩笑》中谢尔宾斯基三角形的两种绘制方法。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "point.free",
+          "count": 1
+        },
+        {
+          "domain": "tylercipriani.com",
+          "count": 1
+        },
+        {
+          "domain": "hacktivis.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 176,
+      "max_score": {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "score": 661
+      },
+      "most_discussed": {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "comments": 359
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在硬件性能优化与软件安全隐私领域，既有关于利用老旧设备运行AI模型的硬件实测，也有针对网络隐私保护与SaaS插件数据安全泄露的技术警示。此外，科学发现与社区开源工具的进展也占据了重要版面。"
   }
 }
