@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-06-02 01:29",
+    "stories": [
+      {
+        "id": 48359102,
+        "title": "The newest Instagram “exploit” is the goofiest I've seen",
+        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+        "domain": "0xsid.com",
+        "score": 241,
+        "descendants": 47,
+        "by": "ssiddharth",
+        "tags": [],
+        "summary": "深入解析Instagram目前最离谱的一种漏洞利用方式。"
+      },
+      {
+        "id": 48359232,
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "domain": "github.com",
+        "score": 44,
+        "descendants": 19,
+        "by": "prakashqwerty",
+        "tags": [
+          "AI"
+        ],
+        "summary": "斯坦福CS336课程发布关于AI Agent开发设计的核心指导原则。"
+      },
+      {
+        "id": 48357905,
+        "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+        "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+        "domain": "quantamagazine.org",
+        "score": 88,
+        "descendants": 11,
+        "by": "speckx",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探索在灭菌土壤环境中，生命生化过程如何持续演化的科学发现。"
+      },
+      {
+        "id": 48357075,
+        "title": "CS336: Language Modeling from Scratch",
+        "url": "https://cs336.stanford.edu/",
+        "domain": "cs336.stanford.edu",
+        "score": 155,
+        "descendants": 15,
+        "by": "kristianpaul",
+        "tags": [
+          "AI"
+        ],
+        "summary": "斯坦福CS336课程资源，指导如何从零开始构建语言模型。"
+      },
+      {
+        "id": 48356625,
+        "title": "Malicious npm packages detected across Red Hat Cloud Services",
+        "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+        "domain": "github.com",
+        "score": 620,
+        "descendants": 326,
+        "by": "kurmiashish",
+        "tags": [],
+        "summary": "Red Hat云服务检测到大量恶意npm包，引发软件供应链安全警示。"
+      },
+      {
+        "id": 48356490,
+        "title": "Flipper Zero Zig Template",
+        "url": "https://github.com/NishantJoshi00/flipper-template",
+        "domain": "github.com",
+        "score": 81,
+        "descendants": 3,
+        "by": "Nars088",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "为Flipper Zero提供的Zig语言开发模板，助力固件开发。"
+      },
+      {
+        "id": 48356603,
+        "title": "Windows GOG DOS Games on M-Series Macs",
+        "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+        "domain": "f055.net",
+        "score": 75,
+        "descendants": 49,
+        "by": "f055",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨如何在苹果M系列芯片Mac电脑上运行GOG平台的经典DOS游戏。"
+      },
+      {
+        "id": 48312443,
+        "title": "I made my phone slow on purpose",
+        "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+        "domain": "vinewallapp.com",
+        "score": 58,
+        "descendants": 50,
+        "by": "gcampos",
+        "tags": [],
+        "summary": "开发者分享主动降低手机运行速度以提升专注力的实验心得。"
+      },
+      {
+        "id": 48357154,
+        "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+        "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+        "domain": "torrentfreak.com",
+        "score": 267,
+        "descendants": 111,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾The Pirate Bay在遭受突袭二十年后依然保持韧性的历程。"
+      },
+      {
+        "id": 48357725,
+        "title": "Ask HN: Who is hiring? (June 2026)",
+        "url": "https://news.ycombinator.com/item?id=48357725",
+        "domain": "news.ycombinator.com",
+        "score": 57,
+        "descendants": 86,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News每月的固定招聘帖，汇集了各大公司的人才需求。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "0xsid.com",
+          "count": 1
+        },
+        {
+          "domain": "quantamagazine.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 169,
+      "max_score": {
+        "title": "Malicious npm packages detected across Red Hat Cloud Services",
+        "score": 620
+      },
+      "most_discussed": {
+        "title": "Malicious npm packages detected across Red Hat Cloud Services",
+        "comments": 326
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science",
+        "Ask HN"
+      ]
+    },
+    "summary": "今日Hacker News重点关注安全漏洞与AI教育，包括Red Hat云服务面临的npm恶意包威胁及斯坦福大学的AI前沿课程发布。此外，社区对数字版权抗争、怀旧科技兼容性及个人数字化体验的讨论同样引发广泛关注。"
+  }
+}
