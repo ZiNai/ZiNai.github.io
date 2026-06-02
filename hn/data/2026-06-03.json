@@ -1,0 +1,151 @@
+{
+  "morning": {
+    "time": "2026-06-03 00:14",
+    "stories": [
+      {
+        "id": 48369980,
+        "title": "A walking tour of surveillance infrastructure in Seattle",
+        "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+        "domain": "coveillance.org",
+        "score": 99,
+        "descendants": 27,
+        "by": "eustoria",
+        "tags": [],
+        "summary": "作者通过西雅图的实地调研，展示了城市中隐藏的各种监控基础设施分布。"
+      },
+      {
+        "id": 48370291,
+        "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+        "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+        "domain": "fidonet.org",
+        "score": 68,
+        "descendants": 13,
+        "by": "BruceEel",
+        "tags": [],
+        "summary": "回顾Fidonet的历史及其在互联网普及前夕扮演的全球通信网络角色。"
+      },
+      {
+        "id": 48368121,
+        "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+        "url": "https://blog.adafruit.com/",
+        "domain": "blog.adafruit.com",
+        "score": 400,
+        "descendants": 146,
+        "by": "semanser",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Adafruit公开了来自Flux.ai律师的索赔信，引发关于知识产权保护与社区开源精神的激烈讨论。"
+      },
+      {
+        "id": 48370588,
+        "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+        "url": "https://blog.davidedmundson.co.uk/blog/596/",
+        "domain": "blog.davidedmundson.co.uk",
+        "score": 47,
+        "descendants": 39,
+        "by": "jandeboevrie",
+        "tags": [],
+        "summary": "探讨KDE Plasma结束对X11支持的最后准备工作及其对Linux桌面的影响。"
+      },
+      {
+        "id": 48367907,
+        "title": "Why Janet? (2023)",
+        "url": "https://ianthehenry.com/posts/why-janet/",
+        "domain": "ianthehenry.com",
+        "score": 320,
+        "descendants": 153,
+        "by": "yacin",
+        "tags": [],
+        "summary": "深入解析为何Janet语言因其独特的设计哲学与简洁性成为特定开发场景的理想选择。"
+      },
+      {
+        "id": 48369088,
+        "title": "Apple rejected my dictation app for using the accessibility API",
+        "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+        "domain": "mitmllc.com",
+        "score": 209,
+        "descendants": 124,
+        "by": "RZelaya",
+        "tags": [],
+        "summary": "开发者披露其听写应用因调用无障碍API而被苹果App Store下架的经历。"
+      },
+      {
+        "id": 48367904,
+        "title": "You Don't Love Systemd Timers Enough",
+        "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+        "domain": "blog.tjll.net",
+        "score": 187,
+        "descendants": 112,
+        "by": "yacin",
+        "tags": [],
+        "summary": "详细阐述为何Systemd Timers是比传统Cron更优雅、更现代的任务调度方案。"
+      },
+      {
+        "id": 48359102,
+        "title": "The newest Instagram “exploit” is the goofiest I've seen",
+        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+        "domain": "0xsid.com",
+        "score": 2048,
+        "descendants": 451,
+        "by": "ssiddharth",
+        "tags": [],
+        "summary": "分析了Instagram平台出现的最新漏洞，其利用方式因简单粗暴而引发广泛关注。"
+      },
+      {
+        "id": 48368291,
+        "title": "CSS-Native Parallax Effect",
+        "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+        "domain": "dan-webnotes.com",
+        "score": 89,
+        "descendants": 43,
+        "by": "dandep",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍仅使用CSS属性实现视差滚动效果的轻量级技术方案。"
+      },
+      {
+        "id": 48325668,
+        "title": "Reviving Teletext for Ham Radio",
+        "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
+        "domain": "spectrum.ieee.org",
+        "score": 24,
+        "descendants": 6,
+        "by": "yarapavan",
+        "tags": [],
+        "summary": "探讨如何通过业余无线电技术复兴古老的电视图文广播系统（Teletext）。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "coveillance.org",
+          "count": 1
+        },
+        {
+          "domain": "fidonet.org",
+          "count": 1
+        },
+        {
+          "domain": "blog.adafruit.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 349,
+      "max_score": {
+        "title": "The newest Instagram “exploit” is the goofiest I've seen",
+        "score": 2048
+      },
+      "most_discussed": {
+        "title": "The newest Instagram “exploit” is the goofiest I've seen",
+        "comments": 451
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News热门讨论聚焦于技术社区的维权与规范争议，如Adafruit面临的法律诉讼及苹果对无障碍接口的限制。此外，技术圈回顾了如Fidonet等怀旧协议，并深入探讨了Systemd定时器、CSS原生交互及桌面环境向Wayland演进等技术实操话题。"
+  }
+}
