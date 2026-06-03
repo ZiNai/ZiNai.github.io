@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-06-04 00:39",
+    "stories": [
+      {
+        "id": 48384482,
+        "title": "DaVinci Resolve 21",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+        "domain": "blackmagicdesign.com",
+        "score": 162,
+        "descendants": 80,
+        "by": "pentagrama",
+        "tags": [],
+        "summary": "DaVinci Resolve 21 正式发布，带来视频剪辑与后期制作的功能更新。"
+      },
+      {
+        "id": 48385906,
+        "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+        "domain": "blog.google",
+        "score": 54,
+        "descendants": 12,
+        "by": "rvz",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌推出 Gemma 4 12B，这是一个无需编码器的统一多模态模型。"
+      },
+      {
+        "id": 48382310,
+        "title": "Hacking your PC using your speaker without ever touching it",
+        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+        "domain": "blog.nns.ee",
+        "score": 450,
+        "descendants": 76,
+        "by": "xx_ns",
+        "tags": [
+          "Security"
+        ],
+        "summary": "研究展示了一种通过控制 PC 扬声器进行非接触式硬件攻击的技术方案。"
+      },
+      {
+        "id": 48385114,
+        "title": "A Post-Quantum Future for Let's Encrypt",
+        "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+        "domain": "letsencrypt.org",
+        "score": 67,
+        "descendants": 22,
+        "by": "SGran",
+        "tags": [
+          "Security",
+          "Science"
+        ],
+        "summary": "Let's Encrypt 探讨并规划其在后量子密码学时代的加密基础设施建设。"
+      },
+      {
+        "id": 48385965,
+        "title": "ESP32-S31",
+        "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+        "domain": "espressif.com",
+        "score": 23,
+        "descendants": 3,
+        "by": "volemo",
+        "tags": [],
+        "summary": "乐鑫科技发布新款 ESP32-S31 微控制器，进一步扩展其物联网芯片产品线。"
+      },
+      {
+        "id": 48383220,
+        "title": "Meta workers can opt out of being tracked at work up to 30 min",
+        "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+        "domain": "bbc.com",
+        "score": 394,
+        "descendants": 348,
+        "by": "reconnecting",
+        "tags": [],
+        "summary": "Meta 员工获准每天有 30 分钟时间可选择关闭办公场所内的追踪监控。"
+      },
+      {
+        "id": 48382382,
+        "title": "Every Byte Matters",
+        "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+        "domain": "fzakaria.com",
+        "score": 177,
+        "descendants": 78,
+        "by": "ingve",
+        "tags": [],
+        "summary": "探讨在计算资源受限环境下，每一字节的优化对系统性能产生的重要意义。"
+      },
+      {
+        "id": 48358643,
+        "title": "Are You Enjoying Our Linguine? (2025)",
+        "url": "https://www.thedial.world/articles/news/american-tourists-rome",
+        "domain": "thedial.world",
+        "score": 15,
+        "descendants": 1,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "一篇关于意大利面饮食文化与生活品质的深度人文随笔。"
+      },
+      {
+        "id": 48382142,
+        "title": "PlayStation Architecture",
+        "url": "https://www.copetti.org/writings/consoles/playstation/",
+        "domain": "copetti.org",
+        "score": 150,
+        "descendants": 25,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "详尽解析 PlayStation 游戏主机的底层硬件架构与设计哲学。"
+      },
+      {
+        "id": 48371562,
+        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+        "url": "https://blog.ammaraskar.com/github-token-stealing/",
+        "domain": "blog.ammaraskar.com",
+        "score": 584,
+        "descendants": 87,
+        "by": "ammar2",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "揭露一个通过 VSCode 漏洞实现一键窃取 GitHub 访问令牌的安全风险。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blackmagicdesign.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "blog.nns.ee",
+          "count": 1
+        }
+      ],
+      "avg_score": 208,
+      "max_score": {
+        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+        "score": 584
+      },
+      "most_discussed": {
+        "title": "Meta workers can opt out of being tracked at work up to 30 min",
+        "comments": 348
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Science",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在网络安全与漏洞披露，包括 VSCode 令牌窃取及通过音频侧信道入侵 PC 等技术讨论。此外，AI 模型发布、开发工具更新以及企业员工隐私监管也是社区关注的核心议题。"
+  }
+}
