@@ -156,5 +156,172 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于技术实战与深度思考，用户对大模型在专业领域的表现及隐私掌控权表现出高度关注。同时，诸如 GPU 硬件利用、编程语言体验及社会工程学视角的深度分析也引发了社区的广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-06-03 16:45",
+    "stories": [
+      {
+        "id": 48371562,
+        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+        "url": "https://blog.ammaraskar.com/github-token-stealing/",
+        "domain": "blog.ammaraskar.com",
+        "score": 358,
+        "descendants": 55,
+        "by": "ammar2",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "利用VSCode漏洞实现一键窃取GitHub Token的攻击原理分析。"
+      },
+      {
+        "id": 48344327,
+        "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+        "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+        "domain": "github.com",
+        "score": 73,
+        "descendants": 16,
+        "by": "s-macke",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "开发者通过逆向工程复刻1990年DOS游戏《Test Drive III》世界地图的技术过程。"
+      },
+      {
+        "id": 48377404,
+        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+        "url": "https://github.com/c0dejedi/nbd-vram",
+        "domain": "github.com",
+        "score": 286,
+        "descendants": 77,
+        "by": "tanelpoder",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Science"
+        ],
+        "summary": "教程：如何在Linux环境下配置将Nvidia GPU的显存作为交换空间使用。"
+      },
+      {
+        "id": 48374466,
+        "title": "MAI-Code-1-Flash",
+        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+        "domain": "microsoft.ai",
+        "score": 460,
+        "descendants": 206,
+        "by": "EvanZhouDev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软发布MAI-Code-1-Flash模型，旨在优化代码生成效率。"
+      },
+      {
+        "id": 48379669,
+        "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+        "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+        "domain": "research.ligo.bio",
+        "score": 83,
+        "descendants": 17,
+        "by": "ray__",
+        "tags": [],
+        "summary": "探讨自然界中蛋白质折叠的冗余性及其对生物结构演化的意义。"
+      },
+      {
+        "id": 48377761,
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "domain": "law.stanford.edu",
+        "score": 214,
+        "descendants": 170,
+        "by": "berlianta",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "斯坦福大学研究表明，AI在处理法律任务时的表现已超越法学教授。"
+      },
+      {
+        "id": 48380987,
+        "title": "AI Engineers aren't safe from being replaced by AI",
+        "url": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
+        "domain": "dmanco.dev",
+        "score": 11,
+        "descendants": 9,
+        "by": "Doch88",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48375824,
+        "title": "CT scans of BYD car parts",
+        "url": "https://www.lumafield.com/scan-of-the-month/byd",
+        "domain": "lumafield.com",
+        "score": 370,
+        "descendants": 190,
+        "by": "viasfo",
+        "tags": [],
+        "summary": "通过CT扫描技术深入剖析比亚迪汽车零部件的制造工艺与结构。"
+      },
+      {
+        "id": 48380516,
+        "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+        "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+        "domain": "science.org",
+        "score": 21,
+        "descendants": 18,
+        "by": "igortru",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "微软持续投入量子计算领域，但其相关的技术声明正面临学术界的争议与审视。"
+      },
+      {
+        "id": 48381211,
+        "title": "Life and work is not meant to be spent in isolation",
+        "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+        "domain": "46elks.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "jlundberg",
+        "tags": [],
+        "summary": "探讨现代职业生活中的孤独感问题，呼吁打破封闭的工作状态。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "blog.ammaraskar.com",
+          "count": 1
+        },
+        {
+          "domain": "microsoft.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 188,
+      "max_score": {
+        "title": "MAI-Code-1-Flash",
+        "score": 460
+      },
+      "most_discussed": {
+        "title": "MAI-Code-1-Flash",
+        "comments": 206
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Open Source",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中于AI技术的深度应用与挑战，涵盖了法律评估、工程岗位危机及算力优化等前沿话题。同时，硬核技术实践与网络安全风险分析（如VSCode令牌窃取及BYD车辆逆向工程）引发了社区的广泛探讨，折射出开发者对系统安全与底层技术的高度关注。"
   }
 }
