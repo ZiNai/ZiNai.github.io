@@ -1,151 +1,160 @@
 {
   "morning": {
-    "time": "2026-06-03 00:14",
+    "time": "2026-06-03 10:36",
     "stories": [
       {
-        "id": 48369980,
-        "title": "A walking tour of surveillance infrastructure in Seattle",
-        "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-        "domain": "coveillance.org",
-        "score": 99,
-        "descendants": 27,
-        "by": "eustoria",
+        "id": 48378099,
+        "title": "I Don't Want My Search Engine to Think for Me",
+        "url": "https://searchzee.com/blog/search-without-ai-summaries",
+        "domain": "searchzee.com",
+        "score": 56,
+        "descendants": 49,
+        "by": "rajkverma123",
         "tags": [],
-        "summary": "作者通过西雅图的实地调研，展示了城市中隐藏的各种监控基础设施分布。"
+        "summary": "作者表达了对搜索引擎通过 AI 主动“思考”结果的抵触，主张保留原始搜索的客观检索权。"
       },
       {
-        "id": 48370291,
-        "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-        "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-        "domain": "fidonet.org",
-        "score": 68,
-        "descendants": 13,
-        "by": "BruceEel",
-        "tags": [],
-        "summary": "回顾Fidonet的历史及其在互联网普及前夕扮演的全球通信网络角色。"
+        "id": 48377404,
+        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+        "url": "https://github.com/c0dejedi/nbd-vram",
+        "domain": "github.com",
+        "score": 144,
+        "descendants": 43,
+        "by": "tanelpoder",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Science"
+        ],
+        "summary": "介绍了一项利用 Linux 环境将 Nvidia 显存配置为交换内存的实用技术指南。"
       },
       {
-        "id": 48368121,
-        "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-        "url": "https://blog.adafruit.com/",
-        "domain": "blog.adafruit.com",
-        "score": 400,
-        "descendants": 146,
-        "by": "semanser",
+        "id": 48374466,
+        "title": "MAI-Code-1-Flash",
+        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+        "domain": "microsoft.ai",
+        "score": 396,
+        "descendants": 178,
+        "by": "EvanZhouDev",
         "tags": [
           "AI"
         ],
-        "summary": "Adafruit公开了来自Flux.ai律师的索赔信，引发关于知识产权保护与社区开源精神的激烈讨论。"
+        "summary": "微软展示了最新的 MAI-Code-1-Flash 大模型技术细节与性能指标。"
       },
       {
-        "id": 48370588,
-        "title": "Preparing for KDE Plasma's Last X11-Supported Release",
-        "url": "https://blog.davidedmundson.co.uk/blog/596/",
-        "domain": "blog.davidedmundson.co.uk",
-        "score": 47,
-        "descendants": 39,
-        "by": "jandeboevrie",
+        "id": 48375824,
+        "title": "CT scans of BYD car parts",
+        "url": "https://www.lumafield.com/scan-of-the-month/byd",
+        "domain": "lumafield.com",
+        "score": 241,
+        "descendants": 92,
+        "by": "viasfo",
         "tags": [],
-        "summary": "探讨KDE Plasma结束对X11支持的最后准备工作及其对Linux桌面的影响。"
+        "summary": "通过 CT 扫描技术对比亚迪汽车零部件进行工业级拆解与质量分析报告。"
       },
       {
-        "id": 48367907,
-        "title": "Why Janet? (2023)",
-        "url": "https://ianthehenry.com/posts/why-janet/",
-        "domain": "ianthehenry.com",
-        "score": 320,
-        "descendants": 153,
-        "by": "yacin",
+        "id": 48356754,
+        "title": "Are blue zones real? Answering that question is harder then ever",
+        "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+        "domain": "statnews.com",
+        "score": 28,
+        "descendants": 15,
+        "by": "mfld",
         "tags": [],
-        "summary": "深入解析为何Janet语言因其独特的设计哲学与简洁性成为特定开发场景的理想选择。"
+        "summary": "探讨“蓝色长寿区”概念的真实性及其在数据验证上面临的巨大科学争议。"
       },
       {
-        "id": 48369088,
-        "title": "Apple rejected my dictation app for using the accessibility API",
-        "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-        "domain": "mitmllc.com",
-        "score": 209,
-        "descendants": 124,
-        "by": "RZelaya",
-        "tags": [],
-        "summary": "开发者披露其听写应用因调用无障碍API而被苹果App Store下架的经历。"
-      },
-      {
-        "id": 48367904,
-        "title": "You Don't Love Systemd Timers Enough",
-        "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-        "domain": "blog.tjll.net",
-        "score": 187,
-        "descendants": 112,
-        "by": "yacin",
-        "tags": [],
-        "summary": "详细阐述为何Systemd Timers是比传统Cron更优雅、更现代的任务调度方案。"
-      },
-      {
-        "id": 48359102,
-        "title": "The newest Instagram “exploit” is the goofiest I've seen",
-        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-        "domain": "0xsid.com",
-        "score": 2048,
-        "descendants": 451,
-        "by": "ssiddharth",
-        "tags": [],
-        "summary": "分析了Instagram平台出现的最新漏洞，其利用方式因简单粗暴而引发广泛关注。"
-      },
-      {
-        "id": 48368291,
-        "title": "CSS-Native Parallax Effect",
-        "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-        "domain": "dan-webnotes.com",
-        "score": 89,
-        "descendants": 43,
-        "by": "dandep",
+        "id": 48375016,
+        "title": "Gmail thinks I'm stupid, so I left",
+        "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+        "domain": "moddedbear.com",
+        "score": 646,
+        "descendants": 400,
+        "by": "speckx",
         "tags": [
-          "Web"
+          "AI"
         ],
-        "summary": "介绍仅使用CSS属性实现视差滚动效果的轻量级技术方案。"
+        "summary": "作者因不满 Gmail 的自动化行为与其产生的智能判断失误，决定弃用并更换邮件服务。"
       },
       {
-        "id": 48325668,
-        "title": "Reviving Teletext for Ham Radio",
-        "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-        "domain": "spectrum.ieee.org",
-        "score": 24,
-        "descendants": 6,
-        "by": "yarapavan",
+        "id": 48375393,
+        "title": "My thoughts after using Clojure for about a month",
+        "url": "https://www.acdw.net/clojure/",
+        "domain": "acdw.net",
+        "score": 115,
+        "descendants": 71,
+        "by": "speckx",
         "tags": [],
-        "summary": "探讨如何通过业余无线电技术复兴古老的电视图文广播系统（Teletext）。"
+        "summary": "分享开发者在经历一个月 Clojure 编程实践后的心得与真实学习曲线评价。"
+      },
+      {
+        "id": 48377761,
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "domain": "law.stanford.edu",
+        "score": 104,
+        "descendants": 101,
+        "by": "berlianta",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "斯坦福大学研究指出，AI 在法律实务分析中的表现已超过人类法学教授。"
+      },
+      {
+        "id": 48377140,
+        "title": "4K years ago, Mohenjo-daro grew more equal over time",
+        "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+        "domain": "archaeologymag.com",
+        "score": 47,
+        "descendants": 23,
+        "by": "marojejian",
+        "tags": [],
+        "summary": "考古分析显示，4000 年前的摩亨佐-达罗文明在发展过程中社会平等程度呈现上升趋势。"
+      },
+      {
+        "id": 48369980,
+        "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+        "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+        "domain": "coveillance.org",
+        "score": 378,
+        "descendants": 251,
+        "by": "eustoria",
+        "tags": [],
+        "summary": "重温 2020 年的西雅图调查，通过城市徒步考察揭露随处可见的监视基础设施。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "coveillance.org",
+          "domain": "searchzee.com",
           "count": 1
         },
         {
-          "domain": "fidonet.org",
+          "domain": "github.com",
           "count": 1
         },
         {
-          "domain": "blog.adafruit.com",
+          "domain": "microsoft.ai",
           "count": 1
         }
       ],
-      "avg_score": 349,
+      "avg_score": 216,
       "max_score": {
-        "title": "The newest Instagram “exploit” is the goofiest I've seen",
-        "score": 2048
+        "title": "Gmail thinks I'm stupid, so I left",
+        "score": 646
       },
       "most_discussed": {
-        "title": "The newest Instagram “exploit” is the goofiest I've seen",
-        "comments": 451
+        "title": "Gmail thinks I'm stupid, so I left",
+        "comments": 400
       },
       "hot_tags": [
         "AI",
-        "Web"
+        "Science",
+        "Systems",
+        "Hardware"
       ]
     },
-    "summary": "本期Hacker News热门讨论聚焦于技术社区的维权与规范争议，如Adafruit面临的法律诉讼及苹果对无障碍接口的限制。此外，技术圈回顾了如Fidonet等怀旧协议，并深入探讨了Systemd定时器、CSS原生交互及桌面环境向Wayland演进等技术实操话题。"
+    "summary": "本期 Hacker News 焦点集中于技术实战与深度思考，用户对大模型在专业领域的表现及隐私掌控权表现出高度关注。同时，诸如 GPU 硬件利用、编程语言体验及社会工程学视角的深度分析也引发了社区的广泛讨论。"
   }
 }
