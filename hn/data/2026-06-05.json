@@ -162,5 +162,168 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于人工智能领域的前沿进展，涵盖了从模型架构研究、AI赋能代码分析与漏洞发现到递归自我改进的深度讨论。此外，基础技术设施的并购动态以及硬核工程实践（如算法优化与开源驱动开发）同样吸引了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-06-05 15:58",
+    "stories": [
+      {
+        "id": 48408016,
+        "title": "C++: The Documentary",
+        "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+        "domain": "herbsutter.com",
+        "score": 91,
+        "descendants": 17,
+        "by": "ingve",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过纪录片回顾C++语言的历史发展及其深远的技术影响力。"
+      },
+      {
+        "id": 48406640,
+        "title": "Meta enables ADB on deprecated Portal devices [video]",
+        "url": "https://fb.watch/HxPu0fSyeH/",
+        "domain": "fb.watch",
+        "score": 203,
+        "descendants": 64,
+        "by": "jenders",
+        "tags": [],
+        "summary": "Meta为已弃用的Portal设备开放ADB访问权限，允许用户进行更多底层调试。"
+      },
+      {
+        "id": 48408442,
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "domain": "passo.uno",
+        "score": 33,
+        "descendants": 8,
+        "by": "taubek",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何通过微调大语言模型，使其生成的文档呈现出90年代独特的怀旧风格。"
+      },
+      {
+        "id": 48403980,
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "domain": "github.com",
+        "score": 395,
+        "descendants": 113,
+        "by": "binyu",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "Anthropic发布了一款旨在自动化发现代码漏洞的开源AI框架。"
+      },
+      {
+        "id": 48408067,
+        "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+        "url": "https://isupmap.com/",
+        "domain": "isupmap.com",
+        "score": 24,
+        "descendants": 11,
+        "by": "mikelgan",
+        "tags": [],
+        "summary": "介绍一款能同时监测上百个主流网站可用性状态的在线仪表盘工具。"
+      },
+      {
+        "id": 48406358,
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "domain": "github.com",
+        "score": 161,
+        "descendants": 36,
+        "by": "geoffbp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款集成AI的代码审查CLI工具，旨在提升开发者审核代码的效率。"
+      },
+      {
+        "id": 48405931,
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "domain": "arxiv.org",
+        "score": 155,
+        "descendants": 31,
+        "by": "Anon84",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "研究报告探讨了Transformer架构中QKV投影机制的必要性及其变体性能表现。"
+      },
+      {
+        "id": 48407499,
+        "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+        "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+        "domain": "boxofcables.dev",
+        "score": 101,
+        "descendants": 72,
+        "by": "haydenbarnes",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Azure Linux 4.0作为微软首个通用Linux发行版正式发布，标志着其操作系统战略的扩展。"
+      },
+      {
+        "id": 48376008,
+        "title": "I'm skeptical about efforts to revolutionize schooling",
+        "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+        "domain": "scotthyoung.com",
+        "score": 157,
+        "descendants": 232,
+        "by": "andrewstuart",
+        "tags": [],
+        "summary": "作者对当前通过技术手段彻底颠覆教育体系的激进尝试表示怀疑。"
+      },
+      {
+        "id": 48374049,
+        "title": "Watching a Z80 from an RP2350",
+        "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+        "domain": "emalliab.wordpress.com",
+        "score": 12,
+        "descendants": 0,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "展示如何利用树莓派RP2350芯片对古老的Z80处理器进行实时监控与分析。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "herbsutter.com",
+          "count": 1
+        },
+        {
+          "domain": "fb.watch",
+          "count": 1
+        }
+      ],
+      "avg_score": 133,
+      "max_score": {
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "score": 395
+      },
+      "most_discussed": {
+        "title": "I'm skeptical about efforts to revolutionize schooling",
+        "comments": 232
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术应用与基础设施演进，涵盖了漏洞发现、大模型研究及代码分析工具的深度探索。同时，开源框架、系统级软件更新以及怀旧技术开发也受到社区广泛关注。"
   }
 }
