@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-06-05 10:06",
+    "stories": [
+      {
+        "id": 48406640,
+        "title": "Meta enables adb on deprecated Portal devices",
+        "url": "https://fb.watch/HxPu0fSyeH/",
+        "domain": "fb.watch",
+        "score": 52,
+        "descendants": 12,
+        "by": "jenders",
+        "tags": [],
+        "summary": "Meta为已过时的Portal设备启用了ADB调试功能，方便开发者进行二次利用。"
+      },
+      {
+        "id": 48405931,
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "domain": "arxiv.org",
+        "score": 95,
+        "descendants": 13,
+        "by": "Anon84",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "一项系统性研究探讨了Transformer模型中QKV三投影结构的必要性及潜在的变体改进。"
+      },
+      {
+        "id": 48403980,
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "domain": "github.com",
+        "score": 272,
+        "descendants": 94,
+        "by": "binyu",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "Anthropic开源了一套旨在利用AI自动化发现软件漏洞的框架。"
+      },
+      {
+        "id": 48406358,
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "domain": "github.com",
+        "score": 38,
+        "descendants": 6,
+        "by": "geoffbp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款基于AI驱动的命令行工具，旨在辅助开发者进行更高效的代码审查。"
+      },
+      {
+        "id": 48398055,
+        "title": "VoidZero Is Joining Cloudflare",
+        "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+        "domain": "blog.cloudflare.com",
+        "score": 577,
+        "descendants": 258,
+        "by": "coloneltcb",
+        "tags": [],
+        "summary": "前端工具链公司VoidZero被Cloudflare收购，旨在加速Web开发生态的现代化。"
+      },
+      {
+        "id": 48368338,
+        "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+        "url": "https://github.com/tarpediem/zenvision-linux",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 2,
+        "by": "berlianta",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "开发者针对华硕ZenVision屏幕打造的Linux用户态驱动，填补了官方驱动的缺失。"
+      },
+      {
+        "id": 48400842,
+        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+        "domain": "anthropic.com",
+        "score": 335,
+        "descendants": 442,
+        "by": "meetpateltech",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic分享了关于AI递归自我改进的阶段性进展及相关研究思考。"
+      },
+      {
+        "id": 48375445,
+        "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+        "url": "https://tiki.li/blog/blqsort",
+        "domain": "tiki.li",
+        "score": 93,
+        "descendants": 14,
+        "by": "birdculture",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一种利用分支预测优化技术实现的快速排序算法，性能优于C/C++标准库中的实现。"
+      },
+      {
+        "id": 48376008,
+        "title": "I'm skeptical about efforts to revolutionize schooling",
+        "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+        "domain": "scotthyoung.com",
+        "score": 58,
+        "descendants": 106,
+        "by": "andrewstuart",
+        "tags": [],
+        "summary": "作者深入剖析并表达了对目前教育改革潮流中各类激进方案的怀疑态度。"
+      },
+      {
+        "id": 48397028,
+        "title": "Ian's Secure Shoelace Knot",
+        "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+        "domain": "fieggen.com",
+        "score": 510,
+        "descendants": 195,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "Ian详述了一种被称为“安全鞋带系法”的高效结绳技巧，旨在提升生活品质与安全性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "fb.watch",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "VoidZero Is Joining Cloudflare",
+        "score": 577
+      },
+      "most_discussed": {
+        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+        "comments": 442
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Security",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于人工智能领域的前沿进展，涵盖了从模型架构研究、AI赋能代码分析与漏洞发现到递归自我改进的深度讨论。此外，基础技术设施的并购动态以及硬核工程实践（如算法优化与开源驱动开发）同样吸引了社区的广泛关注。"
+  }
+}
