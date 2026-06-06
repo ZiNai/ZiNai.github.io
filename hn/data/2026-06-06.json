@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-06-06 09:57",
+    "stories": [
+      {
+        "id": 48420148,
+        "title": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "domain": "salvagedcircuitry.com",
+        "score": 38,
+        "descendants": 2,
+        "by": "transistor-man",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析现代摄影镜头精密修复的技术细节。"
+      },
+      {
+        "id": 48413464,
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "domain": "bbc.com",
+        "score": 359,
+        "descendants": 232,
+        "by": "janpot",
+        "tags": [
+          "AI"
+        ],
+        "summary": "国际空间站发生空气泄漏，宇航员在完成紧急修复后获准返回空间站。"
+      },
+      {
+        "id": 48414367,
+        "title": "pg_durable: Microsoft open sources in-database durable execution",
+        "url": "https://github.com/microsoft/pg_durable",
+        "domain": "github.com",
+        "score": 326,
+        "descendants": 77,
+        "by": "coffeemug",
+        "tags": [
+          "Database",
+          "Open Source"
+        ],
+        "summary": "微软开源 pg_durable，旨在实现数据库内持久化执行。"
+      },
+      {
+        "id": 48414653,
+        "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+        "domain": "blog.google",
+        "score": 271,
+        "descendants": 86,
+        "by": "theanonymousone",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布 Gemma 4 QAT 模型，大幅优化移动端与笔记本电脑的运行效能。"
+      },
+      {
+        "id": 48413500,
+        "title": "New method turns ocean water into drinking water, without waste",
+        "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+        "domain": "rochester.edu",
+        "score": 256,
+        "descendants": 115,
+        "by": "speckx",
+        "tags": [],
+        "summary": "罗切斯特大学开发出一种零浪费的海水淡化制水工艺。"
+      },
+      {
+        "id": 48420494,
+        "title": "Show HN: ABC Classic 100 Rankings visualised",
+        "url": "https://classic100.gotski.workers.dev/",
+        "domain": "classic100.gotski.workers.dev",
+        "score": 8,
+        "descendants": 2,
+        "by": "gotski",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "可视化展示 ABC Classic 100 音乐榜单的交互式网页。"
+      },
+      {
+        "id": 48383667,
+        "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+        "url": "https://mouseless.click",
+        "domain": "mouseless.click",
+        "score": 454,
+        "descendants": 190,
+        "by": "riddley",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "跨平台键盘驱动控制软件，实现无鼠标操作体验。"
+      },
+      {
+        "id": 48411635,
+        "title": "Did Claude increase bugs in rsync?",
+        "url": "https://alexispurslane.github.io/rsync-analysis/",
+        "domain": "alexispurslane.github.io",
+        "score": 307,
+        "descendants": 310,
+        "by": "logicprog",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于使用 Claude 辅助编程是否导致 rsync 工具出现漏洞的深入探讨。"
+      },
+      {
+        "id": 48398925,
+        "title": "My Agent Skill for Test-Driven Development",
+        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+        "domain": "saturnci.com",
+        "score": 133,
+        "descendants": 53,
+        "by": "laxmena",
+        "tags": [],
+        "summary": "作者分享用于测试驱动开发（TDD）的自动化 Agent 开发经验。"
+      },
+      {
+        "id": 48415217,
+        "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+        "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+        "domain": "theregister.com",
+        "score": 355,
+        "descendants": 125,
+        "by": "toomuchtodo",
+        "tags": [],
+        "summary": "英国政府网站 Gov.uk 弃用 Stripe，正式切换至荷兰支付商 Adyen。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "salvagedcircuitry.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 251,
+      "max_score": {
+        "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+        "score": 454
+      },
+      "most_discussed": {
+        "title": "Did Claude increase bugs in rsync?",
+        "comments": 310
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Open Source",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿技术应用与基础设施更新，AI 模型优化与自动化工具成为讨论重点。同时，科学界在海水淡化技术上取得新进展，而关键公共部门与航天任务的安全及效能话题引发了社区广泛关注。"
+  }
+}
