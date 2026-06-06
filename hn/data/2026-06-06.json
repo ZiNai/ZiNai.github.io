@@ -325,5 +325,156 @@
       ]
     },
     "summary": "今日Hacker News聚焦于前沿科技与工程挑战，重点涵盖了空间探索进展、人工智能架构与企业政策的演变，以及环保材料科学的突破。此外，深度技术细节探讨（如相机维修、编译器语言设计）与数据库架构创新依然是社区讨论的核心焦点。"
+  },
+  "evening": {
+    "time": "2026-06-06 21:22",
+    "stories": [
+      {
+        "id": 48389360,
+        "title": "How LLMs work",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "domain": "0xkato.xyz",
+        "score": 475,
+        "descendants": 146,
+        "by": "0xkato",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度剖析大语言模型的底层运作逻辑。"
+      },
+      {
+        "id": 48421442,
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "domain": "arstechnica.com",
+        "score": 740,
+        "descendants": 242,
+        "by": "maltalex",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "标普500指数拒绝SpaceX等科技巨头入选，引发市场讨论。"
+      },
+      {
+        "id": 48420148,
+        "title": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "domain": "salvagedcircuitry.com",
+        "score": 193,
+        "descendants": 66,
+        "by": "transistor-man",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨现代相机镜头修复过程中的复杂技术细节。"
+      },
+      {
+        "id": 48424125,
+        "title": "The new bibliomaniacs",
+        "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+        "domain": "engelsbergideas.com",
+        "score": 5,
+        "descendants": 4,
+        "by": "RickJWagner",
+        "tags": [],
+        "summary": "探讨当代藏书狂热者的心理与社交现象。"
+      },
+      {
+        "id": 48423990,
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "domain": "techcrunch.com",
+        "score": 86,
+        "descendants": 86,
+        "by": "ramanan",
+        "tags": [
+          "Science"
+        ],
+        "summary": "报道谷歌每月向SpaceX支付巨额算力费用的行业动态。"
+      },
+      {
+        "id": 48423762,
+        "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+        "url": "https://pokeemerald.com/",
+        "domain": "pokeemerald.com",
+        "score": 9,
+        "descendants": 3,
+        "by": "tripplyons",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "通过WebAssembly将宝可梦绿宝石版移植至网页并实现超高性能运行。"
+      },
+      {
+        "id": 48413500,
+        "title": "New method turns ocean water into drinking water, without waste",
+        "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+        "domain": "rochester.edu",
+        "score": 416,
+        "descendants": 173,
+        "by": "speckx",
+        "tags": [],
+        "summary": "罗切斯特大学研究人员开发出一种零废料的海水淡化技术。"
+      },
+      {
+        "id": 48421171,
+        "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+        "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+        "domain": "acoup.blog",
+        "score": 106,
+        "descendants": 36,
+        "by": "gostsamo",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "为世界构建类创作者分析前现代军队的战争动机。"
+      },
+      {
+        "id": 48369864,
+        "title": "Social Cache Busting",
+        "url": "https://www.autodidacts.io/social-cache-busting/",
+        "domain": "autodidacts.io",
+        "score": 68,
+        "descendants": 14,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨如何解决社交媒体分享时的缓存失效问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "0xkato.xyz",
+          "count": 1
+        },
+        {
+          "domain": "arstechnica.com",
+          "count": 1
+        },
+        {
+          "domain": "salvagedcircuitry.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 233,
+      "max_score": {
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "score": 740
+      },
+      "most_discussed": {
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "comments": 242
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Web",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News热门内容聚焦于前沿科技与硬核工程，包括AI大模型的底层原理及相关企业动态。同时，环保科技的突破、小众硬核维修技巧以及基于历史构建的趣味技术实验也受到广泛关注。"
   }
 }
