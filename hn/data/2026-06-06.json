@@ -161,5 +161,169 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿技术应用与基础设施更新，AI 模型优化与自动化工具成为讨论重点。同时，科学界在海水淡化技术上取得新进展，而关键公共部门与航天任务的安全及效能话题引发了社区广泛关注。"
+  },
+  "noon": {
+    "time": "2026-06-06 14:45",
+    "stories": [
+      {
+        "id": 48389360,
+        "title": "How LLMs work",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "domain": "0xkato.xyz",
+        "score": 172,
+        "descendants": 39,
+        "by": "0xkato",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过基础原理解析，深入浅出地解释了大语言模型（LLM）的运作机制。"
+      },
+      {
+        "id": 48421171,
+        "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+        "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+        "domain": "acoup.blog",
+        "score": 41,
+        "descendants": 4,
+        "by": "gostsamo",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "从历史与策略角度分析前现代军队的战争动因，为世界观构建者提供参考。"
+      },
+      {
+        "id": 48420148,
+        "title": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "domain": "salvagedcircuitry.com",
+        "score": 138,
+        "descendants": 44,
+        "by": "transistor-man",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享现代相机镜头结构及其复杂维修过程中的工艺与挑战。"
+      },
+      {
+        "id": 48421079,
+        "title": "The back cover of C++: The Language raises questions not answered by front cover",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+        "domain": "devblogs.microsoft.com",
+        "score": 66,
+        "descendants": 10,
+        "by": "paulmooreparks",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "讨论C++语言书籍封面设计引发的语言规范与定位争议。"
+      },
+      {
+        "id": 48421442,
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "domain": "arstechnica.com",
+        "score": 160,
+        "descendants": 25,
+        "by": "maltalex",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨标普500指数因市值计算规则等原因拒绝SpaceX、OpenAI及Anthropic纳入的后续影响。"
+      },
+      {
+        "id": 48380932,
+        "title": "Ten Years of Franz",
+        "url": "https://meetfranz.com/blog/ten-years-of-franz",
+        "domain": "meetfranz.com",
+        "score": 14,
+        "descendants": 4,
+        "by": "tosh",
+        "tags": [],
+        "summary": "回顾消息聚合应用Franz发布十年来的产品历程与演变。"
+      },
+      {
+        "id": 48421145,
+        "title": "Lockdown Mode",
+        "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+        "domain": "help.openai.com",
+        "score": 41,
+        "descendants": 18,
+        "by": "berlianta",
+        "tags": [],
+        "summary": "详细介绍OpenAI产品中锁定模式（Lockdown Mode）的安全防护功能。"
+      },
+      {
+        "id": 48413464,
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "domain": "bbc.com",
+        "score": 378,
+        "descendants": 243,
+        "by": "janpot",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软开源了pg_durable，旨在为PostgreSQL引入数据库内持久执行能力以提升系统可靠性。"
+      },
+      {
+        "id": 48414367,
+        "title": "pg_durable: Microsoft open sources in-database durable execution",
+        "url": "https://github.com/microsoft/pg_durable",
+        "domain": "github.com",
+        "score": 378,
+        "descendants": 86,
+        "by": "coffeemug",
+        "tags": [
+          "Database",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 48413500,
+        "title": "New method turns ocean water into drinking water, without waste",
+        "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+        "domain": "rochester.edu",
+        "score": 328,
+        "descendants": 141,
+        "by": "speckx",
+        "tags": [],
+        "summary": "罗切斯特大学研发出一种新型无浪费海水淡化技术，为解决全球淡水短缺提供新方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "0xkato.xyz",
+          "count": 1
+        },
+        {
+          "domain": "acoup.blog",
+          "count": 1
+        },
+        {
+          "domain": "salvagedcircuitry.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 172,
+      "max_score": {
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "score": 378
+      },
+      "most_discussed": {
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "comments": 243
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems",
+        "Science",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于前沿科技与工程挑战，重点涵盖了空间探索进展、人工智能架构与企业政策的演变，以及环保材料科学的突破。此外，深度技术细节探讨（如相机维修、编译器语言设计）与数据库架构创新依然是社区讨论的核心焦点。"
   }
 }
