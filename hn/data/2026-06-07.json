@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-06-07 10:13",
+    "stories": [
+      {
+        "id": 48428025,
+        "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+        "url": "https://ntsc.rs/",
+        "domain": "ntsc.rs",
+        "score": 276,
+        "descendants": 62,
+        "by": "gregsadetsky",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个开源的视频模拟库，旨在通过软件复刻NTSC电视与VHS磁带的复古视觉效果。"
+      },
+      {
+        "id": 48416264,
+        "title": "Harness engineering: Leveraging Codex in an agent-first world",
+        "url": "https://openai.com/index/harness-engineering/",
+        "domain": "openai.com",
+        "score": 70,
+        "descendants": 32,
+        "by": "pramodbiligiri",
+        "tags": [],
+        "summary": "探讨如何在以AI代理为核心的开发环境中，利用Codex等模型提升工程效率。"
+      },
+      {
+        "id": 48430860,
+        "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
+        "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+        "domain": "radioworld.com",
+        "score": 12,
+        "descendants": 0,
+        "by": "pkaeding",
+        "tags": [],
+        "summary": "报道俄亥俄河谷一座10万瓦功率的FM广播塔在光天化日之下被恶意破坏的事件。"
+      },
+      {
+        "id": 48405815,
+        "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+        "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+        "domain": "cen.acs.org",
+        "score": 32,
+        "descendants": 1,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "科学界推翻了关于硼原子无法形成B80笼状结构的理论，证实了硼巴基球的可行性。"
+      },
+      {
+        "id": 48430539,
+        "title": "Public Domain Image Archive",
+        "url": "https://pdimagearchive.org/",
+        "domain": "pdimagearchive.org",
+        "score": 18,
+        "descendants": 2,
+        "by": "davidbarker",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个提供可免费使用的公共领域图像资源库，方便开发者和创作者调用视觉素材。"
+      },
+      {
+        "id": 48425528,
+        "title": "Moving beyond fork() + exec()",
+        "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+        "domain": "lwn.net",
+        "score": 256,
+        "descendants": 259,
+        "by": "jwilk",
+        "tags": [],
+        "summary": "深入分析Linux系统编程中超越传统fork+exec机制的现代并发与进程管理方案。"
+      },
+      {
+        "id": 48427643,
+        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "domain": "this.weekinsecurity.com",
+        "score": 440,
+        "descendants": 157,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "Meta证实数千个Instagram账户因其AI聊天机器人的逻辑缺陷而遭到攻击。"
+      },
+      {
+        "id": 48430923,
+        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+        "url": "https://arxiv.org/abs/2601.14470",
+        "domain": "arxiv.org",
+        "score": 4,
+        "descendants": 0,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究论文探讨了在智能代理软件工程中如何量化代币（Token）的使用效率与价值分布。"
+      },
+      {
+        "id": 48425723,
+        "title": "Zeroserve: A zero-config web server you can script with eBPF",
+        "url": "https://su3.io/posts/introducing-zeroserve",
+        "domain": "su3.io",
+        "score": 195,
+        "descendants": 50,
+        "by": "losfair",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍一款支持eBPF脚本化的零配置Web服务器，展示了网络服务与内核技术的轻量级结合。"
+      },
+      {
+        "id": 48424605,
+        "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+        "url": "https://twitter.com/lemire/status/2062880075117113739",
+        "domain": "twitter.com",
+        "score": 234,
+        "descendants": 432,
+        "by": "tosh",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "英伟达正计划为Windows平台打造高性能CPU系统，旨在冲击现有PC处理器市场格局。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ntsc.rs",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "radioworld.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 154,
+      "max_score": {
+        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "score": 440
+      },
+      "most_discussed": {
+        "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+        "comments": 432
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Security",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在底层系统架构与AI应用安全领域，Meta的AI漏洞引发了关于智能代理安全性的广泛讨论。同时，技术社区对高性能硬件趋势、模拟视频处理以及底层OS编程模式的演进表现出浓厚兴趣。"
+  }
+}
