@@ -317,5 +317,148 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI Agent在软件工程中的应用及自动化趋势，同时探讨了从编程竞赛到硬件仿真等多元技术话题。开源项目在视频处理与科学计算领域的创新依然保持强劲势头，反映出技术社区对前沿工具与复古技术复兴的持续关注。"
+  },
+  "evening": {
+    "time": "2026-06-07 21:43",
+    "stories": [
+      {
+        "id": 48434312,
+        "title": "LLMs are eroding my software engineering career and I don't know what to do",
+        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+        "domain": "human-in-the-loop.bearblog.dev",
+        "score": 152,
+        "descendants": 101,
+        "by": "poisonfountain",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一位软件工程师分享了对 LLM 冲击职业生存空间的深切忧虑与迷茫。"
+      },
+      {
+        "id": 48434436,
+        "title": "Anthropic, please ship an official Claude Desktop for Linux",
+        "url": "https://github.com/anthropics/claude-code/issues/65697",
+        "domain": "github.com",
+        "score": 30,
+        "descendants": 19,
+        "by": "predkambrij",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "社区呼吁 Anthropic 开发官方 Claude Linux 桌面版应用。"
+      },
+      {
+        "id": 48434342,
+        "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+        "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+        "domain": "ea.rna.nl",
+        "score": 19,
+        "descendants": 12,
+        "by": "gctwnl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章分析了 AI 模型厂商高额的运营成本与用户订阅费之间的巨大亏损剪刀差。"
+      },
+      {
+        "id": 48432199,
+        "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+        "url": "https://www.ioccc.org/2025/",
+        "domain": "ioccc.org",
+        "score": 250,
+        "descendants": 58,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "2025 年第 29 届国际混乱 C 语言代码竞赛（IOCCC）获奖作品展示。"
+      },
+      {
+        "id": 48406530,
+        "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+        "url": "https://yon-lang.org/",
+        "domain": "yon-lang.org",
+        "score": 15,
+        "descendants": 2,
+        "by": "amenn",
+        "tags": [],
+        "summary": "介绍了一种以拓扑学为导向、采用内容寻址网格堆内存的新型编程语言 Yon。"
+      },
+      {
+        "id": 48410844,
+        "title": "Win16 Memory Management",
+        "url": "http://www.os2museum.com/wp/win16-memory-management/",
+        "domain": "os2museum.com",
+        "score": 73,
+        "descendants": 40,
+        "by": "supermatou",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度解析 Windows 16 位时代的内存管理机制与历史演进。"
+      },
+      {
+        "id": 48400151,
+        "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+        "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+        "domain": "fergusfinn.com",
+        "score": 87,
+        "descendants": 12,
+        "by": "kkm",
+        "tags": [],
+        "summary": "探讨通过推测性 KV 编码技术实现 KV 缓存无损压缩 4 倍的方法。"
+      },
+      {
+        "id": 48389368,
+        "title": "My Software North Star",
+        "url": "https://kristoff.it/blog/north-star/",
+        "domain": "kristoff.it",
+        "score": 130,
+        "descendants": 68,
+        "by": "kristoff_it",
+        "tags": [],
+        "summary": "探讨个人在职业生涯中构建高质量软件的指导原则与哲学思考。"
+      },
+      {
+        "id": 48433410,
+        "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+        "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+        "domain": "arstechnica.com",
+        "score": 199,
+        "descendants": 111,
+        "by": "BerislavLopac",
+        "tags": [],
+        "summary": "多名科学家因在糖尿病会议上分发已出版期刊的副本而被驱逐，引发对学术交流权的争议。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "human-in-the-loop.bearblog.dev",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "ea.rna.nl",
+          "count": 1
+        }
+      ],
+      "avg_score": 106,
+      "max_score": {
+        "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+        "score": 250
+      },
+      "most_discussed": {
+        "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+        "comments": 111
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术对软件开发行业的冲击与反思，探讨了 LLM 的经济模型及其对职业生涯的深远影响。同时，技术社区对于底层编程挑战、开源竞赛及学术出版权的争议也表现出高度关注。"
   }
 }
