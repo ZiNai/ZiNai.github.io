@@ -160,5 +160,162 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在底层系统架构与AI应用安全领域，Meta的AI漏洞引发了关于智能代理安全性的广泛讨论。同时，技术社区对高性能硬件趋势、模拟视频处理以及底层OS编程模式的演进表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-06-07 15:45",
+    "stories": [
+      {
+        "id": 48432199,
+        "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+        "url": "https://www.ioccc.org/2025/",
+        "domain": "ioccc.org",
+        "score": 74,
+        "descendants": 10,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "第29届国际混乱C语言代码大赛（IOCCC）公布2025年度获奖作品，展示极具创意的混淆代码艺术。"
+      },
+      {
+        "id": 48431981,
+        "title": "I design with Claude more than Figma now",
+        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+        "domain": "blog.janestreet.com",
+        "score": 92,
+        "descendants": 58,
+        "by": "MrBuddyCasino",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Jane Street博文讨论为何开发者现在更倾向于直接用Claude进行界面设计而非传统的Figma工具。"
+      },
+      {
+        "id": 48431461,
+        "title": "Valve P2P networking broken for more than 2 months",
+        "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+        "domain": "github.com",
+        "score": 119,
+        "descendants": 55,
+        "by": "babuskov",
+        "tags": [],
+        "summary": "Symbolica 2.0发布，为Python和Rust提供可编程符号计算支持，提升代数处理能力。"
+      },
+      {
+        "id": 48431286,
+        "title": "Field of clones: How horse replicas came to dominate polo",
+        "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+        "domain": "knowablemagazine.org",
+        "score": 71,
+        "descendants": 37,
+        "by": "gscott",
+        "tags": [],
+        "summary": "探讨马球运动中克隆马技术如何普及并最终主导该领域，分析背后的生物技术与商业逻辑。"
+      },
+      {
+        "id": 48389368,
+        "title": "My Software North Star",
+        "url": "https://kristoff.it/blog/north-star/",
+        "domain": "kristoff.it",
+        "score": 37,
+        "descendants": 9,
+        "by": "kristoff_it",
+        "tags": [],
+        "summary": "Kristoff分享了他在软件工程中的核心指导原则，强调以稳健与长远视角构建开发逻辑。"
+      },
+      {
+        "id": 48430923,
+        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+        "url": "https://arxiv.org/abs/2601.14470",
+        "domain": "arxiv.org",
+        "score": 87,
+        "descendants": 26,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨智能体软件工程中Token使用效率的量化指标，为AI辅助开发提供度量框架。"
+      },
+      {
+        "id": 48415457,
+        "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+        "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+        "domain": "symbolica.io",
+        "score": 67,
+        "descendants": 6,
+        "by": "mmastrac",
+        "tags": [
+          "Rust",
+          "Python"
+        ]
+      },
+      {
+        "id": 48428025,
+        "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+        "url": "https://ntsc.rs/",
+        "domain": "ntsc.rs",
+        "score": 328,
+        "descendants": 87,
+        "by": "gregsadetsky",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "开源项目ntsc-rs实现视频模拟技术，精准复刻模拟电视与VHS磁带的复古视觉效果。"
+      },
+      {
+        "id": 48416264,
+        "title": "Harness engineering: Leveraging Codex in an agent-first world",
+        "url": "https://openai.com/index/harness-engineering/",
+        "domain": "openai.com",
+        "score": 176,
+        "descendants": 113,
+        "by": "pramodbiligiri",
+        "tags": [],
+        "summary": "OpenAI探讨如何在智能体优先的世界中利用Codex模型构建高效的工程交付体系。"
+      },
+      {
+        "id": 48430539,
+        "title": "Public Domain Image Archive",
+        "url": "https://pdimagearchive.org/",
+        "domain": "pdimagearchive.org",
+        "score": 98,
+        "descendants": 16,
+        "by": "davidbarker",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一个全新的公共领域图像档案库，为开发者与创作者提供高质量免版权素材资源。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ioccc.org",
+          "count": 1
+        },
+        {
+          "domain": "blog.janestreet.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 115,
+      "max_score": {
+        "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+        "score": 328
+      },
+      "most_discussed": {
+        "title": "Harness engineering: Leveraging Codex in an agent-first world",
+        "comments": 113
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Python",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI Agent在软件工程中的应用及自动化趋势，同时探讨了从编程竞赛到硬件仿真等多元技术话题。开源项目在视频处理与科学计算领域的创新依然保持强劲势头，反映出技术社区对前沿工具与复古技术复兴的持续关注。"
   }
 }
