@@ -156,5 +156,154 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了从AI技术突破与底层算法实践到个人成长叙事的多维视角。技术社区不仅关注DeepSeek等大模型的前沿进展，也展现了对Rust嵌入式编程、复杂工程性能分析及个人励志经历的深厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-06-08 16:43",
+    "stories": [
+      {
+        "id": 48440792,
+        "title": "Dopamine Fracking",
+        "url": "https://igerman.cc/blog/dopamine-fracking/",
+        "domain": "igerman.cc",
+        "score": 247,
+        "descendants": 84,
+        "by": "igmn",
+        "tags": [],
+        "summary": "探讨了现代数字环境如何通过多巴胺成瘾机制影响人类注意力与心理健康。"
+      },
+      {
+        "id": 48440952,
+        "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+        "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+        "domain": "troyhunt.com",
+        "score": 131,
+        "descendants": 47,
+        "by": "882542F3884314B",
+        "tags": [],
+        "summary": "分析了即便在多次严重数据泄露后，企业在漏洞披露上的反应延迟问题反而日益严重。"
+      },
+      {
+        "id": 48440383,
+        "title": "APC–2 – A professional record cutter for producing original playback discs",
+        "url": "https://teenage.engineering/products/apc-2",
+        "domain": "teenage.engineering",
+        "score": 200,
+        "descendants": 96,
+        "by": "vthommeret",
+        "tags": [],
+        "summary": "介绍了一款由Teenage Engineering设计的专业唱片刻录机，旨在实现高质量的物理音频记录。"
+      },
+      {
+        "id": 48437406,
+        "title": "Building from zero after addiction, prison, and a felony",
+        "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+        "domain": "gavinray97.github.io",
+        "score": 611,
+        "descendants": 269,
+        "by": "gavinray",
+        "tags": [],
+        "summary": "作者分享了从成瘾与牢狱之灾中重获新生，通过技术构建职业生涯的励志经历。"
+      },
+      {
+        "id": 48440064,
+        "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+        "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+        "domain": "ranpara.net",
+        "score": 185,
+        "descendants": 23,
+        "by": "DevarshRanpara",
+        "tags": [
+          "AI",
+          "Python"
+        ],
+        "summary": "通过Python从零开始构建感知机，直观展示了神经网络最基础的数学原理。"
+      },
+      {
+        "id": 48441242,
+        "title": "Richard Scolyer Has Died",
+        "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
+        "domain": "bbc.com",
+        "score": 41,
+        "descendants": 11,
+        "by": "nicwilson",
+        "tags": [],
+        "summary": "报道了知名病理学家理查德·斯考利亚因病去世的消息。"
+      },
+      {
+        "id": 48413366,
+        "title": "Playing with Vision Embeddings",
+        "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+        "domain": "prestonbjensen.com",
+        "score": 35,
+        "descendants": 3,
+        "by": "prestoj",
+        "tags": [],
+        "summary": "分享了关于视觉嵌入（Vision Embeddings）的探索与实践经验。"
+      },
+      {
+        "id": 48440448,
+        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+        "domain": "runtimewire.com",
+        "score": 242,
+        "descendants": 97,
+        "by": "yogthos",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48440549,
+        "title": "Algorithmic Monocultures in Hiring",
+        "url": "https://algorithmichiring.github.io/",
+        "domain": "algorithmichiring.github.io",
+        "score": 82,
+        "descendants": 32,
+        "by": "drchiu",
+        "tags": [],
+        "summary": "讨论了招聘中日益严重的算法同质化倾向及其对人才筛选公平性的潜在影响。"
+      },
+      {
+        "id": 48440463,
+        "title": "New drug 'functionally cures' many hepatitis B virus infections",
+        "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+        "domain": "science.org",
+        "score": 157,
+        "descendants": 24,
+        "by": "gmays",
+        "tags": [],
+        "summary": "科学界报道一种新药在治疗乙肝病毒感染方面展现出功能性治愈的潜力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "igerman.cc",
+          "count": 1
+        },
+        {
+          "domain": "troyhunt.com",
+          "count": 1
+        },
+        {
+          "domain": "teenage.engineering",
+          "count": 1
+        }
+      ],
+      "avg_score": 193,
+      "max_score": {
+        "title": "Building from zero after addiction, prison, and a felony",
+        "score": 611
+      },
+      "most_discussed": {
+        "title": "Building from zero after addiction, prison, and a felony",
+        "comments": 269
+      },
+      "hot_tags": [
+        "AI",
+        "Python"
+      ]
+    },
+    "summary": "今日Hacker News热门内容涵盖了从个人奋斗史到前沿科技的广泛议题，其中AI模型竞赛与生物医学突破尤为引人注目。此外，社会技术议题如数据泄露披露滞后及算法在招聘中的影响也引发了社区的深入讨论。"
   }
 }
