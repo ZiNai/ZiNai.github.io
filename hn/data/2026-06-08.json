@@ -305,5 +305,163 @@
       ]
     },
     "summary": "今日Hacker News热门内容涵盖了从个人奋斗史到前沿科技的广泛议题，其中AI模型竞赛与生物医学突破尤为引人注目。此外，社会技术议题如数据泄露披露滞后及算法在招聘中的影响也引发了社区的深入讨论。"
+  },
+  "evening": {
+    "time": "2026-06-08 23:40",
+    "stories": [
+      {
+        "id": 48445554,
+        "title": "Show HN: Performative-UI – a react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "domain": "vorpus.github.io",
+        "score": 144,
+        "descendants": 29,
+        "by": "lizhang",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "一套基于常见设计套路的React组件库，旨在提升UI开发的趣味性与表现力。"
+      },
+      {
+        "id": 48444871,
+        "title": "Zig by Example",
+        "url": "https://github.com/boringcollege/zig-by-example",
+        "domain": "github.com",
+        "score": 134,
+        "descendants": 59,
+        "by": "dariubs",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开源社区编写的Zig语言实践指南，通过代码示例帮助开发者快速上手该语言。"
+      },
+      {
+        "id": 48445171,
+        "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+        "url": "https://intunedhq.com",
+        "domain": "intunedhq.com",
+        "score": 57,
+        "descendants": 14,
+        "by": "fkilaiwi",
+        "tags": [
+          "Web",
+          "Startup"
+        ],
+        "summary": "一个专注于以代码形式构建和运行稳定浏览器自动化任务的开发平台。"
+      },
+      {
+        "id": 48444228,
+        "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+        "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+        "domain": "bbc.com",
+        "score": 224,
+        "descendants": 185,
+        "by": "1vuio0pswjnm7",
+        "tags": [],
+        "summary": "探讨社交媒体内容流如何从人际互动转向由热点趋势主导，分析其带来的反社会化倾向。"
+      },
+      {
+        "id": 48442725,
+        "title": "The Cypherpunk Library",
+        "url": "https://www.cypherpunkbooks.com",
+        "domain": "cypherpunkbooks.com",
+        "score": 218,
+        "descendants": 71,
+        "by": "yu3zhou4",
+        "tags": [],
+        "summary": "汇集加密朋克运动相关核心文献的数字图书馆，记录了密码学与个人隐私抗争的历史。"
+      },
+      {
+        "id": 48442075,
+        "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+        "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+        "domain": "reeserichardson.blog",
+        "score": 247,
+        "descendants": 55,
+        "by": "mhrmsn",
+        "tags": [],
+        "summary": "深度调查并质疑赛默飞世尔科技（Thermo Fisher）在抗体数据中可能存在的造假行为。"
+      },
+      {
+        "id": 48424545,
+        "title": "Life is too short for a slow terminal",
+        "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+        "domain": "mijndertstuij.nl",
+        "score": 29,
+        "descendants": 18,
+        "by": "emschwartz",
+        "tags": [],
+        "summary": "探讨优化终端性能的重要性，认为缓慢的命令行环境会严重影响开发者的日常效率。"
+      },
+      {
+        "id": 48394799,
+        "title": "Zig Structs of Arrays (2024)",
+        "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+        "domain": "andreashohmann.com",
+        "score": 78,
+        "descendants": 19,
+        "by": "Tomte",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入讲解Zig语言中结构体数组（SoA）的实现方式及其在性能优化中的价值。"
+      },
+      {
+        "id": 48440792,
+        "title": "Dopamine Fracking",
+        "url": "https://igerman.cc/blog/dopamine-fracking/",
+        "domain": "igerman.cc",
+        "score": 597,
+        "descendants": 300,
+        "by": "igmn",
+        "tags": [],
+        "summary": "探讨现代数字平台如何通过算法设计深度攫取用户注意力，引发对“多巴胺压裂”现象的思考。"
+      },
+      {
+        "id": 48440952,
+        "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+        "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+        "domain": "troyhunt.com",
+        "score": 249,
+        "descendants": 98,
+        "by": "882542F3884314B",
+        "tags": [],
+        "summary": "特洛伊·亨特分析数据泄露后的披露滞后问题，指出即便经验丰富，安全披露机制依然面临严峻挑战。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "vorpus.github.io",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "intunedhq.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 198,
+      "max_score": {
+        "title": "Dopamine Fracking",
+        "score": 597
+      },
+      "most_discussed": {
+        "title": "Dopamine Fracking",
+        "comments": 300
+      },
+      "hot_tags": [
+        "Systems",
+        "JavaScript",
+        "Show HN",
+        "Web",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在网络安全与社会心理学领域，关于社交媒体算法影响及数据泄露的讨论引发了高度关注。同时，开发工具类内容依然强劲，尤其是Zig编程语言的教程与实践应用受到了开发者社区的持续追捧。"
   }
 }
