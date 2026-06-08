@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-06-08 10:30",
+    "stories": [
+      {
+        "id": 48440383,
+        "title": "Teenage Engineering: Introducing APC-2",
+        "url": "https://teenage.engineering/products/apc-2",
+        "domain": "teenage.engineering",
+        "score": 77,
+        "descendants": 36,
+        "by": "vthommeret",
+        "tags": [],
+        "summary": "Teenage Engineering发布了全新硬件产品APC-2。"
+      },
+      {
+        "id": 48440448,
+        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+        "domain": "runtimewire.com",
+        "score": 42,
+        "descendants": 4,
+        "by": "yogthos",
+        "tags": [
+          "AI"
+        ],
+        "summary": "性能测评显示DeepSeek V4 Pro在精度指标上超越了GPT-5.5 Pro。"
+      },
+      {
+        "id": 48440064,
+        "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+        "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+        "domain": "ranpara.net",
+        "score": 58,
+        "descendants": 8,
+        "by": "DevarshRanpara",
+        "tags": [
+          "AI",
+          "Python"
+        ],
+        "summary": "通过Python从零构建感知机，深入浅出地讲解人工智能最基础的算法单元。"
+      },
+      {
+        "id": 48437406,
+        "title": "Building from zero after addiction, prison, and a felony",
+        "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+        "domain": "gavinray97.github.io",
+        "score": 431,
+        "descendants": 194,
+        "by": "gavinray",
+        "tags": [],
+        "summary": "作者分享了自己摆脱成瘾与牢狱生涯，从零开始重塑职业与人生的励志心路历程。"
+      },
+      {
+        "id": 48440463,
+        "title": "New drug 'functionally cures' many hepatitis B virus infections",
+        "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+        "domain": "science.org",
+        "score": 8,
+        "descendants": 0,
+        "by": "gmays",
+        "tags": [],
+        "summary": "一项新型药物研究在治疗乙型肝炎病毒感染方面取得了功能性治愈的重大进展。"
+      },
+      {
+        "id": 48440008,
+        "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+        "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+        "domain": "github.com",
+        "score": 41,
+        "descendants": 3,
+        "by": "melastmohican",
+        "tags": [
+          "Rust",
+          "Hardware"
+        ],
+        "summary": "详细介绍了如何在Raspberry Pi Pico 2 W上使用Rust语言开发Matter协议的Wi-Fi智能灯泡。"
+      },
+      {
+        "id": 48408854,
+        "title": "Show HN: I Derived a Pancake",
+        "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+        "domain": "absurdlyoptimized.com",
+        "score": 130,
+        "descendants": 41,
+        "by": "bkazez",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一位开发者通过数学建模推导并分析了烙饼的物理特性与优化方案。"
+      },
+      {
+        "id": 48437290,
+        "title": "Making peace with your unlived dreams (2023)",
+        "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+        "domain": "nik.art",
+        "score": 157,
+        "descendants": 76,
+        "by": "herbertl",
+        "tags": [],
+        "summary": "探讨如何面对和接纳生命中那些未能实现的愿景，实现内心的平静。"
+      },
+      {
+        "id": 48437609,
+        "title": "How's Linear so fast? A technical breakdown",
+        "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+        "domain": "performance.dev",
+        "score": 309,
+        "descendants": 158,
+        "by": "howToTestFE",
+        "tags": [],
+        "summary": "从技术架构角度深入解析项目管理工具Linear为何能实现极致的响应速度。"
+      },
+      {
+        "id": 48440360,
+        "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
+        "url": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
+        "domain": "yahoo.com",
+        "score": 32,
+        "descendants": 5,
+        "by": "mikhael",
+        "tags": [],
+        "summary": "菲律宾南部发生7.8级强震，相关机构已发布海啸预警。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "teenage.engineering",
+          "count": 1
+        },
+        {
+          "domain": "runtimewire.com",
+          "count": 1
+        },
+        {
+          "domain": "ranpara.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 128,
+      "max_score": {
+        "title": "Building from zero after addiction, prison, and a felony",
+        "score": 431
+      },
+      "most_discussed": {
+        "title": "Building from zero after addiction, prison, and a felony",
+        "comments": 194
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Rust",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从AI技术突破与底层算法实践到个人成长叙事的多维视角。技术社区不仅关注DeepSeek等大模型的前沿进展，也展现了对Rust嵌入式编程、复杂工程性能分析及个人励志经历的深厚兴趣。"
+  }
+}
