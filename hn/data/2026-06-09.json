@@ -327,5 +327,163 @@
       ]
     },
     "summary": "今日Hacker News重点关注人工智能领域的重大变动与技术革新，尤以Apple深度的AI整合及Gemini模型应用为核心热点。同时，硬核技术开发、旧互联网历史挖掘及行业批判性思考也引起了社区的高度讨论。"
+  },
+  "evening": {
+    "time": "2026-06-09 22:39",
+    "stories": [
+      {
+        "id": 48461012,
+        "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
+        "url": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
+        "domain": "yacnews.com",
+        "score": 121,
+        "descendants": 27,
+        "by": "ortr",
+        "tags": [],
+        "summary": "贾里德·库什纳在阿尔巴尼亚投资40亿美元兴建度假村，引发当地民众强烈抗议。"
+      },
+      {
+        "id": 48459294,
+        "title": "Making Graphics Like it's 1993",
+        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+        "domain": "staniks.github.io",
+        "score": 287,
+        "descendants": 40,
+        "by": "sklopec",
+        "tags": [],
+        "summary": "探讨如何复刻并实现90年代经典的图形渲染技术。"
+      },
+      {
+        "id": 48461226,
+        "title": "WWDC 2026: Apple is Folding",
+        "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
+        "domain": "cupertinolens.com",
+        "score": 44,
+        "descendants": 22,
+        "by": "brandonb",
+        "tags": [],
+        "summary": "对苹果公司未来WWDC及产品战略方向的深度预测与分析。"
+      },
+      {
+        "id": 48458890,
+        "title": "GentleOS – Classic operating system with a lovely retro GUI",
+        "url": "https://github.com/luke8086/gentleos32",
+        "domain": "github.com",
+        "score": 260,
+        "descendants": 54,
+        "by": "tekkertje",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一款拥有复古GUI设计的新型操作系统GentleOS。"
+      },
+      {
+        "id": 48460758,
+        "title": "The better the autopilot the worse the pilot",
+        "url": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/",
+        "domain": "julienreszka.com",
+        "score": 48,
+        "descendants": 37,
+        "by": "julienreszka",
+        "tags": [],
+        "summary": "探讨自动化程度越高，人类操作员技能退化及其带来的潜在风险。"
+      },
+      {
+        "id": 48457830,
+        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "domain": "techcrunch.com",
+        "score": 341,
+        "descendants": 137,
+        "by": "raffael_de",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "微软开源工具链遭黑客入侵，目标是窃取AI开发者的凭证。"
+      },
+      {
+        "id": 48458586,
+        "title": "Cleaning up after AI rockstar developers",
+        "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+        "domain": "codingwithjesse.com",
+        "score": 175,
+        "descendants": 98,
+        "by": "BrunoBernardino",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何在项目开发中处理和清理所谓“AI摇滚明星开发者”遗留的混乱代码。"
+      },
+      {
+        "id": 48421858,
+        "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+        "url": "https://opencv.org/opencv-5/",
+        "domain": "opencv.org",
+        "score": 415,
+        "descendants": 64,
+        "by": "ternaus",
+        "tags": [],
+        "summary": "计算机视觉库OpenCV 5正式发布，带来了多年来最大的一次功能跨越。"
+      },
+      {
+        "id": 48459837,
+        "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+        "url": "https://qunabu.github.io/Gravity/",
+        "domain": "qunabu.github.io",
+        "score": 39,
+        "descendants": 13,
+        "by": "qunabu",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个展示从牛顿力学到爱因斯坦相对论的互动式太阳系模拟器。"
+      },
+      {
+        "id": 48458257,
+        "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+        "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+        "domain": "omnia.sas.upenn.edu",
+        "score": 83,
+        "descendants": 41,
+        "by": "bryanrasmussen",
+        "tags": [],
+        "summary": "介绍一种能通过分子手段使植物保持年轻态的新生物学研究。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "yacnews.com",
+          "count": 1
+        },
+        {
+          "domain": "staniks.github.io",
+          "count": 1
+        },
+        {
+          "domain": "cupertinolens.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 181,
+      "max_score": {
+        "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+        "score": 415
+      },
+      "most_discussed": {
+        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "comments": 137
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Open Source",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术引发的深层议题，包括安全漏洞、工程质量管理及自动化带来的负面影响。此外，复古科技美学与计算机视觉领域的重大更新也引起了极高关注。"
   }
 }
