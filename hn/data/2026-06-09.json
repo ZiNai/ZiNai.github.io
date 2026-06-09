@@ -165,5 +165,167 @@
       ]
     },
     "summary": "今日Hacker News的焦点高度集中于AI领域的重大变革，特别是苹果在AI架构与Siri智能化上的动作引发了广泛讨论。此外，AI算力竞赛、科技平台的内容生态转型以及开源工具的创新也是社区关注的核心议题。"
+  },
+  "noon": {
+    "time": "2026-06-09 15:36",
+    "stories": [
+      {
+        "id": 48450142,
+        "title": "Apple reveals new AI architecture built around Google Gemini models",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "domain": "macrumors.com",
+        "score": 534,
+        "descendants": 415,
+        "by": "unclefuzzy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道称Apple正在构建基于Google Gemini模型的新型AI架构。"
+      },
+      {
+        "id": 48447111,
+        "title": "Old'aVista – The most powerful guide to the old Internet",
+        "url": "https://oldavista.com/",
+        "domain": "oldavista.com",
+        "score": 79,
+        "descendants": 17,
+        "by": "abnercoimbre",
+        "tags": [],
+        "summary": "一个旨在探索和搜索互联网早期资源的强大工具网站。"
+      },
+      {
+        "id": 48449084,
+        "title": "Siri AI",
+        "url": "https://www.apple.com/apple-intelligence/",
+        "domain": "apple.com",
+        "score": 537,
+        "descendants": 486,
+        "by": "0xedb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Apple官方发布关于Siri AI的技术说明与功能演示。"
+      },
+      {
+        "id": 48445554,
+        "title": "Show HN: Performative-UI – A react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "domain": "vorpus.github.io",
+        "score": 929,
+        "descendants": 168,
+        "by": "lizhang",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "展示了一个包含各类设计陈词滥调的React组件库。"
+      },
+      {
+        "id": 48456245,
+        "title": "Porting the ThinkPad X61 to Coreboot",
+        "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+        "domain": "blog.aheymans.xyz",
+        "score": 36,
+        "descendants": 13,
+        "by": "walterbell",
+        "tags": [],
+        "summary": "记录将经典ThinkPad X61笔记本移植到Coreboot固件的实践过程。"
+      },
+      {
+        "id": 48446428,
+        "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+        "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+        "domain": "martinalderson.com",
+        "score": 529,
+        "descendants": 409,
+        "by": "martinald",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析认为xAI的运营模式更接近数据中心地产投资信托，而非前沿AI实验室。"
+      },
+      {
+        "id": 48447062,
+        "title": "EU-banned pesticides found in rice, tea and spices",
+        "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+        "domain": "foodwatch.org",
+        "score": 367,
+        "descendants": 134,
+        "by": "john-titor",
+        "tags": [],
+        "summary": "食品安全调查显示，大米、茶叶和香料中存在欧盟禁用农药残留。"
+      },
+      {
+        "id": 48446639,
+        "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "domain": "mimo.xiaomi.com",
+        "score": 548,
+        "descendants": 397,
+        "by": "gainsurier",
+        "tags": [
+          "AI"
+        ],
+        "summary": "发布声称达到每秒1000 Token生成速度的MiMo-v2.5-Pro-UltraSpeed模型。"
+      },
+      {
+        "id": 48449665,
+        "title": "Apple Core AI Framework",
+        "url": "https://developer.apple.com/documentation/coreai/",
+        "domain": "developer.apple.com",
+        "score": 267,
+        "descendants": 68,
+        "by": "hmokiguess",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Apple开发者文档详细介绍了Core AI框架的相关技术细节。"
+      },
+      {
+        "id": 48413655,
+        "title": "Looking Forward to Postgres 19: Query Hints",
+        "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+        "domain": "pgedge.com",
+        "score": 131,
+        "descendants": 17,
+        "by": "jjgreen",
+        "tags": [
+          "Database"
+        ],
+        "summary": "前瞻探讨即将到来的Postgres 19版本中关于查询提示（Query Hints）的新功能。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "macrumors.com",
+          "count": 1
+        },
+        {
+          "domain": "oldavista.com",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 396,
+      "max_score": {
+        "title": "Show HN: Performative-UI – A react component library of design tropes",
+        "score": 929
+      },
+      "most_discussed": {
+        "title": "Siri AI",
+        "comments": 486
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Show HN",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能领域的重大变动与技术革新，尤以Apple深度的AI整合及Gemini模型应用为核心热点。同时，硬核技术开发、旧互联网历史挖掘及行业批判性思考也引起了社区的高度讨论。"
   }
 }
