@@ -1,0 +1,169 @@
+{
+  "morning": {
+    "time": "2026-06-09 09:55",
+    "stories": [
+      {
+        "id": 48450142,
+        "title": "Apple reveals new AI architecture built around Google Gemini models",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "domain": "macrumors.com",
+        "score": 331,
+        "descendants": 315,
+        "by": "unclefuzzy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果披露了其全新的AI架构，显示出与Google Gemini模型进行深度集成的技术走向。"
+      },
+      {
+        "id": 48449084,
+        "title": "Siri AI",
+        "url": "https://www.apple.com/apple-intelligence/",
+        "domain": "apple.com",
+        "score": 411,
+        "descendants": 357,
+        "by": "0xedb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果正式发布Siri AI，旨在通过大模型技术重构智能语音助手的交互逻辑。"
+      },
+      {
+        "id": 48445554,
+        "title": "Show HN: Performative-UI – A react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "domain": "vorpus.github.io",
+        "score": 787,
+        "descendants": 154,
+        "by": "lizhang",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "一款基于React的UI组件库，通过复刻现代软件设计的流行视觉范式，提升前端开发效率。"
+      },
+      {
+        "id": 48446639,
+        "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "domain": "mimo.xiaomi.com",
+        "score": 498,
+        "descendants": 345,
+        "by": "gainsurier",
+        "tags": [
+          "AI"
+        ],
+        "summary": "小米推出了名为MiMo-v2.5的超高性能模型，声称支持每秒1000 tokens的推理速度。"
+      },
+      {
+        "id": 48413655,
+        "title": "Looking Forward to Postgres 19: Query Hints",
+        "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+        "domain": "pgedge.com",
+        "score": 61,
+        "descendants": 5,
+        "by": "jjgreen",
+        "tags": [
+          "Database"
+        ],
+        "summary": "探讨Postgres 19版本中引入查询优化提示功能（Query Hints）的可能性与预期影响。"
+      },
+      {
+        "id": 48449665,
+        "title": "Apple Core AI Framework",
+        "url": "https://developer.apple.com/documentation/coreai/",
+        "domain": "developer.apple.com",
+        "score": 196,
+        "descendants": 39,
+        "by": "hmokiguess",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果官方发布的Core AI框架，为开发者提供在Apple生态内高效构建AI应用的底层支持。"
+      },
+      {
+        "id": 48444228,
+        "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+        "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+        "domain": "bbc.com",
+        "score": 552,
+        "descendants": 411,
+        "by": "1vuio0pswjnm7",
+        "tags": [],
+        "summary": "深度分析社交媒体的现状，指出算法推荐的流行趋势已逐渐取代真实的人际社交互动。"
+      },
+      {
+        "id": 48447062,
+        "title": "EU-banned pesticides found in rice, tea and spices",
+        "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+        "domain": "foodwatch.org",
+        "score": 239,
+        "descendants": 89,
+        "by": "john-titor",
+        "tags": [],
+        "summary": "食品安全调查显示，部分大米、茶叶及香料中被检测出残留欧盟违禁农药。"
+      },
+      {
+        "id": 48447806,
+        "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+        "url": "https://gitdot.io/",
+        "domain": "gitdot.io",
+        "score": 151,
+        "descendants": 123,
+        "by": "baepaul",
+        "tags": [
+          "Rust",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "一个采用Rust编写的开源GitHub替代方案，旨在提供更高效的仓库管理与代码协作体验。"
+      },
+      {
+        "id": 48446428,
+        "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+        "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+        "domain": "martinalderson.com",
+        "score": 400,
+        "descendants": 314,
+        "by": "martinald",
+        "tags": [
+          "AI"
+        ],
+        "summary": "评论分析指出xAI当前的运作模式更像是一家数据中心运营商，而非追求技术突破的前沿实验室。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "macrumors.com",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        },
+        {
+          "domain": "vorpus.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 363,
+      "max_score": {
+        "title": "Show HN: Performative-UI – A react component library of design tropes",
+        "score": 787
+      },
+      "most_discussed": {
+        "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+        "comments": 411
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "JavaScript",
+        "Database",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News的焦点高度集中于AI领域的重大变革，特别是苹果在AI架构与Siri智能化上的动作引发了广泛讨论。此外，AI算力竞赛、科技平台的内容生态转型以及开源工具的创新也是社区关注的核心议题。"
+  }
+}
