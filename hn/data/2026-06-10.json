@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-06-10 10:07",
+    "stories": [
+      {
+        "id": 48469658,
+        "title": "macOS Container Machines",
+        "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+        "domain": "github.com",
+        "score": 151,
+        "descendants": 64,
+        "by": "timsneath",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "探讨在 macOS 上运行容器化机器的各种替代方案与实现思路。"
+      },
+      {
+        "id": 48463808,
+        "title": "Claude Fable 5",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "domain": "anthropic.com",
+        "score": 1806,
+        "descendants": 1414,
+        "by": "Philpax",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 发布 Claude Fable 5，引发开发者对其能力边界与潜在风险的广泛讨论。"
+      },
+      {
+        "id": 48467705,
+        "title": "Upcoming breaking changes for npm v12",
+        "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+        "domain": "github.blog",
+        "score": 201,
+        "descendants": 59,
+        "by": "plasma",
+        "tags": [],
+        "summary": "官方公告 npm v12 即将迎来重大破坏性变更，建议开发者提前做好适配准备。"
+      },
+      {
+        "id": 48468766,
+        "title": "RIP software hackathons. Long live the hardware hackathon",
+        "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+        "domain": "blog.oscars.dev",
+        "score": 59,
+        "descendants": 13,
+        "by": "ozcap",
+        "tags": [
+          "Security",
+          "Hardware"
+        ],
+        "summary": "反思纯软件黑客马拉松的疲态，呼吁回归具有实体价值的硬件开发竞赛。"
+      },
+      {
+        "id": 48466277,
+        "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+        "url": "https://aarushgupta.io/posts/kan-fpga/",
+        "domain": "aarushgupta.io",
+        "score": 159,
+        "descendants": 22,
+        "by": "ag2718",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "研究如何利用 Kolmogorov-Arnold 网络在 FPGA 上实现超高效机器学习推理。"
+      },
+      {
+        "id": 48459294,
+        "title": "Making Graphics Like it's 1993",
+        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+        "domain": "staniks.github.io",
+        "score": 769,
+        "descendants": 131,
+        "by": "sklopec",
+        "tags": [],
+        "summary": "深度解析复古图形学技术，带你重温 1993 年时代的视觉渲染风格。"
+      },
+      {
+        "id": 48427468,
+        "title": "More Molly Guards",
+        "url": "https://unsung.aresluna.org/more-molly-guards/",
+        "domain": "unsung.aresluna.org",
+        "score": 42,
+        "descendants": 3,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨计算机与系统设计中的安全机制（Molly Guards），以防止意外操作。"
+      },
+      {
+        "id": 48467896,
+        "title": "If Claude Fable stops helping you, you'll never know",
+        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+        "domain": "jonready.com",
+        "score": 504,
+        "descendants": 242,
+        "by": "mips_avatar",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析 Claude Fable 可能存在的隐蔽过滤机制及其对用户交互的潜在影响。"
+      },
+      {
+        "id": 48464140,
+        "title": "What it feels like to work with Mythos",
+        "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+        "domain": "oneusefulthing.org",
+        "score": 159,
+        "descendants": 153,
+        "by": "swolpers",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分享与 Mythos 系统协作的实际工作体验及相关的工作流洞察。"
+      },
+      {
+        "id": 48431213,
+        "title": "The oldest surviving animated feature film at 100",
+        "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
+        "domain": "bbc.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "回顾史上现存最古老的动画长片，纪念其诞生 100 周年的艺术成就。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "github.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 386,
+      "max_score": {
+        "title": "Claude Fable 5",
+        "score": 1806
+      },
+      "most_discussed": {
+        "title": "Claude Fable 5",
+        "comments": 1414
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Security"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能领域，尤其是 Claude 模型发布后的深度探讨与技术应用。同时，开发者社区关注底层工具链更新、复古图形学编程以及硬件创新等多样化议题。"
+  }
+}
