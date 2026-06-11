@@ -328,5 +328,160 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中在AI技术应用及其深层争议，涵盖了Anthropic模型的安全与数据隐私问题及AI系统自动化失控的风险。此外，社区还关注了地理空间测绘技术、开源工具开发以及历史语言学与商业管理等跨领域议题。"
+  },
+  "evening": {
+    "time": "2026-06-11 23:51",
+    "stories": [
+      {
+        "id": 48490826,
+        "title": "MiMo Code Is Now Released and Open-Source",
+        "url": "https://mimo.xiaomi.com/mimocode",
+        "domain": "mimo.xiaomi.com",
+        "score": 102,
+        "descendants": 44,
+        "by": "apeters",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "小米开源了其 MiMo 代码库，旨在推动多模态模型与机器人技术的研究。"
+      },
+      {
+        "id": 48489402,
+        "title": "Lines of Code Got a Better Publicist",
+        "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+        "domain": "curlewis.co.nz",
+        "score": 200,
+        "descendants": 134,
+        "by": "RyeCombinator",
+        "tags": [],
+        "summary": "文章探讨了为什么“代码行数”这一指标在软件工程评价中被过度美化及其背后的深层弊端。"
+      },
+      {
+        "id": 48490532,
+        "title": "MapComplete – Contibute to OpenStreetMaps",
+        "url": "https://mapcomplete.org/",
+        "domain": "mapcomplete.org",
+        "score": 76,
+        "descendants": 14,
+        "by": "GTP",
+        "tags": [],
+        "summary": "MapComplete 是一个基于 OpenStreetMap 的 Web 应用，通过简化界面引导用户高效贡献地图数据。"
+      },
+      {
+        "id": 48490715,
+        "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+        "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+        "domain": "nextcloud.com",
+        "score": 59,
+        "descendants": 29,
+        "by": "doener",
+        "tags": [],
+        "summary": "Nextcloud 发布 Hub 26 更新，重点提升了协作平台的可用性与设计感。"
+      },
+      {
+        "id": 48491486,
+        "title": "FPS.cob: A first person shooter in COBOL",
+        "url": "https://github.com/icitry/FPS.cob",
+        "domain": "github.com",
+        "score": 20,
+        "descendants": 2,
+        "by": "MBCook",
+        "tags": [],
+        "summary": "开发者利用 COBOL 编写了一款第一人称射击游戏，展示了这一古老编程语言的意外玩法。"
+      },
+      {
+        "id": 48487029,
+        "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+        "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+        "domain": "dronexl.co",
+        "score": 558,
+        "descendants": 255,
+        "by": "vrganj",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道指出 Pokémon Go 的地理扫描数据可能被用于训练军事无人机的导航技术。"
+      },
+      {
+        "id": 48489917,
+        "title": "Open Reproduction of DeepSeek-R1",
+        "url": "https://github.com/huggingface/open-r1",
+        "domain": "github.com",
+        "score": 68,
+        "descendants": 9,
+        "by": "yogthos",
+        "tags": [],
+        "summary": "开发者社区发起的 DeepSeek-R1 开源复现项目，旨在复刻并分析该模型的推理性能。"
+      },
+      {
+        "id": 48490057,
+        "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+        "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+        "domain": "businessinsider.com",
+        "score": 166,
+        "descendants": 123,
+        "by": "ZeidJ",
+        "tags": [
+          "AI",
+          "Rust"
+        ],
+        "summary": "调研显示职场员工每周需耗费数小时处理 AI 工具的“指令修补”与纠错，引发了工作效率与沮丧感的讨论。"
+      },
+      {
+        "id": 48484584,
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "domain": "lwn.net",
+        "score": 516,
+        "descendants": 229,
+        "by": "tanelpoder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析了 AI 智能体在操作系统层面过度授权导致的一系列失控风险与安全漏洞。"
+      },
+      {
+        "id": 48456279,
+        "title": "Queues Don't Fix Overload (2014)",
+        "url": "https://ferd.ca/queues-don-t-fix-overload.html",
+        "domain": "ferd.ca",
+        "score": 11,
+        "descendants": 3,
+        "by": "locknitpicker",
+        "tags": [],
+        "summary": "这篇重温 2014 年的文章指出，单纯依赖队列无法解决高并发下的系统过载问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "mimo.xiaomi.com",
+          "count": 1
+        },
+        {
+          "domain": "curlewis.co.nz",
+          "count": 1
+        }
+      ],
+      "avg_score": 178,
+      "max_score": {
+        "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+        "score": 558
+      },
+      "most_discussed": {
+        "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+        "comments": 255
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术及其社会影响，包括 AI 智能体引发的安全风险、职场 AI 辅助工具的效率质疑以及开源模型的研究进展。此外，技术社区对开源项目、遗留代码的趣味应用以及系统架构的底层逻辑保持了持续关注。"
   }
 }
