@@ -1,0 +1,167 @@
+{
+  "morning": {
+    "time": "2026-06-11 10:30",
+    "stories": [
+      {
+        "id": 48484584,
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "domain": "lwn.net",
+        "score": 113,
+        "descendants": 20,
+        "by": "tanelpoder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析AI Agent在Fedora等系统中运行失控的潜在安全威胁。"
+      },
+      {
+        "id": 48478969,
+        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "domain": "techcrunch.com",
+        "score": 236,
+        "descendants": 226,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Security",
+          "Science"
+        ],
+        "summary": "网络安全研究员批评Anthropic的Fable平台安全护栏不足。"
+      },
+      {
+        "id": 48480978,
+        "title": "πFS",
+        "url": "https://github.com/philipl/pifs",
+        "domain": "github.com",
+        "score": 535,
+        "descendants": 137,
+        "by": "helterskelter",
+        "tags": [],
+        "summary": "介绍名为πFS的创新文件系统项目。"
+      },
+      {
+        "id": 48483387,
+        "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+        "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+        "domain": "smithsonianmag.com",
+        "score": 105,
+        "descendants": 62,
+        "by": "grahambargeron",
+        "tags": [],
+        "summary": "探讨切罗基语书写系统因高效性而被误认为是魔法的文化历史。"
+      },
+      {
+        "id": 48464258,
+        "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+        "domain": "support.claude.com",
+        "score": 205,
+        "descendants": 85,
+        "by": "lebovic",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Anthropic宣布针对Fable与Mythos服务实施强制性30天数据保留政策。"
+      },
+      {
+        "id": 48470748,
+        "title": "Vacuum-Form Signage",
+        "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
+        "domain": "bethmathews.substack.com",
+        "score": 17,
+        "descendants": 2,
+        "by": "benbreen",
+        "tags": [],
+        "summary": "记录真空成型工艺制作标识牌的技术与审美探讨。"
+      },
+      {
+        "id": 48477135,
+        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+        "url": "https://news.ycombinator.com/item?id=48477135",
+        "domain": "news.ycombinator.com",
+        "score": 537,
+        "descendants": 431,
+        "by": "eries",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "《精益创业》作者Eric Ries就新作《Incorruptible》进行社区AMA互动。"
+      },
+      {
+        "id": 48450024,
+        "title": "Klondike Solitaire game for curses in 5k of C",
+        "url": "https://nanochess.org/klondike_in_c.html",
+        "domain": "nanochess.org",
+        "score": 17,
+        "descendants": 0,
+        "by": "nanochess",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个仅用5KB C代码编写的终端版克朗代克纸牌游戏。"
+      },
+      {
+        "id": 48479705,
+        "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+        "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+        "domain": "spectrum.ieee.org",
+        "score": 177,
+        "descendants": 38,
+        "by": "pseudolus",
+        "tags": [
+          "Science"
+        ],
+        "summary": "揭秘JPL工程团队如何维护已在火星运行13年的好奇号漫游车。"
+      },
+      {
+        "id": 48476466,
+        "title": "PgDog is funded and coming to a database near you",
+        "url": "https://pgdog.dev/blog/our-funding-announcement",
+        "domain": "pgdog.dev",
+        "score": 393,
+        "descendants": 199,
+        "by": "levkk",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍获得融资的数据库守护程序PgDog及其未来计划。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lwn.net",
+          "count": 1
+        },
+        {
+          "domain": "techcrunch.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 234,
+      "max_score": {
+        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+        "score": 537
+      },
+      "most_discussed": {
+        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+        "comments": 431
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Security",
+        "Systems",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于人工智能的安全与治理，特别是Anthropic相关工具的争议性条款及AI Agent的潜在风险。同时，技术社区对开源项目、数据库工具以及科学史研究保持高度关注，反映出开发者在追求技术创新与关注系统鲁棒性之间的平衡。"
+  }
+}
