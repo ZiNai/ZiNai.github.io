@@ -163,5 +163,170 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于人工智能的安全与治理，特别是Anthropic相关工具的争议性条款及AI Agent的潜在风险。同时，技术社区对开源项目、数据库工具以及科学史研究保持高度关注，反映出开发者在追求技术创新与关注系统鲁棒性之间的平衡。"
+  },
+  "noon": {
+    "time": "2026-06-11 16:26",
+    "stories": [
+      {
+        "id": 48487029,
+        "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+        "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+        "domain": "dronexl.co",
+        "score": 133,
+        "descendants": 54,
+        "by": "vrganj",
+        "tags": [
+          "AI"
+        ],
+        "summary": "揭秘Pokémon Go的地理扫描数据如何被用于训练军事级无人机导航系统。"
+      },
+      {
+        "id": 48484584,
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "domain": "lwn.net",
+        "score": 366,
+        "descendants": 126,
+        "by": "tanelpoder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI代理在Fedora等Linux发行版中因权限处理不当导致系统风险的案例。"
+      },
+      {
+        "id": 48478969,
+        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "domain": "techcrunch.com",
+        "score": 409,
+        "descendants": 360,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Security",
+          "Science"
+        ],
+        "summary": "网络安全研究人员质疑Anthropic Fable模型所设定的安全防护机制是否过于僵化。"
+      },
+      {
+        "id": 48486944,
+        "title": "Macaroni – a single HTML file messenger",
+        "url": "https://github.com/vanyapr/makaroshki",
+        "domain": "github.com",
+        "score": 28,
+        "descendants": 27,
+        "by": "snowflaxxx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍一款名为Macaroni的极简主义单文件HTML即时通讯工具。"
+      },
+      {
+        "id": 48480978,
+        "title": "πFS",
+        "url": "https://github.com/philipl/pifs",
+        "domain": "github.com",
+        "score": 721,
+        "descendants": 170,
+        "by": "helterskelter",
+        "tags": [],
+        "summary": "关于πFS（PiFS）文件系统的技术实现与探讨。"
+      },
+      {
+        "id": 48464258,
+        "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+        "domain": "support.claude.com",
+        "score": 391,
+        "descendants": 194,
+        "by": "lebovic",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Anthropic宣布针对Fable和Mythos模型强制实施30天的数据保留政策引发隐私讨论。"
+      },
+      {
+        "id": 48455145,
+        "title": "Starfish by Peter Watts (1999)",
+        "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
+        "domain": "rifters.com",
+        "score": 33,
+        "descendants": 5,
+        "by": "zetalyrae",
+        "tags": [],
+        "summary": "推荐Peter Watts于1999年创作的科幻小说《Starfish》。"
+      },
+      {
+        "id": 48433777,
+        "title": "Reverse engineering the Creative Katana soundbar to control it from Linux",
+        "url": "https://blog.nns.ee/2026/02/20/katana-v2x-re/",
+        "domain": "blog.nns.ee",
+        "score": 52,
+        "descendants": 2,
+        "by": "theanonymousone",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开发者通过逆向工程实现对Creative Katana声霸音箱在Linux环境下的深度控制。"
+      },
+      {
+        "id": 48483387,
+        "title": "Sequoyah’s syllabary created a written language for the Cherokee",
+        "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+        "domain": "smithsonianmag.com",
+        "score": 150,
+        "descendants": 91,
+        "by": "grahambargeron",
+        "tags": [],
+        "summary": "讲述Sequoyah如何通过创造音节文字为切罗基族建立书面语言的历史贡献。"
+      },
+      {
+        "id": 48477135,
+        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+        "url": "https://news.ycombinator.com/item?id=48477135",
+        "domain": "news.ycombinator.com",
+        "score": 643,
+        "descendants": 483,
+        "by": "eries",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "《精益创业》作者Eric Ries携新书《Incorruptible》进行社区问答（AMA）。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "dronexl.co",
+          "count": 1
+        },
+        {
+          "domain": "lwn.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 293,
+      "max_score": {
+        "title": "πFS",
+        "score": 721
+      },
+      "most_discussed": {
+        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+        "comments": 483
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Science",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在AI技术应用及其深层争议，涵盖了Anthropic模型的安全与数据隐私问题及AI系统自动化失控的风险。此外，社区还关注了地理空间测绘技术、开源工具开发以及历史语言学与商业管理等跨领域议题。"
   }
 }
