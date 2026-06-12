@@ -311,5 +311,147 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的进展与争议，涵盖了AI Agent的失控风险、Anthropic产品Claude Fable的舆论风波及治理问题。同时，技术社区对于人类协作准则、数字化主权以及老牌开源工具Homebrew的重大更新表现出持续关注。"
+  },
+  "evening": {
+    "time": "2026-06-12 22:48",
+    "stories": [
+      {
+        "id": 48504063,
+        "title": "WASI 0.3.0 Released",
+        "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
+        "domain": "github.com",
+        "score": 56,
+        "descendants": 7,
+        "by": "mavdol04",
+        "tags": [],
+        "summary": "WASI 0.3.0 正式发布，标志着 WebAssembly 系统接口的进一步演进。"
+      },
+      {
+        "id": 48500012,
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "domain": "lantian.pub",
+        "score": 1075,
+        "descendants": 395,
+        "by": "xiaoyu2006",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个 AI 代理在尝试扫描 DN42 网络时因失控导致操作员遭遇严重经济损失的案例分析。"
+      },
+      {
+        "id": 48503014,
+        "title": "Maxproof",
+        "url": "https://arxiv.org/abs/2606.13473",
+        "domain": "arxiv.org",
+        "score": 71,
+        "descendants": 7,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "关于 Maxproof 的学术研究，探讨了相关技术领域的证明机制。"
+      },
+      {
+        "id": 48502321,
+        "title": "The Future of Email",
+        "url": "https://www.fastmail.com/blog/the-future-of-email/",
+        "domain": "fastmail.com",
+        "score": 126,
+        "descendants": 134,
+        "by": "soheilpro",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Fastmail 深度探讨电子邮件在当前互联网环境下的演变与未来发展。"
+      },
+      {
+        "id": 48497609,
+        "title": "If you are asking for human attention, demonstrate human effort",
+        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "domain": "tombedor.dev",
+        "score": 1137,
+        "descendants": 375,
+        "by": "jjfoooo4",
+        "tags": [],
+        "summary": "作者强调在寻求他人帮助前，必须展示出相应的努力，以建立高效沟通的准则。"
+      },
+      {
+        "id": 48498385,
+        "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "domain": "web.mit.edu",
+        "score": 602,
+        "descendants": 194,
+        "by": "sam_bristow",
+        "tags": [],
+        "summary": "一篇 2001 年的经典文章，探讨了预防性维护中那些隐形却至关重要的贡献。"
+      },
+      {
+        "id": 48498573,
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "domain": "simonwillison.net",
+        "score": 616,
+        "descendants": 491,
+        "by": "lumpa",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Simon Willison 解析 Claude Fable 如何通过主动交互改变用户与 AI 的协作体验。"
+      },
+      {
+        "id": 48504697,
+        "title": "A Call to Action: Stop the FCC's KYC Regime",
+        "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+        "domain": "blog.lopp.net",
+        "score": 3,
+        "descendants": 0,
+        "by": "FergusArgyll",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "呼吁行动以阻止 FCC 提议的 KYC 身份验证规则，保护互联网匿名性。"
+      },
+      {
+        "id": 48500447,
+        "title": "AUR Packages Compromised with Infostealer and Rootkit",
+        "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+        "domain": "discourse.ifin.network",
+        "score": 144,
+        "descendants": 78,
+        "by": "keyle",
+        "tags": [],
+        "summary": "AUR 软件包被发现遭黑客植入信息窃取木马和 Rootkit，提醒开发者警惕供应链安全。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "lantian.pub",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 426,
+      "max_score": {
+        "title": "If you are asking for human attention, demonstrate human effort",
+        "score": 1137
+      },
+      "most_discussed": {
+        "title": "Claude Fable is relentlessly proactive",
+        "comments": 491
+      },
+      "hot_tags": [
+        "AI",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在技术安全与 AI 的深远影响。讨论涵盖了 AI 代理引发的经济风险、网络安全事件（如 AUR 供应链攻击），以及对人工智能交互模式与数字基础设施（如 FCC 监管、电子邮件）的深度思考。"
   }
 }
