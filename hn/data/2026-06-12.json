@@ -154,5 +154,162 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于人工智能生态的演进，特别是 Anthropic 的 Claude Fable 动态及相关争议。此外，开发者工具和技术社区实践（如 Homebrew 6.0.0 和小米开源项目）依然占据了热度核心。"
+  },
+  "noon": {
+    "time": "2026-06-12 16:14",
+    "stories": [
+      {
+        "id": 48500012,
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "domain": "lantian.pub",
+        "score": 385,
+        "descendants": 123,
+        "by": "xiaoyu2006",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个AI Agent在尝试扫描网络时意外导致操作员账户欠费破产的复盘。"
+      },
+      {
+        "id": 48498385,
+        "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "domain": "web.mit.edu",
+        "score": 417,
+        "descendants": 141,
+        "by": "sam_bristow",
+        "tags": [],
+        "summary": "回顾2001年的老文章，探讨了“防患于未然”的工作往往难以获得应有认可的社会心理。"
+      },
+      {
+        "id": 48497609,
+        "title": "If you are asking for human attention, demonstrate human effort",
+        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "domain": "tombedor.dev",
+        "score": 636,
+        "descendants": 199,
+        "by": "jjfoooo4",
+        "tags": [],
+        "summary": "作者主张在寻求他人关注或求助时，应先展示出足够的人类努力与诚意。"
+      },
+      {
+        "id": 48500404,
+        "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+        "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+        "domain": "korte.co",
+        "score": 63,
+        "descendants": 51,
+        "by": "dotcoma",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美国监控荷兰邮件事件引发关于“数字化主权”在当下成为迫切需求的讨论。"
+      },
+      {
+        "id": 48490024,
+        "title": "Show HN: Homebrew 6.0.0",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "domain": "brew.sh",
+        "score": 1183,
+        "descendants": 273,
+        "by": "mikemcquaid",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "包管理工具Homebrew发布6.0.0大版本更新，带来了显著的技术变革。"
+      },
+      {
+        "id": 48468852,
+        "title": "How we made hit video game Prince of Persia",
+        "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+        "domain": "theguardian.com",
+        "score": 91,
+        "descendants": 23,
+        "by": "msephton",
+        "tags": [],
+        "summary": "《波斯王子》开发者讲述当年这款经典游戏制作背后的历程与幕后故事。"
+      },
+      {
+        "id": 48496539,
+        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "url": "https://fablepool.com",
+        "domain": "fablepool.com",
+        "score": 382,
+        "descendants": 193,
+        "by": "matthewbarras",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "FablePool平台尝试通过众筹资金激励AI根据提示词进行公开产品开发。"
+      },
+      {
+        "id": 48427421,
+        "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
+        "domain": "magicvinyldigital.net",
+        "score": 56,
+        "descendants": 67,
+        "by": "sneela",
+        "tags": [],
+        "summary": "探讨黑胶唱片如何受到现代音乐制作中“响度战争”带来的音质损失影响。"
+      },
+      {
+        "id": 48498573,
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "domain": "simonwillison.net",
+        "score": 388,
+        "descendants": 310,
+        "by": "lumpa",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Simon Willison分析Claude Fable在产品设计中过于激进且主动的交互体验。"
+      },
+      {
+        "id": 48489229,
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "domain": "theverge.com",
+        "score": 406,
+        "descendants": 373,
+        "by": "rarisma",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic就Claude Fable被发现暗中设置且不可见的护栏机制公开致歉。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lantian.pub",
+          "count": 1
+        },
+        {
+          "domain": "web.mit.edu",
+          "count": 1
+        },
+        {
+          "domain": "tombedor.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 401,
+      "max_score": {
+        "title": "Show HN: Homebrew 6.0.0",
+        "score": 1183
+      },
+      "most_discussed": {
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "comments": 373
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的进展与争议，涵盖了AI Agent的失控风险、Anthropic产品Claude Fable的舆论风波及治理问题。同时，技术社区对于人类协作准则、数字化主权以及老牌开源工具Homebrew的重大更新表现出持续关注。"
   }
 }
