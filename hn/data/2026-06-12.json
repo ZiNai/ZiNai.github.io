@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-06-12 10:13",
+    "stories": [
+      {
+        "id": 48498385,
+        "title": "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "domain": "web.mit.edu",
+        "score": 84,
+        "descendants": 23,
+        "by": "sam_bristow",
+        "tags": [],
+        "summary": "回顾 2002 年的经典文章，探讨为何预防性维护工作往往难以获得应有的认可。"
+      },
+      {
+        "id": 48498573,
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "domain": "simonwillison.net",
+        "score": 39,
+        "descendants": 20,
+        "by": "lumpa",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Simon Willison 讨论 Claude Fable 展现出的极高主动性及其潜在的技术意义。"
+      },
+      {
+        "id": 48490024,
+        "title": "Show HN: Homebrew 6.0.0",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "domain": "brew.sh",
+        "score": 995,
+        "descendants": 237,
+        "by": "mikemcquaid",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "macOS 必备包管理器 Homebrew 正式发布 6.0.0 版本。"
+      },
+      {
+        "id": 48496539,
+        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "url": "https://fablepool.com",
+        "domain": "fablepool.com",
+        "score": 255,
+        "descendants": 150,
+        "by": "matthewbarras",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍一个通过众筹推动 Prompt 构思，并由 Fable 公开构建的新型平台。"
+      },
+      {
+        "id": 48497609,
+        "title": "If you are asking for human attention, demonstrate human effort",
+        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "domain": "tombedor.dev",
+        "score": 278,
+        "descendants": 77,
+        "by": "jjfoooo4",
+        "tags": [],
+        "summary": "呼吁在寻求他人帮助时，应先展示出足够的个人努力以示尊重。"
+      },
+      {
+        "id": 48487229,
+        "title": "A greyscale iPhone setup that works in everyday life",
+        "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+        "domain": "fabianhemmert.com",
+        "score": 38,
+        "descendants": 24,
+        "by": "hemmert",
+        "tags": [],
+        "summary": "探讨将 iPhone 设置为灰度模式以改善日常使用习惯的实践心得。"
+      },
+      {
+        "id": 48490826,
+        "title": "MiMo Code is now released and open-source",
+        "url": "https://mimo.xiaomi.com/mimocode",
+        "domain": "mimo.xiaomi.com",
+        "score": 427,
+        "descendants": 244,
+        "by": "apeters",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "小米官方正式宣布开源 MiMo Code，并分享相关技术细节。"
+      },
+      {
+        "id": 48489229,
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "domain": "theverge.com",
+        "score": 321,
+        "descendants": 311,
+        "by": "rarisma",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 就 Claude Fable 中未公开的隐形审查机制向公众致歉。"
+      },
+      {
+        "id": 48491830,
+        "title": "Petition to Withdraw Canada's Bill C-22",
+        "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+        "domain": "ourcommons.ca",
+        "score": 363,
+        "descendants": 126,
+        "by": "hmokiguess",
+        "tags": [],
+        "summary": "关于撤回加拿大 C-22 法案的议会请愿相关动态。"
+      },
+      {
+        "id": 48474274,
+        "title": "Emacs appearances in pop culture",
+        "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+        "domain": "ianyepan.github.io",
+        "score": 263,
+        "descendants": 70,
+        "by": "ggcr",
+        "tags": [],
+        "summary": "搜集并盘点 Emacs 在各类流行文化作品中的有趣客串瞬间。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "web.mit.edu",
+          "count": 1
+        },
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        },
+        {
+          "domain": "brew.sh",
+          "count": 1
+        }
+      ],
+      "avg_score": 306,
+      "max_score": {
+        "title": "Show HN: Homebrew 6.0.0",
+        "score": 995
+      },
+      "most_discussed": {
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "comments": 311
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能生态的演进，特别是 Anthropic 的 Claude Fable 动态及相关争议。此外，开发者工具和技术社区实践（如 Homebrew 6.0.0 和小米开源项目）依然占据了热度核心。"
+  }
+}
