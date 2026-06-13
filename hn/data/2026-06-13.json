@@ -315,5 +315,165 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的监管风暴与行业争议，尤其是Anthropic发布的关于Fable 5和Mythos 5的限制声明引发了广泛讨论。此外，硬科技进展如无稀土电机和癌症基因编辑技术也备受关注，显示出社区对前沿技术安全性与地缘政治影响的双重关切。"
+  },
+  "evening": {
+    "time": "2026-06-13 21:50",
+    "stories": [
+      {
+        "id": 48516504,
+        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+        "url": "https://github.com/tensorzero/tensorzero",
+        "domain": "github.com",
+        "score": 47,
+        "descendants": 16,
+        "by": "hek2sch",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个AI开源工具在融资730万美元后突然归档，引发社区对其商业动机的强烈质疑。"
+      },
+      {
+        "id": 48515336,
+        "title": "A low-carbon computing platform from your retired phones",
+        "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+        "domain": "research.google",
+        "score": 98,
+        "descendants": 41,
+        "by": "vikas-sharma",
+        "tags": [],
+        "summary": "Google研究人员探索将旧手机回收并转化为低碳计算平台的实验方案。"
+      },
+      {
+        "id": 48516573,
+        "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+        "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+        "domain": "chipsandcheese.com",
+        "score": 18,
+        "descendants": 0,
+        "by": "lumpa",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Intel Xeon 6产品总监访谈，深度探讨高性能服务器芯片的技术架构与未来方向。"
+      },
+      {
+        "id": 48479008,
+        "title": "The state of building user interfaces in Rust",
+        "url": "https://areweguiyet.com/#ecosystem",
+        "domain": "areweguiyet.com",
+        "score": 55,
+        "descendants": 28,
+        "by": "mahirsaid",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "全面盘点当前Rust语言在UI开发领域的生态现状与技术挑战。"
+      },
+      {
+        "id": 48513806,
+        "title": "Leaving Mozilla",
+        "url": "https://blog.unitedheroes.net/5751",
+        "domain": "blog.unitedheroes.net",
+        "score": 343,
+        "descendants": 191,
+        "by": "martey",
+        "tags": [],
+        "summary": "一位核心开发者公开解释离开Mozilla的原因，揭示了公司内部文化与战略的深层矛盾。"
+      },
+      {
+        "id": 48510010,
+        "title": "Electric motors with no rare earths",
+        "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+        "domain": "renaultgroup.com",
+        "score": 559,
+        "descendants": 165,
+        "by": "bestouff",
+        "tags": [],
+        "summary": "雷诺集团研发出无需稀土材料的新型电动机，旨在提升汽车制造业的供应链韧性。"
+      },
+      {
+        "id": 48516510,
+        "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+        "url": "https://hallucinate.site/gallery",
+        "domain": "hallucinate.site",
+        "score": 41,
+        "descendants": 11,
+        "by": "stagas",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个名为“Hallucinate”的个人项目展示，记录了作者两周内以摄影为媒介的探索。"
+      },
+      {
+        "id": 48511072,
+        "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+        "url": "https://www.anthropic.com/news/fable-mythos-access",
+        "domain": "anthropic.com",
+        "score": 2684,
+        "descendants": 1956,
+        "by": "Dylan1312",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Anthropic就美国政府指令暂停Fable 5和Mythos 5模型访问发布官方声明。"
+      },
+      {
+        "id": 48505231,
+        "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+        "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+        "domain": "innovativegenomics.org",
+        "score": 870,
+        "descendants": 198,
+        "by": "gmays",
+        "tags": [],
+        "summary": "CRISPR基因编辑技术取得突破，能够精准识别并摧毁包括“不可成药”类型在内的多种癌细胞。"
+      },
+      {
+        "id": 48516379,
+        "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+        "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+        "domain": "phoronix.com",
+        "score": 84,
+        "descendants": 27,
+        "by": "qwertox",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Arch Linux官方确认已控制此前涉及1500多个软件包的恶意软件入侵事件。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "research.google",
+          "count": 1
+        },
+        {
+          "domain": "chipsandcheese.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 480,
+      "max_score": {
+        "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+        "score": 2684
+      },
+      "most_discussed": {
+        "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+        "comments": 1956
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Hardware",
+        "Rust",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于前沿科技突破与行业动荡，包括抗癌CRISPR技术的进展及罕见材料替代方案。同时，科技圈对AI监管合规及开源工具资本化引发的信任危机展开了广泛讨论。"
   }
 }
