@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-06-13 10:06",
+    "stories": [
+      {
+        "id": 48511072,
+        "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+        "url": "https://www.anthropic.com/news/fable-mythos-access",
+        "domain": "anthropic.com",
+        "score": 667,
+        "descendants": 390,
+        "by": "Dylan1312",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "美国政府发布指令要求暂停对Anthropic Fable 5和Mythos 5模型的访问权限。"
+      },
+      {
+        "id": 48510010,
+        "title": "Renault: Electric motors with no rare earths",
+        "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+        "domain": "renaultgroup.com",
+        "score": 208,
+        "descendants": 55,
+        "by": "bestouff",
+        "tags": [],
+        "summary": "雷诺汽车宣布开发出无需稀土材料的新型电动机技术。"
+      },
+      {
+        "id": 48505231,
+        "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+        "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+        "domain": "innovativegenomics.org",
+        "score": 706,
+        "descendants": 176,
+        "by": "gmays",
+        "tags": [],
+        "summary": "CRISPR基因编辑技术被证实可精准清除包括“不可成药”在内的多种癌细胞。"
+      },
+      {
+        "id": 48510046,
+        "title": "Twenty One Zero-Days in FFmpeg",
+        "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+        "domain": "depthfirst.com",
+        "score": 101,
+        "descendants": 45,
+        "by": "redbell",
+        "tags": [
+          "Security"
+        ],
+        "summary": "分析指出FFmpeg多媒体框架中存在21个零日漏洞。"
+      },
+      {
+        "id": 48508726,
+        "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+        "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+        "domain": "swift.org",
+        "score": 136,
+        "descendants": 63,
+        "by": "DASD",
+        "tags": [],
+        "summary": "恶意软件开发者被发现将核武器与生物武器相关文本注入间谍软件代码中。"
+      },
+      {
+        "id": 48507020,
+        "title": "How to setup a local coding agent on macOS",
+        "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+        "domain": "ikyle.me",
+        "score": 264,
+        "descendants": 71,
+        "by": "kkm",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "关于如何在macOS上部署本地运行代码代理的实操指南。"
+      },
+      {
+        "id": 48495928,
+        "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+        "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+        "domain": "twitter.com",
+        "score": 310,
+        "descendants": 189,
+        "by": "marc__1",
+        "tags": []
+      },
+      {
+        "id": 48484496,
+        "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+        "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+        "domain": "eff.org",
+        "score": 126,
+        "descendants": 33,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "讨论H.R. 6028法案对美国版权局职能及运作模式的潜在深远影响。"
+      },
+      {
+        "id": 48510341,
+        "title": "Show HN: Putt.day a daily mini golf game",
+        "url": "https://putt.day/",
+        "domain": "putt.day",
+        "score": 71,
+        "descendants": 55,
+        "by": "ellg",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "介绍一款名为Putt.day的每日迷你高尔夫网页游戏。"
+      },
+      {
+        "id": 48506659,
+        "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+        "url": "https://piwodlaiwo.github.io/pirates/",
+        "domain": "piwodlaiwo.github.io",
+        "score": 196,
+        "descendants": 73,
+        "by": "iweczek",
+        "tags": [],
+        "summary": "展示了一款致敬经典作品《席德·梅尔的海盗》的海战风格独立游戏。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "renaultgroup.com",
+          "count": 1
+        },
+        {
+          "domain": "innovativegenomics.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 278,
+      "max_score": {
+        "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+        "score": 706
+      },
+      "most_discussed": {
+        "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+        "comments": 390
+      },
+      "hot_tags": [
+        "Systems",
+        "Security",
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于技术安全与合规挑战，从政府对AI模型的监管指令到恶意软件潜伏的潜在威胁，揭示了科技领域日益复杂的政策与安全环境。同时，生物医疗技术、开源项目进展以及独立游戏开发也展现了技术社区在学术创新与个人创造力上的持续活跃。"
+  }
+}
