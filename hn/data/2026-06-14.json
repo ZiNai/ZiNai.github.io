@@ -318,5 +318,156 @@
       ]
     },
     "summary": "今日Hacker News重点关注数据隐私保护、深度软件技术演进及怀旧计算设备的复兴。从统计噪声控制到编程库更新，技术圈正展现出对底层工具实用性与透明度的深入探讨。"
+  },
+  "evening": {
+    "time": "2026-06-14 21:52",
+    "stories": [
+      {
+        "id": 48526661,
+        "title": "The Birth and Death of JavaScript (2014)",
+        "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+        "domain": "destroyallsoftware.com",
+        "score": 56,
+        "descendants": 20,
+        "by": "subset",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "回顾JavaScript的发展历程与设计哲学，重温这篇广为流传的经典技术评论。"
+      },
+      {
+        "id": 48471638,
+        "title": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
+        "domain": "screen.toys",
+        "score": 82,
+        "descendants": 20,
+        "by": "memalign",
+        "tags": [],
+        "summary": "一款极简的劈柴模拟器，通过交互提供轻松的解压体验。"
+      },
+      {
+        "id": 48523992,
+        "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+        "url": "https://sqltoerdiagram.com/",
+        "domain": "sqltoerdiagram.com",
+        "score": 258,
+        "descendants": 50,
+        "by": "robhati",
+        "tags": [
+          "Web",
+          "Database"
+        ],
+        "summary": "完全在浏览器端运行的免费SQL转ER图工具，无需后端上传即可确保数据隐私。"
+      },
+      {
+        "id": 48526793,
+        "title": "How did Atari apply side art to Arcade Cabinets?",
+        "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+        "domain": "arcadeblogger.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "msephton",
+        "tags": [],
+        "summary": "深度探究Atari公司如何为早期的街机机柜进行丝网印刷和侧面艺术装贴。"
+      },
+      {
+        "id": 48523080,
+        "title": "Honda Civics and the Evil Valet",
+        "url": "https://juniperspring.org/posts/honda-evil-valet/",
+        "domain": "juniperspring.org",
+        "score": 330,
+        "descendants": 71,
+        "by": "librick",
+        "tags": [],
+        "summary": "通过本田思域与代客泊车的故事，反思现代车辆钥匙系统的安全性与设计缺陷。"
+      },
+      {
+        "id": 48518684,
+        "title": "GLM 5.2 Is Out",
+        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "domain": "twitter.com",
+        "score": 673,
+        "descendants": 393,
+        "by": "aloknnikhil",
+        "tags": [],
+        "summary": "主流C++数学库GLM发布5.2版本，带来性能提升与更多函数支持。"
+      },
+      {
+        "id": 48492366,
+        "title": "Windows 1.0 and the WinAPI, 40 Years Later",
+        "url": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
+        "domain": "medium.com",
+        "score": 31,
+        "descendants": 18,
+        "by": "jhack",
+        "tags": [],
+        "summary": "跨越40年的回顾，探讨Windows 1.0架构及其底层API对现代软件的影响。"
+      },
+      {
+        "id": 48526360,
+        "title": "How to Earn a Billion Dollars",
+        "url": "https://paulgraham.com/earn.html",
+        "domain": "paulgraham.com",
+        "score": 67,
+        "descendants": 141,
+        "by": "kingstoned",
+        "tags": [],
+        "summary": "Paul Graham通过历史视角探讨创业成功与财富积累的本质规律。"
+      },
+      {
+        "id": 48499348,
+        "title": "Historic co-determination helps monasteries navigate digital change",
+        "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+        "domain": "phys.org",
+        "score": 55,
+        "descendants": 36,
+        "by": "indynz",
+        "tags": [],
+        "summary": "探讨历史悠久的共同决策机制如何帮助传统修道院适应数字化转型的挑战。"
+      },
+      {
+        "id": 48517377,
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "url": "https://desfontain.es/blog/banning-noise.html",
+        "domain": "desfontain.es",
+        "score": 852,
+        "descendants": 536,
+        "by": "nl",
+        "tags": [],
+        "summary": "分析美国人口普查局为何叫停在统计产品中使用噪声注入技术及其带来的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "destroyallsoftware.com",
+          "count": 1
+        },
+        {
+          "domain": "screen.toys",
+          "count": 1
+        },
+        {
+          "domain": "sqltoerdiagram.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 241,
+      "max_score": {
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "score": 852
+      },
+      "most_discussed": {
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "comments": 536
+      },
+      "hot_tags": [
+        "JavaScript",
+        "Web",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点涵盖了从计算机视觉、统计学隐私保护到游戏工程历史等多样主题。用户对技术工具的发布（如GLM 5.2）保持高度关注，同时也在探讨硅谷财富观及复古技术背后的人文与工程细节。"
   }
 }
