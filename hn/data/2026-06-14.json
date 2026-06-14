@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-06-14 10:29",
+    "stories": [
+      {
+        "id": 48517377,
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "url": "https://desfontain.es/blog/banning-noise.html",
+        "domain": "desfontain.es",
+        "score": 742,
+        "descendants": 469,
+        "by": "nl",
+        "tags": [],
+        "summary": "美国普查局因准确性顾虑暂停在统计产品中使用“噪声注入”隐私保护技术。"
+      },
+      {
+        "id": 48518684,
+        "title": "GLM 5.2 Is Out",
+        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "domain": "twitter.com",
+        "score": 373,
+        "descendants": 210,
+        "by": "aloknnikhil",
+        "tags": [],
+        "summary": "OpenGL数学库GLM发布5.2版本，带来性能提升与更多编译器支持。"
+      },
+      {
+        "id": 48516251,
+        "title": "Every Frame Perfect",
+        "url": "https://tonsky.me/blog/every-frame-perfect/",
+        "domain": "tonsky.me",
+        "score": 579,
+        "descendants": 190,
+        "by": "ravenical",
+        "tags": [],
+        "summary": "深度技术文章探讨现代软件渲染管线中实现“每帧完美”的技术挑战与优化方案。"
+      },
+      {
+        "id": 48462759,
+        "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+        "url": "https://blog.pyodide.org/posts/314-release/",
+        "domain": "blog.pyodide.org",
+        "score": 85,
+        "descendants": 16,
+        "by": "agriyakhetarpal",
+        "tags": [
+          "Python",
+          "Web",
+          "Systems"
+        ],
+        "summary": "Pyodide 314.0版本更新，支持Python包直接发布WebAssembly轮子文件至PyPI。"
+      },
+      {
+        "id": 48517199,
+        "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+        "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+        "domain": "economist.com",
+        "score": 306,
+        "descendants": 109,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "科学家在胰腺肿瘤治疗研究中，发现了一个可能控制癌症扩散的潜在“主开关”。"
+      },
+      {
+        "id": 48523080,
+        "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+        "url": "https://juniperspring.org/posts/honda-evil-valet/",
+        "domain": "juniperspring.org",
+        "score": 23,
+        "descendants": 3,
+        "by": "librick",
+        "tags": [],
+        "summary": "研究人员发现第10代本田思域的信息娱乐系统更新签名竟使用了AOSP测试密钥。"
+      },
+      {
+        "id": 48490927,
+        "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+        "url": "https://github.com/kekcleader/FreeOberon",
+        "domain": "github.com",
+        "score": 24,
+        "descendants": 7,
+        "by": "peter_d_sherman",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "FreeOberon是一个开源、跨平台，且类似Free Pascal的现代编程语言项目。"
+      },
+      {
+        "id": 48522486,
+        "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+        "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+        "domain": "phoronix.com",
+        "score": 99,
+        "descendants": 12,
+        "by": "jeditobe",
+        "tags": [
+          "JavaScript",
+          "Systems",
+          "Hardware",
+          "Open Source"
+        ],
+        "summary": "开源Windows替代系统ReactOS成功在真实硬件上运行具有3D加速的《半条命》。"
+      },
+      {
+        "id": 48523271,
+        "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+        "domain": "wired.com",
+        "score": 37,
+        "descendants": 24,
+        "by": "momentmaker",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Wired报道称Meta新的AI部门内部因管理混乱和策略摇摆陷入困局。"
+      },
+      {
+        "id": 48520080,
+        "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+        "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+        "domain": "chrisdevblog.com",
+        "score": 79,
+        "descendants": 17,
+        "by": "rasz",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "硬核极客通过自制x86 BIOS，成功在百灵达DDX3216数字调音台上运行DOS。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "desfontain.es",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "tonsky.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 235,
+      "max_score": {
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "score": 742
+      },
+      "most_discussed": {
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "comments": 469
+      },
+      "hot_tags": [
+        "Systems",
+        "Open Source",
+        "Python",
+        "Web",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术深度与前沿科研，既有对人口普查数据隐私保护机制的深度探讨，也有高性能计算与编程语言更新。同时，极客社区展现出对老旧硬件创新利用及AI行业内部动荡的浓厚兴趣。"
+  }
+}
