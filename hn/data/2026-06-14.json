@@ -161,5 +161,162 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了技术深度与前沿科研，既有对人口普查数据隐私保护机制的深度探讨，也有高性能计算与编程语言更新。同时，极客社区展现出对老旧硬件创新利用及AI行业内部动荡的浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-06-14 16:06",
+    "stories": [
+      {
+        "id": 48524620,
+        "title": "Don't trust large context windows",
+        "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+        "domain": "garrit.xyz",
+        "score": 32,
+        "descendants": 21,
+        "by": "computersuck",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "深入探讨了大型语言模型超长上下文窗口可能存在的逻辑可靠性陷阱。"
+      },
+      {
+        "id": 48523080,
+        "title": "Honda Civics and the Evil Valet",
+        "url": "https://juniperspring.org/posts/honda-evil-valet/",
+        "domain": "juniperspring.org",
+        "score": 238,
+        "descendants": 39,
+        "by": "librick",
+        "tags": [],
+        "summary": "通过一起关于本田思域代客泊车的趣事，探讨了现代车辆数据隐私和钥匙功能的风险。"
+      },
+      {
+        "id": 48524293,
+        "title": "Phoenix LiveView 1.2 Released",
+        "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+        "domain": "phoenixframework.org",
+        "score": 64,
+        "descendants": 8,
+        "by": "ksec",
+        "tags": [],
+        "summary": "Phoenix LiveView 1.2 发布，进一步增强了 Elixir 构建交互式实时 Web 应用的能力。"
+      },
+      {
+        "id": 48524447,
+        "title": "Consciousness likely not unique to earthlings, paper says",
+        "url": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
+        "domain": "news.ucr.edu",
+        "score": 23,
+        "descendants": 20,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Science"
+        ],
+        "summary": "最新论文指出，意识可能并非地球生物特有，为探索外星生命认知提供了新视角。"
+      },
+      {
+        "id": 48523992,
+        "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+        "url": "https://sqltoerdiagram.com/",
+        "domain": "sqltoerdiagram.com",
+        "score": 70,
+        "descendants": 16,
+        "by": "robhati",
+        "tags": [
+          "Web",
+          "Database"
+        ],
+        "summary": "一个完全运行在浏览器端、无需上传数据的免费 SQL 转 ER 图工具。"
+      },
+      {
+        "id": 48518684,
+        "title": "GLM 5.2 Is Out",
+        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "domain": "twitter.com",
+        "score": 539,
+        "descendants": 284,
+        "by": "aloknnikhil",
+        "tags": [],
+        "summary": "OpenGL 数学库 GLM 更新至 5.2 版本，继续服务于图形开发领域。"
+      },
+      {
+        "id": 48517377,
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "url": "https://desfontain.es/blog/banning-noise.html",
+        "domain": "desfontain.es",
+        "score": 811,
+        "descendants": 507,
+        "by": "nl",
+        "tags": [],
+        "summary": "美国人口普查局宣布禁止在统计数据中使用“噪声注入”技术，引发对数据隐私保障手段的关注。"
+      },
+      {
+        "id": 48524434,
+        "title": "Tribblix: The retro Illumos distribution",
+        "url": "http://tribblix.org/",
+        "domain": "tribblix.org",
+        "score": 28,
+        "descendants": 7,
+        "by": "naturalmovement",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一款基于 Illumos 内核的复古风操作系统 Tribblix。"
+      },
+      {
+        "id": 48516251,
+        "title": "Every Frame Perfect",
+        "url": "https://tonsky.me/blog/every-frame-perfect/",
+        "domain": "tonsky.me",
+        "score": 676,
+        "descendants": 223,
+        "by": "ravenical",
+        "tags": [],
+        "summary": "深入探讨游戏开发中“逐帧完美”机制的技术实现及其背后的精度问题。"
+      },
+      {
+        "id": 48523615,
+        "title": "Building a serial and VGA \"everything console\"",
+        "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+        "domain": "oldvcr.blogspot.com",
+        "score": 25,
+        "descendants": 1,
+        "by": "classichasclass",
+        "tags": [],
+        "summary": "博主分享了如何构建一台集成串行接口与 VGA 输出的万能复古游戏机。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "garrit.xyz",
+          "count": 1
+        },
+        {
+          "domain": "juniperspring.org",
+          "count": 1
+        },
+        {
+          "domain": "phoenixframework.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 251,
+      "max_score": {
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "score": 811
+      },
+      "most_discussed": {
+        "title": "Noise infusion banned from statistical products published by Census Bureau",
+        "comments": 507
+      },
+      "hot_tags": [
+        "Rust",
+        "Science",
+        "Web",
+        "Database",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注数据隐私保护、深度软件技术演进及怀旧计算设备的复兴。从统计噪声控制到编程库更新，技术圈正展现出对底层工具实用性与透明度的深入探讨。"
   }
 }
