@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-06-15 10:33",
+    "stories": [
+      {
+        "id": 48533848,
+        "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+        "domain": "andreklein.net",
+        "score": 204,
+        "descendants": 79,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "探讨 Adobe DRM 与 Kobo 阅读器对 ePub 文件解析的兼容性冲突。"
+      },
+      {
+        "id": 48507039,
+        "title": "Write for One Person",
+        "url": "https://wizardzines.com/comics/write-for-one-person/",
+        "domain": "wizardzines.com",
+        "score": 96,
+        "descendants": 32,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "倡导写作应聚焦于单一读者，以提升沟通的深度与共鸣。"
+      },
+      {
+        "id": 48529990,
+        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "url": "https://github.com/tamnd/kage",
+        "domain": "github.com",
+        "score": 411,
+        "descendants": 91,
+        "by": "tamnd",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一款可以将网页转换为离线单文件二进制程序的开源工具。"
+      },
+      {
+        "id": 48496290,
+        "title": "Bitsy",
+        "url": "https://bitsy.org/",
+        "domain": "bitsy.org",
+        "score": 39,
+        "descendants": 3,
+        "by": "tosh",
+        "tags": [],
+        "summary": "介绍用于创作小巧互动游戏与叙事作品的 Bitsy 引擎。"
+      },
+      {
+        "id": 48471638,
+        "title": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
+        "domain": "screen.toys",
+        "score": 656,
+        "descendants": 215,
+        "by": "memalign",
+        "tags": [],
+        "summary": "一个简单且解压的网页版劈柴模拟器游戏。"
+      },
+      {
+        "id": 48528371,
+        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "domain": "github.com",
+        "score": 288,
+        "descendants": 152,
+        "by": "unrvl22",
+        "tags": [
+          "AI"
+        ],
+        "summary": "指控里约热内卢官方发布的所谓自研 LLM 实为简单的大模型合并产物。"
+      },
+      {
+        "id": 48532178,
+        "title": "AI is code – and can't be prompted into being smarter",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+        "domain": "theregister.com",
+        "score": 87,
+        "descendants": 50,
+        "by": "wglb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过代码视角论证 AI 的智能上限受限于架构，无法通过提示词无限拔高。"
+      },
+      {
+        "id": 48531449,
+        "title": "Chaosnet (1981)",
+        "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+        "domain": "tumbleweed.nu",
+        "score": 66,
+        "descendants": 7,
+        "by": "RGBCube",
+        "tags": [],
+        "summary": "回顾 1981 年的早期网络协议技术 Chaosnet 的历史。"
+      },
+      {
+        "id": 48521236,
+        "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+        "url": "https://traceapp.info",
+        "domain": "traceapp.info",
+        "score": 104,
+        "descendants": 43,
+        "by": "AG342",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款 macOS 离线会议转录工具，支持通话过程中实时标记要点。"
+      },
+      {
+        "id": 48534628,
+        "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+        "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+        "domain": "blog.apnic.net",
+        "score": 11,
+        "descendants": 1,
+        "by": "teleforce",
+        "tags": [],
+        "summary": "重新审视分布式计算八大谬论在发表 21 年后的持续影响力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "andreklein.net",
+          "count": 1
+        },
+        {
+          "domain": "wizardzines.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 196,
+      "max_score": {
+        "title": "Firewood Splitting Simulator",
+        "score": 656
+      },
+      "most_discussed": {
+        "title": "Firewood Splitting Simulator",
+        "comments": 215
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点聚集于数字工具与技术内幕，涵盖了电子书阅读体验争议、开发者工具分享以及对人工智能本质的理性探讨。社区不仅关注开源工具与模型透明度，还展现了对经典计算机科学理论与复古技术的持续关注。"
+  }
+}
