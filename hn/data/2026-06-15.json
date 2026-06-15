@@ -153,5 +153,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点聚集于数字工具与技术内幕，涵盖了电子书阅读体验争议、开发者工具分享以及对人工智能本质的理性探讨。社区不仅关注开源工具与模型透明度，还展现了对经典计算机科学理论与复古技术的持续关注。"
+  },
+  "evening": {
+    "time": "2026-06-15 17:50",
+    "stories": [
+      {
+        "id": 48533848,
+        "title": "Your ePub Is fine",
+        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+        "domain": "andreklein.net",
+        "score": 588,
+        "descendants": 197,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "探讨了电子书格式（ePub）的持久性与维护现状，认为其格式稳健无需过度担忧。"
+      },
+      {
+        "id": 48536776,
+        "title": "Apple Foundation Models",
+        "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+        "domain": "platform.claude.com",
+        "score": 130,
+        "descendants": 38,
+        "by": "MehrdadKhnzd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了苹果公司在基础模型领域的最新研究进展与技术布局。"
+      },
+      {
+        "id": 48535886,
+        "title": "Even more batteries included with Emacs",
+        "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+        "domain": "karthinks.com",
+        "score": 196,
+        "descendants": 38,
+        "by": "signa11",
+        "tags": [],
+        "summary": "介绍了Emacs编辑器集成的新功能，旨在进一步提升配置开箱即用的便利性。"
+      },
+      {
+        "id": 48537165,
+        "title": "Curl will not accept vulnerability reports during July 2026",
+        "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+        "domain": "daniel.haxx.se",
+        "score": 390,
+        "descendants": 143,
+        "by": "secret-noun",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Curl项目宣布在2026年7月暂停接收安全漏洞报告，引发社区关于维护压力与安全管理的讨论。"
+      },
+      {
+        "id": 48529990,
+        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "url": "https://github.com/tamnd/kage",
+        "domain": "github.com",
+        "score": 563,
+        "descendants": 110,
+        "by": "tamnd",
+        "tags": [
+          "Web",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 48490649,
+        "title": "There Is(Ǝ) – Such That (∋)",
+        "url": "https://www.fractalkitty.com/there-is-3-such-that/",
+        "domain": "fractalkitty.com",
+        "score": 34,
+        "descendants": 13,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "深入探讨了数学逻辑符号“存在”与“包含”背后的深层含义与演变。"
+      },
+      {
+        "id": 48496290,
+        "title": "Bitsy",
+        "url": "https://bitsy.org/",
+        "domain": "bitsy.org",
+        "score": 199,
+        "descendants": 6,
+        "by": "tosh",
+        "tags": [],
+        "summary": "介绍一款简洁的网页游戏创作工具，适合用于制作复古风格的叙事小游戏。"
+      },
+      {
+        "id": 48538229,
+        "title": "What the Fuck Happened to Nerds",
+        "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+        "domain": "mrmarket.lol",
+        "score": 116,
+        "descendants": 69,
+        "by": "vrnvu",
+        "tags": [],
+        "summary": "分析了“书呆子（Nerds）”文化在当代社会中的演变与边缘化现象。"
+      },
+      {
+        "id": 48471638,
+        "title": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
+        "domain": "screen.toys",
+        "score": 820,
+        "descendants": 242,
+        "by": "memalign",
+        "tags": [],
+        "summary": "一款极具解压感的伐木模拟器，通过简单的交互提供独特的沉浸式体验。"
+      },
+      {
+        "id": 48534628,
+        "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+        "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+        "domain": "blog.apnic.net",
+        "score": 88,
+        "descendants": 16,
+        "by": "teleforce",
+        "tags": [],
+        "summary": "回顾并重申了分布式计算中经典的八个谬论，探讨其在当前技术环境下的现实意义。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "andreklein.net",
+          "count": 1
+        },
+        {
+          "domain": "platform.claude.com",
+          "count": 1
+        },
+        {
+          "domain": "karthinks.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 312,
+      "max_score": {
+        "title": "Firewood Splitting Simulator",
+        "score": 820
+      },
+      "most_discussed": {
+        "title": "Firewood Splitting Simulator",
+        "comments": 242
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热点呈现多元化趋势，涵盖了软件工程的最佳实践、网络安全态势以及复古与数字工具的探索。开发者们关注从电子书格式维护、Emacs生态扩展到Curl的安全治理等技术议题，同时也不乏对分布式计算理论复盘及趣味模拟器类项目的讨论。"
   }
 }
