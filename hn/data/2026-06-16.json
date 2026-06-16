@@ -1,164 +1,161 @@
 {
   "morning": {
-    "time": "2026-06-16 01:08",
+    "time": "2026-06-16 10:35",
     "stories": [
+      {
+        "id": 48546294,
+        "title": "A backdoor in a LinkedIn job offer",
+        "url": "https://roman.pt/posts/linkedin-backdoor/",
+        "domain": "roman.pt",
+        "score": 758,
+        "descendants": 150,
+        "by": "lwhsiao",
+        "tags": [
+          "Security"
+        ],
+        "summary": "一位求职者揭露了一起伪装成 LinkedIn 工作录用的精密后门攻击事件。"
+      },
+      {
+        "id": 48547985,
+        "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+        "url": "https://www.richardosgood.com/posts/banned-book-library/",
+        "domain": "richardosgood.com",
+        "score": 175,
+        "descendants": 60,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "通过破解 Wi-Fi 智能灯泡构建离线禁书库的创意技术实践。"
+      },
       {
         "id": 48542480,
         "title": "Iroh 1.0",
         "url": "https://www.iroh.computer/blog/v1",
         "domain": "iroh.computer",
-        "score": 323,
-        "descendants": 108,
+        "score": 970,
+        "descendants": 286,
         "by": "chadfowler",
         "tags": [],
-        "summary": "Iroh 1.0正式发布，展示了高性能点对点网络节点架构的最新进展。"
+        "summary": "Iroh 1.0 正式发布，提供一套专注于现代网络数据同步与传输的协议栈。"
+      },
+      {
+        "id": 48548975,
+        "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+        "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+        "domain": "narracomm.com",
+        "score": 42,
+        "descendants": 16,
+        "by": "thelonelyborg",
+        "tags": [],
+        "summary": "亚马逊计划在密苏里州投资数十亿美元建设超大规模数据中心。"
       },
       {
         "id": 48543475,
         "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
         "url": "https://tinywind.io",
         "domain": "tinywind.io",
-        "score": 32,
-        "descendants": 6,
+        "score": 624,
+        "descendants": 127,
         "by": "tinywind",
         "tags": [
           "AI",
           "Science"
         ],
-        "summary": "TinyWind是一款基于真实风力物理引擎构建的像素风格海盗航海游戏。"
+        "summary": "一款基于真实物理引擎模拟风力驱动的像素风格海盗航海游戏。"
       },
       {
-        "id": 48528587,
-        "title": "Making glass-to-metal seals for home­made vacuum tubes",
-        "url": "https://maurycyz.com/projects/glass/1/",
-        "domain": "maurycyz.com",
-        "score": 39,
-        "descendants": 13,
-        "by": "zdw",
+        "id": 48542100,
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+        "url": "https://news.ycombinator.com/item?id=48542100",
+        "domain": "news.ycombinator.com",
+        "score": 713,
+        "descendants": 342,
+        "by": "cloudking",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ],
+        "summary": "社区关于本地部署 AI 模型替代 GPT/Claude 进行日常编程开发的深度探讨。"
+      },
+      {
+        "id": 48546441,
+        "title": "I Love the Computer",
+        "url": "https://michaelenger.com/blog/i-love-the-computer/",
+        "domain": "michaelenger.com",
+        "score": 150,
+        "descendants": 93,
+        "by": "speckx",
         "tags": [],
-        "summary": "深入解析在家庭实验室环境下制造真空管所必需的玻璃与金属密封工艺。"
+        "summary": "一篇关于回归计算机本质与数字生活乐趣的感性叙事文章。"
+      },
+      {
+        "id": 48547566,
+        "title": "Why I email complete strangers",
+        "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+        "domain": "goodinternetmagazine.com",
+        "score": 82,
+        "descendants": 42,
+        "by": "karakoram",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨通过向陌生人发送电子邮件来建立意外连接与获取建议的价值。"
+      },
+      {
+        "id": 48547062,
+        "title": "Peopleless economy? Not technically impossible",
+        "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+        "domain": "gmalandrakis.com",
+        "score": 101,
+        "descendants": 186,
+        "by": "l0new0lf-G",
+        "tags": [],
+        "summary": "深入剖析在自动化与 AI 推动下，完全去人类劳动的经济模式在技术上的可行性。"
       },
       {
         "id": 48542433,
         "title": "My Homelab AI Dev Platform",
         "url": "https://rsgm.dev/post/ai-dev-platform/",
         "domain": "rsgm.dev",
-        "score": 38,
-        "descendants": 16,
+        "score": 248,
+        "descendants": 49,
         "by": "rsgm",
         "tags": [
           "AI"
         ],
-        "summary": "作者分享了其个人搭建的家庭实验室AI开发平台架构及实践经验。"
-      },
-      {
-        "id": 48540499,
-        "title": "Fox to buy Roku",
-        "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-        "domain": "wsj.com",
-        "score": 110,
-        "descendants": 159,
-        "by": "thm",
-        "tags": [],
-        "summary": "有消息称福克斯公司正计划收购流媒体平台Roku，引发关于媒体格局变动的讨论。"
-      },
-      {
-        "id": 48543908,
-        "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-        "url": "https://news.ycombinator.com/item?id=48543908",
-        "domain": "news.ycombinator.com",
-        "score": 4,
-        "descendants": 2,
-        "by": "PrimalNick",
-        "tags": [
-          "AI",
-          "Startup"
-        ],
-        "summary": "YC入选项目Drafted正式上线，提供专注于住宅架构设计的模型辅助工具。"
-      },
-      {
-        "id": 48540854,
-        "title": "CrankGPT",
-        "url": "https://crankgpt.com",
-        "domain": "crankgpt.com",
-        "score": 394,
-        "descendants": 158,
-        "by": "rishikeshs",
-        "tags": [
-          "AI"
-        ],
-        "summary": "CrankGPT探索了如何利用大型语言模型生成或分析特定领域的复杂指令。"
-      },
-      {
-        "id": 48542132,
-        "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-        "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-        "domain": "monash.edu",
-        "score": 97,
-        "descendants": 26,
-        "by": "bookofjoe",
-        "tags": [
-          "Systems"
-        ],
-        "summary": "一项研究发现铜转运药物能有效修复记忆并清除阿尔茨海默病相关的致病蛋白。"
-      },
-      {
-        "id": 48533848,
-        "title": "Your ePub Is fine",
-        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-        "domain": "andreklein.net",
-        "score": 817,
-        "descendants": 276,
-        "by": "sohkamyung",
-        "tags": [],
-        "summary": "作者深入探讨ePub格式的各种误解，强调该标准在电子出版领域的适用性和价值。"
-      },
-      {
-        "id": 48542970,
-        "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-        "url": "https://v1c.rocks/log/exploiting-slack-video/",
-        "domain": "v1c.rocks",
-        "score": 13,
-        "descendants": 2,
-        "by": "victorio",
-        "tags": [
-          "Show HN"
-        ],
-        "summary": "利用Slack视频嵌入机制实现端到端加密通信的安全漏洞分析。"
+        "summary": "一名开发者展示其基于个人服务器搭建的高效 AI 开发与实验平台。"
       }
     ],
     "insights": {
       "top_domains": [
         {
+          "domain": "roman.pt",
+          "count": 1
+        },
+        {
+          "domain": "richardosgood.com",
+          "count": 1
+        },
+        {
           "domain": "iroh.computer",
-          "count": 1
-        },
-        {
-          "domain": "tinywind.io",
-          "count": 1
-        },
-        {
-          "domain": "maurycyz.com",
           "count": 1
         }
       ],
-      "avg_score": 187,
+      "avg_score": 386,
       "max_score": {
-        "title": "Your ePub Is fine",
-        "score": 817
+        "title": "Iroh 1.0",
+        "score": 970
       },
       "most_discussed": {
-        "title": "Your ePub Is fine",
-        "comments": 276
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+        "comments": 342
       },
       "hot_tags": [
         "AI",
+        "Security",
         "Science",
-        "Startup",
-        "Systems",
-        "Show HN"
+        "Ask HN"
       ]
     },
-    "summary": "今日Hacker News内容广泛，涵盖了底层基础设施、硬核工程、AI创新及媒体并购动态。整体热度聚焦于开源工具发布、复古技术钻研以及对数字文档标准的讨论，展现了开发者社区在技术深度与跨学科应用上的多元兴趣。"
+    "summary": "今日 Hacker News 热门讨论聚焦于人工智能的本地化落地与开发者实践，同时也关注网络安全威胁与极客精神的创意应用。整体氛围体现了社区对于算力自主权、新兴底层技术架构及数字化社会未来影响的深度思辨。"
   }
 }
