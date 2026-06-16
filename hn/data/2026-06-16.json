@@ -157,5 +157,165 @@
       ]
     },
     "summary": "今日 Hacker News 热门讨论聚焦于人工智能的本地化落地与开发者实践，同时也关注网络安全威胁与极客精神的创意应用。整体氛围体现了社区对于算力自主权、新兴底层技术架构及数字化社会未来影响的深度思辨。"
+  },
+  "evening": {
+    "time": "2026-06-16 17:14",
+    "stories": [
+      {
+        "id": 48550693,
+        "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+        "domain": "devblogs.microsoft.com",
+        "score": 222,
+        "descendants": 69,
+        "by": "paulmooreparks",
+        "tags": [],
+        "summary": "微软开发者讲述如何修复并优化运行速度极慢的 x86 模拟器代码。"
+      },
+      {
+        "id": 48546294,
+        "title": "A backdoor in a LinkedIn job offer",
+        "url": "https://roman.pt/posts/linkedin-backdoor/",
+        "domain": "roman.pt",
+        "score": 1134,
+        "descendants": 209,
+        "by": "lwhsiao",
+        "tags": [
+          "Security"
+        ],
+        "summary": "披露了一起伪装成 LinkedIn 工作录用的高级恶意软件攻击事件。"
+      },
+      {
+        "id": 48550779,
+        "title": "John Carmack on Fabrice Bellard",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+        "domain": "twitter.com",
+        "score": 224,
+        "descendants": 136,
+        "by": "apitman",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "John Carmack 对传奇程序员 Fabrice Bellard 在技术上的卓越贡献给予高度评价。"
+      },
+      {
+        "id": 48547985,
+        "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+        "url": "https://www.richardosgood.com/posts/banned-book-library/",
+        "domain": "richardosgood.com",
+        "score": 370,
+        "descendants": 193,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "一名极客通过黑客手段将受限书籍存入 Wi-Fi 智能灯泡内以规避审查。"
+      },
+      {
+        "id": 48542480,
+        "title": "Iroh 1.0",
+        "url": "https://www.iroh.computer/blog/v1",
+        "domain": "iroh.computer",
+        "score": 1163,
+        "descendants": 352,
+        "by": "chadfowler",
+        "tags": [],
+        "summary": "去中心化网络工具 Iroh 发布 1.0 版本，旨在简化数据传输与存储的互联协议。"
+      },
+      {
+        "id": 48542100,
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+        "url": "https://news.ycombinator.com/item?id=48542100",
+        "domain": "news.ycombinator.com",
+        "score": 960,
+        "descendants": 430,
+        "by": "cloudking",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ],
+        "summary": "探讨将 Claude 或 GPT 替换为本地模型进行日常代码编写的可行性与社区实践。"
+      },
+      {
+        "id": 48551876,
+        "title": "Understanding the rationale behind a rule when trying to circumvent it",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+        "domain": "devblogs.microsoft.com",
+        "score": 19,
+        "descendants": 3,
+        "by": "tosh",
+        "tags": [],
+        "summary": "探讨在试图绕过规则之前，深刻理解规则背后制订逻辑的重要性。"
+      },
+      {
+        "id": 48543475,
+        "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+        "url": "https://tinywind.io",
+        "domain": "tinywind.io",
+        "score": 815,
+        "descendants": 154,
+        "by": "tinywind",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "展示了一款利用真实风力物理引擎构建的像素风格海盗航海游戏。"
+      },
+      {
+        "id": 48550569,
+        "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+        "url": "https://garden-of-flowers.heikkilotvonen.com/",
+        "domain": "garden-of-flowers.heikkilotvonen.com",
+        "score": 69,
+        "descendants": 11,
+        "by": "california-og",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "收录了 ASCII 艺术出现之前的早期图画排版艺术作品。"
+      },
+      {
+        "id": 48552440,
+        "title": "New way of making espresso with ultrasound",
+        "url": "https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso",
+        "domain": "unsw.edu.au",
+        "score": 3,
+        "descendants": 0,
+        "by": "darktoto",
+        "tags": [],
+        "summary": "介绍一项利用超声波技术提升浓缩咖啡萃取质量的最新科学研究。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "devblogs.microsoft.com",
+          "count": 2
+        },
+        {
+          "domain": "roman.pt",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 498,
+      "max_score": {
+        "title": "Iroh 1.0",
+        "score": 1163
+      },
+      "most_discussed": {
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+        "comments": 430
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Hardware",
+        "Ask HN",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热点集中在技术底层优化、网络安全与创新实验，涵盖了从 x86 模拟器性能修复到复杂的 LinkedIn 求职后门案例。同时，开发者们对大模型本地化应用表现出强烈兴趣，社区对艺术史 archival 及新型物理实验技术的关注也体现了多元化的探讨风向。"
   }
 }
