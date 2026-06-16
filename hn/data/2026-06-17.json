@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-06-17 00:42",
+    "stories": [
+      {
+        "id": 48555993,
+        "title": "Running local models is good now",
+        "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+        "domain": "vickiboykis.com",
+        "score": 293,
+        "descendants": 157,
+        "by": "jfb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章探讨了在本地运行大模型的现状，指出性能提升与硬件适配已使其成为高效的选择。"
+      },
+      {
+        "id": 48553550,
+        "title": "Mechanical Watch (2022)",
+        "url": "https://ciechanow.ski/mechanical-watch/",
+        "domain": "ciechanow.ski",
+        "score": 454,
+        "descendants": 84,
+        "by": "razin",
+        "tags": [],
+        "summary": "通过精美的动态交互图文，深入拆解了机械手表内部复杂齿轮结构的工作原理。"
+      },
+      {
+        "id": 48556163,
+        "title": "Subquadratic – Introducing SubQ 1.1 Small",
+        "url": "https://subq.ai/subq-1-1-small-technical-report",
+        "domain": "subq.ai",
+        "score": 51,
+        "descendants": 21,
+        "by": "EDM115",
+        "tags": [],
+        "summary": "介绍了一款名为SubQ 1.1 Small的次二次方计算模型，聚焦提升计算效率与性能表现。"
+      },
+      {
+        "id": 48553224,
+        "title": "SpaceX to buy Cursor for $60B",
+        "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+        "domain": "reuters.com",
+        "score": 291,
+        "descendants": 597,
+        "by": "itsmarcelg",
+        "tags": [
+          "Science"
+        ],
+        "summary": "报道了关于SpaceX可能以600亿美元收购AI编程工具Cursor的重大市场传闻。"
+      },
+      {
+        "id": 48552844,
+        "title": "Correlated randomness in Slay the Spire 2",
+        "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+        "domain": "tck.mn",
+        "score": 191,
+        "descendants": 61,
+        "by": "rdmuser",
+        "tags": [],
+        "summary": "分析了《杀戮尖塔2》中随机数生成机制的设计逻辑及其在游戏平衡性中的作用。"
+      },
+      {
+        "id": 48500251,
+        "title": "Infineon to open fab in Germany as part of sovereignty push",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
+        "domain": "bloomberg.com",
+        "score": 12,
+        "descendants": 5,
+        "by": "SanjayMehta",
+        "tags": [],
+        "summary": "英飞凌在德国启动新晶圆厂建设，旨在推动半导体制造的本土化与主权提升。"
+      },
+      {
+        "id": 48556414,
+        "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
+        "url": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
+        "domain": "tech.slashdot.org",
+        "score": 124,
+        "descendants": 93,
+        "by": "arnejenssen",
+        "tags": [
+          "Web"
+        ],
+        "summary": "谷歌Chrome更新将通过技术限制彻底封堵主流广告拦截扩展程序的运行空间。"
+      },
+      {
+        "id": 48550779,
+        "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+        "domain": "twitter.com",
+        "score": 682,
+        "descendants": 332,
+        "by": "apitman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者表达了对天才程序员Fabrice Bellard的极高敬意，讨论其在底层系统与软件开发上的卓越贡献。"
+      },
+      {
+        "id": 48550693,
+        "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+        "domain": "devblogs.microsoft.com",
+        "score": 432,
+        "descendants": 137,
+        "by": "paulmooreparks",
+        "tags": [],
+        "summary": "微软工程团队分享了在x86模拟器开发中遇到的极端代码，并最终通过在模拟层动态修复实现的有趣经历。"
+      },
+      {
+        "id": 48556785,
+        "title": "Fable ban was never about a jailbreak?",
+        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "domain": "techcrunch.com",
+        "score": 102,
+        "descendants": 39,
+        "by": "amarant",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨针对Fable的禁令争议，质疑该封禁背后的真正动机是否确实与越狱风险有关。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "vickiboykis.com",
+          "count": 1
+        },
+        {
+          "domain": "ciechanow.ski",
+          "count": 1
+        },
+        {
+          "domain": "subq.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 263,
+      "max_score": {
+        "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+        "score": 682
+      },
+      "most_discussed": {
+        "title": "SpaceX to buy Cursor for $60B",
+        "comments": 597
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在硬核技术与行业动态上，既包含对本地大模型运行、编译器优化及架构历史的深度讨论，也涵盖了像SpaceX收购Cursor传闻及浏览器广告拦截限制等重磅行业新闻。整体呈现出技术审美（如机械表分析）与产业变革并行的趋势。"
+  }
+}
