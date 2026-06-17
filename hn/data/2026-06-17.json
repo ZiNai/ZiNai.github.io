@@ -316,5 +316,162 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于前沿AI技术的应用与主权化发展，涵盖了从本地运行大模型到AI原生初创公司的实战指南。此外，社区对底层网络工具的技巧挖掘及操作系统安全架构的演进也保持了高度关注。"
+  },
+  "evening": {
+    "time": "2026-06-17 23:16",
+    "stories": [
+      {
+        "id": 48569954,
+        "title": "Want your images back? Sure... That'll be $5!",
+        "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+        "domain": "lutr.dev",
+        "score": 311,
+        "descendants": 127,
+        "by": "lutr",
+        "tags": [],
+        "summary": "文章探讨了图像存储服务收费模式带来的用户争议与变现困境。"
+      },
+      {
+        "id": 48571081,
+        "title": "Epic Games announces Lore version control system",
+        "url": "https://lore.org/",
+        "domain": "lore.org",
+        "score": 115,
+        "descendants": 63,
+        "by": "regnerba",
+        "tags": [],
+        "summary": "Epic Games推出Lore版本控制系统，旨在优化大型游戏项目的协作开发。"
+      },
+      {
+        "id": 48567759,
+        "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+        "domain": "artificialanalysis.ai",
+        "score": 463,
+        "descendants": 251,
+        "by": "himata4113",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GLM-5.2在Artificial Analysis基准测试中表现卓越，成为当前领先的开源权重模型。"
+      },
+      {
+        "id": 48569278,
+        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "url": "https://wpvip.com/future-of-the-web-2026/",
+        "domain": "wpvip.com",
+        "score": 511,
+        "descendants": 260,
+        "by": "thm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "调查显示六成美国消费者对营销中滥用“AI”概念感到反感。"
+      },
+      {
+        "id": 48568502,
+        "title": "RFC 10008: The new HTTP Query Method",
+        "url": "https://www.rfc-editor.org/info/rfc10008/",
+        "domain": "rfc-editor.org",
+        "score": 154,
+        "descendants": 76,
+        "by": "schappim",
+        "tags": [],
+        "summary": "RFC 10008正式发布，定义了新的HTTP Query方法，旨在优化资源查询。"
+      },
+      {
+        "id": 48569205,
+        "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+        "url": "https://github.com/rxi/microui",
+        "domain": "github.com",
+        "score": 65,
+        "descendants": 25,
+        "by": "peter_d_sherman",
+        "tags": [],
+        "summary": "MicroUI是一个用ANSI C编写的轻量级、可移植的即时模式UI库。"
+      },
+      {
+        "id": 48567155,
+        "title": "Hacker News but for Independent Blogs",
+        "url": "https://bubbles.town/",
+        "domain": "bubbles.town",
+        "score": 303,
+        "descendants": 93,
+        "by": "headalgorithm",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Bubbles.town作为一个旨在聚合独立博客的内容社区，意图打造非算法导向的阅读空间。"
+      },
+      {
+        "id": 48571266,
+        "title": "Why stdx is not on crates.io",
+        "url": "https://kerkour.com/stdx-cratesio",
+        "domain": "kerkour.com",
+        "score": 16,
+        "descendants": 6,
+        "by": "Keyb0ardWarri0r",
+        "tags": [],
+        "summary": "开发者解释了为何项目stdx选择不发布在crates.io仓库的原因。"
+      },
+      {
+        "id": 48570948,
+        "title": "AI demands more engineering discipline. Not less",
+        "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+        "domain": "charitydotwtf.substack.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "BerislavLopac",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章强调AI开发不应降低工程标准，反而需要更严谨的工程实践。"
+      },
+      {
+        "id": 48567877,
+        "title": "Show HN: High-Res Neural Cellular Automata",
+        "url": "https://cells2pixels.github.io/",
+        "domain": "cells2pixels.github.io",
+        "score": 133,
+        "descendants": 33,
+        "by": "esychology",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示了利用神经网络细胞自动机生成的超高分辨率图像演示项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lutr.dev",
+          "count": 1
+        },
+        {
+          "domain": "lore.org",
+          "count": 1
+        },
+        {
+          "domain": "artificialanalysis.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 212,
+      "max_score": {
+        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "score": 511
+      },
+      "most_discussed": {
+        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "comments": 260
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能的最新进展，包括GLM-5.2模型的行业表现及AI品牌化带来的消费者抵触情绪。此外，社区对软件工程架构（如HTTP新协议、版本控制系统及微型UI库）的讨论依然活跃，显示出开发者对技术深度与独立内容平台的持续追求。"
   }
 }
