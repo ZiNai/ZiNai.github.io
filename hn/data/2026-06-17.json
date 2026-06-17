@@ -1,158 +1,160 @@
 {
   "morning": {
-    "time": "2026-06-17 00:42",
+    "time": "2026-06-17 10:33",
     "stories": [
+      {
+        "id": 48561654,
+        "title": "GrapheneOS has been ported to Android 17",
+        "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+        "domain": "discuss.grapheneos.org",
+        "score": 428,
+        "descendants": 170,
+        "by": "Cider9986",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "GrapheneOS 已成功移植至 Android 17，进一步强化了系统的隐私与安全特性。"
+      },
       {
         "id": 48555993,
         "title": "Running local models is good now",
         "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
         "domain": "vickiboykis.com",
-        "score": 293,
-        "descendants": 157,
+        "score": 1046,
+        "descendants": 437,
         "by": "jfb",
         "tags": [
           "AI"
         ],
-        "summary": "文章探讨了在本地运行大模型的现状，指出性能提升与硬件适配已使其成为高效的选择。"
+        "summary": "探讨本地化部署大语言模型在当前环境下的性能提升及其实用性增强。"
       },
       {
-        "id": 48553550,
-        "title": "Mechanical Watch (2022)",
-        "url": "https://ciechanow.ski/mechanical-watch/",
-        "domain": "ciechanow.ski",
-        "score": 454,
-        "descendants": 84,
-        "by": "razin",
-        "tags": [],
-        "summary": "通过精美的动态交互图文，深入拆解了机械手表内部复杂齿轮结构的工作原理。"
-      },
-      {
-        "id": 48556163,
-        "title": "Subquadratic – Introducing SubQ 1.1 Small",
-        "url": "https://subq.ai/subq-1-1-small-technical-report",
-        "domain": "subq.ai",
-        "score": 51,
-        "descendants": 21,
-        "by": "EDM115",
-        "tags": [],
-        "summary": "介绍了一款名为SubQ 1.1 Small的次二次方计算模型，聚焦提升计算效率与性能表现。"
+        "id": 48563394,
+        "title": "Humiliating IIS servers for fun and jail time",
+        "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+        "domain": "mll.sh",
+        "score": 109,
+        "descendants": 17,
+        "by": "denysvitali",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇关于针对 IIS 服务器进行安全挑战与潜在法律后果的技术与伦理分析。"
       },
       {
         "id": 48553224,
         "title": "SpaceX to buy Cursor for $60B",
         "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
         "domain": "reuters.com",
-        "score": 291,
-        "descendants": 597,
+        "score": 898,
+        "descendants": 1361,
         "by": "itsmarcelg",
         "tags": [
           "Science"
         ],
-        "summary": "报道了关于SpaceX可能以600亿美元收购AI编程工具Cursor的重大市场传闻。"
+        "summary": "关于 SpaceX 拟以 600 亿美元收购 AI 编程工具 Cursor 的重磅商业传闻。"
       },
       {
-        "id": 48552844,
-        "title": "Correlated randomness in Slay the Spire 2",
-        "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-        "domain": "tck.mn",
-        "score": 191,
-        "descendants": 61,
-        "by": "rdmuser",
-        "tags": [],
-        "summary": "分析了《杀戮尖塔2》中随机数生成机制的设计逻辑及其在游戏平衡性中的作用。"
-      },
-      {
-        "id": 48500251,
-        "title": "Infineon to open fab in Germany as part of sovereignty push",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
-        "domain": "bloomberg.com",
-        "score": 12,
-        "descendants": 5,
-        "by": "SanjayMehta",
-        "tags": [],
-        "summary": "英飞凌在德国启动新晶圆厂建设，旨在推动半导体制造的本土化与主权提升。"
-      },
-      {
-        "id": 48556414,
-        "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
-        "url": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
-        "domain": "tech.slashdot.org",
-        "score": 124,
-        "descendants": 93,
-        "by": "arnejenssen",
-        "tags": [
-          "Web"
-        ],
-        "summary": "谷歌Chrome更新将通过技术限制彻底封堵主流广告拦截扩展程序的运行空间。"
-      },
-      {
-        "id": 48550779,
-        "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-        "domain": "twitter.com",
-        "score": 682,
-        "descendants": 332,
-        "by": "apitman",
+        "id": 48563609,
+        "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+        "domain": "writings.stephenwolfram.com",
+        "score": 88,
+        "descendants": 20,
+        "by": "alok-g",
         "tags": [
           "AI"
         ],
-        "summary": "作者表达了对天才程序员Fabrice Bellard的极高敬意，讨论其在底层系统与软件开发上的卓越贡献。"
+        "summary": "Wolfram 语言与 Mathematica 15 正式发布，引入 AI 助手及符号音乐处理等新功能。"
       },
       {
-        "id": 48550693,
-        "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-        "domain": "devblogs.microsoft.com",
-        "score": 432,
+        "id": 48558018,
+        "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+        "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+        "domain": "mareksuppa.com",
+        "score": 283,
+        "descendants": 146,
+        "by": "mrshu",
+        "tags": [],
+        "summary": "介绍如何在不依赖 curl 等工具的情况下，直接利用 Bash 的 /dev/TCP 发起 HTTP 请求。"
+      },
+      {
+        "id": 48553550,
+        "title": "Mechanical Watch (2022)",
+        "url": "https://ciechanow.ski/mechanical-watch/",
+        "domain": "ciechanow.ski",
+        "score": 632,
+        "descendants": 114,
+        "by": "razin",
+        "tags": [],
+        "summary": "通过互动演示深入浅出地讲解机械手表的精妙构造与工作原理。"
+      },
+      {
+        "id": 48557079,
+        "title": "Calvin and Hobbes and the price of integrity",
+        "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+        "domain": "therepublicofletters.substack.com",
+        "score": 292,
+        "descendants": 140,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "分析《卡尔文与霍布斯》漫画作者比尔·沃特森坚守创作完整性及其背后的经济代价。"
+      },
+      {
+        "id": 48533098,
+        "title": "The Magic Roundabout of Seattle Area",
+        "url": "https://kirklandroundabouts.com",
+        "domain": "kirklandroundabouts.com",
+        "score": 33,
+        "descendants": 25,
+        "by": "DenisM",
+        "tags": [],
+        "summary": "探讨西雅图地区交通环岛设计的复杂性及其对交通流的影响。"
+      },
+      {
+        "id": 48559188,
+        "title": "GPT‑NL: a sovereign language model for the Netherlands",
+        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+        "domain": "tno.nl",
+        "score": 142,
         "descendants": 137,
-        "by": "paulmooreparks",
-        "tags": [],
-        "summary": "微软工程团队分享了在x86模拟器开发中遇到的极端代码，并最终通过在模拟层动态修复实现的有趣经历。"
-      },
-      {
-        "id": 48556785,
-        "title": "Fable ban was never about a jailbreak?",
-        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-        "domain": "techcrunch.com",
-        "score": 102,
-        "descendants": 39,
-        "by": "amarant",
+        "by": "root-parent",
         "tags": [
           "AI"
         ],
-        "summary": "探讨针对Fable的禁令争议，质疑该封禁背后的真正动机是否确实与越狱风险有关。"
+        "summary": "荷兰推出 GPT-NL，旨在打造符合主权要求和本地语言特色的专属大模型。"
       }
     ],
     "insights": {
       "top_domains": [
         {
+          "domain": "discuss.grapheneos.org",
+          "count": 1
+        },
+        {
           "domain": "vickiboykis.com",
           "count": 1
         },
         {
-          "domain": "ciechanow.ski",
-          "count": 1
-        },
-        {
-          "domain": "subq.ai",
+          "domain": "mll.sh",
           "count": 1
         }
       ],
-      "avg_score": 263,
+      "avg_score": 395,
       "max_score": {
-        "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-        "score": 682
+        "title": "Running local models is good now",
+        "score": 1046
       },
       "most_discussed": {
         "title": "SpaceX to buy Cursor for $60B",
-        "comments": 597
+        "comments": 1361
       },
       "hot_tags": [
         "AI",
-        "Science",
-        "Web"
+        "Systems",
+        "Science"
       ]
     },
-    "summary": "本期Hacker News焦点集中在硬核技术与行业动态上，既包含对本地大模型运行、编译器优化及架构历史的深度讨论，也涵盖了像SpaceX收购Cursor传闻及浏览器广告拦截限制等重磅行业新闻。整体呈现出技术审美（如机械表分析）与产业变革并行的趋势。"
+    "summary": "本期 Hacker News 焦点集中于前沿技术领域，包括开源系统 GrapheneOS 的安卓移植进展、本地大模型部署的普及，以及 AI 与计算工具的深度更新。同时，科技界的重磅并购传闻和关于网络安全、极客技巧以及文化叙事的讨论，反映了社区对技术底层逻辑与行业变革的持续关注。"
   }
 }
