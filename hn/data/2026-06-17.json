@@ -156,5 +156,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于前沿技术领域，包括开源系统 GrapheneOS 的安卓移植进展、本地大模型部署的普及，以及 AI 与计算工具的深度更新。同时，科技界的重磅并购传闻和关于网络安全、极客技巧以及文化叙事的讨论，反映了社区对技术底层逻辑与行业变革的持续关注。"
+  },
+  "noon": {
+    "time": "2026-06-17 16:52",
+    "stories": [
+      {
+        "id": 48561654,
+        "title": "GrapheneOS has been ported to Android 17",
+        "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+        "domain": "discuss.grapheneos.org",
+        "score": 736,
+        "descendants": 336,
+        "by": "Cider9986",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "GrapheneOS系统已成功移植至Android 17，持续强化移动端的隐私保护与安全特性。"
+      },
+      {
+        "id": 48555993,
+        "title": "Running local models is good now",
+        "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+        "domain": "vickiboykis.com",
+        "score": 1290,
+        "descendants": 499,
+        "by": "jfb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨本地大模型运行环境的改善，强调在硬件资源优化下本地推理已具备实用性。"
+      },
+      {
+        "id": 48566832,
+        "title": "The founder's playbook: Building an AI-native startup",
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "domain": "claude.com",
+        "score": 58,
+        "descendants": 57,
+        "by": "e2e4",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "基于Claude创始人的经验总结，探讨如何在AI原生时代构建初创企业的运作逻辑。"
+      },
+      {
+        "id": 48563394,
+        "title": "Humiliating IIS servers for fun and jail time",
+        "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+        "domain": "mll.sh",
+        "score": 238,
+        "descendants": 56,
+        "by": "denysvitali",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析针对IIS服务器的渗透测试技巧及其引发的法律风险与安全后果。"
+      },
+      {
+        "id": 48566791,
+        "title": "Why do commercial spaces sit vacant?",
+        "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+        "domain": "freerange.city",
+        "score": 11,
+        "descendants": 5,
+        "by": "Redoubts",
+        "tags": [
+          "Science"
+        ],
+        "summary": "分析城市中商业空间长期闲置背后的经济逻辑与市场失灵现象。"
+      },
+      {
+        "id": 48558018,
+        "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+        "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+        "domain": "mareksuppa.com",
+        "score": 403,
+        "descendants": 188,
+        "by": "mrshu",
+        "tags": [],
+        "summary": "分享无需依赖curl工具，仅利用Bash内置的/dev/TCP特性实现HTTP网络请求的技巧。"
+      },
+      {
+        "id": 48563609,
+        "title": "Wolfram Language and Mathematica version 15",
+        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+        "domain": "writings.stephenwolfram.com",
+        "score": 159,
+        "descendants": 78,
+        "by": "alok-g",
+        "tags": [],
+        "summary": "Wolfram Language与Mathematica 15版本发布，展示了计算引擎在数学计算与逻辑处理上的新特性。"
+      },
+      {
+        "id": 48496233,
+        "title": "Subterranean fungi networks more than 100 quadrillion km in length",
+        "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+        "domain": "theguardian.com",
+        "score": 54,
+        "descendants": 7,
+        "by": "tosh",
+        "tags": [],
+        "summary": "一项科学发现指出，地下真菌网络总长度已超过100千万亿公里，构成了庞大的生态系统。"
+      },
+      {
+        "id": 48557079,
+        "title": "Calvin and Hobbes and the price of integrity",
+        "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+        "domain": "therepublicofletters.substack.com",
+        "score": 408,
+        "descendants": 176,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "探讨经典漫画《凯文与霍布斯》作者为捍卫作品完整性而选择放弃巨额商业利益的故事。"
+      },
+      {
+        "id": 48559188,
+        "title": "GPT‑NL: a sovereign language model for the Netherlands",
+        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+        "domain": "tno.nl",
+        "score": 206,
+        "descendants": 203,
+        "by": "root-parent",
+        "tags": [
+          "AI"
+        ],
+        "summary": "荷兰推出GPT-NL大模型项目，旨在通过构建主权人工智能提升本土语言与技术独立性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "discuss.grapheneos.org",
+          "count": 1
+        },
+        {
+          "domain": "vickiboykis.com",
+          "count": 1
+        },
+        {
+          "domain": "claude.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 356,
+      "max_score": {
+        "title": "Running local models is good now",
+        "score": 1290
+      },
+      "most_discussed": {
+        "title": "Running local models is good now",
+        "comments": 499
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Startup",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于前沿AI技术的应用与主权化发展，涵盖了从本地运行大模型到AI原生初创公司的实战指南。此外，社区对底层网络工具的技巧挖掘及操作系统安全架构的演进也保持了高度关注。"
   }
 }
