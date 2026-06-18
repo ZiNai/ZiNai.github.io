@@ -155,5 +155,162 @@
       ]
     },
     "summary": "今日Hacker News焦点聚焦于AI领域的动态，包括Midjourney生成的医学概念图、OpenAI的财务压力以及美国对华AI企业的限制政策。此外，开源工具与技术基础设施（如Lore版本控制系统）及社会科学领域的深度分析引发了广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-06-18 16:29",
+    "stories": [
+      {
+        "id": 48579650,
+        "title": "Midjourney Medical",
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "domain": "midjourney.com",
+        "score": 637,
+        "descendants": 443,
+        "by": "ricochet11",
+        "tags": [],
+        "summary": "Midjourney探索在医疗影像领域的应用潜力及其技术落地挑战。"
+      },
+      {
+        "id": 48581458,
+        "title": "DeepSeek Introduces Vision",
+        "url": "https://chat.deepseek.com/",
+        "domain": "chat.deepseek.com",
+        "score": 83,
+        "descendants": 34,
+        "by": "RIshabh235",
+        "tags": [],
+        "summary": "DeepSeek正式推出视觉处理功能，进一步完善其多模态模型生态。"
+      },
+      {
+        "id": 48581489,
+        "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+        "url": "https://www.acma.gov.au/sms-sender-id-register",
+        "domain": "acma.gov.au",
+        "score": 60,
+        "descendants": 31,
+        "by": "anitil",
+        "tags": [
+          "AI"
+        ],
+        "summary": "澳大利亚政府计划要求SMS/MMS发送者进行ID注册，以强化通信安全防诈骗。"
+      },
+      {
+        "id": 48580209,
+        "title": "Local Qwen isn't a worse Opus, it's a different tool",
+        "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+        "domain": "blog.alexellis.io",
+        "score": 167,
+        "descendants": 72,
+        "by": "alphabettsy",
+        "tags": [],
+        "summary": "探讨如何根据具体任务需求差异化看待本地运行的Qwen模型与闭源大模型。"
+      },
+      {
+        "id": 48571081,
+        "title": "Lore – Open source version control system designed for scalability",
+        "url": "https://lore.org/",
+        "domain": "lore.org",
+        "score": 1115,
+        "descendants": 595,
+        "by": "regnerba",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍一款专注于高扩展性的开源版本控制系统Lore。"
+      },
+      {
+        "id": 48565498,
+        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "domain": "reuters.com",
+        "score": 446,
+        "descendants": 497,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Security"
+        ],
+        "summary": "美国政府暂缓将DeepSeek列入黑名单，但加强了对超百家具有安全风险企业的限制。"
+      },
+      {
+        "id": 48578388,
+        "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+        "url": "https://www.horg.com/horg/?page_id=921",
+        "domain": "horg.com",
+        "score": 143,
+        "descendants": 34,
+        "by": "beatthatflight",
+        "tags": [],
+        "summary": "一篇关于面包袋封口夹（Occlupanida）的趣味分类学研究，带你认识这类工业塑料件。"
+      },
+      {
+        "id": 48537481,
+        "title": "Sogen – High-performance Windows and Linux userspace emulator",
+        "url": "https://sogen.dev/",
+        "domain": "sogen.dev",
+        "score": 13,
+        "descendants": 4,
+        "by": "fratellobigio",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "介绍一款支持Windows与Linux环境的高性能用户空间模拟器Sogen。"
+      },
+      {
+        "id": 48553876,
+        "title": "The 2-Year Apartment Rule",
+        "url": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
+        "domain": "tadaima.bearblog.dev",
+        "score": 12,
+        "descendants": 10,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨关于每两年搬家一次的租房策略及其对生活方式的影响。"
+      },
+      {
+        "id": 48577374,
+        "title": "Storied Colors – A catalogue of named colors",
+        "url": "https://storiedcolors.com/",
+        "domain": "storiedcolors.com",
+        "score": 157,
+        "descendants": 35,
+        "by": "susiecambria",
+        "tags": [],
+        "summary": "一个详尽的命名色彩目录，为设计与视觉艺术爱好者提供色彩参考。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "midjourney.com",
+          "count": 1
+        },
+        {
+          "domain": "chat.deepseek.com",
+          "count": 1
+        },
+        {
+          "domain": "acma.gov.au",
+          "count": 1
+        }
+      ],
+      "avg_score": 283,
+      "max_score": {
+        "title": "Lore – Open source version control system designed for scalability",
+        "score": 1115
+      },
+      "most_discussed": {
+        "title": "Lore – Open source version control system designed for scalability",
+        "comments": 595
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Security",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的快速迭代，包括Midjourney的医疗应用尝试、DeepSeek的视觉能力更新及地缘政治监管影响。同时，技术社区关注开发工具的演进（如版本控制系统Lore和用户空间模拟器Sogen），并穿插了一些关于色彩分类、生活经验及趣味生物分类的冷知识探讨。"
   }
 }
