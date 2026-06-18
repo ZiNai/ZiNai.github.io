@@ -312,5 +312,163 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的快速迭代，包括Midjourney的医疗应用尝试、DeepSeek的视觉能力更新及地缘政治监管影响。同时，技术社区关注开发工具的演进（如版本控制系统Lore和用户空间模拟器Sogen），并穿插了一些关于色彩分类、生活经验及趣味生物分类的冷知识探讨。"
+  },
+  "evening": {
+    "time": "2026-06-18 22:57",
+    "stories": [
+      {
+        "id": 48584135,
+        "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+        "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+        "domain": "rahuljuliato.com",
+        "score": 190,
+        "descendants": 79,
+        "by": "frou_dh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "详细介绍即将发布的Emacs 31版本中，作者在日常开发中发现的核心改进与功能变化。"
+      },
+      {
+        "id": 48586005,
+        "title": "Migrate from OpenClaw",
+        "url": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
+        "domain": "hermes-agent.nousresearch.com",
+        "score": 24,
+        "descendants": 11,
+        "by": "JumpCrisscross",
+        "tags": [],
+        "summary": "讨论关于从OpenClaw进行迁移的技术细节与实践路径。"
+      },
+      {
+        "id": 48584497,
+        "title": "Has W Social switched to closed source?",
+        "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+        "domain": "blog.elenarossini.com",
+        "score": 93,
+        "descendants": 46,
+        "by": "nemoniac",
+        "tags": [],
+        "summary": "调查并讨论社交平台W Social是否已经由开源转向了闭源策略。"
+      },
+      {
+        "id": 48585866,
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+        "domain": "blog.ui.com",
+        "score": 18,
+        "descendants": 2,
+        "by": "ksec",
+        "tags": [],
+        "summary": "Ubiquiti发布基于ZFS文件系统的企业级NAS存储解决方案。"
+      },
+      {
+        "id": 48583928,
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+        "domain": "orchidfiles.com",
+        "score": 132,
+        "descendants": 43,
+        "by": "theorchid",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "安全研究人员在GitHub上发现了分布于一万个代码仓库中的木马病毒及其传播机制。"
+      },
+      {
+        "id": 48583386,
+        "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+        "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+        "domain": "kcl.ac.uk",
+        "score": 134,
+        "descendants": 58,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "探讨医院和大学如何通过药物重新利用策略，显著降低高达90%的治疗成本。"
+      },
+      {
+        "id": 48586299,
+        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+        "url": "https://tester.army",
+        "domain": "tester.army",
+        "score": 6,
+        "descendants": 0,
+        "by": "okwasniewski",
+        "tags": [
+          "Web",
+          "Startup",
+          "Hardware"
+        ],
+        "summary": "介绍YC孵化项目TesterArmy，利用AI智能体为Web及移动应用提供自动化测试服务。"
+      },
+      {
+        "id": 48579650,
+        "title": "Midjourney Medical",
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "domain": "midjourney.com",
+        "score": 1056,
+        "descendants": 735,
+        "by": "ricochet11",
+        "tags": [],
+        "summary": "Midjourney进军医疗图像生成领域，展示其技术在医学场景中的潜力与应用。"
+      },
+      {
+        "id": 48583606,
+        "title": "Advanced Compilers: The Self-Guided Online Course",
+        "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+        "domain": "cs.cornell.edu",
+        "score": 88,
+        "descendants": 5,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "康奈尔大学开源的自学在线课程，深度讲解高级编译器设计与实现。"
+      },
+      {
+        "id": 48581458,
+        "title": "DeepSeek Introduces Vision",
+        "url": "https://chat.deepseek.com/",
+        "domain": "chat.deepseek.com",
+        "score": 308,
+        "descendants": 122,
+        "by": "RIshabh235",
+        "tags": [],
+        "summary": "DeepSeek正式推出视觉模型功能，进一步扩展其AI模型的能力边界。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "rahuljuliato.com",
+          "count": 1
+        },
+        {
+          "domain": "hermes-agent.nousresearch.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.elenarossini.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "Midjourney Medical",
+        "score": 1056
+      },
+      "most_discussed": {
+        "title": "Midjourney Medical",
+        "comments": 735
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Web",
+        "Startup",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI技术突破、开源生态治理及行业创新。从DeepSeek发布视觉模型到Midjourney的医疗应用探索，AI持续引领前沿技术讨论；同时，安全威胁、基础设施工具更新及科研成果转化也引发了社区的广泛关注。"
   }
 }
