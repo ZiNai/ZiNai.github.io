@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-06-18 10:31",
+    "stories": [
+      {
+        "id": 48579650,
+        "title": "Midjourney Medical",
+        "url": "https://www.midjourney.com/medical",
+        "domain": "midjourney.com",
+        "score": 48,
+        "descendants": 22,
+        "by": "ricochet11",
+        "tags": [],
+        "summary": "Midjourney生成的医疗相关概念可视化图像。"
+      },
+      {
+        "id": 48579718,
+        "title": "Midjourney Full Body Ultrasonic CT Scanner",
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "domain": "midjourney.com",
+        "score": 26,
+        "descendants": 3,
+        "by": "lnyan",
+        "tags": [],
+        "summary": "利用Midjourney生成的全身超声CT扫描仪视觉化构想。"
+      },
+      {
+        "id": 48571081,
+        "title": "Lore – Open source version control system designed for scalability",
+        "url": "https://lore.org/",
+        "domain": "lore.org",
+        "score": 995,
+        "descendants": 540,
+        "by": "regnerba",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一款专为大规模数据处理与扩展性设计的新型开源版本控制系统。"
+      },
+      {
+        "id": 48578388,
+        "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+        "url": "https://www.horg.com/horg/?page_id=921",
+        "domain": "horg.com",
+        "score": 66,
+        "descendants": 11,
+        "by": "beatthatflight",
+        "tags": [],
+        "summary": "一份关于面包包装袋封口夹（Occlupanida）的趣味分类学研究。"
+      },
+      {
+        "id": 48565498,
+        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "domain": "reuters.com",
+        "score": 369,
+        "descendants": 398,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Security"
+        ],
+        "summary": "美国政府暂缓将DeepSeek列入黑名单，但仍有百余家企业被视为国家安全风险。"
+      },
+      {
+        "id": 48577374,
+        "title": "Storied Colors – a catalogue of named colors",
+        "url": "https://storiedcolors.com/",
+        "domain": "storiedcolors.com",
+        "score": 96,
+        "descendants": 23,
+        "by": "susiecambria",
+        "tags": [],
+        "summary": "一个汇集各类具有独特命名色彩的在线数据库。"
+      },
+      {
+        "id": 48577208,
+        "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+        "domain": "arstechnica.com",
+        "score": 330,
+        "descendants": 245,
+        "by": "greenchair",
+        "tags": [
+          "AI"
+        ],
+        "summary": "泄露的财务文件显示OpenAI正面临每年数十亿美元的巨额亏损。"
+      },
+      {
+        "id": 48578326,
+        "title": "Clojure Hosted on Go",
+        "url": "https://github.com/glojurelang/glojure",
+        "domain": "github.com",
+        "score": 31,
+        "descendants": 3,
+        "by": "dnlo",
+        "tags": [],
+        "summary": "在Go语言环境下运行Clojure程序的实现方案。"
+      },
+      {
+        "id": 48568058,
+        "title": "U.S. science is in chaos",
+        "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+        "domain": "scientificamerican.com",
+        "score": 695,
+        "descendants": 816,
+        "by": "presspot",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "探讨美国科学研究领域当前面临的混乱局面及其深层原因。"
+      },
+      {
+        "id": 48576395,
+        "title": "Loreline – Tools for writing interactive fiction",
+        "url": "https://loreline.app/en/",
+        "domain": "loreline.app",
+        "score": 76,
+        "descendants": 9,
+        "by": "smartmic",
+        "tags": [],
+        "summary": "一套专门用于辅助创作交互式叙事与小说内容的工具集。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "midjourney.com",
+          "count": 2
+        },
+        {
+          "domain": "lore.org",
+          "count": 1
+        },
+        {
+          "domain": "horg.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 273,
+      "max_score": {
+        "title": "Lore – Open source version control system designed for scalability",
+        "score": 995
+      },
+      "most_discussed": {
+        "title": "U.S. science is in chaos",
+        "comments": 816
+      },
+      "hot_tags": [
+        "Open Source",
+        "Security",
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于AI领域的动态，包括Midjourney生成的医学概念图、OpenAI的财务压力以及美国对华AI企业的限制政策。此外，开源工具与技术基础设施（如Lore版本控制系统）及社会科学领域的深度分析引发了广泛讨论。"
+  }
+}
