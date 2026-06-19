@@ -1,0 +1,150 @@
+{
+  "morning": {
+    "time": "2026-06-19 10:47",
+    "stories": [
+      {
+        "id": 48570730,
+        "title": "How Japan's railways stayed one while splitting apart",
+        "url": "https://arun.is/blog/jr-logo/",
+        "domain": "arun.is",
+        "score": 43,
+        "descendants": 24,
+        "by": "ddrmaxgt37",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨日本铁路系统在拆分过程中如何保持高效协同与统一标准。"
+      },
+      {
+        "id": 48592163,
+        "title": "Zero-Touch OAuth for MCP",
+        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+        "domain": "blog.modelcontextprotocol.io",
+        "score": 108,
+        "descendants": 47,
+        "by": "niyikiza",
+        "tags": [],
+        "summary": "介绍如何通过零交互OAuth机制简化模型上下文协议（MCP）的授权流程。"
+      },
+      {
+        "id": 48593731,
+        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+        "domain": "simonwillison.net",
+        "score": 28,
+        "descendants": 7,
+        "by": "lumpa",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Datasette新增功能，允许用户在Datasette内部托管自定义的HTML应用程序。"
+      },
+      {
+        "id": 48583928,
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+        "domain": "orchidfiles.com",
+        "score": 676,
+        "descendants": 153,
+        "by": "theorchid",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "安全研究员发现超过一万个GitHub仓库被用于分发木马程序，引发社区关注。"
+      },
+      {
+        "id": 48547969,
+        "title": "Cell-based architecture for resilient payment systems",
+        "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+        "domain": "americanexpress.io",
+        "score": 93,
+        "descendants": 37,
+        "by": "birdculture",
+        "tags": [],
+        "summary": "美国运通分享其基于单元格架构构建弹性支付系统的工程实践。"
+      },
+      {
+        "id": 48543311,
+        "title": "To study how chips work, MIT researchers built their own operating system",
+        "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+        "domain": "news.mit.edu",
+        "score": 10,
+        "descendants": 0,
+        "by": "speckx",
+        "tags": [
+          "Hardware",
+          "Science"
+        ],
+        "summary": "MIT研究人员为深入研究芯片运行机制，从零开发了一套专用操作系统。"
+      },
+      {
+        "id": 48585866,
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+        "domain": "blog.ui.com",
+        "score": 265,
+        "descendants": 244,
+        "by": "ksec",
+        "tags": [],
+        "summary": "Ubiquiti发布基于ZFS文件系统的企业级NAS存储产品。"
+      },
+      {
+        "id": 48591066,
+        "title": "Zork name origin got an update on Wikipedia",
+        "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
+        "domain": "dpolakovic.space",
+        "score": 62,
+        "descendants": 9,
+        "by": "dpola",
+        "tags": [],
+        "summary": "经典游戏Zork的命名起源在维基百科上获得了更新。"
+      },
+      {
+        "id": 48583606,
+        "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+        "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+        "domain": "cs.cornell.edu",
+        "score": 317,
+        "descendants": 46,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "康奈尔大学公开的高级编译器自学课程，涵盖编译器设计核心技术。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arun.is",
+          "count": 1
+        },
+        {
+          "domain": "blog.modelcontextprotocol.io",
+          "count": 1
+        },
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 178,
+      "max_score": {
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "score": 676
+      },
+      "most_discussed": {
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "comments": 244
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Open Source",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了系统架构、网络安全与前沿技术工具。重点聚焦于恶意软件分发追踪、企业级存储方案，以及编译器与操作系统研究等深度技术话题，反映出开发者对底层构建与安全性提升的持续关注。"
+  }
+}
