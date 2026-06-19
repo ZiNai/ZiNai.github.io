@@ -146,5 +146,167 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了系统架构、网络安全与前沿技术工具。重点聚焦于恶意软件分发追踪、企业级存储方案，以及编译器与操作系统研究等深度技术话题，反映出开发者对底层构建与安全性提升的持续关注。"
+  },
+  "noon": {
+    "time": "2026-06-19 16:57",
+    "stories": [
+      {
+        "id": 48595511,
+        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "domain": "jvm-weekly.com",
+        "score": 72,
+        "descendants": 36,
+        "by": "philonoist",
+        "tags": [
+          "AI"
+        ],
+        "summary": "解析JDK 28中Project Valhalla的十年成果及其对Java内存模型与性能的影响。"
+      },
+      {
+        "id": 48553388,
+        "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+        "domain": "greybeam.ai",
+        "score": 150,
+        "descendants": 55,
+        "by": "marklit",
+        "tags": [],
+        "summary": "深入拆解DuckDB的架构设计，探讨其实现极致查询性能的底层机制。"
+      },
+      {
+        "id": 48595331,
+        "title": "So You Want to Define a Well-Known URI",
+        "url": "https://mnot.net/blog/2026/well_known_uris",
+        "domain": "mnot.net",
+        "score": 46,
+        "descendants": 21,
+        "by": "ingve",
+        "tags": [],
+        "summary": "关于如何规范化定义Well-Known URI的指南，旨在提升互联网服务的互操作性。"
+      },
+      {
+        "id": 48543311,
+        "title": "To study how chips work, MIT researchers built their own operating system",
+        "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+        "domain": "news.mit.edu",
+        "score": 173,
+        "descendants": 24,
+        "by": "speckx",
+        "tags": [
+          "Hardware",
+          "Science"
+        ],
+        "summary": "MIT研究人员通过自制操作系统来透彻研究芯片架构设计与底层运作。"
+      },
+      {
+        "id": 48549118,
+        "title": "Zen and the Art of Machine Learning Research",
+        "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+        "domain": "blog.jxmo.io",
+        "score": 42,
+        "descendants": 12,
+        "by": "jxmorris12",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨机器学习研究的哲学视角，分享在科研过程中如何保持专注与清晰思路。"
+      },
+      {
+        "id": 48541062,
+        "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+        "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+        "domain": "mickael.canouil.fr",
+        "score": 74,
+        "descendants": 19,
+        "by": "mcanouil",
+        "tags": [],
+        "summary": "介绍Typst的新图形语法库Gribouille 0.3.0，简化文档中的复杂可视化呈现。"
+      },
+      {
+        "id": 48583928,
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+        "domain": "orchidfiles.com",
+        "score": 780,
+        "descendants": 203,
+        "by": "theorchid",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "安全研究员发现数万个GitHub仓库被植入木马，揭示了开源供应链的安全风险。"
+      },
+      {
+        "id": 48592163,
+        "title": "Zero-Touch OAuth for MCP",
+        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+        "domain": "blog.modelcontextprotocol.io",
+        "score": 190,
+        "descendants": 65,
+        "by": "niyikiza",
+        "tags": [],
+        "summary": "介绍Model Context Protocol(MCP)中的零接触OAuth实现，简化AI模型的鉴权流程。"
+      },
+      {
+        "id": 48570730,
+        "title": "How Japan's railways stayed one while splitting apart",
+        "url": "https://arun.is/blog/jr-logo/",
+        "domain": "arun.is",
+        "score": 88,
+        "descendants": 73,
+        "by": "ddrmaxgt37",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析日本铁路系统如何在拆分重组的过程中依然保持高效运营的一致性。"
+      },
+      {
+        "id": 48594733,
+        "title": "Fable Converted Pylint to Rust",
+        "url": "https://pypi.org/project/prylint/",
+        "domain": "pypi.org",
+        "score": 19,
+        "descendants": 7,
+        "by": "adamraudonis",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Fable团队通过将Pylint核心逻辑重写为Rust，实现了显著的性能提升。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jvm-weekly.com",
+          "count": 1
+        },
+        {
+          "domain": "greybeam.ai",
+          "count": 1
+        },
+        {
+          "domain": "mnot.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 163,
+      "max_score": {
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "score": 780
+      },
+      "most_discussed": {
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "comments": 203
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware",
+        "Open Source",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News涵盖了从底层计算机科学到网络安全的广泛议题，其中安全研究（特别是供应链攻击）获得极高关注。技术社区持续关注数据库优化、语言演进（Java Valhalla/Rust）及现代开发标准，展现了对系统性能与工程效率的深度探索。"
   }
 }
