@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-06-20 10:07",
+    "stories": [
+      {
+        "id": 48605301,
+        "title": "How to feed a dictator",
+        "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+        "domain": "theguardian.com",
+        "score": 45,
+        "descendants": 7,
+        "by": "Michelangelo11",
+        "tags": [],
+        "summary": "探索为历史上的独裁者提供饮食的轶事与背后潜藏的人性与政治色彩。"
+      },
+      {
+        "id": 48602817,
+        "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+        "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+        "domain": "nochan.net",
+        "score": 113,
+        "descendants": 55,
+        "by": "Bender",
+        "tags": [],
+        "summary": "探讨强制要求全网流量实名制的提案及其对互联网自由和匿名性的深远影响。"
+      },
+      {
+        "id": 48599515,
+        "title": "There are no instances in ATProto",
+        "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+        "domain": "overreacted.io",
+        "score": 349,
+        "descendants": 194,
+        "by": "danabramov",
+        "tags": [],
+        "summary": "解释 ATProto 协议如何摒弃传统中心化实例模型，实现去中心化的架构设计。"
+      },
+      {
+        "id": 48514843,
+        "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+        "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+        "domain": "theconversation.com",
+        "score": 196,
+        "descendants": 133,
+        "by": "zeristor",
+        "tags": [],
+        "summary": "研究利用声波技术优化浓缩咖啡萃取，旨在大幅降低咖啡酿造过程中的能源消耗。"
+      },
+      {
+        "id": 48600093,
+        "title": "Norway imposes near ban on AI in elementary school",
+        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+        "domain": "reuters.com",
+        "score": 451,
+        "descendants": 302,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "挪威在小学阶段实施近乎全面的 AI 禁令，引发对教育环境与技术干预的广泛讨论。"
+      },
+      {
+        "id": 48604741,
+        "title": "Aikido Code Audit",
+        "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+        "domain": "aikido.dev",
+        "score": 14,
+        "descendants": 7,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍针对 Aikido 开发平台的代码审计实践，旨在提升安全与合规性。"
+      },
+      {
+        "id": 48600312,
+        "title": "Hyundai buys Boston Dynamics",
+        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+        "domain": "startupfortune.com",
+        "score": 667,
+        "descendants": 312,
+        "by": "ck2",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重温现代汽车公司收购波士顿动力，回顾该交易对机器人产业格局的影响。"
+      },
+      {
+        "id": 48602918,
+        "title": "Surprising Economics of Load-Balanced Systems",
+        "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+        "domain": "brooker.co.za",
+        "score": 44,
+        "descendants": 14,
+        "by": "KraftyOne",
+        "tags": [],
+        "summary": "深度分析负载均衡系统的经济逻辑，探讨分布式架构下的成本与性能权衡。"
+      },
+      {
+        "id": 48605117,
+        "title": "I solved my mystery fatigue with AI",
+        "url": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
+        "domain": "metalearn.substack.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "staticshock",
+        "tags": [
+          "AI"
+        ],
+        "summary": "博主分享利用 AI 工具辅助排查并解决自身长期不明原因疲劳问题的个人实践。"
+      },
+      {
+        "id": 48604851,
+        "title": "Hey, n00b, we didn't hire you to complete tasks",
+        "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+        "domain": "newsletter.kentbeck.com",
+        "score": 70,
+        "descendants": 40,
+        "by": "rrvsh",
+        "tags": [],
+        "summary": "Kent Beck 探讨工程师的核心价值，强调初级开发者应更关注解决问题而非机械完成任务。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "theguardian.com",
+          "count": 1
+        },
+        {
+          "domain": "nochan.net",
+          "count": 1
+        },
+        {
+          "domain": "overreacted.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 196,
+      "max_score": {
+        "title": "Hyundai buys Boston Dynamics",
+        "score": 667
+      },
+      "most_discussed": {
+        "title": "Hyundai buys Boston Dynamics",
+        "comments": 312
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术前沿与社会治理的博弈，涵盖了人工智能在教育和医疗领域的伦理争议，以及分布式协议、工程效能与系统架构等深度技术讨论。整体呈现出对新兴技术社会影响的深度审视，同时也伴随着对开发文化和系统设计的实操分析。"
+  }
+}
