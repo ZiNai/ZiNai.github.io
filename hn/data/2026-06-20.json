@@ -150,5 +150,161 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于技术前沿与社会治理的博弈，涵盖了人工智能在教育和医疗领域的伦理争议，以及分布式协议、工程效能与系统架构等深度技术讨论。整体呈现出对新兴技术社会影响的深度审视，同时也伴随着对开发文化和系统设计的实操分析。"
+  },
+  "noon": {
+    "time": "2026-06-20 15:41",
+    "stories": [
+      {
+        "id": 48606619,
+        "title": "I Stored a Website in a Favicon",
+        "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+        "domain": "timwehrle.de",
+        "score": 71,
+        "descendants": 26,
+        "by": "theanonymousone",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探索如何通过Favicon图标嵌入数据来存储小型网站内容的技术方案。"
+      },
+      {
+        "id": 48562662,
+        "title": "Data Compression Explained (2012)",
+        "url": "https://mattmahoney.net/dc/dce.html",
+        "domain": "mattmahoney.net",
+        "score": 92,
+        "descendants": 7,
+        "by": "mtdewcmu",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇关于数据压缩核心原理与算法机制的经典入门科普文章。"
+      },
+      {
+        "id": 48599515,
+        "title": "There are no instances in ATProto",
+        "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+        "domain": "overreacted.io",
+        "score": 416,
+        "descendants": 216,
+        "by": "danabramov",
+        "tags": [],
+        "summary": "详细论述了ATProto协议如何通过非传统实例架构重新定义去中心化社交网络。"
+      },
+      {
+        "id": 48568652,
+        "title": "The discovery that changed how scientists think about memory",
+        "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+        "domain": "ibm.com",
+        "score": 31,
+        "descendants": 5,
+        "by": "rbanffy",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了一项颠覆现有记忆形成与存储机制认知的重要科学发现。"
+      },
+      {
+        "id": 48606140,
+        "title": "Where to Find the Colors Your Screen Can't Show You",
+        "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+        "domain": "moultano.wordpress.com",
+        "score": 26,
+        "descendants": 4,
+        "by": "moultano",
+        "tags": [],
+        "summary": "探究色彩空间限制及如何观测到物理屏幕显示范围之外的颜色。"
+      },
+      {
+        "id": 48582374,
+        "title": "Can you see three trees?",
+        "url": "https://www.not-ship.com/can-you-see-three-trees/",
+        "domain": "not-ship.com",
+        "score": 66,
+        "descendants": 12,
+        "by": "Pamar",
+        "tags": [],
+        "summary": "探讨视觉认知与思维方式，分析人类在复杂视觉环境中识别模式的能力。"
+      },
+      {
+        "id": 48602918,
+        "title": "Surprising economics of load-balanced systems",
+        "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+        "domain": "brooker.co.za",
+        "score": 91,
+        "descendants": 22,
+        "by": "KraftyOne",
+        "tags": [],
+        "summary": "分析负载均衡系统的经济逻辑，探讨如何优化计算资源利用率。"
+      },
+      {
+        "id": 48600312,
+        "title": "Hyundai buys Boston Dynamics",
+        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+        "domain": "startupfortune.com",
+        "score": 781,
+        "descendants": 346,
+        "by": "ck2",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入分析现代汽车巨头现代集团收购机器人领域领先企业波士顿动力的战略影响。"
+      },
+      {
+        "id": 48600093,
+        "title": "Norway imposes near ban on AI in elementary school",
+        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+        "domain": "reuters.com",
+        "score": 612,
+        "descendants": 426,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道挪威政府针对AI技术进入小学教育阶段实施的严格监管与限制措施。"
+      },
+      {
+        "id": 48598586,
+        "title": "How many of the 170k English words do you know?",
+        "url": "https://vocabowl-870366514258.us-west1.run.app/",
+        "domain": "vocabowl-870366514258.us-west1.run.app",
+        "score": 337,
+        "descendants": 427,
+        "by": "abnry",
+        "tags": [],
+        "summary": "一个交互式测试工具，旨在帮助用户评估自己掌握的英语词汇量规模。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "timwehrle.de",
+          "count": 1
+        },
+        {
+          "domain": "mattmahoney.net",
+          "count": 1
+        },
+        {
+          "domain": "overreacted.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 252,
+      "max_score": {
+        "title": "Hyundai buys Boston Dynamics",
+        "score": 781
+      },
+      "most_discussed": {
+        "title": "How many of the 170k English words do you know?",
+        "comments": 427
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI政策与企业动向，深度探讨了ATProto协议架构及数据压缩理论。此外，社区对认知科学实验、极客技术实践及数字词汇量测试表现出浓厚兴趣。"
   }
 }
