@@ -306,5 +306,163 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI政策与企业动向，深度探讨了ATProto协议架构及数据压缩理论。此外，社区对认知科学实验、极客技术实践及数字词汇量测试表现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-06-20 21:52",
+    "stories": [
+      {
+        "id": 48608223,
+        "title": "CSSQuake",
+        "url": "https://cssquake.com/",
+        "domain": "cssquake.com",
+        "score": 134,
+        "descendants": 25,
+        "by": "msalsas",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一款通过CSS动画和视觉冲击展示网站性能或概念的互动作品。"
+      },
+      {
+        "id": 48606619,
+        "title": "I Stored a Website in a Favicon",
+        "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+        "domain": "timwehrle.de",
+        "score": 203,
+        "descendants": 77,
+        "by": "theanonymousone",
+        "tags": [
+          "Web"
+        ],
+        "summary": "博主通过一种巧妙的技术手段，成功将整个网页的数据嵌入到了网站的favicon图标中。"
+      },
+      {
+        "id": 48606140,
+        "title": "Where to Find the Colors Your Screen Can't Show You",
+        "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+        "domain": "moultano.wordpress.com",
+        "score": 246,
+        "descendants": 56,
+        "by": "moultano",
+        "tags": [],
+        "summary": "深入浅出地探讨了色彩科学与显示器色域限制，解释了人类眼睛可见但屏幕无法还原的色彩奥秘。"
+      },
+      {
+        "id": 48564480,
+        "title": "The Cold War's Accidental Whale Observatory",
+        "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 29,
+        "descendants": 8,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "揭露了冷战时期一项被遗忘的海洋声学监测项目，旨在追踪潜艇的设施竟意外成为鲸鱼观察站。"
+      },
+      {
+        "id": 48608503,
+        "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+        "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+        "domain": "tomshardware.com",
+        "score": 48,
+        "descendants": 15,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "实测显示一块16年前的老旧SATA II SSD在经历1PB写入后依然存活，远超官方寿命预期。"
+      },
+      {
+        "id": 48608255,
+        "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+        "url": "https://bootimus.com",
+        "domain": "bootimus.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "car",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款集成的PXE和HTTP启动服务器工具，旨在简化网络化安装与系统部署流程。"
+      },
+      {
+        "id": 48582374,
+        "title": "Can you see three trees?",
+        "url": "https://www.not-ship.com/can-you-see-three-trees/",
+        "domain": "not-ship.com",
+        "score": 195,
+        "descendants": 99,
+        "by": "Pamar",
+        "tags": [],
+        "summary": "一篇探讨视觉认知与几何图形理解的互动式文章，通过测试考量读者的感知方式。"
+      },
+      {
+        "id": 48562662,
+        "title": "Data Compression Explained (2012)",
+        "url": "https://mattmahoney.net/dc/dce.html",
+        "domain": "mattmahoney.net",
+        "score": 157,
+        "descendants": 22,
+        "by": "mtdewcmu",
+        "tags": [
+          "AI"
+        ],
+        "summary": "这篇2012年的经典文章从信息论角度详细解读了数据压缩的工作原理及其局限性。"
+      },
+      {
+        "id": 48599515,
+        "title": "There are no instances in ATProto",
+        "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+        "domain": "overreacted.io",
+        "score": 475,
+        "descendants": 251,
+        "by": "danabramov",
+        "tags": [],
+        "summary": "Dan Abramov详细解析了ATProto协议如何通过去中心化架构，彻底改变社交网络的身份验证与实例概念。"
+      },
+      {
+        "id": 48608591,
+        "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+        "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+        "domain": "lrt.lt",
+        "score": 32,
+        "descendants": 11,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Startup",
+          "Open Source"
+        ],
+        "summary": "立陶宛初创公司开发开源网络系统，旨在通过分布式传感器探测Shahed自杀式无人机。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "cssquake.com",
+          "count": 1
+        },
+        {
+          "domain": "timwehrle.de",
+          "count": 1
+        },
+        {
+          "domain": "moultano.wordpress.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 154,
+      "max_score": {
+        "title": "There are no instances in ATProto",
+        "score": 475
+      },
+      "most_discussed": {
+        "title": "There are no instances in ATProto",
+        "comments": 251
+      },
+      "hot_tags": [
+        "Web",
+        "AI",
+        "Startup",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从数据存储与压缩的底层技术讨论，到创新的网页工程实践与前沿硬件探索。技术极客们表现出对网络架构演变、复古硬件寿命以及图像感知边界的浓厚兴趣，反映了社区对于底层原理深究与实用创意工具的热衷。"
   }
 }
