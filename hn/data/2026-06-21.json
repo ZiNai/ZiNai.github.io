@@ -155,5 +155,168 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了技术基础设施、生物科学研究及公共安全议题。从 Linux 内核 IO 技术讨论到大脑呼吸实验，再到对送货机器人和公共警报系统的社会性反思，展现了社区对硬核工程与现实世界影响力的双重关注。"
+  },
+  "noon": {
+    "time": "2026-06-21 16:19",
+    "stories": [
+      {
+        "id": 48616713,
+        "title": "A 3D voxel game engine written in APL",
+        "url": "https://github.com/namgyaaal/avoxelgame",
+        "domain": "github.com",
+        "score": 8,
+        "descendants": 0,
+        "by": "sph",
+        "tags": [],
+        "summary": "使用 APL 语言构建 3D 体素游戏引擎的技术展示。"
+      },
+      {
+        "id": 48614844,
+        "title": "Developers don't understand CORS (2019)",
+        "url": "https://fosterelli.co/developers-dont-understand-cors",
+        "domain": "fosterelli.co",
+        "score": 162,
+        "descendants": 75,
+        "by": "toilet",
+        "tags": [],
+        "summary": "探讨开发者在 CORS 实现中常见的误区及对浏览器安全机制的理解偏差。"
+      },
+      {
+        "id": 48573902,
+        "title": "Zigzag Decoding with AVX-512",
+        "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+        "domain": "zeux.io",
+        "score": 60,
+        "descendants": 4,
+        "by": "luu",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度解析如何利用 AVX-512 指令集加速 Zigzag 解码过程。"
+      },
+      {
+        "id": 48608645,
+        "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "url": "https://github.com/mysk-research/loupe",
+        "domain": "github.com",
+        "score": 250,
+        "descendants": 75,
+        "by": "Cider9986",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "一款揭示 iOS 原生应用隐私权限与数据获取能力的开源工具。"
+      },
+      {
+        "id": 48613755,
+        "title": "Renting a sewing machine from the library",
+        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "domain": "bbc.com",
+        "score": 211,
+        "descendants": 107,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "关于从图书馆租赁缝纫机等公共资源的社区化趋势报道。"
+      },
+      {
+        "id": 48615680,
+        "title": "Building reliable agentic AI systems",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "domain": "martinfowler.com",
+        "score": 78,
+        "descendants": 15,
+        "by": "sarangk90",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Martin Fowler 关于构建稳定、可靠的智能体（Agentic）AI 系统的实践指南。"
+      },
+      {
+        "id": 48613872,
+        "title": "Epoll vs. io_uring in Linux",
+        "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+        "domain": "sibexi.co",
+        "score": 139,
+        "descendants": 37,
+        "by": "Sibexico",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "对比 Linux 下 Epoll 与 io_uring 的性能差异及其适用场景。"
+      },
+      {
+        "id": 48616017,
+        "title": "The 100k Whys of AI",
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "domain": "lcamtuf.substack.com",
+        "score": 85,
+        "descendants": 33,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "从多维度深入剖析人工智能技术当前的发展现状与深层逻辑。"
+      },
+      {
+        "id": 48613555,
+        "title": "Slow breathing modulates brain function and risk behavior",
+        "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+        "domain": "cell.com",
+        "score": 172,
+        "descendants": 38,
+        "by": "croes",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨慢呼吸运动如何通过调节大脑功能从而改变个体风险决策行为。"
+      },
+      {
+        "id": 48608570,
+        "title": "Show HN: TownSquare, a tiny presence layer for websites",
+        "url": "https://townsquare.cauenapier.com/",
+        "domain": "townsquare.cauenapier.com",
+        "score": 158,
+        "descendants": 80,
+        "by": "cauenapier",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "为网站提供轻量级在线状态展示功能的开源插件展示。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "fosterelli.co",
+          "count": 1
+        },
+        {
+          "domain": "zeux.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 132,
+      "max_score": {
+        "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "score": 250
+      },
+      "most_discussed": {
+        "title": "Renting a sewing machine from the library",
+        "comments": 107
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了从底层系统性能优化到 AI 工程化实践的广泛技术领域。同时，开发者对网络安全基础（如 CORS）和 Web 交互体验的关注度依旧很高，日常生活与科学发现类文章则为纯技术议题提供了人文调剂。"
   }
 }
