@@ -318,5 +318,156 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了从底层系统性能优化到 AI 工程化实践的广泛技术领域。同时，开发者对网络安全基础（如 CORS）和 Web 交互体验的关注度依旧很高，日常生活与科学发现类文章则为纯技术议题提供了人文调剂。"
+  },
+  "evening": {
+    "time": "2026-06-21 21:59",
+    "stories": [
+      {
+        "id": 48617990,
+        "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+        "url": "https://www.beyondallreason.info",
+        "domain": "beyondallreason.info",
+        "score": 101,
+        "descendants": 33,
+        "by": "mosiuerbarso",
+        "tags": [],
+        "summary": "一款灵感源自《横扫千军》的免费即时战略游戏，深受RTS爱好者关注。"
+      },
+      {
+        "id": 48617782,
+        "title": "The case against geometric algebra (2024)",
+        "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+        "domain": "alexkritchevsky.com",
+        "score": 63,
+        "descendants": 34,
+        "by": "Hbruz0",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇探讨几何代数局限性的技术分析文章，引发了数学工具应用价值的争议。"
+      },
+      {
+        "id": 48618226,
+        "title": "David Ahl's Basic Computer Games Ported to C",
+        "url": "https://github.com/proteanthread/bcg",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 5,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "开发者将经典《Basic Computer Games》中的游戏移植到了C语言。"
+      },
+      {
+        "id": 48616713,
+        "title": "A 3D voxel game engine written in APL",
+        "url": "https://github.com/namgyaaal/avoxelgame",
+        "domain": "github.com",
+        "score": 89,
+        "descendants": 8,
+        "by": "sph",
+        "tags": [],
+        "summary": "一款iOS隐私检测工具，旨在揭示原生应用在后台可能获取的设备权限。"
+      },
+      {
+        "id": 48616800,
+        "title": "Google Hits 50% IPv6",
+        "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+        "domain": "blog.apnic.net",
+        "score": 228,
+        "descendants": 236,
+        "by": "barqawiz",
+        "tags": [],
+        "summary": "Google统计显示IPv6流量渗透率首次达到50%，标志着全球互联网协议迁移的重要里程碑。"
+      },
+      {
+        "id": 48608645,
+        "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "url": "https://github.com/mysk-research/loupe",
+        "domain": "github.com",
+        "score": 371,
+        "descendants": 154,
+        "by": "Cider9986",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      },
+      {
+        "id": 48616173,
+        "title": "Windows UI evolution: Clicking an unassociated file",
+        "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+        "domain": "movq.de",
+        "score": 79,
+        "descendants": 45,
+        "by": "jandeboevrie",
+        "tags": [],
+        "summary": "深度剖析Windows UI在处理未关联文件时的交互逻辑演变及其设计问题。"
+      },
+      {
+        "id": 48599555,
+        "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+        "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+        "domain": "taoofmac.com",
+        "score": 120,
+        "descendants": 9,
+        "by": "zdw",
+        "tags": [],
+        "summary": "一份关于在Proxmox VE中部署MicroVM的简化指南，旨在降低虚拟化门槛。"
+      },
+      {
+        "id": 48613755,
+        "title": "Renting a sewing machine from the library",
+        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "domain": "bbc.com",
+        "score": 271,
+        "descendants": 152,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "讨论图书馆提供缝纫机租赁服务的公共服务创新，引发关于社区资源共享的思考。"
+      },
+      {
+        "id": 48587865,
+        "title": "Two Qwen3 models on one DGX Spark: the residency math",
+        "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+        "domain": "devashish.me",
+        "score": 16,
+        "descendants": 7,
+        "by": "devashish86",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨在DGX Spark硬件上运行两款Qwen3大模型所需的算力与成本评估。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "beyondallreason.info",
+          "count": 1
+        },
+        {
+          "domain": "alexkritchevsky.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 136,
+      "max_score": {
+        "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "score": 371
+      },
+      "most_discussed": {
+        "title": "Google Hits 50% IPv6",
+        "comments": 236
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注硬核编程与系统架构，涵盖了从开源游戏引擎、IPv6网络基础设施到虚拟化技术的深度探讨。同时，关于数字隐私工具及怀旧计算机文化的讨论也吸引了大量技术社区的关注。"
   }
 }
