@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-06-21 10:31",
+    "stories": [
+      {
+        "id": 48613755,
+        "title": "Renting a sewing machine from the library",
+        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "domain": "bbc.com",
+        "score": 108,
+        "descendants": 51,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "探讨图书馆租赁缝纫机等工具如何促进社区资源共享与可持续生活。"
+      },
+      {
+        "id": 48613872,
+        "title": "Epoll vs. io_uring in Linux",
+        "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+        "domain": "sibexi.co",
+        "score": 61,
+        "descendants": 19,
+        "by": "Sibexico",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度对比 Linux 网络 IO 模型 epoll 与 io_uring 的架构差异与性能表现。"
+      },
+      {
+        "id": 48608570,
+        "title": "Show HN: TownSquare, a tiny presence layer for websites",
+        "url": "https://townsquare.cauenapier.com/",
+        "domain": "townsquare.cauenapier.com",
+        "score": 74,
+        "descendants": 24,
+        "by": "cauenapier",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "介绍一款名为 TownSquare 的轻量级网站在线状态显示层插件。"
+      },
+      {
+        "id": 48584261,
+        "title": "15-minute at-home Lyme disease tick test",
+        "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+        "domain": "bostonglobe.com",
+        "score": 42,
+        "descendants": 13,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "报道一项可在 15 分钟内居家检测莱姆病的蜱虫测试技术。"
+      },
+      {
+        "id": 48613555,
+        "title": "Slow breathing modulates brain function and risk behavior",
+        "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+        "domain": "cell.com",
+        "score": 65,
+        "descendants": 6,
+        "by": "croes",
+        "tags": [
+          "AI"
+        ],
+        "summary": "科学研究指出慢呼吸能够调节大脑活动并降低风险行为的倾向。"
+      },
+      {
+        "id": 48614390,
+        "title": "'We had to get out of the way': The backlash over delivery robots",
+        "url": "https://www.bbc.com/news/articles/c0rygp005wjo",
+        "domain": "bbc.com",
+        "score": 28,
+        "descendants": 18,
+        "by": "higginsniggins",
+        "tags": [],
+        "summary": "分析公众对自动送货机器人占道等负面影响引发的社会反弹。"
+      },
+      {
+        "id": 48608645,
+        "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "url": "https://github.com/mysk-research/loupe",
+        "domain": "github.com",
+        "score": 69,
+        "descendants": 17,
+        "by": "Cider9986",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "开源 iOS 应用 Loupe，旨在揭示原生应用通过系统权限获取隐私数据的能力。"
+      },
+      {
+        "id": 48610827,
+        "title": "SMPTE Makes Its Standards Freely Accessible",
+        "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+        "domain": "smpte.org",
+        "score": 235,
+        "descendants": 65,
+        "by": "zdw",
+        "tags": [],
+        "summary": "SMPTE 宣布将其专业视听行业标准全面向公众免费开放。"
+      },
+      {
+        "id": 48612740,
+        "title": "Alice is impatient",
+        "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+        "domain": "brooker.co.za",
+        "score": 60,
+        "descendants": 18,
+        "by": "birdculture",
+        "tags": [],
+        "summary": "通过 Alice 的案例探讨分布式系统设计中对高延迟容忍度的考量。"
+      },
+      {
+        "id": 48612502,
+        "title": "Unauthorized alert sent to cell phones across Brazil",
+        "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+        "domain": "cnn.com",
+        "score": 89,
+        "descendants": 64,
+        "by": "zdw",
+        "tags": [],
+        "summary": "追踪巴西全国范围内手机遭遇未经授权异常警报的突发事件。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bbc.com",
+          "count": 2
+        },
+        {
+          "domain": "sibexi.co",
+          "count": 1
+        },
+        {
+          "domain": "townsquare.cauenapier.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 83,
+      "max_score": {
+        "title": "SMPTE Makes Its Standards Freely Accessible",
+        "score": 235
+      },
+      "most_discussed": {
+        "title": "SMPTE Makes Its Standards Freely Accessible",
+        "comments": 65
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了技术基础设施、生物科学研究及公共安全议题。从 Linux 内核 IO 技术讨论到大脑呼吸实验，再到对送货机器人和公共警报系统的社会性反思，展现了社区对硬核工程与现实世界影响力的双重关注。"
+  }
+}
