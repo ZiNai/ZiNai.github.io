@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-06-23 00:47",
+    "stories": [
+      {
+        "id": 48630066,
+        "title": "Never Give Them Your Face",
+        "url": "https://nevergivethemyourface.com/",
+        "domain": "nevergivethemyourface.com",
+        "score": 488,
+        "descendants": 264,
+        "by": "audiodude",
+        "tags": [],
+        "summary": "探讨了生物识别数据隐私风险，警示用户在互联网时代保护面部数据的重要性。"
+      },
+      {
+        "id": 48630020,
+        "title": "Pledging Another $400k to the Zig Software Foundation",
+        "url": "https://mitchellh.com/writing/zig-donation-2026",
+        "domain": "mitchellh.com",
+        "score": 459,
+        "descendants": 141,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Mitchell Hashimoto宣布向Zig软件基金会追加40万美元捐赠，以支持该语言的持续发展。"
+      },
+      {
+        "id": 48630535,
+        "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+        "domain": "patrickmccanna.net",
+        "score": 127,
+        "descendants": 97,
+        "by": "0o_MrPatrick_o0",
+        "tags": [
+          "AI"
+        ],
+        "summary": "质疑Claude Code的“扩展思维”功能本质上是总结而非真正的认知推理。"
+      },
+      {
+        "id": 48630171,
+        "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+        "url": "https://hustvl.github.io/Moebius/",
+        "domain": "hustvl.github.io",
+        "score": 78,
+        "descendants": 13,
+        "by": "DSemba",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一款轻量级图像修复模型Moebius，其参数仅0.2B却表现出10B量级的性能。"
+      },
+      {
+        "id": 48626137,
+        "title": "Deno Desktop",
+        "url": "https://docs.deno.com/runtime/desktop/",
+        "domain": "docs.deno.com",
+        "score": 823,
+        "descendants": 320,
+        "by": "GeneralMaximus",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "Deno官方发布桌面端开发工具，进一步拓宽了JavaScript运行时在本地应用领域的版图。"
+      },
+      {
+        "id": 48626930,
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "url": "https://github.com/openai/codex/issues/28224",
+        "domain": "github.com",
+        "score": 327,
+        "descendants": 180,
+        "by": "vantareed",
+        "tags": [],
+        "summary": "Codex出现严重的日志记录漏洞，会导致在本地SSD中写入TB级垃圾数据。"
+      },
+      {
+        "id": 48629982,
+        "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+        "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+        "domain": "righto.com",
+        "score": 32,
+        "descendants": 7,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "通过芯片显微分析技术，解析8087数学协处理器中高速位移器的电路设计原理。"
+      },
+      {
+        "id": 48626866,
+        "title": "GLM 5.2 vs. Opus",
+        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+        "domain": "techstackups.com",
+        "score": 362,
+        "descendants": 255,
+        "by": "ritzaco",
+        "tags": [],
+        "summary": "深度对比分析GLM 5.2与Opus模型在性能及应用场景上的差异与优劣。"
+      },
+      {
+        "id": 48622241,
+        "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+        "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
+        "domain": "youtube.com",
+        "score": 15,
+        "descendants": 1,
+        "by": "zdw",
+        "tags": [],
+        "summary": "展示了通过复古的80年代Bernoulli磁带驱动器成功运行任天堂Wii U游戏的极客项目。"
+      },
+      {
+        "id": 48602144,
+        "title": "Granularity comes at a cost – Game Theory",
+        "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+        "domain": "sidhantbansal.com",
+        "score": 26,
+        "descendants": 4,
+        "by": "sidhantbansal",
+        "tags": [],
+        "summary": "探讨博弈论视角下颗粒度设置对系统效率与成本的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nevergivethemyourface.com",
+          "count": 1
+        },
+        {
+          "domain": "mitchellh.com",
+          "count": 1
+        },
+        {
+          "domain": "patrickmccanna.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 274,
+      "max_score": {
+        "title": "Deno Desktop",
+        "score": 823
+      },
+      "most_discussed": {
+        "title": "Deno Desktop",
+        "comments": 320
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期Hacker News热门话题涵盖了AI技术的深度剖析、开源生态的资金支持以及软硬件开发的工程实践。开发者社区持续关注AI模型性能边界、桌面端工具链的更新以及各类系统级工程BUG带来的安全与性能隐患。"
+  }
+}
