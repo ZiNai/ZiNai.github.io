@@ -155,5 +155,164 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的深度探讨，涵盖开源模型的战略价值、大厂数据合规争议及Claude的身份验证问题。同时，社区对职场本质反思及各类小众技术工具的分享保持了高关注度。"
+  },
+  "evening": {
+    "time": "2026-06-22 17:37",
+    "stories": [
+      {
+        "id": 48626137,
+        "title": "Deno Desktop",
+        "url": "https://docs.deno.com/runtime/desktop/",
+        "domain": "docs.deno.com",
+        "score": 342,
+        "descendants": 141,
+        "by": "GeneralMaximus",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "Deno官方发布桌面应用开发工具，旨在简化使用JavaScript/TypeScript构建跨平台桌面软件的流程。"
+      },
+      {
+        "id": 48626930,
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "url": "https://github.com/openai/codex/issues/28224",
+        "domain": "github.com",
+        "score": 74,
+        "descendants": 39,
+        "by": "vantareed",
+        "tags": [],
+        "summary": "Codex编辑器发现严重日志错误，可能导致在短时间内向本地SSD写入数TB垃圾数据，建议开发者紧急排查。"
+      },
+      {
+        "id": 48626866,
+        "title": "GLM 5.2 vs. Opus",
+        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+        "domain": "techstackups.com",
+        "score": 120,
+        "descendants": 84,
+        "by": "ritzaco",
+        "tags": [],
+        "summary": "深度对比分析GLM 5.2模型与OpenAI Opus在推理能力及工程应用上的优劣。"
+      },
+      {
+        "id": 48605561,
+        "title": "Help I accidentally a wigglegram",
+        "url": "https://lmao.center/blog/wiggle-accidents/",
+        "domain": "lmao.center",
+        "score": 228,
+        "descendants": 39,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "一篇关于如何通过简单的视差效果技术，将静态图片转化为具有空间深度的“Wigglegram”动画的趣味教程。"
+      },
+      {
+        "id": 48622867,
+        "title": "Did my old job only exist because of fraud?",
+        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+        "domain": "david.newgas.net",
+        "score": 548,
+        "descendants": 235,
+        "by": "advisedwang",
+        "tags": [],
+        "summary": "作者通过个人经历反思职业生涯，探讨其过往工作岗位是否仅建立在公司财务欺诈的虚假繁荣之上。"
+      },
+      {
+        "id": 48622778,
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "domain": "apertvs.ai",
+        "score": 373,
+        "descendants": 127,
+        "by": "T-A",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Apertus发布全新的开源基础模型，致力于通过透明化技术栈助力构建主权AI系统。"
+      },
+      {
+        "id": 48599998,
+        "title": "Munich 1991: The Roots of the Current AI Boom",
+        "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+        "domain": "people.idsia.ch",
+        "score": 48,
+        "descendants": 11,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾1991年慕尼黑人工智能研究的早期成果，探讨其如何成为当前AI技术浪潮的学术根基。"
+      },
+      {
+        "id": 48622518,
+        "title": "There is minimal downside to switching to open models",
+        "url": "https://www.marble.onl/posts/cancel_claude.html",
+        "domain": "marble.onl",
+        "score": 223,
+        "descendants": 178,
+        "by": "amarble",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章论证了在当前环境下迁移至开源AI模型所面临的风险较低，并分析了其在商业部署中的灵活性优势。"
+      },
+      {
+        "id": 48606096,
+        "title": "Memory Safe Inline Assembly",
+        "url": "https://fil-c.org/inlineasm",
+        "domain": "fil-c.org",
+        "score": 109,
+        "descendants": 21,
+        "by": "pizlonator",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了一种通过编译器技术实现内存安全内联汇编的方法，以提升底层代码开发的安全性。"
+      },
+      {
+        "id": 48606654,
+        "title": "Lisp in the Rust Type System",
+        "url": "https://github.com/playX18/lisp-in-types/",
+        "domain": "github.com",
+        "score": 63,
+        "descendants": 0,
+        "by": "quasigloam",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "探索如何利用Rust强大的类型系统在编译期模拟实现Lisp解释器功能的硬核技术实验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "docs.deno.com",
+          "count": 1
+        },
+        {
+          "domain": "techstackups.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 213,
+      "max_score": {
+        "title": "Did my old job only exist because of fraud?",
+        "score": 548
+      },
+      "most_discussed": {
+        "title": "Did my old job only exist because of fraud?",
+        "comments": 235
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Systems",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于开源AI技术的生态演进与安全性探讨，开发者对大模型应用（如Codex日志溢出及开源模型替代方案）的关注度显著上升。此外，有关编程基础设施（如Deno Desktop、Rust与内存安全）的技术实践和职场生态的深度反思也引发了热议。"
   }
 }
