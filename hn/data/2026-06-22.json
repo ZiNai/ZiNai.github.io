@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-06-22 10:35",
+    "stories": [
+      {
+        "id": 48622778,
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "domain": "apertvs.ai",
+        "score": 213,
+        "descendants": 79,
+        "by": "T-A",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一个旨在实现主权AI的开源基础模型项目Apertus。"
+      },
+      {
+        "id": 48622867,
+        "title": "Did my old job only exist because of fraud?",
+        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+        "domain": "david.newgas.net",
+        "score": 249,
+        "descendants": 111,
+        "by": "advisedwang",
+        "tags": [],
+        "summary": "深度反思并探讨作者旧工作是否建立在行业欺诈基础之上。"
+      },
+      {
+        "id": 48622626,
+        "title": "Everything is logarithms",
+        "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+        "domain": "alexkritchevsky.com",
+        "score": 124,
+        "descendants": 17,
+        "by": "E-Reverance",
+        "tags": [],
+        "summary": "深入阐述对数函数在数学与物理学中无处不在的核心地位。"
+      },
+      {
+        "id": 48624114,
+        "title": "1983 Northern Telecom Commodore Phone",
+        "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+        "domain": "oldtelephoneroom.ca",
+        "score": 19,
+        "descendants": 5,
+        "by": "arexxbifs",
+        "tags": [],
+        "summary": "回顾1983年北方电信与Commodore合作开发的一款复古电话。"
+      },
+      {
+        "id": 48622518,
+        "title": "There is minimal downside to switching to open models",
+        "url": "https://www.marble.onl/posts/cancel_claude.html",
+        "domain": "marble.onl",
+        "score": 63,
+        "descendants": 23,
+        "by": "amarble",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨企业及开发者切换至开源AI模型的极低试错成本与优势。"
+      },
+      {
+        "id": 48621517,
+        "title": "JSON-LD explained for personal websites",
+        "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+        "domain": "hawksley.dev",
+        "score": 171,
+        "descendants": 46,
+        "by": "ethanhawksley",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "讨论Claude平台实施强制性身份验证引发的用户争议与技术细节。"
+      },
+      {
+        "id": 48622731,
+        "title": "PowerFox Browser",
+        "url": "https://powerfox.jazzzny.me/",
+        "domain": "powerfox.jazzzny.me",
+        "score": 77,
+        "descendants": 27,
+        "by": "thisislife2",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍一款名为PowerFox的浏览器及其功能特性。"
+      },
+      {
+        "id": 48623721,
+        "title": "Petition against Meta's employee training data collection for ML models",
+        "url": "https://mcipetition.com/",
+        "domain": "mcipetition.com",
+        "score": 46,
+        "descendants": 32,
+        "by": "reasonableklout",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于抗议Meta在员工数据上训练机器学习模型的请愿行动。"
+      },
+      {
+        "id": 48618455,
+        "title": "Identity verification on Claude",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "domain": "support.claude.com",
+        "score": 592,
+        "descendants": 521,
+        "by": "bathory",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48589687,
+        "title": "I Play Video Games with Spinal Muscular Atrophy",
+        "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+        "domain": "openassistivetech.org",
+        "score": 31,
+        "descendants": 6,
+        "by": "dannyobrien",
+        "tags": [],
+        "summary": "患有脊髓性肌萎缩症的玩家分享其通过辅助技术进行游戏的经历。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apertvs.ai",
+          "count": 1
+        },
+        {
+          "domain": "david.newgas.net",
+          "count": 1
+        },
+        {
+          "domain": "alexkritchevsky.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 158,
+      "max_score": {
+        "title": "Identity verification on Claude",
+        "score": 592
+      },
+      "most_discussed": {
+        "title": "Identity verification on Claude",
+        "comments": 521
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的深度探讨，涵盖开源模型的战略价值、大厂数据合规争议及Claude的身份验证问题。同时，社区对职场本质反思及各类小众技术工具的分享保持了高关注度。"
+  }
+}
