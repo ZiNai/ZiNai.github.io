@@ -313,5 +313,156 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术的快速迭代，包括模型性能的突破（VibeThinker与GPT-5.5-Cyber）以及计算机视觉领域YOLO26的发布。同时，社区对行业新闻（Steam Machine发布与Polymarket争议）保持高度关注，技术深度讨论则涵盖了HTTP新标准及老牌工具Memcached的价值回溯。"
+  },
+  "evening": {
+    "time": "2026-06-23 22:39",
+    "stories": [
+      {
+        "id": 48645386,
+        "title": "Elevated error rate across multiple models",
+        "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+        "domain": "status.claude.com",
+        "score": 75,
+        "descendants": 29,
+        "by": "rob",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude等多款AI模型出现报错率升高的问题，官方正在进行排查。"
+      },
+      {
+        "id": 48643426,
+        "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+        "url": "https://github.com/baidu/Unlimited-OCR",
+        "domain": "github.com",
+        "score": 186,
+        "descendants": 51,
+        "by": "ingve",
+        "tags": [],
+        "summary": "介绍一种实现无限OCR的新方法，支持长序列、一次性解析各类文档。"
+      },
+      {
+        "id": 48632884,
+        "title": "Steam Machine launches today",
+        "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+        "domain": "store.steampowered.com",
+        "score": 1763,
+        "descendants": 1504,
+        "by": "theschwa",
+        "tags": [],
+        "summary": "Steam Machine正式发布，引起了游戏硬件社区的广泛讨论与围观。"
+      },
+      {
+        "id": 48645173,
+        "title": "Spying on kids to save kids from spying is stupid",
+        "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+        "domain": "pluralistic.net",
+        "score": 49,
+        "descendants": 7,
+        "by": "hn_acker",
+        "tags": [],
+        "summary": "探讨以保护未成年人为由实施监视技术的悖论，指出其带来的隐私隐患。"
+      },
+      {
+        "id": 48644781,
+        "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+        "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+        "domain": "404media.co",
+        "score": 60,
+        "descendants": 1,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "揭露MSG公司针对反对面部识别技术的活动人士建立了秘密档案。"
+      },
+      {
+        "id": 48596488,
+        "title": "Plotnine",
+        "url": "https://plotnine.org/",
+        "domain": "plotnine.org",
+        "score": 145,
+        "descendants": 38,
+        "by": "tosh",
+        "tags": [],
+        "summary": "Plotnine是一个基于Python的绘图库，实现了R语言ggplot2的语法逻辑。"
+      },
+      {
+        "id": 48645390,
+        "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+        "url": "https://github.com/ilbertt/bun-sqlgen",
+        "domain": "github.com",
+        "score": 7,
+        "descendants": 0,
+        "by": "ilbert",
+        "tags": [
+          "Database",
+          "Show HN"
+        ],
+        "summary": "开源项目Bun-sqlgen，旨在为Bun环境提供类型安全的原始SQL编写方式且无需ORM。"
+      },
+      {
+        "id": 48636377,
+        "title": "GLM-5.2 – How to Run Locally",
+        "url": "https://unsloth.ai/docs/models/glm-5.2",
+        "domain": "unsloth.ai",
+        "score": 492,
+        "descendants": 227,
+        "by": "TechTechTech",
+        "tags": [],
+        "summary": "详细指南：如何通过Unsloth在本地高效运行GLM-5.2模型。"
+      },
+      {
+        "id": 48640196,
+        "title": "Will It Mythos?",
+        "url": "https://swelljoe.com/post/will-it-mythos/",
+        "domain": "swelljoe.com",
+        "score": 227,
+        "descendants": 155,
+        "by": "mindingnever",
+        "tags": [],
+        "summary": "通过对Mythos概念的解析，探讨软件开发与设计中的模式与隐喻。"
+      },
+      {
+        "id": 48642699,
+        "title": "Crypto in 2026: Oh, This Is the Bad Place",
+        "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+        "domain": "stephendiehl.com",
+        "score": 215,
+        "descendants": 235,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "深度评论文章，分析为何2026年的加密货币市场发展走向了预期的负面方向。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "status.claude.com",
+          "count": 1
+        },
+        {
+          "domain": "store.steampowered.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 322,
+      "max_score": {
+        "title": "Steam Machine launches today",
+        "score": 1763
+      },
+      "most_discussed": {
+        "title": "Steam Machine launches today",
+        "comments": 1504
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点主要围绕AI技术的落地与争议，包括模型性能波动、OCR技术创新及本地化部署实践。此外，社区对数字隐私监管、平台商业策略及加密货币的未来走向表现出高度关注，技术工具的实用性与社会伦理议题并重。"
   }
 }
