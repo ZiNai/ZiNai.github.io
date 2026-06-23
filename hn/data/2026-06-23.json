@@ -1,156 +1,159 @@
 {
   "morning": {
-    "time": "2026-06-23 00:47",
+    "time": "2026-06-23 10:01",
     "stories": [
       {
-        "id": 48630066,
-        "title": "Never Give Them Your Face",
-        "url": "https://nevergivethemyourface.com/",
-        "domain": "nevergivethemyourface.com",
-        "score": 488,
-        "descendants": 264,
-        "by": "audiodude",
+        "id": 48632884,
+        "title": "Steam Machine launches today",
+        "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+        "domain": "store.steampowered.com",
+        "score": 1218,
+        "descendants": 1100,
+        "by": "theschwa",
         "tags": [],
-        "summary": "探讨了生物识别数据隐私风险，警示用户在互联网时代保护面部数据的重要性。"
+        "summary": "Steam Machine今日正式发布，引发社区对游戏主机市场重塑的讨论。"
       },
       {
-        "id": 48630020,
-        "title": "Pledging Another $400k to the Zig Software Foundation",
-        "url": "https://mitchellh.com/writing/zig-donation-2026",
-        "domain": "mitchellh.com",
-        "score": 459,
-        "descendants": 141,
-        "by": "tosh",
+        "id": 48636377,
+        "title": "Runing GLM-5.2 on local hardware",
+        "url": "https://unsloth.ai/docs/models/glm-5.2",
+        "domain": "unsloth.ai",
+        "score": 179,
+        "descendants": 79,
+        "by": "TechTechTech",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨在本地硬件上部署运行GLM-5.2大型语言模型的技术细节与性能优化。"
+      },
+      {
+        "id": 48638660,
+        "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+        "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+        "domain": "arstechnica.com",
+        "score": 79,
+        "descendants": 34,
+        "by": "pseudolus",
         "tags": [
           "Systems"
         ],
-        "summary": "Mitchell Hashimoto宣布向Zig软件基金会追加40万美元捐赠，以支持该语言的持续发展。"
+        "summary": "深度揭露Polymarket通过虚假赢钱视频进行病毒式营销的行业黑幕。"
       },
       {
-        "id": 48630535,
-        "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-        "domain": "patrickmccanna.net",
-        "score": 127,
-        "descendants": 97,
-        "by": "0o_MrPatrick_o0",
+        "id": 48605776,
+        "title": "Cyberdecks, going analog, and convivial technology",
+        "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+        "domain": "blog.hydroponictrash.solar",
+        "score": 37,
+        "descendants": 18,
+        "by": "akkartik",
+        "tags": [],
+        "summary": "探讨赛博朋克风格硬件设计与回归模拟技术的便利主义科技观。"
+      },
+      {
+        "id": 48634778,
+        "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+        "url": "https://github.com/dorukkumkumoglu/optocamzero",
+        "domain": "github.com",
+        "score": 103,
+        "descendants": 23,
+        "by": "iamnothere",
+        "tags": [],
+        "summary": "基于树莓派Zero和现成零件构建的可定制数字相机Optocam Zero开源项目。"
+      },
+      {
+        "id": 48634787,
+        "title": "British Columbia, Time Zones, and Postgres",
+        "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+        "domain": "crunchydata.com",
+        "score": 112,
+        "descendants": 68,
+        "by": "sprawl_",
         "tags": [
-          "AI"
+          "Database"
         ],
-        "summary": "质疑Claude Code的“扩展思维”功能本质上是总结而非真正的认知推理。"
+        "summary": "分析不列颠哥伦比亚省复杂的时区变更历史及其在Postgres数据库中的处理实践。"
+      },
+      {
+        "id": 48597221,
+        "title": "My Mathematical Regression",
+        "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+        "domain": "blog.dahl.dev",
+        "score": 208,
+        "descendants": 72,
+        "by": "aleda145",
+        "tags": [],
+        "summary": "作者分享个人对数学回归分析的深度思考及其在实际应用中的演变。"
+      },
+      {
+        "id": 48634803,
+        "title": "Japanese symbols that speak without words",
+        "url": "https://arun.is/blog/japan-symbols/",
+        "domain": "arun.is",
+        "score": 108,
+        "descendants": 42,
+        "by": "msephton",
+        "tags": [],
+        "summary": "探讨日语中那些无需言语即可传达深意的情感与符号体系。"
+      },
+      {
+        "id": 48588247,
+        "title": "Is it time for a new Embedded Linux build system?",
+        "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+        "domain": "yoebuild.org",
+        "score": 34,
+        "descendants": 23,
+        "by": "cbrake",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "针对现有工具的局限性，讨论是否需要开发全新的嵌入式Linux构建系统。"
       },
       {
         "id": 48630171,
         "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
         "url": "https://hustvl.github.io/Moebius/",
         "domain": "hustvl.github.io",
-        "score": 78,
-        "descendants": 13,
+        "score": 235,
+        "descendants": 64,
         "by": "DSemba",
         "tags": [
           "AI"
         ],
-        "summary": "介绍了一款轻量级图像修复模型Moebius，其参数仅0.2B却表现出10B量级的性能。"
-      },
-      {
-        "id": 48626137,
-        "title": "Deno Desktop",
-        "url": "https://docs.deno.com/runtime/desktop/",
-        "domain": "docs.deno.com",
-        "score": 823,
-        "descendants": 320,
-        "by": "GeneralMaximus",
-        "tags": [
-          "JavaScript"
-        ],
-        "summary": "Deno官方发布桌面端开发工具，进一步拓宽了JavaScript运行时在本地应用领域的版图。"
-      },
-      {
-        "id": 48626930,
-        "title": "Codex logging bug may write TBs to local SSDs",
-        "url": "https://github.com/openai/codex/issues/28224",
-        "domain": "github.com",
-        "score": 327,
-        "descendants": 180,
-        "by": "vantareed",
-        "tags": [],
-        "summary": "Codex出现严重的日志记录漏洞，会导致在本地SSD中写入TB级垃圾数据。"
-      },
-      {
-        "id": 48629982,
-        "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
-        "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-        "domain": "righto.com",
-        "score": 32,
-        "descendants": 7,
-        "by": "Jimmc414",
-        "tags": [],
-        "summary": "通过芯片显微分析技术，解析8087数学协处理器中高速位移器的电路设计原理。"
-      },
-      {
-        "id": 48626866,
-        "title": "GLM 5.2 vs. Opus",
-        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-        "domain": "techstackups.com",
-        "score": 362,
-        "descendants": 255,
-        "by": "ritzaco",
-        "tags": [],
-        "summary": "深度对比分析GLM 5.2与Opus模型在性能及应用场景上的差异与优劣。"
-      },
-      {
-        "id": 48622241,
-        "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
-        "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
-        "domain": "youtube.com",
-        "score": 15,
-        "descendants": 1,
-        "by": "zdw",
-        "tags": [],
-        "summary": "展示了通过复古的80年代Bernoulli磁带驱动器成功运行任天堂Wii U游戏的极客项目。"
-      },
-      {
-        "id": 48602144,
-        "title": "Granularity comes at a cost – Game Theory",
-        "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-        "domain": "sidhantbansal.com",
-        "score": 26,
-        "descendants": 4,
-        "by": "sidhantbansal",
-        "tags": [],
-        "summary": "探讨博弈论视角下颗粒度设置对系统效率与成本的影响。"
+        "summary": "介绍Moebius图像修复模型，展示其如何以0.2B参数实现10B规模的性能表现。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "nevergivethemyourface.com",
+          "domain": "store.steampowered.com",
           "count": 1
         },
         {
-          "domain": "mitchellh.com",
+          "domain": "unsloth.ai",
           "count": 1
         },
         {
-          "domain": "patrickmccanna.net",
+          "domain": "arstechnica.com",
           "count": 1
         }
       ],
-      "avg_score": 274,
+      "avg_score": 231,
       "max_score": {
-        "title": "Deno Desktop",
-        "score": 823
+        "title": "Steam Machine launches today",
+        "score": 1218
       },
       "most_discussed": {
-        "title": "Deno Desktop",
-        "comments": 320
+        "title": "Steam Machine launches today",
+        "comments": 1100
       },
       "hot_tags": [
-        "AI",
         "Systems",
-        "JavaScript"
+        "Hardware",
+        "Database",
+        "AI"
       ]
     },
-    "summary": "本期Hacker News热门话题涵盖了AI技术的深度剖析、开源生态的资金支持以及软硬件开发的工程实践。开发者社区持续关注AI模型性能边界、桌面端工具链的更新以及各类系统级工程BUG带来的安全与性能隐患。"
+    "summary": "今日Hacker News讨论焦点集中在硬核技术创新与开源项目上，从AI模型的高效优化到独特的DIY硬件与基础设施构建。开发者社区展现了对低功耗硬件摄影、时间处理逻辑及嵌入式系统架构的浓厚兴趣，同时对数字媒体平台的真实性问题保持警惕。"
   }
 }
