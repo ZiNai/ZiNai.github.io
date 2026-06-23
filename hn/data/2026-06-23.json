@@ -155,5 +155,163 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点集中在硬核技术创新与开源项目上，从AI模型的高效优化到独特的DIY硬件与基础设施构建。开发者社区展现了对低功耗硬件摄影、时间处理逻辑及嵌入式系统架构的浓厚兴趣，同时对数字媒体平台的真实性问题保持警惕。"
+  },
+  "noon": {
+    "time": "2026-06-23 15:37",
+    "stories": [
+      {
+        "id": 48640196,
+        "title": "Will It Mythos?",
+        "url": "https://swelljoe.com/post/will-it-mythos/",
+        "domain": "swelljoe.com",
+        "score": 127,
+        "descendants": 69,
+        "by": "mindingnever",
+        "tags": [],
+        "summary": "探讨Mythos软件框架的实际应用场景与可行性测试。"
+      },
+      {
+        "id": 48632884,
+        "title": "Steam Machine launches today",
+        "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+        "domain": "store.steampowered.com",
+        "score": 1487,
+        "descendants": 1304,
+        "by": "theschwa",
+        "tags": [],
+        "summary": "Valve正式推出Steam Machine，标志着其在客厅游戏硬件市场的重大尝试。"
+      },
+      {
+        "id": 48640974,
+        "title": "The new HTTP QUERY method explained",
+        "url": "https://kreya.app/blog/new-http-query-method-explained/",
+        "domain": "kreya.app",
+        "score": 23,
+        "descendants": 3,
+        "by": "CommonGuy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析HTTP协议中新增的QUERY方法及其技术应用。"
+      },
+      {
+        "id": 48636377,
+        "title": "GLM-5.2 – How to Run Locally",
+        "url": "https://unsloth.ai/docs/models/glm-5.2",
+        "domain": "unsloth.ai",
+        "score": 335,
+        "descendants": 146,
+        "by": "TechTechTech",
+        "tags": [],
+        "summary": "教程指南：如何高效地在本地环境中运行GLM-5.2模型。"
+      },
+      {
+        "id": 48639240,
+        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+        "url": "https://arxiv.org/abs/2606.16140",
+        "domain": "arxiv.org",
+        "score": 143,
+        "descendants": 47,
+        "by": "timhigins",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍通过SFT+GRPO训练出的3B参数模型，其推理能力据称超越了Opus 4.5。"
+      },
+      {
+        "id": 48614715,
+        "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+        "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+        "domain": "wsj.com",
+        "score": 221,
+        "descendants": 169,
+        "by": "Vaslo",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "华尔街日报披露Polymarket通过付费创作者发布误导性视频以进行舆论营销。"
+      },
+      {
+        "id": 48638886,
+        "title": "In praise of memcached",
+        "url": "https://jchri.st/blog/in-praise-of-memcached/",
+        "domain": "jchri.st",
+        "score": 132,
+        "descendants": 48,
+        "by": "j03b",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重新审视并评价Memcached在现代架构中不可或缺的技术地位。"
+      },
+      {
+        "id": 48639165,
+        "title": "An Introduction to YOLO26",
+        "url": "https://blog.roboflow.com/yolo26/",
+        "domain": "blog.roboflow.com",
+        "score": 59,
+        "descendants": 15,
+        "by": "teleforce",
+        "tags": [],
+        "summary": "Roboflow团队带来的YOLO26入门指南，解析最新视觉模型特性。"
+      },
+      {
+        "id": 48639063,
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "domain": "openai.com",
+        "score": 60,
+        "descendants": 19,
+        "by": "AaronO",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布GPT-5.5-Cyber模型，聚焦于新一代AI的演进。"
+      },
+      {
+        "id": 48639434,
+        "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+        "url": "https://arxiv.org/abs/2606.03748",
+        "domain": "arxiv.org",
+        "score": 35,
+        "descendants": 5,
+        "by": "teleforce",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Ultralytics发布的YOLO26论文，探讨统一的端到端实时视觉模型架构。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 2
+        },
+        {
+          "domain": "swelljoe.com",
+          "count": 1
+        },
+        {
+          "domain": "store.steampowered.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 262,
+      "max_score": {
+        "title": "Steam Machine launches today",
+        "score": 1487
+      },
+      "most_discussed": {
+        "title": "Steam Machine launches today",
+        "comments": 1304
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术的快速迭代，包括模型性能的突破（VibeThinker与GPT-5.5-Cyber）以及计算机视觉领域YOLO26的发布。同时，社区对行业新闻（Steam Machine发布与Polymarket争议）保持高度关注，技术深度讨论则涵盖了HTTP新标准及老牌工具Memcached的价值回溯。"
   }
 }
