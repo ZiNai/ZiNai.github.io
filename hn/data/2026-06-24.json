@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-06-24 10:02",
+    "stories": [
+      {
+        "id": 48653216,
+        "title": "Vulnerability reports are not special anymore",
+        "url": "https://words.filippo.io/vuln-reports/",
+        "domain": "words.filippo.io",
+        "score": 68,
+        "descendants": 13,
+        "by": "goranmoomin",
+        "tags": [
+          "Security"
+        ],
+        "summary": "讨论漏洞报告在当前环境下已逐渐丧失其特殊性的趋势与现状。"
+      },
+      {
+        "id": 48649435,
+        "title": "Jerry's Map",
+        "url": "http://www.jerrysmap.com/the-map",
+        "domain": "jerrysmap.com",
+        "score": 334,
+        "descendants": 48,
+        "by": "turtleyacht",
+        "tags": [],
+        "summary": "展示了一个涵盖极高细节的杰瑞地图（Jerry's Map）项目，体现了制图的极致深度。"
+      },
+      {
+        "id": 48633643,
+        "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+        "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+        "domain": "thedrive.com",
+        "score": 70,
+        "descendants": 26,
+        "by": "mauvehaus",
+        "tags": [],
+        "summary": "回顾了一段关于著名黑客凯文·米特尼克在出狱后向曾促成其入狱的人赠送梦想之车的传奇故事。"
+      },
+      {
+        "id": 48648619,
+        "title": "FUTO Swipe – A new swipe typing model",
+        "url": "https://swipe.futo.tech/",
+        "domain": "swipe.futo.tech",
+        "score": 282,
+        "descendants": 87,
+        "by": "futohq",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了 FUTO Swipe 的新型滑动输入模型，旨在提供更高效、私密的打字体验。"
+      },
+      {
+        "id": 48618481,
+        "title": "Printing Gaussian Splats",
+        "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+        "domain": "patreon.com",
+        "score": 178,
+        "descendants": 16,
+        "by": "ilnmtlbnm",
+        "tags": [],
+        "summary": "探讨将高斯泼溅（Gaussian Splats）技术应用于物理打印的实践与挑战。"
+      },
+      {
+        "id": 48585852,
+        "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+        "url": "https://ps.tc/pages/blog-usbliter8.html",
+        "domain": "ps.tc",
+        "score": 68,
+        "descendants": 16,
+        "by": "givinguflac",
+        "tags": [],
+        "summary": "详细解析了针对 A12/A13 芯片 SecureROM 的 Usbliter8 安全漏洞。"
+      },
+      {
+        "id": 48648779,
+        "title": "Swift Package Index joins Apple",
+        "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+        "domain": "swiftpackageindex.com",
+        "score": 173,
+        "descendants": 52,
+        "by": "JDevlieghere",
+        "tags": [],
+        "summary": "Swift Package Index 宣布正式加入苹果公司，引发关于生态依赖与独立性的探讨。"
+      },
+      {
+        "id": 48648959,
+        "title": "In memory of the man who put red and green squiggles under words",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "domain": "devblogs.microsoft.com",
+        "score": 153,
+        "descendants": 15,
+        "by": "saikatsg",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "纪念发明文档中红绿波浪线拼写检查功能的技术专家，回顾其对 UI 交互的影响。"
+      },
+      {
+        "id": 48653060,
+        "title": "Extreme Heat conference cancelled due to extreme heat warning",
+        "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+        "domain": "lse.ac.uk",
+        "score": 143,
+        "descendants": 59,
+        "by": "rendx",
+        "tags": [],
+        "summary": "报道了一场关于极端高温的会议因当地遭遇极端高温预警而被迫取消的讽刺事件。"
+      },
+      {
+        "id": 48633473,
+        "title": "Rhombus Language 1.0",
+        "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+        "domain": "blog.racket-lang.org",
+        "score": 75,
+        "descendants": 8,
+        "by": "Decabytes",
+        "tags": [],
+        "summary": "Racket 生态下的新一代宏编程语言 Rhombus 正式发布 1.0 版本。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "words.filippo.io",
+          "count": 1
+        },
+        {
+          "domain": "jerrysmap.com",
+          "count": 1
+        },
+        {
+          "domain": "thedrive.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 154,
+      "max_score": {
+        "title": "Jerry's Map",
+        "score": 334
+      },
+      "most_discussed": {
+        "title": "FUTO Swipe – A new swipe typing model",
+        "comments": 87
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点主要集中在技术与软件开发领域，涵盖了编程语言更新、安全性研究以及开源项目的重要动态。此外，关于科技界历史趣闻与气候议题的相关报道也引起了读者的广泛讨论。"
+  }
+}
