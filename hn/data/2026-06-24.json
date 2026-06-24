@@ -150,5 +150,154 @@
       ]
     },
     "summary": "本期 Hacker News 焦点主要集中在技术与软件开发领域，涵盖了编程语言更新、安全性研究以及开源项目的重要动态。此外，关于科技界历史趣闻与气候议题的相关报道也引起了读者的广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-06-24 15:30",
+    "stories": [
+      {
+        "id": 48653216,
+        "title": "Vulnerability reports are not special anymore",
+        "url": "https://words.filippo.io/vuln-reports/",
+        "domain": "words.filippo.io",
+        "score": 223,
+        "descendants": 117,
+        "by": "goranmoomin",
+        "tags": [
+          "Security"
+        ],
+        "summary": "作者反思了漏洞报告机制的现状，探讨了随着报告数量激增，其价值评估与处理流程面临的挑战。"
+      },
+      {
+        "id": 48649435,
+        "title": "Jerry's Map",
+        "url": "http://www.jerrysmap.com/the-map",
+        "domain": "jerrysmap.com",
+        "score": 439,
+        "descendants": 51,
+        "by": "turtleyacht",
+        "tags": [],
+        "summary": "探索一个庞大且充满细节的虚拟地图项目，展示了极客精神在数字艺术与构建虚拟世界方面的体现。"
+      },
+      {
+        "id": 48654676,
+        "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+        "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+        "domain": "gitlab.com",
+        "score": 75,
+        "descendants": 21,
+        "by": "byb",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "利用Raspberry Pi Pico W开发板实现USB Wi-Fi适配器功能的硬件DIY实践。"
+      },
+      {
+        "id": 48648619,
+        "title": "FUTO Swipe – A new swipe typing model",
+        "url": "https://swipe.futo.tech/",
+        "domain": "swipe.futo.tech",
+        "score": 484,
+        "descendants": 147,
+        "by": "futohq",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款名为FUTO Swipe的新型滑动输入模型，旨在提供更高效的移动端交互体验。"
+      },
+      {
+        "id": 48612025,
+        "title": "Show HN: An ASCII 3D Rendering Engine",
+        "url": "https://glyphcss.com",
+        "domain": "glyphcss.com",
+        "score": 72,
+        "descendants": 24,
+        "by": "apresmoi",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了一个基于ASCII字符构建的3D渲染引擎，展现了纯字符图形的视觉潜力。"
+      },
+      {
+        "id": 48648959,
+        "title": "In memory of the man who put red and green squiggles under words",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "domain": "devblogs.microsoft.com",
+        "score": 326,
+        "descendants": 43,
+        "by": "saikatsg",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "缅怀拼写检查技术先驱，回顾红绿波浪线标记功能背后的技术贡献及其对日常写作的影响。"
+      },
+      {
+        "id": 48654351,
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "domain": "arxiv.org",
+        "score": 68,
+        "descendants": 13,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨Qwen-AgentWorld框架，利用语言世界模型提升通用智能体在复杂环境中的决策能力。"
+      },
+      {
+        "id": 48654465,
+        "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+        "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+        "domain": "gist.github.com",
+        "score": 60,
+        "descendants": 20,
+        "by": "retroplasma",
+        "tags": [],
+        "summary": "通过每10秒截取单像素屏幕记录的巧妙旁门左道，解决MacBook Neo光标滞后的怪异技巧。"
+      },
+      {
+        "id": 48624462,
+        "title": "Remaking BBC test cards to teach you video processing",
+        "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+        "domain": "youtube.com",
+        "score": 19,
+        "descendants": 0,
+        "by": "unleaded",
+        "tags": [],
+        "summary": "通过重制BBC经典测试卡图像，直观且具有教育意义地演示视频处理的基本原理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "words.filippo.io",
+          "count": 1
+        },
+        {
+          "domain": "jerrysmap.com",
+          "count": 1
+        },
+        {
+          "domain": "gitlab.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 196,
+      "max_score": {
+        "title": "FUTO Swipe – A new swipe typing model",
+        "score": 484
+      },
+      "most_discussed": {
+        "title": "FUTO Swipe – A new swipe typing model",
+        "comments": 147
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Hardware",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出高度的技术深度与跨界创新，涵盖了信息安全领域的流程反思、极客硬件改造、AI大模型代理技术以及人机交互工具的开发。讨论热点集中在对数字体验的底层优化与对经典技术历史的追溯，反映了开发者社区对实用主义与技术审美并重的追求。"
   }
 }
