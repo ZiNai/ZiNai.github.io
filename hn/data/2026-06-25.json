@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-06-25 10:04",
+    "stories": [
+      {
+        "id": 48663324,
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "domain": "techcrunch.com",
+        "score": 536,
+        "descendants": 333,
+        "by": "jamdesk",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "OpenAI宣布与博通合作开发首款定制AI芯片，旨在优化底层硬件算力。"
+      },
+      {
+        "id": 48667336,
+        "title": "LuaJIT 3.0 proposed syntax extensions",
+        "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "domain": "github.com",
+        "score": 47,
+        "descendants": 23,
+        "by": "phreddypharkus",
+        "tags": [],
+        "summary": "LuaJIT 3.0社区提出了一系列旨在增强性能与灵活性的语法扩展建议。"
+      },
+      {
+        "id": 48666927,
+        "title": "Blogging can just be stating the obvious",
+        "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "domain": "blog.jim-nielsen.com",
+        "score": 70,
+        "descendants": 28,
+        "by": "Curiositry",
+        "tags": [],
+        "summary": "探讨博客写作的本质，认为记录看似浅显的“废话”同样具有核心价值。"
+      },
+      {
+        "id": 48664814,
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "domain": "reuters.com",
+        "score": 53,
+        "descendants": 86,
+        "by": "htrp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic控诉阿里巴巴非法提取Claude模型能力，引发关于模型产权安全的讨论。"
+      },
+      {
+        "id": 48631366,
+        "title": "Dostoyevsky isn't difficult",
+        "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+        "domain": "autodidacts.io",
+        "score": 36,
+        "descendants": 24,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "重新审视陀思妥耶夫斯基的文学作品，认为其阅读难度被大众高估。"
+      },
+      {
+        "id": 48667588,
+        "title": "Ending All Respiratory Infections",
+        "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+        "domain": "blog.interceptfund.com",
+        "score": 16,
+        "descendants": 2,
+        "by": "EthanFantl",
+        "tags": [],
+        "summary": "探讨通过技术与政策手段彻底根除呼吸道感染疾病的前景与挑战。"
+      },
+      {
+        "id": 48659798,
+        "title": "Qualcomm to Acquire Modular",
+        "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+        "domain": "reuters.com",
+        "score": 147,
+        "descendants": 37,
+        "by": "timmyd",
+        "tags": [],
+        "summary": "高通宣布将收购模块化AI软件平台Modular，意在加强端侧AI开发能力。"
+      },
+      {
+        "id": 48667807,
+        "title": "Bible as RAG Database",
+        "url": "https://www.crosscanon.com/",
+        "domain": "crosscanon.com",
+        "score": 8,
+        "descendants": 7,
+        "by": "jacksonastone",
+        "tags": [
+          "Database"
+        ],
+        "summary": "演示如何将《圣经》作为数据源构建检索增强生成（RAG）数据库。"
+      },
+      {
+        "id": 48667761,
+        "title": "Exploring the internal representations of Pangram 3.3.2",
+        "url": "https://www.pangram.com/pangram-space",
+        "domain": "pangram.com",
+        "score": 5,
+        "descendants": 0,
+        "by": "krackers",
+        "tags": [],
+        "summary": "深入解析Pangram 3.3.2版本的内部结构表示，关注其技术实现细节。"
+      },
+      {
+        "id": 48660711,
+        "title": "RubyLLM: A Ruby framework for all major AI providers",
+        "url": "https://rubyllm.com/",
+        "domain": "rubyllm.com",
+        "score": 347,
+        "descendants": 55,
+        "by": "doener",
+        "tags": [
+          "AI"
+        ],
+        "summary": "RubyLLM发布，旨在为Ruby开发者提供统一访问主流AI模型的框架。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "reuters.com",
+          "count": 2
+        },
+        {
+          "domain": "techcrunch.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 126,
+      "max_score": {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "score": 536
+      },
+      "most_discussed": {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "comments": 333
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News焦点高度集中在AI领域，涵盖了从芯片基础设施、模型知识产权争议到应用层框架的广泛讨论。此外，社区也在关注编程语言工具的优化及对经典文学与跨领域知识的深度解读。"
+  }
+}
