@@ -310,5 +310,163 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在大型科技公司的战略布局，涵盖了OpenAI自研芯片及Anthropic关于AI模型窃取的法律纠纷。此外，技术社区还关注Web技术的创新应用、编程语法演进以及职场与创作哲学等多元话题。"
+  },
+  "evening": {
+    "time": "2026-06-25 22:22",
+    "stories": [
+      {
+        "id": 48657049,
+        "title": "You can't unit test for taste",
+        "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+        "domain": "dev.karltryggvason.com",
+        "score": 81,
+        "descendants": 26,
+        "by": "kalli",
+        "tags": [],
+        "summary": "探讨软件工程中的主观审美差异，强调单元测试无法量化产品设计的优劣。"
+      },
+      {
+        "id": 48669534,
+        "title": "Half-Life 2 in a Browser",
+        "url": "https://hl2.slqnt.dev/",
+        "domain": "hl2.slqnt.dev",
+        "score": 440,
+        "descendants": 176,
+        "by": "panza",
+        "tags": [
+          "Web"
+        ],
+        "summary": "开发者成功将经典游戏《半衰期2》移植至浏览器环境运行，展示了Web渲染技术的强大潜力。"
+      },
+      {
+        "id": 48664814,
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "domain": "reuters.com",
+        "score": 588,
+        "descendants": 948,
+        "by": "htrp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic指控阿里巴巴非法获取其Claude模型的知识产权，引发关于大模型数据安全与竞争合规的讨论。"
+      },
+      {
+        "id": 48671886,
+        "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+        "url": "https://lingochunk.com/try",
+        "domain": "lingochunk.com",
+        "score": 19,
+        "descendants": 4,
+        "by": "alder",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款新工具，旨在将原生音频自动转换为外语学习专用的闪卡与影子跟读练习素材。"
+      },
+      {
+        "id": 48672779,
+        "title": "Where every major LLM stands politically",
+        "url": "https://trakkr.ai/bias",
+        "domain": "trakkr.ai",
+        "score": 8,
+        "descendants": 6,
+        "by": "mektrik",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析目前主流大语言模型在政治倾向与价值观对齐上的差异与表现。"
+      },
+      {
+        "id": 48620422,
+        "title": "The Disappearance of Japan's Animators",
+        "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+        "domain": "economist.com",
+        "score": 19,
+        "descendants": 3,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "深入剖析日本动画产业当前面临的严峻人才流失问题及背后的社会经济因素。"
+      },
+      {
+        "id": 48671468,
+        "title": "LastPass notifies users of yet another data breach",
+        "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+        "domain": "9to5mac.com",
+        "score": 196,
+        "descendants": 95,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "LastPass再次遭遇数据泄露安全事件，引发用户对于其密码管理服务信任度的广泛质疑。"
+      },
+      {
+        "id": 48663324,
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "domain": "techcrunch.com",
+        "score": 755,
+        "descendants": 436,
+        "by": "jamdesk",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "OpenAI宣布与Broadcom合作研发其首款定制化AI芯片，旨在降低对外部GPU供应链的依赖。"
+      },
+      {
+        "id": 48657481,
+        "title": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+        "url": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
+        "domain": "infoscience.epfl.ch",
+        "score": 26,
+        "descendants": 3,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "从理论层面探讨深度学习中超参数化现象的成功机制，分析“彩票假设”与维度演化的关系。"
+      },
+      {
+        "id": 48668033,
+        "title": "Cloudflare launched self-managed OAuth for all",
+        "url": "https://blog.cloudflare.com/oauth-for-all/",
+        "domain": "blog.cloudflare.com",
+        "score": 255,
+        "descendants": 110,
+        "by": "terryds",
+        "tags": [],
+        "summary": "Cloudflare宣布向所有用户开放自托管OAuth服务，进一步简化了身份认证与权限管理流程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dev.karltryggvason.com",
+          "count": 1
+        },
+        {
+          "domain": "hl2.slqnt.dev",
+          "count": 1
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 239,
+      "max_score": {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "score": 755
+      },
+      "most_discussed": {
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "comments": 948
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的产业动荡与技术进展，涵盖Anthropic起诉阿里巴巴窃取模型权重、OpenAI发布定制芯片等行业重磅新闻。此外，网络安全事件与Web技术创新也是社区关注的热点，显示出从底层基础设施到应用落地的多元化讨论趋势。"
   }
 }
