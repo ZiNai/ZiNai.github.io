@@ -153,5 +153,162 @@
       ]
     },
     "summary": "今日Hacker News焦点高度集中在AI领域，涵盖了从芯片基础设施、模型知识产权争议到应用层框架的广泛讨论。此外，社区也在关注编程语言工具的优化及对经典文学与跨领域知识的深度解读。"
+  },
+  "noon": {
+    "time": "2026-06-25 15:32",
+    "stories": [
+      {
+        "id": 48669534,
+        "title": "Half-Life 2 in a Browser",
+        "url": "https://hl2.slqnt.dev/",
+        "domain": "hl2.slqnt.dev",
+        "score": 109,
+        "descendants": 33,
+        "by": "panza",
+        "tags": [
+          "Web"
+        ],
+        "summary": "开发者成功将经典游戏《半条命2》搬到了Web浏览器中运行。"
+      },
+      {
+        "id": 48664814,
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "domain": "reuters.com",
+        "score": 331,
+        "descendants": 568,
+        "by": "htrp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic指控阿里巴巴非法提取了Claude AI的模型能力，引发关于AI知识产权的争论。"
+      },
+      {
+        "id": 48663324,
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "domain": "techcrunch.com",
+        "score": 663,
+        "descendants": 371,
+        "by": "jamdesk",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "OpenAI与博通合作开发了首款自研定制芯片，旨在加速AI计算并减少对第三方硬件的依赖。"
+      },
+      {
+        "id": 48668033,
+        "title": "Cloudflare launched self-managed OAuth for all",
+        "url": "https://blog.cloudflare.com/oauth-for-all/",
+        "domain": "blog.cloudflare.com",
+        "score": 120,
+        "descendants": 44,
+        "by": "terryds",
+        "tags": [],
+        "summary": "Cloudflare现已向所有用户开放自托管OAuth功能，强化身份验证的控制力。"
+      },
+      {
+        "id": 48646077,
+        "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+        "url": "https://markdy.com",
+        "domain": "markdy.com",
+        "score": 34,
+        "descendants": 2,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Markdy提供了一种类似于Mermaid语法但专注于生成动态图表的工具。"
+      },
+      {
+        "id": 48666927,
+        "title": "Blogging can just be stating the obvious",
+        "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "domain": "blog.jim-nielsen.com",
+        "score": 189,
+        "descendants": 65,
+        "by": "Curiositry",
+        "tags": [],
+        "summary": "博文探讨了写作的价值，认为简单的陈述往往也能产生深刻的共鸣。"
+      },
+      {
+        "id": 48667336,
+        "title": "LuaJIT 3.0 proposed syntax extensions",
+        "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "domain": "github.com",
+        "score": 135,
+        "descendants": 81,
+        "by": "phreddypharkus",
+        "tags": [],
+        "summary": "LuaJIT 3.0提议引入新的语法扩展，旨在提升语言的表现力和灵活性。"
+      },
+      {
+        "id": 48669932,
+        "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+        "url": "https://utaw.tech/news/wikipedia-recognition",
+        "domain": "utaw.tech",
+        "score": 3,
+        "descendants": 1,
+        "by": "chobeat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "英国维基百科员工正在寻求工会承认，这是全球维基媒体机构中的首例。"
+      },
+      {
+        "id": 48631366,
+        "title": "Dostoyevsky isn't difficult",
+        "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+        "domain": "autodidacts.io",
+        "score": 133,
+        "descendants": 113,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "文章通过分析陀思妥耶夫斯基的文学作品，解构并驳斥了阅读名著必然困难的刻板印象。"
+      },
+      {
+        "id": 48668020,
+        "title": "Zombie unicorns are haunting Silicon Valley",
+        "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+        "domain": "economist.com",
+        "score": 81,
+        "descendants": 31,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "《经济学人》探讨了硅谷创投圈中那些估值虚高且缺乏盈利能力的“僵尸独角兽”企业困境。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hl2.slqnt.dev",
+          "count": 1
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "techcrunch.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 180,
+      "max_score": {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "score": 663
+      },
+      "most_discussed": {
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "comments": 568
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在大型科技公司的战略布局，涵盖了OpenAI自研芯片及Anthropic关于AI模型窃取的法律纠纷。此外，技术社区还关注Web技术的创新应用、编程语法演进以及职场与创作哲学等多元话题。"
   }
 }
