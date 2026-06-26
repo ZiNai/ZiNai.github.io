@@ -319,5 +319,162 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在科技界的重大进展与隐私担忧，包括赫库兰尼姆古卷的数字解密突破，以及对开源生态保护和互联网实名认证机制引发的隐私侵蚀讨论。此外，硬件工程细节、AI 应用安全以及计算科学领域的相关资源也获得了社区的高度关注。"
+  },
+  "evening": {
+    "time": "2026-06-26 22:14",
+    "stories": [
+      {
+        "id": 48678852,
+        "title": "Om Malik has died",
+        "url": "https://om.co/2026/06/24/1966-2026/",
+        "domain": "om.co",
+        "score": 1077,
+        "descendants": 128,
+        "by": "minimaxir",
+        "tags": [],
+        "summary": "知名科技博主 Om Malik 去世，社区对这位资深科技评论家表达悼念。"
+      },
+      {
+        "id": 48675179,
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "url": "https://scrollprize.org/firstscroll",
+        "domain": "scrollprize.org",
+        "score": 1456,
+        "descendants": 303,
+        "by": "verditelabs",
+        "tags": [],
+        "summary": "借助 AI 与扫描技术，赫库兰尼姆古卷在火山灰掩埋两千年后首次实现全文解读。"
+      },
+      {
+        "id": 48686093,
+        "title": "Incident CVE-2026-LGTM",
+        "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+        "domain": "nesbitt.io",
+        "score": 16,
+        "descendants": 0,
+        "by": "mooreds",
+        "tags": [
+          "Security"
+        ],
+        "summary": "针对 CVE-2026-LGTM 漏洞的安全技术分析与事件复盘。"
+      },
+      {
+        "id": 48637433,
+        "title": "Bipartite Matching Is in NC",
+        "url": "https://scottaaronson.blog/?p=9851",
+        "domain": "scottaaronson.blog",
+        "score": 54,
+        "descendants": 0,
+        "by": "amichail",
+        "tags": [],
+        "summary": "Scott Aaronson 探讨二分匹配算法在并行计算复杂度类 NC 中的理论突破。"
+      },
+      {
+        "id": 48681949,
+        "title": "Libre Barcode Project",
+        "url": "https://graphicore.github.io/librebarcode/",
+        "domain": "graphicore.github.io",
+        "score": 218,
+        "descendants": 35,
+        "by": "luu",
+        "tags": [],
+        "summary": "Libre Barcode 项目致力于开发开源且高质量的条形码字体集。"
+      },
+      {
+        "id": 48681687,
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "domain": "fernandoi.cl",
+        "score": 252,
+        "descendants": 99,
+        "by": "cuchoi",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "作者通过 2000 人的压力测试，复盘其 AI 助理在面对恶意破解攻击时的脆弱性。"
+      },
+      {
+        "id": 48681220,
+        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+        "domain": "jeffgeerling.com",
+        "score": 241,
+        "descendants": 128,
+        "by": "Alupis",
+        "tags": [],
+        "summary": "Jeff Geerling 分析 Framework 笔记本 10G 网卡模块，揭示了 USB-C 接口技术架构的极高复杂性。"
+      },
+      {
+        "id": 48656986,
+        "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+        "url": "https://github.com/DDecoene/WebBaseIII",
+        "domain": "github.com",
+        "score": 26,
+        "descendants": 7,
+        "by": "ddecoene",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "基于浏览器的 dBASE III 完整复刻版，包含内置的数据库解释器。"
+      },
+      {
+        "id": 48685558,
+        "title": "Ultrasound Imaging of the Brain",
+        "url": "https://alephneuro.com/blog/ultrasound-brain",
+        "domain": "alephneuro.com",
+        "score": 14,
+        "descendants": 1,
+        "by": "rossant",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨利用超声波成像技术实现对大脑结构与活动的无创监测与研究。"
+      },
+      {
+        "id": 48610137,
+        "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+        "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+        "domain": "classicfm.com",
+        "score": 135,
+        "descendants": 36,
+        "by": "thunderbong",
+        "tags": [],
+        "summary": "莫扎特 22 岁时的手写笔记在奥地利被重新发现，被学术界视为重大音乐考古成果。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "om.co",
+          "count": 1
+        },
+        {
+          "domain": "scrollprize.org",
+          "count": 1
+        },
+        {
+          "domain": "nesbitt.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 349,
+      "max_score": {
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "score": 1456
+      },
+      "most_discussed": {
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "comments": 303
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿科技与文化遗产的深度融合，探讨了古卷数字化解读、硬件架构设计的复杂性以及 AI 安全面临的挑战。同时，科技圈对行业知名人物的离世表达了深切哀悼，社区讨论涵盖了从算法理论突破到复古技术复兴的广泛议题。"
   }
 }
