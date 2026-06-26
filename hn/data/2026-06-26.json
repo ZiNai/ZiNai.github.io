@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-06-26 10:05",
+    "stories": [
+      {
+        "id": 48678852,
+        "title": "Om Malik has died",
+        "url": "https://om.co/2026/06/24/1966-2026/",
+        "domain": "om.co",
+        "score": 466,
+        "descendants": 48,
+        "by": "minimaxir",
+        "tags": [],
+        "summary": "知名科技记者与博客作者Om Malik离世，社区对其深表哀悼。"
+      },
+      {
+        "id": 48675179,
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "url": "https://scrollprize.org/firstscroll",
+        "domain": "scrollprize.org",
+        "score": 991,
+        "descendants": 219,
+        "by": "verditelabs",
+        "tags": [],
+        "summary": "研究人员首次利用AI技术成功解读了被火山灰掩埋的赫库兰尼姆古卷全文。"
+      },
+      {
+        "id": 48676795,
+        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+        "domain": "bloomberg.com",
+        "score": 45,
+        "descendants": 30,
+        "by": "scrlk",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "报道称苹果计划调整芯片策略，跳过M6芯片直接转向以AI为核心的M7架构。"
+      },
+      {
+        "id": 48679608,
+        "title": "The 'papers, please' era of the internet will decimate your privacy",
+        "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+        "domain": "expression.fire.org",
+        "score": 418,
+        "descendants": 191,
+        "by": "bilsbie",
+        "tags": [
+          "Security",
+          "Science"
+        ],
+        "summary": "深度剖析了互联网身份验证机制如何逐步侵蚀用户的个人隐私。"
+      },
+      {
+        "id": 48681361,
+        "title": "A data race that doesn't compile",
+        "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+        "domain": "corentin-core.github.io",
+        "score": 9,
+        "descendants": 3,
+        "by": "stmw",
+        "tags": [],
+        "summary": "深入探讨了一个在现代编译器约束下本不应存在的数据竞争漏洞问题。"
+      },
+      {
+        "id": 48681220,
+        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+        "domain": "jeffgeerling.com",
+        "score": 15,
+        "descendants": 4,
+        "by": "Alupis",
+        "tags": [],
+        "summary": "通过Framework的万兆网卡模块，揭示了USB-C标准在实现上的极高复杂性。"
+      },
+      {
+        "id": 48642474,
+        "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+        "url": "https://github.com/plbrault/youre-the-os",
+        "domain": "github.com",
+        "score": 99,
+        "descendants": 21,
+        "by": "exploraz",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款模拟操作系统内核运作的游戏，玩家需亲自管理进程、内存及I/O中断。"
+      },
+      {
+        "id": 48679007,
+        "title": "Un-0: Generating Images with Coupled Oscillators",
+        "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+        "domain": "unconv.ai",
+        "score": 114,
+        "descendants": 28,
+        "by": "babelfish",
+        "tags": [],
+        "summary": "介绍了一种名为Un-0的图像生成技术，利用耦合振子模型实现视觉创作。"
+      },
+      {
+        "id": 48680370,
+        "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+        "url": "https://gchandbook.org/",
+        "domain": "gchandbook.org",
+        "score": 43,
+        "descendants": 8,
+        "by": "teleforce",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "被公认为内存管理领域权威指南的《垃圾回收手册》发布了第二版。"
+      },
+      {
+        "id": 48631450,
+        "title": "Oxide computer 3D rack guided tour",
+        "url": "https://explorer.oxide.computer/",
+        "domain": "explorer.oxide.computer",
+        "score": 297,
+        "descendants": 121,
+        "by": "darthcloud",
+        "tags": [],
+        "summary": "通过3D交互导览，详细展示了Oxide Computer机架设计的硬件工艺与架构细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "om.co",
+          "count": 1
+        },
+        {
+          "domain": "scrollprize.org",
+          "count": 1
+        },
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 250,
+      "max_score": {
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "score": 991
+      },
+      "most_discussed": {
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "comments": 219
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Hardware",
+        "Security",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了行业领军人物的离世悲剧与科技界的重大突破，从赫库兰尼姆卷轴的AI破译到计算硬件创新的前沿讨论。讨论议题广泛分布于隐私安全、底层系统工程、硬件架构以及编程技术细节，展现了社区对技术人文与核心基础设施的高度关注。"
+  }
+}
