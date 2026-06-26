@@ -156,5 +156,168 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了行业领军人物的离世悲剧与科技界的重大突破，从赫库兰尼姆卷轴的AI破译到计算硬件创新的前沿讨论。讨论议题广泛分布于隐私安全、底层系统工程、硬件架构以及编程技术细节，展现了社区对技术人文与核心基础设施的高度关注。"
+  },
+  "noon": {
+    "time": "2026-06-26 15:41",
+    "stories": [
+      {
+        "id": 48678852,
+        "title": "Om Malik has died",
+        "url": "https://om.co/2026/06/24/1966-2026/",
+        "domain": "om.co",
+        "score": 820,
+        "descendants": 90,
+        "by": "minimaxir",
+        "tags": [],
+        "summary": "知名科技记者 Om Malik 去世，引起科技社区的深切缅怀。"
+      },
+      {
+        "id": 48682737,
+        "title": "We All Depend on Open Source. We Will Defend It Together",
+        "url": "https://akrites.org/letter/",
+        "domain": "akrites.org",
+        "score": 30,
+        "descendants": 9,
+        "by": "dhruv3006",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "探讨当前数字基础设施对开源软件的极度依赖，以及为何需要集体共同捍卫开源生态。"
+      },
+      {
+        "id": 48675179,
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "url": "https://scrollprize.org/firstscroll",
+        "domain": "scrollprize.org",
+        "score": 1235,
+        "descendants": 259,
+        "by": "verditelabs",
+        "tags": [],
+        "summary": "利用 AI 技术首次成功读取被火山灰掩埋的赫库兰尼姆古卷全文，考古学迎来重大历史突破。"
+      },
+      {
+        "id": 48681949,
+        "title": "Libre Barcode Project",
+        "url": "https://graphicore.github.io/librebarcode/",
+        "domain": "graphicore.github.io",
+        "score": 109,
+        "descendants": 7,
+        "by": "luu",
+        "tags": [],
+        "summary": "Libre Barcode 项目展示了多种开源条形码字体的开发与应用方案。"
+      },
+      {
+        "id": 48681220,
+        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+        "domain": "jeffgeerling.com",
+        "score": 141,
+        "descendants": 71,
+        "by": "Alupis",
+        "tags": [],
+        "summary": "Jeff Geerling 分析 Framework 的 10G 网卡模块，揭示了 USB-C 接口技术规格背后的极高复杂性。"
+      },
+      {
+        "id": 48681687,
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "domain": "fernandoi.cl",
+        "score": 112,
+        "descendants": 43,
+        "by": "cuchoi",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "博主分享在公开测试 AI 助手后遭受大规模恶意攻击的复盘分析及安全防御经验。"
+      },
+      {
+        "id": 48679608,
+        "title": "The 'papers, please' era of the internet will decimate your privacy",
+        "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+        "domain": "expression.fire.org",
+        "score": 639,
+        "descendants": 293,
+        "by": "bilsbie",
+        "tags": [
+          "Security",
+          "Science"
+        ],
+        "summary": "深入批判强制性的在线身份验证机制对个人隐私空间带来的长期威胁与破坏。"
+      },
+      {
+        "id": 48680370,
+        "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+        "url": "https://gchandbook.org/",
+        "domain": "gchandbook.org",
+        "score": 122,
+        "descendants": 16,
+        "by": "teleforce",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "权威的《垃圾回收手册》第二版发布，深入系统底层讲解自动内存管理的算法与实现。"
+      },
+      {
+        "id": 48642474,
+        "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+        "url": "https://github.com/plbrault/youre-the-os",
+        "domain": "github.com",
+        "score": 181,
+        "descendants": 30,
+        "by": "exploraz",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款模拟操作系统内核设计的硬核游戏，玩家需亲自调度进程、管理内存与处理 I/O 中断。"
+      },
+      {
+        "id": 48676795,
+        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+        "domain": "bloomberg.com",
+        "score": 231,
+        "descendants": 184,
+        "by": "scrlk",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "苹果据传将跳过 M6 系列高端芯片，直接转向量产更专注 AI 性能的新一代 M7 架构。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "om.co",
+          "count": 1
+        },
+        {
+          "domain": "akrites.org",
+          "count": 1
+        },
+        {
+          "domain": "scrollprize.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 362,
+      "max_score": {
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "score": 1235
+      },
+      "most_discussed": {
+        "title": "The 'papers, please' era of the internet will decimate your privacy",
+        "comments": 293
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Systems",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技界的重大进展与隐私担忧，包括赫库兰尼姆古卷的数字解密突破，以及对开源生态保护和互联网实名认证机制引发的隐私侵蚀讨论。此外，硬件工程细节、AI 应用安全以及计算科学领域的相关资源也获得了社区的高度关注。"
   }
 }
