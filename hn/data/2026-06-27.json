@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-06-27 10:00",
+    "stories": [
+      {
+        "id": 48689028,
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "domain": "openai.com",
+        "score": 849,
+        "descendants": 505,
+        "by": "minimaxir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 发布了下一代模型 GPT-5.6 的预览版，展示了其在性能上的最新突破。"
+      },
+      {
+        "id": 48692946,
+        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+        "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "domain": "physics.stackexchange.com",
+        "score": 80,
+        "descendants": 39,
+        "by": "ProxyTracer",
+        "tags": [],
+        "summary": "一篇回顾性文章，深入浅出地解释了动能随速度平方增长的物理学本质。"
+      },
+      {
+        "id": 48692090,
+        "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+        "url": "https://github.com/Tessil/hopscotch-map",
+        "domain": "github.com",
+        "score": 63,
+        "descendants": 11,
+        "by": "gjvc",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分享一个基于 Hopscotch 哈希算法的高性能 C++ 哈希映射与集合实现。"
+      },
+      {
+        "id": 48642510,
+        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "domain": "aws.amazon.com",
+        "score": 265,
+        "descendants": 149,
+        "by": "justincormack",
+        "tags": [],
+        "summary": "探讨如何利用微型虚拟机实现具备全生命周期管理的隔离沙箱环境。"
+      },
+      {
+        "id": 48690101,
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "domain": "washingtonpost.com",
+        "score": 828,
+        "descendants": 928,
+        "by": "alain94040",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道称美国政府将介入并决定 GPT-5.6 模型的访问与使用权限。"
+      },
+      {
+        "id": 48692995,
+        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+        "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+        "domain": "reuters.com",
+        "score": 208,
+        "descendants": 168,
+        "by": "bobrenjc93",
+        "tags": [
+          "AI",
+          "Rust",
+          "Systems"
+        ],
+        "summary": "美国监管机构授权 Anthropic 向特定受信任合作伙伴发布名为 Mythos 的新模型。"
+      },
+      {
+        "id": 48692883,
+        "title": "AI in mathematics is forcing big questions",
+        "url": "https://spectrum.ieee.org/ai-in-mathematics",
+        "domain": "spectrum.ieee.org",
+        "score": 42,
+        "descendants": 17,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨人工智能在数学研究领域的应用，以及它带来的学科发展挑战与深层思考。"
+      },
+      {
+        "id": 48692058,
+        "title": "The gap between open weights LLMs and closed source LLMs",
+        "url": "https://blog.doubleword.ai/frontier-os-llm",
+        "domain": "blog.doubleword.ai",
+        "score": 118,
+        "descendants": 101,
+        "by": "kkm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析目前开源权重模型与闭源大语言模型之间存在的技术差距。"
+      },
+      {
+        "id": 48692051,
+        "title": "We can still stop California's 3D printer surveillance scheme",
+        "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+        "domain": "eff.org",
+        "score": 223,
+        "descendants": 63,
+        "by": "hn_acker",
+        "tags": [],
+        "summary": "EFF 呼吁公众采取行动，共同抵制加州政府推行的 3D 打印机监控计划。"
+      },
+      {
+        "id": 48673115,
+        "title": "A Tiny Compiler for Data-Parallel Kernels",
+        "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+        "domain": "healeycodes.com",
+        "score": 24,
+        "descendants": 2,
+        "by": "healeycodes",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一个面向数据并行内核开发的微型编译器项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "physics.stackexchange.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 270,
+      "max_score": {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "score": 849
+      },
+      "most_discussed": {
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "comments": 928
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Rust"
+      ]
+    },
+    "summary": "今日 Hacker News 的焦点高度集中于 AI 领域的政策监管与技术迭代，尤其是对 OpenAI 和 Anthropic 等顶尖模型发布的政府介入与安全审查。此外，社区对底层系统优化（如 C++ 哈希映射、MicroVM）及数字隐私保护等议题保持了持续的关注。"
+  }
+}
