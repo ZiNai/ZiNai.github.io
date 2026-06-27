@@ -318,5 +318,150 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿人工智能动态、怀旧计算技术探讨及硬核工程实践。GPT-5.6模型预览与Anthropic的新动向反映了AI领域的持续迭代，同时社区对经典软件架构与底层硬件逆向工程展现了浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-06-27 21:23",
+    "stories": [
+      {
+        "id": 48696585,
+        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "domain": "github.com",
+        "score": 485,
+        "descendants": 168,
+        "by": "aurenvale",
+        "tags": [
+          "AI"
+        ],
+        "summary": "DSpark通过投机解码技术显著提升了大语言模型的推理速度。"
+      },
+      {
+        "id": 48696982,
+        "title": "Fintech Engineering Handbook",
+        "url": "https://w.pitula.me/fintech-engineering-handbook/",
+        "domain": "w.pitula.me",
+        "score": 146,
+        "descendants": 44,
+        "by": "signa11",
+        "tags": [],
+        "summary": "一份面向金融科技领域工程师的实战指南，涵盖架构设计与工程实践。"
+      },
+      {
+        "id": 48697560,
+        "title": "OpenRA",
+        "url": "https://www.openra.net/",
+        "domain": "openra.net",
+        "score": 41,
+        "descendants": 14,
+        "by": "tosh",
+        "tags": [],
+        "summary": "OpenRA是一款开源的实时战略游戏引擎，重现了经典RTS游戏的魅力。"
+      },
+      {
+        "id": 48697335,
+        "title": "If you can't hold it, you don't own it",
+        "url": "https://dervis.de/physical/",
+        "domain": "dervis.de",
+        "score": 48,
+        "descendants": 17,
+        "by": "cemdervis",
+        "tags": [],
+        "summary": "探讨资产所有权本质，强调对实物资产物理控制权的重要性。"
+      },
+      {
+        "id": 48696510,
+        "title": "Beer CSS – Build material design in record time",
+        "url": "https://www.beercss.com",
+        "domain": "beercss.com",
+        "score": 64,
+        "descendants": 20,
+        "by": "Seb-C",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Beer CSS是一个轻量级框架，旨在帮助开发者快速构建Material Design风格应用。"
+      },
+      {
+        "id": 48689028,
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "domain": "openai.com",
+        "score": 1036,
+        "descendants": 660,
+        "by": "minimaxir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI预览了代号为Sol的下一代模型，引发了广泛的技术讨论与性能猜测。"
+      },
+      {
+        "id": 48677564,
+        "title": "Long Wave radio era set to end with switch-off",
+        "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+        "domain": "economist.com",
+        "score": 72,
+        "descendants": 79,
+        "by": "edward",
+        "tags": [],
+        "summary": "长波无线电广播时代即将落幕，探讨这一通信遗迹的关闭背景。"
+      },
+      {
+        "id": 48668747,
+        "title": "Linux on Older Hardware: The Complete Revival Guide",
+        "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+        "domain": "fosslinux.com",
+        "score": 98,
+        "descendants": 53,
+        "by": "tapanjk",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "详细的Linux硬件适配指南，教你如何让老旧计算机焕发新生。"
+      },
+      {
+        "id": 48694853,
+        "title": "WordStar: A Writer's Word Processor (1996)",
+        "url": "https://www.sfwriter.com/wordstar.htm",
+        "domain": "sfwriter.com",
+        "score": 117,
+        "descendants": 55,
+        "by": "droidjj",
+        "tags": [],
+        "summary": "回顾经典的WordStar文字处理器，探讨它作为作家创作工具的历史影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "w.pitula.me",
+          "count": 1
+        },
+        {
+          "domain": "openra.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 234,
+      "max_score": {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "score": 1036
+      },
+      "most_discussed": {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "comments": 660
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出极高的技术广度，AI领域持续占据头部关注，重点聚焦于LLM推理加速与前沿模型进展。同时，技术社区对开源工具、复古计算硬件以及金融工程实践表现出浓厚兴趣，反映了开发者在追求性能提升与跨时代技术重塑之间的多元视角。"
   }
 }
