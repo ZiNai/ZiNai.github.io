@@ -160,5 +160,163 @@
       ]
     },
     "summary": "今日 Hacker News 的焦点高度集中于 AI 领域的政策监管与技术迭代，尤其是对 OpenAI 和 Anthropic 等顶尖模型发布的政府介入与安全审查。此外，社区对底层系统优化（如 C++ 哈希映射、MicroVM）及数字隐私保护等议题保持了持续的关注。"
+  },
+  "noon": {
+    "time": "2026-06-27 14:45",
+    "stories": [
+      {
+        "id": 48695149,
+        "title": "OpenTTD 16.0-Beta1",
+        "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+        "domain": "openttd.org",
+        "score": 42,
+        "descendants": 2,
+        "by": "untilted",
+        "tags": [],
+        "summary": "经典模拟经营游戏OpenTTD发布16.0的首个Beta版本。"
+      },
+      {
+        "id": 48689028,
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "domain": "openai.com",
+        "score": 940,
+        "descendants": 579,
+        "by": "minimaxir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布下一代模型GPT-5.6 Sol的预览，引发社区对性能与技术细节的深度讨论。"
+      },
+      {
+        "id": 48694853,
+        "title": "WordStar: A Writer's Word Processor (1996)",
+        "url": "https://www.sfwriter.com/wordstar.htm",
+        "domain": "sfwriter.com",
+        "score": 52,
+        "descendants": 19,
+        "by": "droidjj",
+        "tags": [],
+        "summary": "一篇关于1996年经典文字处理软件WordStar的怀旧回顾与评析。"
+      },
+      {
+        "id": 48692946,
+        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+        "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "domain": "physics.stackexchange.com",
+        "score": 200,
+        "descendants": 91,
+        "by": "ProxyTracer",
+        "tags": [],
+        "summary": "物理讨论帖，深入剖析了动能随速度呈二次方增长的物理逻辑与数学本质。"
+      },
+      {
+        "id": 48695363,
+        "title": "IBM MCGA Gate Array Reverse Engineering",
+        "url": "https://github.com/schlae/IBM_MCGA",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 2,
+        "by": "userbinator",
+        "tags": [],
+        "summary": "针对IBM MCGA门阵列芯片的底层逆向工程技术文档。"
+      },
+      {
+        "id": 48692995,
+        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "domain": "semafor.com",
+        "score": 356,
+        "descendants": 355,
+        "by": "bobrenjc93",
+        "tags": [
+          "AI",
+          "Rust",
+          "Systems"
+        ],
+        "summary": "美国政府批准Anthropic公司向特定可信机构发布其Mythos AI模型。"
+      },
+      {
+        "id": 48693912,
+        "title": "Show HN: Hacker News on a train station-style flip board",
+        "url": "https://popflame.quickish.space/hn-flipboard/",
+        "domain": "popflame.quickish.space",
+        "score": 51,
+        "descendants": 10,
+        "by": "PaybackTony",
+        "tags": [
+          "AI",
+          "Security",
+          "Show HN"
+        ],
+        "summary": "Hacker News用户开发的实体翻转板，以车站公告牌形式实时显示HN热榜。"
+      },
+      {
+        "id": 48656982,
+        "title": "SCC Technical Assistance Program",
+        "url": "https://nerocam.com/scc_tap.asp",
+        "domain": "nerocam.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "luu",
+        "tags": [],
+        "summary": "介绍SCC技术援助计划，关注相关的专业支持与资源体系。"
+      },
+      {
+        "id": 48633839,
+        "title": "Hellishly Slow Level 13 Deflate Compression",
+        "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+        "domain": "kirill.korins.ky",
+        "score": 39,
+        "descendants": 8,
+        "by": "zX41ZdbW",
+        "tags": [],
+        "summary": "关于Deflate算法在Level 13极端压缩设置下超高计算负载的技术分析。"
+      },
+      {
+        "id": 48642510,
+        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "domain": "aws.amazon.com",
+        "score": 314,
+        "descendants": 175,
+        "by": "justincormack",
+        "tags": [],
+        "summary": "AWS官方文档，深入探讨如何利用MicroVM构建具备完整生命周期管理的隔离沙箱。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openttd.org",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "sfwriter.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 202,
+      "max_score": {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "score": 940
+      },
+      "most_discussed": {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "comments": 579
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Systems",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿人工智能动态、怀旧计算技术探讨及硬核工程实践。GPT-5.6模型预览与Anthropic的新动向反映了AI领域的持续迭代，同时社区对经典软件架构与底层硬件逆向工程展现了浓厚兴趣。"
   }
 }
