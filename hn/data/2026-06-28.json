@@ -155,5 +155,162 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在技术安全与硬核工程，包括针对GitHub的零日漏洞警报以及射频集成电路设计的AI辅助突破。同时，社区对复古游戏逆向工程、开源游戏引擎及实体媒体所有权等技术与文化议题表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-06-28 15:42",
+    "stories": [
+      {
+        "id": 48703759,
+        "title": "Marfa Public Radio Puts You to Sleep",
+        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "domain": "marfapublicradio.org",
+        "score": 176,
+        "descendants": 41,
+        "by": "reaperducer",
+        "tags": [],
+        "summary": "Marfa公共电台提供的助眠音频体验分享。"
+      },
+      {
+        "id": 48704373,
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "domain": "github.com",
+        "score": 43,
+        "descendants": 6,
+        "by": "handfuloflight",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Wayfinder Router通过确定性路由在本地与云端LLM之间智能分配查询。"
+      },
+      {
+        "id": 48703412,
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
+        "domain": "decomp-academy.dev",
+        "score": 108,
+        "descendants": 34,
+        "by": "jackpriceburns",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Decomp Academy提供将GameCube游戏反编译为匹配C代码的系统性学习路径。"
+      },
+      {
+        "id": 48703258,
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "domain": "github.com",
+        "score": 112,
+        "descendants": 25,
+        "by": "jakogut",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "详细介绍了如何配置AMD Strix Halo芯片以实现RDMA集群部署。"
+      },
+      {
+        "id": 48704454,
+        "title": "Bashblog – a single bash script to create blogs",
+        "url": "https://github.com/cfenollosa/bashblog",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 1,
+        "by": "ludicrousdispla",
+        "tags": [],
+        "summary": "Bashblog通过单脚本实现轻量级个人博客托管方案。"
+      },
+      {
+        "id": 48698617,
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "url": "https://github.com/bikini/exploitarium",
+        "domain": "github.com",
+        "score": 780,
+        "descendants": 303,
+        "by": "binyu",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个匿名GitHub账号大规模披露未公开零日漏洞引发社区安全恐慌与探讨。"
+      },
+      {
+        "id": 48697560,
+        "title": "OpenRA",
+        "url": "https://www.openra.net/",
+        "domain": "openra.net",
+        "score": 665,
+        "descendants": 131,
+        "by": "tosh",
+        "tags": [],
+        "summary": "开源实时战略游戏引擎OpenRA，支持经典RTS游戏的现代化重制。"
+      },
+      {
+        "id": 48702273,
+        "title": "Choosing a Public DNS Resolver",
+        "url": "https://evilbit.de/dns-resolver-guide.html",
+        "domain": "evilbit.de",
+        "score": 138,
+        "descendants": 42,
+        "by": "pawal",
+        "tags": [],
+        "summary": "对比分析不同公共DNS解析器的隐私与性能差异，并提供选择指南。"
+      },
+      {
+        "id": 48685967,
+        "title": "Engineering for Bounded Cognition",
+        "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+        "domain": "shapeofthesystem.com",
+        "score": 20,
+        "descendants": 3,
+        "by": "supermatt",
+        "tags": [],
+        "summary": "探讨在认知能力有限的限制下如何进行严谨的工程设计。"
+      },
+      {
+        "id": 48703968,
+        "title": "Ford hired AI and sacked humans. It backfired badly",
+        "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+        "domain": "the-independent.com",
+        "score": 152,
+        "descendants": 83,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析福特公司因激进采用AI替代人工导致业务受损的失败案例。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "marfapublicradio.org",
+          "count": 1
+        },
+        {
+          "domain": "decomp-academy.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 221,
+      "max_score": {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "score": 780
+      },
+      "most_discussed": {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "comments": 303
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术安全与工程实践上，不仅有匿名发布的零日漏洞预警引发广泛讨论，还有关于开源项目、硬件部署及AI自动化反思等深度技术议题。整体呈现出开发者社区对低级系统底层、网络安全工具及工程落地经验的强烈关注。"
   }
 }
