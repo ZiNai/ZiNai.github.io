@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-06-28 10:11",
+    "stories": [
+      {
+        "id": 48703412,
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
+        "domain": "decomp-academy.dev",
+        "score": 19,
+        "descendants": 7,
+        "by": "jackpriceburns",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个教授如何将GameCube游戏逆向编译为匹配C代码的学习平台。"
+      },
+      {
+        "id": 48703258,
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 1,
+        "by": "jakogut",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 48698617,
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "url": "https://github.com/bikini/exploitarium",
+        "domain": "github.com",
+        "score": 674,
+        "descendants": 267,
+        "by": "binyu",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个匿名GitHub账户大规模披露未公开的零日漏洞，引起广泛安全关注。"
+      },
+      {
+        "id": 48702273,
+        "title": "Choosing a Public DNS Resolver",
+        "url": "https://evilbit.de/dns-resolver-guide.html",
+        "domain": "evilbit.de",
+        "score": 60,
+        "descendants": 18,
+        "by": "pawal",
+        "tags": [],
+        "summary": "探讨如何根据隐私和性能需求选择最合适的公共DNS解析器。"
+      },
+      {
+        "id": 48697560,
+        "title": "OpenRA",
+        "url": "https://www.openra.net/",
+        "domain": "openra.net",
+        "score": 588,
+        "descendants": 115,
+        "by": "tosh",
+        "tags": [],
+        "summary": "介绍开源的实时战略游戏引擎OpenRA，支持经典RTS游戏的现代重制。"
+      },
+      {
+        "id": 48660021,
+        "title": "AI learns the “dark art” of RFIC design",
+        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "domain": "spectrum.ieee.org",
+        "score": 191,
+        "descendants": 124,
+        "by": "Brajeshwar",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI技术如何辅助并优化复杂的射频集成电路（RFIC）设计过程。"
+      },
+      {
+        "id": 48701936,
+        "title": "Enhancing X11 Application Security with LXC",
+        "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+        "domain": "dobrowolski.dev",
+        "score": 33,
+        "descendants": 7,
+        "by": "shirozuki",
+        "tags": [
+          "Security"
+        ],
+        "summary": "利用LXC容器技术提升X11窗口系统下应用程序的安全隔离性。"
+      },
+      {
+        "id": 48696982,
+        "title": "Fintech Engineering Handbook",
+        "url": "https://w.pitula.me/fintech-engineering-handbook/",
+        "domain": "w.pitula.me",
+        "score": 483,
+        "descendants": 159,
+        "by": "signa11",
+        "tags": [],
+        "summary": "一份涵盖金融技术系统设计与工程实践的全面指南。"
+      },
+      {
+        "id": 48697335,
+        "title": "The case for physical media ownership",
+        "url": "https://dervis.de/physical/",
+        "domain": "dervis.de",
+        "score": 374,
+        "descendants": 247,
+        "by": "cemdervis",
+        "tags": [],
+        "summary": "分析在数字发行时代保留物理媒体所有权的重要性和必要性。"
+      },
+      {
+        "id": 48672232,
+        "title": "Regular expressions that work \"everywhere\"",
+        "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+        "domain": "johndcook.com",
+        "score": 16,
+        "descendants": 5,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "关于编写跨环境兼容的标准化正则表达式的经验分享。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "decomp-academy.dev",
+          "count": 1
+        },
+        {
+          "domain": "evilbit.de",
+          "count": 1
+        }
+      ],
+      "avg_score": 246,
+      "max_score": {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "score": 674
+      },
+      "most_discussed": {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "comments": 267
+      },
+      "hot_tags": [
+        "Show HN",
+        "Hardware",
+        "Open Source",
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术安全与硬核工程，包括针对GitHub的零日漏洞警报以及射频集成电路设计的AI辅助突破。同时，社区对复古游戏逆向工程、开源游戏引擎及实体媒体所有权等技术与文化议题表现出浓厚兴趣。"
+  }
+}
