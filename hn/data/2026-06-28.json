@@ -312,5 +312,165 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在技术安全与工程实践上，不仅有匿名发布的零日漏洞预警引发广泛讨论，还有关于开源项目、硬件部署及AI自动化反思等深度技术议题。整体呈现出开发者社区对低级系统底层、网络安全工具及工程落地经验的强烈关注。"
+  },
+  "evening": {
+    "time": "2026-06-28 21:27",
+    "stories": [
+      {
+        "id": 48706714,
+        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+        "url": "https://github.com/openai/codex/issues/2847",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 16,
+        "by": "pikseladam",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI Codex关于敏感文件过滤功能的Issue持续引发关注，涉及代码安全性配置问题。"
+      },
+      {
+        "id": 48703759,
+        "title": "Marfa Public Radio Puts You to Sleep",
+        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "domain": "marfapublicradio.org",
+        "score": 300,
+        "descendants": 81,
+        "by": "reaperducer",
+        "tags": [],
+        "summary": "Marfa公共广播电台推出的助眠广播节目及其背后的媒体运作探讨。"
+      },
+      {
+        "id": 48705910,
+        "title": "DLL that was not present in memory despite not being formally unloaded",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+        "domain": "devblogs.microsoft.com",
+        "score": 42,
+        "descendants": 15,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "微软开发博客深入解析DLL在未被卸载的情况下从内存中消失的技术疑难点。"
+      },
+      {
+        "id": 48706560,
+        "title": "Kids act would require age checks to get online",
+        "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+        "domain": "eff.org",
+        "score": 48,
+        "descendants": 17,
+        "by": "bilsbie",
+        "tags": [],
+        "summary": "电子前哨基金会（EFF）分析针对青少年在线保护法案中强制年龄验证机制所带来的隐患。"
+      },
+      {
+        "id": 48706796,
+        "title": "The MUMPS 76 Primer – anniversary edition",
+        "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+        "domain": "github.com",
+        "score": 3,
+        "descendants": 1,
+        "by": "Rochus",
+        "tags": [],
+        "summary": "MUMPS 76编程语言指南周年纪念版发布，回顾这一老牌数据库与开发语言。"
+      },
+      {
+        "id": 48704454,
+        "title": "Bashblog – a single bash script to create blogs",
+        "url": "https://github.com/cfenollosa/bashblog",
+        "domain": "github.com",
+        "score": 72,
+        "descendants": 51,
+        "by": "ludicrousdispla",
+        "tags": [],
+        "summary": "介绍一款轻量级的Bash脚本工具，旨在通过简单的脚本实现博客系统的快速搭建。"
+      },
+      {
+        "id": 48703258,
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "domain": "github.com",
+        "score": 177,
+        "descendants": 54,
+        "by": "jakogut",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "详细指导如何利用AMD Strix Halo硬件配置高性能的RDMA集群环境。"
+      },
+      {
+        "id": 48698617,
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "url": "https://github.com/bikini/exploitarium",
+        "domain": "github.com",
+        "score": 864,
+        "descendants": 334,
+        "by": "binyu",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "匿名GitHub账户大量公开未披露的零日漏洞，引发网络安全界的高度警惕。"
+      },
+      {
+        "id": 48704373,
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "domain": "github.com",
+        "score": 86,
+        "descendants": 37,
+        "by": "handfuloflight",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款名为Wayfinder的路由工具，用于在本地与云端大模型之间实现确定性请求分发。"
+      },
+      {
+        "id": 48703412,
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
+        "domain": "decomp-academy.dev",
+        "score": 152,
+        "descendants": 58,
+        "by": "jackpriceburns",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Show HN展示：Decomp Academy平台，通过教学帮助用户将GameCube游戏代码还原为匹配的C语言源码。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 6
+        },
+        {
+          "domain": "marfapublicradio.org",
+          "count": 1
+        },
+        {
+          "domain": "devblogs.microsoft.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 177,
+      "max_score": {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "score": 864
+      },
+      "most_discussed": {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "comments": 334
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Open Source",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热点呈现出强烈的技术深度与安全议题导向，涵盖从零日漏洞披露、逆向工程教育到AI工具与系统配置指南的广泛领域。开发者社区持续关注前沿架构优化及互联网内容合规性等政策挑战，整体表现出硬核工程实践与安全性分析并重的趋势。"
   }
 }
