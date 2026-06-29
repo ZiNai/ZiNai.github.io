@@ -313,5 +313,170 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于AI工具的深度应用与边界探索，从模型基准测试、AI辅助医疗诊断到编程代理的集成开发，展现了技术社区对生成式AI落地场景的浓厚兴趣。此外，关于数字身份与隐私的社会讨论以及历史数据的技术考古也引起了广泛关注。"
+  },
+  "evening": {
+    "time": "2026-06-29 23:38",
+    "stories": [
+      {
+        "id": 48719485,
+        "title": "Rocketlab acquires Iridium",
+        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "domain": "investors.rocketlabcorp.com",
+        "score": 58,
+        "descendants": 36,
+        "by": "everfrustrated",
+        "tags": [],
+        "summary": "Rocket Lab 宣布收购 Iridium，标志着商业航天领域的一项重大并购动态。"
+      },
+      {
+        "id": 48718863,
+        "title": "What happens when you run a CUDA kernel?",
+        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+        "domain": "fergusfinn.com",
+        "score": 57,
+        "descendants": 3,
+        "by": "mezark",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度剖析 CUDA 内核在硬件上运行时的底层执行流程与机制。"
+      },
+      {
+        "id": 48718995,
+        "title": "Building Principia for Windows XP",
+        "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+        "domain": "voxelmanip.se",
+        "score": 59,
+        "descendants": 11,
+        "by": "LorenDB",
+        "tags": [],
+        "summary": "开发者分享将游戏引擎 Principia 移植至 Windows XP 的技术挑战与实现。"
+      },
+      {
+        "id": 48719532,
+        "title": "Mag 7 starting to underperform [pdf]",
+        "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+        "domain": "apollo.com",
+        "score": 102,
+        "descendants": 73,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "Apollo 的分析报告指出美股“七巨头”表现开始出现疲软趋势。"
+      },
+      {
+        "id": 48717287,
+        "title": "Sandia National Labs SA3000 8085 CPU",
+        "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+        "domain": "cpushack.com",
+        "score": 102,
+        "descendants": 26,
+        "by": "rbanffy",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "详述桑迪亚国家实验室开发的 SA3000 8085 CPU 的历史及其架构细节。"
+      },
+      {
+        "id": 48719361,
+        "title": "CachyOS June 2026 Release",
+        "url": "https://cachyos.org/blog/2606-june-release/",
+        "domain": "cachyos.org",
+        "score": 11,
+        "descendants": 0,
+        "by": "simonpure",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍主打高性能优化的 CachyOS 2026 年 6 月版本更新内容。"
+      },
+      {
+        "id": 48720190,
+        "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+        "url": "https://humphri.es/blog/WATaBoy/",
+        "domain": "humphri.es",
+        "score": 13,
+        "descendants": 0,
+        "by": "energeticbark",
+        "tags": [
+          "Web"
+        ],
+        "summary": "文章演示通过将 Game Boy 指令即时编译（JIT）为 WASM，其性能显著优于原生解释器。"
+      },
+      {
+        "id": 48718840,
+        "title": "Tidal AI Policy",
+        "url": "https://tidal.com/ai-policy",
+        "domain": "tidal.com",
+        "score": 167,
+        "descendants": 192,
+        "by": "hn8726",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Tidal 发布最新的 AI 使用政策，引发社区关于版权与人工智能应用的广泛讨论。"
+      },
+      {
+        "id": 48713832,
+        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "domain": "danunparsed.com",
+        "score": 772,
+        "descendants": 331,
+        "by": "sambellll",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "作者吐槽 HackerRank 开源的简历筛选系统评分极不稳定，质疑算法招聘的准确性。"
+      },
+      {
+        "id": 48720179,
+        "title": "WebGL Without a GPU",
+        "url": "https://microlink.io/blog/webgl-without-a-gpu",
+        "domain": "microlink.io",
+        "score": 7,
+        "descendants": 2,
+        "by": "Kikobeats",
+        "tags": [
+          "Web",
+          "Hardware"
+        ],
+        "summary": "探讨在无 GPU 硬件环境下实现 WebGL 渲染的技术方案与可行性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "investors.rocketlabcorp.com",
+          "count": 1
+        },
+        {
+          "domain": "fergusfinn.com",
+          "count": 1
+        },
+        {
+          "domain": "voxelmanip.se",
+          "count": 1
+        }
+      ],
+      "avg_score": 135,
+      "max_score": {
+        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "score": 772
+      },
+      "most_discussed": {
+        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "comments": 331
+      },
+      "hot_tags": [
+        "Systems",
+        "Web",
+        "AI",
+        "Security",
+        "Open Source"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论热度集中在行业并购、底层技术探索及 AI 治理等议题。用户对人才招聘算法的透明度表现出极高关注，同时硬核工程实践（如 CUDA、CPU 架构、WASM 性能）与市场经济分析共同构成了当日的内容焦点。"
   }
 }
