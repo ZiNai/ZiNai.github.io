@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-06-29 10:10",
+    "stories": [
+      {
+        "id": 48709670,
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "domain": "semgrep.dev",
+        "score": 463,
+        "descendants": 226,
+        "by": "jms703",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GLM 5.2 在基准测试中超越 Claude 的性能表现分析。"
+      },
+      {
+        "id": 48713686,
+        "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+        "url": "https://www.phantafield.com/whitepaper",
+        "domain": "phantafield.com",
+        "score": 19,
+        "descendants": 14,
+        "by": "minkowsky",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍 Sophon PFG-1：一款创新的单片 3D AI ASIC，内置 330GB 片上 DRAM。"
+      },
+      {
+        "id": 48708991,
+        "title": "Professor denounces mass AI fraud on an exam at Brown",
+        "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+        "domain": "english.elpais.com",
+        "score": 276,
+        "descendants": 370,
+        "by": "geox",
+        "tags": [
+          "AI",
+          "JavaScript"
+        ],
+        "summary": "布朗大学教授公开谴责学生在考试中大规模使用 AI 作弊的事件。"
+      },
+      {
+        "id": 48710092,
+        "title": "Historical memory prices 1960-2026",
+        "url": "https://dam.stanford.edu/memory-prices.html",
+        "domain": "dam.stanford.edu",
+        "score": 166,
+        "descendants": 65,
+        "by": "vga1",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "斯坦福大学整理的 1960 年至 2026 年内存价格演变历史数据。"
+      },
+      {
+        "id": 48707763,
+        "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+        "url": "https://pudding.cool/2026/06/menu-story/",
+        "domain": "pudding.cool",
+        "score": 328,
+        "descendants": 85,
+        "by": "xbryanx",
+        "tags": [],
+        "summary": "精选纽约公共图书馆 Buttolph 馆藏中 1880-1920 年间的 5000 份珍贵菜单。"
+      },
+      {
+        "id": 48712420,
+        "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+        "url": "https://arxiv.org/abs/2401.07013",
+        "domain": "arxiv.org",
+        "score": 50,
+        "descendants": 13,
+        "by": "babelfish",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于黑盒大型语言模型知识蒸馏技术的学术论文。"
+      },
+      {
+        "id": 48708941,
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "domain": "antoine.fi",
+        "score": 348,
+        "descendants": 457,
+        "by": "engmarketer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者通过 Claude Code 辅助分析个人 MRI 扫描影像并获得第二诊断意见的经历。"
+      },
+      {
+        "id": 48657131,
+        "title": "Deciphering Basmala",
+        "url": "https://blog.plover.com/lang/bismillah.html",
+        "domain": "blog.plover.com",
+        "score": 13,
+        "descendants": 1,
+        "by": "lordgrenville",
+        "tags": [],
+        "summary": "对“Basmala”（伊斯兰教开端辞）的深度解析与文化起源研究。"
+      },
+      {
+        "id": 48710775,
+        "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+        "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+        "domain": "chipsandcheese.com",
+        "score": 72,
+        "descendants": 37,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "ISC'26 TOP500 超级计算机榜单揭晓，全球算力格局迎来新王。"
+      },
+      {
+        "id": 48675295,
+        "title": "The Boeing 747 begins its final descent",
+        "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+        "domain": "theatlantic.com",
+        "score": 142,
+        "descendants": 188,
+        "by": "dbl000",
+        "tags": [],
+        "summary": "回顾波音 747 航空巨型喷气客机退出历史舞台的历程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "semgrep.dev",
+          "count": 1
+        },
+        {
+          "domain": "phantafield.com",
+          "count": 1
+        },
+        {
+          "domain": "english.elpais.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 188,
+      "max_score": {
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "score": 463
+      },
+      "most_discussed": {
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "comments": 457
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能领域的进展与争议，涵盖了模型性能指标（GLM-5.2）、新型AI芯片硬件架构、AI辅助医疗的伦理边界及教育领域的学术诚信挑战。此外，历史数据回顾与工程技术成就（如超级计算机与航空史）也引起了读者的广泛关注。"
+  }
+}
