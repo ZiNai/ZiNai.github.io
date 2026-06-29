@@ -157,5 +157,161 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于人工智能领域的进展与争议，涵盖了模型性能指标（GLM-5.2）、新型AI芯片硬件架构、AI辅助医疗的伦理边界及教育领域的学术诚信挑战。此外，历史数据回顾与工程技术成就（如超级计算机与航空史）也引起了读者的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-06-29 16:48",
+    "stories": [
+      {
+        "id": 48713832,
+        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "domain": "danunparsed.com",
+        "score": 355,
+        "descendants": 118,
+        "by": "sambellll",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "HackerRank开源其ATS系统，引发对简历自动化筛选准确性和评分机制的讨论。"
+      },
+      {
+        "id": 48709670,
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "domain": "semgrep.dev",
+        "score": 806,
+        "descendants": 378,
+        "by": "jms703",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GLM 5.2在基准测试中表现超越Claude，引发关于模型评测方法论的激烈辩论。"
+      },
+      {
+        "id": 48708644,
+        "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+        "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+        "domain": "schamper.dev",
+        "score": 61,
+        "descendants": 2,
+        "by": "supermatou",
+        "tags": [],
+        "summary": "博主使用Claude Code协助分析其MRI检查结果，引发关于AI在医疗第二意见中应用与风险的争议。"
+      },
+      {
+        "id": 48714529,
+        "title": "Age verification is just a precursor to automated attribution of speech",
+        "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+        "domain": "nonogra.ph",
+        "score": 406,
+        "descendants": 217,
+        "by": "arkhiver",
+        "tags": [],
+        "summary": "观点分析：探讨网络年龄验证机制可能成为自动化言论审查与追踪的潜在工具。"
+      },
+      {
+        "id": 48714802,
+        "title": "Herdr: Agent multiplexer that lives in your terminal",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "domain": "github.com",
+        "score": 56,
+        "descendants": 19,
+        "by": "mzehrer",
+        "tags": [],
+        "summary": "介绍Herdr：一款运行在终端中、支持多代理协作的AI多路复用器。"
+      },
+      {
+        "id": 48688685,
+        "title": "1.38 Millimeter Microcontroller",
+        "url": "https://www.ti.com/product/MSPM0C1104",
+        "domain": "ti.com",
+        "score": 20,
+        "descendants": 22,
+        "by": "kristianpaul",
+        "tags": [],
+        "summary": "介绍德州仪器推出的一款仅1.38毫米的超微型微控制器，展示硬件集成新高度。"
+      },
+      {
+        "id": 48714880,
+        "title": "Lore – Give your coding agent the decisions your team made",
+        "url": "https://github.com/itsthelore/rac-core",
+        "domain": "github.com",
+        "score": 30,
+        "descendants": 34,
+        "by": "tcballard",
+        "tags": [],
+        "summary": "开源工具Lore发布：旨在让编码AI代理能够理解并整合团队的历史决策逻辑。"
+      },
+      {
+        "id": 48710092,
+        "title": "Historical memory prices 1960-2026",
+        "url": "https://dam.stanford.edu/memory-prices.html",
+        "domain": "dam.stanford.edu",
+        "score": 292,
+        "descendants": 106,
+        "by": "vga1",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "斯坦福大学整理了1960年至2026年间内存价格的历史走势图，呈现算力基础设施的演变。"
+      },
+      {
+        "id": 48707763,
+        "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+        "url": "https://pudding.cool/2026/06/menu-story/",
+        "domain": "pudding.cool",
+        "score": 364,
+        "descendants": 94,
+        "by": "xbryanx",
+        "tags": [],
+        "summary": "利用可视化手段回顾纽约公共图书馆Buttolph收藏中1880-1920年间的5000份历史菜单。"
+      },
+      {
+        "id": 48708941,
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "domain": "antoine.fi",
+        "score": 425,
+        "descendants": 552,
+        "by": "engmarketer",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "danunparsed.com",
+          "count": 1
+        },
+        {
+          "domain": "semgrep.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 282,
+      "max_score": {
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "score": 806
+      },
+      "most_discussed": {
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "comments": 552
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Open Source",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI工具的深度应用与边界探索，从模型基准测试、AI辅助医疗诊断到编程代理的集成开发，展现了技术社区对生成式AI落地场景的浓厚兴趣。此外，关于数字身份与隐私的社会讨论以及历史数据的技术考古也引起了广泛关注。"
   }
 }
