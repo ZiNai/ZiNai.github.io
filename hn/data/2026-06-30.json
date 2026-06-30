@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-06-30 10:05",
+    "stories": [
+      {
+        "id": 48724230,
+        "title": ".self: A new top-level domain designed to support self-hosting",
+        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+        "domain": "hccf.onmy.cloud",
+        "score": 334,
+        "descendants": 192,
+        "by": "HumanCCF",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个专门为支持个人服务器和自托管服务而设计的新顶级域名。."
+      },
+      {
+        "id": 48721903,
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "domain": "quesma.com",
+        "score": 612,
+        "descendants": 513,
+        "by": "stared",
+        "tags": [],
+        "summary": "探讨Qwen 3.6 27B模型在平衡本地开发资源消耗与性能表现上的独特优势。"
+      },
+      {
+        "id": 48698908,
+        "title": "Free the Icons",
+        "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+        "domain": "weblog.rogueamoeba.com",
+        "score": 219,
+        "descendants": 57,
+        "by": "zdw",
+        "tags": [],
+        "summary": "关于重新审视数字图标设计权与自由度的深度思考。"
+      },
+      {
+        "id": 48727177,
+        "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+        "url": "https://fil-c.org/context_switches",
+        "domain": "fil-c.org",
+        "score": 23,
+        "descendants": 7,
+        "by": "modeless",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍Fil-C项目中实现内存安全上下文切换的技术方案。"
+      },
+      {
+        "id": 48727323,
+        "title": "Exploring PDP-1 Lisp (1960)",
+        "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+        "domain": "obsolescence.dev",
+        "score": 14,
+        "descendants": 10,
+        "by": "ozymandiax",
+        "tags": [],
+        "summary": "复盘并探索1960年PDP-1 Lisp语言的历史遗产与运行机制。"
+      },
+      {
+        "id": 48727116,
+        "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+        "url": "https://longcat.chat/blog/longcat-2.0/",
+        "domain": "longcat.chat",
+        "score": 20,
+        "descendants": 3,
+        "by": "benjiro29",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍LongCat-2.0模型，这是一款拥有1.6万亿参数总量且激活参数为48B的混合专家模型。"
+      },
+      {
+        "id": 48726073,
+        "title": "Scientists find molecular-level evidence for two structures in liquid water",
+        "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+        "domain": "phys.org",
+        "score": 62,
+        "descendants": 19,
+        "by": "wglb",
+        "tags": [],
+        "summary": "科学家在分子层面发现液态水存在两种不同结构的证据。"
+      },
+      {
+        "id": 48719485,
+        "title": "Rocketlab acquires Iridium",
+        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "domain": "investors.rocketlabcorp.com",
+        "score": 369,
+        "descendants": 230,
+        "by": "everfrustrated",
+        "tags": [],
+        "summary": "火箭实验室（Rocket Lab）宣布收购Iridium公司的相关新闻。"
+      },
+      {
+        "id": 48722052,
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
+        "domain": "github.com",
+        "score": 154,
+        "descendants": 32,
+        "by": "danboarder",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "介绍Ornith-1.0，一套旨在提升编程任务中智能体自动进化能力的开源模型。"
+      },
+      {
+        "id": 48720758,
+        "title": "A native graphical shell for SSH",
+        "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+        "domain": "probablymarcus.com",
+        "score": 247,
+        "descendants": 114,
+        "by": "mrcslws",
+        "tags": [],
+        "summary": "一款旨在提供原生图形界面体验的SSH Shell工具介绍。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hccf.onmy.cloud",
+          "count": 1
+        },
+        {
+          "domain": "quesma.com",
+          "count": 1
+        },
+        {
+          "domain": "weblog.rogueamoeba.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "score": 612
+      },
+      "most_discussed": {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "comments": 513
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在AI模型演进与基础设施创新，涵盖了从超大规模MoE架构到本地化开发模型的技术前沿。同时，关于互联网基础设施（如新顶级域名和SSH交互优化）及科学技术发现的讨论也展现了开发者对系统底层与前沿科学的广泛兴趣。"
+  }
+}
