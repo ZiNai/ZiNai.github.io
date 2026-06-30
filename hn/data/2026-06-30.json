@@ -307,5 +307,158 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI模型技术的快速迭代，尤其是Qwen 3.6与长文本MoE架构的性能表现。同时，社区表现出对数字主权、旧硬件复兴及基础设施安全等深层话题的广泛关注，反映出技术群体在追求前沿算力与回归极简可控技术路线之间的双重兴趣。"
+  },
+  "evening": {
+    "time": "2026-06-30 22:09",
+    "stories": [
+      {
+        "id": 48730608,
+        "title": "The US ambassador had Belgian police stop our reporting",
+        "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+        "domain": "europeancorrespondent.com",
+        "score": 392,
+        "descendants": 151,
+        "by": "robtherobber",
+        "tags": [],
+        "summary": "欧洲通讯社披露其报道活动遭到美国驻比利时大使馆干预并受当地警方阻挠的事件。"
+      },
+      {
+        "id": 48730729,
+        "title": "European digital ID wallets rely on safety services of Google and Apple",
+        "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+        "domain": "waag.org",
+        "score": 428,
+        "descendants": 185,
+        "by": "donohoe",
+        "tags": [],
+        "summary": "研究显示欧洲数字ID钱包高度依赖Google与Apple的安全服务，引发对隐私与平台垄断的担忧。"
+      },
+      {
+        "id": 48704289,
+        "title": "Building a custom octocopter from scratch with no prior hardware experience",
+        "url": "https://karolina.mgdubiel.com/drone/",
+        "domain": "karolina.mgdubiel.com",
+        "score": 156,
+        "descendants": 39,
+        "by": "noleary",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "作者分享了零硬件基础背景下，从零开始设计与组装定制八轴飞行器的完整过程。"
+      },
+      {
+        "id": 48730694,
+        "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+        "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+        "domain": "maturitas.org",
+        "score": 96,
+        "descendants": 75,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "一项针对老年人的医学研究表明，运动强度对身体成分的改善具有显著影响。"
+      },
+      {
+        "id": 48731989,
+        "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
+        "url": "https://www.gutenberg.org/ebooks/24518",
+        "domain": "gutenberg.org",
+        "score": 24,
+        "descendants": 7,
+        "by": "lstodd",
+        "tags": [],
+        "summary": "关于经典著作《异常流行幻觉与群体疯狂》的分享，探讨了金融市场中非理性群体行为的历史规律。"
+      },
+      {
+        "id": 48683098,
+        "title": "Open Source Low Tech",
+        "url": "https://opensourcelowtech.org/",
+        "domain": "opensourcelowtech.org",
+        "score": 415,
+        "descendants": 89,
+        "by": "grep_it",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个汇集低技术与开源解决方案的平台，旨在通过可持续技术改善生活方式。"
+      },
+      {
+        "id": 48730818,
+        "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+        "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+        "domain": "cekrem.github.io",
+        "score": 71,
+        "descendants": 54,
+        "by": "fagnerbrack",
+        "tags": [],
+        "summary": "分析指出Qwen 3.6 27B模型在性能与资源消耗之间达到了平衡，非常适合本地开发环境使用。"
+      },
+      {
+        "id": 48721903,
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "domain": "quesma.com",
+        "score": 1017,
+        "descendants": 660,
+        "by": "stared",
+        "tags": []
+      },
+      {
+        "id": 48730713,
+        "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+        "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+        "domain": "vosen.github.io",
+        "score": 31,
+        "descendants": 2,
+        "by": "Tiberium",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Zluda 6版本发布，支持在非NVIDIA GPU硬件上直接运行未修改的CUDA应用程序。"
+      },
+      {
+        "id": 48724230,
+        "title": ".self: A new top-level domain designed to support self-hosting",
+        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+        "domain": "hccf.onmy.cloud",
+        "score": 572,
+        "descendants": 334,
+        "by": "HumanCCF",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一个新的顶级域名.self，旨在为个人自托管网络服务提供标准化命名支持。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "europeancorrespondent.com",
+          "count": 1
+        },
+        {
+          "domain": "waag.org",
+          "count": 1
+        },
+        {
+          "domain": "karolina.mgdubiel.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 320,
+      "max_score": {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "score": 1017
+      },
+      "most_discussed": {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "comments": 660
+      },
+      "hot_tags": [
+        "Hardware",
+        "Open Source",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点涵盖了前沿AI模型与开发工具、数字隐私与地缘政治争端，以及硬核DIY技术。整体呈现出开发者对高效本地化AI部署及数字主权架构的浓厚兴趣，同时兼顾了技术哲学探讨与跨学科实验。"
   }
 }
