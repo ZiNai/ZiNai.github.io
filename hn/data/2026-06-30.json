@@ -153,5 +153,159 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中在AI模型演进与基础设施创新，涵盖了从超大规模MoE架构到本地化开发模型的技术前沿。同时，关于互联网基础设施（如新顶级域名和SSH交互优化）及科学技术发现的讨论也展现了开发者对系统底层与前沿科学的广泛兴趣。"
+  },
+  "noon": {
+    "time": "2026-06-30 15:41",
+    "stories": [
+      {
+        "id": 48721903,
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "domain": "quesma.com",
+        "score": 858,
+        "descendants": 594,
+        "by": "stared",
+        "tags": [],
+        "summary": "探讨Qwen 3.6 27B模型在本地开发环境中的性能表现与性价比优势。"
+      },
+      {
+        "id": 48724230,
+        "title": ".self: A new top-level domain designed to support self-hosting",
+        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+        "domain": "hccf.onmy.cloud",
+        "score": 469,
+        "descendants": 269,
+        "by": "HumanCCF",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一个旨在支持个人自托管服务的新顶级域名“.self”。"
+      },
+      {
+        "id": 48683098,
+        "title": "Open Source Low Tech",
+        "url": "https://opensourcelowtech.org/",
+        "domain": "opensourcelowtech.org",
+        "score": 46,
+        "descendants": 6,
+        "by": "grep_it",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "倡导回归低技术、可持续的开源实践理念。"
+      },
+      {
+        "id": 48698908,
+        "title": "Free the Icons",
+        "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+        "domain": "weblog.rogueamoeba.com",
+        "score": 403,
+        "descendants": 111,
+        "by": "zdw",
+        "tags": [],
+        "summary": "呼吁开源并解放图标资源，抵制封闭与版权限制。"
+      },
+      {
+        "id": 48727116,
+        "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+        "url": "https://longcat.chat/blog/longcat-2.0/",
+        "domain": "longcat.chat",
+        "score": 111,
+        "descendants": 33,
+        "by": "benjiro29",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍拥有1.6T参数总量与48B激活参数的大规模混合专家模型LongCat-2.0。"
+      },
+      {
+        "id": 48727177,
+        "title": "Memory Safe Context Switching",
+        "url": "https://fil-c.org/context_switches",
+        "domain": "fil-c.org",
+        "score": 101,
+        "descendants": 22,
+        "by": "modeless",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨如何通过技术手段实现内存安全的上下文切换机制。"
+      },
+      {
+        "id": 48702320,
+        "title": "Old Computer Challenge",
+        "url": "http://occ.sdf.org/",
+        "domain": "occ.sdf.org",
+        "score": 51,
+        "descendants": 15,
+        "by": "wrxd",
+        "tags": [],
+        "summary": "鼓励用户在旧计算机上进行计算挑战，探索陈旧硬件的潜力。"
+      },
+      {
+        "id": 48719485,
+        "title": "Rocketlab acquires Iridium",
+        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "domain": "investors.rocketlabcorp.com",
+        "score": 395,
+        "descendants": 261,
+        "by": "everfrustrated",
+        "tags": [],
+        "summary": "报道火箭实验室（Rocket Lab）收购卫星通讯公司铱星（Iridium）的重大产业动态。"
+      },
+      {
+        "id": 48727323,
+        "title": "Exploring PDP-1 Lisp (1960)",
+        "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+        "domain": "obsolescence.dev",
+        "score": 55,
+        "descendants": 16,
+        "by": "ozymandiax",
+        "tags": [],
+        "summary": "深入探索1960年PDP-1机型上运行的早期Lisp语言实现。"
+      },
+      {
+        "id": 48728599,
+        "title": "The end of the AArch64 desktop experiment",
+        "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+        "domain": "marcin.juszkiewicz.com.pl",
+        "score": 20,
+        "descendants": 5,
+        "by": "signa11",
+        "tags": [],
+        "summary": "剖析AArch64架构在桌面端普及过程中面临的困境与实验终结。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "quesma.com",
+          "count": 1
+        },
+        {
+          "domain": "hccf.onmy.cloud",
+          "count": 1
+        },
+        {
+          "domain": "opensourcelowtech.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 251,
+      "max_score": {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "score": 858
+      },
+      "most_discussed": {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "comments": 594
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI模型技术的快速迭代，尤其是Qwen 3.6与长文本MoE架构的性能表现。同时，社区表现出对数字主权、旧硬件复兴及基础设施安全等深层话题的广泛关注，反映出技术群体在追求前沿算力与回归极简可控技术路线之间的双重兴趣。"
   }
 }
