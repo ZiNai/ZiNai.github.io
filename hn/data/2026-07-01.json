@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-07-01 10:11",
+    "stories": [
+      {
+        "id": 48741012,
+        "title": "The President Made More Than $1Billon in Crypto Deals",
+        "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+        "domain": "wsj.com",
+        "score": 66,
+        "descendants": 10,
+        "by": "fortran77",
+        "tags": [],
+        "summary": "报道称现任总统参与了价值超过 10 亿美元的加密货币交易。"
+      },
+      {
+        "id": 48736605,
+        "title": "Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "domain": "anthropic.com",
+        "score": 889,
+        "descendants": 499,
+        "by": "marinesebastian",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 正式发布了 Claude Sonnet 5 模型。"
+      },
+      {
+        "id": 48734373,
+        "title": "Claude Code is steganographically marking requests",
+        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "domain": "thereallo.dev",
+        "score": 1429,
+        "descendants": 409,
+        "by": "kirushik",
+        "tags": [
+          "AI"
+        ],
+        "summary": "社区发现 Claude Code 在请求中嵌入了隐写标记以进行追踪。"
+      },
+      {
+        "id": 48740698,
+        "title": "Google copybara: moving code between repositories",
+        "url": "https://github.com/google/copybara",
+        "domain": "github.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "reconnecting",
+        "tags": [],
+        "summary": "介绍 Google 开发的 Copybara 工具，用于高效管理和同步不同代码库。"
+      },
+      {
+        "id": 48740771,
+        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+        "domain": "twitter.com",
+        "score": 232,
+        "descendants": 90,
+        "by": "Pragmata",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "美国商务部宣布放宽 Claude Fable 5 和 Mythos 5 模型的出口管制。"
+      },
+      {
+        "id": 48741359,
+        "title": "Forestiere Underground Gardens",
+        "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+        "domain": "en.wikipedia.org",
+        "score": 10,
+        "descendants": 1,
+        "by": "onemoresoop",
+        "tags": [],
+        "summary": "介绍位于加州的一处由手工挖掘而成的地下花园景观。"
+      },
+      {
+        "id": 48739466,
+        "title": "From brain waves to words: a new path to communication without surgery",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+        "domain": "ai.meta.com",
+        "score": 109,
+        "descendants": 58,
+        "by": "alok-g",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Meta 发布了一项通过脑电波直接解析语言的非侵入式通讯研究。"
+      },
+      {
+        "id": 48735770,
+        "title": "Claude Science",
+        "url": "https://claude.com/product/claude-science",
+        "domain": "claude.com",
+        "score": 371,
+        "descendants": 122,
+        "by": "lebovic",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "Claude 推出专注于科研辅助能力的 Claude Science 工具。"
+      },
+      {
+        "id": 48735444,
+        "title": "Nano Banana 2 Lite",
+        "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+        "domain": "deepmind.google",
+        "score": 308,
+        "descendants": 120,
+        "by": "minimaxir",
+        "tags": [],
+        "summary": "Google DeepMind 发布了性能优化的轻量级模型 Nano Banana 2 Lite。"
+      },
+      {
+        "id": 48738938,
+        "title": "Leanstral 1.5",
+        "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+        "domain": "docs.mistral.ai",
+        "score": 102,
+        "descendants": 19,
+        "by": "vetronauta",
+        "tags": [],
+        "summary": "Mistral 发布了经过精简优化的模型 Leanstral 1.5。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "wsj.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "thereallo.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 356,
+      "max_score": {
+        "title": "Claude Code is steganographically marking requests",
+        "score": 1429
+      },
+      "most_discussed": {
+        "title": "Claude Sonnet 5",
+        "comments": 499
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点主要集中在 AI 领域，Anthropic 的 Claude 系列模型（Sonnet 5、Science、Fable 5 等）引发了关于产品发布、隐写标记及出口管制的热烈讨论。此外，Google 发布的 Nano Banana 2 Lite、Meta 的脑机接口研究以及 Mistral 的 Leanstral 1.5 展现了近期 AI 模型演进与多模态技术交互的密集动态。"
+  }
+}
