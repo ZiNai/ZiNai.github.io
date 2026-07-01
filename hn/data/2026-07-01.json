@@ -315,5 +315,148 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI领域，Anthropic发布的新模型Claude Sonnet 5引发广泛讨论，且伴随着关于数据隐私（隐写术标记）及全球出口管控的政策解读。此外，科学界在生物工程领域的突破与机器学习架构的优化改进也成为技术讨论的热点。"
+  },
+  "evening": {
+    "time": "2026-07-01 22:25",
+    "stories": [
+      {
+        "id": 48746445,
+        "title": "Why I Stopped Arguing with People",
+        "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+        "domain": "wangcong.org",
+        "score": 182,
+        "descendants": 131,
+        "by": "backlit4034",
+        "tags": [],
+        "summary": "作者分享了停止与人争论的心路历程，探讨如何通过改变心态提升生活质量。"
+      },
+      {
+        "id": 48744518,
+        "title": "Asahi Linux 7.1 Progress Report",
+        "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+        "domain": "asahilinux.org",
+        "score": 342,
+        "descendants": 89,
+        "by": "pantalaimon",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Asahi Linux团队发布7.1版本进展报告，详细阐述了Apple Silicon硬件支持的最新技术改进。"
+      },
+      {
+        "id": 48744232,
+        "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+        "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+        "domain": "thefocalpoints.com",
+        "score": 247,
+        "descendants": 139,
+        "by": "mpweiher",
+        "tags": [],
+        "summary": "研究人员发现一种源自青蛙的肠道细菌，在实验中成功治愈了小鼠体内的恶性肿瘤。"
+      },
+      {
+        "id": 48746752,
+        "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+        "url": "https://news.ycombinator.com/item?id=48746752",
+        "domain": "news.ycombinator.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "gergelycsegzi",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Parsewise作为YC W25项目，推出了一个旨在让大模型高效跨文档逻辑推理的API工具。"
+      },
+      {
+        "id": 48734373,
+        "title": "Claude Code is steganographically marking requests",
+        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "domain": "thereallo.dev",
+        "score": 2266,
+        "descendants": 673,
+        "by": "kirushik",
+        "tags": [
+          "AI"
+        ],
+        "summary": "社区热议Claude Code工具被发现通过隐写术标记请求，引发了关于AI隐私与安全性的激烈辩论。"
+      },
+      {
+        "id": 48745113,
+        "title": "Nintendo has raised its employees base salary by 10%",
+        "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+        "domain": "mynintendonews.com",
+        "score": 193,
+        "descendants": 72,
+        "by": "_tk_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "任天堂宣布将其员工底薪上调10%，在游戏行业引发广泛关注。"
+      },
+      {
+        "id": 48711052,
+        "title": "Newly discovered spider builds spring loaded snare to catch ants",
+        "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+        "domain": "phys.org",
+        "score": 158,
+        "descendants": 29,
+        "by": "chimpanzee",
+        "tags": [],
+        "summary": "科学家观察到一种新发现的蜘蛛物种，它能利用弹簧结构陷阱捕获蚂蚁。"
+      },
+      {
+        "id": 48744655,
+        "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+        "url": "https://cleberg.net/blog/internet.html",
+        "domain": "cleberg.net",
+        "score": 168,
+        "descendants": 139,
+        "by": "felixdoerp",
+        "tags": [],
+        "summary": "博主感慨互联网环境的巨变，探讨过去与现在网络生态的差异与失落感。"
+      },
+      {
+        "id": 48721434,
+        "title": "Obfuscation: Building the final boss of cryptography (Part I)",
+        "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+        "domain": "vitalik.eth.limo",
+        "score": 44,
+        "descendants": 2,
+        "by": "fbrusch",
+        "tags": [],
+        "summary": "Vitalik Buterin撰文探讨混淆技术，深入剖析密码学中终极难题的构建原理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "wangcong.org",
+          "count": 1
+        },
+        {
+          "domain": "asahilinux.org",
+          "count": 1
+        },
+        {
+          "domain": "thefocalpoints.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 401,
+      "max_score": {
+        "title": "Claude Code is steganographically marking requests",
+        "score": 2266
+      },
+      "most_discussed": {
+        "title": "Claude Code is steganographically marking requests",
+        "comments": 673
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于前沿技术动态与深度社会观察。AI领域的隐私与工具开发、生物医疗的突破性进展以及互联网生态的演变趋势成为讨论核心，展现了社区在技术伦理与科学探索上的双重关注。"
   }
 }
