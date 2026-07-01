@@ -156,5 +156,164 @@
       ]
     },
     "summary": "本期 Hacker News 焦点主要集中在 AI 领域，Anthropic 的 Claude 系列模型（Sonnet 5、Science、Fable 5 等）引发了关于产品发布、隐写标记及出口管制的热烈讨论。此外，Google 发布的 Nano Banana 2 Lite、Meta 的脑机接口研究以及 Mistral 的 Leanstral 1.5 展现了近期 AI 模型演进与多模态技术交互的密集动态。"
+  },
+  "noon": {
+    "time": "2026-07-01 16:01",
+    "stories": [
+      {
+        "id": 48734373,
+        "title": "Claude Code is steganographically marking requests",
+        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "domain": "thereallo.dev",
+        "score": 1864,
+        "descendants": 527,
+        "by": "kirushik",
+        "tags": [
+          "AI"
+        ],
+        "summary": "有开发者发现Claude Code工具在请求中植入了隐写术标记，引发了关于隐私与合规的担忧。"
+      },
+      {
+        "id": 48736605,
+        "title": "Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "domain": "anthropic.com",
+        "score": 1089,
+        "descendants": 626,
+        "by": "marinesebastian",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic正式发布了新一代大语言模型Claude Sonnet 5。"
+      },
+      {
+        "id": 48742483,
+        "title": "The first early human eggs from stem cells",
+        "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+        "domain": "conception.bio",
+        "score": 79,
+        "descendants": 22,
+        "by": "dsr12",
+        "tags": [],
+        "summary": "科学家利用干细胞成功培育出早期人类卵子，为生殖医学研究开辟了新途径。"
+      },
+      {
+        "id": 48741748,
+        "title": "ArXiv's Next Chapter",
+        "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+        "domain": "blog.arxiv.org",
+        "score": 75,
+        "descendants": 11,
+        "by": "subset",
+        "tags": [],
+        "summary": "ArXiv论文平台宣布了未来的更新规划与发展方向。"
+      },
+      {
+        "id": 48740698,
+        "title": "Google copybara: moving code between repositories",
+        "url": "https://github.com/google/copybara",
+        "domain": "github.com",
+        "score": 189,
+        "descendants": 28,
+        "by": "reconnecting",
+        "tags": [],
+        "summary": "详细介绍了Google内部使用的代码库迁移与同步工具Copybara的工作原理。"
+      },
+      {
+        "id": 48740771,
+        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+        "domain": "twitter.com",
+        "score": 631,
+        "descendants": 340,
+        "by": "Pragmata",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "美国商务部已取消对Claude Fable 5与Mythos 5模型的出口限制，引发市场关注。"
+      },
+      {
+        "id": 48735770,
+        "title": "Claude Science",
+        "url": "https://claude.com/product/claude-science",
+        "domain": "claude.com",
+        "score": 469,
+        "descendants": 141,
+        "by": "lebovic",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "Claude Science正式推出，旨在利用AI模型辅助科学研究与复杂数据分析。"
+      },
+      {
+        "id": 48742514,
+        "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+        "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+        "domain": "ayushtambde.com",
+        "score": 28,
+        "descendants": 2,
+        "by": "at2005",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "文章探讨了通过矩阵正交化技术来优化递归神经网络的长期记忆能力。"
+      },
+      {
+        "id": 48735444,
+        "title": "Nano Banana 2 Lite",
+        "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+        "domain": "deepmind.google",
+        "score": 363,
+        "descendants": 144,
+        "by": "minimaxir",
+        "tags": [],
+        "summary": "DeepMind发布了轻量级模型Nano Banana 2 Lite，旨在提升移动端与边缘计算性能。"
+      },
+      {
+        "id": 48738938,
+        "title": "Leanstral 1.5",
+        "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+        "domain": "docs.mistral.ai",
+        "score": 194,
+        "descendants": 53,
+        "by": "vetronauta",
+        "tags": [],
+        "summary": "Mistral AI发布Leanstral 1.5版本，进一步优化了模型在数学推理与编程任务中的表现。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "thereallo.dev",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "conception.bio",
+          "count": 1
+        }
+      ],
+      "avg_score": 498,
+      "max_score": {
+        "title": "Claude Code is steganographically marking requests",
+        "score": 1864
+      },
+      "most_discussed": {
+        "title": "Claude Sonnet 5",
+        "comments": 626
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，Anthropic发布的新模型Claude Sonnet 5引发广泛讨论，且伴随着关于数据隐私（隐写术标记）及全球出口管控的政策解读。此外，科学界在生物工程领域的突破与机器学习架构的优化改进也成为技术讨论的热点。"
   }
 }
