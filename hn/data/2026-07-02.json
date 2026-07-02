@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-07-02 10:02",
+    "stories": [
+      {
+        "id": 48754713,
+        "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+        "domain": "mlq.ai",
+        "score": 106,
+        "descendants": 87,
+        "by": "typeofhuman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Meta因AI算力成本激增至数十亿美元，开始对内部AI模型开发进行配额限制。"
+      },
+      {
+        "id": 48753715,
+        "title": "ZCode – Harness for GLM-5.2",
+        "url": "https://zcode.z.ai/en",
+        "domain": "zcode.z.ai",
+        "score": 201,
+        "descendants": 211,
+        "by": "chvid",
+        "tags": [],
+        "summary": "介绍一款名为ZCode的GLM-5.2模型专用交互工具，引发社区关于大模型应用的深入讨论。"
+      },
+      {
+        "id": 48752905,
+        "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+        "url": "https://www.workerowned.info/",
+        "domain": "workerowned.info",
+        "score": 219,
+        "descendants": 36,
+        "by": "IESAI_ski",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了一个包含超过2.2万个由工人共同拥有的合作社产品的搜索目录平台。"
+      },
+      {
+        "id": 48755005,
+        "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+        "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+        "domain": "makerspet.com",
+        "score": 29,
+        "descendants": 1,
+        "by": "devicelimit",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "开源扫地机器人项目Oomwoo旨在降低家庭自动化硬件的准入门槛。"
+      },
+      {
+        "id": 48747304,
+        "title": "For first time, a cell built from scratch grows and divides",
+        "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+        "domain": "quantamagazine.org",
+        "score": 734,
+        "descendants": 253,
+        "by": "defrost",
+        "tags": []
+      },
+      {
+        "id": 48750710,
+        "title": "What to learn to be a graphics programmer",
+        "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+        "domain": "blog.demofox.org",
+        "score": 245,
+        "descendants": 128,
+        "by": "atan2",
+        "tags": [],
+        "summary": "资深开发者总结成为图形程序员所需的技能路线图，涵盖数学、API及渲染原理。"
+      },
+      {
+        "id": 48753979,
+        "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+        "domain": "blog.google",
+        "score": 58,
+        "descendants": 35,
+        "by": "consumer451",
+        "tags": [
+          "Security"
+        ],
+        "summary": "谷歌探讨利用零知识证明技术，在保障隐私的前提下进行年龄认证。"
+      },
+      {
+        "id": 48754080,
+        "title": "The Underhanded C Contest",
+        "url": "https://underhanded-c.org/",
+        "domain": "underhanded-c.org",
+        "score": 37,
+        "descendants": 5,
+        "by": "ccabraldev",
+        "tags": [],
+        "summary": "回顾经典的Underhanded C编程竞赛，展示如何编写表面看似无害但潜藏严重漏洞的C代码。"
+      },
+      {
+        "id": 48754700,
+        "title": "The <Usermedia> HTML Element",
+        "url": "https://developer.chrome.com/blog/usermedia-html-element",
+        "domain": "developer.chrome.com",
+        "score": 31,
+        "descendants": 14,
+        "by": "twapi",
+        "tags": [
+          "Web"
+        ],
+        "summary": "深入剖析HTML <Usermedia> 元素，探讨其在Web浏览器多媒体接入领域的应用与前景。"
+      },
+      {
+        "id": 48754963,
+        "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+        "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+        "domain": "news.ubc.ca",
+        "score": 75,
+        "descendants": 45,
+        "by": "coloneltcb",
+        "tags": [],
+        "summary": "全球综合评估报告再次确认了mRNA疫苗在临床应用中的安全性和高效性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mlq.ai",
+          "count": 1
+        },
+        {
+          "domain": "zcode.z.ai",
+          "count": 1
+        },
+        {
+          "domain": "workerowned.info",
+          "count": 1
+        }
+      ],
+      "avg_score": 174,
+      "max_score": {
+        "title": "For first time, a cell built from scratch grows and divides",
+        "score": 734
+      },
+      "most_discussed": {
+        "title": "For first time, a cell built from scratch grows and divides",
+        "comments": 253
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Security",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了生物技术的重大科学突破、AI领域的商业与技术博弈，以及对开源项目和底层编程技术的持续关注。整体展现了从前沿生命科学到实用机器人技术及Web标准演进的多样化技术版图。"
+  }
+}
