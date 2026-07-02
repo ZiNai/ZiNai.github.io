@@ -155,5 +155,160 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了生物技术的重大科学突破、AI领域的商业与技术博弈，以及对开源项目和底层编程技术的持续关注。整体展现了从前沿生命科学到实用机器人技术及Web标准演进的多样化技术版图。"
+  },
+  "noon": {
+    "time": "2026-07-02 14:58",
+    "stories": [
+      {
+        "id": 48753715,
+        "title": "ZCode – Harness for GLM-5.2",
+        "url": "https://zcode.z.ai/en",
+        "domain": "zcode.z.ai",
+        "score": 345,
+        "descendants": 277,
+        "by": "chvid",
+        "tags": [],
+        "summary": "ZCode发布用于GLM-5.2模型的开发框架，旨在优化大规模语言模型的使用与部署。"
+      },
+      {
+        "id": 48755005,
+        "title": "Oomwoo, an open-source robot vacuum you build yourself",
+        "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+        "domain": "makerspet.com",
+        "score": 193,
+        "descendants": 36,
+        "by": "devicelimit",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Oomwoo是一款开源扫地机器人项目，通过自建方案提供极高的硬件定制空间。"
+      },
+      {
+        "id": 48756602,
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "domain": "github.blog",
+        "score": 45,
+        "descendants": 15,
+        "by": "unliftedq",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "GitHub Copilot现已全面支持Kimi K2.7代码模型，进一步提升编程辅助能力。"
+      },
+      {
+        "id": 48755731,
+        "title": "Bring back crappy forums",
+        "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+        "domain": "tedium.co",
+        "score": 172,
+        "descendants": 109,
+        "by": "pentagrama",
+        "tags": [],
+        "summary": "文章呼吁回归“粗糙”的论坛文化，反思现代社交媒体对深度讨论的剥夺。"
+      },
+      {
+        "id": 48755965,
+        "title": "A new Android malware from Google",
+        "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+        "domain": "f-droid.org",
+        "score": 98,
+        "descendants": 23,
+        "by": "drewfax",
+        "tags": [],
+        "summary": "F-Droid披露了一款名为“Google”的Android恶意软件，引发用户对隐匿威胁的警觉。"
+      },
+      {
+        "id": 48756840,
+        "title": "CursorBench 3.1",
+        "url": "https://cursor.com/evals",
+        "domain": "cursor.com",
+        "score": 20,
+        "descendants": 11,
+        "by": "handfuloflight",
+        "tags": [],
+        "summary": "CursorBench 3.1发布，提供了针对AI辅助编程工具的最新性能基准测试。"
+      },
+      {
+        "id": 48750710,
+        "title": "What to learn to be a graphics programmer",
+        "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+        "domain": "blog.demofox.org",
+        "score": 307,
+        "descendants": 160,
+        "by": "atan2",
+        "tags": [],
+        "summary": "详尽的图形编程学习指南，总结了成为专业图形开发者所需的数学与技术栈。"
+      },
+      {
+        "id": 48753979,
+        "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+        "domain": "blog.google",
+        "score": 125,
+        "descendants": 107,
+        "by": "consumer451",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Google探讨利用零知识证明技术，在保障隐私的前提下进行年龄核实。"
+      },
+      {
+        "id": 48755928,
+        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "url": "https://senior-swe-bench.snorkel.ai/",
+        "domain": "senior-swe-bench.snorkel.ai",
+        "score": 62,
+        "descendants": 48,
+        "by": "matt_d",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Senior SWE-Bench发布，这是一个专门用于评估AI代理能否胜任高级工程师工作的开源基准测试。"
+      },
+      {
+        "id": 48747116,
+        "title": "FFmpeg 9.1's new AAC encoder",
+        "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+        "domain": "hydrogenaudio.org",
+        "score": 349,
+        "descendants": 107,
+        "by": "ledoge",
+        "tags": [],
+        "summary": "FFmpeg 9.1正式集成全新AAC编码器，标志着音频处理性能的重要提升。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "zcode.z.ai",
+          "count": 1
+        },
+        {
+          "domain": "makerspet.com",
+          "count": 1
+        },
+        {
+          "domain": "github.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 172,
+      "max_score": {
+        "title": "FFmpeg 9.1's new AAC encoder",
+        "score": 349
+      },
+      "most_discussed": {
+        "title": "ZCode – Harness for GLM-5.2",
+        "comments": 277
+      },
+      "hot_tags": [
+        "Open Source",
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于前沿AI工具与开发实践，涵盖了代码模型升级、AI评估基准以及机器人硬件的开源创新。此外，社区对互联网早期论坛文化的怀旧与对隐私保护技术的发展也展开了深入讨论。"
   }
 }
