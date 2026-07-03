@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-07-03 09:46",
+    "stories": [
+      {
+        "id": 48767347,
+        "title": "Virginia bans sale of geolocation data",
+        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "domain": "hunton.com",
+        "score": 468,
+        "descendants": 86,
+        "by": "toomuchtodo",
+        "tags": [],
+        "summary": "维吉尼亚州正式立法，禁止通过商业手段买卖公民的精准地理位置数据。"
+      },
+      {
+        "id": 48768992,
+        "title": "An American Privacy Emergency",
+        "url": "https://scottaaronson.blog/?p=9902",
+        "domain": "scottaaronson.blog",
+        "score": 125,
+        "descendants": 21,
+        "by": "flowercalled",
+        "tags": [
+          "Security"
+        ],
+        "summary": "斯科特·阿伦森探讨了美国目前面临的深层隐私危机，呼吁对数据收集行为进行更严格的审视。"
+      },
+      {
+        "id": 48768464,
+        "title": "crustc: entirety of `rustc`, translated to C",
+        "url": "https://github.com/FractalFir/crustc",
+        "domain": "github.com",
+        "score": 126,
+        "descendants": 27,
+        "by": "Philpax",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一个开源项目尝试将整个Rust编译器（rustc）翻译为C语言代码。"
+      },
+      {
+        "id": 48768997,
+        "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+        "domain": "forms.cloud.microsoft",
+        "score": 48,
+        "descendants": 29,
+        "by": "throwaway2027",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "GitHub推出怀旧式服务，允许用户订购包含公共存储库代码的实体CD-ROM合集。"
+      },
+      {
+        "id": 48769397,
+        "title": "CarPlay Is Additive",
+        "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+        "domain": "caseyliss.com",
+        "score": 24,
+        "descendants": 19,
+        "by": "sprawl_",
+        "tags": [],
+        "summary": "作者分析CarPlay在驾驶体验中并非干扰，而是作为提升效率的补充性工具。"
+      },
+      {
+        "id": 48702874,
+        "title": "Reality has a surprising amount of detail (2017)",
+        "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+        "domain": "johnsalvatier.org",
+        "score": 139,
+        "descendants": 47,
+        "by": "vinhnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重温经典文章，探讨现实世界中蕴含的复杂细节与不可预测的自然法则。"
+      },
+      {
+        "id": 48765663,
+        "title": "Exapunks (2018)",
+        "url": "https://www.zachtronics.com/exapunks/",
+        "domain": "zachtronics.com",
+        "score": 219,
+        "descendants": 79,
+        "by": "yu3zhou4",
+        "tags": [],
+        "summary": "回顾Zachtronics开发的硬核编程解谜游戏《Exapunks》，探讨其在极客群体中的影响力。"
+      },
+      {
+        "id": 48763035,
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "domain": "mathstodon.xyz",
+        "score": 401,
+        "descendants": 188,
+        "by": "IngoBlechschmid",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "Linux 6.9版本后存在的严重安全隐患：系统挂起时无法彻底清除内存中的磁盘加密密钥。"
+      },
+      {
+        "id": 48768336,
+        "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+        "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+        "domain": "dailymail.com",
+        "score": 49,
+        "descendants": 20,
+        "by": "FireBeyond",
+        "tags": [],
+        "summary": "珠穆朗玛峰著名登山遇难者“绿靴子”的身份通过DNA检测技术得到确认。"
+      },
+      {
+        "id": 48768951,
+        "title": "Right to Local Intelligence",
+        "url": "https://righttointelligence.org/",
+        "domain": "righttointelligence.org",
+        "score": 24,
+        "descendants": 6,
+        "by": "thoughtpeddler",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "倡议书探讨在人工智能时代，公众应拥有的对于本地智能化决策的权利与控制力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hunton.com",
+          "count": 1
+        },
+        {
+          "domain": "scottaaronson.blog",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 162,
+      "max_score": {
+        "title": "Virginia bans sale of geolocation data",
+        "score": 468
+      },
+      "most_discussed": {
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "comments": 188
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Rust",
+        "Open Source",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点聚焦于隐私保护与安全议题，包括维吉尼亚州禁止地理位置数据销售及Linux内核安全漏洞的讨论。此外，社区关注点还延伸至编程语言生态的趣味实验、技术怀旧及数字时代的现实社会影响。"
+  }
+}
