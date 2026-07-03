@@ -160,5 +160,162 @@
       ]
     },
     "summary": "今日Hacker News重点聚焦于隐私保护与安全议题，包括维吉尼亚州禁止地理位置数据销售及Linux内核安全漏洞的讨论。此外，社区关注点还延伸至编程语言生态的趣味实验、技术怀旧及数字时代的现实社会影响。"
+  },
+  "noon": {
+    "time": "2026-07-03 14:52",
+    "stories": [
+      {
+        "id": 48770647,
+        "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+        "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+        "domain": "stefan.schueller.net",
+        "score": 342,
+        "descendants": 218,
+        "by": "talonx",
+        "tags": [],
+        "summary": "探讨瑞士互联网基础设施的优越性与美国市场机制间的差异，剖析自由市场论点在宽带建设中的局限性。"
+      },
+      {
+        "id": 48767347,
+        "title": "Virginia bans sale of geolocation data",
+        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "domain": "hunton.com",
+        "score": 688,
+        "descendants": 117,
+        "by": "toomuchtodo",
+        "tags": [],
+        "summary": "弗吉尼亚州通过新法案，明确禁止销售个人地理位置数据，进一步强化了公民数字隐私保护。"
+      },
+      {
+        "id": 48769397,
+        "title": "CarPlay Is Additive",
+        "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+        "domain": "caseyliss.com",
+        "score": 199,
+        "descendants": 244,
+        "by": "sprawl_",
+        "tags": [],
+        "summary": "作者分析CarPlay作为车载附加系统的设计理念及其在提升驾驶交互体验中的角色。"
+      },
+      {
+        "id": 48768951,
+        "title": "Right to Local Intelligence",
+        "url": "https://righttointelligence.org/",
+        "domain": "righttointelligence.org",
+        "score": 143,
+        "descendants": 57,
+        "by": "thoughtpeddler",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "呼吁维护“本地智能”权利，倡导用户对本地设备上的数据与计算资源拥有自主控制权。"
+      },
+      {
+        "id": 48768464,
+        "title": "crustc: entirety of `rustc`, translated to C",
+        "url": "https://github.com/FractalFir/crustc",
+        "domain": "github.com",
+        "score": 231,
+        "descendants": 39,
+        "by": "Philpax",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一个有趣的开源实验项目，将整个Rust编译器（rustc）翻译为C语言代码实现。"
+      },
+      {
+        "id": 48763035,
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "domain": "mathstodon.xyz",
+        "score": 440,
+        "descendants": 197,
+        "by": "IngoBlechschmid",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "指出自Linux 6.9版本以来，LUKS挂起机制存在的安全漏洞，即未能正确从内存中清除磁盘加密密钥。"
+      },
+      {
+        "id": 48702874,
+        "title": "Reality has a surprising amount of detail (2017)",
+        "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+        "domain": "johnsalvatier.org",
+        "score": 219,
+        "descendants": 78,
+        "by": "vinhnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重温经典文章，通过科学视角阐述客观现实中蕴含的复杂细节与不可预测性。"
+      },
+      {
+        "id": 48765663,
+        "title": "Exapunks (2018)",
+        "url": "https://www.zachtronics.com/exapunks/",
+        "domain": "zachtronics.com",
+        "score": 264,
+        "descendants": 89,
+        "by": "yu3zhou4",
+        "tags": [],
+        "summary": "推荐Zachtronics开发的硬核编程游戏《Exapunks》，带玩家深入破解与黑客指令的世界。"
+      },
+      {
+        "id": 48759634,
+        "title": "PeerTube is a free, decentralized and federated video platform",
+        "url": "https://github.com/Chocobozzz/PeerTube",
+        "domain": "github.com",
+        "score": 592,
+        "descendants": 274,
+        "by": "doener",
+        "tags": [],
+        "summary": "介绍PeerTube平台，一个旨在对抗巨头垄断的去中心化、联邦制视频托管解决方案。"
+      },
+      {
+        "id": 48762098,
+        "title": "Podman v6.0.0",
+        "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+        "domain": "blog.podman.io",
+        "score": 475,
+        "descendants": 187,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "Podman发布v6.0.0版本，带来了容器管理领域的性能提升与功能更新。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "stefan.schueller.net",
+          "count": 1
+        },
+        {
+          "domain": "hunton.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 359,
+      "max_score": {
+        "title": "Virginia bans sale of geolocation data",
+        "score": 688
+      },
+      "most_discussed": {
+        "title": "PeerTube is a free, decentralized and federated video platform",
+        "comments": 274
+      },
+      "hot_tags": [
+        "Hardware",
+        "Rust",
+        "Systems",
+        "Security",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于技术基础设施、隐私监管与开源工具的演进。话题涵盖了互联网市场竞争与地理位置数据立法，以及从底层加密漏洞到分布式视频平台等广泛的技术议题，体现了技术界对数字主权与系统健壮性的持续关注。"
   }
 }
