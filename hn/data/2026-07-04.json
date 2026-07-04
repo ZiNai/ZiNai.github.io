@@ -153,5 +153,157 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于底层算力优化与AI技术进展，包括高性能模型推理与本地LLM运行指南。同时，工程实践与网络安全领域也表现活跃，涵盖了生物学机制、硬件自动化改造及系统权限漏洞分析等多样化主题。"
+  },
+  "noon": {
+    "time": "2026-07-04 14:38",
+    "stories": [
+      {
+        "id": 48782671,
+        "title": "Agentic coding notes from Galapagos Island",
+        "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+        "domain": "danluu.com",
+        "score": 47,
+        "descendants": 19,
+        "by": "gm678",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者分享了在加拉帕戈斯群岛进行 Agentic 编码工作的实践笔记与思考。"
+      },
+      {
+        "id": 48780417,
+        "title": "Performance per dollar is getting faster and cheaper",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "domain": "wafer.ai",
+        "score": 200,
+        "descendants": 61,
+        "by": "latchkey",
+        "tags": [],
+        "summary": "文章论证了当前计算机硬件的性价比正在快速提升。"
+      },
+      {
+        "id": 48780801,
+        "title": "Leanstral 1.5: Proof abundance for all",
+        "url": "https://mistral.ai/news/leanstral-1-5/",
+        "domain": "mistral.ai",
+        "score": 175,
+        "descendants": 40,
+        "by": "programLyrique",
+        "tags": [],
+        "summary": "Mistral 发布了 Leanstral 1.5，旨在实现数学证明的普及化。"
+      },
+      {
+        "id": 48780870,
+        "title": "Giant trees have no trouble pumping water to top branches: new research",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+        "domain": "news.exeter.ac.uk",
+        "score": 164,
+        "descendants": 85,
+        "by": "hhs",
+        "tags": [
+          "Science"
+        ],
+        "summary": "最新科研揭示了巨型树木如何克服重力将水分输送至顶端枝叶的奥秘。"
+      },
+      {
+        "id": 48739018,
+        "title": "Mir Books – Books from the Soviet Era",
+        "url": "https://mirtitles.org",
+        "domain": "mirtitles.org",
+        "score": 26,
+        "descendants": 6,
+        "by": "clmul",
+        "tags": [],
+        "summary": "盘点并回顾了苏联时期出版的高质量 Mir 图书资源。"
+      },
+      {
+        "id": 48782219,
+        "title": "Synthesis is harder than analysis",
+        "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+        "domain": "surfingcomplexity.blog",
+        "score": 42,
+        "descendants": 9,
+        "by": "azhenley",
+        "tags": [],
+        "summary": "探讨了为何创造性综合（Synthesis）比单纯的分析（Analysis）更具挑战性。"
+      },
+      {
+        "id": 48781688,
+        "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+        "url": "https://mrbruh.com/msicenter/",
+        "domain": "mrbruh.com",
+        "score": 67,
+        "descendants": 14,
+        "by": "MrBruh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "详细披露了利用 MSI Center 软件漏洞在数秒内获取系统级权限的技术细节。"
+      },
+      {
+        "id": 48780865,
+        "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+        "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+        "domain": "github.com",
+        "score": 115,
+        "descendants": 22,
+        "by": "zdw",
+        "tags": [],
+        "summary": "展示了如何利用计算机视觉技术实现 Steam 控制器的磁吸自动充电改造。"
+      },
+      {
+        "id": 48783020,
+        "title": "Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It",
+        "url": "https://oztalking.com/en/issues/bloomberg-terminal-lock-in",
+        "domain": "oztalking.com",
+        "score": 3,
+        "descendants": 1,
+        "by": "haebom",
+        "tags": [],
+        "summary": "分析了为何尽管界面老旧笨重，Bloomberg 终端在金融界仍无可替代。"
+      },
+      {
+        "id": 48779454,
+        "title": "SearXNG: A free internet metasearch engine",
+        "url": "https://github.com/searxng/searxng",
+        "domain": "github.com",
+        "score": 189,
+        "descendants": 49,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "介绍开源元搜索引擎 SearXNG，强调其在保护隐私和自由搜索方面的特性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "danluu.com",
+          "count": 1
+        },
+        {
+          "domain": "wafer.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 103,
+      "max_score": {
+        "title": "Performance per dollar is getting faster and cheaper",
+        "score": 200
+      },
+      "most_discussed": {
+        "title": "Giant trees have no trouble pumping water to top branches: new research",
+        "comments": 85
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术进步与硬件性能优化，涵盖了代码代理、模型性能及搜索工具的进展。此外，科学研究、系统安全漏洞及复古技术探索也是社区讨论的重要方向。"
   }
 }
