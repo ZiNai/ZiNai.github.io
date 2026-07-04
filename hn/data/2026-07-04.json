@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-07-04 09:46",
+    "stories": [
+      {
+        "id": 48780870,
+        "title": "Giant trees have no trouble pumping water to top branches",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+        "domain": "news.exeter.ac.uk",
+        "score": 77,
+        "descendants": 37,
+        "by": "hhs",
+        "tags": [],
+        "summary": "研究揭示了巨树如何通过物理机制克服重力，实现水分向顶端枝叶的高效输送。"
+      },
+      {
+        "id": 48780801,
+        "title": "Leanstral 1.5: Proof Abundance for All",
+        "url": "https://mistral.ai/news/leanstral-1-5/",
+        "domain": "mistral.ai",
+        "score": 79,
+        "descendants": 19,
+        "by": "programLyrique",
+        "tags": [],
+        "summary": "Mistral发布Leanstral 1.5，旨在通过数学证明的丰富性优化模型推理与性能。"
+      },
+      {
+        "id": 48781688,
+        "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+        "url": "https://mrbruh.com/msicenter/",
+        "domain": "mrbruh.com",
+        "score": 17,
+        "descendants": 3,
+        "by": "MrBruh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析了MSI Center软件存在的严重漏洞，展示了攻击者如何利用其在数秒内获取SYSTEM权限。"
+      },
+      {
+        "id": 48780865,
+        "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+        "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+        "domain": "github.com",
+        "score": 64,
+        "descendants": 10,
+        "by": "zdw",
+        "tags": [],
+        "summary": "开发者通过计算机视觉技术，成功改造Steam控制器以适配磁吸自动充电功能。"
+      },
+      {
+        "id": 48780417,
+        "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "domain": "wafer.ai",
+        "score": 83,
+        "descendants": 20,
+        "by": "latchkey",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "报告称在AMD MI355X硬件上运行GLM5.2展现了极高吞吐量，且成本较NVIDIA Blackwell显著降低。"
+      },
+      {
+        "id": 48779454,
+        "title": "SearXNG: A free internet metasearch engine",
+        "url": "https://github.com/searxng/searxng",
+        "domain": "github.com",
+        "score": 130,
+        "descendants": 40,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "介绍开源的SearXNG元搜索引擎，强调其保护隐私、无追踪的互联网搜索体验。"
+      },
+      {
+        "id": 48780996,
+        "title": "The circuit that lets your brain think and see",
+        "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+        "domain": "engineering.columbia.edu",
+        "score": 33,
+        "descendants": 4,
+        "by": "hhs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "哥伦比亚大学研究团队解析了支撑大脑认知与视觉处理的核心神经回路机制。"
+      },
+      {
+        "id": 48780913,
+        "title": "Amsterdam invented the fire department",
+        "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+        "domain": "worksinprogress.co",
+        "score": 36,
+        "descendants": 9,
+        "by": "zdw",
+        "tags": [],
+        "summary": "回顾阿姆斯特丹的历史，探讨该城市如何建立并定义了现代意义上的消防部门制度。"
+      },
+      {
+        "id": 48781597,
+        "title": "Soatok's Informal Guide to Threat Models",
+        "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+        "domain": "soatok.blog",
+        "score": 27,
+        "descendants": 2,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇关于威胁建模的通俗指南，帮助开发者评估并应对潜在的软件安全风险。"
+      },
+      {
+        "id": 48775921,
+        "title": "Jamesob's guide to running SOTA LLMs locally",
+        "url": "https://github.com/jamesob/local-llm",
+        "domain": "github.com",
+        "score": 274,
+        "descendants": 125,
+        "by": "livestyle",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一份详尽的实战手册，指导用户如何在本地高性能运行最先进的开源大语言模型。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "news.exeter.ac.uk",
+          "count": 1
+        },
+        {
+          "domain": "mistral.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 82,
+      "max_score": {
+        "title": "Jamesob's guide to running SOTA LLMs locally",
+        "score": 274
+      },
+      "most_discussed": {
+        "title": "Jamesob's guide to running SOTA LLMs locally",
+        "comments": 125
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于底层算力优化与AI技术进展，包括高性能模型推理与本地LLM运行指南。同时，工程实践与网络安全领域也表现活跃，涵盖了生物学机制、硬件自动化改造及系统权限漏洞分析等多样化主题。"
+  }
+}
