@@ -308,5 +308,163 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了Web开发基础设施的变动、复古游戏工程移植，以及AI在代码编辑与性能研究方面的最新动态。此外，科学界对生物再生机制的探索与数据存档的版权赏金计划也引发了社区讨论。"
+  },
+  "evening": {
+    "time": "2026-07-05 21:21",
+    "stories": [
+      {
+        "id": 48793492,
+        "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
+        "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+        "domain": "acc.org",
+        "score": 28,
+        "descendants": 7,
+        "by": "RickJWagner",
+        "tags": [],
+        "summary": "研究表明长期使用大麻会显著增加心脏病发作的风险，呼吁关注相关公共健康影响。"
+      },
+      {
+        "id": 48791328,
+        "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+        "url": "https://ui.shadcn.com/docs/changelog",
+        "domain": "ui.shadcn.com",
+        "score": 189,
+        "descendants": 73,
+        "by": "dabinat",
+        "tags": [],
+        "summary": "shadcn/ui组件库正式将底层架构由Radix切换为Base UI，引发关于生态兼容性的讨论。"
+      },
+      {
+        "id": 48793542,
+        "title": "Show HN: KiCad in the Browser",
+        "url": "https://demo.pcbjam.com/",
+        "domain": "demo.pcbjam.com",
+        "score": 11,
+        "descendants": 2,
+        "by": "ViktorEE",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "展示了一个可以直接在浏览器中运行KiCad电路板设计的开源项目。"
+      },
+      {
+        "id": 48790689,
+        "title": "If you're a button, you have one job",
+        "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+        "domain": "unsung.aresluna.org",
+        "score": 330,
+        "descendants": 160,
+        "by": "nozzlegear",
+        "tags": [],
+        "summary": "深度剖析网页设计中的按钮交互逻辑，强调用户体验应回归简单与直觉。"
+      },
+      {
+        "id": 48792399,
+        "title": "Claude Design System Prompt",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "domain": "github.com",
+        "score": 60,
+        "descendants": 13,
+        "by": "handfuloflight",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享了一份用于构建Claude风格设计系统的Prompt指南，旨在提升AI辅助设计的规范性。"
+      },
+      {
+        "id": 48746933,
+        "title": "Trust your compiler: Modern C++",
+        "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
+        "domain": "categorica.io",
+        "score": 15,
+        "descendants": 4,
+        "by": "foxhill",
+        "tags": [
+          "Rust",
+          "Systems"
+        ],
+        "summary": "探讨现代C++编译器的优化能力，建议开发者应更加信任编译器的自动优化处理。"
+      },
+      {
+        "id": 48792008,
+        "title": "Fast Software, the Best Software (2019)",
+        "url": "https://craigmod.com/essays/fast_software/",
+        "domain": "craigmod.com",
+        "score": 61,
+        "descendants": 29,
+        "by": "ustad",
+        "tags": [],
+        "summary": "重温2019年经典文章，探讨速度在现代软件开发中作为核心竞争力与用户体验的重要性。"
+      },
+      {
+        "id": 48793454,
+        "title": "Introduction to Compilers and Language Design",
+        "url": "https://dthain.github.io/books/compiler/",
+        "domain": "dthain.github.io",
+        "score": 8,
+        "descendants": 0,
+        "by": "AlexeyBrin",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一份关于编译器构造与程序语言设计的入门教程，涵盖了从理论到实践的基础知识。"
+      },
+      {
+        "id": 48773079,
+        "title": "Pandoc Lua Filters",
+        "url": "https://pandoc.org/lua-filters.html",
+        "domain": "pandoc.org",
+        "score": 91,
+        "descendants": 5,
+        "by": "ankitg12",
+        "tags": [],
+        "summary": "详细介绍了Pandoc的Lua过滤器功能，通过脚本化方式扩展文档转换的灵活性。"
+      },
+      {
+        "id": 48792195,
+        "title": "Knowledge Should Not Be Gated",
+        "url": "https://www.formaly.io/blog/knowledge-should-not-be-gated",
+        "domain": "formaly.io",
+        "score": 30,
+        "descendants": 11,
+        "by": "nezhar",
+        "tags": [],
+        "summary": "主张知识共享的价值，讨论了为何应当打破技术文档与知识库的访问门槛。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "acc.org",
+          "count": 1
+        },
+        {
+          "domain": "ui.shadcn.com",
+          "count": 1
+        },
+        {
+          "domain": "demo.pcbjam.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 82,
+      "max_score": {
+        "title": "If you're a button, you have one job",
+        "score": 330
+      },
+      "most_discussed": {
+        "title": "If you're a button, you have one job",
+        "comments": 160
+      },
+      "hot_tags": [
+        "Systems",
+        "Web",
+        "Show HN",
+        "AI",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于前端开发工具的演进，特别是shadcn/ui架构调整及设计规范的相关讨论。此外，编译器原理、电子设计自动化（KiCad）以及软件性能优化等硬核技术主题依然是开发者社区关注的核心，反映了对高效、开放技术工具的持续探索。"
   }
 }
