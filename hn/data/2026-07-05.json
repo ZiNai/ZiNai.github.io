@@ -157,5 +157,156 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在科技安全漏洞披露、生物医学前沿研究以及AI模型性能反思。社区讨论覆盖了从操作系统移植和性能调优等技术实践，到数据隐私与AI发展趋势的深度探讨，展现了极客圈对技术深度与社会影响力的双重关注。"
+  },
+  "noon": {
+    "time": "2026-07-05 14:58",
+    "stories": [
+      {
+        "id": 48791328,
+        "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+        "url": "https://ui.shadcn.com/docs/changelog",
+        "domain": "ui.shadcn.com",
+        "score": 70,
+        "descendants": 15,
+        "by": "dabinat",
+        "tags": [],
+        "summary": "Shadcn/UI宣布底层架构从Radix迁移至Base UI，旨在提升组件库的灵活性与维护性。"
+      },
+      {
+        "id": 48788283,
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "domain": "github.com",
+        "score": 495,
+        "descendants": 206,
+        "by": "asronline",
+        "tags": [],
+        "summary": "开源项目Fable成功将《命令与征服：将军》移植至macOS及iOS平台，实现了经典即时战略游戏的现代运行。"
+      },
+      {
+        "id": 48790689,
+        "title": "If you're a button, you have one job",
+        "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+        "domain": "unsung.aresluna.org",
+        "score": 125,
+        "descendants": 35,
+        "by": "nozzlegear",
+        "tags": [],
+        "summary": "探讨UI按钮设计的基本原则，强调简洁性与功能直观性在用户交互中的重要性。"
+      },
+      {
+        "id": 48791380,
+        "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://hic-ai.com",
+        "domain": "hic-ai.com",
+        "score": 17,
+        "descendants": 19,
+        "by": "handfuloflight",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款名为Mouse的新型编辑器工具，专为提升AI编程代理的代码编辑精度与效率而设计。"
+      },
+      {
+        "id": 48791591,
+        "title": "Megawatts by Microwave",
+        "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+        "domain": "computer.rip",
+        "score": 8,
+        "descendants": 0,
+        "by": "eternauta3k",
+        "tags": [],
+        "summary": "探讨通过微波炉能源效率进行计算的研究，展示了另类的硬件性能边界探索。"
+      },
+      {
+        "id": 48791440,
+        "title": "Beeg float library, a Rust port of Fabrice Bellard's libbf",
+        "url": "https://github.com/lifthrasiir/libbeef",
+        "domain": "github.com",
+        "score": 10,
+        "descendants": 2,
+        "by": "serialx",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Fabrice Bellard的libbf库的Rust移植版本，为高性能大浮点数运算提供了新选择。"
+      },
+      {
+        "id": 48789428,
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "domain": "github.com",
+        "score": 230,
+        "descendants": 80,
+        "by": "maille",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析指出GPT-5.5的推理Token聚类机制可能导致模型性能下降，引发开发者对AI模型稳定性的讨论。"
+      },
+      {
+        "id": 48786838,
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "domain": "software.annas-archive.gl",
+        "score": 422,
+        "descendants": 228,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "Anna's Archive发布20万美元赏金，旨在获取包含Google Books在内的全量数字化图书扫描数据。"
+      },
+      {
+        "id": 48789712,
+        "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+        "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+        "domain": "mbl.edu",
+        "score": 92,
+        "descendants": 18,
+        "by": "hhs",
+        "tags": [],
+        "summary": "研究人员正在探索水母快速自愈的生物学机制，意图将其应用于医学与组织修复领域。"
+      },
+      {
+        "id": 48751144,
+        "title": "Artful Cats: Feline-Inspired Art and Artifacts",
+        "url": "https://www.si.edu/spotlight/art-cats",
+        "domain": "si.edu",
+        "score": 28,
+        "descendants": 3,
+        "by": "jruohonen",
+        "tags": [],
+        "summary": "史密森尼学会展示的一系列猫科动物主题艺术作品与历史文物赏析。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "ui.shadcn.com",
+          "count": 1
+        },
+        {
+          "domain": "unsung.aresluna.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 150,
+      "max_score": {
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "score": 495
+      },
+      "most_discussed": {
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "comments": 228
+      },
+      "hot_tags": [
+        "AI",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了Web开发基础设施的变动、复古游戏工程移植，以及AI在代码编辑与性能研究方面的最新动态。此外，科学界对生物再生机制的探索与数据存档的版权赏金计划也引发了社区讨论。"
   }
 }
