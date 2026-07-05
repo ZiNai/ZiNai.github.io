@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-07-05 09:51",
+    "stories": [
+      {
+        "id": 48790066,
+        "title": "Scientists reverse brain aging, with a nasal spray",
+        "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+        "domain": "stories.tamu.edu",
+        "score": 124,
+        "descendants": 45,
+        "by": "cybermango",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "科学家开发出一种鼻喷雾剂，在动物实验中成功逆转了大脑衰老迹象。"
+      },
+      {
+        "id": 48788283,
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "domain": "github.com",
+        "score": 355,
+        "descendants": 142,
+        "by": "asronline",
+        "tags": [],
+        "summary": "开发者利用 Fable 引擎将《命令与征服：将军》成功移植至 macOS、iPhone 和 iPad 平台。"
+      },
+      {
+        "id": 48789428,
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "domain": "github.com",
+        "score": 143,
+        "descendants": 45,
+        "by": "maille",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 GPT-5.5 Codex 的推理 token 聚类行为是否正导致模型性能退化。"
+      },
+      {
+        "id": 48786838,
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "domain": "software.annas-archive.gl",
+        "score": 340,
+        "descendants": 167,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "Anna's Archive 发出 20 万美元悬赏，征集 Google Books 及其他来源的全量图书扫描件。"
+      },
+      {
+        "id": 48789712,
+        "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+        "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+        "domain": "mbl.edu",
+        "score": 34,
+        "descendants": 6,
+        "by": "hhs",
+        "tags": [],
+        "summary": "研究人员正在探索水母伤口快速愈合的生物机制，以期在医学领域获得突破。"
+      },
+      {
+        "id": 48786781,
+        "title": "Leaking YouTube creators' private videos",
+        "url": "https://javoriuski.com/post/youtube",
+        "domain": "javoriuski.com",
+        "score": 481,
+        "descendants": 271,
+        "by": "javxfps",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "安全研究者披露了一个能够泄露 YouTube 创作者非公开视频的漏洞。"
+      },
+      {
+        "id": 48788599,
+        "title": "Better Models: Worse Tools",
+        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+        "domain": "lucumr.pocoo.org",
+        "score": 90,
+        "descendants": 29,
+        "by": "leemoore",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对当前AI模型日益强大但配套工具链反而愈发复杂、低效的现象进行反思。"
+      },
+      {
+        "id": 48790036,
+        "title": "Reflections on the Guillotine",
+        "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+        "domain": "theanarchistlibrary.org",
+        "score": 14,
+        "descendants": 1,
+        "by": "halperter",
+        "tags": [],
+        "summary": "阿尔贝·加缪关于死刑及道德问题的经典批判性文章。"
+      },
+      {
+        "id": 48784777,
+        "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+        "url": "https://peteris.rocks/blog/htop/",
+        "domain": "peteris.rocks",
+        "score": 395,
+        "descendants": 52,
+        "by": "theanonymousone",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一份深度解读 Linux 系统 htop 和 top 工具中各项参数与指标含义的指南。"
+      },
+      {
+        "id": 48785485,
+        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+        "url": "https://github.com/anthropics/claude-code/issues/74066",
+        "domain": "github.com",
+        "score": 272,
+        "descendants": 128,
+        "by": "chatmasta",
+        "tags": [
+          "Science"
+        ],
+        "summary": "披露了多租户工作区或消费者账号间存在的潜在会话与缓存泄露安全风险。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "stories.tamu.edu",
+          "count": 1
+        },
+        {
+          "domain": "software.annas-archive.gl",
+          "count": 1
+        }
+      ],
+      "avg_score": 225,
+      "max_score": {
+        "title": "Leaking YouTube creators' private videos",
+        "score": 481
+      },
+      "most_discussed": {
+        "title": "Leaking YouTube creators' private videos",
+        "comments": 271
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技安全漏洞披露、生物医学前沿研究以及AI模型性能反思。社区讨论覆盖了从操作系统移植和性能调优等技术实践，到数据隐私与AI发展趋势的深度探讨，展现了极客圈对技术深度与社会影响力的双重关注。"
+  }
+}
