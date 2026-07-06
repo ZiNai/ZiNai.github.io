@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-07-06 09:58",
+    "stories": [
+      {
+        "id": 48797916,
+        "title": "OpenPrinter",
+        "url": "https://www.opentools.studio/",
+        "domain": "opentools.studio",
+        "score": 442,
+        "descendants": 112,
+        "by": "bouh",
+        "tags": [],
+        "summary": "OpenPrinter是一个旨在简化打印体验的开源工具。"
+      },
+      {
+        "id": 48799614,
+        "title": "GPT-5.6 Sol Ultra will be in Codex",
+        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "domain": "twitter.com",
+        "score": 27,
+        "descendants": 4,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于GPT-5.6 Sol Ultra模型将整合进Codex的讨论。"
+      },
+      {
+        "id": 48799256,
+        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+        "domain": "readtheline.ca",
+        "score": 76,
+        "descendants": 22,
+        "by": "ClearwayLaw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章批评了加拿大政府在AI战略中涉及秘密合同的透明度问题。"
+      },
+      {
+        "id": 48799155,
+        "title": "Has_not_been_viewed_much",
+        "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+        "domain": "iamwillwang.com",
+        "score": 78,
+        "descendants": 19,
+        "by": "wxw",
+        "tags": [],
+        "summary": "作者分享了关于“未被广泛查看”内容背后的个人思考。"
+      },
+      {
+        "id": 48794446,
+        "title": "Organic Maps",
+        "url": "https://organicmaps.app/",
+        "domain": "organicmaps.app",
+        "score": 812,
+        "descendants": 226,
+        "by": "tosh",
+        "tags": [],
+        "summary": "Organic Maps是一个主打隐私与离线功能的开源地图应用。"
+      },
+      {
+        "id": 48798153,
+        "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+        "url": "https://homegames.io",
+        "domain": "homegames.io",
+        "score": 89,
+        "descendants": 30,
+        "by": "homegamesjoseph",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "开发者展示了其历时8年打造的开源游戏平台项目。"
+      },
+      {
+        "id": 48798061,
+        "title": "Completing a computer science degree on Coursera",
+        "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+        "domain": "notesbylex.com",
+        "score": 97,
+        "descendants": 65,
+        "by": "lexandstuff",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者分享了通过Coursera完成计算机科学学位的完整心得。"
+      },
+      {
+        "id": 48799026,
+        "title": "Connections in Math: the two kinds of random",
+        "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+        "domain": "stillthinking.net",
+        "score": 20,
+        "descendants": 9,
+        "by": "pcael",
+        "tags": [],
+        "summary": "探讨数学中两种不同类型的随机性及其内在联系。"
+      },
+      {
+        "id": 48794750,
+        "title": "It's not about physical vs. digital games, it's about ownership",
+        "url": "https://popcar.bearblog.dev/its-about-ownership/",
+        "domain": "popcar.bearblog.dev",
+        "score": 321,
+        "descendants": 236,
+        "by": "popcar2",
+        "tags": [],
+        "summary": "深度分析数字游戏时代下，用户对资产“所有权”的定义与核心矛盾。"
+      },
+      {
+        "id": 48798815,
+        "title": "Does Code Cleanliness Affect Coding Agents?",
+        "url": "https://arxiv.org/abs/2605.20049",
+        "domain": "arxiv.org",
+        "score": 23,
+        "descendants": 3,
+        "by": "softwaredoug",
+        "tags": [],
+        "summary": "探讨代码整洁度对AI编程代理性能的具体影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "opentools.studio",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "readtheline.ca",
+          "count": 1
+        }
+      ],
+      "avg_score": 198,
+      "max_score": {
+        "title": "Organic Maps",
+        "score": 812
+      },
+      "most_discussed": {
+        "title": "It's not about physical vs. digital games, it's about ownership",
+        "comments": 236
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于软件工具与开源项目，涵盖了地理位置导航、游戏平台开发及教育资源评价。同时，技术社区对于AI代理的性能影响、政府人工智能政策的透明度以及数字时代所有权议题展开了深入探讨。"
+  }
+}
