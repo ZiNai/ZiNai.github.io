@@ -162,5 +162,156 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术的小型化与边缘计算，探讨了在受限环境下部署模型的实用性。同时，开源硬件与自主黑客文化依旧活跃，硬件创新与生物技术 DIY 等小众但硬核的极客项目引发了热烈讨论。"
+  },
+  "noon": {
+    "time": "2026-07-07 15:27",
+    "stories": [
+      {
+        "id": 48811591,
+        "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+        "url": "https://github.com/MaximeRivest/Riddle",
+        "domain": "github.com",
+        "score": 381,
+        "descendants": 207,
+        "by": "modinfo",
+        "tags": [],
+        "summary": "通过 Fable 项目将 reMarkable 电子阅读器改造为类似《哈利·波特》中汤姆·里德尔的魔法日记。"
+      },
+      {
+        "id": 48808482,
+        "title": "OpenWrt One – Open Hardware Router",
+        "url": "https://openwrt.org/toh/openwrt/one",
+        "domain": "openwrt.org",
+        "score": 555,
+        "descendants": 220,
+        "by": "peter_d_sherman",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "OpenWrt 推出官方开源硬件路由器 OpenWrt One，旨在提供高性能且完全可控的路由平台。"
+      },
+      {
+        "id": 48808928,
+        "title": "CoMaps – FOSS Offline Maps",
+        "url": "https://www.comaps.app/",
+        "domain": "comaps.app",
+        "score": 476,
+        "descendants": 93,
+        "by": "basilikum",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍一款名为 CoMaps 的开源离线地图应用，强调隐私保护与完全离线的使用体验。"
+      },
+      {
+        "id": 48809877,
+        "title": "GLM 5.2 and the coming AI margin collapse",
+        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "domain": "martinalderson.com",
+        "score": 341,
+        "descendants": 211,
+        "by": "martinald",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 GLM 5.2 模型的性能及其可能引发的 AI 领域利润率崩盘现象。"
+      },
+      {
+        "id": 48812156,
+        "title": "How to sequence your own DNA at home",
+        "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+        "domain": "bradleywoolf.com",
+        "score": 162,
+        "descendants": 56,
+        "by": "bilsbie",
+        "tags": [],
+        "summary": "技术指南，详细介绍了个人在家庭环境下进行 DNA 测序的步骤与所需设备。"
+      },
+      {
+        "id": 48812055,
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "domain": "spectrum.ieee.org",
+        "score": 112,
+        "descendants": 25,
+        "by": "sscaryterry",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析小型 AI 模型在网络基础设施较差地区的崛起与实际应用价值。"
+      },
+      {
+        "id": 48811644,
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "url": "https://ternlight-demo.vercel.app/",
+        "domain": "ternlight-demo.vercel.app",
+        "score": 189,
+        "descendants": 45,
+        "by": "soycaporal",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "展示 Ternlight，一款仅需 7MB 且可在浏览器 WASM 环境中高效运行的嵌入式模型。"
+      },
+      {
+        "id": 48786124,
+        "title": "Dolosse – a South African invention used over the world",
+        "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+        "domain": "thisbugslife.com",
+        "score": 19,
+        "descendants": 3,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "回顾南非发明的消波块（Dolosse），解释这种防浪结构如何在全球海洋防御中发挥作用。"
+      },
+      {
+        "id": 48808002,
+        "title": "A global workspace in language models",
+        "url": "https://www.anthropic.com/research/global-workspace",
+        "domain": "anthropic.com",
+        "score": 346,
+        "descendants": 126,
+        "by": "in-silico",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "Anthropic 的研究文章，探讨语言模型中实现类似人类“全局工作空间”机制的理论与实践。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "openwrt.org",
+          "count": 1
+        },
+        {
+          "domain": "comaps.app",
+          "count": 1
+        }
+      ],
+      "avg_score": 287,
+      "max_score": {
+        "title": "OpenWrt One – Open Hardware Router",
+        "score": 555
+      },
+      "most_discussed": {
+        "title": "OpenWrt One – Open Hardware Router",
+        "comments": 220
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Open Source",
+        "Web",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿应用与硬件创新上，小型化 AI 模型在本地及边缘端的部署成为热门议题。同时，开源硬件与黑客精神相关的个性化改造项目也引发了社区的广泛关注。"
   }
 }
