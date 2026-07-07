@@ -313,5 +313,149 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿应用与硬件创新上，小型化 AI 模型在本地及边缘端的部署成为热门议题。同时，开源硬件与黑客精神相关的个性化改造项目也引发了社区的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-07-07 22:21",
+    "stories": [
+      {
+        "id": 48816883,
+        "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+        "url": "https://streetcomplete.app/",
+        "domain": "streetcomplete.app",
+        "score": 128,
+        "descendants": 30,
+        "by": "kls0e",
+        "tags": [],
+        "summary": "介绍如何通过简单的小任务改善OpenStreetMap数据的众包工具。"
+      },
+      {
+        "id": 48816956,
+        "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+        "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+        "domain": "youtube.com",
+        "score": 106,
+        "descendants": 30,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "一段演示如何更稳固地系好健身短裤及其他抽绳的实用技巧视频。"
+      },
+      {
+        "id": 48816612,
+        "title": "Europe's company websites are mostly served by US vendors",
+        "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+        "domain": "ciphercue.com",
+        "score": 113,
+        "descendants": 81,
+        "by": "adulion",
+        "tags": [
+          "Web"
+        ],
+        "summary": "分析指出欧洲企业官网高度依赖美国服务商，引发对数据主权与技术自主性的讨论。"
+      },
+      {
+        "id": 48816959,
+        "title": "98% Isn't Much",
+        "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+        "domain": "whynothugo.nl",
+        "score": 162,
+        "descendants": 140,
+        "by": "speckx",
+        "tags": [],
+        "summary": "通过量化视角探讨“98%”这一数字在不同语境下的实际意义与误区。"
+      },
+      {
+        "id": 48816003,
+        "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+        "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+        "domain": "nwo.nl",
+        "score": 169,
+        "descendants": 136,
+        "by": "28304283409234",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨为何顶尖科研人员正从美国迁往荷兰，引发关于学术环境与人才流动的关注。"
+      },
+      {
+        "id": 48808482,
+        "title": "OpenWrt One – Open Hardware Router",
+        "url": "https://openwrt.org/toh/openwrt/one",
+        "domain": "openwrt.org",
+        "score": 731,
+        "descendants": 280,
+        "by": "peter_d_sherman",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "OpenWrt推出的一款主打开源硬件配置的路由器，致力于为用户提供极高自由度。"
+      },
+      {
+        "id": 48808928,
+        "title": "CoMaps – FOSS Offline Maps",
+        "url": "https://www.comaps.app/",
+        "domain": "comaps.app",
+        "score": 674,
+        "descendants": 167,
+        "by": "basilikum",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "介绍一款支持离线查看的开源地图应用，强调隐私保护与开源协作。"
+      },
+      {
+        "id": 48817017,
+        "title": "Dua Lipa opens library for banned and censored books in Portugal",
+        "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
+        "domain": "euronews.com",
+        "score": 89,
+        "descendants": 85,
+        "by": "pax",
+        "tags": [],
+        "summary": "报道歌手Dua Lipa在葡萄牙开设图书馆，专门收藏被禁及审查的书籍。"
+      },
+      {
+        "id": 48741447,
+        "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup",
+        "url": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
+        "domain": "wsj.com",
+        "score": 19,
+        "descendants": 9,
+        "by": "petethomas",
+        "tags": [],
+        "summary": "讲述一个家庭五十二年来持续维护一锅老汤背后的情感故事。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "streetcomplete.app",
+          "count": 1
+        },
+        {
+          "domain": "youtube.com",
+          "count": 1
+        },
+        {
+          "domain": "ciphercue.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 243,
+      "max_score": {
+        "title": "OpenWrt One – Open Hardware Router",
+        "score": 731
+      },
+      "most_discussed": {
+        "title": "OpenWrt One – Open Hardware Router",
+        "comments": 280
+      },
+      "hot_tags": [
+        "Web",
+        "Science",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了技术创新、数字主权及社会热点。焦点集中在开源硬件与地图工具的发展，同时探讨了欧洲对美国科技供应商的依赖、顶尖人才的跨境流动以及信息自由等社会议题。"
   }
 }
