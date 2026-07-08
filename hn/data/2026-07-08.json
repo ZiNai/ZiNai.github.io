@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-07-08 09:24",
+    "stories": [
+      {
+        "id": 48824826,
+        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+        "url": "https://www.gao.gov/products/gao-26-108193",
+        "domain": "gao.gov",
+        "score": 78,
+        "descendants": 25,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "美国政府问责局指出能源部在核废料清理方案的评估中排除低成本选择的做法过于草率。"
+      },
+      {
+        "id": 48821576,
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "domain": "ariya.io",
+        "score": 283,
+        "descendants": 66,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了一款高质量、CPU友好且支持本地运行的文本转语音工具Kokoro。"
+      },
+      {
+        "id": 48823359,
+        "title": "We charge $10k a week to delete AI-generated code",
+        "url": "https://odra.dev/slopfix/",
+        "domain": "odra.dev",
+        "score": 133,
+        "descendants": 59,
+        "by": "zie1ony",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了通过按周收费删除低质量AI生成代码从而优化代码库的服务案例。"
+      },
+      {
+        "id": 48816883,
+        "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+        "url": "https://streetcomplete.app/",
+        "domain": "streetcomplete.app",
+        "score": 689,
+        "descendants": 169,
+        "by": "kls0e",
+        "tags": [],
+        "summary": "一款通过“任务式”交互让普通用户也能轻松参与OpenStreetMap地理数据标注的应用。"
+      },
+      {
+        "id": 48818311,
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "url": "https://fightchatcontrol.eu/chat-control-overview",
+        "domain": "fightchatcontrol.eu",
+        "score": 432,
+        "descendants": 145,
+        "by": "gasull",
+        "tags": [
+          "AI"
+        ],
+        "summary": "详细解读了关于欧盟“聊天控制”法案（Chat Control）的现状及其对数字隐私的潜在威胁。"
+      },
+      {
+        "id": 48821848,
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "url": "https://davit.app",
+        "domain": "davit.app",
+        "score": 185,
+        "descendants": 41,
+        "by": "xinit",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "开发者展示了针对Apple平台容器技术构建的图形化管理界面工具Davit。"
+      },
+      {
+        "id": 48825816,
+        "title": "An interactive explorer for Benford's Law across real datasets",
+        "url": "https://vatsalbakshi.com/blog/benfords-law/",
+        "domain": "vatsalbakshi.com",
+        "score": 7,
+        "descendants": 1,
+        "by": "dingobabies",
+        "tags": [],
+        "summary": "通过可视化交互探索本福德定律在各类真实数据集中的应用表现。"
+      },
+      {
+        "id": 48823557,
+        "title": "Every new car sold in the European Union must include a driver monitoring camera",
+        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+        "domain": "allaboutcookies.org",
+        "score": 418,
+        "descendants": 545,
+        "by": "nickslaughter02",
+        "tags": [],
+        "summary": "欧盟强制要求新车配备驾驶员监控摄像头的政策引发了对车辆隐私与合规性的热议。"
+      },
+      {
+        "id": 48816956,
+        "title": "A better way to tie gym shorts (or any drawstring) [video]",
+        "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+        "domain": "youtube.com",
+        "score": 451,
+        "descendants": 162,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "展示一种更稳固、不易松脱的抽绳绑法，解决运动短裤等日常穿戴烦恼。"
+      },
+      {
+        "id": 48819608,
+        "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+        "url": "https://30papers.com/",
+        "domain": "30papers.com",
+        "score": 349,
+        "descendants": 60,
+        "by": "notmcrowley",
+        "tags": [
+          "Science"
+        ],
+        "summary": "30papers.com精选了由Ilya Sutskever推荐的30篇机器学习入门必读论文，并提供配套解析。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gao.gov",
+          "count": 1
+        },
+        {
+          "domain": "ariya.io",
+          "count": 1
+        },
+        {
+          "domain": "odra.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 302,
+      "max_score": {
+        "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+        "score": 689
+      },
+      "most_discussed": {
+        "title": "Every new car sold in the European Union must include a driver monitoring camera",
+        "comments": 545
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从人工智能工具与伦理、开源社区贡献到工业政策规管等多元议题。技术开发者关注高效的本地化工具与教育资源，同时社会对于隐私保护及政策影响的讨论热度显著上升。"
+  }
+}
