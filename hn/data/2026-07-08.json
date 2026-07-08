@@ -156,5 +156,162 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了从人工智能工具与伦理、开源社区贡献到工业政策规管等多元议题。技术开发者关注高效的本地化工具与教育资源，同时社会对于隐私保护及政策影响的讨论热度显著上升。"
+  },
+  "noon": {
+    "time": "2026-07-08 14:20",
+    "stories": [
+      {
+        "id": 48827325,
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+        "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+        "domain": "neil.computer",
+        "score": 93,
+        "descendants": 49,
+        "by": "4diii",
+        "tags": [],
+        "summary": "一份无需依赖商业NAS厂商，通过轻量级方案构建ZFS存储系统的技术指南。"
+      },
+      {
+        "id": 48825749,
+        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+        "url": "https://kb.cert.org/vuls/id/213560",
+        "domain": "kb.cert.org",
+        "score": 133,
+        "descendants": 33,
+        "by": "miniBill",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "安全公告指出多款Tenda路由器固件内置了隐藏的身份验证后门。"
+      },
+      {
+        "id": 48827092,
+        "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+        "url": "https://www.digipres.org/the-floppy-guide/",
+        "domain": "digipres.org",
+        "score": 26,
+        "descendants": 5,
+        "by": "whiteblossom",
+        "tags": [],
+        "summary": "剑桥大学提供的专业指南，详细介绍了如何从脆弱的软盘中提取与保存数据。"
+      },
+      {
+        "id": 48824826,
+        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+        "url": "https://www.gao.gov/products/gao-26-108193",
+        "domain": "gao.gov",
+        "score": 178,
+        "descendants": 74,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "美国政府问责署指出能源部在核废料清理方案中排除了成本更低且成熟的选项。"
+      },
+      {
+        "id": 48825664,
+        "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+        "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+        "domain": "ocw.mit.edu",
+        "score": 113,
+        "descendants": 10,
+        "by": "gjvc",
+        "tags": [],
+        "summary": "计算机科学经典教材SICP的1986年原始教学视频合集，重温编程思想的基石。"
+      },
+      {
+        "id": 48786789,
+        "title": "Canada's only watchmaking school still ticking after 80 years",
+        "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+        "domain": "cbc.ca",
+        "score": 105,
+        "descendants": 39,
+        "by": "throw0101a",
+        "tags": [],
+        "summary": "讲述加拿大唯一一家制表学校在80年后依然保持精湛技艺的文化报道。"
+      },
+      {
+        "id": 48818311,
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "url": "https://fightchatcontrol.eu/chat-control-overview",
+        "domain": "fightchatcontrol.eu",
+        "score": 548,
+        "descendants": 181,
+        "by": "gasull",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48821576,
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "domain": "ariya.io",
+        "score": 367,
+        "descendants": 74,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍如何利用Kokoro模型实现高质量、低硬件功耗的本地化语音合成。"
+      },
+      {
+        "id": 48827402,
+        "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+        "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+        "domain": "twitter.com",
+        "score": 99,
+        "descendants": 32,
+        "by": "jfrbfbreudh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "科技界关注关于GPT系列新模型Sol及其配套Terra与Luna产品的发布传闻。"
+      },
+      {
+        "id": 48794042,
+        "title": "Show HN: Neil the Seal Game",
+        "url": "https://neiltheseal.app/",
+        "domain": "neiltheseal.app",
+        "score": 31,
+        "descendants": 32,
+        "by": "dalemhurley",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个关于“Neil海豹”主题的独立游戏作品展示，展现了社区的创意娱乐生态。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "neil.computer",
+          "count": 1
+        },
+        {
+          "domain": "kb.cert.org",
+          "count": 1
+        },
+        {
+          "domain": "digipres.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 169,
+      "max_score": {
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "score": 548
+      },
+      "most_discussed": {
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "comments": 181
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于技术基础设施与安全，涵盖了自建存储解决方案、固件安全隐患及AI工具的快速演进。同时，社区对公共政策（如Chat Control）、核能治理以及传统工艺的数字化保存表现出浓厚兴趣。"
   }
 }
