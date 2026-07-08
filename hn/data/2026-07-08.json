@@ -313,5 +313,167 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于技术基础设施与安全，涵盖了自建存储解决方案、固件安全隐患及AI工具的快速演进。同时，社区对公共政策（如Chat Control）、核能治理以及传统工艺的数字化保存表现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-07-08 21:52",
+    "stories": [
+      {
+        "id": 48829312,
+        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "domain": "tris.sherliker.net",
+        "score": 649,
+        "descendants": 124,
+        "by": "speerer",
+        "tags": [],
+        "summary": "作者详细拆解并分析了一件 Uniqlo T 恤上印制的混淆 Bash 脚本代码。"
+      },
+      {
+        "id": 48830565,
+        "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+        "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+        "domain": "apple.com",
+        "score": 106,
+        "descendants": 58,
+        "by": "soheilpro",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "苹果计划与 Broadcom 扩大合作，显著增加在美国本土生产芯片的支出。"
+      },
+      {
+        "id": 48831499,
+        "title": "Tiny data centre used to heat public swimming pool",
+        "url": "https://www.bbc.com/news/technology-64939558",
+        "domain": "bbc.com",
+        "score": 27,
+        "descendants": 28,
+        "by": "breitling",
+        "tags": [],
+        "summary": "介绍如何利用小型数据中心产生的余热来为公共游泳池供暖的创新案例。"
+      },
+      {
+        "id": 48827858,
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "domain": "noma.security",
+        "score": 323,
+        "descendants": 126,
+        "by": "ColinEberhardt",
+        "tags": [
+          "AI",
+          "Systems",
+          "Open Source"
+        ],
+        "summary": "安全研究员通过欺骗手段成功从 GitHub 的 AI 代理中窃取了私有代码库。"
+      },
+      {
+        "id": 48827325,
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+        "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+        "domain": "neil.computer",
+        "score": 247,
+        "descendants": 169,
+        "by": "4diii",
+        "tags": [],
+        "summary": "一份 2024 年指南，教你如何不依赖主流品牌软件，从零构建极简的 ZFS NAS。"
+      },
+      {
+        "id": 48780387,
+        "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+        "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+        "domain": "gamesindustry.biz",
+        "score": 146,
+        "descendants": 42,
+        "by": "Stevvo",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "分析《EVE Online》开发商将 Carbon 游戏引擎开源背后的战略意图。"
+      },
+      {
+        "id": 48829242,
+        "title": "Geosql: A Claude/Codex skill for geospatial data",
+        "url": "https://github.com/dekart-xyz/geosql",
+        "domain": "github.com",
+        "score": 57,
+        "descendants": 9,
+        "by": "rzk",
+        "tags": [
+          "AI",
+          "Database"
+        ],
+        "summary": "披露多款 Tenda 路由器固件中存在隐蔽的身份验证后门，带来严重安全隐患。"
+      },
+      {
+        "id": 48825749,
+        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+        "url": "https://kb.cert.org/vuls/id/213560",
+        "domain": "kb.cert.org",
+        "score": 270,
+        "descendants": 92,
+        "by": "miniBill",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 48831785,
+        "title": "US Food and Drug Administration rejects petition to set PFAS limits in food",
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
+        "domain": "theguardian.com",
+        "score": 14,
+        "descendants": 1,
+        "by": "randycupertino",
+        "tags": [],
+        "summary": "美国 FDA 驳回了关于在食品中设立 PFAS 化学物质限量的请愿请求。"
+      },
+      {
+        "id": 48803791,
+        "title": "NoiseLang: Where N = 5 is a Dirac delta",
+        "url": "https://manualmeida.dev/articles/noiselang/",
+        "domain": "manualmeida.dev",
+        "score": 31,
+        "descendants": 18,
+        "by": "manucorporat",
+        "tags": [],
+        "summary": "探讨 NoiseLang 编程语言如何通过数学概念处理噪声，实现特殊的逻辑表达。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "tris.sherliker.net",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 187,
+      "max_score": {
+        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "score": 649
+      },
+      "most_discussed": {
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+        "comments": 169
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Hardware",
+        "Systems",
+        "Database"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在网络安全漏洞与 AI 工具的风险，涵盖了从路由后门到代码泄露的深度技术分析。此外，硬件自主构建（如 NAS）以及工业技术应用（如数据中心余热回收）也在社区引发了广泛关注。"
   }
 }
