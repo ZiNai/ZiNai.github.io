@@ -158,5 +158,152 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿应用与工程实践，包括 Mistral 的机器人模型和微软的智能体可视化工具。同时，科技行业对于“修理权”法律进展、代码评估方法论以及软件工程基础算法的讨论也引发了广泛关注。"
+  },
+  "noon": {
+    "time": "2026-07-09 15:27",
+    "stories": [
+      {
+        "id": 48838876,
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+        "domain": "apnews.com",
+        "score": 691,
+        "descendants": 131,
+        "by": "djoldman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "FTC达成和解协议，正式赋予约翰迪尔设备所有者设备维修权。"
+      },
+      {
+        "id": 48841259,
+        "title": "Spider venom kills varroa mites without harming honeybees",
+        "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "domain": "connectsci.au",
+        "score": 66,
+        "descendants": 22,
+        "by": "Jedd",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "研究发现蜘蛛毒液可精准消灭危害蜜蜂的瓦螨，且对蜜蜂无害。"
+      },
+      {
+        "id": 48841446,
+        "title": "AI changes the economics of software rewrites",
+        "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+        "domain": "thetruthasiseeitnow.com",
+        "score": 34,
+        "descendants": 35,
+        "by": "cinooo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI技术如何改变软件重构的经济成本与开发逻辑。"
+      },
+      {
+        "id": 48841676,
+        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "url": "https://github.com/malisper/pgrust",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "SweetSoftPillow",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "Postgres已完全用Rust重写，目前已通过全部Postgres回归测试。"
+      },
+      {
+        "id": 48800596,
+        "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+        "url": "https://nexte.st/",
+        "domain": "nexte.st",
+        "score": 60,
+        "descendants": 16,
+        "by": "nateb2022",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Cargo-nextest提供三倍于原生cargo test的运行速度及更佳的CI集成支持。"
+      },
+      {
+        "id": 48839397,
+        "title": "Remote Attestation",
+        "url": "https://www.liamcvw.com/p/remote-attestation",
+        "domain": "liamcvw.com",
+        "score": 78,
+        "descendants": 63,
+        "by": "lcvw",
+        "tags": [],
+        "summary": "深入解析远程证明技术（Remote Attestation）的工作机制与应用场景。"
+      },
+      {
+        "id": 48837396,
+        "title": "Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "domain": "openai.com",
+        "score": 202,
+        "descendants": 71,
+        "by": "sk4rekr0w",
+        "tags": [],
+        "summary": "OpenAI探讨如何在编码评估中有效剔除干扰项，提高考核精准度。"
+      },
+      {
+        "id": 48837696,
+        "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+        "domain": "databricks.com",
+        "score": 60,
+        "descendants": 22,
+        "by": "tanelpoder",
+        "tags": [],
+        "summary": "Databricks实测AI编码代理在千万级代码库中的表现与潜力。"
+      },
+      {
+        "id": 48829797,
+        "title": "Unicode's transliteration rules are Turing-complete",
+        "url": "https://seriot.ch/computation/uts35/",
+        "domain": "seriot.ch",
+        "score": 91,
+        "descendants": 27,
+        "by": "beefburger",
+        "tags": [],
+        "summary": "技术博文论证Unicode转写规则本质上是图灵完备的。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apnews.com",
+          "count": 1
+        },
+        {
+          "domain": "connectsci.au",
+          "count": 1
+        },
+        {
+          "domain": "thetruthasiseeitnow.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 144,
+      "max_score": {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "score": 691
+      },
+      "most_discussed": {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "comments": 131
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Hardware",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News重点关注技术生态的深度迭代，包括数据库重构与测试优化等基础设施进步，以及AI在代码开发和评估中的实际应用探索。同时，农业技术维权与生物科技等前沿进展也引发了社区的广泛讨论。"
   }
 }
