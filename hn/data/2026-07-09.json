@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-07-09 09:46",
+    "stories": [
+      {
+        "id": 48838876,
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+        "domain": "apnews.com",
+        "score": 276,
+        "descendants": 58,
+        "by": "djoldman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "FTC 达成和解协议，约翰迪尔（John Deere）设备用户将获得合法的维修权。"
+      },
+      {
+        "id": 48837396,
+        "title": "Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "domain": "openai.com",
+        "score": 157,
+        "descendants": 60,
+        "by": "sk4rekr0w",
+        "tags": [],
+        "summary": "OpenAI 探讨如何优化编码评估体系，以从海量数据中区分真正的编程能力。"
+      },
+      {
+        "id": 48839751,
+        "title": "Rewriting Bun in Rust",
+        "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+        "domain": "simonwillison.net",
+        "score": 15,
+        "descendants": 3,
+        "by": "doppp",
+        "tags": [
+          "Rust",
+          "JavaScript"
+        ],
+        "summary": "Simon Willison 分享关于重写 Bun 运行时至 Rust 的技术洞察与思考。"
+      },
+      {
+        "id": 48839434,
+        "title": "A software engineering interview question I like: computing the median",
+        "url": "https://krisshamloo.com/blog/007",
+        "domain": "krisshamloo.com",
+        "score": 23,
+        "descendants": 8,
+        "by": "speckx",
+        "tags": [],
+        "summary": "作者分享了一道关于计算中位数的面试题，旨在考察候选人的思维深度与工程直觉。"
+      },
+      {
+        "id": 48833116,
+        "title": "Chatto is now open source",
+        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "domain": "hmans.dev",
+        "score": 736,
+        "descendants": 194,
+        "by": "speckx",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "开源项目 Chatto 正式发布，为开发者提供新的通讯框架选择。"
+      },
+      {
+        "id": 48839397,
+        "title": "Remote Attestation",
+        "url": "https://www.liamcvw.com/p/remote-attestation",
+        "domain": "liamcvw.com",
+        "score": 18,
+        "descendants": 9,
+        "by": "lcvw",
+        "tags": [],
+        "summary": "文章深入解析远程证明（Remote Attestation）技术及其在系统安全中的应用。"
+      },
+      {
+        "id": 48829797,
+        "title": "Unicode's transliteration rules are Turing-complete",
+        "url": "https://seriot.ch/computation/uts35/",
+        "domain": "seriot.ch",
+        "score": 35,
+        "descendants": 6,
+        "by": "beefburger",
+        "tags": [],
+        "summary": "深度剖析 Unicode 字符转换规则，证明其系统架构竟是图灵完备的。"
+      },
+      {
+        "id": 48832212,
+        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "domain": "mistral.ai",
+        "score": 414,
+        "descendants": 96,
+        "by": "ottomengis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral 发布 Robostral Navigate 模型，展示了机器人导航领域的最先进水平。"
+      },
+      {
+        "id": 48834924,
+        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "url": "https://microsoft.github.io/flint-chart/#/",
+        "domain": "microsoft.github.io",
+        "score": 200,
+        "descendants": 75,
+        "by": "chenglong-hn",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "微软开源 Flint，这是一个专为 AI 智能体设计的高效可视化语言工具。"
+      },
+      {
+        "id": 48836233,
+        "title": "Cloudflare Drop",
+        "url": "https://www.cloudflare.com/drop/",
+        "domain": "cloudflare.com",
+        "score": 248,
+        "descendants": 129,
+        "by": "coloneltcb",
+        "tags": [],
+        "summary": "Cloudflare 发布名为“Drop”的最新技术公告或产品更新。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apnews.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 212,
+      "max_score": {
+        "title": "Chatto is now open source",
+        "score": 736
+      },
+      "most_discussed": {
+        "title": "Chatto is now open source",
+        "comments": 194
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "JavaScript",
+        "Open Source",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿应用与工程实践，包括 Mistral 的机器人模型和微软的智能体可视化工具。同时，科技行业对于“修理权”法律进展、代码评估方法论以及软件工程基础算法的讨论也引发了广泛关注。"
+  }
+}
