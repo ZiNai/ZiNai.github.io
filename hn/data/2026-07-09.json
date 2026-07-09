@@ -305,5 +305,163 @@
       ]
     },
     "summary": "今日Hacker News重点关注技术生态的深度迭代，包括数据库重构与测试优化等基础设施进步，以及AI在代码开发和评估中的实际应用探索。同时，农业技术维权与生物科技等前沿进展也引发了社区的广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-07-09 22:47",
+    "stories": [
+      {
+        "id": 48845049,
+        "title": "Show HN: 18 Words",
+        "url": "https://18words.com/",
+        "domain": "18words.com",
+        "score": 252,
+        "descendants": 110,
+        "by": "pompomsheep",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款全新的极简在线文字游戏，挑战玩家使用仅18个词进行表达。"
+      },
+      {
+        "id": 48846281,
+        "title": "No leap second will be introduced at the end of December 2026",
+        "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+        "domain": "datacenter.iers.org",
+        "score": 25,
+        "descendants": 5,
+        "by": "ChrisArchitect",
+        "tags": [],
+        "summary": "国际地球自转服务局确认2026年12月底无需引入闰秒。"
+      },
+      {
+        "id": 48846184,
+        "title": "Introducing Muse Spark 1.1",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+        "domain": "ai.meta.com",
+        "score": 51,
+        "descendants": 21,
+        "by": "ot",
+        "tags": [],
+        "summary": "Meta发布Muse Spark 1.1，进一步提升AI多模态生成与处理能力。"
+      },
+      {
+        "id": 48845422,
+        "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+        "url": "https://github.com/ronak-create/FableCut",
+        "domain": "github.com",
+        "score": 49,
+        "descendants": 27,
+        "by": "ronak_parmar",
+        "tags": [
+          "AI",
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一款无需外部依赖的浏览器端视频编辑器，专为AI智能体控制操作而设计。"
+      },
+      {
+        "id": 48838876,
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+        "domain": "apnews.com",
+        "score": 1167,
+        "descendants": 234,
+        "by": "djoldman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "在FTC达成和解协议后，John Deere拖拉机用户正式获得自行维修设备的权利。"
+      },
+      {
+        "id": 48843438,
+        "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+        "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+        "domain": "bbc.com",
+        "score": 236,
+        "descendants": 83,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "Meta通过自研桥接芯片实现旧服务器内存的再利用，以优化数据中心成本。"
+      },
+      {
+        "id": 48778956,
+        "title": "Meta reuses old RAM in new servers with custom bridge chip",
+        "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+        "domain": "networkworld.com",
+        "score": 178,
+        "descendants": 86,
+        "by": "ihsw",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 48841259,
+        "title": "Spider venom kills varroa mites without harming honeybees",
+        "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "domain": "connectsci.au",
+        "score": 227,
+        "descendants": 95,
+        "by": "Jedd",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "研究发现蜘蛛毒液能有效灭杀危害蜜蜂的瓦螨，且对蜜蜂本身无害。"
+      },
+      {
+        "id": 48843923,
+        "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+        "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "domain": "patrick-breyer.de",
+        "score": 334,
+        "descendants": 171,
+        "by": "rapnie",
+        "tags": [],
+        "summary": "欧盟议会通过争议性的“聊天控制”法案，引发外界对隐私与未成年人保护的担忧。"
+      },
+      {
+        "id": 48845514,
+        "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+        "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+        "domain": "arstechnica.com",
+        "score": 69,
+        "descendants": 57,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "伊朗击落价值10亿美元的美军无人机后，美国正寻求研发更低成本的攻击型无人机。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "18words.com",
+          "count": 1
+        },
+        {
+          "domain": "datacenter.iers.org",
+          "count": 1
+        },
+        {
+          "domain": "ai.meta.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 259,
+      "max_score": {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "score": 1167
+      },
+      "most_discussed": {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "comments": 234
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Hardware",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了科技巨头的硬件与AI战略、行业监管政策的最新进展，以及科学领域的突破性研究。此外，关于科技伦理、全球地缘军事动态及知名人物的逝世消息也引起了社区的广泛讨论。"
   }
 }
