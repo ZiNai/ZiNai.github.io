@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-07-10 09:44",
+    "stories": [
+      {
+        "id": 48842459,
+        "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+        "url": "https://github.com/JustVugg/colibri",
+        "domain": "github.com",
+        "score": 378,
+        "descendants": 99,
+        "by": "vforno",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "开发者分享在低性能电脑上高效运行GLM 5.2模型的实践经验。"
+      },
+      {
+        "id": 48843923,
+        "title": "EU Parliament greenlights Chat Control 1.0",
+        "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "domain": "patrick-breyer.de",
+        "score": 991,
+        "descendants": 475,
+        "by": "rapnie",
+        "tags": [],
+        "summary": "欧洲议会正式批准备受争议的“聊天控制”法案，引发对网络隐私与监控的广泛担忧。"
+      },
+      {
+        "id": 48849066,
+        "title": "GPT-5.6",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "domain": "openai.com",
+        "score": 1061,
+        "descendants": 776,
+        "by": "logickkk1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布GPT-5.6版本，引发社区对模型能力升级及技术路线的激烈讨论。"
+      },
+      {
+        "id": 48845049,
+        "title": "Show HN: 18 Words",
+        "url": "https://18words.com/",
+        "domain": "18words.com",
+        "score": 820,
+        "descendants": 284,
+        "by": "pompomsheep",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍一款名为“18 Words”的新型文字类游戏或工具及其背后的开发思路。"
+      },
+      {
+        "id": 48792383,
+        "title": "Train sim created by just one person is being called the best ever made",
+        "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+        "domain": "kotaku.com",
+        "score": 283,
+        "descendants": 111,
+        "by": "oumua_don17",
+        "tags": [
+          "AI"
+        ],
+        "summary": "由单人独立开发的火车模拟游戏因其惊人的深度和质量，被誉为同类游戏中的巅峰之作。"
+      },
+      {
+        "id": 48849292,
+        "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+        "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+        "domain": "alexalejandre.com",
+        "score": 119,
+        "descendants": 44,
+        "by": "veqq",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过访谈HashiCorp创始人Mitchell Hashimoto，探讨Ghostty终端与Zig语言的开发哲学。"
+      },
+      {
+        "id": 48847552,
+        "title": "Hy3",
+        "url": "https://hy.tencent.com/research/hy3",
+        "domain": "hy.tencent.com",
+        "score": 386,
+        "descendants": 83,
+        "by": "andai",
+        "tags": [],
+        "summary": "腾讯开源项目Hy3的详细介绍，展示其在高性能技术栈方面的应用潜力。"
+      },
+      {
+        "id": 48804400,
+        "title": "Triple Dragon Fractal (2020)",
+        "url": "https://paulbourke.net/fractals/tripledragon/",
+        "domain": "paulbourke.net",
+        "score": 12,
+        "descendants": 2,
+        "by": "nhatcher",
+        "tags": [],
+        "summary": "回顾Triple Dragon分形图案的数学原理及其视觉美学。"
+      },
+      {
+        "id": 48757291,
+        "title": "My Story of 3D Realms / Apogee Part I (2020)",
+        "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+        "domain": "joesiegler.blog",
+        "score": 26,
+        "descendants": 0,
+        "by": "Michelangelo11",
+        "tags": [],
+        "summary": "回顾经典游戏开发商3D Realms与Apogee的历史往事系列文章第一部分。"
+      },
+      {
+        "id": 48841676,
+        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "url": "https://github.com/malisper/pgrust",
+        "domain": "github.com",
+        "score": 376,
+        "descendants": 391,
+        "by": "SweetSoftPillow",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "使用Rust重写的Postgres数据库已成功通过所有回归测试，标志着该数据库替代方案的重要进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "patrick-breyer.de",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 445,
+      "max_score": {
+        "title": "GPT-5.6",
+        "score": 1061
+      },
+      "most_discussed": {
+        "title": "GPT-5.6",
+        "comments": 776
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Systems",
+        "Rust",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于前沿AI模型的演进与开源技术的深度革新，AI领域出现GPT-5.6等重磅更新。同时，围绕数据库内核重构与隐私监管政策的讨论，反映了开发者对系统性能优化及数字人权的持续关注。"
+  }
+}
