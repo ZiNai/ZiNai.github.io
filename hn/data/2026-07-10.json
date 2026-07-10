@@ -159,5 +159,170 @@
       ]
     },
     "summary": "本期Hacker News聚焦于前沿AI模型的演进与开源技术的深度革新，AI领域出现GPT-5.6等重磅更新。同时，围绕数据库内核重构与隐私监管政策的讨论，反映了开发者对系统性能优化及数字人权的持续关注。"
+  },
+  "noon": {
+    "time": "2026-07-10 15:25",
+    "stories": [
+      {
+        "id": 48842459,
+        "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+        "url": "https://github.com/JustVugg/colibri",
+        "domain": "github.com",
+        "score": 574,
+        "descendants": 139,
+        "by": "vforno",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "探讨如何在低配硬件上高效运行 GLM 5.2 大模型的实践方案。"
+      },
+      {
+        "id": 48843923,
+        "title": "EU Parliament greenlights Chat Control 1.0",
+        "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "domain": "patrick-breyer.de",
+        "score": 1267,
+        "descendants": 601,
+        "by": "rapnie",
+        "tags": [],
+        "summary": "欧盟议会正式批准备受争议的 Chat Control 1.0 法案，引发关于隐私权的广泛讨论。"
+      },
+      {
+        "id": 48792383,
+        "title": "Train sim created by just one person is being called the best ever made",
+        "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+        "domain": "kotaku.com",
+        "score": 486,
+        "descendants": 168,
+        "by": "oumua_don17",
+        "tags": [
+          "AI"
+        ],
+        "summary": "由单人独立开发的一款火车模拟游戏，因其卓越的制作水准被誉为同类最佳。"
+      },
+      {
+        "id": 48845049,
+        "title": "Show HN: 18 Words",
+        "url": "https://18words.com/",
+        "domain": "18words.com",
+        "score": 952,
+        "descendants": 312,
+        "by": "pompomsheep",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款名为“18 Words”的新型词汇游戏，展示了其简洁的交互设计与机制。"
+      },
+      {
+        "id": 48849066,
+        "title": "GPT-5.6",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "domain": "openai.com",
+        "score": 1211,
+        "descendants": 856,
+        "by": "logickkk1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 发布 GPT-5.6 版本，引发了关于模型演进速度与行业影响力的激烈讨论。"
+      },
+      {
+        "id": 48854247,
+        "title": "Study: \"Mommy, do you love your phone more than me?\"",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+        "domain": "frontiersin.org",
+        "score": 102,
+        "descendants": 60,
+        "by": "hbcondo714",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一项关于过度使用手机对亲子互动影响的心理学研究，引发对家庭数字化环境的反思。"
+      },
+      {
+        "id": 48841676,
+        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "url": "https://github.com/malisper/pgrust",
+        "domain": "github.com",
+        "score": 598,
+        "descendants": 499,
+        "by": "SweetSoftPillow",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "使用 Rust 语言重写的 Postgres 数据库进展显著，目前已通过全部回归测试。"
+      },
+      {
+        "id": 48849292,
+        "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+        "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+        "domain": "alexalejandre.com",
+        "score": 208,
+        "descendants": 89,
+        "by": "veqq",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过对 Mitchell Hashimoto 的专访，深度解析 Ghostty 终端与 Zig 语言的应用。"
+      },
+      {
+        "id": 48847552,
+        "title": "Hy3",
+        "url": "https://hy.tencent.com/research/hy3",
+        "domain": "hy.tencent.com",
+        "score": 448,
+        "descendants": 91,
+        "by": "andai",
+        "tags": [],
+        "summary": "腾讯推出的 Hy3 相关技术分享，关注高性能计算与基础设施优化。"
+      },
+      {
+        "id": 48805587,
+        "title": "Preempt_none Is Dead; Your Postgres Probably Doesn't Care",
+        "url": "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/",
+        "domain": "thebuild.com",
+        "score": 6,
+        "descendants": 1,
+        "by": "ryantsuji",
+        "tags": [
+          "Database"
+        ],
+        "summary": "深入分析 Preempt_none 内核调度机制的废弃，探讨其对 Postgres 等高性能应用的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "patrick-breyer.de",
+          "count": 1
+        },
+        {
+          "domain": "kotaku.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 585,
+      "max_score": {
+        "title": "EU Parliament greenlights Chat Control 1.0",
+        "score": 1267
+      },
+      "most_discussed": {
+        "title": "GPT-5.6",
+        "comments": 856
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Database",
+        "Science",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于前沿技术演进，包括 AI 模型迭代、数据库性能优化以及开源基础设施的开发。同时，欧盟数字政策与科技对家庭生活影响等社会议题也引发了社区的广泛讨论。"
   }
 }
