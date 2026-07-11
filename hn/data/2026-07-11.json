@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-07-11 09:24",
+    "stories": [
+      {
+        "id": 48866134,
+        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+        "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+        "domain": "brown.edu",
+        "score": 73,
+        "descendants": 36,
+        "by": "hhs",
+        "tags": [
+          "Science"
+        ],
+        "summary": "研究表明爱因斯坦相对论在重元素化学键形成中发挥了决定性作用。"
+      },
+      {
+        "id": 48865019,
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "domain": "9to5mac.com",
+        "score": 473,
+        "descendants": 232,
+        "by": "stock_toaster",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果公司正式起诉 OpenAI，指控其前员工窃取关键商业机密。"
+      },
+      {
+        "id": 48861717,
+        "title": "QuadRF can spot drones and see WiFi through my wall",
+        "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+        "domain": "jeffgeerling.com",
+        "score": 447,
+        "descendants": 171,
+        "by": "speckx",
+        "tags": [],
+        "summary": "Jeff Geerling 演示了名为 QuadRF 的技术，可透墙探测无人机与 WiFi 信号。"
+      },
+      {
+        "id": 48867264,
+        "title": "FreeCAD in the Browser",
+        "url": "https://magik.net/freecad/",
+        "domain": "magik.net",
+        "score": 7,
+        "descendants": 4,
+        "by": "cui",
+        "tags": [
+          "Web"
+        ],
+        "summary": "FreeCAD 项目已成功移植到 Web 浏览器中运行。"
+      },
+      {
+        "id": 48863490,
+        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "domain": "cdn.openai.com",
+        "score": 342,
+        "descendants": 275,
+        "by": "scrlk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 的 GPT-5.6 Sol Ultra 模型成功给出了循环双覆盖猜想的数学证明。"
+      },
+      {
+        "id": 48864252,
+        "title": "An update on residential proxies and the scraper situation",
+        "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+        "domain": "lwn.net",
+        "score": 76,
+        "descendants": 64,
+        "by": "chmaynard",
+        "tags": [],
+        "summary": "分析住宅代理 IP 技术的最新动态及其对网络爬虫行业的影响。"
+      },
+      {
+        "id": 48862365,
+        "title": "The tech of 'Terminator 2' – an oral history (2017)",
+        "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+        "domain": "vfxblog.com",
+        "score": 160,
+        "descendants": 66,
+        "by": "markus_zhang",
+        "tags": [],
+        "summary": "回顾 1991 年经典科幻电影《终结者 2》背后的视效制作史。"
+      },
+      {
+        "id": 48795900,
+        "title": "Combustion engine web-based simulator",
+        "url": "https://combustionlab.net",
+        "domain": "combustionlab.net",
+        "score": 117,
+        "descendants": 51,
+        "by": "mytuny",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个基于网页的内燃机工作原理模拟器，可视化展现引擎运行过程。"
+      },
+      {
+        "id": 48863464,
+        "title": "New York City to to ban deceptive subscription practices",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+        "domain": "theguardian.com",
+        "score": 406,
+        "descendants": 210,
+        "by": "randycupertino",
+        "tags": [],
+        "summary": "纽约市出台新规，计划立法禁止各类具有欺骗性质的订阅收费模式。"
+      },
+      {
+        "id": 48863064,
+        "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+        "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+        "domain": "zdnet.com",
+        "score": 64,
+        "descendants": 204,
+        "by": "CrankyBear",
+        "tags": [
+          "Science"
+        ],
+        "summary": "SpaceX 计划通过再部署 10 万颗星链卫星，旨在将网络带宽提升百倍。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "brown.edu",
+          "count": 1
+        },
+        {
+          "domain": "9to5mac.com",
+          "count": 1
+        },
+        {
+          "domain": "jeffgeerling.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 216,
+      "max_score": {
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "score": 473
+      },
+      "most_discussed": {
+        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "comments": 275
+      },
+      "hot_tags": [
+        "Science",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在重磅科技新闻与前沿技术突破，涵盖了人工智能监管与行业诉讼、无线传感技术创新，以及物理学前沿理论的应用研究。同时，隐私合规与大型卫星基础设施计划引发了社区关于数据安全及网络架构的深度探讨。"
+  }
+}
