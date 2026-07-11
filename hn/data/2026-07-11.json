@@ -312,5 +312,162 @@
       ]
     },
     "summary": "本期Hacker News热门话题涵盖了前沿科学、AI伦理法律与工程进展，呈现出人工智能技术在科研攻关与企业合规冲突中的双重现状。同时，硬件黑客技术、卫星通讯基建以及化学物理理论的突破也引发了社区的广泛关注与技术讨论。"
+  },
+  "evening": {
+    "time": "2026-07-11 21:08",
+    "stories": [
+      {
+        "id": 48871470,
+        "title": "Networking and the Internet, from First Principles",
+        "url": "https://fazamhd.com/mental-models/networking/",
+        "domain": "fazamhd.com",
+        "score": 35,
+        "descendants": 11,
+        "by": "faza",
+        "tags": [],
+        "summary": "深入浅出地探讨网络通信与互联网架构的基础设计原则。"
+      },
+      {
+        "id": 48870799,
+        "title": "Your code is fast – if you're lucky",
+        "url": "https://tiki.li/blog/lucky_code.html",
+        "domain": "tiki.li",
+        "score": 25,
+        "descendants": 1,
+        "by": "chrka",
+        "tags": [],
+        "summary": "剖析代码性能优化的随机性，强调高性能表现往往依赖于特定的硬件与环境运气。"
+      },
+      {
+        "id": 48866134,
+        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+        "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+        "domain": "brown.edu",
+        "score": 297,
+        "descendants": 115,
+        "by": "hhs",
+        "tags": [
+          "Science"
+        ],
+        "summary": "最新研究证实爱因斯坦的相对论直接决定了重元素化学键的性质。"
+      },
+      {
+        "id": 48861717,
+        "title": "QuadRF can spot drones and see WiFi through my wall",
+        "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+        "domain": "jeffgeerling.com",
+        "score": 628,
+        "descendants": 207,
+        "by": "speckx",
+        "tags": [],
+        "summary": "Jeff Geerling演示了名为QuadRF的设备，能够穿墙探测无人机与WiFi信号。"
+      },
+      {
+        "id": 48825612,
+        "title": "Google Search lets creators know more about their reach",
+        "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+        "domain": "theverge.com",
+        "score": 34,
+        "descendants": 16,
+        "by": "herbertl",
+        "tags": [],
+        "summary": "谷歌搜索更新功能，旨在为创作者提供更透明的搜索曝光数据。"
+      },
+      {
+        "id": 48830556,
+        "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+        "url": "https://alexandrepoupeau.com/otary/learn/",
+        "domain": "alexandrepoupeau.com",
+        "score": 46,
+        "descendants": 1,
+        "by": "poupeaua",
+        "tags": [
+          "Python"
+        ],
+        "summary": "图像与几何处理Python库Otary发布了一系列新教程，降低上手难度。"
+      },
+      {
+        "id": 48865019,
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "domain": "9to5mac.com",
+        "score": 1212,
+        "descendants": 640,
+        "by": "stock_toaster",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果公司正式起诉OpenAI，指控其前员工窃取关键商业机密。"
+      },
+      {
+        "id": 48821052,
+        "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive",
+        "url": "https://html-drive.com",
+        "domain": "html-drive.com",
+        "score": 11,
+        "descendants": 8,
+        "by": "debamitro",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一个允许用户直接从Google Drive托管和部署HTML文件的实用工具。"
+      },
+      {
+        "id": 48817539,
+        "title": "An iroh powered smart fan",
+        "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+        "domain": "iroh.computer",
+        "score": 126,
+        "descendants": 35,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "展示如何利用iroh网络协议构建智能风扇控制方案。"
+      },
+      {
+        "id": 48864252,
+        "title": "An update on residential proxies and the scraper situation",
+        "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+        "domain": "lwn.net",
+        "score": 234,
+        "descendants": 239,
+        "by": "chmaynard",
+        "tags": [],
+        "summary": "分析住宅代理服务面临的现状及其对网页抓取行业产生的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "fazamhd.com",
+          "count": 1
+        },
+        {
+          "domain": "tiki.li",
+          "count": 1
+        },
+        {
+          "domain": "brown.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 265,
+      "max_score": {
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "score": 1212
+      },
+      "most_discussed": {
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "comments": 640
+      },
+      "hot_tags": [
+        "Science",
+        "Python",
+        "AI",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿科技研究、网络工程以及大型科技公司的法律动态。焦点集中在物理与化学的交叉科学突破、针对无人机探测的新型传感技术，以及苹果起诉OpenAI带来的行业合规性讨论。"
   }
 }
