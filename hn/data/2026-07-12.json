@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-07-12 09:25",
+    "stories": [
+      {
+        "id": 48876505,
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "domain": "iroh.computer",
+        "score": 72,
+        "descendants": 21,
+        "by": "tionis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍如何利用iroh网络构建分布式LLM计算集群的开源方案。"
+      },
+      {
+        "id": 48875377,
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "url": "https://antjs.org",
+        "domain": "antjs.org",
+        "score": 172,
+        "descendants": 76,
+        "by": "theMackabu",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "一个新兴的JavaScript运行时及其生态系统项目，旨在提供新的开发选择。"
+      },
+      {
+        "id": 48876245,
+        "title": "RISCBoy is an open-source portable games console, designed from scratch",
+        "url": "https://github.com/Wren6991/RISCBoy",
+        "domain": "github.com",
+        "score": 55,
+        "descendants": 12,
+        "by": "mariuz",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一款从零开始设计的开源便携式游戏掌机，展示了复古硬件开发的魅力。"
+      },
+      {
+        "id": 48877269,
+        "title": "A dock that wakes up reliably",
+        "url": "https://fabiensanglard.net/tb4/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 10,
+        "descendants": 5,
+        "by": "ingve",
+        "tags": [],
+        "summary": "技术博客讨论在现代工作站中解决USB-C扩展坞唤醒不灵敏问题的个人方案。"
+      },
+      {
+        "id": 48876578,
+        "title": "The fine print that follows you out the door: non-compete clauses are spreading",
+        "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+        "domain": "oecdecoscope.blog",
+        "score": 22,
+        "descendants": 26,
+        "by": "hhs",
+        "tags": [],
+        "summary": "分析非竞争协议在各行业中的扩散趋势及其对员工职业流动的限制影响。"
+      },
+      {
+        "id": 48873836,
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "domain": "io-fund.com",
+        "score": 152,
+        "descendants": 56,
+        "by": "adletbalzhanov",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度起底Nvidia、CoreWeave与Nebius之间围绕GPU供应链的循环融资模式。"
+      },
+      {
+        "id": 48849744,
+        "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+        "url": "https://arxiv.org/abs/2607.07267",
+        "domain": "arxiv.org",
+        "score": 45,
+        "descendants": 5,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "通过分析数十亿份手绘草图数据，揭示人类概念在不同文化间的细微差异。"
+      },
+      {
+        "id": 48872874,
+        "title": "We scaled PgBouncer to 4x throughput",
+        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "domain": "clickhouse.com",
+        "score": 176,
+        "descendants": 36,
+        "by": "saisrirampur",
+        "tags": [],
+        "summary": "ClickHouse技术团队分享如何通过优化提升PgBouncer连接池4倍吞吐量的实战经验。"
+      },
+      {
+        "id": 48877009,
+        "title": "A public ledger of cloud outages and the SLA credits they trigger",
+        "url": "https://slacreditwatch.com",
+        "domain": "slacreditwatch.com",
+        "score": 5,
+        "descendants": 2,
+        "by": "devd1976",
+        "tags": [],
+        "summary": "一个记录云服务商宕机事件及对应SLA赔偿条款的公共账本工具。"
+      },
+      {
+        "id": 48873457,
+        "title": "UPI: Anatomy of a Payment Transaction",
+        "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+        "domain": "timeseriesofindia.com",
+        "score": 94,
+        "descendants": 30,
+        "by": "prtk25",
+        "tags": [],
+        "summary": "详细拆解印度统一支付接口（UPI）背后的技术流程与交易实现机制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "iroh.computer",
+          "count": 1
+        },
+        {
+          "domain": "antjs.org",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 80,
+      "max_score": {
+        "title": "We scaled PgBouncer to 4x throughput",
+        "score": 176
+      },
+      "most_discussed": {
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "comments": 76
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Show HN",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI基础设施的深度博弈、开源硬件的创新尝试以及数据库性能优化的实战案例。行业焦点集中在GPU资源的金融运作模式、跨领域的技术开源项目，以及云服务可靠性与合同合规性等法律与工程挑战。"
+  }
+}
