@@ -155,5 +155,164 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了AI基础设施的深度博弈、开源硬件的创新尝试以及数据库性能优化的实战案例。行业焦点集中在GPU资源的金融运作模式、跨领域的技术开源项目，以及云服务可靠性与合同合规性等法律与工程挑战。"
+  },
+  "noon": {
+    "time": "2026-07-12 14:24",
+    "stories": [
+      {
+        "id": 48877668,
+        "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+        "domain": "quantamagazine.org",
+        "score": 75,
+        "descendants": 30,
+        "by": "Anon84",
+        "tags": [],
+        "summary": "科学家发现某些简单流体在特定条件下会发生类似固体的断裂现象，挑战了传统流体力学认知。"
+      },
+      {
+        "id": 48876505,
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "domain": "iroh.computer",
+        "score": 179,
+        "descendants": 41,
+        "by": "tionis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Mesh LLM技术，探讨如何利用iroh网络协议实现分布式AI计算。"
+      },
+      {
+        "id": 48875377,
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "url": "https://antjs.org",
+        "domain": "antjs.org",
+        "score": 230,
+        "descendants": 101,
+        "by": "theMackabu",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "Ant是一个新兴的JavaScript运行时及其配套生态系统，旨在提供高性能的开发体验。"
+      },
+      {
+        "id": 48876245,
+        "title": "RISCBoy is an open-source portable games console, designed from scratch",
+        "url": "https://github.com/Wren6991/RISCBoy",
+        "domain": "github.com",
+        "score": 104,
+        "descendants": 17,
+        "by": "mariuz",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "分享一款从零开始设计的开源便携式游戏机RISCBoy的开发历程与硬件方案。"
+      },
+      {
+        "id": 48831384,
+        "title": "Text Art Tools",
+        "url": "https://hlnet.notion.site/text-art-tools",
+        "domain": "hlnet.notion.site",
+        "score": 10,
+        "descendants": 1,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "汇集了各种用于创作文本艺术的实用工具及资源。"
+      },
+      {
+        "id": 48846177,
+        "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+        "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+        "domain": "triapul.cz",
+        "score": 43,
+        "descendants": 9,
+        "by": "c-c-c-c-c",
+        "tags": [],
+        "summary": "一位开发者使用9front操作系统进行绘画创作的个人叙事与经验总结。"
+      },
+      {
+        "id": 48873836,
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "domain": "io-fund.com",
+        "score": 218,
+        "descendants": 71,
+        "by": "adletbalzhanov",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深入解析Nvidia、CoreWeave和Nebius之间如何通过循环融资推动GPU市场繁荣的财务内幕。"
+      },
+      {
+        "id": 48823981,
+        "title": "An agent in 100 lines of Lisp",
+        "url": "https://thebeach.dev/posts/lisp-agent/",
+        "domain": "thebeach.dev",
+        "score": 100,
+        "descendants": 5,
+        "by": "jamiebeach",
+        "tags": [],
+        "summary": "通过仅100行Lisp代码实现一个功能性智能代理，展示函数式编程的简洁与强大。"
+      },
+      {
+        "id": 48877314,
+        "title": "A pure scheme web programming tool",
+        "url": "https://goeteia.dev",
+        "domain": "goeteia.dev",
+        "score": 76,
+        "descendants": 20,
+        "by": "guenchi",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍一款专为Web开发设计的纯Scheme编程工具，探索Lisp系语言在现代Web开发中的应用。"
+      },
+      {
+        "id": 48878195,
+        "title": "Why Write Code in 2026",
+        "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+        "domain": "softwaredoug.com",
+        "score": 25,
+        "descendants": 7,
+        "by": "zdw",
+        "tags": [],
+        "summary": "讨论在人工智能快速演进的2026年，人类为何依然需要亲手编写代码的深层价值。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "quantamagazine.org",
+          "count": 1
+        },
+        {
+          "domain": "iroh.computer",
+          "count": 1
+        },
+        {
+          "domain": "antjs.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 106,
+      "max_score": {
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "score": 230
+      },
+      "most_discussed": {
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "comments": 101
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Show HN",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿AI基础设施与分布式计算技术，同时展现了开发者对编程语言生态建设（如JavaScript、Scheme、Lisp）及开源硬件创新的持续关注。此外，关于GPU资本运作的深度分析与科学领域的流体力学突破也引起了社区广泛讨论。"
   }
 }
