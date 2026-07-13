@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-07-13 09:26",
+    "stories": [
+      {
+        "id": 48884853,
+        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+        "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+        "domain": "scrapfly.dev",
+        "score": 275,
+        "descendants": 144,
+        "by": "joahnn_s",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Chromium 148更新后，Math.tanh函数的计算精度差异可被用于指纹追踪并识别用户操作系统。"
+      },
+      {
+        "id": 48885643,
+        "title": "Cyberpunk Comics, Manga and Graphic Novels",
+        "url": "https://shellzine.net/cyberpunk-comics/",
+        "domain": "shellzine.net",
+        "score": 67,
+        "descendants": 14,
+        "by": "zdw",
+        "tags": [],
+        "summary": "一份关于赛博朋克风格漫画、长篇漫画及图像小说的专题整理清单。"
+      },
+      {
+        "id": 48886311,
+        "title": "MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)",
+        "url": "https://maxghenis.com/mackenzie-scott-qaly/",
+        "domain": "maxghenis.com",
+        "score": 29,
+        "descendants": 6,
+        "by": "383toast",
+        "tags": [],
+        "summary": "通过质量调整生命年（QALYs）指标，对Mackenzie Scott的慈善捐赠效率进行量化评估。"
+      },
+      {
+        "id": 48884395,
+        "title": "Tiny Emulators",
+        "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+        "domain": "floooh.github.io",
+        "score": 136,
+        "descendants": 4,
+        "by": "naves",
+        "tags": [],
+        "summary": "深入介绍了一系列极简风格的模拟器项目及其技术实现细节。"
+      },
+      {
+        "id": 48885728,
+        "title": "Designing and assembling my first PCB",
+        "url": "https://vilkeliskis.com/b/2026/0711.html",
+        "domain": "vilkeliskis.com",
+        "score": 38,
+        "descendants": 4,
+        "by": "tadasv",
+        "tags": [],
+        "summary": "作者记录了从设计到组装个人首块PCB电路板的全过程与心得。"
+      },
+      {
+        "id": 48827126,
+        "title": "So you want to learn physics (second edition, 2021)",
+        "url": "https://www.susanrigetti.com/physics",
+        "domain": "susanrigetti.com",
+        "score": 90,
+        "descendants": 7,
+        "by": "azhenley",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一份高质量的物理学自学指南，涵盖了从基础到进阶的教材与学习路线图。"
+      },
+      {
+        "id": 48886065,
+        "title": "Billion Dollar PDFs",
+        "url": "https://billiondollarpdf.com/",
+        "domain": "billiondollarpdf.com",
+        "score": 52,
+        "descendants": 16,
+        "by": "rafaepta",
+        "tags": [],
+        "summary": "揭示那些在特定行业中具有极高价值或影响力的“十亿美元级”PDF文档背后的故事。"
+      },
+      {
+        "id": 48884984,
+        "title": "Ask HN: What Are You Working On? (July 2026)",
+        "url": "https://news.ycombinator.com/item?id=48884984",
+        "domain": "news.ycombinator.com",
+        "score": 67,
+        "descendants": 172,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News每月惯例讨论帖，分享开发者们当前正在进行的编程项目。"
+      },
+      {
+        "id": 48882716,
+        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "domain": "ploy.ai",
+        "score": 132,
+        "descendants": 46,
+        "by": "brryant",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享将生产环境AI代理迁移至GPT-5.6的实战经验，实现显著的性能提升与成本节约。"
+      },
+      {
+        "id": 48885705,
+        "title": "Why Vanilla JavaScript",
+        "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+        "domain": "guseyn.com",
+        "score": 20,
+        "descendants": 7,
+        "by": "guseyn",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "探讨在现代开发中回归使用原生JavaScript的必要性及其带来的技术优势。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "scrapfly.dev",
+          "count": 1
+        },
+        {
+          "domain": "shellzine.net",
+          "count": 1
+        },
+        {
+          "domain": "maxghenis.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 91,
+      "max_score": {
+        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+        "score": 275
+      },
+      "most_discussed": {
+        "title": "Ask HN: What Are You Working On? (July 2026)",
+        "comments": 172
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "Ask HN",
+        "AI",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了技术前沿与工程实践，重点关注浏览器指纹追踪、AI模型优化及开源硬件设计。此外，社区讨论了知识学习路径及 philanthropic 公益捐赠的量化评估，展现了技术探索与社会议题的多元交融。"
+  }
+}
