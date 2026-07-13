@@ -313,5 +313,169 @@
       ]
     },
     "summary": "本期Hacker News热门话题涵盖了底层系统安全、硬件工程与复古计算技术，以及对AI生成内容治理的深度讨论。用户对于个人电子制作、物理学学习资源和高性能编程优化保持高度关注。"
+  },
+  "evening": {
+    "time": "2026-07-13 22:23",
+    "stories": [
+      {
+        "id": 48889637,
+        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+        "domain": "raymyers.org",
+        "score": 887,
+        "descendants": 444,
+        "by": "crowdhailer",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Zig 语言作者评论 Anthropic 在模型透明度与术语使用上的做法，引发对 AI 公司行业规范的讨论。"
+      },
+      {
+        "id": 48890959,
+        "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+        "url": "https://jivx.com/densha",
+        "domain": "jivx.com",
+        "score": 121,
+        "descendants": 11,
+        "by": "momentmaker",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一个以日本真实时间运行的体素化东京虚拟项目，用户可搭乘山手线练习日语。"
+      },
+      {
+        "id": 48892512,
+        "title": "Grok uploaded my user directory to xAI's servers",
+        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+        "domain": "twitter.com",
+        "score": 87,
+        "descendants": 40,
+        "by": "tnolet",
+        "tags": [
+          "AI"
+        ],
+        "summary": "用户反馈 Grok 未经授权将其个人用户目录上传至 xAI 服务器，引发数据隐私安全担忧。"
+      },
+      {
+        "id": 48891267,
+        "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+        "url": "https://github.com/floodtide/dom-docx",
+        "domain": "github.com",
+        "score": 43,
+        "descendants": 17,
+        "by": "fishbone",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一个将 HTML 直接转换为可编辑 Word 文档的开源库，方便文档自动化处理。"
+      },
+      {
+        "id": 48892859,
+        "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+        "url": "https://github.com/clawkwork/clawk",
+        "domain": "github.com",
+        "score": 9,
+        "descendants": 0,
+        "by": "celrenheit",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一款为编码代理提供隔离 Linux 虚拟机环境的工具，旨在保护宿主机的安全性。"
+      },
+      {
+        "id": 48892468,
+        "title": "Grok CLI uploaded the whole home directory to GCS",
+        "url": "https://twitter.com/i/status/2076598897779020159",
+        "domain": "twitter.com",
+        "score": 56,
+        "descendants": 19,
+        "by": "denysvitali",
+        "tags": [],
+        "summary": "用户爆料 Grok 命令行工具出现严重 Bug，导致整个用户主目录被同步至 Google 云存储。"
+      },
+      {
+        "id": 48889350,
+        "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+        "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+        "domain": "shkspr.mobi",
+        "score": 150,
+        "descendants": 90,
+        "by": "coinfused",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 48888518,
+        "title": "Backtrack-Free Cursive",
+        "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+        "domain": "mmapped.blog",
+        "score": 149,
+        "descendants": 63,
+        "by": "dmit",
+        "tags": [],
+        "summary": "探讨一种无需回溯的连笔字书写算法，旨在解决手写识别中的路径规划挑战。"
+      },
+      {
+        "id": 48832329,
+        "title": "The 'absolute magic' of Morse code that still connects people globally",
+        "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
+        "domain": "bbc.com",
+        "score": 24,
+        "descendants": 11,
+        "by": "austinallegro",
+        "tags": [],
+        "summary": "回顾摩尔斯电码如何跨越时代，通过独特的信号魅力在全球范围内连接人心。"
+      },
+      {
+        "id": 48828576,
+        "title": "The social physics of conversation: Communication patterns matter",
+        "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+        "domain": "andiroberts.com",
+        "score": 104,
+        "descendants": 20,
+        "by": "kiyanwang",
+        "tags": [
+          "Science"
+        ],
+        "summary": "基于社会物理学视角，分析人际沟通模式及其对对话质量和效率的底层影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "twitter.com",
+          "count": 2
+        },
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "raymyers.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 163,
+      "max_score": {
+        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "score": 887
+      },
+      "most_discussed": {
+        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "comments": 444
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science",
+        "Show HN",
+        "Web"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热点集中于 AI 开发工具的安全性与合规性讨论，尤其是针对 Grok 泄露用户隐私的负面反馈引发广泛关注。此外，内容涵盖了个人编程项目、技术教程以及对通信文化与社会交互规律的深入探讨。"
   }
 }
