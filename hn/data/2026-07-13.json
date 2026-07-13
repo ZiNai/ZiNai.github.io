@@ -156,5 +156,162 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了技术前沿与工程实践，重点关注浏览器指纹追踪、AI模型优化及开源硬件设计。此外，社区讨论了知识学习路径及 philanthropic 公益捐赠的量化评估，展现了技术探索与社会议题的多元交融。"
+  },
+  "noon": {
+    "time": "2026-07-13 14:43",
+    "stories": [
+      {
+        "id": 48888193,
+        "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+        "url": "https://github.com/schlae/BeavisUltrasound",
+        "domain": "github.com",
+        "score": 34,
+        "descendants": 7,
+        "by": "mariuz",
+        "tags": [],
+        "summary": "介绍了一款复刻Beavis超声波PnP ISA声卡的项目，适合复古硬件爱好者参考。"
+      },
+      {
+        "id": 48834309,
+        "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+        "url": "https://nebusec.ai/research/ionstack-part-2/",
+        "domain": "nebusec.ai",
+        "score": 211,
+        "descendants": 72,
+        "by": "ranger_danger",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度解析了一个存在于Linux内核长达15年的GhostLock漏洞，揭示了stack-UAF漏洞的影响。"
+      },
+      {
+        "id": 48886741,
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "url": "https://news.ycombinator.com/item?id=48886741",
+        "domain": "news.ycombinator.com",
+        "score": 456,
+        "descendants": 237,
+        "by": "levkk",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ],
+        "summary": "社区探讨是否应在Hacker News上为AI生成的文章设置专门的标签以进行标识。"
+      },
+      {
+        "id": 48885643,
+        "title": "Cyberpunk Comics, Manga and Graphic Novels",
+        "url": "https://shellzine.net/cyberpunk-comics/",
+        "domain": "shellzine.net",
+        "score": 149,
+        "descendants": 38,
+        "by": "zdw",
+        "tags": [],
+        "summary": "汇集了各类赛博朋克题材的漫画与图像小说作品，涵盖多种风格。"
+      },
+      {
+        "id": 48884395,
+        "title": "Tiny Emulators",
+        "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+        "domain": "floooh.github.io",
+        "score": 212,
+        "descendants": 13,
+        "by": "naves",
+        "tags": [],
+        "summary": "探讨了小型模拟器的设计理念与实现技术，适合硬件模拟与开发爱好者。"
+      },
+      {
+        "id": 48827126,
+        "title": "So you want to learn physics (second edition, 2021)",
+        "url": "https://www.susanrigetti.com/physics",
+        "domain": "susanrigetti.com",
+        "score": 170,
+        "descendants": 26,
+        "by": "azhenley",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一份详尽的自学物理学指南（第二版），为不同水平的学习者整理了推荐书单与路径。"
+      },
+      {
+        "id": 48885728,
+        "title": "Designing and assembling my first PCB",
+        "url": "https://vilkeliskis.com/b/2026/0711.html",
+        "domain": "vilkeliskis.com",
+        "score": 91,
+        "descendants": 34,
+        "by": "tadasv",
+        "tags": [],
+        "summary": "记录了作者从零开始设计并组装个人首块PCB的全过程，分享了实践心得。"
+      },
+      {
+        "id": 48844554,
+        "title": "Converting colors in JavaScript at 6B operations per second",
+        "url": "https://dkryaklin.com/blog/colordx-gpu",
+        "domain": "dkryaklin.com",
+        "score": 13,
+        "descendants": 1,
+        "by": "dkryaklin",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "介绍如何在JavaScript中实现每秒60亿次的高性能颜色转换运算。"
+      },
+      {
+        "id": 48887753,
+        "title": "Count Binface",
+        "url": "https://countbinface.com",
+        "domain": "countbinface.com",
+        "score": 155,
+        "descendants": 42,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "关于Count Binface这位独特政治竞选人物的背景与相关动态介绍。"
+      },
+      {
+        "id": 48849983,
+        "title": "Are you telling me a readonly property is wrecking my performance?",
+        "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
+        "domain": "shub.club",
+        "score": 16,
+        "descendants": 8,
+        "by": "forthwall",
+        "tags": [],
+        "summary": "分析了只读属性对代码性能产生的意外损耗，讨论了JavaScript引擎的优化细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "nebusec.ai",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 151,
+      "max_score": {
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "score": 456
+      },
+      "most_discussed": {
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "comments": 237
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Ask HN",
+        "Science",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期Hacker News热门话题涵盖了底层系统安全、硬件工程与复古计算技术，以及对AI生成内容治理的深度讨论。用户对于个人电子制作、物理学学习资源和高性能编程优化保持高度关注。"
   }
 }
