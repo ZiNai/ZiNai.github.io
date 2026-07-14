@@ -154,5 +154,157 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在软件工程实务与底层技术分析，开发者们热议无需 Xcode 的开发流及 AI 语音识别性能对比。此外，复古硬件逆向工程与探讨科技对社会影响的议题也占据了热门位置。"
+  },
+  "noon": {
+    "time": "2026-07-14 14:02",
+    "stories": [
+      {
+        "id": 48901569,
+        "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+        "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+        "domain": "tech.supercarblondie.com",
+        "score": 222,
+        "descendants": 60,
+        "by": "donohoe",
+        "tags": [],
+        "summary": "日本研发出从旧电动汽车电池中回收高达90%锂的新技术。"
+      },
+      {
+        "id": 48902026,
+        "title": "YouTrackDB is a general-use object-oriented graph database",
+        "url": "https://github.com/JetBrains/youtrackdb",
+        "domain": "github.com",
+        "score": 53,
+        "descendants": 5,
+        "by": "gjvc",
+        "tags": [
+          "Database"
+        ],
+        "summary": "YouTrackDB 是一款全新的通用型面向对象图数据库。"
+      },
+      {
+        "id": 48901454,
+        "title": "Fundamentals of Wireless Communication (2005)",
+        "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+        "domain": "web.stanford.edu",
+        "score": 94,
+        "descendants": 3,
+        "by": "teleforce",
+        "tags": [],
+        "summary": "斯坦福大学经典的无线通信基础教程，涵盖了无线传输的核心理论。"
+      },
+      {
+        "id": 48901010,
+        "title": "The Git history command deserves more attention",
+        "url": "https://lalitm.com/post/git-history/",
+        "domain": "lalitm.com",
+        "score": 183,
+        "descendants": 109,
+        "by": "turbocon",
+        "tags": [],
+        "summary": "深度解析为何Git历史命令是一个常被忽视但极其强大的开发利器。"
+      },
+      {
+        "id": 48896665,
+        "title": "Building and shipping Mac and iOS apps without opening Xcode",
+        "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+        "domain": "scottwillsey.com",
+        "score": 394,
+        "descendants": 176,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探索如何脱离Xcode，构建并发布Mac与iOS应用程序的自动化工作流。"
+      },
+      {
+        "id": 48872833,
+        "title": "How to build a circular LCD clock",
+        "url": "https://blinry.org/lcd-clock/",
+        "domain": "blinry.org",
+        "score": 35,
+        "descendants": 8,
+        "by": "birdculture",
+        "tags": [],
+        "summary": "手把手教你如何从零构建一个圆形的LCD显示时钟。"
+      },
+      {
+        "id": 48902320,
+        "title": "Australia is offering free daytime electricity",
+        "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+        "domain": "lenergy.com.au",
+        "score": 18,
+        "descendants": 16,
+        "by": "i2oc",
+        "tags": [],
+        "summary": "澳大利亚由于可再生能源过剩，正为用户提供白天的免费电力。"
+      },
+      {
+        "id": 48901224,
+        "title": "The Economics of Recursive Self-Improvement [pdf]",
+        "url": "https://elasticity.institute/rsi-paper.pdf",
+        "domain": "elasticity.institute",
+        "score": 60,
+        "descendants": 7,
+        "by": "apsec112",
+        "tags": [],
+        "summary": "探讨递归自我改进在经济模型中的潜在影响与逻辑推演。"
+      },
+      {
+        "id": 48894752,
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+        "domain": "get-inscribe.com",
+        "score": 511,
+        "descendants": 200,
+        "by": "get-inscribe",
+        "tags": [
+          "AI"
+        ],
+        "summary": "详细测评苹果最新SpeechAnalyzer API，并将其性能与Whisper进行对比。"
+      },
+      {
+        "id": 48901356,
+        "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+        "url": "https://satellitemap.space/",
+        "domain": "satellitemap.space",
+        "score": 53,
+        "descendants": 13,
+        "by": "rolph",
+        "tags": [],
+        "summary": "一款实时卫星追踪地图，可实时查看Starlink及全球数万颗卫星的轨道位置。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "tech.supercarblondie.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "web.stanford.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 162,
+      "max_score": {
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "score": 511
+      },
+      "most_discussed": {
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "comments": 200
+      },
+      "hot_tags": [
+        "Database",
+        "Systems",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在硬核技术工程与行业创新，开发者关注点涵盖从无Xcode开发工作流到Git历史分析等高效工具实践。同时，科技界正密切关注锂电池回收技术、苹果语音识别新进展以及全球能源结构变化等前沿趋势。"
   }
 }
