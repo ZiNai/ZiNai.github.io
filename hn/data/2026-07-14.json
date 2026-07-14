@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-07-14 09:16",
+    "stories": [
+      {
+        "id": 48900432,
+        "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+        "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+        "domain": "newsletter.pragmaticengineer.com",
+        "score": 34,
+        "descendants": 37,
+        "by": "saisrirampur",
+        "tags": [],
+        "summary": "探讨前线部署工程师（Forward Deployed Engineers）的角色定义及其在当前市场火热的原因。"
+      },
+      {
+        "id": 48896665,
+        "title": "Building and shipping Mac and iOS apps without opening Xcode",
+        "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+        "domain": "scottwillsey.com",
+        "score": 289,
+        "descendants": 131,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍如何通过命令行等非 Xcode 方式构建和发布 Mac 及 iOS 应用程序。"
+      },
+      {
+        "id": 48894752,
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+        "domain": "get-inscribe.com",
+        "score": 440,
+        "descendants": 178,
+        "by": "get-inscribe",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果 SpeechAnalyzer API 的实测报告，并与 Whisper 及旧版技术方案进行性能对比。"
+      },
+      {
+        "id": 48900191,
+        "title": "An Englishwoman who sketched India before photography took hold",
+        "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+        "domain": "bbc.com",
+        "score": 36,
+        "descendants": 4,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "讲述一位在摄影技术普及前，通过画笔记录印度风土人情的英国女性。"
+      },
+      {
+        "id": 48851412,
+        "title": "N+1",
+        "url": "https://www.woman-of-letters.com/p/n1",
+        "domain": "woman-of-letters.com",
+        "score": 29,
+        "descendants": 3,
+        "by": "Caiero",
+        "tags": [],
+        "summary": "探讨软件开发中经典的 N+1 查询性能问题及其影响。"
+      },
+      {
+        "id": 48893639,
+        "title": "The art and engineering of Sega CD Silpheed",
+        "url": "https://fabiensanglard.net/silpheed/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 221,
+        "descendants": 44,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "深度剖析 Sega CD 游戏《Silpheed》背后的艺术设计与技术工程实现。"
+      },
+      {
+        "id": 48901010,
+        "title": "The Git history command deserves more attention",
+        "url": "https://lalitm.com/post/git-history/",
+        "domain": "lalitm.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "turbocon",
+        "tags": [],
+        "summary": "建议开发者应给予 Git history 命令更多关注，挖掘其在版本控制中的潜力。"
+      },
+      {
+        "id": 48896600,
+        "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+        "url": "https://cakehonolulu.github.io/linux-on-32x/",
+        "domain": "cakehonolulu.github.io",
+        "score": 99,
+        "descendants": 22,
+        "by": "cakehonolulu",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "在 Sega 32X 游戏机上运行 Linux 的技术挑战，重点探讨缺乏硬件同步原语的应对方案。"
+      },
+      {
+        "id": 48897104,
+        "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+        "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+        "domain": "sfgate.com",
+        "score": 69,
+        "descendants": 115,
+        "by": "Stratoscope",
+        "tags": [],
+        "summary": "分析加州拟议法案可能对无限滚动网页交互模式带来的法律与设计冲击。"
+      },
+      {
+        "id": 48898154,
+        "title": "Show HN: YouTube Guitar Tab Parser",
+        "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+        "domain": "github.com",
+        "score": 66,
+        "descendants": 47,
+        "by": "neogenix",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "分享一款能够自动解析 YouTube 视频并生成吉他谱的工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "newsletter.pragmaticengineer.com",
+          "count": 1
+        },
+        {
+          "domain": "scottwillsey.com",
+          "count": 1
+        },
+        {
+          "domain": "get-inscribe.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 129,
+      "max_score": {
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "score": 440
+      },
+      "most_discussed": {
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "comments": 178
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在软件工程实务与底层技术分析，开发者们热议无需 Xcode 的开发流及 AI 语音识别性能对比。此外，复古硬件逆向工程与探讨科技对社会影响的议题也占据了热门位置。"
+  }
+}
