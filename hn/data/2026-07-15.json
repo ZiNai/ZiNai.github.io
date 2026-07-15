@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-07-15 09:13",
+    "stories": [
+      {
+        "id": 48910545,
+        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+        "url": "https://prismml.com/news/bonsai-27b",
+        "domain": "prismml.com",
+        "score": 416,
+        "descendants": 160,
+        "by": "xenova",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款能在智能手机上流畅运行的 27B 参数高性能大模型 Bonsai。"
+      },
+      {
+        "id": 48914644,
+        "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+        "url": "https://vpd.ca/",
+        "domain": "vpd.ca",
+        "score": 23,
+        "descendants": 8,
+        "by": "LookAtThatBacon",
+        "tags": [
+          "Web"
+        ],
+        "summary": "温哥华警察局网站新增“快速逃生”功能，点击后可迅速清空浏览器访问历史以保护隐私。"
+      },
+      {
+        "id": 48913050,
+        "title": "Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+        "domain": "github.blog",
+        "score": 88,
+        "descendants": 56,
+        "by": "woodruffw",
+        "tags": [],
+        "summary": "GitHub 的 Dependabot 更新了版本策略，引入默认冷却期以降低频繁更新带来的干扰。"
+      },
+      {
+        "id": 48913443,
+        "title": "Financing the AI boom: from cash flows to debt [pdf]",
+        "url": "https://www.bis.org/publ/bisbull120.pdf",
+        "domain": "bis.org",
+        "score": 77,
+        "descendants": 28,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "AI"
+        ],
+        "summary": "国际清算银行探讨人工智能行业当前的融资模式，重点分析现金流与债务杠杆的风险。"
+      },
+      {
+        "id": 48909785,
+        "title": "The Tower Keeps Rising",
+        "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+        "domain": "lucumr.pocoo.org",
+        "score": 331,
+        "descendants": 159,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "深度探讨软件开发中复杂性增加的问题及其对开发效率带来的长期隐患。"
+      },
+      {
+        "id": 48910676,
+        "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+        "domain": "mindgard.ai",
+        "score": 244,
+        "descendants": 104,
+        "by": "Synthetic7346",
+        "tags": [],
+        "summary": "详细披露 Cursor 代码编辑器的零日漏洞及其披露过程中的安全合规挑战。"
+      },
+      {
+        "id": 48912175,
+        "title": "How I use HTMX with Go",
+        "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+        "domain": "alexedwards.net",
+        "score": 104,
+        "descendants": 21,
+        "by": "gnabgib",
+        "tags": [],
+        "summary": "探讨如何利用 HTMX 技术简化 Go 语言后端驱动的网页开发流程。"
+      },
+      {
+        "id": 48913763,
+        "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+        "url": "https://www.benjamin-bai.com/projects/lemario",
+        "domain": "benjamin-bai.com",
+        "score": 34,
+        "descendants": 3,
+        "by": "kevinjosethomas",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "利用 LeMario 模型通过训练 JEPA 架构让 AI 学习《超级马里奥兄弟》的世界规则。"
+      },
+      {
+        "id": 48869989,
+        "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+        "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+        "domain": "danq.me",
+        "score": 705,
+        "descendants": 433,
+        "by": "MrVandemar",
+        "tags": [
+          "Web"
+        ],
+        "summary": "抨击现代软件开发中过度封装的问题，主张许多应用其实只需简单的网页即可实现。"
+      },
+      {
+        "id": 48905183,
+        "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+        "url": "https://www.nature.com/articles/d41586-026-02170-8",
+        "domain": "nature.com",
+        "score": 31,
+        "descendants": 5,
+        "by": "homarp",
+        "tags": [],
+        "summary": "考古研究发现危地马拉玛雅遗址的数学文本，揭示了古代天文学家的相关记录。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "prismml.com",
+          "count": 1
+        },
+        {
+          "domain": "vpd.ca",
+          "count": 1
+        },
+        {
+          "domain": "github.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+        "score": 705
+      },
+      "most_discussed": {
+        "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+        "comments": 433
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能技术的演进与应用，包括轻量级大模型、世界模型研究以及 AI 生态下的安全隐患。同时，技术界对于 Web 应用开发范式（如 HTMX）及软件工具的使用体验仍保持着持续的关注与反思。"
+  }
+}
