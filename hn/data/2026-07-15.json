@@ -155,5 +155,160 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能技术的演进与应用，包括轻量级大模型、世界模型研究以及 AI 生态下的安全隐患。同时，技术界对于 Web 应用开发范式（如 HTMX）及软件工具的使用体验仍保持着持续的关注与反思。"
+  },
+  "noon": {
+    "time": "2026-07-15 14:05",
+    "stories": [
+      {
+        "id": 48915709,
+        "title": "Jurassic Park computers in excruciating detail",
+        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 207,
+        "descendants": 49,
+        "by": "vinhnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析《侏罗纪公园》电影中出现的计算机系统及其硬件配置。"
+      },
+      {
+        "id": 48914644,
+        "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+        "url": "https://vpd.ca/",
+        "domain": "vpd.ca",
+        "score": 210,
+        "descendants": 77,
+        "by": "LookAtThatBacon",
+        "tags": [
+          "Web"
+        ],
+        "summary": "温哥华警局官网设计的“快速离开”按钮能有效清除浏览器访问记录，旨在保护敏感用户安全。"
+      },
+      {
+        "id": 48915004,
+        "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+        "url": "https://tailscale.com/security-bulletins",
+        "domain": "tailscale.com",
+        "score": 101,
+        "descendants": 43,
+        "by": "jervant",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Tailscale披露了一项SSH参数处理漏洞，曾导致攻击者获得root访问权限。"
+      },
+      {
+        "id": 48910545,
+        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+        "url": "https://prismml.com/news/bonsai-27b",
+        "domain": "prismml.com",
+        "score": 523,
+        "descendants": 187,
+        "by": "xenova",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Bonsai 27B模型展示了在手机等边缘设备上运行大参数量AI模型的可行性。"
+      },
+      {
+        "id": 48875188,
+        "title": "Andon (manufacturing)",
+        "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+        "domain": "en.wikipedia.org",
+        "score": 19,
+        "descendants": 0,
+        "by": "tony",
+        "tags": [],
+        "summary": "关于精益制造中“安灯”（Andon）系统的概念介绍，阐述了其在生产线质量控制中的作用。"
+      },
+      {
+        "id": 48913050,
+        "title": "Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+        "domain": "github.blog",
+        "score": 145,
+        "descendants": 85,
+        "by": "woodruffw",
+        "tags": [],
+        "summary": "GitHub的Dependabot引入默认包更新冷却机制，以优化依赖管理的频率与安全性。"
+      },
+      {
+        "id": 48909785,
+        "title": "The Tower Keeps Rising",
+        "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+        "domain": "lucumr.pocoo.org",
+        "score": 421,
+        "descendants": 189,
+        "by": "cdrnsf",
+        "tags": [],
+        "summary": "通过深度观察讨论当前AI基础设施的建设浪潮及其面临的挑战与机遇。"
+      },
+      {
+        "id": 48910676,
+        "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+        "domain": "mindgard.ai",
+        "score": 311,
+        "descendants": 151,
+        "by": "Synthetic7346",
+        "tags": [],
+        "summary": "探讨当前软件栈的复杂性，分析为何在某些极端情况下完全披露成为保护用户的最后手段。"
+      },
+      {
+        "id": 48913443,
+        "title": "Financing the AI boom: from cash flows to debt [pdf]",
+        "url": "https://www.bis.org/publ/bisbull120.pdf",
+        "domain": "bis.org",
+        "score": 137,
+        "descendants": 77,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "AI"
+        ],
+        "summary": "国际清算银行探讨AI热潮下的融资模式，分析从现金流到债务融资的转变及其金融影响。"
+      },
+      {
+        "id": 48912175,
+        "title": "How I use HTMX with Go",
+        "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+        "domain": "alexedwards.net",
+        "score": 184,
+        "descendants": 41,
+        "by": "gnabgib",
+        "tags": [],
+        "summary": "分享开发者如何利用HTMX与Go语言协同构建简洁高效的Web应用程序。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "fabiensanglard.net",
+          "count": 1
+        },
+        {
+          "domain": "vpd.ca",
+          "count": 1
+        },
+        {
+          "domain": "tailscale.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 226,
+      "max_score": {
+        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+        "score": 523
+      },
+      "most_discussed": {
+        "title": "The Tower Keeps Rising",
+        "comments": 189
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于网络安全漏洞披露与行业热点，从Tailscale和Cursor的安全事件讨论到AI模型端侧部署的技术进展，展现了开发者社区对AI基础设施及其安全性与经济效益的深度关注。此外，技术工程实践与基础设施治理话题依然是讨论重点。"
   }
 }
