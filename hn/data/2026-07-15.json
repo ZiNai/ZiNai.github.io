@@ -310,5 +310,154 @@
       ]
     },
     "summary": "本期Hacker News聚焦于网络安全漏洞披露与行业热点，从Tailscale和Cursor的安全事件讨论到AI模型端侧部署的技术进展，展现了开发者社区对AI基础设施及其安全性与经济效益的深度关注。此外，技术工程实践与基础设施治理话题依然是讨论重点。"
+  },
+  "evening": {
+    "time": "2026-07-15 21:26",
+    "stories": [
+      {
+        "id": 48919363,
+        "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+        "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+        "domain": "academic.oup.com",
+        "score": 167,
+        "descendants": 64,
+        "by": "bilsbie",
+        "tags": [],
+        "summary": "研究指出睡眠的规律性相比单纯的睡眠时长，更能有效预测个体的死亡风险。"
+      },
+      {
+        "id": 48919198,
+        "title": "Prioritize mental health, and why communication is so important",
+        "url": "https://ramones.dev/posts/mental-health/",
+        "domain": "ramones.dev",
+        "score": 48,
+        "descendants": 27,
+        "by": "ramon156",
+        "tags": [],
+        "summary": "探讨心理健康的重要性及有效沟通在维护职业与个人状态中的关键作用。"
+      },
+      {
+        "id": 48915709,
+        "title": "Jurassic Park computers in excruciating detail",
+        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 624,
+        "descendants": 149,
+        "by": "vinhnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析《侏罗纪公园》电影中出现过的经典计算机硬件及其背后的技术细节。"
+      },
+      {
+        "id": 48918575,
+        "title": "DSLs Enable Reliable Use of LLMs",
+        "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+        "domain": "martinfowler.com",
+        "score": 57,
+        "descendants": 28,
+        "by": "SirOibaf",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨通过领域特定语言（DSLs）来提升大语言模型（LLMs）输出的可靠性与可控性。"
+      },
+      {
+        "id": 48918534,
+        "title": "Telegram Serverless",
+        "url": "https://core.telegram.org/bots/serverless",
+        "domain": "core.telegram.org",
+        "score": 49,
+        "descendants": 36,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "详细介绍Telegram如何利用无服务器架构来处理其海量后端服务。"
+      },
+      {
+        "id": 48919191,
+        "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
+        "domain": "papers.ssrn.com",
+        "score": 23,
+        "descendants": 25,
+        "by": "fabioricardo7",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示一个过去十届世界杯预测中表现惊人的赛事预测模型及其背后的逻辑。"
+      },
+      {
+        "id": 48919013,
+        "title": "Weathergotchi – an open-source climate Tamagotchi",
+        "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+        "domain": "github.com",
+        "score": 30,
+        "descendants": 11,
+        "by": "luanmuniz",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个基于天气数据的开源电子宠物项目，将现实气象与互动玩法结合。"
+      },
+      {
+        "id": 48918956,
+        "title": "Societal Impacts: Claude's values across models and languages",
+        "url": "https://www.anthropic.com/research/claude-values-models-languages",
+        "domain": "anthropic.com",
+        "score": 23,
+        "descendants": 17,
+        "by": "taubek",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic分析Claude模型在不同语言与版本下的价值观偏向及其社会影响。"
+      },
+      {
+        "id": 48920181,
+        "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+        "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+        "domain": "ft.com",
+        "score": 28,
+        "descendants": 5,
+        "by": "youngtaff",
+        "tags": [
+          "Science"
+        ],
+        "summary": "报道SpaceX债券价格跌破发行价，市场对其信用评级滑向垃圾债边缘的担忧。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "academic.oup.com",
+          "count": 1
+        },
+        {
+          "domain": "ramones.dev",
+          "count": 1
+        },
+        {
+          "domain": "fabiensanglard.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 117,
+      "max_score": {
+        "title": "Jurassic Park computers in excruciating detail",
+        "score": 624
+      },
+      "most_discussed": {
+        "title": "Jurassic Park computers in excruciating detail",
+        "comments": 149
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从睡眠科学、AI技术应用到怀旧科技解析等多元领域。整体趋势显示技术社区对模型可靠性、系统架构演进及生活健康科学的关注度依然稳健。"
   }
 }
