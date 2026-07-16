@@ -1,0 +1,169 @@
+{
+  "morning": {
+    "time": "2026-07-16 09:22",
+    "stories": [
+      {
+        "id": 48924912,
+        "title": "Inkling: Our Open-Weights Model",
+        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "domain": "thinkingmachines.ai",
+        "score": 656,
+        "descendants": 164,
+        "by": "vimarsh6739",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Thinking Machines 发布了名为 Inkling 的开放权重 AI 模型。"
+      },
+      {
+        "id": 48928135,
+        "title": "SQLite should have (Rust-style) editions",
+        "url": "https://mort.coffee/home/sqlite-editions/",
+        "domain": "mort.coffee",
+        "score": 101,
+        "descendants": 37,
+        "by": "gnyeki",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "文章探讨了 SQLite 是否应该引入类似 Rust 的版本管理机制以改善兼容性。"
+      },
+      {
+        "id": 48926590,
+        "title": "Grok Build is open source",
+        "url": "https://github.com/xai-org/grok-build",
+        "domain": "github.com",
+        "score": 241,
+        "descendants": 289,
+        "by": "skp1995",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "xAI 已将 Grok 模型的相关构建代码开源。"
+      },
+      {
+        "id": 48928313,
+        "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+        "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+        "domain": "chemistry.berkeley.edu",
+        "score": 33,
+        "descendants": 7,
+        "by": "andsoitis",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍金属有机框架材料在化学领域的突破性应用及其科研价值。"
+      },
+      {
+        "id": 48927095,
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "domain": "siegelendowment.org",
+        "score": 75,
+        "descendants": 28,
+        "by": "bilsbie",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "主张政府与机构应加大对开源 AI 项目的资金投入以推动技术普惠。"
+      },
+      {
+        "id": 48927915,
+        "title": "LLM Networking with MikroTik",
+        "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+        "domain": "blog.greg.technology",
+        "score": 42,
+        "descendants": 8,
+        "by": "gregsadetsky",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨利用 MikroTik 网络设备进行大模型推理任务的实践与经验。"
+      },
+      {
+        "id": 48915953,
+        "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+        "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+        "domain": "reuters.com",
+        "score": 334,
+        "descendants": 204,
+        "by": "rvz",
+        "tags": [],
+        "summary": "据路透社报道，Stripe 正联合 Advent 寻求收购 PayPal。"
+      },
+      {
+        "id": 48928343,
+        "title": "Nul Characters in Strings in SQLite",
+        "url": "https://sqlite.org/nulinstr.html",
+        "domain": "sqlite.org",
+        "score": 26,
+        "descendants": 2,
+        "by": "basilikum",
+        "tags": [
+          "Database"
+        ],
+        "summary": "SQLite 官方文档说明了字符串中空字符（Nul）的处理机制。"
+      },
+      {
+        "id": 48913653,
+        "title": "Book prizes don't work how you think",
+        "url": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
+        "domain": "rebeccamakkai.substack.com",
+        "score": 60,
+        "descendants": 34,
+        "by": "samclemens",
+        "tags": [],
+        "summary": "深度剖析文学奖项的运作机制及其对文学界的实际影响。"
+      },
+      {
+        "id": 48922434,
+        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "domain": "neomindlabs.com",
+        "score": 227,
+        "descendants": 150,
+        "by": "neomindryan",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "技术分享：如何仅利用 13 年前的 CPU 硬件实现 Gemma 4 26B 模型的有效推理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "thinkingmachines.ai",
+          "count": 1
+        },
+        {
+          "domain": "mort.coffee",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 180,
+      "max_score": {
+        "title": "Inkling: Our Open-Weights Model",
+        "score": 656
+      },
+      "most_discussed": {
+        "title": "Grok Build is open source",
+        "comments": 289
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Open Source",
+        "Rust",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能领域，涵盖了从模型开源、推理优化到基础设施建设的深度讨论。此外，SQLite 的架构演进以及科技行业的重磅并购传闻也引发了社区的广泛关注。"
+  }
+}
