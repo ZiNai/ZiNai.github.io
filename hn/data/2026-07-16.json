@@ -324,5 +324,159 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在开源 AI 生态的扩展与争议，涵盖了模型发布、治理建议及对 AI 工具属性的哲学探讨。此外，技术社区还围绕软件工程实践（如 SQLite 版本管理、分布式系统架构）和数字文化遗产保护展开了深度讨论。"
+  },
+  "evening": {
+    "time": "2026-07-16 21:40",
+    "stories": [
+      {
+        "id": 48932539,
+        "title": "OnePlus halts operations in USA and Europe",
+        "url": "https://community.oneplus.com/thread/2170715118587871237",
+        "domain": "community.oneplus.com",
+        "score": 205,
+        "descendants": 115,
+        "by": "pilililo2",
+        "tags": [],
+        "summary": "OnePlus宣布即刻停止其在北美及欧洲的市场运营活动。"
+      },
+      {
+        "id": 48933344,
+        "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+        "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+        "domain": "latimes.com",
+        "score": 167,
+        "descendants": 96,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "AI",
+          "Startup",
+          "Science"
+        ],
+        "summary": "SpaceX股价在盘中交易中大幅跳水，跌破了其首次公开募股的价格。"
+      },
+      {
+        "id": 48933303,
+        "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+        "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+        "domain": "onatm.dev",
+        "score": 38,
+        "descendants": 7,
+        "by": "onatm",
+        "tags": [],
+        "summary": "本文从底层基础设施的角度，详细拆解了如何从零开始构建类似PlanetScale的数据库系统。"
+      },
+      {
+        "id": 48930454,
+        "title": "The lost joy of music piracy",
+        "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+        "domain": "pigeonsandplanes.com",
+        "score": 496,
+        "descendants": 320,
+        "by": "mcgin",
+        "tags": [],
+        "summary": "文章探讨了早期音乐盗版时代的独特体验，对比了当代流媒体环境下音乐消费乐趣的缺失。"
+      },
+      {
+        "id": 48932697,
+        "title": "Ente – Opening Our Books",
+        "url": "https://ente.com/open/",
+        "domain": "ente.com",
+        "score": 58,
+        "descendants": 11,
+        "by": "Sherex",
+        "tags": [],
+        "summary": "Ente公司公开了其财务状况与经营数据，旨在提升平台的透明度。"
+      },
+      {
+        "id": 48931588,
+        "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+        "url": "https://joinedanthropic.com",
+        "domain": "joinedanthropic.com",
+        "score": 144,
+        "descendants": 59,
+        "by": "ohong",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "分析了当坚实的理论基础在残酷的现实数据面前遭遇挑战时的科学哲学问题。"
+      },
+      {
+        "id": 48924912,
+        "title": "Inkling: Our Open-Weights Model",
+        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "domain": "thinkingmachines.ai",
+        "score": 1075,
+        "descendants": 265,
+        "by": "vimarsh6739",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Thinking Machines发布了其最新的开放权重AI模型Inkling。"
+      },
+      {
+        "id": 48933370,
+        "title": "The Act and the Outcome of Creation",
+        "url": "https://www.ssp.sh/blog/on-creation/",
+        "domain": "ssp.sh",
+        "score": 14,
+        "descendants": 0,
+        "by": "zazuke",
+        "tags": [],
+        "summary": "探讨了创作过程本身的意义与最终产出之间的辩证关系。"
+      },
+      {
+        "id": 48884068,
+        "title": "A Beautiful Theory Falls to Ugly Data",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+        "domain": "marginalrevolution.com",
+        "score": 49,
+        "descendants": 31,
+        "by": "paulpauper",
+        "tags": []
+      },
+      {
+        "id": 48933371,
+        "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+        "url": "https://www.bbc.com/news/articles/c5y680w62wno",
+        "domain": "bbc.com",
+        "score": 70,
+        "descendants": 81,
+        "by": "clarionbell",
+        "tags": [],
+        "summary": "英国政府将英国钢铁公司收归国有，以确保国内重要供应链的安全性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "community.oneplus.com",
+          "count": 1
+        },
+        {
+          "domain": "latimes.com",
+          "count": 1
+        },
+        {
+          "domain": "onatm.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 232,
+      "max_score": {
+        "title": "Inkling: Our Open-Weights Model",
+        "score": 1075
+      },
+      "most_discussed": {
+        "title": "The lost joy of music piracy",
+        "comments": 320
+      },
+      "hot_tags": [
+        "AI",
+        "Startup",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了科技产业的重大变动，包括OnePlus市场撤离与SpaceX股价波动等商业动态。同时，技术社区聚焦于开源模型发布、初创公司成长轨迹以及对数字时代音乐获取方式的深度反思。"
   }
 }
