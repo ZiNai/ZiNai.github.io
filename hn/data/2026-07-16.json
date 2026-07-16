@@ -165,5 +165,164 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能领域，涵盖了从模型开源、推理优化到基础设施建设的深度讨论。此外，SQLite 的架构演进以及科技行业的重磅并购传闻也引发了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-07-16 14:08",
+    "stories": [
+      {
+        "id": 48930454,
+        "title": "The lost joy of music piracy",
+        "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+        "domain": "pigeonsandplanes.com",
+        "score": 59,
+        "descendants": 8,
+        "by": "mcgin",
+        "tags": [],
+        "summary": "探讨数字音乐版权时代前，音乐盗版所带来的独特发现与分享乐趣。"
+      },
+      {
+        "id": 48930136,
+        "title": "If you want to create a button from scratch, you must first create the universe",
+        "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+        "domain": "madcampos.dev",
+        "score": 57,
+        "descendants": 11,
+        "by": "treve",
+        "tags": [],
+        "summary": "通过自制按钮的复杂流程，反讽现代软件开发中日益膨胀的抽象层与技术栈。"
+      },
+      {
+        "id": 48924912,
+        "title": "Inkling: Our Open-Weights Model",
+        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "domain": "thinkingmachines.ai",
+        "score": 856,
+        "descendants": 214,
+        "by": "vimarsh6739",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍 Thinking Machines 推出的全新开源权重模型 Inkling 及其技术特性。"
+      },
+      {
+        "id": 48928135,
+        "title": "SQLite should have (Rust-style) editions",
+        "url": "https://mort.coffee/home/sqlite-editions/",
+        "domain": "mort.coffee",
+        "score": 199,
+        "descendants": 77,
+        "by": "gnyeki",
+        "tags": [
+          "Rust",
+          "Database"
+        ],
+        "summary": "建议 SQLite 引入类似于 Rust 的版本控制方案，以平衡兼容性与功能演进。"
+      },
+      {
+        "id": 48929351,
+        "title": "Bluesky Trademarks ATProto",
+        "url": "https://atproto.com/blog/at-protocol-trademark",
+        "domain": "atproto.com",
+        "score": 63,
+        "descendants": 24,
+        "by": "chaosharmonic",
+        "tags": [],
+        "summary": "分析 Bluesky 对 ATProto 协议申请商标可能产生的生态影响。"
+      },
+      {
+        "id": 48926590,
+        "title": "Grok Build is open source",
+        "url": "https://github.com/xai-org/grok-build",
+        "domain": "github.com",
+        "score": 369,
+        "descendants": 400,
+        "by": "skp1995",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "xAI 开源了 Grok Build 项目，允许开发者研究其底层构建逻辑。"
+      },
+      {
+        "id": 48930075,
+        "title": "Making 768 servers look like 1",
+        "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+        "domain": "planetscale.com",
+        "score": 33,
+        "descendants": 6,
+        "by": "hisamafahri",
+        "tags": [],
+        "summary": "分享 PlanetScale 如何通过技术手段将数以百计的服务器集群统一管理，实现逻辑上的单体化体验。"
+      },
+      {
+        "id": 48930363,
+        "title": "Stop saying that AI is just a tool and it only matters how it is used",
+        "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+        "domain": "frank.computer",
+        "score": 25,
+        "descendants": 13,
+        "by": "cratermoon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "批判将 AI 简单定义为“仅供使用工具”的观点，呼吁关注其作为独立存在的影响力。"
+      },
+      {
+        "id": 48927095,
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "domain": "siegelendowment.org",
+        "score": 147,
+        "descendants": 54,
+        "by": "bilsbie",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一份政策性建议书，呼吁社会各界加大对开源人工智能基础设施的投资与支持。"
+      },
+      {
+        "id": 48929945,
+        "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+        "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+        "domain": "openculture.com",
+        "score": 27,
+        "descendants": 2,
+        "by": "gslin",
+        "tags": [],
+        "summary": "展示并分享一批经过数字化修复的 19 世纪珍贵野生动物插画集。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pigeonsandplanes.com",
+          "count": 1
+        },
+        {
+          "domain": "madcampos.dev",
+          "count": 1
+        },
+        {
+          "domain": "thinkingmachines.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 184,
+      "max_score": {
+        "title": "Inkling: Our Open-Weights Model",
+        "score": 856
+      },
+      "most_discussed": {
+        "title": "Grok Build is open source",
+        "comments": 400
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Rust",
+        "Database"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在开源 AI 生态的扩展与争议，涵盖了模型发布、治理建议及对 AI 工具属性的哲学探讨。此外，技术社区还围绕软件工程实践（如 SQLite 版本管理、分布式系统架构）和数字文化遗产保护展开了深度讨论。"
   }
 }
