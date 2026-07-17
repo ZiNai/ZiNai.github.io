@@ -314,5 +314,161 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI技术的快速演进与开源应用，涵盖了前沿模型发布、AI代理工具以及多媒体生成实践。同时，科技圈对底层硬件标准、网络安全隐私保障以及历史建筑材料科学等跨学科议题保持着持续关注。"
+  },
+  "evening": {
+    "time": "2026-07-17 21:18",
+    "stories": [
+      {
+        "id": 48946010,
+        "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+        "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+        "domain": "kaggle.com",
+        "score": 241,
+        "descendants": 129,
+        "by": "twerkmeister",
+        "tags": [
+          "AI"
+        ],
+        "summary": "DeepMind资助的Kaggle大奖赛被曝出冠军方案存在大量粗制滥造的AI生成内容，引发对AI评估机制的质疑。"
+      },
+      {
+        "id": 48935342,
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "url": "https://www.kimi.com/blog/kimi-k3",
+        "domain": "kimi.com",
+        "score": 1786,
+        "descendants": 1045,
+        "by": "vincent_s",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Kimi发布K3模型，定位为开放式前沿智能，标志着国产大模型在处理复杂任务上的最新突破。"
+      },
+      {
+        "id": 48943745,
+        "title": "EEG shows brain can simultaneous encode two speech streams",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+        "domain": "journals.plos.org",
+        "score": 161,
+        "descendants": 94,
+        "by": "giuliomagnifico",
+        "tags": [
+          "AI"
+        ],
+        "summary": "脑科学研究发现，人类大脑能够通过脑电波同时编码并处理两股不同的语音流。"
+      },
+      {
+        "id": 48946303,
+        "title": "Apple targets dozens of OpenAI employees with legal letters",
+        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+        "domain": "ft.com",
+        "score": 61,
+        "descendants": 34,
+        "by": "merksittich",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果向多名OpenAI员工发送法律函件，疑似针对人工智能人才招聘引发的潜在竞争问题。"
+      },
+      {
+        "id": 48943174,
+        "title": "Pebble Mega Update – July 2026",
+        "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+        "domain": "repebble.com",
+        "score": 167,
+        "descendants": 79,
+        "by": "crazysaem",
+        "tags": [],
+        "summary": "Pebble智能手表项目发布七月大更新，展示了社区维护的开源可穿戴设备的最新进展。"
+      },
+      {
+        "id": 48943142,
+        "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+        "domain": "smithsonianmag.com",
+        "score": 176,
+        "descendants": 134,
+        "by": "divbzero",
+        "tags": [],
+        "summary": "研究人员通过对1900年前古罗马厕所遗址的分析，揭示了罗马混凝土为何能历经千年而不倒的秘密。"
+      },
+      {
+        "id": 48936426,
+        "title": "Microsoft Comic Chat is now open source",
+        "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+        "domain": "opensource.microsoft.com",
+        "score": 725,
+        "descendants": 159,
+        "by": "jervant",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "微软正式宣布将经典的Comic Chat聊天程序开源，引发怀旧与技术复古讨论。"
+      },
+      {
+        "id": 48912957,
+        "title": "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
+        "url": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
+        "domain": "androidauthority.com",
+        "score": 24,
+        "descendants": 5,
+        "by": "jethronethro",
+        "tags": [],
+        "summary": "作者在试用Pebble Time 2两周后，表达了对该设备体验的极高评价及其对主流智能手表的反思。"
+      },
+      {
+        "id": 48936584,
+        "title": "Decoy Font",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "domain": "mixfont.com",
+        "score": 606,
+        "descendants": 141,
+        "by": "ray__",
+        "tags": [],
+        "summary": "Decoy Font项目通过独特的字体设计方案，展示了文字排版与视觉欺骗交互的技术探索。"
+      },
+      {
+        "id": 48862165,
+        "title": "An Engineer's Guide to USB Typе-С (2024)",
+        "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+        "domain": "ti.com",
+        "score": 211,
+        "descendants": 24,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "一篇深入浅出的USB-C接口技术指南，详细解析了这一复杂接口标准的工作原理与设计规范。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kaggle.com",
+          "count": 1
+        },
+        {
+          "domain": "kimi.com",
+          "count": 1
+        },
+        {
+          "domain": "journals.plos.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 416,
+      "max_score": {
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "score": 1786
+      },
+      "most_discussed": {
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "comments": 1045
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于前沿人工智能的进展与争议，包括DeepMind竞赛中的AI内容造假风波以及Kimi大模型的发布。此外，技术工程社区持续关注复古科技的焕新、经典开源项目的重启以及硬件标准（USB-C）的技术细节。"
   }
 }
