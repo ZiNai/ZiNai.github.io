@@ -157,5 +157,162 @@
       ]
     },
     "summary": "本期Hacker News热点高度集中在AI领域，涵盖了从前沿大模型与推理算法更新，到AI应用工具及创意创作的广泛实践。此外，开源软件领域与学术资源分享依然维持着极高的关注度。"
+  },
+  "noon": {
+    "time": "2026-07-17 14:07",
+    "stories": [
+      {
+        "id": 48943142,
+        "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+        "domain": "smithsonianmag.com",
+        "score": 62,
+        "descendants": 31,
+        "by": "divbzero",
+        "tags": [],
+        "summary": "科学家通过分析1900年前的罗马厕所结构，揭示了古罗马混凝土能够历经千年而不倒的化学秘密。"
+      },
+      {
+        "id": 48935342,
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "url": "https://www.kimi.com/blog/kimi-k3",
+        "domain": "kimi.com",
+        "score": 1433,
+        "descendants": 864,
+        "by": "vincent_s",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Kimi发布K3模型，旨在推动前沿人工智能技术的开源化进程。"
+      },
+      {
+        "id": 48862165,
+        "title": "An Engineer's Guide to USB Typе-С (2024)",
+        "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+        "domain": "ti.com",
+        "score": 94,
+        "descendants": 1,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "一份详尽的技术指南，解析了USB Type-C接口的复杂架构与电气特性。"
+      },
+      {
+        "id": 48942454,
+        "title": "GrapheneOS recommended for domestic abuse victims",
+        "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+        "domain": "privacypros.com.au",
+        "score": 66,
+        "descendants": 35,
+        "by": "aussieguy1234",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "相关建议指出，GrapheneOS凭借其强化的隐私与安全功能，适合作为遭受家庭暴力受害者的通信保护方案。"
+      },
+      {
+        "id": 48936426,
+        "title": "Microsoft Comic Chat is now open source",
+        "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+        "domain": "opensource.microsoft.com",
+        "score": 617,
+        "descendants": 138,
+        "by": "jervant",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "微软正式将经典的Comic Chat软件项目开源，并提供源代码访问。"
+      },
+      {
+        "id": 48943174,
+        "title": "Pebble Mega Update – July 2026",
+        "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+        "domain": "repebble.com",
+        "score": 22,
+        "descendants": 0,
+        "by": "crazysaem",
+        "tags": [],
+        "summary": "Pebble智能手表项目的最新进展更新，回顾了2026年7月的开发动态。"
+      },
+      {
+        "id": 48936584,
+        "title": "Decoy Font",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "domain": "mixfont.com",
+        "score": 485,
+        "descendants": 115,
+        "by": "ray__",
+        "tags": [],
+        "summary": "介绍一款名为Decoy的字体设计工具，旨在提升文本呈现的效果与可读性。"
+      },
+      {
+        "id": 48939662,
+        "title": "LM Studio Bionic: the AI agent for open models",
+        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "domain": "lmstudio.ai",
+        "score": 206,
+        "descendants": 73,
+        "by": "minimaxir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "LM Studio推出Bionic AI代理，专门用于本地运行和管理开放式AI模型。"
+      },
+      {
+        "id": 48939524,
+        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+        "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+        "domain": "tryai.dev",
+        "score": 209,
+        "descendants": 239,
+        "by": "hershyb_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过低成本AI制作音乐视频的实验，对比分析了Claude Fable 5与GPT-5.6 Sol在创作表现上的差异。"
+      },
+      {
+        "id": 48941104,
+        "title": "The Little Book of Reinforcement Learning",
+        "url": "https://github.com/alxndrTL/little-book-rl/",
+        "domain": "github.com",
+        "score": 96,
+        "descendants": 11,
+        "by": "mustaphah",
+        "tags": [],
+        "summary": "一份关于强化学习的精简入门书籍，整理了核心概念与学习路径。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "smithsonianmag.com",
+          "count": 1
+        },
+        {
+          "domain": "kimi.com",
+          "count": 1
+        },
+        {
+          "domain": "ti.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 329,
+      "max_score": {
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "score": 1433
+      },
+      "most_discussed": {
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "comments": 864
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI技术的快速演进与开源应用，涵盖了前沿模型发布、AI代理工具以及多媒体生成实践。同时，科技圈对底层硬件标准、网络安全隐私保障以及历史建筑材料科学等跨学科议题保持着持续关注。"
   }
 }
