@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-07-17 09:26",
+    "stories": [
+      {
+        "id": 48935342,
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "url": "https://www.kimi.com/blog/kimi-k3",
+        "domain": "kimi.com",
+        "score": 1151,
+        "descendants": 717,
+        "by": "vincent_s",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Kimi发布K3模型，展示了其在开放前沿智能领域的最新进展。"
+      },
+      {
+        "id": 48936426,
+        "title": "Microsoft Comic Chat is now open source",
+        "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+        "domain": "opensource.microsoft.com",
+        "score": 525,
+        "descendants": 118,
+        "by": "jervant",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "微软正式将经典的Comic Chat聊天软件开源，供开发者参考学习。"
+      },
+      {
+        "id": 48939662,
+        "title": "LM Studio Bionic: the AI agent for open models",
+        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "domain": "lmstudio.ai",
+        "score": 150,
+        "descendants": 62,
+        "by": "minimaxir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "LM Studio推出Bionic AI代理，旨在提升本地运行开源模型的能力。"
+      },
+      {
+        "id": 48936584,
+        "title": "Decoy Font",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "domain": "mixfont.com",
+        "score": 386,
+        "descendants": 97,
+        "by": "ray__",
+        "tags": [],
+        "summary": "介绍Decoy Font，一款设计独特的字体项目及其技术原理。"
+      },
+      {
+        "id": 48942125,
+        "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+        "domain": "earthquake.usgs.gov",
+        "score": 13,
+        "descendants": 1,
+        "by": "hnburnsy",
+        "tags": [],
+        "summary": "佛罗里达州附近发生3.9级地震的官方监测报告。"
+      },
+      {
+        "id": 48941104,
+        "title": "The Little Book of Reinforcement Learning",
+        "url": "https://github.com/alxndrTL/little-book-rl/",
+        "domain": "github.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "mustaphah",
+        "tags": [],
+        "summary": "一份关于强化学习的入门小册子，适合系统学习相关基础知识。"
+      },
+      {
+        "id": 48939524,
+        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+        "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+        "domain": "tryai.dev",
+        "score": 114,
+        "descendants": 121,
+        "by": "hershyb_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过对比Claude与GPT系列模型生成AI音乐视频的实验，探讨当前AI多模态创作的成本与效果。"
+      },
+      {
+        "id": 48936451,
+        "title": "NotebookLM is now Gemini Notebook",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+        "domain": "blog.google",
+        "score": 231,
+        "descendants": 125,
+        "by": "xnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google宣布NotebookLM正式更名为Gemini Notebook。"
+      },
+      {
+        "id": 48939896,
+        "title": "Mathematics of Data Science",
+        "url": "https://arxiv.org/abs/2607.11938",
+        "domain": "arxiv.org",
+        "score": 84,
+        "descendants": 2,
+        "by": "Anon84",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一份高质量的数据科学数学基础教程，深入解析相关核心理论。"
+      },
+      {
+        "id": 48940603,
+        "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+        "url": "https://arxiv.org/abs/2607.12395",
+        "domain": "arxiv.org",
+        "score": 32,
+        "descendants": 11,
+        "by": "binyu",
+        "tags": [],
+        "summary": "探讨如何将零样本强化学习扩展至万亿参数规模，以实现突现推理能力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 2
+        },
+        {
+          "domain": "kimi.com",
+          "count": 1
+        },
+        {
+          "domain": "opensource.microsoft.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 274,
+      "max_score": {
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "score": 1151
+      },
+      "most_discussed": {
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "comments": 717
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Open Source",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热点高度集中在AI领域，涵盖了从前沿大模型与推理算法更新，到AI应用工具及创意创作的广泛实践。此外，开源软件领域与学术资源分享依然维持着极高的关注度。"
+  }
+}
