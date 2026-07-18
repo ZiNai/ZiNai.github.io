@@ -138,5 +138,159 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了技术基础设施与安全、科研进展及社会法律议题。业界对云服务计费透明度和AI在医疗场景下的伦理应用讨论激烈，同时涵盖了计算机历史回顾、天文学发现及AI驱动的药物研发等多元话题。"
+  },
+  "noon": {
+    "time": "2026-07-18 13:55",
+    "stories": [
+      {
+        "id": 48952880,
+        "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "domain": "localnewsmatters.org",
+        "score": 431,
+        "descendants": 283,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ],
+        "summary": "凯撒医疗护士工会指出，AI系统与严苛的 workplace 监控正严重损害工作质量与患者护理。"
+      },
+      {
+        "id": 48945241,
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "url": "https://news.ycombinator.com/item?id=48945241",
+        "domain": "news.ycombinator.com",
+        "score": 1119,
+        "descendants": 663,
+        "by": "nprateem",
+        "tags": [],
+        "summary": "AWS承认内部系统错误，导致长达数年的估算账单数据出现高达17亿美元的偏差。"
+      },
+      {
+        "id": 48949551,
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "domain": "news.ycombinator.com",
+        "score": 481,
+        "descendants": 49,
+        "by": "nicholasjbs",
+        "tags": [],
+        "summary": "一位老用户深情回顾在HN社区活跃15年的历程，感谢社区支持其职业发展。"
+      },
+      {
+        "id": 48907063,
+        "title": "Reviving a 15-year-old netbook with Arch Linux",
+        "url": "https://parksb.github.io/en/article/41.html",
+        "domain": "parksb.github.io",
+        "score": 40,
+        "descendants": 17,
+        "by": "parksb",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过安装Arch Linux，让一台搁置15年的上网本重获新生。"
+      },
+      {
+        "id": 48947560,
+        "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+        "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+        "domain": "bbc.com",
+        "score": 414,
+        "descendants": 251,
+        "by": "neversaydie",
+        "tags": [],
+        "summary": "科学家首次在宜居带类地行星上探测到大气层迹象，系地外生命研究重大突破。"
+      },
+      {
+        "id": 48951461,
+        "title": "The Zilog Z80 has turned 50",
+        "url": "https://goliath32.com/blog/z80.html",
+        "domain": "goliath32.com",
+        "score": 195,
+        "descendants": 61,
+        "by": "st_goliath",
+        "tags": [],
+        "summary": "传奇处理器Zilog Z80正式迎来50周年，回顾其对嵌入式计算历史的深远影响。"
+      },
+      {
+        "id": 48954175,
+        "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+        "url": "https://moonstone.sh/",
+        "domain": "moonstone.sh",
+        "score": 34,
+        "descendants": 9,
+        "by": "ksymph",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Moonstone：一个基于Zig语言编写的现代化、跨平台Lua运行环境及包管理器。"
+      },
+      {
+        "id": 48954149,
+        "title": "I Started a \"Dirt Notebook\"",
+        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+        "domain": "pinewind.bearblog.dev",
+        "score": 38,
+        "descendants": 29,
+        "by": "herbertl",
+        "tags": [],
+        "summary": "博主分享通过记录“泥土笔记”来保持灵感与生活观察的个人经验。"
+      },
+      {
+        "id": 48952565,
+        "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+        "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+        "domain": "github.com",
+        "score": 74,
+        "descendants": 18,
+        "by": "BadChemical",
+        "tags": [],
+        "summary": "TP-Link Kasa摄像头被爆存在长达6年的安全漏洞，可通过未授权UDP泄露家庭GPS定位。"
+      },
+      {
+        "id": 48950122,
+        "title": "Learning a few things about running SQLite",
+        "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "domain": "jvns.ca",
+        "score": 205,
+        "descendants": 51,
+        "by": "surprisetalk",
+        "tags": [
+          "Database"
+        ],
+        "summary": "技术博主分享在生产环境大规模运行SQLite时的避坑指南与实践心得。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 2
+        },
+        {
+          "domain": "localnewsmatters.org",
+          "count": 1
+        },
+        {
+          "domain": "parksb.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 303,
+      "max_score": {
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "score": 1119
+      },
+      "most_discussed": {
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "comments": 663
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于科技产业的运营安全与技术演进，涵盖了AWS计费误差、物联网安全漏洞及AI对职场环境的影响。同时，开发者社区表现出对经典硬件致敬及对新型工具链探索的浓厚兴趣，整体呈现出务实与怀旧并存的讨论氛围。"
   }
 }
