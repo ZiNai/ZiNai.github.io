@@ -292,5 +292,160 @@
       ]
     },
     "summary": "今日Hacker News焦点聚焦于科技产业的运营安全与技术演进，涵盖了AWS计费误差、物联网安全漏洞及AI对职场环境的影响。同时，开发者社区表现出对经典硬件致敬及对新型工具链探索的浓厚兴趣，整体呈现出务实与怀旧并存的讨论氛围。"
+  },
+  "evening": {
+    "time": "2026-07-18 21:04",
+    "stories": [
+      {
+        "id": 48956688,
+        "title": "LG monitors silently install software through Windows Update without consent",
+        "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+        "domain": "videocardz.com",
+        "score": 267,
+        "descendants": 133,
+        "by": "baranul",
+        "tags": [],
+        "summary": "LG显示器被曝通过Windows Update静默安装软件，引发关于系统隐私与用户授权的争议。"
+      },
+      {
+        "id": 48956879,
+        "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+        "domain": "charlesazam.com",
+        "score": 30,
+        "descendants": 13,
+        "by": "couAUIA",
+        "tags": [
+          "AI"
+        ],
+        "summary": "对比Fable 5与GPT-5.6在NP-Hard难题上的表现，探讨提示词中的目标设定对模型逻辑推理的影响。"
+      },
+      {
+        "id": 48954851,
+        "title": "Regressive JPEGs",
+        "url": "https://maurycyz.com/projects/bad_jpeg/",
+        "domain": "maurycyz.com",
+        "score": 454,
+        "descendants": 45,
+        "by": "vitaut",
+        "tags": [],
+        "summary": "深入解析JPEG图像压缩原理及其可能导致的数据退化与伪影问题。"
+      },
+      {
+        "id": 48945241,
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "url": "https://news.ycombinator.com/item?id=48945241",
+        "domain": "news.ycombinator.com",
+        "score": 1223,
+        "descendants": 716,
+        "by": "nprateem",
+        "tags": [],
+        "summary": "AWS因计费数据偏差导致账单估算出现高达17亿美元的误差，引发开发者社区对云服务计费透明度的深度讨论。"
+      },
+      {
+        "id": 48956231,
+        "title": "The Computer at the Bottom of a Canal",
+        "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+        "domain": "negroniventurestudios.com",
+        "score": 40,
+        "descendants": 9,
+        "by": "Kudos",
+        "tags": [],
+        "summary": "一段在运河底部发现计算机的奇闻轶事，探寻技术设备背后的遗留故事。"
+      },
+      {
+        "id": 48907063,
+        "title": "Reviving a 15-year-old netbook with Arch Linux",
+        "url": "https://parksb.github.io/en/article/41.html",
+        "domain": "parksb.github.io",
+        "score": 147,
+        "descendants": 91,
+        "by": "parksb",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分享通过Arch Linux为15年前的老旧上网本赋予新生命的操作过程与避坑指南。"
+      },
+      {
+        "id": 48949551,
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "domain": "news.ycombinator.com",
+        "score": 670,
+        "descendants": 78,
+        "by": "nicholasjbs",
+        "tags": [],
+        "summary": "一位开发者发文感谢Hacker News社区15年来的陪伴，分享其从社区获得职业启发的感人经历。"
+      },
+      {
+        "id": 48956949,
+        "title": "What AI did to stackoverflow in a graph",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+        "domain": "data.stackexchange.com",
+        "score": 85,
+        "descendants": 93,
+        "by": "secretslol",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过数据可视化展示AI技术普及后Stack Overflow流量及用户行为的变迁轨迹。"
+      },
+      {
+        "id": 48956307,
+        "title": "Qubes OS Security in the Public Record",
+        "url": "https://arxiv.org/abs/2607.14587",
+        "domain": "arxiv.org",
+        "score": 33,
+        "descendants": 4,
+        "by": "sciences44",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "基于公共记录分析Qubes OS在安全架构上的设计理念及其在威胁模型下的表现。"
+      },
+      {
+        "id": 48947560,
+        "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+        "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+        "domain": "bbc.com",
+        "score": 474,
+        "descendants": 279,
+        "by": "neversaydie",
+        "tags": [],
+        "summary": "科学家首次在宜居带类地行星上探测到大气层，为寻找外星生命提供了重要观测进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 2
+        },
+        {
+          "domain": "videocardz.com",
+          "count": 1
+        },
+        {
+          "domain": "charlesazam.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 342,
+      "max_score": {
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "score": 1223
+      },
+      "most_discussed": {
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "comments": 716
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了科技界的广泛议题，包括AWS计费争议引发的巨额财务风波，以及AI对开发者生态和逻辑任务处理的影响。此外，关于硬件隐私合规、天文科学新发现及个人开源技术的实践分享，也成为了社区关注的核心焦点。"
   }
 }
