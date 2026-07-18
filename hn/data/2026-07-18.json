@@ -1,0 +1,142 @@
+{
+  "morning": {
+    "time": "2026-07-18 09:17",
+    "stories": [
+      {
+        "id": 48952880,
+        "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "domain": "localnewsmatters.org",
+        "score": 245,
+        "descendants": 146,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Kaiser护士指出AI监控和管理手段正在恶化工作环境并降低医疗护理质量。"
+      },
+      {
+        "id": 48945241,
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "url": "https://news.ycombinator.com/item?id=48945241",
+        "domain": "news.ycombinator.com",
+        "score": 1037,
+        "descendants": 638,
+        "by": "nprateem",
+        "tags": [],
+        "summary": "AWS因账单预估数据严重不准引发轩然大波，涉及金额高达17亿美元。"
+      },
+      {
+        "id": 48949551,
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "domain": "news.ycombinator.com",
+        "score": 297,
+        "descendants": 28,
+        "by": "nicholasjbs",
+        "tags": [],
+        "summary": "一位开发者在Hacker News度过15年后，发文表达对社区支持的感激并回顾其职业生涯。"
+      },
+      {
+        "id": 48951461,
+        "title": "The Zilog Z80 has turned 50",
+        "url": "https://goliath32.com/blog/z80.html",
+        "domain": "goliath32.com",
+        "score": 159,
+        "descendants": 48,
+        "by": "st_goliath",
+        "tags": [],
+        "summary": "经典芯片Zilog Z80迎来50周年纪念，回顾其在计算机历史上的里程碑地位。"
+      },
+      {
+        "id": 48953406,
+        "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+        "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+        "domain": "isomorphiclabs.com",
+        "score": 29,
+        "descendants": 2,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "Isomorphic Labs推出新一代药物设计引擎，旨在超越AlphaFold的能力极限。"
+      },
+      {
+        "id": 48947560,
+        "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+        "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+        "domain": "bbc.com",
+        "score": 361,
+        "descendants": 225,
+        "by": "neversaydie",
+        "tags": [],
+        "summary": "天文学家在遥远星系的宜居带类地行星上首次探测到了大气层迹象。"
+      },
+      {
+        "id": 48950122,
+        "title": "Learning a few things about running SQLite",
+        "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "domain": "jvns.ca",
+        "score": 159,
+        "descendants": 38,
+        "by": "surprisetalk",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Julia Evans分享关于在生产环境中运行SQLite的实战经验与心得。"
+      },
+      {
+        "id": 48896149,
+        "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+        "url": "https://prathosh.in/vagdhenu/",
+        "domain": "prathosh.in",
+        "score": 29,
+        "descendants": 0,
+        "by": "subinalex",
+        "tags": [],
+        "summary": "介绍名为Vāgdhenu的梵文诵经语音合成系统（TTS）。"
+      },
+      {
+        "id": 48952939,
+        "title": "Texas wins court order to suspend domain name for violating age-verification law",
+        "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+        "domain": "texasattorneygeneral.gov",
+        "score": 104,
+        "descendants": 110,
+        "by": "letmevoteplease",
+        "tags": [
+          "AI"
+        ],
+        "summary": "得克萨斯州获法院禁令，强制关闭未遵守年龄验证法律的网站域名。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 2
+        },
+        {
+          "domain": "localnewsmatters.org",
+          "count": 1
+        },
+        {
+          "domain": "goliath32.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 269,
+      "max_score": {
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "score": 1037
+      },
+      "most_discussed": {
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "comments": 638
+      },
+      "hot_tags": [
+        "AI",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术基础设施与安全、科研进展及社会法律议题。业界对云服务计费透明度和AI在医疗场景下的伦理应用讨论激烈，同时涵盖了计算机历史回顾、天文学发现及AI驱动的药物研发等多元话题。"
+  }
+}
