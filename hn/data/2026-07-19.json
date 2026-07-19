@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-07-19 09:23",
+    "stories": [
+      {
+        "id": 48911793,
+        "title": "Speech Recognition and TTS in less than 500kb",
+        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "domain": "github.com",
+        "score": 253,
+        "descendants": 29,
+        "by": "petewarden",
+        "tags": [],
+        "summary": "一个体积小于500kb的极简语音识别与TTS系统实现。"
+      },
+      {
+        "id": 48963879,
+        "title": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "domain": "workshop.cjpais.com",
+        "score": 10,
+        "descendants": 2,
+        "by": "sebjones",
+        "tags": [],
+        "summary": "Transcribe.cpp项目展示了在资源受限环境下的语音转录实现。"
+      },
+      {
+        "id": 48962838,
+        "title": "Classic Amiga titles, free to download",
+        "url": "https://amigafreeware.downer.tech/",
+        "domain": "amigafreeware.downer.tech",
+        "score": 44,
+        "descendants": 7,
+        "by": "doener",
+        "tags": [],
+        "summary": "经典Amiga游戏资源已开放免费下载。"
+      },
+      {
+        "id": 48957779,
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "domain": "old.reddit.com",
+        "score": 492,
+        "descendants": 322,
+        "by": "mbustamanter",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨GPT模型如何通过提示词工程解决长达30年的凸优化数学难题。"
+      },
+      {
+        "id": 48959090,
+        "title": "If You Build It, They Will Come",
+        "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+        "domain": "benlandautaylor.com",
+        "score": 265,
+        "descendants": 97,
+        "by": "barry-cotter",
+        "tags": [],
+        "summary": "关于产品构建与用户增长策略的深度思考。"
+      },
+      {
+        "id": 48962983,
+        "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+        "domain": "petapixel.com",
+        "score": 173,
+        "descendants": 80,
+        "by": "gnabgib",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "马姆达尼市长禁止房东使用AI生成的虚假房源图片进行营销。"
+      },
+      {
+        "id": 48962758,
+        "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+        "url": "https://www.neatnik.net/hardcore-indieweb",
+        "domain": "neatnik.net",
+        "score": 70,
+        "descendants": 54,
+        "by": "cdrnsf",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨如何以极低成本实现完全独立、去中心化的个人网站托管。"
+      },
+      {
+        "id": 48962893,
+        "title": "Judge a book by its first pages",
+        "url": "https://uncovered.ink",
+        "domain": "uncovered.ink",
+        "score": 39,
+        "descendants": 30,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "通过书籍的前几页来快速评估和推荐读物的平台。"
+      },
+      {
+        "id": 48962944,
+        "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+        "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+        "domain": "tug.org",
+        "score": 26,
+        "descendants": 4,
+        "by": "amichail",
+        "tags": [],
+        "summary": "LuaTeX技术解析，探讨如何将大型文档的重新编译速度提升至1毫秒以内。"
+      },
+      {
+        "id": 48892021,
+        "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+        "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+        "domain": "mssv.net",
+        "score": 90,
+        "descendants": 18,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "开发者分享正在制作的太阳朋克主题定向越野LARP游戏项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "workshop.cjpais.com",
+          "count": 1
+        },
+        {
+          "domain": "amigafreeware.downer.tech",
+          "count": 1
+        }
+      ],
+      "avg_score": 146,
+      "max_score": {
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "score": 492
+      },
+      "most_discussed": {
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "comments": 322
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Web"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术的实际落地与前沿突破，涵盖了从极简语音模型到大语言模型在数学优化领域的进展。同时，社区对个人独立建站与独立开发项目的热情持续高涨，并伴随对AI在房地产营销等公共领域应用潜力的伦理审查讨论。"
+  }
+}
