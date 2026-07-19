@@ -151,5 +151,151 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术的实际落地与前沿突破，涵盖了从极简语音模型到大语言模型在数学优化领域的进展。同时，社区对个人独立建站与独立开发项目的热情持续高涨，并伴随对AI在房地产营销等公共领域应用潜力的伦理审查讨论。"
+  },
+  "noon": {
+    "time": "2026-07-19 14:21",
+    "stories": [
+      {
+        "id": 48963879,
+        "title": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "domain": "workshop.cjpais.com",
+        "score": 330,
+        "descendants": 54,
+        "by": "sebjones",
+        "tags": [],
+        "summary": "一款用于高效语音转录的 C++ 实现工具。"
+      },
+      {
+        "id": 48911793,
+        "title": "Speech Recognition and TTS in less than 500kb",
+        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "domain": "github.com",
+        "score": 387,
+        "descendants": 40,
+        "by": "petewarden",
+        "tags": [],
+        "summary": "探讨如何在 500kb 以内的代码量下实现语音识别与语音合成功能。"
+      },
+      {
+        "id": 48964015,
+        "title": "Better and Cheaper Than IPTV",
+        "url": "https://github.com/stupside/castor",
+        "domain": "github.com",
+        "score": 118,
+        "descendants": 34,
+        "by": "xonery",
+        "tags": [],
+        "summary": "介绍了一种比传统 IPTV 更经济、高效的流媒体替代方案。"
+      },
+      {
+        "id": 48964536,
+        "title": "FDA approves new kind of cholesterol pill",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+        "domain": "fda.gov",
+        "score": 57,
+        "descendants": 32,
+        "by": "mgh2",
+        "tags": [],
+        "summary": "美国食品药品监督管理局（FDA）批准了一款新型降胆固醇药物。"
+      },
+      {
+        "id": 48895861,
+        "title": "Mathematicians still don't know the fastest way to multiply numbers",
+        "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+        "domain": "scientificamerican.com",
+        "score": 60,
+        "descendants": 36,
+        "by": "beardyw",
+        "tags": [],
+        "summary": "深度解析数学界为何至今仍未确定大数乘法的最优算法。"
+      },
+      {
+        "id": 48962838,
+        "title": "Classic Amiga titles, free to download",
+        "url": "https://amigafreeware.downer.tech/",
+        "domain": "amigafreeware.downer.tech",
+        "score": 95,
+        "descendants": 10,
+        "by": "doener",
+        "tags": [],
+        "summary": "提供大量经典 Amiga 游戏和软件的免费下载资源。"
+      },
+      {
+        "id": 48957779,
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "domain": "old.reddit.com",
+        "score": 541,
+        "descendants": 345,
+        "by": "mbustamanter",
+        "tags": [
+          "AI"
+        ],
+        "summary": "讨论 GPT-5.6 通过提示词工程攻克了困扰数学界 30 年的凸优化难题。"
+      },
+      {
+        "id": 48959090,
+        "title": "If You Build It, They Will Come",
+        "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+        "domain": "benlandautaylor.com",
+        "score": 350,
+        "descendants": 125,
+        "by": "barry-cotter",
+        "tags": [],
+        "summary": "探讨构建优质产品如何通过口碑自然吸引用户流量的成长逻辑。"
+      },
+      {
+        "id": 48877124,
+        "title": "A Visual Catalog of Retro Macintosh Software",
+        "url": "https://www.marciot.com/mac68k-visual-catalog/",
+        "domain": "marciot.com",
+        "score": 25,
+        "descendants": 5,
+        "by": "zdw",
+        "tags": [],
+        "summary": "展示复古 Macintosh 软件的视觉化目录与历史档案。"
+      },
+      {
+        "id": 48904269,
+        "title": "Making Software: How to make a font",
+        "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+        "domain": "makingsoftware.com",
+        "score": 12,
+        "descendants": 1,
+        "by": "Garbage",
+        "tags": [],
+        "summary": "从技术角度解析字体设计的制作流程与软件实现。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "workshop.cjpais.com",
+          "count": 1
+        },
+        {
+          "domain": "fda.gov",
+          "count": 1
+        }
+      ],
+      "avg_score": 198,
+      "max_score": {
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "score": 541
+      },
+      "most_discussed": {
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "comments": 345
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在轻量级 AI 开发与跨领域技术应用，语音处理工具与算法优化成为热门话题。同时，怀旧软件资源与数字档案整理呈现出显著的社区关注度，展现了开发者对高性能工具和历史科技传承的持续兴趣。"
   }
 }
