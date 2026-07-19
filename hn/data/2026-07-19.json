@@ -297,5 +297,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在轻量级 AI 开发与跨领域技术应用，语音处理工具与算法优化成为热门话题。同时，怀旧软件资源与数字档案整理呈现出显著的社区关注度，展现了开发者对高性能工具和历史科技传承的持续兴趣。"
+  },
+  "evening": {
+    "time": "2026-07-19 21:06",
+    "stories": [
+      {
+        "id": 48966190,
+        "title": "Qwen 3.8 Max Preview",
+        "url": "https://www.qwencloud.com/pricing/token-plan",
+        "domain": "qwencloud.com",
+        "score": 139,
+        "descendants": 75,
+        "by": "lebovic",
+        "tags": [],
+        "summary": "阿里 Qwen 3.8 Max Preview 模型正式发布。"
+      },
+      {
+        "id": 48966713,
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+        "domain": "chipweinberger.com",
+        "score": 76,
+        "descendants": 40,
+        "by": "chipweinberger",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "作者分享通过自研销售 MIDI 录音设备获得的硬件创业经验。"
+      },
+      {
+        "id": 48911021,
+        "title": "Blender 5.2 LTS",
+        "url": "https://www.blender.org/download/releases/5-2/",
+        "domain": "blender.org",
+        "score": 82,
+        "descendants": 41,
+        "by": "makizar",
+        "tags": [],
+        "summary": "Blender 发布 5.2 长期支持版本（LTS）。"
+      },
+      {
+        "id": 48963879,
+        "title": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "domain": "workshop.cjpais.com",
+        "score": 586,
+        "descendants": 126,
+        "by": "sebjones",
+        "tags": [],
+        "summary": "一个高性能的 C++ 语音转录工具项目。"
+      },
+      {
+        "id": 48965850,
+        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "url": "https://github.com/openai/codex/pull/33972/files",
+        "domain": "github.com",
+        "score": 64,
+        "descendants": 28,
+        "by": "AmazingTurtle",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 缩减 Codex 模型上下文窗口至 272k。"
+      },
+      {
+        "id": 48967355,
+        "title": "I burned all my tokens researching how to save tokens",
+        "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+        "domain": "quesma.com",
+        "score": 13,
+        "descendants": 4,
+        "by": "bkotrys",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "开发者复盘优化大模型 Token 使用效率的曲折经历。"
+      },
+      {
+        "id": 48966120,
+        "title": "Qwen3.8 is launching and going open-weight soon",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "domain": "twitter.com",
+        "score": 276,
+        "descendants": 142,
+        "by": "nh43215rgb",
+        "tags": [],
+        "summary": "Qwen 3.8 即将发布并开放权重。"
+      },
+      {
+        "id": 48966769,
+        "title": "The death and rebirth of my home server",
+        "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+        "domain": "sgt.hootr.club",
+        "score": 19,
+        "descendants": 8,
+        "by": "steinuil",
+        "tags": [],
+        "summary": "作者记录其家用服务器从故障到重构的过程。"
+      },
+      {
+        "id": 48967256,
+        "title": "Minecraft: Java Edition now uses SDL3",
+        "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+        "domain": "minecraft.net",
+        "score": 8,
+        "descendants": 0,
+        "by": "ObviouslyFlamer",
+        "tags": [],
+        "summary": "Minecraft Java 版正式迁移至 SDL3 库。"
+      },
+      {
+        "id": 48911793,
+        "title": "Speech Recognition and TTS in less than 500kb",
+        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "domain": "github.com",
+        "score": 478,
+        "descendants": 66,
+        "by": "petewarden",
+        "tags": [],
+        "summary": "在 500kb 以内实现语音识别与语音合成的技术方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "qwencloud.com",
+          "count": 1
+        },
+        {
+          "domain": "chipweinberger.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 174,
+      "max_score": {
+        "title": "Transcribe.cpp",
+        "score": 586
+      },
+      "most_discussed": {
+        "title": "Qwen3.8 is launching and going open-weight soon",
+        "comments": 142
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在高性能开源工具与 AI 模型进展上。社区热议重点涵盖了 Qwen 系列大模型发布、超轻量级语音转写技术，以及硬核开发者分享的硬件产品化经验与底层技术优化心得。"
   }
 }
