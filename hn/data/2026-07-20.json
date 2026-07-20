@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-07-20 09:28",
+    "stories": [
+      {
+        "id": 48968606,
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "https://news.ycombinator.com/item?id=48968606",
+        "domain": "news.ycombinator.com",
+        "score": 1479,
+        "descendants": 162,
+        "by": "section33",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "博主通过自研ESP32硬件方案，以极低成本成功替换了价值12万美元的保龄球馆计分系统。"
+      },
+      {
+        "id": 48973123,
+        "title": "DeKalb deputy charged with Flock camera misuse; more Georgia officers fired",
+        "url": "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/",
+        "domain": "ajc.com",
+        "score": 39,
+        "descendants": 17,
+        "by": "pir8life4me",
+        "tags": [],
+        "summary": "佐治亚州警方因滥用Flock监控摄像头系统面临指控与解职，引发关于公共监控技术伦理的讨论。"
+      },
+      {
+        "id": 48972858,
+        "title": "Ask HN: What are your favorite blogs not about AI?",
+        "url": "https://news.ycombinator.com/item?id=48972858",
+        "domain": "news.ycombinator.com",
+        "score": 51,
+        "descendants": 21,
+        "by": "azhenley",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ],
+        "summary": "HN社区发起关于推荐非AI主题优质博客的征集活动。"
+      },
+      {
+        "id": 48907390,
+        "title": "The Zen of Parallel Programming",
+        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+        "domain": "smolnero.com",
+        "score": 104,
+        "descendants": 10,
+        "by": "edgar_ortega",
+        "tags": [],
+        "summary": "探讨并行编程的核心哲学与实践方法，旨在简化复杂并发逻辑的理解。"
+      },
+      {
+        "id": 48971938,
+        "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+        "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+        "domain": "spectrum.ieee.org",
+        "score": 31,
+        "descendants": 2,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "介绍一种新型概率计算机，通过利用环境噪声进行随机运算以高效求解复杂概率问题。"
+      },
+      {
+        "id": 48920597,
+        "title": "Talk: The Art of Braiding Algorithms",
+        "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+        "domain": "pgadey.ca",
+        "score": 21,
+        "descendants": 0,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于辫子算法（Braiding Algorithms）的技术分享，探讨其背后的数学逻辑与艺术美感。"
+      },
+      {
+        "id": 48971566,
+        "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+        "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+        "domain": "raymii.org",
+        "score": 46,
+        "descendants": 32,
+        "by": "jandeboevrie",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "开发者构建了一款全新的Intel Itanium模拟器，成功实现在现代平台上启动IA-64架构的Windows系统。"
+      },
+      {
+        "id": 48966569,
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "domain": "simonwillison.net",
+        "score": 384,
+        "descendants": 546,
+        "by": "tosh",
+        "tags": [
+          "AI",
+          "Rust",
+          "JavaScript"
+        ],
+        "summary": "Claude Code工具宣布升级，底层运行环境切换至基于Rust编写的Bun引擎以提升效率。"
+      },
+      {
+        "id": 48967256,
+        "title": "Minecraft: Java Edition now uses SDL3",
+        "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+        "domain": "minecraft.net",
+        "score": 269,
+        "descendants": 178,
+        "by": "ObviouslyFlamer",
+        "tags": [],
+        "summary": "Minecraft Java版正式迁移至SDL3框架，改善了底层硬件抽象层和跨平台兼容性。"
+      },
+      {
+        "id": 48911021,
+        "title": "Blender 5.2 LTS",
+        "url": "https://www.blender.org/download/releases/5-2/",
+        "domain": "blender.org",
+        "score": 365,
+        "descendants": 147,
+        "by": "makizar",
+        "tags": [],
+        "summary": "Blender发布5.2长期支持版（LTS），带来了多项稳定性优化与核心功能更新。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 2
+        },
+        {
+          "domain": "ajc.com",
+          "count": 1
+        },
+        {
+          "domain": "smolnero.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 279,
+      "max_score": {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "score": 1479
+      },
+      "most_discussed": {
+        "title": "Claude Code uses Bun written in Rust now",
+        "comments": 546
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Ask HN",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从底层硬件架构到前沿开发工具的多样化技术实践。开源项目与系统级重构成为焦点，开发者们对复古计算、嵌入式系统替代方案以及主流软件（如Minecraft和Blender）的技术更新表现出浓厚兴趣。"
+  }
+}
