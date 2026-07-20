@@ -159,5 +159,167 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了从底层硬件架构到前沿开发工具的多样化技术实践。开源项目与系统级重构成为焦点，开发者们对复古计算、嵌入式系统替代方案以及主流软件（如Minecraft和Blender）的技术更新表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-07-20 14:37",
+    "stories": [
+      {
+        "id": 48968606,
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "https://news.ycombinator.com/item?id=48968606",
+        "domain": "news.ycombinator.com",
+        "score": 2028,
+        "descendants": 211,
+        "by": "section33",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者分享了如何用1600美元的ESP32硬件替换价值12万美元保龄球中心系统。 "
+      },
+      {
+        "id": 48974325,
+        "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "domain": "github.com",
+        "score": 20,
+        "descendants": 0,
+        "by": "Vineeth147",
+        "tags": [],
+        "summary": "一个针对微调技术训练效率的公共实时排行榜项目。"
+      },
+      {
+        "id": 48972970,
+        "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+        "url": "https://github.com/hgaiser/moonshine",
+        "domain": "github.com",
+        "score": 98,
+        "descendants": 48,
+        "by": "wertyk",
+        "tags": [],
+        "summary": "Moonshine允许用户将PC游戏无缝串流至任何运行Moonlight设备的终端。"
+      },
+      {
+        "id": 48974454,
+        "title": "Xiaomi-Robotics-1",
+        "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+        "domain": "robotics.xiaomi.com",
+        "score": 18,
+        "descendants": 2,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "小米发布的全新机器人技术项目演示平台。"
+      },
+      {
+        "id": 48966569,
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "domain": "simonwillison.net",
+        "score": 469,
+        "descendants": 628,
+        "by": "tosh",
+        "tags": [
+          "AI",
+          "Rust",
+          "JavaScript"
+        ],
+        "summary": "Claude Code工具宣布引入基于Rust编写的Bun运行时，引发了关于性能与工具链的激烈讨论。"
+      },
+      {
+        "id": 48907564,
+        "title": "Korg PS-3300 is back",
+        "url": "https://www.korg.co.uk/blogs/updates/ps3300",
+        "domain": "korg.co.uk",
+        "score": 26,
+        "descendants": 24,
+        "by": "Lio",
+        "tags": [],
+        "summary": "经典的Korg PS-3300模拟合成器正式复刻回归。"
+      },
+      {
+        "id": 48970894,
+        "title": "Orion Browser by Kagi",
+        "url": "https://orionbrowser.com/",
+        "domain": "orionbrowser.com",
+        "score": 151,
+        "descendants": 94,
+        "by": "sebjones",
+        "tags": [
+          "Web"
+        ],
+        "summary": "由Kagi搜索引擎团队开发的Orion浏览器，主打极致的性能与隐私防护。"
+      },
+      {
+        "id": 48974292,
+        "title": "Power companies are using eminent domain to seize land for data centers",
+        "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+        "domain": "fortune.com",
+        "score": 65,
+        "descendants": 18,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨电力公司如何利用征收权获取土地以建设数据中心引发的争议。"
+      },
+      {
+        "id": 48966713,
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+        "domain": "chipweinberger.com",
+        "score": 460,
+        "descendants": 209,
+        "by": "chipweinberger",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一位开发者分享销售2500台MIDI录音机的经验，认为硬件制造并非想象中那般困难。"
+      },
+      {
+        "id": 48861496,
+        "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+        "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+        "domain": "spectrum.ieee.org",
+        "score": 10,
+        "descendants": 2,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨自供电拖车技术如何提升货运物流的效率与环保水平。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "robotics.xiaomi.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 334,
+      "max_score": {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "score": 2028
+      },
+      "most_discussed": {
+        "title": "Claude Code uses Bun written in Rust now",
+        "comments": 628
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust",
+        "JavaScript",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了极客硬件改装与开源项目，展现了开发者利用低成本方案优化大型系统的能力。同时，AI工程效率、基础设施建设及工业硬件的发展也是社区讨论的核心热点。"
   }
 }
