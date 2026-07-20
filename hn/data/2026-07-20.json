@@ -321,5 +321,166 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了极客硬件改装与开源项目，展现了开发者利用低成本方案优化大型系统的能力。同时，AI工程效率、基础设施建设及工业硬件的发展也是社区讨论的核心热点。"
+  },
+  "evening": {
+    "time": "2026-07-20 21:56",
+    "stories": [
+      {
+        "id": 48978605,
+        "title": "Hacker wipes Romania's land registry database",
+        "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+        "domain": "news.risky.biz",
+        "score": 26,
+        "descendants": 1,
+        "by": "speckx",
+        "tags": [
+          "Database",
+          "Security"
+        ],
+        "summary": "罗马尼亚土地登记数据库遭黑客攻击并被彻底抹除。"
+      },
+      {
+        "id": 48978112,
+        "title": "Stop Using OpenCode",
+        "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+        "domain": "wren.wtf",
+        "score": 108,
+        "descendants": 72,
+        "by": "alekq",
+        "tags": [],
+        "summary": "呼吁停止使用OpenCode平台，指出其存在的潜在风险与安全隐患。"
+      },
+      {
+        "id": 48976846,
+        "title": "Airport Simulator",
+        "url": "https://airport.apunen.com/",
+        "domain": "airport.apunen.com",
+        "score": 213,
+        "descendants": 57,
+        "by": "apunen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个模拟机场运营的在线交互项目。"
+      },
+      {
+        "id": 48975665,
+        "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+        "domain": "slcyber.io",
+        "score": 255,
+        "descendants": 133,
+        "by": "infosecau",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了如何利用GPT模型以25美元的成本挖掘出价值50万美元的WordPress远程代码执行漏洞。"
+      },
+      {
+        "id": 48977711,
+        "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+        "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+        "domain": "edri.org",
+        "score": 151,
+        "descendants": 90,
+        "by": "rapnie",
+        "tags": [],
+        "summary": "讨论欧盟计划为签证豁免而向美国出售敏感公民数据的隐私担忧。"
+      },
+      {
+        "id": 48969530,
+        "title": "ECC and DDR5",
+        "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+        "domain": "etbe.coker.com.au",
+        "score": 16,
+        "descendants": 1,
+        "by": "zdw",
+        "tags": [],
+        "summary": "深度解析ECC内存与DDR5技术标准的应用与细节。"
+      },
+      {
+        "id": 48978388,
+        "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+        "url": "https://yang-ai-lab.github.io/Inertia-1/",
+        "domain": "yang-ai-lab.github.io",
+        "score": 5,
+        "descendants": 0,
+        "by": "hasheddan",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Inertia-1，一个旨在探索统一运动感知的基础模型。"
+      },
+      {
+        "id": 48968606,
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "https://news.ycombinator.com/item?id=48968606",
+        "domain": "news.ycombinator.com",
+        "score": 2604,
+        "descendants": 290,
+        "by": "section33",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者通过仅1600美元的ESP32硬件方案，成功取代了价值12万美元的保龄球馆管理系统。"
+      },
+      {
+        "id": 48973455,
+        "title": "Satan's 19th-Century Bank Note",
+        "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+        "domain": "historytoday.com",
+        "score": 8,
+        "descendants": 0,
+        "by": "Caiero",
+        "tags": [],
+        "summary": "一段关于19世纪带有“撒旦”印记的特殊银行纸币的历史趣闻。"
+      },
+      {
+        "id": 48953189,
+        "title": "Sensing warm and cool: how the body detects temperature changes",
+        "url": "https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes",
+        "domain": "news.uq.edu.au",
+        "score": 13,
+        "descendants": 2,
+        "by": "hhs",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨人体生物学机制是如何感知并区分外界温度变化的。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.risky.biz",
+          "count": 1
+        },
+        {
+          "domain": "wren.wtf",
+          "count": 1
+        },
+        {
+          "domain": "airport.apunen.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 340,
+      "max_score": {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "score": 2604
+      },
+      "most_discussed": {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "comments": 290
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Security",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News重点关注网络安全漏洞与硬件工程实践，涵盖从WordPress高危漏洞挖掘到利用低成本ESP32芯片替代昂贵工业系统的DIY案例。此外，关于数据隐私保护及新兴技术模型（如运动基础模型）的讨论也引发了社区关注。"
   }
 }
