@@ -326,5 +326,164 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能的生态影响与底层技术突破，讨论涵盖了中国 AI 模型竞争力、大厂 AI 融资的财务风险，以及 AI 驱动的科研与开发效率提升。此外，社区依旧保持对开源工具、创新硬件工程及独特交互设计的浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-07-21 21:28",
+    "stories": [
+      {
+        "id": 48989701,
+        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+        "domain": "qwen.ai",
+        "score": 271,
+        "descendants": 123,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "阿里巴巴发布Qwen-Image-3.0，重点提升了多模态内容的真实感、细节表现与深度知识储备。"
+      },
+      {
+        "id": 48991139,
+        "title": "New US homeownership measure puts people first",
+        "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+        "domain": "minneapolisfed.org",
+        "score": 83,
+        "descendants": 65,
+        "by": "throw0101a",
+        "tags": [],
+        "summary": "明尼阿波利斯联储提出了一种以人为本的美国住房自有率衡量新指标。"
+      },
+      {
+        "id": 48987822,
+        "title": "Incremental – A library for incremental computations",
+        "url": "https://github.com/janestreet/incremental",
+        "domain": "github.com",
+        "score": 265,
+        "descendants": 51,
+        "by": "handfuloflight",
+        "tags": [],
+        "summary": "Incremental是一个用于高效处理增量计算的软件库，旨在优化复杂数据流的更新性能。"
+      },
+      {
+        "id": 48977128,
+        "title": "Who's afraid of Chinese models?",
+        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+        "domain": "stratechery.com",
+        "score": 760,
+        "descendants": 572,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Stratechery深度解析当前西方对中国大模型的复杂态度及其在全球技术竞争中的地缘政治地位。"
+      },
+      {
+        "id": 48918140,
+        "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+        "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+        "domain": "fidget-spinner.github.io",
+        "score": 37,
+        "descendants": 0,
+        "by": "rbanffy",
+        "tags": [
+          "Python"
+        ],
+        "summary": "深入探讨Python 3.15版本引入的超低开销解释器分析模式，旨在提升运行时性能追踪效率。"
+      },
+      {
+        "id": 48981620,
+        "title": "Jelly UI: Soft-body physics for native HTML form controls",
+        "url": "https://jelly-ui.com/",
+        "domain": "jelly-ui.com",
+        "score": 570,
+        "descendants": 167,
+        "by": "baldvinmar",
+        "tags": [
+          "Web",
+          "Science"
+        ],
+        "summary": "Jelly UI通过引入软体物理效果，为原生HTML表单组件赋予了极具趣味性的交互动态体验。"
+      },
+      {
+        "id": 48981703,
+        "title": "Kimi Work",
+        "url": "https://www.kimi.com/products/kimi-work",
+        "domain": "kimi.com",
+        "score": 609,
+        "descendants": 250,
+        "by": "ms7892",
+        "tags": [],
+        "summary": "Kimi推出专门面向办公场景的工作平台，旨在提升AI辅助职场生产力的深度与精准度。"
+      },
+      {
+        "id": 48983382,
+        "title": "Human mathematicians are being outcounterexampled",
+        "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "domain": "xenaproject.wordpress.com",
+        "score": 397,
+        "descendants": 185,
+        "by": "artninja1988",
+        "tags": [],
+        "summary": "探讨数学界现状，指出AI在寻找数学反例方面已超越人类，改变了定理证明的传统范式。"
+      },
+      {
+        "id": 48991815,
+        "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
+        "url": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
+        "domain": "boilingsteam.com",
+        "score": 9,
+        "descendants": 0,
+        "by": "ekianjo",
+        "tags": [],
+        "summary": "复盘Steam Deck在2026年因价格策略失误导致需求断崖式下跌的案例分析。"
+      },
+      {
+        "id": 48987846,
+        "title": "Running Doom on Our Custom CPU and Going Viral",
+        "url": "https://www.armaangomes.com/blogs/doom/",
+        "domain": "armaangomes.com",
+        "score": 98,
+        "descendants": 21,
+        "by": "arghunter",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开发者分享在自研CPU上成功移植并运行《毁灭战士》的心路历程及病毒式传播背后的故事。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "qwen.ai",
+          "count": 1
+        },
+        {
+          "domain": "minneapolisfed.org",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 310,
+      "max_score": {
+        "title": "Who's afraid of Chinese models?",
+        "score": 760
+      },
+      "most_discussed": {
+        "title": "Who's afraid of Chinese models?",
+        "comments": 572
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Web",
+        "Science",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能领域的最新进展，包括Qwen与Kimi等国产模型的技术更新及市场地缘影响。同时，技术社区对高性能计算库、UI交互创新以及数学领域的自动化研究表现出浓厚兴趣。"
   }
 }
