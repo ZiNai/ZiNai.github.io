@@ -1,0 +1,167 @@
+{
+  "morning": {
+    "time": "2026-07-21 09:23",
+    "stories": [
+      {
+        "id": 48977128,
+        "title": "Who's afraid of Chinese models?",
+        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+        "domain": "stratechery.com",
+        "score": 231,
+        "descendants": 156,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨中国AI模型在国际视野下的技术进展及其引发的竞争与安全焦虑。"
+      },
+      {
+        "id": 48981703,
+        "title": "Kimi Work",
+        "url": "https://www.kimi.com/products/kimi-work",
+        "domain": "kimi.com",
+        "score": 391,
+        "descendants": 180,
+        "by": "ms7892",
+        "tags": [],
+        "summary": "介绍Kimi Work的相关功能或产品动态，聚焦AI在办公场景的深度应用。"
+      },
+      {
+        "id": 48983382,
+        "title": "Human mathematicians are being outcounterexampled",
+        "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "domain": "xenaproject.wordpress.com",
+        "score": 198,
+        "descendants": 72,
+        "by": "artninja1988",
+        "tags": [],
+        "summary": "讨论人工智能在寻找数学反例方面的突破，及其对人类数学家工作方式的潜在影响。"
+      },
+      {
+        "id": 48981620,
+        "title": "Jelly UI: Soft-body physics for native HTML form controls",
+        "url": "https://jelly-ui.com/",
+        "domain": "jelly-ui.com",
+        "score": 333,
+        "descendants": 135,
+        "by": "baldvinmar",
+        "tags": [
+          "Web",
+          "Science"
+        ],
+        "summary": "一个为原生HTML表单控件引入软体物理效果的UI库，提升网页交互的动感体验。"
+      },
+      {
+        "id": 48978605,
+        "title": "Hacker wipes Romania's land registry database",
+        "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+        "domain": "news.risky.biz",
+        "score": 567,
+        "descendants": 323,
+        "by": "speckx",
+        "tags": [
+          "Database",
+          "Security"
+        ],
+        "summary": "报道罗马尼亚土地登记数据库遭黑客攻击并被清空的严重安全事件。"
+      },
+      {
+        "id": 48982681,
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "url": "https://blaizzy.github.io/nativ/",
+        "domain": "blaizzy.github.io",
+        "score": 171,
+        "descendants": 70,
+        "by": "aratahikaru5",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个可以在Mac端本地运行前沿开源AI模型的工具，强调隐私与离线处理能力。"
+      },
+      {
+        "id": 48984254,
+        "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+        "url": "https://vincentwoo.com/3d/grace_cathedral/",
+        "domain": "vincentwoo.com",
+        "score": 70,
+        "descendants": 14,
+        "by": "akanet",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "利用高斯泼溅技术生成的旧金山格蕾丝大教堂沉浸式虚拟导览。"
+      },
+      {
+        "id": 48923130,
+        "title": "The Psychology of Software Teams",
+        "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+        "domain": "routledge.com",
+        "score": 17,
+        "descendants": 3,
+        "by": "dcre",
+        "tags": [],
+        "summary": "探讨影响软件开发团队效率与产出的心理学要素。"
+      },
+      {
+        "id": 48976846,
+        "title": "Airport Simulator",
+        "url": "https://airport.apunen.com/",
+        "domain": "airport.apunen.com",
+        "score": 695,
+        "descendants": 142,
+        "by": "apunen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款高度仿真的机场运营模拟器，让用户深度体验机场管理与调度流程。"
+      },
+      {
+        "id": 48982535,
+        "title": "Agent swarms and the new model economics",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "domain": "cursor.com",
+        "score": 117,
+        "descendants": 48,
+        "by": "jlaneve",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "分析AI智能体群组（Agent swarms）的兴起对模型经济模式带来的变革。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "stratechery.com",
+          "count": 1
+        },
+        {
+          "domain": "kimi.com",
+          "count": 1
+        },
+        {
+          "domain": "xenaproject.wordpress.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 279,
+      "max_score": {
+        "title": "Airport Simulator",
+        "score": 695
+      },
+      "most_discussed": {
+        "title": "Hacker wipes Romania's land registry database",
+        "comments": 323
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Science",
+        "Database",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的快速演进与落地，包括国产模型的全球竞争态势、边缘侧模型部署以及AI Agent的经济效应。同时，网页交互的趣味性设计、重大数据安全事件及数学研究领域的工具性变革也引发了社区广泛关注。"
+  }
+}
