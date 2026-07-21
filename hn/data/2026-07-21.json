@@ -163,5 +163,168 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的快速演进与落地，包括国产模型的全球竞争态势、边缘侧模型部署以及AI Agent的经济效应。同时，网页交互的趣味性设计、重大数据安全事件及数学研究领域的工具性变革也引发了社区广泛关注。"
+  },
+  "noon": {
+    "time": "2026-07-21 14:21",
+    "stories": [
+      {
+        "id": 48987822,
+        "title": "Incremental – A library for incremental computations",
+        "url": "https://github.com/janestreet/incremental",
+        "domain": "github.com",
+        "score": 92,
+        "descendants": 17,
+        "by": "handfuloflight",
+        "tags": [],
+        "summary": "介绍一个用于高性能增量计算的函数式编程库，旨在优化复杂数据流的处理效率。"
+      },
+      {
+        "id": 48977128,
+        "title": "Who's afraid of Chinese models?",
+        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+        "domain": "stratechery.com",
+        "score": 497,
+        "descendants": 340,
+        "by": "mfiguiere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析中国 AI 模型的发展现状及其对全球市场竞争格局的潜在影响。"
+      },
+      {
+        "id": 48987846,
+        "title": "Running Doom on Our Custom CPU and Going Viral",
+        "url": "https://www.armaangomes.com/blogs/doom/",
+        "domain": "armaangomes.com",
+        "score": 33,
+        "descendants": 3,
+        "by": "arghunter",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开发者分享在自研 CPU 上成功运行《毁灭战士》(Doom) 的技术挑战与病毒式传播历程。"
+      },
+      {
+        "id": 48988265,
+        "title": "Reverse-engineering is cheap now",
+        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+        "domain": "simonwillison.net",
+        "score": 20,
+        "descendants": 7,
+        "by": "edward",
+        "tags": [],
+        "summary": "探讨在 AI 辅助下，逆向工程的门槛显著降低，改变了软件分析与安全研究的生态。"
+      },
+      {
+        "id": 48987831,
+        "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+        "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+        "domain": "instructables.com",
+        "score": 22,
+        "descendants": 12,
+        "by": "sudo_cowsay",
+        "tags": [
+          "AI"
+        ],
+        "summary": "利用 10 磅 3D 打印废料制作锦鲤池马赛克的创意手工项目展示。"
+      },
+      {
+        "id": 48988158,
+        "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+        "url": "https://exsitu.app/map",
+        "domain": "exsitu.app",
+        "score": 15,
+        "descendants": 1,
+        "by": "hbyel",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "开源项目 Ex Situ，旨在构建流离失所文化艺术品的空间索引数据库。"
+      },
+      {
+        "id": 48987863,
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "domain": "asia.nikkei.com",
+        "score": 148,
+        "descendants": 40,
+        "by": "NordStreamYacht",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "报道五大科技巨头通过不透明的 AI 融资方式，隐藏了高达 1.65 万亿美元的债务。"
+      },
+      {
+        "id": 48981703,
+        "title": "Kimi Work",
+        "url": "https://www.kimi.com/products/kimi-work",
+        "domain": "kimi.com",
+        "score": 488,
+        "descendants": 208,
+        "by": "ms7892",
+        "tags": [],
+        "summary": "介绍 Moonshot AI 推出的 Kimi Work，展示其在企业办公协同场景下的 AI 应用能力。"
+      },
+      {
+        "id": 48981620,
+        "title": "Jelly UI: Soft-body physics for native HTML form controls",
+        "url": "https://jelly-ui.com/",
+        "domain": "jelly-ui.com",
+        "score": 425,
+        "descendants": 144,
+        "by": "baldvinmar",
+        "tags": [
+          "Web",
+          "Science"
+        ],
+        "summary": "一个有趣的开源 UI 库，为标准 HTML 表单控件引入了拟真的软体物理交互效果。"
+      },
+      {
+        "id": 48983382,
+        "title": "Human mathematicians are being outcounterexampled",
+        "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "domain": "xenaproject.wordpress.com",
+        "score": 295,
+        "descendants": 105,
+        "by": "artninja1988",
+        "tags": [],
+        "summary": "讨论 AI 工具如何辅助数学家发现反例，正在改变数学证明与发现的传统模式。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "stratechery.com",
+          "count": 1
+        },
+        {
+          "domain": "armaangomes.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 204,
+      "max_score": {
+        "title": "Who's afraid of Chinese models?",
+        "score": 497
+      },
+      "most_discussed": {
+        "title": "Who's afraid of Chinese models?",
+        "comments": 340
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Open Source",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能的生态影响与底层技术突破，讨论涵盖了中国 AI 模型竞争力、大厂 AI 融资的财务风险，以及 AI 驱动的科研与开发效率提升。此外，社区依旧保持对开源工具、创新硬件工程及独特交互设计的浓厚兴趣。"
   }
 }
