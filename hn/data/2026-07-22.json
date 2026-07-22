@@ -308,5 +308,160 @@
       ]
     },
     "summary": "本期Hacker News聚焦于人工智能领域的快速迭代，涵盖了从模型发布（Kimi K3、Gemini系列）、安全性事件到广告生态扩张的多元讨论。此外，社区关注点还延伸至硬件隐私策略、经典源代码复现以及数学前沿研究，显示出开发者对技术深度与应用边界的持续关注。"
+  },
+  "evening": {
+    "time": "2026-07-22 21:40",
+    "stories": [
+      {
+        "id": 49004663,
+        "title": "OverpAId – Fire your CEO. Hire the future",
+        "url": "https://overpaid.lol",
+        "domain": "overpaid.lol",
+        "score": 353,
+        "descendants": 161,
+        "by": "ignaloidas",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个倡导用 AI 代理替代传统 CEO 的激进观点平台。"
+      },
+      {
+        "id": 49006195,
+        "title": "Back to Kagi",
+        "url": "https://blog.melashri.net/micro/back-to-kagi/",
+        "domain": "blog.melashri.net",
+        "score": 46,
+        "descendants": 28,
+        "by": "speckx",
+        "tags": [],
+        "summary": "博主分享自己回归 Kagi 搜索引擎的理由与体验。"
+      },
+      {
+        "id": 49005973,
+        "title": "Businesses with ugly AI menu redesigns",
+        "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+        "domain": "blog.fiddery.com",
+        "score": 36,
+        "descendants": 12,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨企业在菜单设计中强行植入 AI 导致体验下降的现象。"
+      },
+      {
+        "id": 48997548,
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "domain": "openai.com",
+        "score": 1366,
+        "descendants": 911,
+        "by": "mfiguiere",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "OpenAI 和 Hugging Face 针对模型评估过程中发生的安全漏洞发表回应。"
+      },
+      {
+        "id": 48969200,
+        "title": "Introduction to Formal Verification with Lean Part 1",
+        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+        "domain": "hashcloak.com",
+        "score": 112,
+        "descendants": 10,
+        "by": "badcryptobitch",
+        "tags": [],
+        "summary": "关于如何使用 Lean 证明辅助工具进行形式化验证的入门教程。"
+      },
+      {
+        "id": 48999291,
+        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+        "url": "https://fireworks.ai/blog/kimik3-fable",
+        "domain": "fireworks.ai",
+        "score": 754,
+        "descendants": 396,
+        "by": "piotrgrabowski",
+        "tags": [],
+        "summary": "分析 Kimi K3 模型与 Fable 的性能表现，指出其处于当前行业领先水平。"
+      },
+      {
+        "id": 48961698,
+        "title": "Intel Starts Shipping High-NA EUV Silicon",
+        "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+        "domain": "morethanmoore.substack.com",
+        "score": 145,
+        "descendants": 56,
+        "by": "zdw",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "英特尔正式开始供应高数值孔径 EUV 光刻机制造的芯片。"
+      },
+      {
+        "id": 49002166,
+        "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "domain": "github.com",
+        "score": 114,
+        "descendants": 34,
+        "by": "noteness",
+        "tags": [],
+        "summary": "阿波罗 11 号登月舱与指令舱原始制导计算机的源代码公开存档。"
+      },
+      {
+        "id": 48962282,
+        "title": "Cornell's Interactive Wall of Birds",
+        "url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
+        "domain": "academy.allaboutbirds.org",
+        "score": 15,
+        "descendants": 2,
+        "by": "yareally",
+        "tags": [],
+        "summary": "康奈尔大学展示的一个互动式虚拟鸟类墙项目。"
+      },
+      {
+        "id": 49005329,
+        "title": "10 REM\"_(C2SLFF4",
+        "url": "https://beej.us/blog/data/mystery-comment/",
+        "domain": "beej.us",
+        "score": 13,
+        "descendants": 1,
+        "by": "ingve",
+        "tags": [],
+        "summary": "怀旧文章，回顾早期 BASIC 语言编程的趣味与历史细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "overpaid.lol",
+          "count": 1
+        },
+        {
+          "domain": "blog.melashri.net",
+          "count": 1
+        },
+        {
+          "domain": "blog.fiddery.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 295,
+      "max_score": {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "score": 1366
+      },
+      "most_discussed": {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "comments": 911
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能领域，尤其是 OpenAI 的安全事件、模型性能评测以及 AI 在应用层的各种落地争议。同时，编程基础与硬件技术的深度内容，如 Apollo 11 源码回顾与 Intel EUV 工艺突破，依然保持了社区一贯的技术探索热情。"
   }
 }
