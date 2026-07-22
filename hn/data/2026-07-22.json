@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-07-22 09:22",
+    "stories": [
+      {
+        "id": 48997548,
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "domain": "openai.com",
+        "score": 686,
+        "descendants": 453,
+        "by": "mfiguiere",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "OpenAI与Hugging Face联合披露并处理了一起模型评估期间的安全事故。"
+      },
+      {
+        "id": 48999291,
+        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+        "url": "https://fireworks.ai/blog/kimik3-fable",
+        "domain": "fireworks.ai",
+        "score": 264,
+        "descendants": 133,
+        "by": "piotrgrabowski",
+        "tags": [],
+        "summary": "Fireworks.ai评估显示Kimi K3在性能上与Fable模型旗鼓相当，共同处于行业领先地位。"
+      },
+      {
+        "id": 48996318,
+        "title": "FreeInk: Open ecosystem for e-readers",
+        "url": "https://freeink.org/",
+        "domain": "freeink.org",
+        "score": 398,
+        "descendants": 99,
+        "by": "FriedPickles",
+        "tags": [],
+        "summary": "FreeInk致力于打造一个开放的电子阅读器生态系统。"
+      },
+      {
+        "id": 48998362,
+        "title": "A digestion of the Jacobian conjecture counterexample",
+        "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+        "domain": "terrytao.wordpress.com",
+        "score": 152,
+        "descendants": 46,
+        "by": "jeremyscanvic",
+        "tags": [],
+        "summary": "陶哲轩通过通俗易懂的方式解析了雅可比猜想反例的相关数学证明。"
+      },
+      {
+        "id": 48993414,
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "domain": "blog.google",
+        "score": 608,
+        "descendants": 480,
+        "by": "logickkk1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布了包括Gemini 3.6 Flash及3.5系列变体在内的新一代模型矩阵。"
+      },
+      {
+        "id": 48996571,
+        "title": "Advertise in ChatGPT",
+        "url": "https://ads.openai.com/",
+        "domain": "ads.openai.com",
+        "score": 288,
+        "descendants": 292,
+        "by": "montecarl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI正式推出ChatGPT广告服务，引发关于AI搜索与平台商业模式的讨论。"
+      },
+      {
+        "id": 48998404,
+        "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+        "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+        "domain": "tryai.dev",
+        "score": 98,
+        "descendants": 35,
+        "by": "hershyb_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过对比主流大模型在绘制《蒙娜丽莎》时的表现，评估其视觉与指令遵循能力。"
+      },
+      {
+        "id": 48993816,
+        "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+        "url": "https://e360.yale.edu/digest/benin-coral-reef",
+        "domain": "e360.yale.edu",
+        "score": 300,
+        "descendants": 54,
+        "by": "speckx",
+        "tags": [],
+        "summary": "研究人员在西非海域发现了一处此前被认为已灭绝的珊瑚礁，目前生态状况良好。"
+      },
+      {
+        "id": 48995213,
+        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+        "domain": "runtimewire.com",
+        "score": 233,
+        "descendants": 216,
+        "by": "ryanmerket",
+        "tags": [
+          "AI"
+        ],
+        "summary": "杰克·多西推出Buzz，旨在集成团队聊天、AI智能体与Git托管功能。"
+      },
+      {
+        "id": 48938395,
+        "title": "Recreating the math behind the first stealth aircraft",
+        "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+        "domain": "pramit.gg",
+        "score": 31,
+        "descendants": 11,
+        "by": "pmazumder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入复盘并解读首款隐形战斗机背后所涉及的复杂数学原理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "fireworks.ai",
+          "count": 1
+        },
+        {
+          "domain": "freeink.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 306,
+      "max_score": {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "score": 686
+      },
+      "most_discussed": {
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "comments": 480
+      },
+      "hot_tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News聚焦人工智能领域的密集动态，包括大模型安全事件、新模型发布以及AI商业化应用的探索。此外，科学研究与开源技术依然保持关注，涵盖数学猜想、海洋生态保护及电子阅读器技术创新。"
+  }
+}
