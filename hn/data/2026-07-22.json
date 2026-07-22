@@ -156,5 +156,157 @@
       ]
     },
     "summary": "本期Hacker News聚焦人工智能领域的密集动态，包括大模型安全事件、新模型发布以及AI商业化应用的探索。此外，科学研究与开源技术依然保持关注，涵盖数学猜想、海洋生态保护及电子阅读器技术创新。"
+  },
+  "noon": {
+    "time": "2026-07-22 14:20",
+    "stories": [
+      {
+        "id": 48997548,
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "domain": "openai.com",
+        "score": 953,
+        "descendants": 651,
+        "by": "mfiguiere",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "OpenAI与Hugging Face共同应对模型评估期间发生的安全漏洞事件。"
+      },
+      {
+        "id": 48999291,
+        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+        "url": "https://fireworks.ai/blog/kimik3-fable",
+        "domain": "fireworks.ai",
+        "score": 497,
+        "descendants": 279,
+        "by": "piotrgrabowski",
+        "tags": [],
+        "summary": "Fireworks.ai评估显示Kimi K3在性能表现上已跻身业界顶尖水平。"
+      },
+      {
+        "id": 49001930,
+        "title": "Kimi K3: second only to Fable 5 on AA-Briefcase",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
+        "domain": "artificialanalysis.ai",
+        "score": 39,
+        "descendants": 2,
+        "by": "wertyk",
+        "tags": [],
+        "summary": "Artificial Analysis测评指出Kimi K3在AA-Briefcase榜单中位列次席。"
+      },
+      {
+        "id": 49002166,
+        "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "noteness",
+        "tags": [],
+        "summary": "阿波罗11号指令舱与登月舱的原始导航计算机源代码开源发布。"
+      },
+      {
+        "id": 49000864,
+        "title": "LG to ban residential proxies from smart TV apps",
+        "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "domain": "krebsonsecurity.com",
+        "score": 183,
+        "descendants": 136,
+        "by": "DemiGuru",
+        "tags": [],
+        "summary": "LG采取措施限制智能电视应用滥用住宅代理网络以保护用户隐私。"
+      },
+      {
+        "id": 48996571,
+        "title": "Advertise in ChatGPT",
+        "url": "https://ads.openai.com/",
+        "domain": "ads.openai.com",
+        "score": 597,
+        "descendants": 434,
+        "by": "montecarl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI正式推出针对ChatGPT平台的广告业务整合方案。"
+      },
+      {
+        "id": 48996318,
+        "title": "FreeInk: Open ecosystem for e-readers",
+        "url": "https://freeink.org/",
+        "domain": "freeink.org",
+        "score": 490,
+        "descendants": 113,
+        "by": "FriedPickles",
+        "tags": [],
+        "summary": "FreeInk致力于打造开放互通的电子书阅读器生态系统。"
+      },
+      {
+        "id": 49001127,
+        "title": "Late.sh – a command-line Clubhouse for computer people",
+        "url": "https://late.sh/",
+        "domain": "late.sh",
+        "score": 68,
+        "descendants": 18,
+        "by": "itherseed",
+        "tags": [],
+        "summary": "Late.sh为开发者提供了一个基于命令行的实时语音交流平台。"
+      },
+      {
+        "id": 48993414,
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "domain": "blog.google",
+        "score": 656,
+        "descendants": 512,
+        "by": "logickkk1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布Gemini 3.6 Flash及3.5系列轻量化模型，进一步扩充产品矩阵。"
+      },
+      {
+        "id": 48998362,
+        "title": "A digestion of the Jacobian conjecture counterexample",
+        "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+        "domain": "terrytao.wordpress.com",
+        "score": 232,
+        "descendants": 76,
+        "by": "jeremyscanvic",
+        "tags": [],
+        "summary": "陶哲轩深度解析近期数学界关于雅可比猜想反例的讨论内容。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "fireworks.ai",
+          "count": 1
+        },
+        {
+          "domain": "artificialanalysis.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 373,
+      "max_score": {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "score": 953
+      },
+      "most_discussed": {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "comments": 651
+      },
+      "hot_tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于人工智能领域的快速迭代，涵盖了从模型发布（Kimi K3、Gemini系列）、安全性事件到广告生态扩张的多元讨论。此外，社区关注点还延伸至硬件隐私策略、经典源代码复现以及数学前沿研究，显示出开发者对技术深度与应用边界的持续关注。"
   }
 }
