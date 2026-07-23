@@ -157,5 +157,165 @@
       ]
     },
     "summary": "今日 Hacker News 讨论热点聚焦于 AI 技术的前沿演进，涵盖了从数学验证、性能优化到模型局限性的多维探讨。此外，编程工具创新与人文历史跨界话题也受到关注，反映了社区对硬核工程实践及深层知识探索的持续热忱。"
+  },
+  "noon": {
+    "time": "2026-07-23 14:22",
+    "stories": [
+      {
+        "id": 48991882,
+        "title": "git's –end-of-options Flag",
+        "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "domain": "nesbitt.io",
+        "score": 79,
+        "descendants": 31,
+        "by": "Erenay09",
+        "tags": [],
+        "summary": "介绍 Git 新增的 --end-of-options 标志，用于明确区分命令选项与参数。"
+      },
+      {
+        "id": 49010345,
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "domain": "chatgpt.com",
+        "score": 761,
+        "descendants": 453,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "陶哲轩分享了他与 ChatGPT 关于雅可比猜想反例的深入探讨过程。"
+      },
+      {
+        "id": 49007247,
+        "title": "Quality non-fiction books are the antithesis of AI slop",
+        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+        "domain": "resobscura.substack.com",
+        "score": 277,
+        "descendants": 98,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨高质量非虚构类书籍为何是抵御 AI 生成内容的最佳良药。"
+      },
+      {
+        "id": 49010167,
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "url": "https://github.com/marcelroed/gigatoken/",
+        "domain": "github.com",
+        "score": 446,
+        "descendants": 94,
+        "by": "syrusakbary",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种名为 GigaToken 的新型分词技术，宣称能实现 1000 倍的性能提升。"
+      },
+      {
+        "id": 49008211,
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "domain": "bento.page",
+        "score": 749,
+        "descendants": 168,
+        "by": "starfallg",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一个将 PowerPoint 演示文稿集成在单一 HTML 文件中的工具，支持编辑、协作与数据集成。"
+      },
+      {
+        "id": 49010648,
+        "title": "Everyone should know SIMD",
+        "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "domain": "mitchellh.com",
+        "score": 347,
+        "descendants": 111,
+        "by": "WadeGrimridge",
+        "tags": [],
+        "summary": "作者强调了理解 SIMD（单指令多数据）技术对于编写高性能软件的重要性。"
+      },
+      {
+        "id": 49010129,
+        "title": "Are AI labs pelicanmaxxing?",
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "domain": "dylancastillo.co",
+        "score": 464,
+        "descendants": 181,
+        "by": "dcastm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析 AI 实验室当前的资源投入与扩张模式是否陷入了某种特定套路。"
+      },
+      {
+        "id": 48984534,
+        "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+        "url": "https://github.com/exlee/ascdraw",
+        "domain": "github.com",
+        "score": 29,
+        "descendants": 4,
+        "by": "xlii",
+        "tags": [],
+        "summary": "介绍一款支持 144FPS 帧率的 ASCII 及 UTF-8 图表编辑器。"
+      },
+      {
+        "id": 49016099,
+        "title": "Restructuring GitHub's bug bounty program",
+        "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+        "domain": "github.blog",
+        "score": 32,
+        "descendants": 14,
+        "by": "soheilpro",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub 官方宣布对其漏洞赏金计划进行架构调整。"
+      },
+      {
+        "id": 48983076,
+        "title": "Making ASCII Art in Vim",
+        "url": "https://alexyang.dev/vim-ascii-art/",
+        "domain": "alexyang.dev",
+        "score": 41,
+        "descendants": 3,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "分享在 Vim 编辑器中高效制作 ASCII 艺术的技巧与工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "nesbitt.io",
+          "count": 1
+        },
+        {
+          "domain": "chatgpt.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 322,
+      "max_score": {
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "score": 761
+      },
+      "most_discussed": {
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "comments": 453
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热点集中于前沿 AI 技术与底层高性能计算，包含 Terence Tao 对雅可比猜想的反例探讨以及 SIMD 等性能优化话题。同时，社区也展现了对 AI 内容质量的批判性思考，并涌现出多个提升开发效率与演示工具的创意项目。"
   }
 }
