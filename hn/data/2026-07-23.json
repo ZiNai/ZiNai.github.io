@@ -317,5 +317,169 @@
       ]
     },
     "summary": "今日 Hacker News 社区热点集中于前沿 AI 技术与底层高性能计算，包含 Terence Tao 对雅可比猜想的反例探讨以及 SIMD 等性能优化话题。同时，社区也展现了对 AI 内容质量的批判性思考，并涌现出多个提升开发效率与演示工具的创意项目。"
+  },
+  "evening": {
+    "time": "2026-07-23 21:46",
+    "stories": [
+      {
+        "id": 49021006,
+        "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+        "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+        "domain": "reuters.com",
+        "score": 86,
+        "descendants": 63,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "Alphabet巨额的AI基础设施投入引发了市场对大型科技公司利润前景的担忧。"
+      },
+      {
+        "id": 49020868,
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "domain": "axios.com",
+        "score": 74,
+        "descendants": 29,
+        "by": "yogthos",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道指出OpenAI与Anthropic正联手推动行业政策，以对抗开源模型对其市场竞争力的威胁。"
+      },
+      {
+        "id": 48945139,
+        "title": "Scanning for Pangram Errors",
+        "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+        "domain": "veryfineprint.substack.com",
+        "score": 20,
+        "descendants": 7,
+        "by": "jsnell",
+        "tags": [],
+        "summary": "深入探讨文本校验中关于全字母句（Pangram）错误的检测方法与技术细节。"
+      },
+      {
+        "id": 49010345,
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "domain": "chatgpt.com",
+        "score": 992,
+        "descendants": 565,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数学家陶哲轩在与ChatGPT的对话中，探讨了关于雅可比猜想反例的验证过程。"
+      },
+      {
+        "id": 49017344,
+        "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+        "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+        "domain": "ziggit.dev",
+        "score": 111,
+        "descendants": 59,
+        "by": "Erenay09",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Bun的Zig运行时项目Cruller正式宣布迁移至Zig 0.16版本。"
+      },
+      {
+        "id": 48995712,
+        "title": "The Unity CLI: manage Unity from your terminal",
+        "url": "https://unity.com/blog/meet-the-unity-cli",
+        "domain": "unity.com",
+        "score": 42,
+        "descendants": 11,
+        "by": "nateb2022",
+        "tags": [],
+        "summary": "介绍官方推出的Unity CLI工具，允许开发者通过命令行高效管理Unity项目。"
+      },
+      {
+        "id": 49007247,
+        "title": "Quality non-fiction books are the antithesis of AI slop",
+        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+        "domain": "resobscura.substack.com",
+        "score": 426,
+        "descendants": 203,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者主张高质量的非虚构类书籍是抵御人工智能产出低质内容（AI slop）的最佳防线。"
+      },
+      {
+        "id": 49010648,
+        "title": "Everyone should know SIMD",
+        "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "domain": "mitchellh.com",
+        "score": 517,
+        "descendants": 185,
+        "by": "WadeGrimridge",
+        "tags": [],
+        "summary": "强调了SIMD指令集在现代软件性能优化中的重要性，建议开发者将其作为核心技能掌握。"
+      },
+      {
+        "id": 48990219,
+        "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+        "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+        "domain": "jointhefreeworld.org",
+        "score": 107,
+        "descendants": 91,
+        "by": "jjba23",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨如何在Emacs Eglot中使用Scala和Kotlin的LSP，摆脱对IntelliJ的依赖。"
+      },
+      {
+        "id": 49008211,
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "domain": "bento.page",
+        "score": 913,
+        "descendants": 209,
+        "by": "starfallg",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "展示了一个名为Bento的项目，将完整的PowerPoint功能整合进单个HTML文件中实现编辑与协作。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "axios.com",
+          "count": 1
+        },
+        {
+          "domain": "veryfineprint.substack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 329,
+      "max_score": {
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "score": 992
+      },
+      "most_discussed": {
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "comments": 565
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI产业的经济与伦理争议，以及技术社区对底层性能优化（如SIMD）、开发工具链的持续深耕。此外，开发者对于非AI驱动的传统高质量内容及替代性开发工具表现出浓厚兴趣。"
   }
 }
