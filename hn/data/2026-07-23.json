@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-07-23 09:29",
+    "stories": [
+      {
+        "id": 49010345,
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "domain": "chatgpt.com",
+        "score": 584,
+        "descendants": 360,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数学家陶哲轩利用 ChatGPT 探讨雅可比猜想反例的可能性。"
+      },
+      {
+        "id": 49007247,
+        "title": "Quality non-fiction books are the antithesis of AI slop",
+        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+        "domain": "resobscura.substack.com",
+        "score": 140,
+        "descendants": 72,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章探讨高质量非虚构类书籍如何作为 AI 生成内容泛滥时代的精神抗衡力量。"
+      },
+      {
+        "id": 49010167,
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "url": "https://github.com/marcelroed/gigatoken/",
+        "domain": "github.com",
+        "score": 359,
+        "descendants": 72,
+        "by": "syrusakbary",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种名为 GigaToken 的新型分词技术，旨在将语言模型的分词速度提升至千倍水平。"
+      },
+      {
+        "id": 49014007,
+        "title": "Medici family mystery may be solved after more than 400 years",
+        "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+        "domain": "cnn.com",
+        "score": 74,
+        "descendants": 16,
+        "by": "effects",
+        "tags": [],
+        "summary": "困扰学界 400 余年的美第奇家族历史谜团可能已获得科学解答。"
+      },
+      {
+        "id": 49008211,
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "domain": "bento.page",
+        "score": 637,
+        "descendants": 149,
+        "by": "starfallg",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一个可以将整个 PowerPoint 演示文稿集成在单一 HTML 文件中的编辑与协作工具。"
+      },
+      {
+        "id": 49010129,
+        "title": "Are AI Labs Pelicanmaxxing?",
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "domain": "dylancastillo.co",
+        "score": 386,
+        "descendants": 152,
+        "by": "dcastm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析当前 AI 实验室在资源分配与竞争策略上是否呈现出过度扩张的趋势。"
+      },
+      {
+        "id": 49010648,
+        "title": "Everyone Should Know SIMD",
+        "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "domain": "mitchellh.com",
+        "score": 247,
+        "descendants": 70,
+        "by": "WadeGrimridge",
+        "tags": [],
+        "summary": "探讨为何 SIMD 指令集是现代开发者理解性能优化的必修课。"
+      },
+      {
+        "id": 49013538,
+        "title": "Malleable Computing, Emacs, and You",
+        "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+        "domain": "yummymelon.com",
+        "score": 67,
+        "descendants": 14,
+        "by": "kickingvegas",
+        "tags": [],
+        "summary": "探讨可塑性计算的概念及其在 Emacs 等系统中的应用哲学。"
+      },
+      {
+        "id": 49010782,
+        "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+        "url": "https://github.com/cactus-compute/cactus-hybrid",
+        "domain": "github.com",
+        "score": 62,
+        "descendants": 10,
+        "by": "HenryNdubuaku",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "介绍 Cactus Hybrid 模型，该项目通过训练使 Gemma 4 具备识别自身回答错误的能力。"
+      },
+      {
+        "id": 49012070,
+        "title": "John C. Dvorak has died",
+        "url": "https://twitter.com/na_announce/status/2079952538040672302",
+        "domain": "twitter.com",
+        "score": 532,
+        "descendants": 170,
+        "by": "coleca",
+        "tags": [],
+        "summary": "知名科技评论家约翰·C·德沃夏克（John C. Dvorak）去世，引发社区缅怀。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "chatgpt.com",
+          "count": 1
+        },
+        {
+          "domain": "resobscura.substack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 309,
+      "max_score": {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "score": 637
+      },
+      "most_discussed": {
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "comments": 360
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Web"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论热点聚焦于 AI 技术的前沿演进，涵盖了从数学验证、性能优化到模型局限性的多维探讨。此外，编程工具创新与人文历史跨界话题也受到关注，反映了社区对硬核工程实践及深层知识探索的持续热忱。"
+  }
+}
