@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-07-24 09:25",
+    "stories": [
+      {
+        "id": 49028927,
+        "title": "98.css",
+        "url": "https://jdan.github.io/98.css/#status-bar",
+        "domain": "jdan.github.io",
+        "score": 189,
+        "descendants": 31,
+        "by": "lopespm",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个复刻 Windows 98 视觉风格的 CSS 框架，让网页也能拥有怀旧的复古外观。"
+      },
+      {
+        "id": 49022152,
+        "title": "Writing by hand is good for your brain",
+        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "domain": "nealstephenson.substack.com",
+        "score": 963,
+        "descendants": 475,
+        "by": "dwwoelfel",
+        "tags": [
+          "AI"
+        ],
+        "summary": "尼尔·斯蒂芬森探讨为何手写过程有助于深度思考与大脑认知功能，对比了数字化输入带来的差异。"
+      },
+      {
+        "id": 49029538,
+        "title": "The Visual 6502",
+        "url": "http://visual6502.org/JSSim/index.html",
+        "domain": "visual6502.org",
+        "score": 30,
+        "descendants": 12,
+        "by": "infiniteregrets",
+        "tags": [],
+        "summary": "介绍经典的 Visual 6502 项目，通过可视化方式展示 6502 处理器的底层运行机制。"
+      },
+      {
+        "id": 49026810,
+        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+        "url": "https://news.ycombinator.com/item?id=49026810",
+        "domain": "news.ycombinator.com",
+        "score": 219,
+        "descendants": 104,
+        "by": "adam_rida",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "Show HN：介绍 Echo 模型，声称能在保持高质量结果的同时，大幅降低开放权重模型的调用成本。"
+      },
+      {
+        "id": 49007221,
+        "title": "The Beam Engine",
+        "url": "https://glinscott.github.io/beam-engine/",
+        "domain": "glinscott.github.io",
+        "score": 151,
+        "descendants": 48,
+        "by": "glinscott",
+        "tags": [],
+        "summary": "深入解析巴贝奇设计的蒸汽引擎（Beam Engine），探索早期计算机科学的机械工程美学。"
+      },
+      {
+        "id": 48959008,
+        "title": "What else do people draw on gradient.horse?",
+        "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+        "domain": "rybakov.com",
+        "score": 50,
+        "descendants": 11,
+        "by": "spython",
+        "tags": [],
+        "summary": "探究 gradient.horse 绘图工具及其背后的社区创作生态。"
+      },
+      {
+        "id": 49024691,
+        "title": "What happened to TheNumbers.com",
+        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "domain": "stephenfollows.com",
+        "score": 289,
+        "descendants": 124,
+        "by": "nickthegreek",
+        "tags": [],
+        "summary": "调查电影票房统计网站 TheNumbers.com 的现状及近期发生的问题。"
+      },
+      {
+        "id": 49029133,
+        "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+        "url": "https://arxiv.org/abs/2507.09369",
+        "domain": "arxiv.org",
+        "score": 43,
+        "descendants": 33,
+        "by": "amelius",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "分析人工智能引发的“全人类灭绝”式灾难场景，构建不同层级的生存风险分类学。"
+      },
+      {
+        "id": 49023016,
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "domain": "politico.com",
+        "score": 711,
+        "descendants": 642,
+        "by": "theanonymousone",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "多位科技创业者联合致信美国政府，反对限制中国开源 AI 模型，强调其对技术生态的重要性。"
+      },
+      {
+        "id": 48951500,
+        "title": "A24 Is Copyright Striking Backrooms Artwork Older Than the Movie",
+        "url": "https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/",
+        "domain": "thegamer.com",
+        "score": 85,
+        "descendants": 27,
+        "by": "josephcsible",
+        "tags": [],
+        "summary": "报道 A24 公司对早于其电影《后室》的同名艺术创作发起版权投诉所引发的争议。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jdan.github.io",
+          "count": 1
+        },
+        {
+          "domain": "nealstephenson.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "visual6502.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 273,
+      "max_score": {
+        "title": "Writing by hand is good for your brain",
+        "score": 963
+      },
+      "most_discussed": {
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "comments": 642
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Hardware",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能的监管挑战与技术应用，探讨了初创企业对开源 AI 的支持及潜在的生存风险。同时，技术怀旧与认知科学成为热门话题，从 98.css 设计风格到手写对大脑的影响，展示了开发者对复古计算与人类认知机制的持续兴趣。"
+  }
+}
