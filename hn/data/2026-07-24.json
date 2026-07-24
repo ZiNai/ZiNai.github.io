@@ -158,5 +158,167 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能的监管挑战与技术应用，探讨了初创企业对开源 AI 的支持及潜在的生存风险。同时，技术怀旧与认知科学成为热门话题，从 98.css 设计风格到手写对大脑的影响，展示了开发者对复古计算与人类认知机制的持续兴趣。"
+  },
+  "noon": {
+    "time": "2026-07-24 14:17",
+    "stories": [
+      {
+        "id": 49022152,
+        "title": "Writing by hand is good for your brain",
+        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "domain": "nealstephenson.substack.com",
+        "score": 1174,
+        "descendants": 546,
+        "by": "dwwoelfel",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨手写对于大脑认知与记忆力的积极影响。"
+      },
+      {
+        "id": 49026810,
+        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+        "url": "https://news.ycombinator.com/item?id=49026810",
+        "domain": "news.ycombinator.com",
+        "score": 320,
+        "descendants": 160,
+        "by": "adam_rida",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "介绍一款利用开源模型实现极高性价比的 AI 推理方案。"
+      },
+      {
+        "id": 49007221,
+        "title": "The Beam Engine",
+        "url": "https://glinscott.github.io/beam-engine/",
+        "domain": "glinscott.github.io",
+        "score": 260,
+        "descendants": 69,
+        "by": "glinscott",
+        "tags": [],
+        "summary": "深入解析经典蒸汽机引擎的构造原理与运行机制。"
+      },
+      {
+        "id": 49023016,
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "domain": "politico.com",
+        "score": 846,
+        "descendants": 721,
+        "by": "theanonymousone",
+        "tags": [
+          "AI",
+          "Startup"
+        ],
+        "summary": "初创公司创始人呼吁美国政府维持对中国开源 AI 权重的开放政策。"
+      },
+      {
+        "id": 49024691,
+        "title": "What happened to TheNumbers.com",
+        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "domain": "stephenfollows.com",
+        "score": 339,
+        "descendants": 148,
+        "by": "nickthegreek",
+        "tags": [],
+        "summary": "追溯电影票房数据库 TheNumbers.com 的发展历程与现状。"
+      },
+      {
+        "id": 48959008,
+        "title": "What else do people draw on gradient.horse?",
+        "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+        "domain": "rybakov.com",
+        "score": 93,
+        "descendants": 12,
+        "by": "spython",
+        "tags": [],
+        "summary": "探索用户在交互式绘图网站 gradient.horse 上的创意表现。"
+      },
+      {
+        "id": 49023019,
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "domain": "github.com",
+        "score": 252,
+        "descendants": 191,
+        "by": "dhorthy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度剖析为何单纯依赖软件工厂的开发模式往往难以达成工程目标。"
+      },
+      {
+        "id": 49028927,
+        "title": "98.css",
+        "url": "https://jdan.github.io/98.css/#status-bar",
+        "domain": "jdan.github.io",
+        "score": 398,
+        "descendants": 91,
+        "by": "lopespm",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍一套能让网页元素呈现出 Windows 98 复古视觉风格的 CSS 框架。"
+      },
+      {
+        "id": 49022038,
+        "title": "Software rendering in 500 lines of bare C++",
+        "url": "https://haqr.eu/tinyrenderer/",
+        "domain": "haqr.eu",
+        "score": 271,
+        "descendants": 52,
+        "by": "mpweiher",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过 500 行裸 C++ 代码实现简易的软件渲染器，展示底层逻辑。"
+      },
+      {
+        "id": 49022634,
+        "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+        "url": "https://learnopengl.com/",
+        "domain": "learnopengl.com",
+        "score": 214,
+        "descendants": 109,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "推荐一份全面且权威的现代 OpenGL 图形编程入门教程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nealstephenson.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "glinscott.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 417,
+      "max_score": {
+        "title": "Writing by hand is good for your brain",
+        "score": 1174
+      },
+      "most_discussed": {
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "comments": 721
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Startup",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 政策与技术应用的博弈，包括对中国开源模型限制的行业担忧以及 AI 成本优化方案。同时，技术社区对底层渲染、经典界面设计及认知科学等领域表现出浓厚兴趣，展现出从软硬件开发到生产力工具的多元趋势。"
   }
 }
