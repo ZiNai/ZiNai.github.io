@@ -320,5 +320,164 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 政策与技术应用的博弈，包括对中国开源模型限制的行业担忧以及 AI 成本优化方案。同时，技术社区对底层渲染、经典界面设计及认知科学等领域表现出浓厚兴趣，展现出从软硬件开发到生产力工具的多元趋势。"
+  },
+  "evening": {
+    "time": "2026-07-24 21:26",
+    "stories": [
+      {
+        "id": 49033127,
+        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+        "url": "https://bfl.ai/blog/flux-3-mimic",
+        "domain": "bfl.ai",
+        "score": 189,
+        "descendants": 24,
+        "by": "kensai",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Flux 3 X Mimic 模型展示了视频动作生成领域的新突破。"
+      },
+      {
+        "id": 49034747,
+        "title": "Em dashes are fucking amazing",
+        "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+        "domain": "psychotechnology.substack.com",
+        "score": 33,
+        "descendants": 10,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨排版中长破折号（em dash）在表达与叙事中的独特魅力。"
+      },
+      {
+        "id": 49031796,
+        "title": "Flux 3",
+        "url": "https://bfl.ai/blog/flux-3",
+        "domain": "bfl.ai",
+        "score": 421,
+        "descendants": 102,
+        "by": "ThouYS",
+        "tags": [],
+        "summary": "Black Forest Labs 正式发布 Flux 3，再次提升了图像生成模型的性能基准。"
+      },
+      {
+        "id": 49032660,
+        "title": "It's getting harder to focus every day",
+        "url": "https://glyphack.com/attention/",
+        "domain": "glyphack.com",
+        "score": 266,
+        "descendants": 139,
+        "by": "peykar",
+        "tags": [],
+        "summary": "探讨现代环境下人类注意力难以集中背后的原因及心理学分析。"
+      },
+      {
+        "id": 49034342,
+        "title": "I Tried Building a Real App with AI. It Took a Year",
+        "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+        "domain": "alexhyett.com",
+        "score": 25,
+        "descendants": 13,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开发者分享利用 AI 构建完整应用的真实历程与面临的挑战。"
+      },
+      {
+        "id": 49034948,
+        "title": "Patreon laying off 20% of staff",
+        "url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+        "domain": "patreon.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "gpi",
+        "tags": [],
+        "summary": "Patreon 宣布裁员 20%，显示创作者经济平台近期面临的调整压力。"
+      },
+      {
+        "id": 49034217,
+        "title": "The case for MUDs in modern times",
+        "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "domain": "andrewzigler.com",
+        "score": 37,
+        "descendants": 37,
+        "by": "bw86",
+        "tags": [],
+        "summary": "分析在现代语境下 MUD（多用户地下城）类游戏的复兴价值。"
+      },
+      {
+        "id": 49034292,
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "url": "https://hhh.hn/hanwha-github-token/",
+        "domain": "hhh.hn",
+        "score": 15,
+        "descendants": 6,
+        "by": "hhh",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "某安全摄像头厂商被曝在登录页面泄露了 GitHub 管理员令牌。"
+      },
+      {
+        "id": 49033099,
+        "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+        "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+        "domain": "ziggit.dev",
+        "score": 95,
+        "descendants": 61,
+        "by": "kristoff_it",
+        "tags": [
+          "JavaScript",
+          "Systems"
+        ],
+        "summary": "Buz 作为 Bun 的 Zig 分支，通过现代 Zig 语言优化实现了超快增量构建。"
+      },
+      {
+        "id": 48973835,
+        "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "domain": "arstechnica.com",
+        "score": 26,
+        "descendants": 2,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "印度首枚私营火箭在首次发射中成功入轨，开启航天新篇章。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bfl.ai",
+          "count": 2
+        },
+        {
+          "domain": "psychotechnology.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "glyphack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 112,
+      "max_score": {
+        "title": "Flux 3",
+        "score": 421
+      },
+      "most_discussed": {
+        "title": "It's getting harder to focus every day",
+        "comments": 139
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Open Source",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 主要关注人工智能的快速迭代，Flux 3 系列模型引发了关于视觉动作生成的讨论。此外，开发者群体对于生产力困境、技术架构创新及企业裁员等行业动向表现出浓厚兴趣。"
   }
 }
