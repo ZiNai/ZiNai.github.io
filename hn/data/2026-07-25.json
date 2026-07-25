@@ -323,5 +323,146 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点主要围绕AI大模型的突破性进展（Claude Opus 5）及其能力评测展开。此外，社区关注点还涵盖了数据库技术实践、科技与社会议题（如网络安全隐患、软件质量下降）以及令人瞩目的科技行业新闻。"
+  },
+  "evening": {
+    "time": "2026-07-25 21:14",
+    "stories": [
+      {
+        "id": 49045159,
+        "title": "Android May Soon Restrict On-Device ADB",
+        "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "domain": "kitsumed.github.io",
+        "score": 419,
+        "descendants": 182,
+        "by": "shscs911",
+        "tags": [],
+        "summary": "Android计划限制设备端ADB功能，可能对开发者调试与自动化工具产生深远影响。"
+      },
+      {
+        "id": 49038433,
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "domain": "anthropic.com",
+        "score": 1647,
+        "descendants": 1014,
+        "by": "alvis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Claude Opus 5，引发了关于其性能提升与模型能力边界的热烈讨论。"
+      },
+      {
+        "id": 49043724,
+        "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+        "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+        "domain": "maths.cam.ac.uk",
+        "score": 343,
+        "descendants": 56,
+        "by": "agnishom",
+        "tags": [],
+        "summary": "数学家Hannah Fry凭借卓越的数学普及工作荣获2026年Leelavati奖。"
+      },
+      {
+        "id": 49010993,
+        "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+        "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+        "domain": "saffroncr.itch.io",
+        "score": 94,
+        "descendants": 5,
+        "by": "g0xA52A2A",
+        "tags": [],
+        "summary": "开发者分享了为小型手持设备编写极简3D渲染器的技术实践过程。"
+      },
+      {
+        "id": 49045040,
+        "title": "ARC-AGI Leaderboard",
+        "url": "https://arcprize.org/leaderboard",
+        "domain": "arcprize.org",
+        "score": 118,
+        "descendants": 94,
+        "by": "rzk",
+        "tags": [],
+        "summary": "ARC-AGI排行榜更新，展示了当前AI在处理抽象推理任务方面的最新竞赛现状。"
+      },
+      {
+        "id": 49046525,
+        "title": "The Fedora 45 Sausage Factory",
+        "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+        "domain": "supakeen.com",
+        "score": 16,
+        "descendants": 1,
+        "by": "6581",
+        "tags": [],
+        "summary": "深入分析Fedora 45发行版的构建机制及其背后的开发流程与挑战。"
+      },
+      {
+        "id": 48979836,
+        "title": "NYC Apartment Aquaponics",
+        "url": "https://erinmurphy.dev/projects/project-2/",
+        "domain": "erinmurphy.dev",
+        "score": 93,
+        "descendants": 33,
+        "by": "mm1119",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "探讨如何在NYC的小型公寓内搭建室内鱼菜共生系统及其运维心得。"
+      },
+      {
+        "id": 49014034,
+        "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+        "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+        "domain": "nytimes.com",
+        "score": 41,
+        "descendants": 5,
+        "by": "ChrisArchitect",
+        "tags": [],
+        "summary": "记录艺术家Charles Ross历时五十年在沙漠中建造大型裸眼观测建筑Star Axis的壮举。"
+      },
+      {
+        "id": 48981665,
+        "title": "GC and Exceptions in Wasmtime",
+        "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+        "domain": "bytecodealliance.org",
+        "score": 120,
+        "descendants": 15,
+        "by": "phickey",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Wasmtime技术文档详细介绍了其内存垃圾回收（GC）机制与异常处理的实现细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kitsumed.github.io",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "maths.cam.ac.uk",
+          "count": 1
+        }
+      ],
+      "avg_score": 321,
+      "max_score": {
+        "title": "Claude Opus 5",
+        "score": 1647
+      },
+      "most_discussed": {
+        "title": "Claude Opus 5",
+        "comments": 1014
+      },
+      "hot_tags": [
+        "AI",
+        "Startup",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于AI模型前沿动态与操作系统技术变更。讨论涵盖了Claude新版本的发布及其对行业的影响，同时也关注了Android系统权限收紧以及开发者在图形渲染与工程实践领域的探索。"
   }
 }
