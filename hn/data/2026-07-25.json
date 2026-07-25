@@ -159,5 +159,169 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于人工智能的最新突破，Anthropic发布的Claude Opus 5引发了社区对模型实力与排名的广泛热议。同时，技术圈对软件质量退化、底层硬件架构设计及安全漏洞的深度探讨同样活跃，反映了开发者对技术本质与安全实践的持续关注。"
+  },
+  "noon": {
+    "time": "2026-07-25 14:08",
+    "stories": [
+      {
+        "id": 49038433,
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "domain": "anthropic.com",
+        "score": 1441,
+        "descendants": 790,
+        "by": "alvis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布了Claude Opus 5模型，引发技术圈广泛关注。"
+      },
+      {
+        "id": 48981665,
+        "title": "GC and Exceptions in Wasmtime",
+        "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+        "domain": "bytecodealliance.org",
+        "score": 34,
+        "descendants": 0,
+        "by": "phickey",
+        "tags": [
+          "Web"
+        ],
+        "summary": "深入解析Wasmtime运行环境中的垃圾回收与异常处理机制。"
+      },
+      {
+        "id": 49040296,
+        "title": "Postgres LISTEN/NOTIFY actually scales",
+        "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+        "domain": "dbos.dev",
+        "score": 267,
+        "descendants": 48,
+        "by": "KraftyOne",
+        "tags": [
+          "Database"
+        ],
+        "summary": "文章探讨了Postgres的LISTEN/NOTIFY机制在实际应用中的高扩展性表现。"
+      },
+      {
+        "id": 49040741,
+        "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+        "url": "https://artificialanalysis.ai/models",
+        "domain": "artificialanalysis.ai",
+        "score": 223,
+        "descendants": 132,
+        "by": "aarondong",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Opus 5在Artificial Analysis的智能排行榜上成功登顶，位居第一。"
+      },
+      {
+        "id": 49044492,
+        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+        "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+        "domain": "nist.gov",
+        "score": 13,
+        "descendants": 0,
+        "by": "walrus01",
+        "tags": [
+          "AI"
+        ],
+        "summary": "英国AI安全研究所对Kimi K3模型在网络安全能力方面的初步评估报告。"
+      },
+      {
+        "id": 48973835,
+        "title": "India's first privately-developed rocket reaches orbit on debut launch",
+        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "domain": "arstechnica.com",
+        "score": 557,
+        "descendants": 163,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "印度首枚私营研发火箭在处女航中成功进入预定轨道，创造行业历史。"
+      },
+      {
+        "id": 49044074,
+        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+        "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+        "domain": "wsj.com",
+        "score": 160,
+        "descendants": 51,
+        "by": "JumpCrisscross",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "报道揭露Taylor Farms曾试图通过白宫干预以延迟Cyclospora污染事件的召回。"
+      },
+      {
+        "id": 49034292,
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "url": "https://hhh.hn/hanwha-github-token/",
+        "domain": "hhh.hn",
+        "score": 550,
+        "descendants": 186,
+        "by": "hhh",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "某安全摄像头厂商被发现其登录页面中意外泄露了GitHub管理令牌，安全隐患严重。"
+      },
+      {
+        "id": 49033004,
+        "title": "If coding has been solved, why does software keep getting worse?",
+        "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+        "domain": "ptrchm.com",
+        "score": 682,
+        "descendants": 516,
+        "by": "pchm",
+        "tags": [],
+        "summary": "探讨为何在编程工具日益先进的背景下，软件质量反而呈下降趋势的深层原因。"
+      },
+      {
+        "id": 49042751,
+        "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+        "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+        "domain": "news.st-andrews.ac.uk",
+        "score": 70,
+        "descendants": 10,
+        "by": "hhs",
+        "tags": [],
+        "summary": "科学观察显示抹香鲸通过喷吐气泡在垂直状态下实现静止休息的独特行为。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "bytecodealliance.org",
+          "count": 1
+        },
+        {
+          "domain": "dbos.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 400,
+      "max_score": {
+        "title": "Claude Opus 5",
+        "score": 1441
+      },
+      "most_discussed": {
+        "title": "Claude Opus 5",
+        "comments": 790
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Web",
+        "Database",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点主要围绕AI大模型的突破性进展（Claude Opus 5）及其能力评测展开。此外，社区关注点还涵盖了数据库技术实践、科技与社会议题（如网络安全隐患、软件质量下降）以及令人瞩目的科技行业新闻。"
   }
 }
