@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-07-25 09:26",
+    "stories": [
+      {
+        "id": 49038433,
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "domain": "anthropic.com",
+        "score": 1278,
+        "descendants": 698,
+        "by": "alvis",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic发布Claude Opus 5模型，引发社区对其性能与应用场景的热烈讨论。"
+      },
+      {
+        "id": 49040296,
+        "title": "Postgres LISTEN/NOTIFY actually scales",
+        "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+        "domain": "dbos.dev",
+        "score": 197,
+        "descendants": 36,
+        "by": "KraftyOne",
+        "tags": [
+          "Database"
+        ],
+        "summary": "文章通过技术分析证明Postgres的LISTEN/NOTIFY机制在实际应用中具备良好的扩展性。"
+      },
+      {
+        "id": 49040741,
+        "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+        "url": "https://artificialanalysis.ai/models",
+        "domain": "artificialanalysis.ai",
+        "score": 124,
+        "descendants": 71,
+        "by": "aarondong",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Claude Opus 5在Artificial Analysis的AI排行榜中登顶，数据表现备受关注。"
+      },
+      {
+        "id": 49020545,
+        "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+        "url": "https://globaloilnetwork.staffinganalytics.io/",
+        "domain": "globaloilnetwork.staffinganalytics.io",
+        "score": 85,
+        "descendants": 37,
+        "by": "eliotho",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "作者基于真实石油贸易数据，模拟并分析了霍尔木兹海峡被封锁后的全球经济影响。"
+      },
+      {
+        "id": 49034292,
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "url": "https://hhh.hn/hanwha-github-token/",
+        "domain": "hhh.hn",
+        "score": 504,
+        "descendants": 173,
+        "by": "hhh",
+        "tags": [
+          "AI",
+          "Security",
+          "Open Source"
+        ],
+        "summary": "某安防摄像头被曝在登录页直接硬编码GitHub管理员Token，引发严重安全隐患担忧。"
+      },
+      {
+        "id": 48973835,
+        "title": "India's first privately-developed rocket reaches orbit on debut launch",
+        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "domain": "arstechnica.com",
+        "score": 486,
+        "descendants": 143,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "印度首枚私营火箭完成首次轨道发射任务，标志着该国商业航天领域的重要里程碑。"
+      },
+      {
+        "id": 49042751,
+        "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+        "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+        "domain": "news.st-andrews.ac.uk",
+        "score": 22,
+        "descendants": 1,
+        "by": "hhs",
+        "tags": [],
+        "summary": "科学家观察记录了抹香鲸通过吐气泡来实现垂直静止睡眠的独特行为。"
+      },
+      {
+        "id": 48985182,
+        "title": "Designing an Ethernet Switch ASIC",
+        "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+        "domain": "essenceia.github.io",
+        "score": 100,
+        "descendants": 25,
+        "by": "random__duck",
+        "tags": [],
+        "summary": "一篇深度技术文章，探讨了以太网交换机专用集成电路（ASIC）的底层设计与挑战。"
+      },
+      {
+        "id": 49033004,
+        "title": "If coding has been solved, why does software keep getting worse?",
+        "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+        "domain": "ptrchm.com",
+        "score": 514,
+        "descendants": 408,
+        "by": "pchm",
+        "tags": [],
+        "summary": "深入探讨在编程技术日益成熟的背景下，为何软件系统的整体质量与稳定性却不升反降。"
+      },
+      {
+        "id": 49008512,
+        "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+        "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+        "domain": "news.mit.edu",
+        "score": 124,
+        "descendants": 30,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "麻省理工学院研究人员受旧专利启发，开发出一种具备三边闭合功能的创新型Y型拉链。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "dbos.dev",
+          "count": 1
+        },
+        {
+          "domain": "artificialanalysis.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 343,
+      "max_score": {
+        "title": "Claude Opus 5",
+        "score": 1278
+      },
+      "most_discussed": {
+        "title": "Claude Opus 5",
+        "comments": 698
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Hardware",
+        "Show HN",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于人工智能的最新突破，Anthropic发布的Claude Opus 5引发了社区对模型实力与排名的广泛热议。同时，技术圈对软件质量退化、底层硬件架构设计及安全漏洞的深度探讨同样活跃，反映了开发者对技术本质与安全实践的持续关注。"
+  }
+}
