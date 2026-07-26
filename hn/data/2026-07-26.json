@@ -306,5 +306,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 模型架构演进与前沿应用，包括 Claude 上下文工程及极小参数语音模型。同时，硬核工程实践与跨领域技术探索依然热门，涵盖了 ESP32 雷达硬件 DIY、航空设计创新以及医疗临床数据研究等多元化课题。"
+  },
+  "evening": {
+    "time": "2026-07-26 21:09",
+    "stories": [
+      {
+        "id": 49057248,
+        "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+        "url": "https://english.mapn.ro/",
+        "domain": "english.mapn.ro",
+        "score": 66,
+        "descendants": 25,
+        "by": "_tk_",
+        "tags": [],
+        "summary": "罗马尼亚领土三天内连续击落三架无人机，引发外界对边境安全与地缘紧张的担忧。"
+      },
+      {
+        "id": 49056112,
+        "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+        "url": "https://astral.sh/blog/ruff-v0.16.0",
+        "domain": "astral.sh",
+        "score": 156,
+        "descendants": 89,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "Python 代码检查工具 Ruff 发布 v0.16.0，大幅扩展默认规则集至 413 条以提升代码质量。"
+      },
+      {
+        "id": 49055169,
+        "title": "GrapheneOS protections against data extraction from locked devices",
+        "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+        "domain": "discuss.grapheneos.org",
+        "score": 168,
+        "descendants": 84,
+        "by": "Cider9986",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "GrapheneOS 官方详解其针对锁定设备的数据提取防护策略，强调隐私安全机制。"
+      },
+      {
+        "id": 49047453,
+        "title": "A shell colon does nothing. Use it anyway",
+        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+        "domain": "refp.se",
+        "score": 272,
+        "descendants": 110,
+        "by": "olexsmir",
+        "tags": [],
+        "summary": "探讨 Shell 命令中冒号（:）的特殊用途，解释这一看似空操作的符号在脚本中的实际价值。"
+      },
+      {
+        "id": 49056351,
+        "title": "Systemd Linger",
+        "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+        "domain": "etbe.coker.com.au",
+        "score": 25,
+        "descendants": 13,
+        "by": "edward",
+        "tags": [],
+        "summary": "深入解析 Systemd 的 Linger 功能及其在后台服务持久化运行中的应用场景。"
+      },
+      {
+        "id": 49054107,
+        "title": "An ESP32 based plane radar for my desk",
+        "url": "https://blog.ktz.me/esp32-plane-radar/",
+        "domain": "blog.ktz.me",
+        "score": 189,
+        "descendants": 38,
+        "by": "alexktz",
+        "tags": [],
+        "summary": "一名开发者利用 ESP32 芯片制作桌面级飞行雷达，实时监测周边航空器信息。"
+      },
+      {
+        "id": 49015286,
+        "title": "German Peasants' War",
+        "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+        "domain": "en.wikipedia.org",
+        "score": 34,
+        "descendants": 31,
+        "by": "constantius",
+        "tags": [],
+        "summary": "关于十六世纪德国农民战争的历史回顾，探讨该事件的起因及其深远社会影响。"
+      },
+      {
+        "id": 49051361,
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "domain": "claude.com",
+        "score": 372,
+        "descendants": 268,
+        "by": "mellosouls",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude 官方发布新指南，阐述针对新一代生成式模型的高效上下文工程策略。"
+      },
+      {
+        "id": 49057574,
+        "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+        "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+        "domain": "wsj.com",
+        "score": 11,
+        "descendants": 3,
+        "by": "1vuio0pswjnm7",
+        "tags": [
+          "Science"
+        ],
+        "summary": "据披露 Google 持有 SpaceX 价值约 941 亿美元股份，占其总股本的 6%。"
+      },
+      {
+        "id": 49053375,
+        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "domain": "huggingface.co",
+        "score": 163,
+        "descendants": 12,
+        "by": "nateb2022",
+        "tags": [],
+        "summary": "介绍 Inflect-Micro-v2 模型，仅需 9.36M 参数即可实现完整的语音交互功能。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "english.mapn.ro",
+          "count": 1
+        },
+        {
+          "domain": "astral.sh",
+          "count": 1
+        },
+        {
+          "domain": "discuss.grapheneos.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 146,
+      "max_score": {
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "score": 372
+      },
+      "most_discussed": {
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "comments": 268
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论重心集中在技术前沿与安全领域，涵盖了 Claude 等大模型上下文工程的最新进展、GrapheneOS 的隐私防护机制以及 Ruff 等开发者工具的迭代更新。此外，硬件爱好者分享了 ESP32 雷达等创意项目，地缘政治与宏观科技资本动态也引发了一定关注。"
   }
 }
