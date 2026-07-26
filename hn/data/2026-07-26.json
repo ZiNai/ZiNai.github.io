@@ -150,5 +150,161 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术边界与行业影响，不仅涉及DeepSeek融资风波与模型上下文工程，还讨论了Cloudflare的AI流量管理方案。此外，能源技术创新及软件工程中的复杂系统逻辑也是社区关注的重点。"
+  },
+  "noon": {
+    "time": "2026-07-26 14:27",
+    "stories": [
+      {
+        "id": 49054107,
+        "title": "An ESP32 based plane radar for my desk",
+        "url": "https://blog.ktz.me/esp32-plane-radar/",
+        "domain": "blog.ktz.me",
+        "score": 87,
+        "descendants": 14,
+        "by": "alexktz",
+        "tags": [],
+        "summary": "作者利用 ESP32 开发了一款放在桌面上显示实时航班数据的雷达设备。"
+      },
+      {
+        "id": 49047453,
+        "title": "A shell colon does nothing. Use it anyway",
+        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+        "domain": "refp.se",
+        "score": 50,
+        "descendants": 12,
+        "by": "olexsmir",
+        "tags": [],
+        "summary": "探讨 Bash 中冒号（:）作为空命令的特殊用法及其在脚本编写中的实际意义。"
+      },
+      {
+        "id": 49054224,
+        "title": "JetZero",
+        "url": "https://www.jetzero.aero",
+        "domain": "jetzero.aero",
+        "score": 147,
+        "descendants": 101,
+        "by": "lisper",
+        "tags": [],
+        "summary": "介绍采用翼身融合设计的 JetZero 飞机，旨在显著提升航空燃油效率与载客容量。"
+      },
+      {
+        "id": 49054010,
+        "title": "Show HN: I mapped every US golf course",
+        "url": "https://golfcoursebrowser.com/",
+        "domain": "golfcoursebrowser.com",
+        "score": 97,
+        "descendants": 42,
+        "by": "rickmf",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "分享一个全面标记美国所有高尔夫球场的地图及搜索工具项目。"
+      },
+      {
+        "id": 49051361,
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "domain": "claude.com",
+        "score": 262,
+        "descendants": 167,
+        "by": "mellosouls",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析 Claude 5 代模型在上下文工程方面的新规则与优化策略。"
+      },
+      {
+        "id": 49053375,
+        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "domain": "huggingface.co",
+        "score": 78,
+        "descendants": 5,
+        "by": "nateb2022",
+        "tags": [],
+        "summary": "发布仅 9.36M 参数的极小化语音生成模型 Inflect-Micro-v2。"
+      },
+      {
+        "id": 49024980,
+        "title": "Rethinking Legal Education in the AI Era",
+        "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+        "domain": "law.uchicago.edu",
+        "score": 52,
+        "descendants": 15,
+        "by": "jjwiseman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨在 AI 时代背景下，法学院教育应如何转型以应对法律实践的范式转移。"
+      },
+      {
+        "id": 49052628,
+        "title": "Clinical failure rates over the decades: yikes",
+        "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+        "domain": "science.org",
+        "score": 85,
+        "descendants": 48,
+        "by": "EA-3167",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析过去几十年临床药物研发失败率的变化趋势及其背后的严峻现状。"
+      },
+      {
+        "id": 49054697,
+        "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+        "url": "https://github.com/mulfyx/w4me-station",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "sqshi",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一款为经典 Java ME 手机设计的 WASM-4 运行时环境实现。"
+      },
+      {
+        "id": 49053382,
+        "title": "Systems and Delays",
+        "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "domain": "martin.janiczek.cz",
+        "score": 50,
+        "descendants": 12,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "通过系统视角探讨技术开发中的延迟问题及其对软件工程的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.ktz.me",
+          "count": 1
+        },
+        {
+          "domain": "refp.se",
+          "count": 1
+        },
+        {
+          "domain": "jetzero.aero",
+          "count": 1
+        }
+      ],
+      "avg_score": 92,
+      "max_score": {
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "score": 262
+      },
+      "most_discussed": {
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "comments": 167
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 模型架构演进与前沿应用，包括 Claude 上下文工程及极小参数语音模型。同时，硬核工程实践与跨领域技术探索依然热门，涵盖了 ESP32 雷达硬件 DIY、航空设计创新以及医疗临床数据研究等多元化课题。"
   }
 }
