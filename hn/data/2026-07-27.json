@@ -316,5 +316,166 @@
       ]
     },
     "summary": "今日Hacker News社区高度关注技术基础设施与深度工程实践，从PostgreSQL底层机制到TypeScript原生编译技术，展现出对高性能与底层优化的持续探索。同时，隐私安全事件及趣味性的硬件创新项目也引发了广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-07-27 22:21",
+    "stories": [
+      {
+        "id": 49065752,
+        "title": "Kimi-K3 Releases on HuggingFace 7/27",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "domain": "huggingface.co",
+        "score": 654,
+        "descendants": 291,
+        "by": "nateb2022",
+        "tags": [],
+        "summary": "Moonshot AI旗下的Kimi-K3模型在HuggingFace平台正式发布。"
+      },
+      {
+        "id": 49069132,
+        "title": "Should you wash your solar panels?",
+        "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+        "domain": "incoherency.co.uk",
+        "score": 49,
+        "descendants": 29,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨了为维护光伏效率而清洗太阳能电池板的必要性与成本效益。"
+      },
+      {
+        "id": 49067854,
+        "title": "How is the Bun Rewrite in Rust going?",
+        "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "domain": "lockwood.dev",
+        "score": 227,
+        "descendants": 152,
+        "by": "tomlockwood",
+        "tags": [
+          "Rust",
+          "JavaScript"
+        ],
+        "summary": "深入分析Bun将核心组件重写为Rust语言后的开发进展与性能影响。"
+      },
+      {
+        "id": 49068738,
+        "title": "AI companies are shredding rare books",
+        "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+        "domain": "xcancel.com",
+        "score": 306,
+        "descendants": 182,
+        "by": "anon373839",
+        "tags": [
+          "AI"
+        ],
+        "summary": "讨论AI公司大规模扫描利用罕见书籍用于模型训练所引发的伦理与版权争议。"
+      },
+      {
+        "id": 49067301,
+        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+        "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+        "domain": "misago-project.org",
+        "score": 69,
+        "descendants": 41,
+        "by": "Ralfp",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "分享了将项目前端从React迁移至Htmx以简化UI交互的经验总结。"
+      },
+      {
+        "id": 49067352,
+        "title": "Libsm64: Mario 64 as a library for use in external game engines",
+        "url": "https://github.com/libsm64/libsm64",
+        "domain": "github.com",
+        "score": 68,
+        "descendants": 10,
+        "by": "klaussilveira",
+        "tags": [],
+        "summary": "介绍了一个将《超级马力欧64》游戏机制模块化，以便在外部引擎中调用的开源库。"
+      },
+      {
+        "id": 49063754,
+        "title": "PGSimCity - How PostgreSQL Works",
+        "url": "https://nikolays.github.io/PGSimCity/",
+        "domain": "nikolays.github.io",
+        "score": 761,
+        "descendants": 71,
+        "by": "jonbaer",
+        "tags": [
+          "Database"
+        ],
+        "summary": "通过模拟城市的方式生动形象地解释PostgreSQL数据库的底层运作机制。"
+      },
+      {
+        "id": 49007852,
+        "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
+        "url": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
+        "domain": "blog.jaysmito.dev",
+        "score": 39,
+        "descendants": 11,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "从零开始实现一个现代化C++无锁队列的技术指南。"
+      },
+      {
+        "id": 49009706,
+        "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+        "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+        "domain": "mymodernmet.com",
+        "score": 154,
+        "descendants": 60,
+        "by": "speckx",
+        "tags": [],
+        "summary": "科普木兰科植物的演化历史，解释其为何依赖甲虫而非蜜蜂进行授粉。"
+      },
+      {
+        "id": 49066928,
+        "title": "VLC for Unity now supported on Linux",
+        "url": "https://code.videolan.org/videolan/vlc-unity",
+        "domain": "code.videolan.org",
+        "score": 67,
+        "descendants": 18,
+        "by": "martz",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "VLC媒体播放器插件现已正式支持在Linux环境下通过Unity引擎进行调用。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "huggingface.co",
+          "count": 1
+        },
+        {
+          "domain": "incoherency.co.uk",
+          "count": 1
+        },
+        {
+          "domain": "lockwood.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 239,
+      "max_score": {
+        "title": "PGSimCity - How PostgreSQL Works",
+        "score": 761
+      },
+      "most_discussed": {
+        "title": "Kimi-K3 Releases on HuggingFace 7/27",
+        "comments": 291
+      },
+      "hot_tags": [
+        "JavaScript",
+        "Systems",
+        "Rust",
+        "AI",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖人工智能模型的发布与争议、软件工程的技术实践，以及数据库架构等前沿议题。开发者群体持续关注从React向Htmx迁移、高性能编程技巧及开源组件集成等技术动向。"
   }
 }
