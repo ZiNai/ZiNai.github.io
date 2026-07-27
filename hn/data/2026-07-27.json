@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-07-27 09:47",
+    "stories": [
+      {
+        "id": 49063754,
+        "title": "PGSimCity - How PostgreSQL Works",
+        "url": "https://nikolays.github.io/PGSimCity/",
+        "domain": "nikolays.github.io",
+        "score": 70,
+        "descendants": 11,
+        "by": "jonbaer",
+        "tags": [
+          "Database"
+        ],
+        "summary": "通过可视化模拟展示PostgreSQL数据库的底层运行逻辑。"
+      },
+      {
+        "id": 49060856,
+        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+        "url": "https://beyondloom.com/decker/",
+        "domain": "beyondloom.com",
+        "score": 222,
+        "descendants": 54,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款受Hypercard和经典Mac OS启发的现代多媒体创作平台。"
+      },
+      {
+        "id": 49062291,
+        "title": "We have proof automation now",
+        "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+        "domain": "imperialviolet.org",
+        "score": 71,
+        "descendants": 9,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨现代计算中证明自动化技术的发展及其对领域的影响。"
+      },
+      {
+        "id": 49060495,
+        "title": "French firefighters face 'pyrocumulonimbus' for first time",
+        "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+        "domain": "france24.com",
+        "score": 180,
+        "descendants": 88,
+        "by": "saaaaaam",
+        "tags": [],
+        "summary": "法国消防部门首次面对极端气象产物‘火积雨云’的挑战。"
+      },
+      {
+        "id": 49021270,
+        "title": "Show HN: Physically accurate black hole you can put in your room",
+        "url": "https://blackhole.plav.in",
+        "domain": "blackhole.plav.in",
+        "score": 14,
+        "descendants": 1,
+        "by": "aplavin",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个可在室内展示的物理级精确黑洞模拟工具。"
+      },
+      {
+        "id": 49062700,
+        "title": "Teaching Kids Forth",
+        "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+        "domain": "gracefulliberty.com",
+        "score": 50,
+        "descendants": 12,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "探索如何向儿童传授基于栈的低级编程语言Forth。"
+      },
+      {
+        "id": 49063022,
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "domain": "techspot.com",
+        "score": 141,
+        "descendants": 76,
+        "by": "eecc",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "一名美国公民因机场搜查时GrapheneOS手机自动擦除数据而被控罪。"
+      },
+      {
+        "id": 49063789,
+        "title": "I Championed Prediction Markets. Look What They've Become",
+        "url": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
+        "domain": "newsletter.platypuseconomics.com",
+        "score": 16,
+        "descendants": 27,
+        "by": "NomNew",
+        "tags": [],
+        "summary": "预测市场倡导者反思该模式现状与其最初愿景的偏差。"
+      },
+      {
+        "id": 49061887,
+        "title": "Simulate cassette tape audio profiles using FFmpeg",
+        "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+        "domain": "github.com",
+        "score": 72,
+        "descendants": 39,
+        "by": "xterminal",
+        "tags": [],
+        "summary": "使用FFmpeg工具链模拟老式磁带音频的音质特征。"
+      },
+      {
+        "id": 49059367,
+        "title": "Design is compromise",
+        "url": "https://stephango.com/design-is-compromise",
+        "domain": "stephango.com",
+        "score": 193,
+        "descendants": 73,
+        "by": "ankitg12",
+        "tags": [],
+        "summary": "深度解析设计本质在于平衡取舍而非单一追求完美。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nikolays.github.io",
+          "count": 1
+        },
+        {
+          "domain": "beyondloom.com",
+          "count": 1
+        },
+        {
+          "domain": "imperialviolet.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 103,
+      "max_score": {
+        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+        "score": 222
+      },
+      "most_discussed": {
+        "title": "French firefighters face 'pyrocumulonimbus' for first time",
+        "comments": 88
+      },
+      "hot_tags": [
+        "Systems",
+        "Database",
+        "Show HN",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从数据库底层原理、复古计算平台到前沿安全隐私与AI自动化的广泛议题。整体趋势表现出技术社区对怀旧工具创新、复杂系统可视化及现代数字安全边界的深度关注。"
+  }
+}
