@@ -154,5 +154,167 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了从数据库底层原理、复古计算平台到前沿安全隐私与AI自动化的广泛议题。整体趋势表现出技术社区对怀旧工具创新、复杂系统可视化及现代数字安全边界的深度关注。"
+  },
+  "noon": {
+    "time": "2026-07-27 14:53",
+    "stories": [
+      {
+        "id": 49063754,
+        "title": "PGSimCity - How PostgreSQL Works",
+        "url": "https://nikolays.github.io/PGSimCity/",
+        "domain": "nikolays.github.io",
+        "score": 428,
+        "descendants": 44,
+        "by": "jonbaer",
+        "tags": [
+          "Database"
+        ],
+        "summary": "通过可视化交互方式深度拆解PostgreSQL内部工作原理的开源工具。"
+      },
+      {
+        "id": 49021270,
+        "title": "Show HN: Physically accurate black hole you can put in your room",
+        "url": "https://blackhole.plav.in",
+        "domain": "blackhole.plav.in",
+        "score": 227,
+        "descendants": 67,
+        "by": "aplavin",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个能够在房间中呈现物理准确黑洞视觉效果的趣味交互项目。"
+      },
+      {
+        "id": 49060856,
+        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+        "url": "https://beyondloom.com/decker/",
+        "domain": "beyondloom.com",
+        "score": 285,
+        "descendants": 72,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "基于Hypercard和经典macOS遗产打造的多媒体创作与交互平台。"
+      },
+      {
+        "id": 49063175,
+        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+        "url": "https://github.com/vercel-labs/scriptc",
+        "domain": "github.com",
+        "score": 118,
+        "descendants": 42,
+        "by": "maxloh",
+        "tags": [
+          "JavaScript",
+          "Systems"
+        ],
+        "summary": "Vercel推出的将TypeScript直接编译为原生二进制文件的编译器，旨在移除JavaScript引擎依赖。"
+      },
+      {
+        "id": 49060495,
+        "title": "French firefighters face 'pyrocumulonimbus' for first time",
+        "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+        "domain": "france24.com",
+        "score": 298,
+        "descendants": 184,
+        "by": "saaaaaam",
+        "tags": [],
+        "summary": "法国消防员首次面临由野火引发的极端火积雨云（pyrocumulonimbus）气象灾害。"
+      },
+      {
+        "id": 49063022,
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "domain": "techspot.com",
+        "score": 548,
+        "descendants": 381,
+        "by": "eecc",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "一名美国公民因GrapheneOS手机在机场检查时自动触发数据清除功能而面临指控。"
+      },
+      {
+        "id": 49062291,
+        "title": "We have proof automation now",
+        "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+        "domain": "imperialviolet.org",
+        "score": 141,
+        "descendants": 32,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨自动化技术在现代安全与加密领域带来的确凿证据与深层影响。"
+      },
+      {
+        "id": 49020219,
+        "title": "I wanted a clock that never needed setting. Things escalated",
+        "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+        "domain": "arstechnica.com",
+        "score": 81,
+        "descendants": 78,
+        "by": "lee_ars",
+        "tags": [],
+        "summary": "一位极客从制作自动校准时钟起步，最终在复杂工程化的道路上越走越远的自述。"
+      },
+      {
+        "id": 49057241,
+        "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+        "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+        "domain": "swag.htmx.org",
+        "score": 414,
+        "descendants": 140,
+        "by": "rcy",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "以游戏机载体为噱头的Htmx 4.0发布，引发对技术分发方式的社区热议。"
+      },
+      {
+        "id": 49060724,
+        "title": "Introduction to Data-Oriented Design [pdf]",
+        "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+        "domain": "gamedevs.org",
+        "score": 155,
+        "descendants": 40,
+        "by": "tosh",
+        "tags": [],
+        "summary": "一份面向游戏开发及高性能系统架构的数据导向设计（DOD）入门指南。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nikolays.github.io",
+          "count": 1
+        },
+        {
+          "domain": "blackhole.plav.in",
+          "count": 1
+        },
+        {
+          "domain": "beyondloom.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 270,
+      "max_score": {
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "score": 548
+      },
+      "most_discussed": {
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "comments": 381
+      },
+      "hot_tags": [
+        "Systems",
+        "JavaScript",
+        "Database",
+        "Show HN",
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News社区高度关注技术基础设施与深度工程实践，从PostgreSQL底层机制到TypeScript原生编译技术，展现出对高性能与底层优化的持续探索。同时，隐私安全事件及趣味性的硬件创新项目也引发了广泛讨论。"
   }
 }
