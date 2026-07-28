@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-07-28 09:21",
+    "stories": [
+      {
+        "id": 49076057,
+        "title": "Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "domain": "anthropic.com",
+        "score": 420,
+        "descendants": 577,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 公开发表关于开源模型权重的立场与政策框架。"
+      },
+      {
+        "id": 49076391,
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "domain": "github.com",
+        "score": 100,
+        "descendants": 24,
+        "by": "dhorthy",
+        "tags": [],
+        "summary": "对 Opus 5 在 SlopCodeBench 代码基准测试中的表现进行深度分析。"
+      },
+      {
+        "id": 49076840,
+        "title": "DConf 2026 in London",
+        "url": "https://dconf.org/2026/index.html",
+        "domain": "dconf.org",
+        "score": 40,
+        "descendants": 12,
+        "by": "teleforce",
+        "tags": [],
+        "summary": "DConf 2026 编程大会宣布将在伦敦举办的相关详情。"
+      },
+      {
+        "id": 49076900,
+        "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+        "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+        "domain": "spacedaily.com",
+        "score": 29,
+        "descendants": 9,
+        "by": "zdw",
+        "tags": [],
+        "summary": "报道宇航员在六个月太空任务后经历的奇特“观察者”现象。"
+      },
+      {
+        "id": 49045474,
+        "title": "Watching Go's new garbage collector move through the heap",
+        "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+        "domain": "theconsensus.dev",
+        "score": 167,
+        "descendants": 17,
+        "by": "matheusmoreira",
+        "tags": [],
+        "summary": "深入解析 Go 语言新版垃圾回收器在内存堆中的运行机制。"
+      },
+      {
+        "id": 49076791,
+        "title": "C/C++ projects packaged for Zig",
+        "url": "https://github.com/allyourcodebase",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 11,
+        "by": "jcbhmr",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过 Zig 构建工具链实现对 C/C++ 项目的简化打包方案。"
+      },
+      {
+        "id": 49074817,
+        "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+        "url": "https://www.rise-reforming.com",
+        "domain": "rise-reforming.com",
+        "score": 59,
+        "descendants": 22,
+        "by": "george_rose25",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "YC S26 新创公司 Rise Reforming 展示将废气转化为高价值化学品的工业技术。"
+      },
+      {
+        "id": 49077209,
+        "title": "The Burau representation of the braid group is faithful for n = 4",
+        "url": "https://arxiv.org/abs/2607.05283",
+        "domain": "arxiv.org",
+        "score": 11,
+        "descendants": 5,
+        "by": "wglb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "证明了布劳表示法在编组群 n=4 情况下的忠实性，为数学领域带来新进展。"
+      },
+      {
+        "id": 49073942,
+        "title": "Self-contained highly-portable Python distributions",
+        "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+        "domain": "gregoryszorc.com",
+        "score": 110,
+        "descendants": 22,
+        "by": "jcbhmr",
+        "tags": [
+          "AI",
+          "Python"
+        ],
+        "summary": "探讨如何构建高度便携且自包含的 Python 环境分发包。"
+      },
+      {
+        "id": 49020993,
+        "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+        "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+        "domain": "cen.acs.org",
+        "score": 150,
+        "descendants": 83,
+        "by": "gmays",
+        "tags": [],
+        "summary": "介绍一种能粘合不粘表面且可轻易用乙醇擦除的新型胶水技术。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "dconf.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 111,
+      "max_score": {
+        "title": "Our position on open-weights models",
+        "score": 420
+      },
+      "most_discussed": {
+        "title": "Our position on open-weights models",
+        "comments": 577
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Startup",
+        "Python"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能伦理与开源权重策略的探讨，以及高性能编程实践，包括 Go 语言垃圾回收机制与 Python 开发环境移植方案。同时，科技圈持续关注硬核工程进展，涵盖从太空生理学研究到材料科学的突破及前沿数学理论。"
+  }
+}
