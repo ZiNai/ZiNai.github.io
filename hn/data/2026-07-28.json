@@ -309,5 +309,173 @@
       ]
     },
     "summary": "本期 Hacker News 高度聚焦于开源大模型生态的蓬勃发展，特别是 Anthropic 对开源权重的表态引发了社区热议。此外，技术实操层面的模型微调、硬件显存升级及各类新兴编程语言工具也成为开发者关注的焦点。"
+  },
+  "evening": {
+    "time": "2026-07-28 21:54",
+    "stories": [
+      {
+        "id": 49080664,
+        "title": "7.1 Earthquake in Japan",
+        "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+        "domain": "data.jma.go.jp",
+        "score": 462,
+        "descendants": 85,
+        "by": "krembo",
+        "tags": [],
+        "summary": "日本发生7.1级地震，关注气象厅发布的实时灾害预警信息。"
+      },
+      {
+        "id": 49083239,
+        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "domain": "github.com",
+        "score": 31,
+        "descendants": 10,
+        "by": "permute",
+        "tags": [
+          "AI",
+          "Rust",
+          "Show HN"
+        ],
+        "summary": "作者提出一种经过形式化验证的3D CSG方案，主张用精简规范替代庞大的AI生成代码以确保可靠性。"
+      },
+      {
+        "id": 49083314,
+        "title": "New HIV vaccine shows unprecedented success in preclinical study",
+        "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+        "domain": "lji.org",
+        "score": 56,
+        "descendants": 12,
+        "by": "codebyaditya",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一项临床前研究显示新型HIV疫苗在预防效果上取得了前所未有的进展。"
+      },
+      {
+        "id": 49081555,
+        "title": "About the security content of macOS Tahoe 26.6",
+        "url": "https://support.apple.com/en-us/128067",
+        "domain": "support.apple.com",
+        "score": 135,
+        "descendants": 77,
+        "by": "andor",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "苹果发布macOS Tahoe 26.6安全更新，详细说明了系统修复的关键漏洞及安全改进。"
+      },
+      {
+        "id": 49083389,
+        "title": "Show HN: tale.fyi, we deserve a home for fiction",
+        "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+        "domain": "tale.fyi",
+        "score": 20,
+        "descendants": 3,
+        "by": "samuelcole",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "这是一个为虚构文学作品打造的在线创作与分享平台。"
+      },
+      {
+        "id": 49081644,
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "domain": "spawn-queue.acm.org",
+        "score": 58,
+        "descendants": 35,
+        "by": "jordigg",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "探讨谷歌在AI时代如何通过Beyond Zero框架重塑企业安全防御逻辑。"
+      },
+      {
+        "id": 49076057,
+        "title": "Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "domain": "anthropic.com",
+        "score": 1034,
+        "descendants": 1513,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic详细阐述了其对开源权重模型的立场及相关风险评估。"
+      },
+      {
+        "id": 49082022,
+        "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+        "url": "https://arxiv.org/abs/2510.26692",
+        "domain": "arxiv.org",
+        "score": 38,
+        "descendants": 4,
+        "by": "ronfriedhaber",
+        "tags": [],
+        "summary": "介绍Kimi Linear模型架构，通过创新的注意力机制实现更高计算效率与表达能力。"
+      },
+      {
+        "id": 49036068,
+        "title": "How to Survive Boiling Water",
+        "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+        "domain": "taxa.substack.com",
+        "score": 158,
+        "descendants": 23,
+        "by": "cainxinth",
+        "tags": [],
+        "summary": "探讨在极高温环境下人体的生物极限及生存科学知识。"
+      },
+      {
+        "id": 49082550,
+        "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+        "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+        "domain": "jfrog.com",
+        "score": 19,
+        "descendants": 6,
+        "by": "882542F3884314B",
+        "tags": [
+          "AI",
+          "Rust",
+          "Security"
+        ],
+        "summary": "通过分析JFrog与OpenAI的零日漏洞发现，探讨快速修复机制如何成为现代信任体系的核心。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "data.jma.go.jp",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "lji.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 201,
+      "max_score": {
+        "title": "Our position on open-weights models",
+        "score": 1034
+      },
+      "most_discussed": {
+        "title": "Our position on open-weights models",
+        "comments": 1513
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Rust",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News焦点涵盖了全球安全动态与AI技术演进。除了日本地震等突发灾难新闻，技术圈重点讨论了开源模型策略、AI架构创新及企业级安全补丁管理，反映出社区对技术安全性与模型开放性的深度关注。"
   }
 }
