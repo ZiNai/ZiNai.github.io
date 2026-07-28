@@ -156,5 +156,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能伦理与开源权重策略的探讨，以及高性能编程实践，包括 Go 语言垃圾回收机制与 Python 开发环境移植方案。同时，科技圈持续关注硬核工程进展，涵盖从太空生理学研究到材料科学的突破及前沿数学理论。"
+  },
+  "noon": {
+    "time": "2026-07-28 14:17",
+    "stories": [
+      {
+        "id": 49076057,
+        "title": "Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "domain": "anthropic.com",
+        "score": 715,
+        "descendants": 1014,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 公开发表其对开放权重模型及相关 AI 安全风险的立场。"
+      },
+      {
+        "id": 49078583,
+        "title": "Using an open model feels surprisingly good",
+        "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+        "domain": "matthewsaltz.com",
+        "score": 197,
+        "descendants": 64,
+        "by": "msaltz",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了在实际工作流中使用开源模型所带来的便捷与良好体验。"
+      },
+      {
+        "id": 49079490,
+        "title": "Neutrino-1 8B",
+        "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+        "domain": "fermionresearch.com",
+        "score": 26,
+        "descendants": 3,
+        "by": "handfuloflight",
+        "tags": [],
+        "summary": "介绍 Neutrino-1 8B 模型及其在科研领域的潜在应用。"
+      },
+      {
+        "id": 49078454,
+        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "url": "https://fermisense.com/when-machines-take-the-wheel/",
+        "domain": "fermisense.com",
+        "score": 108,
+        "descendants": 33,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过仅 500 美元的强化学习微调，小型开源模型在特定任务中超越了顶尖闭源模型。"
+      },
+      {
+        "id": 49079727,
+        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+        "url": "https://arsastronomica.com/",
+        "domain": "arsastronomica.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "sweisman",
+        "tags": [],
+        "summary": "提供关于稀有希伯来语和拉丁语天文学著作的英译资源库。"
+      },
+      {
+        "id": 49079175,
+        "title": "Why do we think we understand the world more than we actually do?",
+        "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+        "domain": "thedecisionlab.com",
+        "score": 30,
+        "descendants": 21,
+        "by": "rramadass",
+        "tags": [],
+        "summary": "探讨人类为何倾向于高估自身对世界复杂性的理解能力。"
+      },
+      {
+        "id": 49076391,
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "domain": "github.com",
+        "score": 221,
+        "descendants": 52,
+        "by": "dhorthy",
+        "tags": [],
+        "summary": "针对 Opus 5 模型在代码生成基准测试 SlopCodeBench 上的性能评估。"
+      },
+      {
+        "id": 49041256,
+        "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+        "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+        "domain": "gpusolutions.net",
+        "score": 77,
+        "descendants": 43,
+        "by": "wslh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "详细记录将 RTX 2080 Ti 显卡显存硬件扩容至 22GB 的技术过程。"
+      },
+      {
+        "id": 49079454,
+        "title": "PyTorch: A Reference Language",
+        "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+        "domain": "docs.pytorch.org",
+        "score": 11,
+        "descendants": 0,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "探讨 PyTorch 如何作为一种事实上的 AI 模型开发参考语言。"
+      },
+      {
+        "id": 49078463,
+        "title": "EYG: A Programming Language for Humans",
+        "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+        "domain": "crowdhailer.me",
+        "score": 51,
+        "descendants": 21,
+        "by": "crowdhailer",
+        "tags": [],
+        "summary": "介绍 EYG 编程语言，旨在通过简化语法提升人类开发者的编写效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "matthewsaltz.com",
+          "count": 1
+        },
+        {
+          "domain": "fermionresearch.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 145,
+      "max_score": {
+        "title": "Our position on open-weights models",
+        "score": 715
+      },
+      "most_discussed": {
+        "title": "Our position on open-weights models",
+        "comments": 1014
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 高度聚焦于开源大模型生态的蓬勃发展，特别是 Anthropic 对开源权重的表态引发了社区热议。此外，技术实操层面的模型微调、硬件显存升级及各类新兴编程语言工具也成为开发者关注的焦点。"
   }
 }
