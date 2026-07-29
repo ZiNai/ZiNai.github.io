@@ -1,0 +1,167 @@
+{
+  "morning": {
+    "time": "2026-07-29 09:22",
+    "stories": [
+      {
+        "id": 49089755,
+        "title": "Codex Security",
+        "url": "https://github.com/openai/codex-security",
+        "domain": "github.com",
+        "score": 332,
+        "descendants": 91,
+        "by": "bakigul",
+        "tags": [
+          "Security"
+        ],
+        "summary": "一份关于Codex Security的深度安全分析或工具讨论。"
+      },
+      {
+        "id": 49089814,
+        "title": "Half-Life ported to Mac OS 9",
+        "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+        "domain": "mac-classic.com",
+        "score": 134,
+        "descendants": 56,
+        "by": "freediver",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "经典游戏Half-Life被成功移植至Mac OS 9平台。"
+      },
+      {
+        "id": 49090607,
+        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "url": "https://github.com/twalichiewicz/HNewhere",
+        "domain": "github.com",
+        "score": 110,
+        "descendants": 35,
+        "by": "twalichiewicz",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者开发了一款旨在优化Hacker News链接打开体验的Userscript。"
+      },
+      {
+        "id": 49086788,
+        "title": "Substack writers, you need a website",
+        "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "domain": "elizabethtai.com",
+        "score": 407,
+        "descendants": 208,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨Substack博主为何必须建立独立个人网站的必要性。"
+      },
+      {
+        "id": 49091730,
+        "title": "Hubble: Open-source notetaking app for you and your agents",
+        "url": "https://www.hubble.md/",
+        "domain": "hubble.md",
+        "score": 22,
+        "descendants": 3,
+        "by": "handfuloflight",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一款旨在为用户及其AI代理服务的新型开源笔记软件。"
+      },
+      {
+        "id": 49091738,
+        "title": "The Difference Between a Button and a Link",
+        "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+        "domain": "unplannedobsolescence.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "alexpetros",
+        "tags": [],
+        "summary": "深入解析网页开发中按钮与链接在交互语义上的本质差异。"
+      },
+      {
+        "id": 49055816,
+        "title": "Teach yourself programming in ten years (1998)",
+        "url": "https://www.norvig.com/21-days.html",
+        "domain": "norvig.com",
+        "score": 27,
+        "descendants": 1,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "Peter Norvig的经典文章，重温编程学习是一场长期的马拉松。"
+      },
+      {
+        "id": 49086971,
+        "title": "Steel Bank Common Lisp version 2.6.7",
+        "url": "https://sbcl.org/all-news.html?2.6.7",
+        "domain": "sbcl.org",
+        "score": 196,
+        "descendants": 82,
+        "by": "tmtvl",
+        "tags": [],
+        "summary": "高性能Common Lisp编译器SBCL发布2.6.7版本。"
+      },
+      {
+        "id": 49091379,
+        "title": "ReFrame – The EPaper Camera",
+        "url": "https://reframe.camera/",
+        "domain": "reframe.camera",
+        "score": 15,
+        "descendants": 6,
+        "by": "phil294",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍ReFrame：一款基于电子纸显示技术的创新相机产品。"
+      },
+      {
+        "id": 49092151,
+        "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+        "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+        "domain": "andreadimatteo.com",
+        "score": 5,
+        "descendants": 0,
+        "by": "deotman",
+        "tags": [
+          "Rust",
+          "Web",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "作者通过编写Markdown转HTML编译器来实战学习Rust语言的经验分享。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "mac-classic.com",
+          "count": 1
+        },
+        {
+          "domain": "elizabethtai.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 127,
+      "max_score": {
+        "title": "Substack writers, you need a website",
+        "score": 407
+      },
+      "most_discussed": {
+        "title": "Substack writers, you need a website",
+        "comments": 208
+      },
+      "hot_tags": [
+        "Systems",
+        "Show HN",
+        "Web",
+        "Security",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从复古计算、系统编程工具到个人内容创作趋势的广泛讨论。社区重点关注Web交互设计原则、编程学习路径及新兴的AI代理工具，体现了开发者在实用主义与技术追溯间的平衡。"
+  }
+}
