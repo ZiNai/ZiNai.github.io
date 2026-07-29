@@ -325,5 +325,165 @@
       ]
     },
     "summary": "本期Hacker News关注点聚焦于技术黑客文化与前沿AI开发。从Kindle破解技巧与经典游戏移植，到针对软件架构、用户界面设计及AI教学系统的深入探讨，体现了社区对软硬件边界拓展及工具改进的持续热情。"
+  },
+  "evening": {
+    "time": "2026-07-29 21:59",
+    "stories": [
+      {
+        "id": 49095865,
+        "title": "KOReader",
+        "url": "https://koreader.rocks/",
+        "domain": "koreader.rocks",
+        "score": 249,
+        "descendants": 91,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "一款高度可定制的开源电子书阅读器，支持多种格式及高级排版功能。"
+      },
+      {
+        "id": 49096969,
+        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "url": "https://arxiv.org/abs/2607.25398",
+        "domain": "arxiv.org",
+        "score": 42,
+        "descendants": 18,
+        "by": "spIrr",
+        "tags": [],
+        "summary": "研究表明，长文本政策指令在约束AI智能体行为时往往不可靠。"
+      },
+      {
+        "id": 49096188,
+        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+        "domain": "enklypesalt.com",
+        "score": 132,
+        "descendants": 106,
+        "by": "Canopy9560",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨了一种通过Word文档自动传播的AI蠕虫攻击方式及其潜在安全隐患。"
+      },
+      {
+        "id": 49096917,
+        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+        "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+        "domain": "github.com",
+        "score": 28,
+        "descendants": 8,
+        "by": "skorniienko",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一个能够自动核查视频与文章内容真实性的AI智能体工具。"
+      },
+      {
+        "id": 49093569,
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "domain": "tailscale.com",
+        "score": 287,
+        "descendants": 93,
+        "by": "Error6571",
+        "tags": [
+          "AI"
+        ],
+        "summary": "利用Tailscale工具实现越狱Kindle设备的远程访问与高级网络功能配置。"
+      },
+      {
+        "id": 49096427,
+        "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+        "domain": "github.blog",
+        "score": 22,
+        "descendants": 6,
+        "by": "nyku",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "GitHub官方分享如何防御针对NPM包和GitHub Actions的供应链投毒攻击。"
+      },
+      {
+        "id": 49095511,
+        "title": "Amiga Graphics Archive",
+        "url": "https://amiga.lychesis.net/index.html",
+        "domain": "amiga.lychesis.net",
+        "score": 70,
+        "descendants": 11,
+        "by": "Bluestein",
+        "tags": [],
+        "summary": "一个旨在保护与展示Amiga经典电脑平台图形艺术作品的数字档案馆。"
+      },
+      {
+        "id": 49095628,
+        "title": "SpecForge – A Platform for Authoring Formal Specifications",
+        "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+        "domain": "docs.imiron.io",
+        "score": 42,
+        "descendants": 1,
+        "by": "agnishom",
+        "tags": [],
+        "summary": "一个用于编写和管理形式化规格说明的平台，提升开发规范性。"
+      },
+      {
+        "id": 49096742,
+        "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+        "url": "https://jcgt.org/published/0015/02/01/",
+        "domain": "jcgt.org",
+        "score": 14,
+        "descendants": 1,
+        "by": "ibobev",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一种利用纹理查找技术在GPU上高效计算Bézier曲线的渲染方法。"
+      },
+      {
+        "id": 49093434,
+        "title": "User Interfaces of the Demo Scene",
+        "url": "https://www.datagubbe.se/scenegui/",
+        "domain": "datagubbe.se",
+        "score": 290,
+        "descendants": 50,
+        "by": "zdw",
+        "tags": [],
+        "summary": "深度解析DEMO场景（Demo Scene）文化中那些极具创意与视觉冲击的UI设计。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "koreader.rocks",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "enklypesalt.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 118,
+      "max_score": {
+        "title": "User Interfaces of the Demo Scene",
+        "score": 290
+      },
+      "most_discussed": {
+        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+        "comments": 106
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热点主要集中在AI安全性与Agent研究，包括针对文档传播的AI蠕虫威胁及Agent决策合规性分析。同时，技术社区对老旧硬件（Kindle）的极客改造、图形渲染技术以及软件供应链安全展现出持续的关注。"
   }
 }
