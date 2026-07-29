@@ -163,5 +163,167 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了从复古计算、系统编程工具到个人内容创作趋势的广泛讨论。社区重点关注Web交互设计原则、编程学习路径及新兴的AI代理工具，体现了开发者在实用主义与技术追溯间的平衡。"
+  },
+  "noon": {
+    "time": "2026-07-29 14:22",
+    "stories": [
+      {
+        "id": 49093569,
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "domain": "tailscale.com",
+        "score": 61,
+        "descendants": 7,
+        "by": "Error6571",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享了在已破解的Kindle设备上配置Tailscale以实现内网穿透的实用技巧。"
+      },
+      {
+        "id": 49093434,
+        "title": "User Interfaces of the Demo Scene",
+        "url": "https://www.datagubbe.se/scenegui/",
+        "domain": "datagubbe.se",
+        "score": 59,
+        "descendants": 6,
+        "by": "zdw",
+        "tags": [],
+        "summary": "回顾并分析了Demo Scene文化中独特的软件用户界面设计美学。"
+      },
+      {
+        "id": 49089755,
+        "title": "Codex Security",
+        "url": "https://github.com/openai/codex-security",
+        "domain": "github.com",
+        "score": 452,
+        "descendants": 140,
+        "by": "bakigul",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深入讨论了Codex Security在软件供应链及代码安全领域的架构方案。"
+      },
+      {
+        "id": 49092499,
+        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+        "url": "https://learnvector.ai/",
+        "domain": "learnvector.ai",
+        "score": 137,
+        "descendants": 69,
+        "by": "ajhai",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍吴恩达创办的LearnVector，旨在利用AI技术提供高度定制化的一对一教学体验。"
+      },
+      {
+        "id": 49093435,
+        "title": "Cracking Windows Open: Porting RADV to Win32",
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+        "domain": "collabora.com",
+        "score": 22,
+        "descendants": 1,
+        "by": "zdw",
+        "tags": [],
+        "summary": "记录了将开源Vulkan驱动RADV移植至Windows平台的开发过程与技术挑战。"
+      },
+      {
+        "id": 49093232,
+        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+        "url": "https://transformer-transformer.github.io/",
+        "domain": "transformer-transformer.github.io",
+        "score": 31,
+        "descendants": 0,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示了一种将机器人协同设计与动作预测相结合的统一Transformer模型研究。"
+      },
+      {
+        "id": 49090607,
+        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "url": "https://github.com/twalichiewicz/HNewhere",
+        "domain": "github.com",
+        "score": 227,
+        "descendants": 64,
+        "by": "twalichiewicz",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "作者开发了一款简单的用户脚本，解决了浏览HN时频繁开启新标签页的痛点。"
+      },
+      {
+        "id": 49086788,
+        "title": "Substack writers, you need a website",
+        "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "domain": "elizabethtai.com",
+        "score": 486,
+        "descendants": 231,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨了依赖单一写作平台存在的局限性，呼吁Substack博主应建立自主可控的独立网站。"
+      },
+      {
+        "id": 49089814,
+        "title": "Half-Life ported to Mac OS 9",
+        "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+        "domain": "mac-classic.com",
+        "score": 206,
+        "descendants": 98,
+        "by": "freediver",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "展示了将经典游戏《半条命》成功移植至古老的Mac OS 9操作系统上的惊人工程成就。"
+      },
+      {
+        "id": 49092112,
+        "title": "Multiple Mouse Cursors in Wayland",
+        "url": "https://blinry.org/multi-seat-wayland/",
+        "domain": "blinry.org",
+        "score": 83,
+        "descendants": 50,
+        "by": "marvinborner",
+        "tags": [],
+        "summary": "分析了Wayland显示协议下实现多鼠标光标支持的原理与技术细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "tailscale.com",
+          "count": 1
+        },
+        {
+          "domain": "datagubbe.se",
+          "count": 1
+        }
+      ],
+      "avg_score": 176,
+      "max_score": {
+        "title": "Substack writers, you need a website",
+        "score": 486
+      },
+      "most_discussed": {
+        "title": "Substack writers, you need a website",
+        "comments": 231
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Show HN",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News关注点聚焦于技术黑客文化与前沿AI开发。从Kindle破解技巧与经典游戏移植，到针对软件架构、用户界面设计及AI教学系统的深入探讨，体现了社区对软硬件边界拓展及工具改进的持续热情。"
   }
 }
