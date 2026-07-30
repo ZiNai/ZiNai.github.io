@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-07-30 09:15",
+    "stories": [
+      {
+        "id": 49103285,
+        "title": "AI's top startups are barely publishing their research",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "domain": "science.org",
+        "score": 180,
+        "descendants": 99,
+        "by": "YeGoblynQueenne",
+        "tags": [
+          "AI",
+          "Startup",
+          "Science"
+        ],
+        "summary": "分析显示顶级AI初创公司正逐渐减少研究成果发布，引发对科研透明度的担忧。"
+      },
+      {
+        "id": 49102774,
+        "title": "The coolest use for the Vision Pro",
+        "url": "https://christianselig.com/2026/07/vision-pro-house/",
+        "domain": "christianselig.com",
+        "score": 372,
+        "descendants": 169,
+        "by": "robbiet480",
+        "tags": [],
+        "summary": "探讨Apple Vision Pro在实际应用中的独特且令人惊叹的使用场景。"
+      },
+      {
+        "id": 49098510,
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "domain": "github.com",
+        "score": 643,
+        "descendants": 223,
+        "by": "gitpusher42",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "介绍一个开源引擎，可让M系列Mac在仅2GB内存下运行Gemma 4 26B模型。"
+      },
+      {
+        "id": 49098965,
+        "title": "Superlogical",
+        "url": "https://www.superlogical.com/",
+        "domain": "superlogical.com",
+        "score": 515,
+        "descendants": 317,
+        "by": "yan",
+        "tags": [],
+        "summary": "关于Superlogical平台的探讨，涉及逻辑与系统构建的相关议题。"
+      },
+      {
+        "id": 49103089,
+        "title": "The Cold Email",
+        "url": "https://zachholman.com/posts/cold-email",
+        "domain": "zachholman.com",
+        "score": 81,
+        "descendants": 34,
+        "by": "holman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析冷邮件的策略与艺术，探讨如何通过邮件实现有效的业务沟通。"
+      },
+      {
+        "id": 49104117,
+        "title": "LLM Honeypot",
+        "url": "https://llm2human.pages.dev/",
+        "domain": "llm2human.pages.dev",
+        "score": 35,
+        "descendants": 15,
+        "by": "8thom",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示一个用于检测和分析LLM交互行为的蜜罐系统项目。"
+      },
+      {
+        "id": 49099715,
+        "title": "Keychron announces first open-source firmware for gaming mice",
+        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "domain": "digitalfoundry.net",
+        "score": 283,
+        "descendants": 106,
+        "by": "JLO64",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Keychron宣布推出游戏鼠标的首款开源固件，提升了硬件的可定制性。"
+      },
+      {
+        "id": 49089500,
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "domain": "huggingface.co",
+        "score": 284,
+        "descendants": 170,
+        "by": "artninja1988",
+        "tags": [],
+        "summary": "详细复盘2026年7月发生的尖端实验室AI智能体入侵事件的时间线。"
+      },
+      {
+        "id": 49104335,
+        "title": "The Productivity Mirage",
+        "url": "https://frantic.im/mirage/",
+        "domain": "frantic.im",
+        "score": 33,
+        "descendants": 5,
+        "by": "msephton",
+        "tags": [],
+        "summary": "对当今职场生产力指标及效率崇拜现象进行的批判性分析。"
+      },
+      {
+        "id": 49101852,
+        "title": "Kimi K3-256k",
+        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "domain": "kimi.com",
+        "score": 334,
+        "descendants": 96,
+        "by": "monneyboi",
+        "tags": [],
+        "summary": "介绍Kimi K3-256k模型，展示其在大上下文处理能力上的最新进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "science.org",
+          "count": 1
+        },
+        {
+          "domain": "christianselig.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 276,
+      "max_score": {
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "score": 643
+      },
+      "most_discussed": {
+        "title": "Superlogical",
+        "comments": 317
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Startup",
+        "Science",
+        "Show HN"
+      ]
+    },
+    "summary": "今日 Hacker News 重点关注人工智能领域的最新进展，涵盖了从大模型技术突破到安全隐患的深度探讨。此外，硬件创新与个人生产力话题也引起了社区的广泛讨论，反映出开发者对性能优化及技术应用边界的持续关注。"
+  }
+}
