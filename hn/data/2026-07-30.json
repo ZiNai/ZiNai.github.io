@@ -320,5 +320,142 @@
       ]
     },
     "summary": "今日Hacker News热门话题集中于AI前沿技术的演进与争议，涵盖了模型部署优化、学术透明度及安全漏洞研究。同时，硬件开源创新与对现代职场效率文化的深度反思也引起了开发者社区的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-07-30 21:48",
+    "stories": [
+      {
+        "id": 49109440,
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "url": "https://remysharp.com/links/2026-07-23-35890312",
+        "domain": "remysharp.com",
+        "score": 91,
+        "descendants": 37,
+        "by": "speckx",
+        "tags": [],
+        "summary": "欧盟法院裁定VPN属于合法的技术工具，这一判决为版权相关诉讼设定了重要法律先例。"
+      },
+      {
+        "id": 49109165,
+        "title": "OpenJDK Interim Policy on Generative AI",
+        "url": "https://openjdk.org/legal/ai",
+        "domain": "openjdk.org",
+        "score": 38,
+        "descendants": 36,
+        "by": "blenderob",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenJDK发布关于生成式AI在Java开发中应用的临时政策，旨在规范AI工具的使用边界。"
+      },
+      {
+        "id": 49109474,
+        "title": "RFC 8890 – The Internet is for End Users (2020)",
+        "url": "https://mnot.net/blog/2020/for_the_users",
+        "domain": "mnot.net",
+        "score": 17,
+        "descendants": 3,
+        "by": "notarobot123",
+        "tags": [],
+        "summary": "重温RFC 8890标准，该文档强调互联网设计的核心目标应当是服务于终端用户而非中间商。"
+      },
+      {
+        "id": 49108048,
+        "title": "Gpiozero Flow",
+        "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+        "domain": "bennuttall.com",
+        "score": 86,
+        "descendants": 25,
+        "by": "benn_88",
+        "tags": [],
+        "summary": "介绍Gpiozero Flow，这是一个旨在简化树莓派GPIO接口编程与逻辑设计的工具库。"
+      },
+      {
+        "id": 49108971,
+        "title": "How Old Is Ann?",
+        "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+        "domain": "quuxplusone.github.io",
+        "score": 18,
+        "descendants": 7,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "通过一道经典逻辑题深入探讨编程语言中对象生命周期与内存安全性的微妙问题。"
+      },
+      {
+        "id": 49107246,
+        "title": "Ron Gilbert started production on Thimbleweed Park 2",
+        "url": "https://www.grumpygamer.com/twp2_announce/",
+        "domain": "grumpygamer.com",
+        "score": 100,
+        "descendants": 35,
+        "by": "alberto-m",
+        "tags": [],
+        "summary": "著名游戏开发者Ron Gilbert确认正式开启《Thimbleweed Park 2》的制作项目。"
+      },
+      {
+        "id": 49109193,
+        "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+        "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+        "domain": "construction-physics.com",
+        "score": 13,
+        "descendants": 5,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "深度剖析固态电池技术背后的工程挑战，以及为何工业界目前将其视为能源领域的研发重点。"
+      },
+      {
+        "id": 49107749,
+        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "url": "https://github.com/YoanWai/agent-manager",
+        "domain": "github.com",
+        "score": 54,
+        "descendants": 38,
+        "by": "yoanwaidev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "推荐一款基于Tmux的终端界面工具，用于便捷管理Claude Code及其他AI代码生成模型。"
+      },
+      {
+        "id": 49109026,
+        "title": "Why Don't People Use Formal Methods?",
+        "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+        "domain": "hillelwayne.com",
+        "score": 20,
+        "descendants": 11,
+        "by": "Thom2503",
+        "tags": [],
+        "summary": "探讨形式化验证方法在软件工程中的应用现状，并分析制约其大规模普及的关键因素。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "remysharp.com",
+          "count": 1
+        },
+        {
+          "domain": "openjdk.org",
+          "count": 1
+        },
+        {
+          "domain": "mnot.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 49,
+      "max_score": {
+        "title": "Ron Gilbert started production on Thimbleweed Park 2",
+        "score": 100
+      },
+      "most_discussed": {
+        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "comments": 38
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News重点关注法律法规与技术生态的演进，包括欧盟法院对VPN合法性的里程碑式裁决，以及OpenJDK对生成式AI介入开发的政策探讨。此外，硬件项目与开发工具链的持续创新依然是社区讨论的热点，涵盖从固态电池技术到终端用户导向的互联网标准思考。"
   }
 }
