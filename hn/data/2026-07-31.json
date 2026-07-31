@@ -157,5 +157,162 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术应用与开发工具的革新，包括机器人模型进展、GitHub功能更新及代码编辑器优化。此外，技术圈对学术造假和流媒体硬件安全等行业隐忧保持高度关注。"
+  },
+  "noon": {
+    "time": "2026-07-31 14:35",
+    "stories": [
+      {
+        "id": 49118781,
+        "title": "The session you cannot take with you",
+        "url": "https://earendil.com/posts/session-portability/",
+        "domain": "earendil.com",
+        "score": 84,
+        "descendants": 8,
+        "by": "apitman",
+        "tags": [],
+        "summary": "探讨关于个人成长与职场履历在职业生涯更迭中无法被带走的非物质资产问题。"
+      },
+      {
+        "id": 49112232,
+        "title": "Stacked PRs are now live on GitHub",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "domain": "github.blog",
+        "score": 582,
+        "descendants": 195,
+        "by": "tomzorz",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub 正式上线 Stacked PRs 功能，支持更高效的增量代码审查与合并工作流。"
+      },
+      {
+        "id": 49119063,
+        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+        "url": "https://github.com/openjdk/jdk/pull/31120",
+        "domain": "github.com",
+        "score": 19,
+        "descendants": 3,
+        "by": "mfiguiere",
+        "tags": [],
+        "summary": "OpenJDK 合并了 JEP 401 提案，引入 Value Objects 以提升 Java 程序的内存使用效率。"
+      },
+      {
+        "id": 49114639,
+        "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+        "url": "https://github.com/AminBlg/SimpleEnglish",
+        "domain": "github.com",
+        "score": 283,
+        "descendants": 100,
+        "by": "navs",
+        "tags": [],
+        "summary": "介绍一种强制文档符合 ASD-STE100 简化技术英语标准的 AI Agent 技能。"
+      },
+      {
+        "id": 49077372,
+        "title": "Where USB Memory Sticks are Born (2013)",
+        "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+        "domain": "bunniestudios.com",
+        "score": 27,
+        "descendants": 2,
+        "by": "jacquesm",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "回顾 2013 年对 USB 闪存驱动器制造工厂的探访，揭示了其生产工艺细节。"
+      },
+      {
+        "id": 49111237,
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "domain": "deepmind.google",
+        "score": 528,
+        "descendants": 423,
+        "by": "ai2027",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "DeepMind 发布 Gemini Robotics 2，展示了如何通过全身体感智能提升机器人的运动与交互能力。"
+      },
+      {
+        "id": 49116721,
+        "title": "I flagged two research papers for fake authors and both were accepted as orals",
+        "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+        "domain": "geospatialml.com",
+        "score": 152,
+        "descendants": 62,
+        "by": "volumes94",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者揭露了学术会议中存在的严重漏洞，其伪造的论文竟能通过盲审并获选口头报告。"
+      },
+      {
+        "id": 49119322,
+        "title": "Human Honeypot",
+        "url": "https://human2llm.pages.dev/",
+        "domain": "human2llm.pages.dev",
+        "score": 10,
+        "descendants": 1,
+        "by": "kevin_kraft",
+        "tags": [],
+        "summary": "一个针对大模型时代的实验性项目，旨在通过“人类蜜罐”机制监测 AI 交互。"
+      },
+      {
+        "id": 49112744,
+        "title": "Read this before you buy that TV streaming stick",
+        "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+        "domain": "krebsonsecurity.com",
+        "score": 671,
+        "descendants": 384,
+        "by": "speckx",
+        "tags": [],
+        "summary": "安全专家提醒在购买电视流媒体设备前应关注隐私风险与潜在的数据滥用问题。"
+      },
+      {
+        "id": 49118663,
+        "title": "A California aquifer may have crossed the point of no return",
+        "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+        "domain": "science.org",
+        "score": 123,
+        "descendants": 95,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "科学研究表明，加州某大型含水层因过度抽取已出现不可逆的枯竭迹象。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "earendil.com",
+          "count": 1
+        },
+        {
+          "domain": "github.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 248,
+      "max_score": {
+        "title": "Read this before you buy that TV streaming stick",
+        "score": 671
+      },
+      "most_discussed": {
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "comments": 423
+      },
+      "hot_tags": [
+        "Open Source",
+        "Systems",
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在工程与AI技术的最新进展，涵盖 GitHub 的研发流程优化及机器人智能提升。此外，学术诚信漏洞和消费电子隐私安全也引发了社区的广泛讨论，反映出开发者对技术工具深度应用与安全边界的持续关注。"
   }
 }
