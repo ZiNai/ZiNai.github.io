@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-07-31 09:29",
+    "stories": [
+      {
+        "id": 49117099,
+        "title": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "domain": "blog.jim-nielsen.com",
+        "score": 87,
+        "descendants": 48,
+        "by": "montroser",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI生成内容逐渐趋同的视觉审美及其背后的技术原因。"
+      },
+      {
+        "id": 49112744,
+        "title": "Read this before you buy that TV streaming stick",
+        "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+        "domain": "krebsonsecurity.com",
+        "score": 554,
+        "descendants": 328,
+        "by": "speckx",
+        "tags": [],
+        "summary": "克雷布斯警告称流媒体设备存在严重隐私泄露与安全隐患，建议购买前深思。"
+      },
+      {
+        "id": 49116721,
+        "title": "I flagged two research papers for fake authors and both were accepted as orals",
+        "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+        "domain": "geospatialml.com",
+        "score": 75,
+        "descendants": 27,
+        "by": "volumes94",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者通过投递包含虚构作者的研究论文，揭露了学术会议评审机制的严重漏洞。"
+      },
+      {
+        "id": 49114639,
+        "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+        "url": "https://github.com/AminBlg/SimpleEnglish",
+        "domain": "github.com",
+        "score": 193,
+        "descendants": 70,
+        "by": "navs",
+        "tags": [],
+        "summary": "介绍一种强制文档符合ASD-STE100简易技术英语规范的AI代理技能。"
+      },
+      {
+        "id": 49112232,
+        "title": "Stacked PRs are now live on GitHub",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "domain": "github.blog",
+        "score": 460,
+        "descendants": 161,
+        "by": "tomzorz",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub正式推出Stacked PRs功能，旨在优化开发者的协作流与代码管理效率。"
+      },
+      {
+        "id": 49111237,
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "domain": "deepmind.google",
+        "score": 474,
+        "descendants": 394,
+        "by": "ai2027",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "Google DeepMind发布Gemini Robotics 2，赋予机器人更高级的全身智能化交互能力。"
+      },
+      {
+        "id": 49068760,
+        "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+        "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+        "domain": "gizmodo.com",
+        "score": 51,
+        "descendants": 20,
+        "by": "ghuroo1",
+        "tags": [],
+        "summary": "讨论不良管理决策如何通过引入极具争议的功能导致在线社区走向消亡。"
+      },
+      {
+        "id": 49073017,
+        "title": "The American Grilled Cheese Sandwich Essay (2024)",
+        "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+        "domain": "buttondown.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "一篇关于美式烤奶酪三明治烹饪哲学与文化意义的趣味随笔。"
+      },
+      {
+        "id": 49116272,
+        "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+        "url": "https://rune.build/blog/rune-1-1-release",
+        "domain": "rune.build",
+        "score": 43,
+        "descendants": 13,
+        "by": "ernestrc",
+        "tags": [
+          "Python"
+        ],
+        "summary": "Rune 1.1编辑器版本更新：新增Python支持与Emacs模式，并宣布永久免费。"
+      },
+      {
+        "id": 49113338,
+        "title": "CodePen 2.0",
+        "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+        "domain": "chriscoyier.net",
+        "score": 126,
+        "descendants": 36,
+        "by": "robin_reala",
+        "tags": [],
+        "summary": "介绍CodePen 2.0的重大升级，重点展示了平台在前端开发环境上的改进。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.jim-nielsen.com",
+          "count": 1
+        },
+        {
+          "domain": "krebsonsecurity.com",
+          "count": 1
+        },
+        {
+          "domain": "geospatialml.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 207,
+      "max_score": {
+        "title": "Read this before you buy that TV streaming stick",
+        "score": 554
+      },
+      "most_discussed": {
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "comments": 394
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Open Source",
+        "Hardware",
+        "Python"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术应用与开发工具的革新，包括机器人模型进展、GitHub功能更新及代码编辑器优化。此外，技术圈对学术造假和流媒体硬件安全等行业隐忧保持高度关注。"
+  }
+}
