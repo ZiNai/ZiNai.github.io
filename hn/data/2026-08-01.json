@@ -149,5 +149,157 @@
       ]
     },
     "summary": "今日Hacker News聚焦于基础设施安全与硬件性能的深度剖析，多篇技术文章讨论了从网络访问控制到DRAM物理漏洞等底层系统议题。同时，AI模型权重与开发工具的迭代更新，以及行业垄断对大众生活的社会影响，共同构成了当前的讨论热点。"
+  },
+  "noon": {
+    "time": "2026-08-01 14:19",
+    "stories": [
+      {
+        "id": 49124218,
+        "title": "Elevators",
+        "url": "https://john.fun/elevators",
+        "domain": "john.fun",
+        "score": 1129,
+        "descendants": 266,
+        "by": "Jrh0203",
+        "tags": [],
+        "summary": "深入拆解电梯的机械构造与安全运行机制，揭示日常垂直交通背后的工程复杂性。"
+      },
+      {
+        "id": 49130604,
+        "title": "Flint: A Visualization Language for the AI Era",
+        "url": "https://microsoft.github.io/flint-chart/",
+        "domain": "microsoft.github.io",
+        "score": 58,
+        "descendants": 17,
+        "by": "vinhnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软开源的Flint是一种面向AI时代的全新可视化语言，旨在简化复杂数据的表达。"
+      },
+      {
+        "id": 49129990,
+        "title": "How to Exist",
+        "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+        "domain": "raptitude.com",
+        "score": 120,
+        "descendants": 59,
+        "by": "walterbell",
+        "tags": [],
+        "summary": "关于如何在现代社会中更好地自处与生活的哲学思考。"
+      },
+      {
+        "id": 49126604,
+        "title": "qm – Multiplayer agent harness for work",
+        "url": "https://github.com/yc-software/qm",
+        "domain": "github.com",
+        "score": 526,
+        "descendants": 110,
+        "by": "tosh",
+        "tags": [],
+        "summary": "一个用于多智能体协作与任务处理的开发框架，提升代理执行效率。"
+      },
+      {
+        "id": 49130726,
+        "title": "The development pipeline is a production system",
+        "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+        "domain": "sundry.jerryorr.com",
+        "score": 50,
+        "descendants": 18,
+        "by": "firefoxd",
+        "tags": [
+          "Python"
+        ],
+        "summary": "探讨为何应将开发流水线视为生产级系统来维护，强调部署与运维的重要性。"
+      },
+      {
+        "id": 49131034,
+        "title": "What Liberal Arts Education Is for (2024)",
+        "url": "https://innig.net/teaching/liberal-arts-manifesto",
+        "domain": "innig.net",
+        "score": 19,
+        "descendants": 14,
+        "by": "mr_wiglaf",
+        "tags": [],
+        "summary": "重新审视自由博雅教育在现代社会中的必要性与核心价值。"
+      },
+      {
+        "id": 49131367,
+        "title": "Ten Ways NAS Is Getting Enshitified",
+        "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+        "domain": "nascompares.com",
+        "score": 5,
+        "descendants": 0,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "分析NAS产品当前面临的产品质量和服务质量下滑趋势。"
+      },
+      {
+        "id": 49121196,
+        "title": "Progressive Web Components",
+        "url": "https://arielsalminen.com/2026/progressive-web-components/",
+        "domain": "arielsalminen.com",
+        "score": 130,
+        "descendants": 19,
+        "by": "hosteur",
+        "tags": [
+          "Web"
+        ],
+        "summary": "讨论如何利用Web Components技术构建更具扩展性和兼容性的渐进式网页应用。"
+      },
+      {
+        "id": 49130295,
+        "title": "A Week in Matrix",
+        "url": "https://piegames.de/dumps/a-week-in-matrix/",
+        "domain": "piegames.de",
+        "score": 29,
+        "descendants": 18,
+        "by": "Kesseki",
+        "tags": [],
+        "summary": "Matrix开源通信协议生态的最新动态与技术进展回顾。"
+      },
+      {
+        "id": 49123386,
+        "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+        "url": "https://github.com/sqliteai/waste",
+        "domain": "github.com",
+        "score": 211,
+        "descendants": 85,
+        "by": "marcobambini",
+        "tags": [],
+        "summary": "在消费级硬件上运行Kimi K3大模型的性能优化方案与实测记录。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "john.fun",
+          "count": 1
+        },
+        {
+          "domain": "microsoft.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 228,
+      "max_score": {
+        "title": "Elevators",
+        "score": 1129
+      },
+      "most_discussed": {
+        "title": "Elevators",
+        "comments": 266
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了从基础设施技术到人文思考的广泛议题。AI技术应用（如推理模型与可视化工具）与软件开发工程实践依然是热点，同时关于电梯运行机制等硬核科普与人文教育理念的讨论也引发了广泛共鸣。"
   }
 }
