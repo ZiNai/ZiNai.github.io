@@ -1,0 +1,153 @@
+{
+  "morning": {
+    "time": "2026-08-01 09:43",
+    "stories": [
+      {
+        "id": 49127306,
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "domain": "tailscale.com",
+        "score": 456,
+        "descendants": 169,
+        "by": "bluehatbrit",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Tailscale的访问控制未能阻止Hugging Face的安全入侵事件深度复盘。"
+      },
+      {
+        "id": 49124218,
+        "title": "Elevators",
+        "url": "https://john.fun/elevators",
+        "domain": "john.fun",
+        "score": 873,
+        "descendants": 220,
+        "by": "Jrh0203",
+        "tags": [],
+        "summary": "一篇关于电梯工程设计、运行逻辑及其在现代生活中隐秘重要性的技术回顾。"
+      },
+      {
+        "id": 49126604,
+        "title": "qm – Multiplayer agent harness for work",
+        "url": "https://github.com/yc-software/qm",
+        "domain": "github.com",
+        "score": 457,
+        "descendants": 93,
+        "by": "tosh",
+        "tags": [],
+        "summary": "介绍一款名为qm的开源工具，旨在为多智能体协作环境提供测试与评估框架。"
+      },
+      {
+        "id": 49083599,
+        "title": "Twenty-five years ago it was cryptography, today it's model weights",
+        "url": "https://weeraman.com/because-we-can/",
+        "domain": "weeraman.com",
+        "score": 158,
+        "descendants": 60,
+        "by": "aweeraman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "对比二十五年前加密技术与今日AI模型权重的行业地位，探讨技术主权与控制权的演变。"
+      },
+      {
+        "id": 49117089,
+        "title": "The Absurdity of Albert Camus",
+        "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+        "domain": "historytoday.com",
+        "score": 44,
+        "descendants": 29,
+        "by": "apollinaire",
+        "tags": [],
+        "summary": "探讨阿尔贝·加缪的荒诞哲学思想及其在当代生活中的现实意义。"
+      },
+      {
+        "id": 49126765,
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "domain": "servo.org",
+        "score": 104,
+        "descendants": 32,
+        "by": "iamnothere",
+        "tags": [],
+        "summary": "Servo浏览器引擎六月开发更新，涵盖媒体查询优化与SharedWorker支持等进展。"
+      },
+      {
+        "id": 49121196,
+        "title": "Progressive Web Components",
+        "url": "https://arielsalminen.com/2026/progressive-web-components/",
+        "domain": "arielsalminen.com",
+        "score": 84,
+        "descendants": 12,
+        "by": "hosteur",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨如何通过渐进式策略优化Web Components的开发体验与性能。"
+      },
+      {
+        "id": 49124858,
+        "title": "Big Food vs. the People",
+        "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+        "domain": "lighthousereports.com",
+        "score": 190,
+        "descendants": 129,
+        "by": "jruohonen",
+        "tags": [],
+        "summary": "调查性报道揭露食品巨头如何影响公共政策，探讨资本对公众健康的影响。"
+      },
+      {
+        "id": 49128323,
+        "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+        "url": "https://arxiv.org/abs/2607.28233",
+        "domain": "arxiv.org",
+        "score": 30,
+        "descendants": 17,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "学术研究详细解析DRAM中RowHammer与RowPress导致的读干扰物理机制。"
+      },
+      {
+        "id": 49125034,
+        "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+        "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+        "domain": "jeffgeerling.com",
+        "score": 137,
+        "descendants": 83,
+        "by": "speckx",
+        "tags": [],
+        "summary": "硬核极客分享如何在Mac Studio上实现25Gbps超高速雷电以太网连接的配置指南。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "tailscale.com",
+          "count": 1
+        },
+        {
+          "domain": "john.fun",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 253,
+      "max_score": {
+        "title": "Elevators",
+        "score": 873
+      },
+      "most_discussed": {
+        "title": "Elevators",
+        "comments": 220
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于基础设施安全与硬件性能的深度剖析，多篇技术文章讨论了从网络访问控制到DRAM物理漏洞等底层系统议题。同时，AI模型权重与开发工具的迭代更新，以及行业垄断对大众生活的社会影响，共同构成了当前的讨论热点。"
+  }
+}
