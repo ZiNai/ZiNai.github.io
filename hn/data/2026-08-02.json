@@ -305,5 +305,160 @@
       ]
     },
     "summary": "本期Hacker News聚焦硬件与软件的交叉创新，从芯片性能优化、复古计算设备到Go语言交互教学等工程实践备受关注。同时，AI应用深度、Linux桌面增长及网络协议安全升级等技术趋势也引发了社区的广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-08-02 21:10",
+    "stories": [
+      {
+        "id": 49143630,
+        "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "url": "https://website-auditor.io/ai-visibility-index",
+        "domain": "website-auditor.io",
+        "score": 32,
+        "descendants": 32,
+        "by": "SpikeyCoder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "调查发现仅 8.9% 的网站屏蔽了 AI 爬虫，但绝大多数被抓取的网站从未在 AI 回答中被引用。"
+      },
+      {
+        "id": 49143967,
+        "title": "Twenty Years of RISC OS Open",
+        "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+        "domain": "riscosopen.org",
+        "score": 13,
+        "descendants": 1,
+        "by": "AlexeyBrin",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "纪念 RISC OS Open 开源项目成立二十周年，回顾其历史与成就。"
+      },
+      {
+        "id": 49142569,
+        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+        "domain": "getbor.dev",
+        "score": 65,
+        "descendants": 13,
+        "by": "eniac111",
+        "tags": [
+          "Systems",
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "介绍一款开源的 Linux 桌面策略管理工具 Bor，旨在简化系统配置管理。"
+      },
+      {
+        "id": 49143479,
+        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+        "url": "https://meshdiff.com/",
+        "domain": "meshdiff.com",
+        "score": 55,
+        "descendants": 7,
+        "by": "projscope",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个纯浏览器端的工具，支持可视化对比两个 STL 3D 模型文件的差异。"
+      },
+      {
+        "id": 49143414,
+        "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+        "domain": "en.wikipedia.org",
+        "score": 127,
+        "descendants": 69,
+        "by": "akolbe",
+        "tags": [],
+        "summary": "维基媒体基金会拒绝工会承认并聘请反工会律所，引发舆论关注。"
+      },
+      {
+        "id": 49095763,
+        "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+        "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+        "domain": "dallasexpress.com",
+        "score": 35,
+        "descendants": 29,
+        "by": "throw0101a",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49143001,
+        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "url": "https://publicdomainreview.org/essay/ars-notoria/",
+        "domain": "publicdomainreview.org",
+        "score": 44,
+        "descendants": 4,
+        "by": "jruohonen",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探究从古代“记忆术”到现代人工智能关于“即时知识”的哲学与技术演变。"
+      },
+      {
+        "id": 49142794,
+        "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+        "url": "https://github.com/syncular/syncular",
+        "domain": "github.com",
+        "score": 32,
+        "descendants": 15,
+        "by": "quambo",
+        "tags": [
+          "Rust",
+          "JavaScript",
+          "Database",
+          "Show HN"
+        ],
+        "summary": "开源 Syncular 项目，提供结合 TypeScript 和 Rust 核心的离线优先 SQL 同步方案。"
+      },
+      {
+        "id": 49140218,
+        "title": "Go 1.27 Interactive Tour",
+        "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+        "domain": "victoriametrics.com",
+        "score": 257,
+        "descendants": 103,
+        "by": "Hixon10",
+        "tags": [],
+        "summary": "Go 语言发布最新的交互式学习教程，助力开发者快速上手掌握 1.27 版本新特性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "website-auditor.io",
+          "count": 1
+        },
+        {
+          "domain": "riscosopen.org",
+          "count": 1
+        },
+        {
+          "domain": "getbor.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 73,
+      "max_score": {
+        "title": "Go 1.27 Interactive Tour",
+        "score": 257
+      },
+      "most_discussed": {
+        "title": "Go 1.27 Interactive Tour",
+        "comments": 103
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Open Source",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于 AI 领域的版权与数据抓取争议，包括对 AI 抓取策略的分析及珍贵文献被数字化毁坏的讨论。此外，开发者工具领域表现活跃，涵盖了桌面策略管理、STL 模型比对及 Go 语言交互式教程等高质量工程实践。"
   }
 }
