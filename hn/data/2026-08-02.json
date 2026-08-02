@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-08-02 09:28",
+    "stories": [
+      {
+        "id": 49139102,
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "domain": "mitsloan.mit.edu",
+        "score": 144,
+        "descendants": 89,
+        "by": "foxtrot8672",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究表明，当提问方式得当时，AI 在提供金融建议方面的表现令人惊奇地出色。"
+      },
+      {
+        "id": 49138302,
+        "title": "Seedance 2.5",
+        "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "domain": "seed.bytedance.com",
+        "score": 157,
+        "descendants": 57,
+        "by": "njaremko",
+        "tags": [],
+        "summary": "字节跳动发布 Seedance 2.5，进一步优化其数据驱动的开发与协同工具链。"
+      },
+      {
+        "id": 49138188,
+        "title": "Diátaxis",
+        "url": "https://diataxis.fr/",
+        "domain": "diataxis.fr",
+        "score": 180,
+        "descendants": 28,
+        "by": "ryanseys",
+        "tags": [],
+        "summary": "探讨 Diátaxis 框架，这是一种旨在提升软件文档结构化与易读性的系统化方法。"
+      },
+      {
+        "id": 49139711,
+        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+        "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "domain": "rfc-editor.org",
+        "score": 17,
+        "descendants": 0,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "RFC 10015 正式提案废弃 TLS 1.2 和 DTLS 1.2 中已过时的密钥交换方法。"
+      },
+      {
+        "id": 49139383,
+        "title": "Unraveling the mysteries of habit formation",
+        "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+        "domain": "kyoto-u.ac.jp",
+        "score": 28,
+        "descendants": 9,
+        "by": "hhs",
+        "tags": [],
+        "summary": "京都大学的研究分析了人类习惯形成的神经机制与心理学原理。"
+      },
+      {
+        "id": 49137060,
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "domain": "leodemoura.github.io",
+        "score": 109,
+        "descendants": 40,
+        "by": "juhopitk",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度解析内核可靠性漏洞 #14576 的成因、修复过程及对系统稳定性的启示。"
+      },
+      {
+        "id": 49137713,
+        "title": "But can your calculator run Linux?",
+        "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "domain": "raymii.org",
+        "score": 58,
+        "descendants": 4,
+        "by": "jandeboevrie",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "通过极客视角探讨在计算器等嵌入式硬件上运行 Linux 系统的可行性与趣味实践。"
+      },
+      {
+        "id": 49134599,
+        "title": "The Art of 64-bit Assembly",
+        "url": "https://nostarch.com/art-64-bit-assembly-v2",
+        "domain": "nostarch.com",
+        "score": 187,
+        "descendants": 86,
+        "by": "0x54MUR41",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍 64 位汇编语言的底层艺术，适合希望深入理解 CPU 指令集架构的开发者。"
+      },
+      {
+        "id": 49137228,
+        "title": "CISA Alert: Water Sector PLC Targeting",
+        "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+        "domain": "censys.com",
+        "score": 66,
+        "descendants": 46,
+        "by": "speckx",
+        "tags": [],
+        "summary": "CISA 发出安全预警，指出针对水处理行业可编程逻辑控制器（PLC）的定向攻击风险。"
+      },
+      {
+        "id": 49136821,
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+        "domain": "openrss.org",
+        "score": 388,
+        "descendants": 137,
+        "by": "pudgywalsh",
+        "tags": [],
+        "summary": "深入剖析谷歌当年的决策如何影响并最终抑制了 RSS 订阅生态的广泛普及。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mitsloan.mit.edu",
+          "count": 1
+        },
+        {
+          "domain": "seed.bytedance.com",
+          "count": 1
+        },
+        {
+          "domain": "diataxis.fr",
+          "count": 1
+        }
+      ],
+      "avg_score": 133,
+      "max_score": {
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "score": 388
+      },
+      "most_discussed": {
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "comments": 137
+      },
+      "hot_tags": [
+        "Systems",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了 AI 在金融咨询中的应用潜力与技术文档架构方法论。同时，网络安全警示、底层系统工程（如内核开发与汇编语言）以及关于互联网生态演变的深度回顾构成了讨论的核心，展现了技术社区从学术探讨到基础设施审计的多元关注。"
+  }
+}
