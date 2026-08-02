@@ -151,5 +151,159 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了 AI 在金融咨询中的应用潜力与技术文档架构方法论。同时，网络安全警示、底层系统工程（如内核开发与汇编语言）以及关于互联网生态演变的深度回顾构成了讨论的核心，展现了技术社区从学术探讨到基础设施审计的多元关注。"
+  },
+  "noon": {
+    "time": "2026-08-02 14:24",
+    "stories": [
+      {
+        "id": 49141073,
+        "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "domain": "wafer.ai",
+        "score": 78,
+        "descendants": 3,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "探讨在MI355X上运行Kimi K3大模型，分析其比B300更高的性价比优势。"
+      },
+      {
+        "id": 49140218,
+        "title": "Go 1.27 Interactive Tour",
+        "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+        "domain": "victoriametrics.com",
+        "score": 133,
+        "descendants": 34,
+        "by": "Hixon10",
+        "tags": [],
+        "summary": "Go语言官方推出的新版交互式教程，旨在帮助开发者更直观地学习核心特性。"
+      },
+      {
+        "id": 49140702,
+        "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+        "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+        "domain": "oldvcr.blogspot.com",
+        "score": 41,
+        "descendants": 1,
+        "by": "goldenskye",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "重温MkLinux系统在Apple Workgroup Server 9150上的运行往事。"
+      },
+      {
+        "id": 49138302,
+        "title": "Seedance 2.5",
+        "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "domain": "seed.bytedance.com",
+        "score": 269,
+        "descendants": 136,
+        "by": "njaremko",
+        "tags": [],
+        "summary": "字节跳动发布Seedance 2.5，展示了其在模型训练与生产流程中的新进展。"
+      },
+      {
+        "id": 49138188,
+        "title": "Diátaxis",
+        "url": "https://diataxis.fr/",
+        "domain": "diataxis.fr",
+        "score": 272,
+        "descendants": 38,
+        "by": "ryanseys",
+        "tags": [],
+        "summary": "探讨Diátaxis文档架构模式，通过分类化原则提升技术文档的易用性与逻辑性。"
+      },
+      {
+        "id": 49140213,
+        "title": "ASRock BC-250: Building the Budget Steam Machine",
+        "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+        "domain": "plug-world.com",
+        "score": 41,
+        "descendants": 15,
+        "by": "plug_world",
+        "tags": [],
+        "summary": "通过利用ASRock BC-250矿卡，实测打造高性价比Steam游戏机方案。"
+      },
+      {
+        "id": 49140696,
+        "title": "Linux desktop market share has hit over 10% in North America",
+        "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+        "domain": "old.reddit.com",
+        "score": 104,
+        "descendants": 37,
+        "by": "dviola",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "数据显示Linux桌面系统在北美的市场份额已突破10%，标志着开源桌面生态的新里程碑。"
+      },
+      {
+        "id": 49139102,
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "domain": "mitsloan.mit.edu",
+        "score": 257,
+        "descendants": 217,
+        "by": "foxtrot8672",
+        "tags": [
+          "AI"
+        ],
+        "summary": "MIT研究指出，通过正确的提问技巧，AI在提供金融建议方面已具备令人惊讶的准确度。"
+      },
+      {
+        "id": 49140396,
+        "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+        "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+        "domain": "github.com",
+        "score": 80,
+        "descendants": 18,
+        "by": "tomilan",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一名15岁少年的工程实践分享，展示了其从零构思并制作的摆线减速箱。"
+      },
+      {
+        "id": 49139711,
+        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+        "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "domain": "rfc-editor.org",
+        "score": 51,
+        "descendants": 9,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "RFC 10015正式提议在TLS 1.2与DTLS 1.2中废除过时的密钥交换方法以增强安全性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "wafer.ai",
+          "count": 1
+        },
+        {
+          "domain": "victoriametrics.com",
+          "count": 1
+        },
+        {
+          "domain": "oldvcr.blogspot.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 133,
+      "max_score": {
+        "title": "Diátaxis",
+        "score": 272
+      },
+      "most_discussed": {
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "comments": 217
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News聚焦硬件与软件的交叉创新，从芯片性能优化、复古计算设备到Go语言交互教学等工程实践备受关注。同时，AI应用深度、Linux桌面增长及网络协议安全升级等技术趋势也引发了社区的广泛讨论。"
   }
 }
