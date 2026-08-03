@@ -317,5 +317,168 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出AI技术应用与复古计算文化的双重热点。开发者不仅关注AI在编程助手及遗留代码迁移中的前沿进展，同时也展现了对早期操作系统移植及极简个人博客等硬核极客项目的浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-08-03 22:28",
+    "stories": [
+      {
+        "id": 49154332,
+        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "domain": "research.jfrog.com",
+        "score": 353,
+        "descendants": 114,
+        "by": "ymir_e",
+        "tags": [
+          "Database",
+          "Security"
+        ],
+        "summary": "探讨近期针对SQLite虚假漏洞发出的错误CVE通告及其对安全行业的影响。"
+      },
+      {
+        "id": 49155629,
+        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+        "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+        "domain": "blog.comfy.org",
+        "score": 54,
+        "descendants": 20,
+        "by": "vblanco",
+        "tags": [],
+        "summary": "ComfyUI宣布支持MiniMax H3模型，实现原生音频与2K视频生成功能。"
+      },
+      {
+        "id": 49151933,
+        "title": "Don't be a meat proxy",
+        "url": "https://gruhn.me/blog/2026-08-03/",
+        "domain": "gruhn.me",
+        "score": 1122,
+        "descendants": 469,
+        "by": "ngruhn",
+        "tags": [],
+        "summary": "文章呼吁开发者警惕成为AI生成的“肉体代理”，强调在协作中保持主体思维的重要性。"
+      },
+      {
+        "id": 49150470,
+        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+        "url": "https://qwen.ai/blog?id=qwen3.8",
+        "domain": "qwen.ai",
+        "score": 826,
+        "descendants": 418,
+        "by": "ai2027",
+        "tags": [],
+        "summary": "Qwen3.8-Max模型发布，在编程能力与人机协作体验上树立了新标准。"
+      },
+      {
+        "id": 49154228,
+        "title": "AirLLM 70B inference with single 4GB GPU",
+        "url": "https://github.com/lyogavin/airllm",
+        "domain": "github.com",
+        "score": 57,
+        "descendants": 26,
+        "by": "Anon84",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "AirLLM实现仅需4GB显存即可运行70B参数规模大模型的推理技术分享。"
+      },
+      {
+        "id": 49125168,
+        "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+        "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+        "domain": "defector.com",
+        "score": 70,
+        "descendants": 39,
+        "by": "ohjeez",
+        "tags": [],
+        "summary": "讲述加拿大一个小镇因废弃鱼露引发的离奇且令人头疼的环境事件。"
+      },
+      {
+        "id": 49155626,
+        "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+        "url": "https://dmarcguard.io/blog/spf-record-syntax/",
+        "domain": "dmarcguard.io",
+        "score": 9,
+        "descendants": 1,
+        "by": "meysamazad",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入解析SPF记录的语法规则，涵盖机制、限定符及宏的应用指南。"
+      },
+      {
+        "id": 49152842,
+        "title": "Bonsai: Janestreet's UI Library",
+        "url": "https://github.com/janestreet/bonsai",
+        "domain": "github.com",
+        "score": 145,
+        "descendants": 51,
+        "by": "KolmogorovComp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "简析Jane Street开源的Bonsai UI库，展示其在构建复杂Web界面中的特性。"
+      },
+      {
+        "id": 49153374,
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "domain": "ankursethi.com",
+        "score": 194,
+        "descendants": 147,
+        "by": "mpweiher",
+        "tags": [
+          "AI"
+        ],
+        "summary": "建议通过手动重写LLM生成的代码来预防认知债务，以提升逻辑理解与代码质量。"
+      },
+      {
+        "id": 49154127,
+        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://github.com/garagehq/nightcrawler/",
+        "domain": "github.com",
+        "score": 48,
+        "descendants": 16,
+        "by": "NickySlicks",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "介绍一款可在智能手机上运行的本地AI渗透测试代理工具Nightcrawler。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "research.jfrog.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.comfy.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 288,
+      "max_score": {
+        "title": "Don't be a meat proxy",
+        "score": 1122
+      },
+      "most_discussed": {
+        "title": "Don't be a meat proxy",
+        "comments": 469
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Security",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于AI技术的快速演进与实践挑战，从高性能模型推理到开发辅助工具引发广泛讨论。同时，社区对代码安全性、自动化依赖带来的认知陷阱以及复杂技术规范保持了高度关注。"
   }
 }
