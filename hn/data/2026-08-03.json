@@ -160,5 +160,162 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出软硬件结合的极客文化特征，涵盖了从古董处理器运行大模型到前沿的macOS兼容性工具开发。同时，关于开发工具哲学与个人知识管理的讨论也引起了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-08-03 14:50",
+    "stories": [
+      {
+        "id": 49151933,
+        "title": "Don't be a meat proxy",
+        "url": "https://gruhn.me/blog/2026-08-03/",
+        "domain": "gruhn.me",
+        "score": 47,
+        "descendants": 16,
+        "by": "ngruhn",
+        "tags": [],
+        "summary": "探讨在数字时代避免被技术工具异化，保持人类主体性的思考。"
+      },
+      {
+        "id": 49150470,
+        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+        "url": "https://qwen.ai/blog?id=qwen3.8",
+        "domain": "qwen.ai",
+        "score": 410,
+        "descendants": 168,
+        "by": "ai2027",
+        "tags": [],
+        "summary": "通义千问发布Qwen3.8-Max，旨在为AI编程和协作设定新的性能基准。"
+      },
+      {
+        "id": 49149966,
+        "title": "Show HN: Isopolis – Isometric pixel map of SF",
+        "url": "https://sf.isopolis.city/",
+        "domain": "sf.isopolis.city",
+        "score": 177,
+        "descendants": 37,
+        "by": "nuwandavek",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个展示旧金山等距像素风格地图的视觉化项目。"
+      },
+      {
+        "id": 49140998,
+        "title": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
+        "domain": "twitter.com",
+        "score": 537,
+        "descendants": 376,
+        "by": "delichon",
+        "tags": [],
+        "summary": "围绕Karpathy发布的Pelican项目引发的社区讨论。"
+      },
+      {
+        "id": 49150773,
+        "title": "AI migrated legacy COBOL programs to Java, bugs included",
+        "url": "https://arxiv.org/abs/2607.28271",
+        "domain": "arxiv.org",
+        "score": 30,
+        "descendants": 25,
+        "by": "felineflock",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于利用AI迁移COBOL遗留代码至Java过程中产生潜在Bug的技术案例分析。"
+      },
+      {
+        "id": 49149898,
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "url": "https://github.com/johnsonjh/cpm386",
+        "domain": "github.com",
+        "score": 60,
+        "descendants": 20,
+        "by": "TMWNN",
+        "tags": [],
+        "summary": "将CP/M操作系统移植至386保护模式的复古计算实践。"
+      },
+      {
+        "id": 49149805,
+        "title": "Show HN: ssh ssh.place",
+        "url": "https://ssh.place",
+        "domain": "ssh.place",
+        "score": 92,
+        "descendants": 44,
+        "by": "jeninh",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个通过SSH连接即可访问的在线平台，展示了终端交互的魅力。"
+      },
+      {
+        "id": 49125065,
+        "title": "Why we write our own C and C++ inference engines",
+        "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+        "domain": "localai.io",
+        "score": 31,
+        "descendants": 13,
+        "by": "eatonphil",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "作者分享为何选择自研C/C++推理引擎而非依赖现有框架的工程决策。"
+      },
+      {
+        "id": 49119751,
+        "title": "Show HN: A Handwritten Blogging Platform",
+        "url": "https://handwritten.blog/",
+        "domain": "handwritten.blog",
+        "score": 74,
+        "descendants": 40,
+        "by": "emilesilvis",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个主打手写风格与极简主义的个人博客平台。"
+      },
+      {
+        "id": 49151734,
+        "title": "More German than many Germans",
+        "url": "https://mertbulan.com/more-german-than-many-germans/",
+        "domain": "mertbulan.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "mertbio",
+        "tags": [],
+        "summary": "一篇关于文化认同与跨文化融入的个人深度观察。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gruhn.me",
+          "count": 1
+        },
+        {
+          "domain": "qwen.ai",
+          "count": 1
+        },
+        {
+          "domain": "sf.isopolis.city",
+          "count": 1
+        }
+      ],
+      "avg_score": 146,
+      "max_score": {
+        "title": "Karpathy’s Pelican",
+        "score": 537
+      },
+      "most_discussed": {
+        "title": "Karpathy’s Pelican",
+        "comments": 376
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出AI技术应用与复古计算文化的双重热点。开发者不仅关注AI在编程助手及遗留代码迁移中的前沿进展，同时也展现了对早期操作系统移植及极简个人博客等硬核极客项目的浓厚兴趣。"
   }
 }
