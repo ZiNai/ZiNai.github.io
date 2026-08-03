@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-08-03 09:28",
+    "stories": [
+      {
+        "id": 49149746,
+        "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+        "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+        "domain": "andreagrandi.it",
+        "score": 21,
+        "descendants": 9,
+        "by": "pizzaiolo",
+        "tags": [],
+        "summary": "探讨Book Corners项目无法向OpenStreetMap同步贡献的技术限制与原因。"
+      },
+      {
+        "id": 49140998,
+        "title": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
+        "domain": "twitter.com",
+        "score": 429,
+        "descendants": 335,
+        "by": "delichon",
+        "tags": [],
+        "summary": "关于Andrej Karpathy近期推出的个人项目Pelican的广泛讨论。"
+      },
+      {
+        "id": 49149898,
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "url": "https://github.com/johnsonjh/cpm386",
+        "domain": "github.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "TMWNN",
+        "tags": [],
+        "summary": "介绍一款为386保护模式设计的CP/M版本，由CP/M-68K演变而来。"
+      },
+      {
+        "id": 49122655,
+        "title": "Autoregressive Language Model on the 6502 Processor",
+        "url": "https://mattbeton.com/blog/bitnet-6502.html",
+        "domain": "mattbeton.com",
+        "score": 53,
+        "descendants": 5,
+        "by": "nmstoker",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示在经典的6502处理器上运行自回归语言模型的技术实验。"
+      },
+      {
+        "id": 49145937,
+        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "url": "https://github.com/wie-project/kakehashi",
+        "domain": "github.com",
+        "score": 178,
+        "descendants": 37,
+        "by": "vlad_kalinkin",
+        "tags": [
+          "Systems",
+          "Show HN",
+          "Hardware",
+          "Science"
+        ],
+        "summary": "一款实验性工具，旨在通过用户空间实现Linux ARM系统对macOS二进制文件的兼容运行。"
+      },
+      {
+        "id": 49084324,
+        "title": "Note-Taking and Personal Knowledge Management",
+        "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+        "domain": "unattributed.cc",
+        "score": 124,
+        "descendants": 36,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "深入探讨个人知识管理与笔记方法论的实践与意义。"
+      },
+      {
+        "id": 49097961,
+        "title": "Developers are attached to tools because tools encode trust",
+        "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+        "domain": "stackoverflow.blog",
+        "score": 147,
+        "descendants": 69,
+        "by": "HieronymusBosch",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "分析开发者为何对特定工具产生依赖，以及工具如何作为信任的载体。"
+      },
+      {
+        "id": 49129676,
+        "title": "Read the Novels and Forget Everything Else",
+        "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+        "domain": "hedgehogreview.com",
+        "score": 50,
+        "descendants": 21,
+        "by": "samclemens",
+        "tags": [],
+        "summary": "论述回归文学经典阅读对于保持深度思考与专注力的价值。"
+      },
+      {
+        "id": 49149326,
+        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "url": "https://github.com/pg83/shitty",
+        "domain": "github.com",
+        "score": 82,
+        "descendants": 56,
+        "by": "pshirshov",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一个主打极致性能的终端模拟器项目，通过牺牲内存安全来追求极致速度。"
+      },
+      {
+        "id": 49148899,
+        "title": "Show HN: Mu – Tools for Agents",
+        "url": "https://github.com/micro/mu",
+        "domain": "github.com",
+        "score": 25,
+        "descendants": 8,
+        "by": "asim",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个面向AI智能体开发的工具集，旨在简化Agent的构建流程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "andreagrandi.it",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 112,
+      "max_score": {
+        "title": "Karpathy’s Pelican",
+        "score": 429
+      },
+      "most_discussed": {
+        "title": "Karpathy’s Pelican",
+        "comments": 335
+      },
+      "hot_tags": [
+        "Show HN",
+        "Systems",
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出软硬件结合的极客文化特征，涵盖了从古董处理器运行大模型到前沿的macOS兼容性工具开发。同时，关于开发工具哲学与个人知识管理的讨论也引起了社区的广泛关注。"
+  }
+}
