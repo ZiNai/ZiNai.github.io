@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-08-04 09:18",
+    "stories": [
+      {
+        "id": 49161518,
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "domain": "seangoedecke.com",
+        "score": 397,
+        "descendants": 181,
+        "by": "MaxMussio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨大模型如何通过奖励机制强化专家级表现及其潜在的局限性。"
+      },
+      {
+        "id": 49157930,
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics/",
+        "domain": "openai.com",
+        "score": 418,
+        "descendants": 699,
+        "by": "milkshakes",
+        "tags": [
+          "Science"
+        ],
+        "summary": "OpenAI 总结了理论计算机科学与数学领域的十项关键进展。"
+      },
+      {
+        "id": 49156683,
+        "title": "Ask HN: Who is hiring? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49156683",
+        "domain": "news.ycombinator.com",
+        "score": 94,
+        "descendants": 98,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 社区 2026 年 8 月份的招聘贴。"
+      },
+      {
+        "id": 49156111,
+        "title": "Devtools must be open source",
+        "url": "https://blog.exe.dev/devtools-must-be-open-source",
+        "domain": "blog.exe.dev",
+        "score": 495,
+        "descendants": 177,
+        "by": "bryanmikaelian",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "文章论证了开发者工具应保持开源以确保生态的可持续性和透明度。"
+      },
+      {
+        "id": 49099336,
+        "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+        "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+        "domain": "science.org",
+        "score": 9,
+        "descendants": 3,
+        "by": "marojejian",
+        "tags": []
+      },
+      {
+        "id": 49162086,
+        "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+        "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+        "domain": "virtuallyfun.com",
+        "score": 47,
+        "descendants": 19,
+        "by": "jandeboevrie",
+        "tags": [],
+        "summary": "回顾并吐槽当年安腾处理器版 Windows XP 的糟糕用户体验。"
+      },
+      {
+        "id": 49156682,
+        "title": "Ask HN: Who wants to be hired? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49156682",
+        "domain": "news.ycombinator.com",
+        "score": 46,
+        "descendants": 169,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 社区 2026 年 8 月份的求职贴。"
+      },
+      {
+        "id": 49158581,
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+        "domain": "blog.cloudflare.com",
+        "score": 140,
+        "descendants": 38,
+        "by": "ascorbic",
+        "tags": [],
+        "summary": "Cloudflare 分享了通过工程优化高效运行 Kimi 和 GLM 大模型的经验。"
+      },
+      {
+        "id": 49155629,
+        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+        "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+        "domain": "blog.comfy.org",
+        "score": 249,
+        "descendants": 79,
+        "by": "vblanco",
+        "tags": [],
+        "summary": "ComfyUI 新增 MiniMax H3 支持，实现原生音频和 2K 视频生成的本地化部署。"
+      },
+      {
+        "id": 49158474,
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+        "domain": "changelog.complete.org",
+        "score": 122,
+        "descendants": 35,
+        "by": "roryirvine",
+        "tags": [],
+        "summary": "Kermit 协议时隔 15 年发布新版本，以纪念该通信标准诞生 45 周年。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 2
+        },
+        {
+          "domain": "seangoedecke.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 202,
+      "max_score": {
+        "title": "Devtools must be open source",
+        "score": 495
+      },
+      "most_discussed": {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "comments": 699
+      },
+      "hot_tags": [
+        "Ask HN",
+        "AI",
+        "Science",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能技术的演进与落地，包括大模型规模化部署、多模态应用及理论科学的突破。此外，开发者群体持续探讨工具开源化的价值，同时伴有针对历史操作系统遗珍和学术考古的新发现。"
+  }
+}
