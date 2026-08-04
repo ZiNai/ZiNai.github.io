@@ -154,5 +154,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能技术的演进与落地，包括大模型规模化部署、多模态应用及理论科学的突破。此外，开发者群体持续探讨工具开源化的价值，同时伴有针对历史操作系统遗珍和学术考古的新发现。"
+  },
+  "noon": {
+    "time": "2026-08-04 14:18",
+    "stories": [
+      {
+        "id": 49161518,
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "domain": "seangoedecke.com",
+        "score": 712,
+        "descendants": 300,
+        "by": "MaxMussio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章探讨了大语言模型如何通过奖励机制强化专业知识的获取与表现。"
+      },
+      {
+        "id": 49158333,
+        "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "domain": "github.com",
+        "score": 95,
+        "descendants": 25,
+        "by": "leonickson",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了通过优化技术在Mac和iPhone的有限内存下运行大型Qwen模型的实现方案。"
+      },
+      {
+        "id": 49099336,
+        "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+        "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+        "domain": "science.org",
+        "score": 106,
+        "descendants": 65,
+        "by": "marojejian",
+        "tags": [],
+        "summary": "研究揭示了古代亚马逊地区人口密度远超预期的历史考古发现。"
+      },
+      {
+        "id": 49157930,
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics/",
+        "domain": "openai.com",
+        "score": 510,
+        "descendants": 781,
+        "by": "milkshakes",
+        "tags": [
+          "Science"
+        ],
+        "summary": "OpenAI盘点了数学与理论计算机科学领域的十项重要进展。"
+      },
+      {
+        "id": 49156111,
+        "title": "Devtools must be open source",
+        "url": "https://blog.exe.dev/devtools-must-be-open-source",
+        "domain": "blog.exe.dev",
+        "score": 562,
+        "descendants": 195,
+        "by": "bryanmikaelian",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "博主呼吁开发者工具应当保持开源，以保障生态的透明度与可维护性。"
+      },
+      {
+        "id": 49156683,
+        "title": "Ask HN: Who is hiring? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49156683",
+        "domain": "news.ycombinator.com",
+        "score": 149,
+        "descendants": 135,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News每月的招聘帖，汇总了当前寻求人才的科技公司与机会。"
+      },
+      {
+        "id": 49162653,
+        "title": "There Will Come Soft Rains (1950) [pdf]",
+        "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+        "domain": "users.wpi.edu",
+        "score": 104,
+        "descendants": 38,
+        "by": "pmg101",
+        "tags": [
+          "AI"
+        ],
+        "summary": "推荐阅读雷·布拉德伯里关于技术与战争的反思性经典短篇小说《会有柔雨》。"
+      },
+      {
+        "id": 49158581,
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+        "domain": "blog.cloudflare.com",
+        "score": 191,
+        "descendants": 45,
+        "by": "ascorbic",
+        "tags": [],
+        "summary": "Cloudflare分享了在大规模生产环境下运行Kimi与GLM模型的性能优化实践。"
+      },
+      {
+        "id": 49126468,
+        "title": "IPC-7351B Electronic Component Zero Orientation [pdf]",
+        "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
+        "domain": "scancad.net",
+        "score": 11,
+        "descendants": 3,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "详细介绍了电子元器件在PCB设计中标准零点定位的IPC规范技术文档。"
+      },
+      {
+        "id": 49164649,
+        "title": "Apple is getting this wrong",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+        "domain": "openai.com",
+        "score": 39,
+        "descendants": 16,
+        "by": "meetpateltech",
+        "tags": [],
+        "summary": "讨论了苹果在近期产品或决策中存在的一项核心争议点。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 2
+        },
+        {
+          "domain": "seangoedecke.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 248,
+      "max_score": {
+        "title": "LLMs reward expertise",
+        "score": 712
+      },
+      "most_discussed": {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "comments": 781
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Science",
+        "Open Source",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术的前沿突破，包括大模型运行效率优化、学术进展及其在生产力中的应用。此外，开发者社区对工具开源化的探讨以及关于历史文明与文学的跨领域内容也引发了广泛讨论。"
   }
 }
