@@ -314,5 +314,153 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术的前沿突破，包括大模型运行效率优化、学术进展及其在生产力中的应用。此外，开发者社区对工具开源化的探讨以及关于历史文明与文学的跨领域内容也引发了广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-08-04 21:59",
+    "stories": [
+      {
+        "id": 49166386,
+        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "domain": "github.com",
+        "score": 162,
+        "descendants": 39,
+        "by": "zhoutong",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "展示了在单块 AMD MI300X 显卡上部署并优化 DeepSeek V4 模型的技术细节。"
+      },
+      {
+        "id": 49166491,
+        "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+        "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+        "domain": "short-stories.co",
+        "score": 151,
+        "descendants": 34,
+        "by": "askvictor",
+        "tags": [
+          "AI"
+        ],
+        "summary": "今日恰逢雷·布拉德伯里名篇《将有柔雨降临》的设定日期，引发社区对末世叙事的共鸣。"
+      },
+      {
+        "id": 49167448,
+        "title": "Xbox goes down. You can't play games you own on disc",
+        "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+        "domain": "birchtree.me",
+        "score": 165,
+        "descendants": 162,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "Xbox 服务器宕机导致玩家无法运行实体光盘游戏，再次凸显数字时代离线所有权的问题。"
+      },
+      {
+        "id": 49161518,
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "domain": "seangoedecke.com",
+        "score": 1123,
+        "descendants": 471,
+        "by": "MaxMussio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨大语言模型如何通过奖励机制来放大并利用用户的领域专家知识。"
+      },
+      {
+        "id": 49167147,
+        "title": "Buckminster Fuller: everything I know",
+        "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+        "domain": "bfi.org",
+        "score": 41,
+        "descendants": 15,
+        "by": "simonebrunozzi",
+        "tags": [],
+        "summary": "分享了如何在仅具备 4GB 显存的笔记本上进行 8B 大模型微调的工程实践方案。"
+      },
+      {
+        "id": 49164896,
+        "title": "Harness Engineering for Self-Improvement",
+        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+        "domain": "lilianweng.github.io",
+        "score": 144,
+        "descendants": 27,
+        "by": "tosh",
+        "tags": [],
+        "summary": "Lilian Weng 探讨如何借鉴工程方法论来系统化提升个人素质与生活管理效率。"
+      },
+      {
+        "id": 49166984,
+        "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "domain": "github.com",
+        "score": 37,
+        "descendants": 6,
+        "by": "MakazhanAlpamys",
+        "tags": [
+          "AI",
+          "Show HN",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49167113,
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+        "domain": "nelson.cloud",
+        "score": 404,
+        "descendants": 241,
+        "by": "meysamazad",
+        "tags": [
+          "AI"
+        ],
+        "summary": "抨击了技术博客中过度使用 AI 生成图片的行为，指出其削弱了文章的可读性与真实感。"
+      },
+      {
+        "id": 49166874,
+        "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+        "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+        "domain": "aikido.dev",
+        "score": 43,
+        "descendants": 7,
+        "by": "cimi_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道了 Keyv 等开源库遭受的 Shai-Hulud 供应链攻击，提醒开发者关注依赖包安全。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "short-stories.co",
+          "count": 1
+        },
+        {
+          "domain": "birchtree.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 252,
+      "max_score": {
+        "title": "LLMs reward expertise",
+        "score": 1123
+      },
+      "most_discussed": {
+        "title": "LLMs reward expertise",
+        "comments": 471
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能的实践与反思，涵盖了模型优化技术、AI生成内容对阅读体验的影响以及大语言模型对专业能力的促进作用。此外，Xbox离线游玩限制引发了对数字版权的讨论，供应链安全问题也再次成为关注重点。"
   }
 }
