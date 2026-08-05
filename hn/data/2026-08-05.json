@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-08-05 09:23",
+    "stories": [
+      {
+        "id": 49176606,
+        "title": "libexpat now funded by the City of Munich for up to 6 months",
+        "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+        "domain": "blog.hartwork.org",
+        "score": 106,
+        "descendants": 4,
+        "by": "spyc",
+        "tags": [],
+        "summary": "慕尼黑市政府为libexpat项目提供为期6个月的资助，以支持该底层XML解析器的持续维护。"
+      },
+      {
+        "id": 49176830,
+        "title": "Eight Myths on Software Engineering and GenAI",
+        "url": "https://queue.acm.org/detail.cfm?id=3807963",
+        "domain": "queue.acm.org",
+        "score": 43,
+        "descendants": 15,
+        "by": "tchalla",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章探讨了软件工程与生成式AI结合过程中的八大常见误区与现实挑战。"
+      },
+      {
+        "id": 49176038,
+        "title": "Pi's Minimalism Is Its Advantage",
+        "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+        "domain": "earendil.com",
+        "score": 79,
+        "descendants": 19,
+        "by": "luispa",
+        "tags": [],
+        "summary": "分析了Pi以极简主义作为核心竞争力，如何在复杂的互联网产品中脱颖而出。"
+      },
+      {
+        "id": 49174900,
+        "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+        "url": "https://twitter.com/gwern/status/2084739205071343837",
+        "domain": "twitter.com",
+        "score": 153,
+        "descendants": 77,
+        "by": "mattsterett",
+        "tags": [],
+        "summary": "一位知名匿名作者宣布结束全职写作并公开身份，转型启动Guardian Angel项目。"
+      },
+      {
+        "id": 49176055,
+        "title": "We finally learned to center a div, then browsers added sidebars",
+        "url": "https://seg6.space/posts/center-div/",
+        "domain": "seg6.space",
+        "score": 50,
+        "descendants": 35,
+        "by": "seg6",
+        "tags": [
+          "Web"
+        ],
+        "summary": "调侃Web开发中CSS布局的经典难题，指出浏览器新增的侧边栏功能带来了新的布局挑战。"
+      },
+      {
+        "id": 49175924,
+        "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+        "url": "https://techascent.com/blog/just-ducking-around.html",
+        "domain": "techascent.com",
+        "score": 47,
+        "descendants": 4,
+        "by": "sourdecor",
+        "tags": [],
+        "summary": "介绍Clojure语言对DuckDB的支持，为本地数据分析提供了更强大的工具链。"
+      },
+      {
+        "id": 49171268,
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "url": "https://mistral.ai/news/shieldstral/",
+        "domain": "mistral.ai",
+        "score": 300,
+        "descendants": 72,
+        "by": "riadsila",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral发布Shieldstral，这是一款专门用于多模态内容审核的3B参数开源模型。"
+      },
+      {
+        "id": 49176697,
+        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+        "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+        "domain": "mysk.blog",
+        "score": 29,
+        "descendants": 3,
+        "by": "lapcat",
+        "tags": [
+          "Web"
+        ],
+        "summary": "研究揭露了WebKit中存在的IP与DNS泄露问题，影响了代理浏览器及iCloud中继服务的隐私保护。"
+      },
+      {
+        "id": 49176644,
+        "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+        "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+        "domain": "unit42.paloaltonetworks.com",
+        "score": 32,
+        "descendants": 23,
+        "by": "jchanimal",
+        "tags": [],
+        "summary": "Unit 42团队分析了无密码验证技术中的新型Passkey攻击面。"
+      },
+      {
+        "id": 49176634,
+        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+        "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+        "domain": "808bits.com",
+        "score": 22,
+        "descendants": 7,
+        "by": "meehow",
+        "tags": [
+          "Security"
+        ],
+        "summary": "探讨FIPS 140-3认证的局限性，指出该合规标准并不能直接等同于系统安全保障。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.hartwork.org",
+          "count": 1
+        },
+        {
+          "domain": "queue.acm.org",
+          "count": 1
+        },
+        {
+          "domain": "earendil.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 86,
+      "max_score": {
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "score": 300
+      },
+      "most_discussed": {
+        "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+        "comments": 77
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术的进展与安全威胁，涵盖了多模态模型审核、生成式AI的工程误区以及身份验证的漏洞分析。同时，技术界对浏览器隐私问题、开源软件的可持续性资助及基础设施标准化评估也保持了高度关注。"
+  }
+}
