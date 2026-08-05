@@ -154,5 +154,161 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术的进展与安全威胁，涵盖了多模态模型审核、生成式AI的工程误区以及身份验证的漏洞分析。同时，技术界对浏览器隐私问题、开源软件的可持续性资助及基础设施标准化评估也保持了高度关注。"
+  },
+  "noon": {
+    "time": "2026-08-05 14:18",
+    "stories": [
+      {
+        "id": 49131438,
+        "title": "Stateless MCP has recaptured my interest",
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+        "domain": "simonwillison.net",
+        "score": 73,
+        "descendants": 34,
+        "by": "tosh",
+        "tags": [],
+        "summary": "讨论无状态模型上下文协议（MCP）如何简化AI集成并激发开发者兴趣。"
+      },
+      {
+        "id": 49176830,
+        "title": "Eight Myths on Software Engineering and GenAI",
+        "url": "https://queue.acm.org/detail.cfm?id=3807963",
+        "domain": "queue.acm.org",
+        "score": 163,
+        "descendants": 110,
+        "by": "tchalla",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析软件工程中关于生成式AI的八大常见误区与现实挑战。"
+      },
+      {
+        "id": 49176038,
+        "title": "Pi's Minimalism Is Its Advantage",
+        "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+        "domain": "earendil.com",
+        "score": 243,
+        "descendants": 94,
+        "by": "luispa",
+        "tags": [],
+        "summary": "探讨Raspberry Pi简约主义设计理念背后的生态优势与魅力。"
+      },
+      {
+        "id": 49172784,
+        "title": "The Golden Age of British Ice Cream",
+        "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+        "domain": "vittlesmagazine.com",
+        "score": 19,
+        "descendants": 4,
+        "by": "bryanrasmussen",
+        "tags": [],
+        "summary": "从文化与行业视角回顾英国冰淇淋产业的发展与演变。"
+      },
+      {
+        "id": 49171268,
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "url": "https://mistral.ai/news/shieldstral/",
+        "domain": "mistral.ai",
+        "score": 363,
+        "descendants": 91,
+        "by": "riadsila",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral发布Shieldstral 3B模型，旨在提供高效的多模态内容审核解决方案。"
+      },
+      {
+        "id": 49176697,
+        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+        "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+        "domain": "mysk.blog",
+        "score": 80,
+        "descendants": 10,
+        "by": "lapcat",
+        "tags": [
+          "Web"
+        ],
+        "summary": "揭露WebKit中存在的IP与DNS泄露漏洞，如何影响代理浏览器及iCloud隐私中继。"
+      },
+      {
+        "id": 49176983,
+        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+        "url": "https://arxiv.org/abs/2603.04221",
+        "domain": "arxiv.org",
+        "score": 63,
+        "descendants": 43,
+        "by": "teleforce",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "基于实测对比Zigbee与Matter over Thread在物联网场景下的性能表现。"
+      },
+      {
+        "id": 49123231,
+        "title": "Why is it all in the kernel?",
+        "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+        "domain": "lawrencecpaulson.github.io",
+        "score": 16,
+        "descendants": 4,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "批判性分析现代软件架构中“一切皆在内核中”的设计倾向及潜在弊端。"
+      },
+      {
+        "id": 49084236,
+        "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
+        "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+        "domain": "rioterm.com",
+        "score": 16,
+        "descendants": 4,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "介绍Rio终端模拟器的核心引擎，现已支持作为组件嵌入到其他应用中。"
+      },
+      {
+        "id": 49178702,
+        "title": "The sale of Electronic Arts has been finalized",
+        "url": "https://www.bbc.com/news/articles/cjejyl34345o",
+        "domain": "bbc.com",
+        "score": 49,
+        "descendants": 18,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "报道关于电子艺界（EA）公司被收购交易完成的市场动态。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        },
+        {
+          "domain": "queue.acm.org",
+          "count": 1
+        },
+        {
+          "domain": "earendil.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 108,
+      "max_score": {
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "score": 363
+      },
+      "most_discussed": {
+        "title": "Eight Myths on Software Engineering and GenAI",
+        "comments": 110
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出高度的专业技术导向，AI领域中GenAI应用反思、多模态安全模型及MCP协议成为关注焦点。此外，底层技术如物联网协议、浏览器隐私漏洞及软件架构哲学也引发了开发者的深入讨论。"
   }
 }
