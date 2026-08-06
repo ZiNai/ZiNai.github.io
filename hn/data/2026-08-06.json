@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-08-06 09:20",
+    "stories": [
+      {
+        "id": 49184960,
+        "title": "Discovery Loop",
+        "url": "https://www.discoveryloop.com/",
+        "domain": "discoveryloop.com",
+        "score": 581,
+        "descendants": 366,
+        "by": "xtreak29",
+        "tags": [],
+        "summary": "介绍一种用于提升产品用户留存与发现机制的Discovery Loop框架。"
+      },
+      {
+        "id": 49187256,
+        "title": "Zed DeltaDB",
+        "url": "https://zed.dev/deltadb",
+        "domain": "zed.dev",
+        "score": 295,
+        "descendants": 147,
+        "by": "ahamez",
+        "tags": [],
+        "summary": "Zed团队推出的高性能嵌入式数据库DeltaDB，旨在优化现代编辑器的性能表现。"
+      },
+      {
+        "id": 49189287,
+        "title": "The title cards in Blade Runner are amazing",
+        "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+        "domain": "randsinrepose.com",
+        "score": 128,
+        "descendants": 53,
+        "by": "ExMachina73",
+        "tags": [],
+        "summary": "从美学与设计的视角深度赏析电影《银翼杀手》中极具标志性的标题卡设计。"
+      },
+      {
+        "id": 49184755,
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "domain": "blog.google",
+        "score": 459,
+        "descendants": 580,
+        "by": "colesantiago",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google DeepMind高层变动：Demis Hassabis转任主席，首席科学家Jeff Dean离任。"
+      },
+      {
+        "id": 49186762,
+        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+        "domain": "neon.com",
+        "score": 219,
+        "descendants": 39,
+        "by": "moonikakiss",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何利用低成本开源模型在检索任务中超越顶尖闭源模型的性能表现。"
+      },
+      {
+        "id": 49187575,
+        "title": "Muse Code and Muse Spark 1.2",
+        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "domain": "research.meta.ai",
+        "score": 165,
+        "descendants": 101,
+        "by": "paulkrush",
+        "tags": [],
+        "summary": "Meta发布Muse Code与Muse Spark 1.2，展示其在多模态生成领域的最新进展。"
+      },
+      {
+        "id": 49189075,
+        "title": "Prime Agent: A self-improving RLM agent",
+        "url": "https://www.primeintellect.ai/blog/prime-agent",
+        "domain": "primeintellect.ai",
+        "score": 95,
+        "descendants": 17,
+        "by": "Xeophon",
+        "tags": [],
+        "summary": "介绍Prime Agent，一款具备自我改进能力的强化学习推理代理系统。"
+      },
+      {
+        "id": 49189234,
+        "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+        "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+        "domain": "chipsandcheese.com",
+        "score": 80,
+        "descendants": 9,
+        "by": "pella",
+        "tags": [
+          "Hardware",
+          "Science"
+        ],
+        "summary": "技术分析文章，指出NVIDIA Vera架构白皮书中的潜在逻辑漏洞。"
+      },
+      {
+        "id": 49185983,
+        "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+        "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+        "domain": "promptarmor.com",
+        "score": 164,
+        "descendants": 67,
+        "by": "hackerBanana",
+        "tags": [],
+        "summary": "披露Atlassian Rovo系统存在数据泄露风险，其能够绕过现有的权限控制措施。"
+      },
+      {
+        "id": 49187061,
+        "title": "Born Against, or why hobby programming communities are against LLM usage",
+        "url": "https://blog.fogus.me/llm/born-against.html",
+        "domain": "blog.fogus.me",
+        "score": 123,
+        "descendants": 137,
+        "by": "lladnar",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨编程爱好者社区为何对引入LLM持抵制态度及其背后的文化动机。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "discoveryloop.com",
+          "count": 1
+        },
+        {
+          "domain": "zed.dev",
+          "count": 1
+        },
+        {
+          "domain": "randsinrepose.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 231,
+      "max_score": {
+        "title": "Discovery Loop",
+        "score": 581
+      },
+      "most_discussed": {
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "comments": 580
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术演进与企业动态，包括DeepMind的人事变动、大模型检索性能优化以及AI Agent的最新研究。此外，社区对LLM在编程领域的深度渗透引发了关于开源文化与数据安全的反思。"
+  }
+}
