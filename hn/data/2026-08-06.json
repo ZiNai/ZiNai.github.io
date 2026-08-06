@@ -153,5 +153,164 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术演进与企业动态，包括DeepMind的人事变动、大模型检索性能优化以及AI Agent的最新研究。此外，社区对LLM在编程领域的深度渗透引发了关于开源文化与数据安全的反思。"
+  },
+  "noon": {
+    "time": "2026-08-06 14:21",
+    "stories": [
+      {
+        "id": 49184960,
+        "title": "Discovery Loop",
+        "url": "https://www.discoveryloop.com/",
+        "domain": "discoveryloop.com",
+        "score": 682,
+        "descendants": 420,
+        "by": "xtreak29",
+        "tags": [],
+        "summary": "关于Discovery Loop在现代数字发现机制中的深度探讨。"
+      },
+      {
+        "id": 49191624,
+        "title": "Nashville uses eminent domain to block data center near zoo",
+        "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+        "domain": "costar.com",
+        "score": 190,
+        "descendants": 210,
+        "by": "mapping365",
+        "tags": [
+          "AI"
+        ],
+        "summary": "纳什维尔市动用征收权阻止在动物园附近建设数据中心。"
+      },
+      {
+        "id": 49184755,
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "domain": "blog.google",
+        "score": 591,
+        "descendants": 652,
+        "by": "colesantiago",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google DeepMind高层剧变：Demis Hassabis转任主席，Jeff Dean卸任相关职务。"
+      },
+      {
+        "id": 49187256,
+        "title": "Zed DeltaDB",
+        "url": "https://zed.dev/deltadb",
+        "domain": "zed.dev",
+        "score": 365,
+        "descendants": 198,
+        "by": "ahamez",
+        "tags": [],
+        "summary": "Zed团队发布DeltaDB，展示了数据库技术在开发工具中的新应用。"
+      },
+      {
+        "id": 49151991,
+        "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+        "url": "https://www.greyblake.com/blog/branchless-rust/",
+        "domain": "greyblake.com",
+        "score": 106,
+        "descendants": 22,
+        "by": "greyblake",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "通过移除分支判断实现Rust过滤器性能四倍提升的技术解析。"
+      },
+      {
+        "id": 49189287,
+        "title": "The title cards in Blade Runner are amazing",
+        "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+        "domain": "randsinrepose.com",
+        "score": 218,
+        "descendants": 96,
+        "by": "ExMachina73",
+        "tags": [],
+        "summary": "从设计美学角度赏析《银翼杀手》中经典的标题卡片艺术。"
+      },
+      {
+        "id": 49187575,
+        "title": "Muse Code and Muse Spark 1.2",
+        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "domain": "research.meta.ai",
+        "score": 228,
+        "descendants": 132,
+        "by": "paulkrush",
+        "tags": [],
+        "summary": "Meta AI发布Muse Code和Muse Spark 1.2版本模型及其研究进展。"
+      },
+      {
+        "id": 49112348,
+        "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+        "url": "https://quantego.org/",
+        "domain": "quantego.org",
+        "score": 13,
+        "descendants": 2,
+        "by": "rbanffy",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "介绍使用乐高模型复刻IBM量子计算机的Quantego项目。"
+      },
+      {
+        "id": 49186762,
+        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+        "domain": "neon.com",
+        "score": 276,
+        "descendants": 68,
+        "by": "moonikakiss",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何以百倍的低成本利用开源模型击败GPT-5.6 Sol的检索性能。"
+      },
+      {
+        "id": 49187061,
+        "title": "Born Against, or why hobby programming communities are against LLM usage",
+        "url": "https://blog.fogus.me/llm/born-against.html",
+        "domain": "blog.fogus.me",
+        "score": 207,
+        "descendants": 188,
+        "by": "lladnar",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨编程爱好者社区拒绝拥抱LLM背后的深层心理与逻辑原因。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "discoveryloop.com",
+          "count": 1
+        },
+        {
+          "domain": "costar.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        }
+      ],
+      "avg_score": 288,
+      "max_score": {
+        "title": "Discovery Loop",
+        "score": 682
+      },
+      "most_discussed": {
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "comments": 652
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI行业的深度变动，包括DeepMind的人事调整及开源模型在特定领域的性能超越。此外，社区对LLM在编程中的角色展开了深入讨论，并关注高性能系统优化及科技基础设施与社区规划的冲突。"
   }
 }
