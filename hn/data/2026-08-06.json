@@ -312,5 +312,155 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于AI行业的深度变动，包括DeepMind的人事调整及开源模型在特定领域的性能超越。此外，社区对LLM在编程中的角色展开了深入讨论，并关注高性能系统优化及科技基础设施与社区规划的冲突。"
+  },
+  "evening": {
+    "time": "2026-08-06 21:54",
+    "stories": [
+      {
+        "id": 49195231,
+        "title": "Mario Meets Pareto",
+        "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+        "domain": "mayerowitz.io",
+        "score": 170,
+        "descendants": 30,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "探讨马里奥游戏设计如何通过帕累托法则实现平衡与优化。"
+      },
+      {
+        "id": 49195468,
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "domain": "scalex.dev",
+        "score": 37,
+        "descendants": 13,
+        "by": "Wirbelwind",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究发现人类在审批AI代理指令时，未能有效拦截三分之一的潜在威胁。"
+      },
+      {
+        "id": 49168622,
+        "title": "How to Make a Nintendo 64 Game in 2026",
+        "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+        "domain": "phoboslab.org",
+        "score": 255,
+        "descendants": 76,
+        "by": "atan2",
+        "tags": [],
+        "summary": "深度指南：如何在2026年的技术环境下从零开发一款任天堂64游戏。"
+      },
+      {
+        "id": 49192566,
+        "title": "Crime Pays but Botany Doesn't",
+        "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+        "domain": "crimepaysbutbotanydoesnt.com",
+        "score": 371,
+        "descendants": 120,
+        "by": "DarkContinent",
+        "tags": [],
+        "summary": "一个关于通过植物学视角观察自然与犯罪行为的独特项目分享。"
+      },
+      {
+        "id": 49096439,
+        "title": "Pareto Front",
+        "url": "https://en.wikipedia.org/wiki/Pareto_front",
+        "domain": "en.wikipedia.org",
+        "score": 88,
+        "descendants": 41,
+        "by": "binyu",
+        "tags": [],
+        "summary": "解释多目标优化中帕累托前沿的数学与工程应用概念。"
+      },
+      {
+        "id": 49184960,
+        "title": "Discovery Loop",
+        "url": "https://www.discoveryloop.com/",
+        "domain": "discoveryloop.com",
+        "score": 807,
+        "descendants": 502,
+        "by": "xtreak29",
+        "tags": [],
+        "summary": "探讨如何建立循环机制以提升发现与认知效率。"
+      },
+      {
+        "id": 49193173,
+        "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+        "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+        "domain": "github.com",
+        "score": 134,
+        "descendants": 73,
+        "by": "microtonal",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术排查：讨论在无Root权限的Android 17系统上无法卸载预装应用的问题。"
+      },
+      {
+        "id": 49184755,
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "domain": "blog.google",
+        "score": 727,
+        "descendants": 782,
+        "by": "colesantiago",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析Google DeepMind的高层变动：Demis Hassabis转任主席，Jeff Dean即将离职。"
+      },
+      {
+        "id": 49187256,
+        "title": "Zed DeltaDB",
+        "url": "https://zed.dev/deltadb",
+        "domain": "zed.dev",
+        "score": 469,
+        "descendants": 263,
+        "by": "ahamez",
+        "tags": [],
+        "summary": "Zed团队推出DeltaDB，旨在通过新的数据同步技术提升协同编辑效率。"
+      },
+      {
+        "id": 49189287,
+        "title": "The title cards in Blade Runner are amazing",
+        "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+        "domain": "randsinrepose.com",
+        "score": 328,
+        "descendants": 161,
+        "by": "ExMachina73",
+        "tags": [],
+        "summary": "从美学与设计角度分析电影《银翼杀手》中经典片头字幕的艺术价值。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mayerowitz.io",
+          "count": 1
+        },
+        {
+          "domain": "scalex.dev",
+          "count": 1
+        },
+        {
+          "domain": "phoboslab.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 339,
+      "max_score": {
+        "title": "Discovery Loop",
+        "score": 807
+      },
+      "most_discussed": {
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "comments": 782
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在科技行业重大人事变动与AI安全治理，DeepMind的高层洗牌引发广泛讨论。同时，技术社区对复古游戏开发、安卓系统底层控制及生产力工具的演进表现出持续的热情。"
   }
 }
