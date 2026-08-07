@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-08-07 10:00",
+    "stories": [
+      {
+        "id": 49201970,
+        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "domain": "theregister.com",
+        "score": 376,
+        "descendants": 298,
+        "by": "itvision",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "AMD收购Taalas以通过硅片刻蚀技术提升AI推理性能。"
+      },
+      {
+        "id": 49184355,
+        "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+        "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+        "domain": "nso.edu",
+        "score": 142,
+        "descendants": 27,
+        "by": "neversaydie",
+        "tags": [],
+        "summary": "科学家在太阳表面观测到了开尔文-亥姆霍兹不稳定性现象。"
+      },
+      {
+        "id": 49195231,
+        "title": "Mario Meets Pareto",
+        "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+        "domain": "mayerowitz.io",
+        "score": 877,
+        "descendants": 150,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "通过帕累托法则解析超级马里奥游戏设计的核心逻辑。"
+      },
+      {
+        "id": 49203105,
+        "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+        "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+        "domain": "troyhunt.com",
+        "score": 83,
+        "descendants": 14,
+        "by": "gnabgib",
+        "tags": [],
+        "summary": "尼泊尔政府正式接入数据泄露查询平台Have I Been Pwned。"
+      },
+      {
+        "id": 49152255,
+        "title": "I stopped trusting USB-C cable labels and started testing them",
+        "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+        "domain": "makeuseof.com",
+        "score": 72,
+        "descendants": 44,
+        "by": "baranul",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "作者通过实际测试，证明不应盲目信任USB-C线缆的标签说明。"
+      },
+      {
+        "id": 49199346,
+        "title": "Taste Is All That's Left",
+        "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+        "domain": "notashelf.dev",
+        "score": 213,
+        "descendants": 168,
+        "by": "tsak",
+        "tags": [],
+        "summary": "探讨在AI生成内容泛滥的时代，个人审美与品味的重要性。"
+      },
+      {
+        "id": 49202716,
+        "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+        "domain": "sciencedaily.com",
+        "score": 51,
+        "descendants": 8,
+        "by": "Audiophilip",
+        "tags": [],
+        "summary": "生物工程口香糖或可成为预防和对抗HPV等微生物的新途径。"
+      },
+      {
+        "id": 49202852,
+        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+        "url": "https://www.aleksagordic.com/blog/vllm",
+        "domain": "aleksagordic.com",
+        "score": 61,
+        "descendants": 2,
+        "by": "sebg",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析vLLM架构：揭秘如何实现高吞吐量大模型推理。"
+      },
+      {
+        "id": 49201003,
+        "title": "Herdr is joining Y Combinator. The runtime stays open",
+        "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+        "domain": "herdr.dev",
+        "score": 145,
+        "descendants": 99,
+        "by": "collinmanderson",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "开源运行时工具Herdr加入Y Combinator，并承诺维持开源路线。"
+      },
+      {
+        "id": 49198069,
+        "title": "Almost no skill required to cook a steak",
+        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+        "domain": "blog.sydorets.com",
+        "score": 279,
+        "descendants": 322,
+        "by": "yusyd",
+        "tags": [],
+        "summary": "从科学角度分析烹饪牛排的过程，认为只要掌握基础方法即可轻松上手。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "theregister.com",
+          "count": 1
+        },
+        {
+          "domain": "nso.edu",
+          "count": 1
+        },
+        {
+          "domain": "mayerowitz.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 230,
+      "max_score": {
+        "title": "Mario Meets Pareto",
+        "score": 877
+      },
+      "most_discussed": {
+        "title": "Almost no skill required to cook a steak",
+        "comments": 322
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Rust",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News热门话题集中于高性能AI推理技术、新兴生物科学进展以及生活实践中的技术探索。开发者社区对硬件加速、模型推理优化以及各种实用技术分析保持高度关注。"
+  }
+}
