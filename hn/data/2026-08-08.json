@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-08-08 08:43",
+    "stories": [
+      {
+        "id": 49214008,
+        "title": "DeepSeek V4 Flash 0731",
+        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "domain": "arcprize.org",
+        "score": 434,
+        "descendants": 252,
+        "by": "tosh",
+        "tags": [],
+        "summary": "DeepSeek V4 Flash模型版本发布，引发关于大模型性能与效率的讨论。"
+      },
+      {
+        "id": 49216946,
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "url": "https://genesisopenmodels.anl.gov/",
+        "domain": "genesisopenmodels.anl.gov",
+        "score": 43,
+        "descendants": 14,
+        "by": "moelf",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美国能源部正式启动Genesis开放模型倡议，推动科研领域的AI模型开源。"
+      },
+      {
+        "id": 49214098,
+        "title": "Assembly Hall of Shame",
+        "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "domain": "github.com",
+        "score": 238,
+        "descendants": 53,
+        "by": "piotrgrabowski",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "汇集并展示各类糟糕的汇编语言代码示例，旨在作为程序员的反面教材。"
+      },
+      {
+        "id": 49214770,
+        "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+        "url": "https://ancientlibrary.net/",
+        "domain": "ancientlibrary.net",
+        "score": 136,
+        "descendants": 47,
+        "by": "aagha",
+        "tags": [],
+        "summary": "一个包含千余部希腊和拉丁文经典文献的数字图书馆，提供即点即用的语法解析功能。"
+      },
+      {
+        "id": 49209539,
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+        "domain": "noemamag.com",
+        "score": 385,
+        "descendants": 518,
+        "by": "RickJWagner",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49214468,
+        "title": "Managing AI Coding Costs at Scale",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "domain": "databricks.com",
+        "score": 155,
+        "descendants": 158,
+        "by": "moonikakiss",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Databricks分享在企业规模下管理AI辅助编码成本的实践经验与策略。"
+      },
+      {
+        "id": 49217629,
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "domain": "economist.com",
+        "score": 6,
+        "descendants": 1,
+        "by": "reasonableklout",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨是否应将AI实验室视为高风险动物的主人，由其承担潜在的法律与监管责任。"
+      },
+      {
+        "id": 49213029,
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+        "domain": "openai.com",
+        "score": 148,
+        "descendants": 168,
+        "by": "artninja1988",
+        "tags": []
+      },
+      {
+        "id": 49213754,
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "domain": "app.dealroom.co",
+        "score": 371,
+        "descendants": 247,
+        "by": "delduca",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Oracle官方禁止在OpenJDK项目中使用AI生成的代码，以确保开源项目的合规与安全性。"
+      },
+      {
+        "id": 49211921,
+        "title": "An all-sky map of half a million supermassive black holes",
+        "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+        "domain": "sdss.org",
+        "score": 135,
+        "descendants": 35,
+        "by": "MarcoDewey",
+        "tags": [],
+        "summary": "发布了一份详细的天空图谱，记录了约五十万个超大质量黑洞的分布位置。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arcprize.org",
+          "count": 1
+        },
+        {
+          "domain": "genesisopenmodels.anl.gov",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "DeepSeek V4 Flash 0731",
+        "score": 434
+      },
+      "most_discussed": {
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "comments": 518
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News聚焦人工智能发展的多面影响，涵盖模型发布、企业治理规范及行业深层变革。同时，技术界对代码质量与安全标准的关注度显著提升，科学探索类话题也引发了广泛兴趣。"
+  }
+}
