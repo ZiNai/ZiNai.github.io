@@ -153,5 +153,161 @@
       ]
     },
     "summary": "今日Hacker News聚焦人工智能发展的多面影响，涵盖模型发布、企业治理规范及行业深层变革。同时，技术界对代码质量与安全标准的关注度显著提升，科学探索类话题也引发了广泛兴趣。"
+  },
+  "noon": {
+    "time": "2026-08-08 12:44",
+    "stories": [
+      {
+        "id": 49218179,
+        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+        "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+        "domain": "space.com",
+        "score": 102,
+        "descendants": 12,
+        "by": "wglb",
+        "tags": [
+          "Science"
+        ],
+        "summary": "NASA计划让航行48年的旅行者2号探测器继续服役一年，维持其深空科学探索任务。"
+      },
+      {
+        "id": 49217993,
+        "title": "The Nixpkgs core team has disbanded",
+        "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "domain": "discourse.nixos.org",
+        "score": 182,
+        "descendants": 81,
+        "by": "Meleagris",
+        "tags": [],
+        "summary": "Nixpkgs核心团队宣布解散，引发了社区对于该Linux包管理系统未来治理结构的担忧与讨论。"
+      },
+      {
+        "id": 49214008,
+        "title": "DeepSeek V4 Flash 0731",
+        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "domain": "arcprize.org",
+        "score": 527,
+        "descendants": 314,
+        "by": "tosh",
+        "tags": [],
+        "summary": "DeepSeek发布V4 Flash 0731版本，展示了高性能人工智能模型的最新技术进展。"
+      },
+      {
+        "id": 49216946,
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "url": "https://genesisopenmodels.anl.gov/",
+        "domain": "genesisopenmodels.anl.gov",
+        "score": 162,
+        "descendants": 58,
+        "by": "moelf",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美国能源部正式启动Genesis开放模型倡议，致力于推动科学领域AI模型的开源共享。"
+      },
+      {
+        "id": 49189457,
+        "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+        "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+        "domain": "runnersworld.com",
+        "score": 40,
+        "descendants": 4,
+        "by": "aanet",
+        "tags": [],
+        "summary": "一位物理学家通过将仓鼠跑轮接入Strava，记录并分析了宠物仓鼠令人惊叹的夜间运动量。"
+      },
+      {
+        "id": 49214098,
+        "title": "Assembly Hall of Shame",
+        "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "domain": "github.com",
+        "score": 283,
+        "descendants": 68,
+        "by": "piotrgrabowski",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "汇编语言羞耻榜记录了一系列晦涩难懂或写得糟糕的底层代码示例，旨在警示开发者。"
+      },
+      {
+        "id": 49135261,
+        "title": "SupererDuperer",
+        "url": "https://www.shirtpocket.com/blog/supererduperer",
+        "domain": "shirtpocket.com",
+        "score": 63,
+        "descendants": 5,
+        "by": "zdw",
+        "tags": [],
+        "summary": "介绍Mac平台下的经典工具SuperDuper的更新及其在数据备份领域的应用价值。"
+      },
+      {
+        "id": 49214770,
+        "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+        "url": "https://ancientlibrary.net/",
+        "domain": "ancientlibrary.net",
+        "score": 175,
+        "descendants": 56,
+        "by": "aagha",
+        "tags": [],
+        "summary": "一个收录逾千部希腊与拉丁语文献的数字图书馆，支持点击词汇即时解析语法的学习功能。"
+      },
+      {
+        "id": 49209539,
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+        "domain": "noemamag.com",
+        "score": 507,
+        "descendants": 590,
+        "by": "RickJWagner",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨当特定行业的从业者集体对职业失去信心时，会对社会与经济产生怎样的连锁反应。"
+      },
+      {
+        "id": 49214468,
+        "title": "Managing AI Coding Costs at Scale",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "domain": "databricks.com",
+        "score": 195,
+        "descendants": 184,
+        "by": "moonikakiss",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Databricks分享了在大规模应用环境下如何有效控制与优化AI代码生成成本的实践指南。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "space.com",
+          "count": 1
+        },
+        {
+          "domain": "discourse.nixos.org",
+          "count": 1
+        },
+        {
+          "domain": "arcprize.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 224,
+      "max_score": {
+        "title": "DeepSeek V4 Flash 0731",
+        "score": 527
+      },
+      "most_discussed": {
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "comments": 590
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在科技生态的剧变与AI技术的深层影响上，包括开源社区Nixpkgs核心团队解散的震动，以及AI成本管理、开源模型演进与社会就业心理的深度探讨。此外，从太空探测到古典文学数字化的多样议题，反映了技术社区对工程实践、基础设施稳定及数字化转型的高度关注。"
   }
 }
