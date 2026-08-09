@@ -154,5 +154,159 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了技术前沿与基础设施动态。热点主要集中在AI在气象预测领域的突破、大模型生态的安全挑战，以及硬件架构性能与服务器部署方式的持续演进。"
+  },
+  "noon": {
+    "time": "2026-08-09 12:54",
+    "stories": [
+      {
+        "id": 49226636,
+        "title": "My server is a phone now",
+        "url": "https://seg6.space/posts/phone-server/",
+        "domain": "seg6.space",
+        "score": 191,
+        "descendants": 78,
+        "by": "seg6",
+        "tags": [],
+        "summary": "作者分享了将旧手机改造为个人服务器的软硬件实现过程。"
+      },
+      {
+        "id": 49226923,
+        "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+        "url": "https://os8088.com/",
+        "domain": "os8088.com",
+        "score": 97,
+        "descendants": 38,
+        "by": "jggonz",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "为IBM XT及后续经典机型开发的一款类似Mac体验的现代化图形操作系统。"
+      },
+      {
+        "id": 49079995,
+        "title": "Improving Heuristics for A* Pathfinding",
+        "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+        "domain": "redblobgames.com",
+        "score": 132,
+        "descendants": 15,
+        "by": "bobbiechen",
+        "tags": [],
+        "summary": "深入浅出地探讨了如何通过改进启发式函数来提升A*路径搜索算法的效率。"
+      },
+      {
+        "id": 49223082,
+        "title": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "domain": "fastmail.com",
+        "score": 352,
+        "descendants": 176,
+        "by": "groomlake",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Fastmail正式推出欧盟数据中心区域，以满足用户对数据存储合规性的要求。"
+      },
+      {
+        "id": 49226742,
+        "title": "Dithered QR Codes",
+        "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+        "domain": "andrewt.net",
+        "score": 89,
+        "descendants": 13,
+        "by": "jmusall",
+        "tags": [],
+        "summary": "探讨如何利用抖动技术（Dithering）提升QR码的美观度与抗损性。"
+      },
+      {
+        "id": 49226536,
+        "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+        "url": "https://shopify.engineering/scaling-inventory-reservations",
+        "domain": "shopify.engineering",
+        "score": 103,
+        "descendants": 65,
+        "by": "adletbalzhanov",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Shopify技术团队详细复盘了将库存预留系统从Redis迁移至MySQL的技术挑战与扩展性考量。"
+      },
+      {
+        "id": 49228458,
+        "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+        "url": "https://longbets.org/601/",
+        "domain": "longbets.org",
+        "score": 5,
+        "descendants": 1,
+        "by": "doubletwoyou",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇2011年的老文章，讨论数字时代信息链接的生命周期与长期保存挑战。"
+      },
+      {
+        "id": 49149163,
+        "title": "Unexpected events and prosocial behavior: the Batman effect",
+        "url": "https://www.nature.com/articles/s44184-025-00171-5",
+        "domain": "nature.com",
+        "score": 30,
+        "descendants": 1,
+        "by": "davidbarker",
+        "tags": [],
+        "summary": "分析心理学中的“蝙蝠侠效应”，即通过扮演虚构角色来提升个体亲社会行为的研究。"
+      },
+      {
+        "id": 49221668,
+        "title": "_for-sale DNS records",
+        "url": "https://specification.website/spec/foundations/for-sale-dns/",
+        "domain": "specification.website",
+        "score": 369,
+        "descendants": 136,
+        "by": "shaunpud",
+        "tags": [],
+        "summary": "讨论DNS记录中不当的“出售”标签对网络生态及域名解析的影响。"
+      },
+      {
+        "id": 49227652,
+        "title": "Incentives Are for Losers",
+        "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+        "domain": "experimental-history.com",
+        "score": 15,
+        "descendants": 3,
+        "by": "bkudria",
+        "tags": [],
+        "summary": "探讨过度依赖外部激励机制可能对内在动力与长期绩效产生的负面干扰。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "seg6.space",
+          "count": 1
+        },
+        {
+          "domain": "os8088.com",
+          "count": 1
+        },
+        {
+          "domain": "redblobgames.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 138,
+      "max_score": {
+        "title": "_for-sale DNS records",
+        "score": 369
+      },
+      "most_discussed": {
+        "title": "Fastmail offers EU data region",
+        "comments": 176
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News内容涵盖了基础设施架构的深层演进，如Shopify的数据库迁移实践与Fastmail的隐私合规举措。此外，极客硬件探索与算法优化依然是社区关注重点，反映了开发者在追求性能极致与系统灵活性之间的不懈尝试。"
   }
 }
