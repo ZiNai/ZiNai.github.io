@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-08-09 08:46",
+    "stories": [
+      {
+        "id": 49226636,
+        "title": "My server is a phone now",
+        "url": "https://seg6.space/posts/phone-server/",
+        "domain": "seg6.space",
+        "score": 50,
+        "descendants": 21,
+        "by": "seg6",
+        "tags": [],
+        "summary": "作者分享了将闲置智能手机改造为个人服务器的实践经历。"
+      },
+      {
+        "id": 49223082,
+        "title": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "domain": "fastmail.com",
+        "score": 310,
+        "descendants": 140,
+        "by": "groomlake",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Fastmail宣布支持欧盟数据存储区域，以响应用户对数据主权的合规需求。"
+      },
+      {
+        "id": 49079995,
+        "title": "Improving Heuristics for A* Pathfinding",
+        "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+        "domain": "redblobgames.com",
+        "score": 24,
+        "descendants": 4,
+        "by": "bobbiechen",
+        "tags": [],
+        "summary": "深入解析如何通过启发式算法优化A*寻路性能的实用技巧。"
+      },
+      {
+        "id": 49221668,
+        "title": "_for-sale DNS records",
+        "url": "https://specification.website/spec/foundations/for-sale-dns/",
+        "domain": "specification.website",
+        "score": 339,
+        "descendants": 131,
+        "by": "shaunpud",
+        "tags": [],
+        "summary": "探讨了DNS记录被标记为“待售”状态所带来的潜在风险与技术背景。"
+      },
+      {
+        "id": 49225139,
+        "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+        "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+        "domain": "eclipsefan.org",
+        "score": 83,
+        "descendants": 18,
+        "by": "MarcoDewey",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "一个开源交互式地图项目，用于实时追踪2026年8月12日的日全食路径。"
+      },
+      {
+        "id": 49180649,
+        "title": "Making difficulty curves in games",
+        "url": "http://www.davetech.co.uk/difficultycurves",
+        "domain": "davetech.co.uk",
+        "score": 48,
+        "descendants": 11,
+        "by": "hakkikonu",
+        "tags": [],
+        "summary": "从游戏设计角度分析如何科学地构建和平衡难度曲线。"
+      },
+      {
+        "id": 49223079,
+        "title": "Can Intel finally beat ARM on performance per Watt?",
+        "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+        "domain": "hackaday.com",
+        "score": 153,
+        "descendants": 80,
+        "by": "gumby",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "讨论英特尔芯片在能效比方面是否具备与ARM架构抗衡的潜力。"
+      },
+      {
+        "id": 49151146,
+        "title": "DDisasm: Reversible (bi-directional) Disassembler",
+        "url": "https://github.com/GrammaTech/ddisasm",
+        "domain": "github.com",
+        "score": 17,
+        "descendants": 3,
+        "by": "aboardRat4",
+        "tags": [],
+        "summary": "介绍一款支持双向转换的开源反汇编工具DDisasm。"
+      },
+      {
+        "id": 49220126,
+        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "domain": "deepmind.google",
+        "score": 374,
+        "descendants": 114,
+        "by": "bhavansig",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google DeepMind发布WeatherNext模型，在精准预测气旋方面取得重要进展。"
+      },
+      {
+        "id": 49220609,
+        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "domain": "simonwillison.net",
+        "score": 321,
+        "descendants": 332,
+        "by": "882542F3884314B",
+        "tags": [
+          "AI"
+        ],
+        "summary": "梳理OpenAI意外向Hugging Face发起请求攻击的详细时间线与技术复盘。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "seg6.space",
+          "count": 1
+        },
+        {
+          "domain": "fastmail.com",
+          "count": 1
+        },
+        {
+          "domain": "redblobgames.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 172,
+      "max_score": {
+        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "score": 374
+      },
+      "most_discussed": {
+        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+        "comments": 332
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术前沿与基础设施动态。热点主要集中在AI在气象预测领域的突破、大模型生态的安全挑战，以及硬件架构性能与服务器部署方式的持续演进。"
+  }
+}
