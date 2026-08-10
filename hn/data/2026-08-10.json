@@ -151,5 +151,170 @@
       ]
     },
     "summary": "本期 Hacker News 焦点涵盖了 LLM 的学习应用技巧与 AI 治理的社会影响，同时表现出对经典技术文献、硬核数学历史及健康科学的持续关注。整体内容呈现出技术深度与人文生活方式并重的多样化趋势。"
+  },
+  "noon": {
+    "time": "2026-08-10 13:14",
+    "stories": [
+      {
+        "id": 49239021,
+        "title": "Auto mode is now the default in Claude Code",
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "domain": "claude.com",
+        "score": 55,
+        "descendants": 15,
+        "by": "sbehere",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Code现已默认开启自动模式，增强了AI辅助编码的自主性。"
+      },
+      {
+        "id": 49238561,
+        "title": "What Happened to HackerOne?",
+        "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+        "domain": "blog.teknogeek.io",
+        "score": 124,
+        "descendants": 39,
+        "by": "hipparchus",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深度复盘HackerOne的发展历程及其在漏洞赏金市场的现状与变迁。"
+      },
+      {
+        "id": 49239095,
+        "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+        "url": "https://www.nber.org/papers/w35560",
+        "domain": "nber.org",
+        "score": 29,
+        "descendants": 5,
+        "by": "ryzvonusef",
+        "tags": [],
+        "summary": "分析2026年发布的NBER研究报告，探讨H-1B签证移民对美国经济的长期影响。"
+      },
+      {
+        "id": 49238851,
+        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "url": "https://www.whodunnitai.com/",
+        "domain": "whodunnitai.com",
+        "score": 23,
+        "descendants": 2,
+        "by": "MrRowTheBoat",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一款支持语音交互的AI悬疑游戏，玩家需通过对话审讯AI嫌疑人以推进剧情。"
+      },
+      {
+        "id": 49234675,
+        "title": "How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "domain": "laurentiugabriel.github.io",
+        "score": 527,
+        "descendants": 300,
+        "by": "laurentiurad",
+        "tags": [
+          "AI"
+        ],
+        "summary": "经验分享：如何系统性地利用大语言模型作为导师来攻克复杂领域知识。"
+      },
+      {
+        "id": 49238818,
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "url": "https://github.com/shinyquagsire23/Klepton",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 0,
+        "by": "LorenDB",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "开源项目演示了如何在Apple Vision Pro上运行Android ARM64架构的VR应用。"
+      },
+      {
+        "id": 49238735,
+        "title": "Turn satellite imagery into a paper globe you fold yourself",
+        "url": "https://foldingglobes.com/",
+        "domain": "foldingglobes.com",
+        "score": 22,
+        "descendants": 4,
+        "by": "dango2506",
+        "tags": [
+          "Science"
+        ],
+        "summary": "基于卫星图像生成的趣味手工项目，将地理数据转化为可折叠的纸质地球仪。"
+      },
+      {
+        "id": 49238050,
+        "title": "How We Pushed CDC into Postgres",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+        "domain": "snowflake.com",
+        "score": 59,
+        "descendants": 6,
+        "by": "craigkerstiens",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Snowflake分享了其技术团队将CDC（变更数据捕获）迁移至PostgreSQL的工程实践。"
+      },
+      {
+        "id": 49232253,
+        "title": "Taxi drivers rarely die of Alzheimer's",
+        "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+        "domain": "theconversation.com",
+        "score": 230,
+        "descendants": 173,
+        "by": "jader201",
+        "tags": [],
+        "summary": "探讨职业活动与认知健康之间的关联，分析为何出租车司机群体较少罹患阿尔茨海默病。"
+      },
+      {
+        "id": 49233423,
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49233423",
+        "domain": "news.ycombinator.com",
+        "score": 210,
+        "descendants": 744,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News每月例行的社区交流贴，开发者在此分享当前的个人项目与进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "claude.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.teknogeek.io",
+          "count": 1
+        },
+        {
+          "domain": "nber.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 130,
+      "max_score": {
+        "title": "How I use LLMs to learn complex topics",
+        "score": 527
+      },
+      "most_discussed": {
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "comments": 744
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Show HN",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News涵盖了AI工具进化的深度应用与实践，以及社会科学与健康领域的跨学科研究。技术讨论集中在Claude Code的自动化更新、LLM学习辅助以及数据库架构优化，同时也关注了移民经济影响与认知健康等前沿话题。"
   }
 }
