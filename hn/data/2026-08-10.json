@@ -316,5 +316,166 @@
       ]
     },
     "summary": "今日Hacker News涵盖了AI工具进化的深度应用与实践，以及社会科学与健康领域的跨学科研究。技术讨论集中在Claude Code的自动化更新、LLM学习辅助以及数据库架构优化，同时也关注了移民经济影响与认知健康等前沿话题。"
+  },
+  "evening": {
+    "time": "2026-08-10 20:56",
+    "stories": [
+      {
+        "id": 49241679,
+        "title": "Meta Muse Glimmer – open weights 30B local coding model",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "domain": "research.meta.ai",
+        "score": 279,
+        "descendants": 107,
+        "by": "riordan",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Meta发布了名为Muse Glimmer的30B参数开源代码生成模型，旨在提升本地AI开发能力。"
+      },
+      {
+        "id": 49242245,
+        "title": "Because It's Not Fun Enough: why languages fail",
+        "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+        "domain": "bytecode.news",
+        "score": 43,
+        "descendants": 20,
+        "by": "jottinger",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨编程语言如何因缺乏趣味性或设计缺陷而在市场竞争中趋于失败。"
+      },
+      {
+        "id": 49239751,
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "url": "https://www.docker.com/products/docker-sandboxes/",
+        "domain": "docker.com",
+        "score": 322,
+        "descendants": 185,
+        "by": "etoxin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Docker推出专为AI Agent设计的隔离沙盒环境，提升自动任务执行的安全性与可控性。"
+      },
+      {
+        "id": 49242297,
+        "title": "Tail-call optimization in C is relatively recent",
+        "url": "https://lwn.net/Articles/1034703/",
+        "domain": "lwn.net",
+        "score": 28,
+        "descendants": 12,
+        "by": "prakashqwerty",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾C语言中尾调用优化（TCO）技术的引入背景及其相对滞后的实现时间。"
+      },
+      {
+        "id": 49242653,
+        "title": "Squeak/Smalltalk 6.1 Release Notes",
+        "url": "https://squeak.org/release_notes/6.1/",
+        "domain": "squeak.org",
+        "score": 8,
+        "descendants": 0,
+        "by": "fniephaus",
+        "tags": [],
+        "summary": "经典的Squeak/Smalltalk环境发布6.1版本，记录了最新的功能改进与修复。"
+      },
+      {
+        "id": 49238561,
+        "title": "What Happened to HackerOne?",
+        "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+        "domain": "blog.teknogeek.io",
+        "score": 281,
+        "descendants": 142,
+        "by": "hipparchus",
+        "tags": [
+          "Security"
+        ],
+        "summary": "开源项目展示了如何在Apple Vision Pro上运行ARM64架构的Android VR应用。"
+      },
+      {
+        "id": 49241846,
+        "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+        "url": "https://ethw.org/Milestones:Parametron,_1954",
+        "domain": "ethw.org",
+        "score": 15,
+        "descendants": 1,
+        "by": "xeonmc",
+        "tags": [],
+        "summary": "介绍一种20世纪50年代无需晶体管或电子管，利用磁性开关原理构建的日本早期计算机。"
+      },
+      {
+        "id": 49242213,
+        "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
+        "url": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+        "domain": "irishtimes.com",
+        "score": 46,
+        "descendants": 38,
+        "by": "ohaodha",
+        "tags": [],
+        "summary": "一起涉及5000本生僻书籍的神秘订单引发了市场对商业欺诈或书目操纵的猜疑。"
+      },
+      {
+        "id": 49238818,
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "url": "https://github.com/shinyquagsire23/Klepton",
+        "domain": "github.com",
+        "score": 114,
+        "descendants": 16,
+        "by": "LorenDB",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49209132,
+        "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+        "url": "https://lordgoati.us/blog/tail-call/",
+        "domain": "lordgoati.us",
+        "score": 45,
+        "descendants": 15,
+        "by": "amatheus",
+        "tags": [
+          "AI",
+          "Rust"
+        ],
+        "summary": "探讨如何利用Rust语言实现高效的尾调用解释器，提升代码执行效率与栈空间管理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "research.meta.ai",
+          "count": 1
+        },
+        {
+          "domain": "bytecode.news",
+          "count": 1
+        },
+        {
+          "domain": "docker.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 118,
+      "max_score": {
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "score": 322
+      },
+      "most_discussed": {
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "comments": 185
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI工具的深度应用与开发，包括Meta发布的编码模型及针对AI代理的沙盒方案。同时，技术社区对计算机架构史、编程语言特性以及行业安全趋势保持着浓厚兴趣。"
   }
 }
