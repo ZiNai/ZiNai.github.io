@@ -164,5 +164,169 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于大模型领域的快速迭代，尤其是 Meta 对开源模型策略的推动以及针对边缘侧轻量化推理的创新。同时，技术社区对开源文化历史与硬件底层计算表现出持续兴趣，展现了从前沿 AI 进展到工程底层实践的多维关注。"
+  },
+  "noon": {
+    "time": "2026-08-11 12:56",
+    "stories": [
+      {
+        "id": 49252179,
+        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+        "url": "https://github.com/antirez/h3.c",
+        "domain": "github.com",
+        "score": 119,
+        "descendants": 14,
+        "by": "swyx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对Apple Silicon架构优化的MiniMax-H3本地推理引擎，旨在提升端侧高性能AI计算能力。"
+      },
+      {
+        "id": 49251702,
+        "title": "Chicken Scheme 6.0",
+        "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "domain": "code.call-cc.org",
+        "score": 107,
+        "descendants": 13,
+        "by": "eatonphil",
+        "tags": [],
+        "summary": "Chicken Scheme 6.0发布，标志着这一以编译为中心的高性能Scheme实现的重要版本迭代。"
+      },
+      {
+        "id": 49251179,
+        "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+        "url": "https://everycube.alen.is/",
+        "domain": "everycube.alen.is",
+        "score": 129,
+        "descendants": 29,
+        "by": "Alen123",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个极具趣味性的交互项目，允许用户浏览魔方所有约4320京种可能的排列状态。"
+      },
+      {
+        "id": 49252462,
+        "title": "Recycle – Floppydisks",
+        "url": "https://www.floppydisk.com/recycle",
+        "domain": "floppydisk.com",
+        "score": 33,
+        "descendants": 8,
+        "by": "calvinmorrison",
+        "tags": [],
+        "summary": "探讨废旧软盘的回收利用与数字存储介质的历史遗留问题。"
+      },
+      {
+        "id": 49184220,
+        "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+        "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+        "domain": "resobscura.substack.com",
+        "score": 86,
+        "descendants": 32,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾马克·吐温投资机械排字机失败的往事，解析这一“机械奇迹”如何导致其破产。"
+      },
+      {
+        "id": 49246804,
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "domain": "cactuscompute.com",
+        "score": 239,
+        "descendants": 97,
+        "by": "HenryNdubuaku",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一款仅需14MB的智能体LLM，专为手机、可穿戴设备及机器人等边缘计算环境设计。"
+      },
+      {
+        "id": 49252493,
+        "title": "Hyperspace",
+        "url": "https://hypercritical.co/hyperspace/",
+        "domain": "hypercritical.co",
+        "score": 30,
+        "descendants": 17,
+        "by": "swyx",
+        "tags": [
+          "Science"
+        ],
+        "summary": "关于超空间技术及其在计算或物理领域潜在应用的讨论。"
+      },
+      {
+        "id": 49243880,
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "domain": "ft.com",
+        "score": 432,
+        "descendants": 416,
+        "by": "root-parent",
+        "tags": [
+          "AI"
+        ],
+        "summary": "扎克伯格公开抨击封闭式AI模型，重申Meta坚持开源策略的商业与技术立场。"
+      },
+      {
+        "id": 49247477,
+        "title": "Rust SIMD on the GPU",
+        "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+        "domain": "vectorware.com",
+        "score": 157,
+        "descendants": 71,
+        "by": "sagacity",
+        "tags": [
+          "Rust",
+          "Hardware"
+        ],
+        "summary": "深入探讨如何在GPU上利用Rust语言实现高效的SIMD（单指令多数据）计算。"
+      },
+      {
+        "id": 49209918,
+        "title": "Stowaway – Take the window seat on any plane or satellite overhead",
+        "url": "https://stowaway.live/",
+        "domain": "stowaway.live",
+        "score": 184,
+        "descendants": 18,
+        "by": "thunderbong",
+        "tags": [],
+        "summary": "利用实时数据追踪飞机和卫星轨道，让用户在网页端体验“占座”视角。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "code.call-cc.org",
+          "count": 1
+        },
+        {
+          "domain": "everycube.alen.is",
+          "count": 1
+        }
+      ],
+      "avg_score": 152,
+      "max_score": {
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "score": 432
+      },
+      "most_discussed": {
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "comments": 416
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Science",
+        "Rust",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI前沿技术与硬核计算领域，既有关于本地化高效AI模型（如H3-metal、Needle2）的突破，也有围绕Meta开源AI战略的行业争议。此外，科技社区展现出对算法优化、复古计算及独特交互可视化项目的浓厚兴趣。"
   }
 }
