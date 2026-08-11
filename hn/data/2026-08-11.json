@@ -328,5 +328,169 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI前沿技术与硬核计算领域，既有关于本地化高效AI模型（如H3-metal、Needle2）的突破，也有围绕Meta开源AI战略的行业争议。此外，科技社区展现出对算法优化、复古计算及独特交互可视化项目的浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-08-11 20:53",
+    "stories": [
+      {
+        "id": 49254880,
+        "title": "France to ban unsolicited telemarketing calls",
+        "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+        "domain": "lemonde.fr",
+        "score": 462,
+        "descendants": 280,
+        "by": "aziaziazi",
+        "tags": [],
+        "summary": "法国政府计划采取强力措施，全面禁止未经允许的电话营销行为。"
+      },
+      {
+        "id": 49252179,
+        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+        "url": "https://github.com/antirez/h3.c",
+        "domain": "github.com",
+        "score": 323,
+        "descendants": 71,
+        "by": "swyx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个支持在苹果芯片上进行本地化MiniMax-H3推理的开源项目。"
+      },
+      {
+        "id": 49250836,
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "url": "https://thewalrus.ca/google-search-is-dying/",
+        "domain": "thewalrus.ca",
+        "score": 435,
+        "descendants": 517,
+        "by": "awnird",
+        "tags": [
+          "AI",
+          "Web",
+          "Systems"
+        ],
+        "summary": "文章探讨了AI对互联网内容的重塑如何导致人类集体记忆的逐渐流失。"
+      },
+      {
+        "id": 49251702,
+        "title": "Chicken Scheme 6.0",
+        "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "domain": "code.call-cc.org",
+        "score": 223,
+        "descendants": 30,
+        "by": "eatonphil",
+        "tags": [],
+        "summary": "Chicken Scheme编程语言发布6.0大版本更新。"
+      },
+      {
+        "id": 49246804,
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "domain": "cactuscompute.com",
+        "score": 385,
+        "descendants": 141,
+        "by": "HenryNdubuaku",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一款仅14MB大小的智能体LLM，专为手机、可穿戴设备及机器人环境设计。"
+      },
+      {
+        "id": 49173107,
+        "title": "LFM2.5 2.6B model competitive with 4x larger models",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "domain": "huggingface.co",
+        "score": 99,
+        "descendants": 26,
+        "by": "nateb2022",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍LFM2.5 2.6B模型，在紧凑参数下实现了媲美数倍规模模型的竞争力。"
+      },
+      {
+        "id": 49243880,
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "domain": "ft.com",
+        "score": 547,
+        "descendants": 501,
+        "by": "root-parent",
+        "tags": [
+          "AI"
+        ],
+        "summary": "扎克伯格公开抨击封闭AI模式，强调Meta将持续推进开源AI技术路线。"
+      },
+      {
+        "id": 49251179,
+        "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+        "url": "https://everycube.alen.is/",
+        "domain": "everycube.alen.is",
+        "score": 221,
+        "descendants": 77,
+        "by": "Alen123",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个交互式项目，允许用户浏览并探索魔方所有四百多亿亿种可能的状态。"
+      },
+      {
+        "id": 49184220,
+        "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+        "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+        "domain": "resobscura.substack.com",
+        "score": 158,
+        "descendants": 82,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾了马克·吐温因投资一项所谓“机械奇迹”发明而导致破产的悲剧往事。"
+      },
+      {
+        "id": 49254881,
+        "title": "Closing Canario Terminal source code",
+        "url": "https://rapha.land/closing-canario-terminal-source-code/",
+        "domain": "rapha.land",
+        "score": 19,
+        "descendants": 25,
+        "by": "atan2",
+        "tags": [],
+        "summary": "开发者宣布将关闭Canario终端工具的源代码。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lemonde.fr",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "thewalrus.ca",
+          "count": 1
+        }
+      ],
+      "avg_score": 287,
+      "max_score": {
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "score": 547
+      },
+      "most_discussed": {
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "comments": 517
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在人工智能技术的快速演进，从大模型端侧部署的创新到行业巨头关于开源与闭源生态的激烈争论。同时，互联网信息留存与技术工具的开发应用也引发了社区的广泛探讨。"
   }
 }
