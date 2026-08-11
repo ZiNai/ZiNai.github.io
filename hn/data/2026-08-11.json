@@ -1,0 +1,168 @@
+{
+  "morning": {
+    "time": "2026-08-11 08:48",
+    "stories": [
+      {
+        "id": 49251411,
+        "title": "The UK's War on Anonymity Has Come to America",
+        "url": "https://www.effort.news/uk-lobby",
+        "domain": "effort.news",
+        "score": 52,
+        "descendants": 7,
+        "by": "slowin",
+        "tags": [],
+        "summary": "讨论英国对匿名性的限制政策及其对美国可能产生的连带影响。"
+      },
+      {
+        "id": 49241679,
+        "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "domain": "research.meta.ai",
+        "score": 1020,
+        "descendants": 570,
+        "by": "riordan",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Meta 发布 30B 参数的 Muse Glimmer 模型，旨在提供高性能的本地智能代理体验。"
+      },
+      {
+        "id": 49246804,
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "domain": "cactuscompute.com",
+        "score": 143,
+        "descendants": 68,
+        "by": "HenryNdubuaku",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "介绍一款专门为手机、可穿戴设备等端侧硬件设计的 14MB 超轻量级智能代理模型。"
+      },
+      {
+        "id": 49251179,
+        "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+        "url": "https://everycube.alen.is/",
+        "domain": "everycube.alen.is",
+        "score": 26,
+        "descendants": 2,
+        "by": "Alen123",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个可以通过网页浏览所有 4325 亿亿种魔方状态的交互式项目。"
+      },
+      {
+        "id": 49243880,
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "domain": "ft.com",
+        "score": 350,
+        "descendants": 367,
+        "by": "root-parent",
+        "tags": [
+          "AI"
+        ],
+        "summary": "扎克伯格公开抨击封闭式 AI 开发模式，强调 Meta 坚持开源路径的战略选择。"
+      },
+      {
+        "id": 49184220,
+        "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+        "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+        "domain": "resobscura.substack.com",
+        "score": 19,
+        "descendants": 4,
+        "by": "benbreen",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾马克·吐温因投资自动排字机这一“机械奇迹”而导致破产的往事。"
+      },
+      {
+        "id": 49212449,
+        "title": "Publishing Schematics Before “Open Source” Was a Word",
+        "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+        "domain": "fabscene.medium.com",
+        "score": 59,
+        "descendants": 14,
+        "by": "extralongdivisi",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "探讨在开源运动定义明确之前，工程师分享硬件原理图的早期技术传统。"
+      },
+      {
+        "id": 49208296,
+        "title": "Sonic Pi v5",
+        "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+        "domain": "patreon.com",
+        "score": 300,
+        "descendants": 76,
+        "by": "samaaron",
+        "tags": [],
+        "summary": "基于代码的音乐表演与创作工具 Sonic Pi 发布 v5 版本。"
+      },
+      {
+        "id": 49247477,
+        "title": "Rust SIMD on the GPU",
+        "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+        "domain": "vectorware.com",
+        "score": 117,
+        "descendants": 58,
+        "by": "sagacity",
+        "tags": [
+          "Rust",
+          "Hardware"
+        ],
+        "summary": "探讨如何利用 Rust 语言实现 GPU 上的 SIMD 并行计算优化。"
+      },
+      {
+        "id": 49249555,
+        "title": "Confessions of a Long-Distance Sailor",
+        "url": "https://arachnoid.com/lutusp/sailbook.html",
+        "domain": "arachnoid.com",
+        "score": 54,
+        "descendants": 10,
+        "by": "AntiRush",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享长途航海经历中的感悟与实操心得。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "effort.news",
+          "count": 1
+        },
+        {
+          "domain": "research.meta.ai",
+          "count": 1
+        },
+        {
+          "domain": "cactuscompute.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 214,
+      "max_score": {
+        "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+        "score": 1020
+      },
+      "most_discussed": {
+        "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+        "comments": 570
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Rust",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于大模型领域的快速迭代，尤其是 Meta 对开源模型策略的推动以及针对边缘侧轻量化推理的创新。同时，技术社区对开源文化历史与硬件底层计算表现出持续兴趣，展现了从前沿 AI 进展到工程底层实践的多维关注。"
+  }
+}
