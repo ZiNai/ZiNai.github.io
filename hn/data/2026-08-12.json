@@ -294,5 +294,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于人工智能领域的前沿进展，涵盖模型架构创新、伦理争议及安全隐患。此外，编程语言 Mojo 的正式发布和技术深度的探讨，显示了社区对高性能计算与系统底层技术的持续关注。"
+  },
+  "evening": {
+    "time": "2026-08-12 20:57",
+    "stories": [
+      {
+        "id": 49270953,
+        "title": "2026 Eclipse Webcams",
+        "url": "https://jonty.github.io/2026_eclipse_webcams/",
+        "domain": "jonty.github.io",
+        "score": 87,
+        "descendants": 22,
+        "by": "zoenolan",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个收集并展示2026年日全食观测Webcam的实时地图项目。"
+      },
+      {
+        "id": 49270022,
+        "title": "What sort of maths are LLMs good at?",
+        "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+        "domain": "gowers.wordpress.com",
+        "score": 118,
+        "descendants": 51,
+        "by": "ColinWright",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数学家Timothy Gowers深入探讨了大型语言模型在处理数学问题时的实际边界与局限。"
+      },
+      {
+        "id": 49270040,
+        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+        "url": "https://woxi.ad-si.com",
+        "domain": "woxi.ad-si.com",
+        "score": 106,
+        "descendants": 4,
+        "by": "adius",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "一个旨在完全重构并开源Mathematica/Wolfram语言的开发项目。"
+      },
+      {
+        "id": 49268564,
+        "title": "LinkedIn CringeBot 3000",
+        "url": "https://www.cringebot3000.com/",
+        "domain": "cringebot3000.com",
+        "score": 344,
+        "descendants": 137,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "一款旨在揭露并讽刺LinkedIn平台上虚假励志内容的自动化机器人工具。"
+      },
+      {
+        "id": 49270621,
+        "title": "Delphi 13 Community Edition Is Now Available",
+        "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+        "domain": "blogs.embarcadero.com",
+        "score": 29,
+        "descendants": 19,
+        "by": "layer8",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Embarcadero宣布推出Delphi 13社区版，提供给开发者免费使用。"
+      },
+      {
+        "id": 49194856,
+        "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+        "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+        "domain": "petapixel.com",
+        "score": 47,
+        "descendants": 4,
+        "by": "bookofjoe",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一张高分辨率照片展示了火星上由沉积物覆盖的独特地貌特征。"
+      },
+      {
+        "id": 49269818,
+        "title": "Facebook is paying controversial creators to produce rage-bait content",
+        "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+        "domain": "abc.net.au",
+        "score": 244,
+        "descendants": 133,
+        "by": "robtherobber",
+        "tags": [
+          "AI"
+        ],
+        "summary": "调查指出Facebook正通过付费激励创作者生产制造对立的“愤怒诱饵”内容以赚取流量。"
+      },
+      {
+        "id": 49271126,
+        "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+        "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+        "domain": "neowin.net",
+        "score": 51,
+        "descendants": 15,
+        "by": "bundie",
+        "tags": [],
+        "summary": "Facebook广告拦截机制的演进使得uBlock Origin等传统过滤方案逐渐失效。"
+      },
+      {
+        "id": 49201953,
+        "title": "The hardest working font in Manhattan (2025)",
+        "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+        "domain": "aresluna.org",
+        "score": 264,
+        "descendants": 40,
+        "by": "dcminter",
+        "tags": [],
+        "summary": "探究曼哈顿公共空间中最常见且被广泛使用的标志性字体及其历史背景。"
+      },
+      {
+        "id": 49263497,
+        "title": "Compression is prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "domain": "ngrok.com",
+        "score": 586,
+        "descendants": 241,
+        "by": "nikolay",
+        "tags": [],
+        "summary": "Ngrok技术团队通过压缩算法的底层逻辑，深入浅出地解释了预测与信息熵之间的深刻联系。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jonty.github.io",
+          "count": 1
+        },
+        {
+          "domain": "gowers.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "woxi.ad-si.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 188,
+      "max_score": {
+        "title": "Compression is prediction",
+        "score": 586
+      },
+      "most_discussed": {
+        "title": "Compression is prediction",
+        "comments": 241
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于人工智能的技术深度与社会影响，从LLM的数学能力及压缩理论探讨到社交媒体算法带来的负面社会现象。此外，科技社区对开源替代品、经典开发工具的更新以及独特字体文化表现出了持续的关注。"
   }
 }
