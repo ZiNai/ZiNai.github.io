@@ -144,5 +144,155 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-08-12 13:22",
+    "stories": [
+      {
+        "id": 49263497,
+        "title": "Compression is prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "domain": "ngrok.com",
+        "score": 395,
+        "descendants": 156,
+        "by": "nikolay",
+        "tags": [],
+        "summary": "探讨压缩算法与预测模型之间的数学内在联系，论证压缩即预测的理论框架。"
+      },
+      {
+        "id": 49201953,
+        "title": "The hardest working font in Manhattan (2025)",
+        "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+        "domain": "aresluna.org",
+        "score": 85,
+        "descendants": 13,
+        "by": "dcminter",
+        "tags": [],
+        "summary": "深入介绍曼哈顿公共建筑和标识系统中广泛使用的经典字体及其背后的文化影响。"
+      },
+      {
+        "id": 49266921,
+        "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+        "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+        "domain": "whdh.com",
+        "score": 46,
+        "descendants": 12,
+        "by": "andsoitis",
+        "tags": []
+      },
+      {
+        "id": 49265051,
+        "title": "WorldClaw Agentic 3D open-world generation at scale",
+        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+        "domain": "tencent-hunyuan.github.io",
+        "score": 175,
+        "descendants": 53,
+        "by": "EwanG",
+        "tags": [],
+        "summary": "腾讯展示了其 Agentic 3D 生成技术，旨在实现大规模开放世界内容的自动化构建。"
+      },
+      {
+        "id": 49263340,
+        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "domain": "blogs.nvidia.com",
+        "score": 203,
+        "descendants": 108,
+        "by": "droidjj",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "英伟达推出 Nemotron 3.5 Lightning 模型及 NeMo Switchyard 框架，旨在提升多模型推理的效率与调度能力。"
+      },
+      {
+        "id": 49257876,
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://stolen-thoughts.com/",
+        "domain": "stolen-thoughts.com",
+        "score": 566,
+        "descendants": 248,
+        "by": "quantumgarbage",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一项研究展示了如何通过分析推理迹（Reasoning Traces）从闭源 LLM API 中提取逻辑模式或隐私信息。"
+      },
+      {
+        "id": 49261128,
+        "title": "Mojo 1.0",
+        "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "domain": "modular.com",
+        "score": 341,
+        "descendants": 161,
+        "by": "dayanruben",
+        "tags": [],
+        "summary": "编程语言 Mojo 正式发布 1.0 版本，标志着其在弥合 Python 与高性能系统编程之间鸿沟的努力进入新阶段。"
+      },
+      {
+        "id": 49267818,
+        "title": "Dropbox, loved by the masses, a shareholder dead end",
+        "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+        "domain": "s-1.vercel.app",
+        "score": 5,
+        "descendants": 0,
+        "by": "Taikhoom10",
+        "tags": [],
+        "summary": "深入分析 Dropbox 虽然拥有庞大用户群体，但在资本市场面临长期增长停滞的困境。"
+      },
+      {
+        "id": 49267108,
+        "title": "The Human Is the Loop",
+        "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+        "domain": "brentfitzgerald.com",
+        "score": 34,
+        "descendants": 8,
+        "by": "burnto",
+        "tags": [],
+        "summary": "探讨在自动化 AI 时代，如何重新定义人类在工作流程中的核心参与价值。"
+      },
+      {
+        "id": 49257160,
+        "title": "OpenAI’s head of ethics leaves less than a year after joining",
+        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+        "domain": "ft.com",
+        "score": 355,
+        "descendants": 369,
+        "by": "ilamont",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道 OpenAI 伦理主管在入职不足一年后离职，引发外界对公司内部安全与治理重心转变的猜测。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ngrok.com",
+          "count": 1
+        },
+        {
+          "domain": "aresluna.org",
+          "count": 1
+        },
+        {
+          "domain": "whdh.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 220,
+      "max_score": {
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "score": 566
+      },
+      "most_discussed": {
+        "title": "OpenAI’s head of ethics leaves less than a year after joining",
+        "comments": 369
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能领域的前沿进展，涵盖模型架构创新、伦理争议及安全隐患。此外，编程语言 Mojo 的正式发布和技术深度的探讨，显示了社区对高性能计算与系统底层技术的持续关注。"
   }
 }
