@@ -1,0 +1,148 @@
+{
+  "morning": {
+    "time": "2026-08-12 08:55",
+    "stories": [
+      {
+        "id": 49265051,
+        "title": "WorldClaw Agentic 3D open-world generation at scale",
+        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+        "domain": "tencent-hunyuan.github.io",
+        "score": 103,
+        "descendants": 36,
+        "by": "EwanG",
+        "tags": []
+      },
+      {
+        "id": 49266277,
+        "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+        "domain": "cftc.gov",
+        "score": 32,
+        "descendants": 4,
+        "by": "michaefe",
+        "tags": []
+      },
+      {
+        "id": 49263340,
+        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "domain": "blogs.nvidia.com",
+        "score": 171,
+        "descendants": 86,
+        "by": "droidjj",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49263497,
+        "title": "Compression is prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "domain": "ngrok.com",
+        "score": 226,
+        "descendants": 100,
+        "by": "nikolay",
+        "tags": []
+      },
+      {
+        "id": 49261128,
+        "title": "Mojo 1.0",
+        "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "domain": "modular.com",
+        "score": 275,
+        "descendants": 126,
+        "by": "dayanruben",
+        "tags": []
+      },
+      {
+        "id": 49257876,
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://stolen-thoughts.com/",
+        "domain": "stolen-thoughts.com",
+        "score": 479,
+        "descendants": 201,
+        "by": "quantumgarbage",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49257160,
+        "title": "OpenAI’s head of ethics leaves less than a year after joining",
+        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+        "domain": "ft.com",
+        "score": 266,
+        "descendants": 336,
+        "by": "ilamont",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49262811,
+        "title": "Making holograms with a pen plotter",
+        "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+        "domain": "blog.jordan.matelsky.com",
+        "score": 107,
+        "descendants": 11,
+        "by": "DemiGuru",
+        "tags": []
+      },
+      {
+        "id": 49226623,
+        "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+        "url": "https://photosynthesis.camera",
+        "domain": "photosynthesis.camera",
+        "score": 196,
+        "descendants": 199,
+        "by": "sajomes",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49261133,
+        "title": "Go is an ideal language for AI-assisted software engineering",
+        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "domain": "developers.googleblog.com",
+        "score": 250,
+        "descendants": 297,
+        "by": "0xedb",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "tencent-hunyuan.github.io",
+          "count": 1
+        },
+        {
+          "domain": "cftc.gov",
+          "count": 1
+        },
+        {
+          "domain": "blogs.nvidia.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 210,
+      "max_score": {
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "score": 479
+      },
+      "most_discussed": {
+        "title": "OpenAI’s head of ethics leaves less than a year after joining",
+        "comments": 336
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": ""
+  }
+}
