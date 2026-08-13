@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-08-13 08:57",
+    "stories": [
+      {
+        "id": 49274600,
+        "title": "DeepSeek V4 Pro 0813",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "domain": "openrouter.ai",
+        "score": 720,
+        "descendants": 270,
+        "by": "explosion-s",
+        "tags": [],
+        "summary": "DeepSeek V4 Pro 0813版本发布，引发关于高性能AI模型及API生态的激烈讨论。"
+      },
+      {
+        "id": 49276574,
+        "title": "Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "domain": "zed.dev",
+        "score": 373,
+        "descendants": 121,
+        "by": "khy",
+        "tags": [],
+        "summary": "Zed编辑器发布Delta更新，持续优化开发者的编码体验与性能表现。"
+      },
+      {
+        "id": 49272832,
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "domain": "tailscale.com",
+        "score": 779,
+        "descendants": 138,
+        "by": "ropbear",
+        "tags": [
+          "AI",
+          "Database"
+        ],
+        "summary": "Tailscale团队详细复盘并诊断了一项深藏16年的SQLite WAL重置错误引发的数据损坏问题。"
+      },
+      {
+        "id": 49280103,
+        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+        "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+        "domain": "sharktastica.co.uk",
+        "score": 17,
+        "descendants": 1,
+        "by": "tart-lemonade",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾IBM PC及其标志性Model F/XT键盘诞生45周年，纪念计算历史中的重要里程碑。"
+      },
+      {
+        "id": 49280061,
+        "title": "What's New in Flutter 3.47",
+        "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+        "domain": "flutter.dev",
+        "score": 22,
+        "descendants": 11,
+        "by": "gumby271",
+        "tags": [],
+        "summary": "Flutter 3.47版本正式发布，介绍了框架的最新功能改进与性能优化。"
+      },
+      {
+        "id": 49273478,
+        "title": "Qwen3.8-2.4T",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "domain": "huggingface.co",
+        "score": 481,
+        "descendants": 102,
+        "by": "Philpax",
+        "tags": [],
+        "summary": "Qwen3.8-2.4T大模型在Hugging Face上线，进一步拓展了超大规模语言模型的能力边界。"
+      },
+      {
+        "id": 49279928,
+        "title": "Principia Mathematica is modern and insightful",
+        "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+        "domain": "okmij.org",
+        "score": 22,
+        "descendants": 2,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "从现代视角重新审视《数学原理》，探讨其对当代计算机科学与逻辑研究的启发。"
+      },
+      {
+        "id": 49280184,
+        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+        "url": "https://www.ballet.dev/",
+        "domain": "ballet.dev",
+        "score": 11,
+        "descendants": 1,
+        "by": "danielkimber",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "Show HN展示：Ballet是一款旨在通过自动化工作流快速编写任意API集成代码的工具。"
+      },
+      {
+        "id": 49269429,
+        "title": "Why Target Common Lisp for Code Generation?",
+        "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+        "domain": "funcall.blogspot.com",
+        "score": 22,
+        "descendants": 18,
+        "by": "oumua_don17",
+        "tags": [],
+        "summary": "探讨将Common Lisp作为代码生成目标语言的独特优势及应用逻辑。"
+      },
+      {
+        "id": 49270953,
+        "title": "2026 Eclipse Webcams",
+        "url": "https://jonty.github.io/2026_eclipse_webcams/",
+        "domain": "jonty.github.io",
+        "score": 457,
+        "descendants": 124,
+        "by": "zoenolan",
+        "tags": [
+          "Web"
+        ],
+        "summary": "汇总2026年日全食的全球网络摄像头观测点，为天文爱好者提供实时观测指南。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openrouter.ai",
+          "count": 1
+        },
+        {
+          "domain": "zed.dev",
+          "count": 1
+        },
+        {
+          "domain": "tailscale.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 290,
+      "max_score": {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "score": 779
+      },
+      "most_discussed": {
+        "title": "DeepSeek V4 Pro 0813",
+        "comments": 270
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Show HN",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI模型与底层基础设施的动态，DeepSeek V4 Pro与Qwen3.8作为新模型引发了广泛讨论。此外，Tailscale针对SQLite长期Bug的深入分析展现了工程深度，而Web技术更新及复古计算技术也占据了社区的一席之地。"
+  }
+}
