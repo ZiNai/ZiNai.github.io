@@ -308,5 +308,145 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI模型与开源技术的最新进展，DeepSeek与Qwen发布了极具竞争力的新模型，引发广泛讨论。同时，技术圈对底层基础设施的深层故障排查（如SQLite漏洞）及古典计算历史保持高度关注，体现了对工程细节的严谨追求。"
+  },
+  "evening": {
+    "time": "2026-08-13 20:58",
+    "stories": [
+      {
+        "id": 49284774,
+        "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+        "domain": "tradersunion.com",
+        "score": 88,
+        "descendants": 47,
+        "by": "Markoff",
+        "tags": [],
+        "summary": "德意志银行获准成为欧洲首家人民币清算行，标志着欧洲金融基础设施的进一步开放。"
+      },
+      {
+        "id": 49281916,
+        "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+        "url": "https://openai.com/codex/",
+        "domain": "openai.com",
+        "score": 251,
+        "descendants": 166,
+        "by": "allanrbo",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Linux 用户期待已久的 ChatGPT 桌面客户端现已推出，提供更便捷的系统级 AI 交互支持。"
+      },
+      {
+        "id": 49243687,
+        "title": "The lattice of sets of natural numbers is rich",
+        "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+        "domain": "jdh.hamkins.org",
+        "score": 55,
+        "descendants": 8,
+        "by": "benmandrew",
+        "tags": [],
+        "summary": "探讨自然数集合格理论的丰富性，深入分析数学逻辑中的深层结构。"
+      },
+      {
+        "id": 49274600,
+        "title": "DeepSeek V4 Pro 0813",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "domain": "openrouter.ai",
+        "score": 972,
+        "descendants": 419,
+        "by": "explosion-s",
+        "tags": [],
+        "summary": "DeepSeek V4 Pro 0813 模型发布，刷新了当前开源大模型的性能基准。"
+      },
+      {
+        "id": 49224997,
+        "title": "Picking berries is my meditation",
+        "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+        "domain": "tsoon.com",
+        "score": 32,
+        "descendants": 21,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "一篇关于通过采摘浆果获得冥想体验的感性文章，探讨自然与专注力。"
+      },
+      {
+        "id": 49272832,
+        "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "domain": "tailscale.com",
+        "score": 1104,
+        "descendants": 207,
+        "by": "ropbear",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Tailscale 工程师详细复盘了如何追踪并修复 SQLite 中隐藏了 16 年之久的 WAL 重置 Bug。"
+      },
+      {
+        "id": 49273478,
+        "title": "Qwen3.8-2.4T",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "domain": "huggingface.co",
+        "score": 665,
+        "descendants": 154,
+        "by": "Philpax",
+        "tags": [],
+        "summary": "Qwen3.8-2.4T 巨型模型发布，展示了当前大规模语言模型在参数规模上的新尝试。"
+      },
+      {
+        "id": 49276574,
+        "title": "Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "domain": "zed.dev",
+        "score": 598,
+        "descendants": 220,
+        "by": "khy",
+        "tags": [],
+        "summary": "Zed 编辑器推出的 Delta 项目，旨在优化代码编辑体验与性能表现。"
+      },
+      {
+        "id": 49279928,
+        "title": "Principia Mathematica is modern and insightful",
+        "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+        "domain": "okmij.org",
+        "score": 204,
+        "descendants": 91,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "重新审视《数学原理》，探讨这部经典逻辑巨著在当代计算机科学中的现实意义。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "tradersunion.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "jdh.hamkins.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 441,
+      "max_score": {
+        "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+        "score": 1104
+      },
+      "most_discussed": {
+        "title": "DeepSeek V4 Pro 0813",
+        "comments": 419
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Database"
+      ]
+    },
+    "summary": "今日 Hacker News 呈现出极高的技术与 AI 驱动属性，开源大模型发布（DeepSeek、Qwen）与底层系统工程深度剖析（SQLite、Delta 编辑器）成为讨论核心。此外，数学理论与实用编程工具的跨界探讨，体现了社区对深度技术沉淀的持续关注。"
   }
 }
