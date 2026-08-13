@@ -155,5 +155,158 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI模型与底层基础设施的动态，DeepSeek V4 Pro与Qwen3.8作为新模型引发了广泛讨论。此外，Tailscale针对SQLite长期Bug的深入分析展现了工程深度，而Web技术更新及复古计算技术也占据了社区的一席之地。"
+  },
+  "noon": {
+    "time": "2026-08-13 13:26",
+    "stories": [
+      {
+        "id": 49274600,
+        "title": "DeepSeek V4 Pro 0813",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "domain": "openrouter.ai",
+        "score": 830,
+        "descendants": 327,
+        "by": "explosion-s",
+        "tags": [],
+        "summary": "DeepSeek发布了最新的V4 Pro 0813模型，在模型能力和性能上引发了社区热议。"
+      },
+      {
+        "id": 49272832,
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "domain": "tailscale.com",
+        "score": 910,
+        "descendants": 176,
+        "by": "ropbear",
+        "tags": [
+          "AI",
+          "Database"
+        ],
+        "summary": "Tailscale团队详细分析了一项困扰SQLite 16年的WAL日志重置Bug，展示了深度工程排查过程。"
+      },
+      {
+        "id": 49276574,
+        "title": "Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "domain": "zed.dev",
+        "score": 470,
+        "descendants": 161,
+        "by": "khy",
+        "tags": [],
+        "summary": "Zed团队推出了Delta工具，旨在提升开发者工作流效率。"
+      },
+      {
+        "id": 49273478,
+        "title": "Qwen3.8-2.4T",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "domain": "huggingface.co",
+        "score": 556,
+        "descendants": 127,
+        "by": "Philpax",
+        "tags": [],
+        "summary": "阿里云开源了Qwen3.8-2.4T大模型，进一步推动了超大规模模型的技术生态。"
+      },
+      {
+        "id": 49279928,
+        "title": "Principia Mathematica is modern and insightful",
+        "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+        "domain": "okmij.org",
+        "score": 101,
+        "descendants": 46,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "文章论证了数学巨著《数学原理》在当代思维和逻辑学中依然具有深刻的洞见。"
+      },
+      {
+        "id": 49242698,
+        "title": "Antiqua–Fraktur dispute",
+        "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+        "domain": "en.wikipedia.org",
+        "score": 37,
+        "descendants": 3,
+        "by": "buzzy_hacker",
+        "tags": [],
+        "summary": "回顾了历史上关于Antiqua与Fraktur两种字体风格的文化与审美之争。"
+      },
+      {
+        "id": 49280103,
+        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+        "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+        "domain": "sharktastica.co.uk",
+        "score": 53,
+        "descendants": 17,
+        "by": "tart-lemonade",
+        "tags": [
+          "AI"
+        ],
+        "summary": "庆祝IBM PC及经典Model F/XT键盘诞生45周年，重温个人计算历史的里程碑。"
+      },
+      {
+        "id": 49270953,
+        "title": "2026 Eclipse Webcams",
+        "url": "https://jonty.github.io/2026_eclipse_webcams/",
+        "domain": "jonty.github.io",
+        "score": 465,
+        "descendants": 126,
+        "by": "zoenolan",
+        "tags": [
+          "Web"
+        ],
+        "summary": "展示了为2026年日食准备的全球Webcam观测项目及相关地理信息。"
+      },
+      {
+        "id": 49280047,
+        "title": "Build Wide, Ship Narrow",
+        "url": "https://adapt.com/blog/build-wide-ship-narrow",
+        "domain": "adapt.com",
+        "score": 66,
+        "descendants": 12,
+        "by": "ashumz",
+        "tags": [],
+        "summary": "探讨在产品构建策略中如何通过广泛的技术积淀来实现精准的产品交付。"
+      },
+      {
+        "id": 49269429,
+        "title": "Why Target Common Lisp for Code Generation?",
+        "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+        "domain": "funcall.blogspot.com",
+        "score": 66,
+        "descendants": 52,
+        "by": "oumua_don17",
+        "tags": [],
+        "summary": "分析了为何在自动化代码生成场景中选择Common Lisp作为目标语言的独特优势。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openrouter.ai",
+          "count": 1
+        },
+        {
+          "domain": "tailscale.com",
+          "count": 1
+        },
+        {
+          "domain": "zed.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 355,
+      "max_score": {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "score": 910
+      },
+      "most_discussed": {
+        "title": "DeepSeek V4 Pro 0813",
+        "comments": 327
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI模型与开源技术的最新进展，DeepSeek与Qwen发布了极具竞争力的新模型，引发广泛讨论。同时，技术圈对底层基础设施的深层故障排查（如SQLite漏洞）及古典计算历史保持高度关注，体现了对工程细节的严谨追求。"
   }
 }
