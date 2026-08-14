@@ -148,5 +148,153 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI领域，涵盖了从大模型性能突破（Gemini 3.7、DeepSeek等）到行业底层架构及认知瓶颈的深度讨论。同时，技术社区对于复古编程历史与稳健技术哲学（Choose Boring Technology）的回响，展现了在快速迭代中对基础技术的持续思考。"
+  },
+  "noon": {
+    "time": "2026-08-14 13:23",
+    "stories": [
+      {
+        "id": 49289112,
+        "title": "Gemini 3.7 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "domain": "blog.google",
+        "score": 715,
+        "descendants": 393,
+        "by": "thisisauserid",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google 发布了 Gemini 3.7 Flash，标志着其轻量级模型在效率与性能上的进一步提升。"
+      },
+      {
+        "id": 49289844,
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "domain": "cerebras.ai",
+        "score": 506,
+        "descendants": 208,
+        "by": "pr337h4m",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cerebras 通过硬件与算法协同，推出了号称 GPT-5.6 级别的超高速推理加速方案。"
+      },
+      {
+        "id": 49294997,
+        "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+        "url": "https://z.ai/blog/glm-5.3",
+        "domain": "z.ai",
+        "score": 3,
+        "descendants": 0,
+        "by": "pella",
+        "tags": [],
+        "summary": "GLM-5.3 系列推出，重点展示了其在复杂代码编写与应急网络处理上的前沿能力。"
+      },
+      {
+        "id": 49293324,
+        "title": "Bluesky Protocol Services",
+        "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+        "domain": "atproto.com",
+        "score": 121,
+        "descendants": 22,
+        "by": "danabramov",
+        "tags": [],
+        "summary": "深入解析 Bluesky 的底层协议架构及其分布式服务运作机制。"
+      },
+      {
+        "id": 49290166,
+        "title": "Hello, me. It's been a while",
+        "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+        "domain": "themech.net",
+        "score": 93,
+        "descendants": 48,
+        "by": "somesoftdev",
+        "tags": [],
+        "summary": "一篇关于个人数字化生存与技术反思的深度叙事文章。"
+      },
+      {
+        "id": 49285244,
+        "title": "DeepSeek Harness developer preview",
+        "url": "https://deepseek.com/harness/en/",
+        "domain": "deepseek.com",
+        "score": 603,
+        "descendants": 254,
+        "by": "bjin",
+        "tags": [],
+        "summary": "DeepSeek 发布开发者预览版 Harness，旨在通过集成工具链简化模型部署流程。"
+      },
+      {
+        "id": 49291268,
+        "title": "NP-overrated",
+        "url": "https://gruhn.me/blog/2026-08-13/",
+        "domain": "gruhn.me",
+        "score": 182,
+        "descendants": 112,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "探讨计算机科学中 NP 理论的局限性及其在现代实际应用中被过度神话的现象。"
+      },
+      {
+        "id": 49286341,
+        "title": "Spaghettifying DRAM",
+        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "domain": "github.com",
+        "score": 546,
+        "descendants": 150,
+        "by": "matt_d",
+        "tags": [],
+        "summary": "解析一种关于 DRAM 存储器的新型物理底层结构或性能优化技术。"
+      },
+      {
+        "id": 49288889,
+        "title": "Mistral OCR 4.1",
+        "url": "https://docs.mistral.ai/models/ocr-4-1",
+        "domain": "docs.mistral.ai",
+        "score": 283,
+        "descendants": 113,
+        "by": "spelk",
+        "tags": [],
+        "summary": "Mistral 更新了其 OCR 4.1 模型，显著提升了文档识别与解析的精度。"
+      },
+      {
+        "id": 49290299,
+        "title": "Understanding is the new bottleneck",
+        "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+        "domain": "geoffreylitt.com",
+        "score": 259,
+        "descendants": 142,
+        "by": "sebg",
+        "tags": [],
+        "summary": "深入讨论在人工智能大模型时代，真正的机器理解力正取代算力成为性能瓶颈。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "cerebras.ai",
+          "count": 1
+        },
+        {
+          "domain": "z.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 331,
+      "max_score": {
+        "title": "Gemini 3.7 Flash",
+        "score": 715
+      },
+      "most_discussed": {
+        "title": "Gemini 3.7 Flash",
+        "comments": 393
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 被 AI 模型与基础设施的密集更新占据，各大厂商纷纷推出更强的模型性能与开发工具。与此同时，行业讨论重点正从单纯的模型规模转向架构优化及对机器理解能力的深度反思。"
   }
 }
