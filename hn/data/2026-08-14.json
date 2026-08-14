@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-08-14 08:56",
+    "stories": [
+      {
+        "id": 49293324,
+        "title": "Bluesky Protocol Services",
+        "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+        "domain": "atproto.com",
+        "score": 37,
+        "descendants": 1,
+        "by": "danabramov",
+        "tags": [],
+        "summary": "关于Bluesky去中心化协议服务的技术解析与服务说明。"
+      },
+      {
+        "id": 49289112,
+        "title": "Gemini 3.7 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "domain": "blog.google",
+        "score": 593,
+        "descendants": 330,
+        "by": "thisisauserid",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布Gemini 3.7 Flash模型，强调高性能与低延迟的平衡。"
+      },
+      {
+        "id": 49289844,
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "domain": "cerebras.ai",
+        "score": 405,
+        "descendants": 170,
+        "by": "pr337h4m",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cerebras探讨如何通过算力优化加速GPT-5.6级别的模型训练。"
+      },
+      {
+        "id": 49291268,
+        "title": "NP-Overrated",
+        "url": "https://gruhn.me/blog/2026-08-13/",
+        "domain": "gruhn.me",
+        "score": 137,
+        "descendants": 83,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "探讨NP理论在现代计算实践中的局限性与被高估的现象。"
+      },
+      {
+        "id": 49290299,
+        "title": "Understanding is the new bottleneck",
+        "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+        "domain": "geoffreylitt.com",
+        "score": 190,
+        "descendants": 96,
+        "by": "sebg",
+        "tags": [],
+        "summary": "深度剖析在AI时代，人类理解力如何成为技术应用的新瓶颈。"
+      },
+      {
+        "id": 49289465,
+        "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+        "url": "https://donkeybas.com/",
+        "domain": "donkeybas.com",
+        "score": 184,
+        "descendants": 79,
+        "by": "jkrauska",
+        "tags": [],
+        "summary": "纪念经典游戏Donkey.bas发布45周年，重温131行代码的编程荣光。"
+      },
+      {
+        "id": 49288889,
+        "title": "Mistral OCR 4.1",
+        "url": "https://docs.mistral.ai/models/ocr-4-1",
+        "domain": "docs.mistral.ai",
+        "score": 247,
+        "descendants": 94,
+        "by": "spelk",
+        "tags": [],
+        "summary": "Mistral发布OCR 4.1版本，旨在提升复杂文档解析的精度与效率。"
+      },
+      {
+        "id": 49285244,
+        "title": "DeepSeek Harness developer preview",
+        "url": "https://deepseek.com/harness/en/",
+        "domain": "deepseek.com",
+        "score": 545,
+        "descendants": 239,
+        "by": "bjin",
+        "tags": [],
+        "summary": "DeepSeek发布Harness开发者预览版，旨在简化模型评测与实验流程。"
+      },
+      {
+        "id": 49292932,
+        "title": "How AI text watermarking works",
+        "url": "https://declaude.org/watermarking/",
+        "domain": "declaude.org",
+        "score": 40,
+        "descendants": 18,
+        "by": "padolsey",
+        "tags": [
+          "AI"
+        ],
+        "summary": "解析AI文本水印技术的底层工作原理及其在内容鉴别中的应用。"
+      },
+      {
+        "id": 49289512,
+        "title": "Choose Boring Technology (2015)",
+        "url": "https://mcfunley.com/choose-boring-technology",
+        "domain": "mcfunley.com",
+        "score": 236,
+        "descendants": 123,
+        "by": "tosh",
+        "tags": [],
+        "summary": "重温经典的软件工程哲学：优先选择成熟、枯燥的技术以降低系统风险。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "atproto.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "cerebras.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 261,
+      "max_score": {
+        "title": "Gemini 3.7 Flash",
+        "score": 593
+      },
+      "most_discussed": {
+        "title": "Gemini 3.7 Flash",
+        "comments": 330
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，涵盖了从大模型性能突破（Gemini 3.7、DeepSeek等）到行业底层架构及认知瓶颈的深度讨论。同时，技术社区对于复古编程历史与稳健技术哲学（Choose Boring Technology）的回响，展现了在快速迭代中对基础技术的持续思考。"
+  }
+}
