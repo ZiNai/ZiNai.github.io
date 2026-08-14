@@ -296,5 +296,156 @@
       ]
     },
     "summary": "本期 Hacker News 被 AI 模型与基础设施的密集更新占据，各大厂商纷纷推出更强的模型性能与开发工具。与此同时，行业讨论重点正从单纯的模型规模转向架构优化及对机器理解能力的深度反思。"
+  },
+  "evening": {
+    "time": "2026-08-14 20:54",
+    "stories": [
+      {
+        "id": 49294997,
+        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+        "url": "https://z.ai/blog/glm-5.3",
+        "domain": "z.ai",
+        "score": 654,
+        "descendants": 317,
+        "by": "pella",
+        "tags": [],
+        "summary": "GLM-5.3 发布，强调具备前沿编码能力与新兴网络安全潜力。"
+      },
+      {
+        "id": 49296627,
+        "title": "DeepSeek peak/off-peak pricing update",
+        "url": "https://api-docs.deepseek.com/news/news260813/",
+        "domain": "api-docs.deepseek.com",
+        "score": 86,
+        "descendants": 35,
+        "by": "fagnerbrack",
+        "tags": [],
+        "summary": "DeepSeek 公布了最新的 API 定价策略，涉及高峰与非高峰时段的调整。"
+      },
+      {
+        "id": 49249523,
+        "title": "Don't classify, hallucinate!",
+        "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+        "domain": "softwaredoug.com",
+        "score": 20,
+        "descendants": 5,
+        "by": "softwaredoug",
+        "tags": [],
+        "summary": "探讨在分类任务中利用大模型幻觉特性进行处理的思路。"
+      },
+      {
+        "id": 49289112,
+        "title": "Gemini 3.7 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "domain": "blog.google",
+        "score": 893,
+        "descendants": 451,
+        "by": "thisisauserid",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google 推出 Gemini 3.7 Flash，进一步提升模型性能与运行效率。"
+      },
+      {
+        "id": 49296740,
+        "title": "Why does Opus 5 feel worse to work with?",
+        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "domain": "mun-logadan.github.io",
+        "score": 173,
+        "descendants": 153,
+        "by": "numeri",
+        "tags": [],
+        "summary": "开发者讨论为何 Opus 5 在实际使用体验上反而不如预期。"
+      },
+      {
+        "id": 49231490,
+        "title": "Differential Heuristics",
+        "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+        "domain": "redblobgames.com",
+        "score": 51,
+        "descendants": 3,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "探讨在复杂算法设计中应用差分启发式方法的实践指南。"
+      },
+      {
+        "id": 49289844,
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "domain": "cerebras.ai",
+        "score": 646,
+        "descendants": 252,
+        "by": "pr337h4m",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cerebras 分享如何通过硬件优化大幅加速 GPT-5.6 的运行速度。"
+      },
+      {
+        "id": 49290166,
+        "title": "Hello, me. It's been a while",
+        "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+        "domain": "themech.net",
+        "score": 277,
+        "descendants": 147,
+        "by": "somesoftdev",
+        "tags": [],
+        "summary": "个人博文回顾过去的技术历程与自我重塑的思考。"
+      },
+      {
+        "id": 49258085,
+        "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+        "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+        "domain": "github.com",
+        "score": 70,
+        "descendants": 34,
+        "by": "am-gm",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一个自制 C# 游戏引擎，集成自定义脚本语言及配套 IDE。"
+      },
+      {
+        "id": 49285244,
+        "title": "DeepSeek Harness developer preview",
+        "url": "https://deepseek.com/harness/en/",
+        "domain": "deepseek.com",
+        "score": 688,
+        "descendants": 280,
+        "by": "bjin",
+        "tags": [],
+        "summary": "DeepSeek 发布 Harness 开发者预览版，旨在提升模型评估与测试的便捷性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "z.ai",
+          "count": 1
+        },
+        {
+          "domain": "api-docs.deepseek.com",
+          "count": 1
+        },
+        {
+          "domain": "softwaredoug.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 356,
+      "max_score": {
+        "title": "Gemini 3.7 Flash",
+        "score": 893
+      },
+      "most_discussed": {
+        "title": "Gemini 3.7 Flash",
+        "comments": 451
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点高度集中于人工智能领域，各大模型厂商（如 Google、DeepSeek、Cerebras 等）竞相发布模型更新与性能优化方案。整体讨论呈现出从基础模型迭代向工程化落地与开发体验改善转型的趋势。"
   }
 }
