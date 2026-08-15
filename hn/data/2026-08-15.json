@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-08-15 08:33",
+    "stories": [
+      {
+        "id": 49299605,
+        "title": "Qwen 3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "domain": "huggingface.co",
+        "score": 857,
+        "descendants": 565,
+        "by": "erdaltoprak",
+        "tags": [],
+        "summary": "通义千问发布Qwen 3.8 27B模型，成为社区关于模型性能讨论的热点。"
+      },
+      {
+        "id": 49304447,
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "domain": "blog.cryptographyengineering.com",
+        "score": 164,
+        "descendants": 101,
+        "by": "vslira",
+        "tags": [
+          "Security"
+        ],
+        "summary": "探讨执法机构黑客手段的兴起及其对加密通信与法律监管的深远影响。"
+      },
+      {
+        "id": 49305492,
+        "title": "RISC-V: They should have known better",
+        "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "domain": "dmitry.gr",
+        "score": 83,
+        "descendants": 46,
+        "by": "kaycebasques",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深入分析RISC-V架构在设计初期的局限性以及开发者对其预判不足的看法。"
+      },
+      {
+        "id": 49296740,
+        "title": "Why does Opus 5 feel worse to work with?",
+        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "domain": "mun-logadan.github.io",
+        "score": 761,
+        "descendants": 695,
+        "by": "numeri",
+        "tags": [],
+        "summary": "开发者详细探讨了为何在使用Opus 5大模型时体验感到下滑的个人主观感受。"
+      },
+      {
+        "id": 49305708,
+        "title": "The case for overhauling American science",
+        "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+        "domain": "economist.com",
+        "score": 16,
+        "descendants": 8,
+        "by": "andsoitis",
+        "tags": [
+          "Science"
+        ],
+        "summary": "经济学人探讨美国科研体系存在的深层问题及全面改革的必要性。"
+      },
+      {
+        "id": 49300314,
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "domain": "blog.google",
+        "score": 265,
+        "descendants": 160,
+        "by": "u1hcw9nx",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "谷歌通过同态加密技术提升私有AI应用场景下的数据安全与实用性。"
+      },
+      {
+        "id": 49300759,
+        "title": "RustDesk now supports true unattended remote access on Wayland",
+        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "domain": "rustdesk.com",
+        "score": 211,
+        "descendants": 93,
+        "by": "rustdesk",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "远程桌面工具RustDesk宣布在Wayland环境下实现真正的无人值守访问支持。"
+      },
+      {
+        "id": 49305558,
+        "title": "Stop sending me huge PRs; a rant",
+        "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+        "domain": "getsmall.xyz",
+        "score": 27,
+        "descendants": 15,
+        "by": "trezm",
+        "tags": [],
+        "summary": "针对过大代码合并请求（PR）的吐槽，呼吁更合理的代码审查流程与规模管理。"
+      },
+      {
+        "id": 49215682,
+        "title": "Super Mario Derivations",
+        "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+        "domain": "fzakaria.com",
+        "score": 41,
+        "descendants": 5,
+        "by": "domenkozar",
+        "tags": [],
+        "summary": "通过技术视角解析《超级马力欧》中游戏逻辑与算法的推导过程。"
+      },
+      {
+        "id": 49305927,
+        "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+        "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+        "domain": "ft.com",
+        "score": 41,
+        "descendants": 7,
+        "by": "bobstax",
+        "tags": [],
+        "summary": "简街资本因Situational Awareness公司的崩溃而蒙受150亿美元的巨大损失。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "huggingface.co",
+          "count": 1
+        },
+        {
+          "domain": "blog.cryptographyengineering.com",
+          "count": 1
+        },
+        {
+          "domain": "dmitry.gr",
+          "count": 1
+        }
+      ],
+      "avg_score": 247,
+      "max_score": {
+        "title": "Qwen 3.8 27B",
+        "score": 857
+      },
+      "most_discussed": {
+        "title": "Why does Opus 5 feel worse to work with?",
+        "comments": 695
+      },
+      "hot_tags": [
+        "Security",
+        "Hardware",
+        "Science",
+        "AI",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI模型与技术的演进，包括Qwen新模型的发布、大模型使用体验的讨论及隐私计算的进展。此外，关于底层架构设计、远程协作工具更新以及对软件工程管理和科研体制的反思也引发了社区讨论。"
+  }
+}
