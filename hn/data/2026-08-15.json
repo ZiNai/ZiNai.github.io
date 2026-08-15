@@ -312,5 +312,161 @@
       ]
     },
     "summary": "今日Hacker News聚焦于前沿AI技术的落地与争议，包括大模型新发布、加密技术在AI隐私中的应用，以及安全领域的执法博弈。此外，硬件创新与计算机科学教学方法的改进也引发了社区的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-08-15 20:27",
+    "stories": [
+      {
+        "id": 49309549,
+        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+        "url": "https://sankalp.bearblog.dev/autoresearch/",
+        "domain": "sankalp.bearblog.dev",
+        "score": 33,
+        "descendants": 7,
+        "by": "tosh",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "作者通过利用Codex自动研究，成功实现了内核性能232倍的提升。"
+      },
+      {
+        "id": 49307592,
+        "title": "The other Sean Byrne doesn't exist",
+        "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "domain": "conic.al",
+        "score": 239,
+        "descendants": 118,
+        "by": "rdl",
+        "tags": [],
+        "summary": "探讨了关于同名同姓者的身份边界及其在互联网搜索时代的荒诞现实。"
+      },
+      {
+        "id": 49299605,
+        "title": "Qwen 3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "domain": "huggingface.co",
+        "score": 1198,
+        "descendants": 716,
+        "by": "erdaltoprak",
+        "tags": [],
+        "summary": "开源模型Qwen 3.8 27B的发布引起了社区关于大语言模型性能与应用的广泛讨论。"
+      },
+      {
+        "id": 49237183,
+        "title": "The mathematical beauty of hyperbezier curves",
+        "url": "https://linebender.org/blog/hyperbezier/",
+        "domain": "linebender.org",
+        "score": 35,
+        "descendants": 1,
+        "by": "raphlinus",
+        "tags": [],
+        "summary": "深入解析了hyperbezier曲线背后的数学逻辑及其在几何设计中的应用美学。"
+      },
+      {
+        "id": 49308685,
+        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+        "url": "https://uecker.codeberg.page/2026-07-14.html",
+        "domain": "uecker.codeberg.page",
+        "score": 33,
+        "descendants": 13,
+        "by": "uecker",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "技术深度文章，探讨了在无trampoline机制下使用GCC嵌套函数与宽指针的实现细节。"
+      },
+      {
+        "id": 49304447,
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "domain": "blog.cryptographyengineering.com",
+        "score": 366,
+        "descendants": 171,
+        "by": "vslira",
+        "tags": [
+          "Security"
+        ],
+        "summary": "分析了加密技术普及引发的执法难题，以及执法机构通过黑客手段获取证据的争议。"
+      },
+      {
+        "id": 49271382,
+        "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
+        "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
+        "domain": "popularmechanics.com",
+        "score": 59,
+        "descendants": 35,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "回顾了1962年埃及导弹项目关键科学家离奇失踪的历史悬疑案件。"
+      },
+      {
+        "id": 49246366,
+        "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+        "url": "https://baselashraf81.github.io/eigendrum/",
+        "domain": "baselashraf81.github.io",
+        "score": 35,
+        "descendants": 7,
+        "by": "BaselAshraf81",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个有趣的交互式网页工具，允许用户手绘图形并将其模拟为鼓声进行演奏。"
+      },
+      {
+        "id": 49271442,
+        "title": "Understanding WCAG 2.2 as ePub and PDF",
+        "url": "https://doeken.org/wcag-ebook",
+        "domain": "doeken.org",
+        "score": 31,
+        "descendants": 2,
+        "by": "doekenorg",
+        "tags": [],
+        "summary": "针对WCAG 2.2无障碍准则在ePub和PDF电子文档格式中的应用指南。"
+      },
+      {
+        "id": 49260582,
+        "title": "The Color of White Light",
+        "url": "https://ludens.cl/photo/spectra/spectra.html",
+        "domain": "ludens.cl",
+        "score": 6,
+        "descendants": 1,
+        "by": "xk3",
+        "tags": [],
+        "summary": "从物理学视角探讨白光的色彩组成及其光学特性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sankalp.bearblog.dev",
+          "count": 1
+        },
+        {
+          "domain": "conic.al",
+          "count": 1
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 1
+        }
+      ],
+      "avg_score": 204,
+      "max_score": {
+        "title": "Qwen 3.8 27B",
+        "score": 1198
+      },
+      "most_discussed": {
+        "title": "Qwen 3.8 27B",
+        "comments": 716
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI技术突破与安全挑战、深度软件工程实践及历史悬疑轶事。整体呈现出技术探索与社会安全治理并重的趋势，既有对前沿模型与优化的讨论，也有针对算法伦理与历史叙事的深入思考。"
   }
 }
