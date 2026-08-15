@@ -157,5 +157,160 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI模型与技术的演进，包括Qwen新模型的发布、大模型使用体验的讨论及隐私计算的进展。此外，关于底层架构设计、远程协作工具更新以及对软件工程管理和科研体制的反思也引发了社区讨论。"
+  },
+  "noon": {
+    "time": "2026-08-15 12:18",
+    "stories": [
+      {
+        "id": 49306577,
+        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+        "domain": "earthquake.usgs.gov",
+        "score": 131,
+        "descendants": 24,
+        "by": "Bender",
+        "tags": [],
+        "summary": "印尼恩德市西北方向发生7.7级地震，美国地质调查局发布官方监测信息。"
+      },
+      {
+        "id": 49299605,
+        "title": "Qwen 3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "domain": "huggingface.co",
+        "score": 977,
+        "descendants": 628,
+        "by": "erdaltoprak",
+        "tags": [],
+        "summary": "阿里巴巴发布Qwen 3.8 27B模型，引发社区对该大模型性能与开源生态的深入讨论。"
+      },
+      {
+        "id": 49304447,
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "domain": "blog.cryptographyengineering.com",
+        "score": 248,
+        "descendants": 129,
+        "by": "vslira",
+        "tags": [
+          "Security"
+        ],
+        "summary": "探讨执法部门在加密通信背景下采用黑客手段获取证据所引发的法律与隐私伦理争议。"
+      },
+      {
+        "id": 49306443,
+        "title": "The Ploopy A+ Trackball Is Here",
+        "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "domain": "blog.ploopy.co",
+        "score": 53,
+        "descendants": 30,
+        "by": "big_toast",
+        "tags": [],
+        "summary": "Ploopy推出新款A+轨迹球鼠标，继续深耕开源可维修的外设硬件市场。"
+      },
+      {
+        "id": 49306196,
+        "title": "Simplifying and Refactoring Introductory Calculus",
+        "url": "https://arxiv.org/abs/1811.03459",
+        "domain": "arxiv.org",
+        "score": 53,
+        "descendants": 13,
+        "by": "E-Reverance",
+        "tags": [],
+        "summary": "针对微积分教学的简化与重构研究，旨在探索更高效的数学教育路径。"
+      },
+      {
+        "id": 49300314,
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "domain": "blog.google",
+        "score": 315,
+        "descendants": 185,
+        "by": "u1hcw9nx",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "谷歌利用同态加密技术实现私有数据下的AI计算，旨在提升人工智能处理敏感数据的隐私安全性。"
+      },
+      {
+        "id": 49305250,
+        "title": "eigendrum",
+        "url": "https://eigendrum.com/#p=circle",
+        "domain": "eigendrum.com",
+        "score": 69,
+        "descendants": 15,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "介绍eigendrum项目，这是一个结合高性能硬件与算法的数字打击乐控制器。"
+      },
+      {
+        "id": 49300759,
+        "title": "RustDesk now supports true unattended remote access on Wayland",
+        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "domain": "rustdesk.com",
+        "score": 244,
+        "descendants": 105,
+        "by": "rustdesk",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "RustDesk宣布在Wayland环境下实现真正的无人值守远程访问支持。"
+      },
+      {
+        "id": 49307099,
+        "title": "AI Driven Testing",
+        "url": "https://app.deltix.ai",
+        "domain": "app.deltix.ai",
+        "score": 7,
+        "descendants": 3,
+        "by": "oneounceman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "讨论AI驱动的测试方法如何自动化提升软件质量并优化开发流程。"
+      },
+      {
+        "id": 49263186,
+        "title": "Hi-Fi Tape Recorder Changed Radio Forever",
+        "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
+        "domain": "spectrum.ieee.org",
+        "score": 27,
+        "descendants": 1,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "回顾高保真磁带录音机如何彻底改变无线电广播行业的发展轨迹。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "earthquake.usgs.gov",
+          "count": 1
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 1
+        },
+        {
+          "domain": "blog.cryptographyengineering.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 212,
+      "max_score": {
+        "title": "Qwen 3.8 27B",
+        "score": 977
+      },
+      "most_discussed": {
+        "title": "Qwen 3.8 27B",
+        "comments": 628
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于前沿AI技术的落地与争议，包括大模型新发布、加密技术在AI隐私中的应用，以及安全领域的执法博弈。此外，硬件创新与计算机科学教学方法的改进也引发了社区的广泛关注。"
   }
 }
