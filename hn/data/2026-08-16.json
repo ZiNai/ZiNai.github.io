@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-08-16 08:33",
+    "stories": [
+      {
+        "id": 49311651,
+        "title": "Semaglutide linked to lower predicted dementia risk",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+        "domain": "alz-journals.onlinelibrary.wiley.com",
+        "score": 331,
+        "descendants": 228,
+        "by": "randycupertino",
+        "tags": [],
+        "summary": "研究表明司美格鲁肽与降低痴呆症风险之间存在显著关联。"
+      },
+      {
+        "id": 49314615,
+        "title": "Bede Liu, a digital signal processing pioneer, has died",
+        "url": "https://spectrum.ieee.org/digital-signal-processing",
+        "domain": "spectrum.ieee.org",
+        "score": 44,
+        "descendants": 3,
+        "by": "Jimmc414",
+        "tags": [],
+        "summary": "纪念数字信号处理领域的先驱Bede Liu，回顾其在学术与工程界的卓越贡献。"
+      },
+      {
+        "id": 49314235,
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
+        "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+        "domain": "henrikkarlsson.xyz",
+        "score": 64,
+        "descendants": 17,
+        "by": "felixbraun",
+        "tags": [],
+        "summary": "探讨如何构建一种利于创新思维涌现的心理状态与生活方式。"
+      },
+      {
+        "id": 49314403,
+        "title": "Abdominal fat predicts heart disease risk better than BMI",
+        "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "domain": "acc.org",
+        "score": 123,
+        "descendants": 87,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "腹部脂肪含量比传统的BMI指数更能准确预测心脏病发病风险。"
+      },
+      {
+        "id": 49310682,
+        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "domain": "smithsonianmag.com",
+        "score": 203,
+        "descendants": 70,
+        "by": "gmays",
+        "tags": [],
+        "summary": "介绍一种通过家庭测试套件检测感染病原体蜱虫的技术，以提升莱姆病诊断效率。"
+      },
+      {
+        "id": 49313367,
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "domain": "science.org",
+        "score": 75,
+        "descendants": 39,
+        "by": "AnodicElegy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析人工智能在药物发现领域的应用现状及其未来的技术路径。"
+      },
+      {
+        "id": 49315453,
+        "title": "Banned Words List",
+        "url": "https://pen.org/banned-words-list/",
+        "domain": "pen.org",
+        "score": 7,
+        "descendants": 0,
+        "by": "structuredPizza",
+        "tags": [],
+        "summary": "探讨禁书清单现象及其对言论自由的影响。"
+      },
+      {
+        "id": 49298035,
+        "title": "RISC-V: They Should Have Known Better",
+        "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "domain": "dmitry.gr",
+        "score": 218,
+        "descendants": 288,
+        "by": "dmitrygr",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "针对RISC-V指令集架构的发展路线与设计权衡进行深度批判性分析。"
+      },
+      {
+        "id": 49312845,
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "domain": "davidepiffer.com",
+        "score": 389,
+        "descendants": 346,
+        "by": "rzk",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "对比AI模型与人类大脑的运行机制，指出AI在工作记忆容量上的巨大优势。"
+      },
+      {
+        "id": 49314884,
+        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+        "url": "https://sugartrack-beta.vercel.app/",
+        "domain": "sugartrack-beta.vercel.app",
+        "score": 12,
+        "descendants": 3,
+        "by": "hunzaboy",
+        "tags": [],
+        "summary": "推荐一款注重隐私保护、无需账户与云同步的Android血糖记录App。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "alz-journals.onlinelibrary.wiley.com",
+          "count": 1
+        },
+        {
+          "domain": "spectrum.ieee.org",
+          "count": 1
+        },
+        {
+          "domain": "henrikkarlsson.xyz",
+          "count": 1
+        }
+      ],
+      "avg_score": 147,
+      "max_score": {
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "score": 389
+      },
+      "most_discussed": {
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "comments": 346
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点高度集中在生物医学与健康技术领域，涵盖了药物研发AI化、慢性病预测指标及临床诊断创新。同时，技术界的讨论围绕RISC-V架构的演进思考以及大语言模型与人类大脑在认知记忆模式上的比较展开。"
+  }
+}
