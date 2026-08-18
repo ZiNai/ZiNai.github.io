@@ -322,5 +322,151 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出高度的技术多元性，涵盖了AI领域的安全与定价变动、底层数据库技术演进，以及复古硬件与开源项目的软硬件结合实践。此外，社区对AI内容操纵和技术深度原理（如图形渲染与高性能计算）表现出了浓厚的兴趣。"
+  },
+  "evening": {
+    "time": "2026-08-18 20:35",
+    "stories": [
+      {
+        "id": 49342719,
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "domain": "pixelcluster.dev",
+        "score": 258,
+        "descendants": 77,
+        "by": "flaburgan",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49343559,
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "domain": "theregister.com",
+        "score": 162,
+        "descendants": 82,
+        "by": "pseudolus",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49338459,
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "domain": "timmarinin.net",
+        "score": 583,
+        "descendants": 372,
+        "by": "gavide",
+        "tags": []
+      },
+      {
+        "id": 49337602,
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "domain": "openrouter.ai",
+        "score": 514,
+        "descendants": 327,
+        "by": "Topfi",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49342530,
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "domain": "acadia.engineering",
+        "score": 105,
+        "descendants": 50,
+        "by": "honungsburk",
+        "tags": [
+          "Database"
+        ]
+      },
+      {
+        "id": 49338328,
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 394,
+        "descendants": 171,
+        "by": "shdon",
+        "tags": []
+      },
+      {
+        "id": 49337392,
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "domain": "responsiblestatecraft.org",
+        "score": 688,
+        "descendants": 392,
+        "by": "DeepLogin",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49272631,
+        "title": "Teaching my kid to code with a modern MUD",
+        "url": "https://tau.dev/2026/08/07/canon",
+        "domain": "tau.dev",
+        "score": 10,
+        "descendants": 0,
+        "by": "andrewjanke",
+        "tags": []
+      },
+      {
+        "id": 49344114,
+        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+        "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+        "domain": "arstechnica.com",
+        "score": 31,
+        "descendants": 5,
+        "by": "xoa",
+        "tags": []
+      },
+      {
+        "id": 49342472,
+        "title": "Finger: Social network that never died",
+        "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+        "domain": "en.andros.dev",
+        "score": 43,
+        "descendants": 16,
+        "by": "andros",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pixelcluster.dev",
+          "count": 1
+        },
+        {
+          "domain": "theregister.com",
+          "count": 1
+        },
+        {
+          "domain": "timmarinin.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 279,
+      "max_score": {
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "score": 688
+      },
+      "most_discussed": {
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "comments": 392
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Database"
+      ]
+    },
+    "summary": ""
   }
 }
