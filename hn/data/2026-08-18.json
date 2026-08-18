@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-08-18 08:31",
+    "stories": [
+      {
+        "id": 49338459,
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "domain": "timmarinin.net",
+        "score": 158,
+        "descendants": 122,
+        "by": "gavide",
+        "tags": [],
+        "summary": "深度解析Bluesky客户端如何在屏幕截图中动态绘制其Logo的技术实现细节。"
+      },
+      {
+        "id": 49339359,
+        "title": "Cursor Origin",
+        "url": "https://cursor.com/docs/origin",
+        "domain": "cursor.com",
+        "score": 33,
+        "descendants": 8,
+        "by": "peterspath",
+        "tags": [],
+        "summary": "介绍Cursor代码编辑器在保持开发流程一致性与生态整合方面的最新进展。"
+      },
+      {
+        "id": 49338328,
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 104,
+        "descendants": 47,
+        "by": "shdon",
+        "tags": [],
+        "summary": "复盘Quake共享软件版CD-ROM在存储空间极限压缩下的技术轶事。"
+      },
+      {
+        "id": 49338285,
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "domain": "catcrafts.net",
+        "score": 56,
+        "descendants": 14,
+        "by": "pizzaiolo",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "展示Fairphone 6在运行PostmarketOS时成功实现原生相机功能适配的进展。"
+      },
+      {
+        "id": 49334991,
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "domain": "arxiv.org",
+        "score": 151,
+        "descendants": 31,
+        "by": "linggen",
+        "tags": [
+          "Rust",
+          "Hardware"
+        ],
+        "summary": "探讨在Rust语言中实现便携、安全且高性能GPU卸载的技术方案。"
+      },
+      {
+        "id": 49330781,
+        "title": "A Preview of DuckDB v2.0",
+        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "domain": "duckdb.org",
+        "score": 513,
+        "descendants": 91,
+        "by": "ibotty",
+        "tags": [],
+        "summary": "DuckDB v2.0预览版发布，带来性能优化与功能特性的全面升级。"
+      },
+      {
+        "id": 49330597,
+        "title": "Incident with Github.com",
+        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+        "domain": "githubstatus.com",
+        "score": 519,
+        "descendants": 896,
+        "by": "SpyCoder77",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "追踪记录近期GitHub平台发生的服务中断事件及官方后续状态报告。"
+      },
+      {
+        "id": 49331423,
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "domain": "wiz.io",
+        "score": 307,
+        "descendants": 123,
+        "by": "galnagli",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "披露GitHub Copilot自动修复功能缺陷导致的Snowflake Jira数据泄露安全事件。"
+      },
+      {
+        "id": 49339349,
+        "title": "Un-AI Your Internet",
+        "url": "https://un-ai.digitalprophet.online/",
+        "domain": "un-ai.digitalprophet.online",
+        "score": 6,
+        "descendants": 1,
+        "by": "ErenayDev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "呼吁通过技术手段过滤互联网上的AI生成内容，回归更纯净的网络浏览体验。"
+      },
+      {
+        "id": 49337602,
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "domain": "openrouter.ai",
+        "score": 51,
+        "descendants": 10,
+        "by": "Topfi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenRouter宣布GPT-5.6 Sol模型API价格下调50%，旨在降低开发者的调用成本。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "timmarinin.net",
+          "count": 1
+        },
+        {
+          "domain": "cursor.com",
+          "count": 1
+        },
+        {
+          "domain": "fabiensanglard.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 190,
+      "max_score": {
+        "title": "Incident with Github.com",
+        "score": 519
+      },
+      "most_discussed": {
+        "title": "Incident with Github.com",
+        "comments": 896
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Systems",
+        "Rust",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News聚焦于科技界的技术深度剖析与行业安全事件，包括DuckDB 2.0预览及GPU加速研究等硬核技术更新。同时，GitHub相关的安全漏洞披露以及AI应用趋势引发了社区对数据隐私与技术工具可靠性的广泛讨论。"
+  }
+}
