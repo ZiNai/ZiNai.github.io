@@ -161,5 +161,166 @@
       ]
     },
     "summary": "今日Hacker News聚焦于科技界的技术深度剖析与行业安全事件，包括DuckDB 2.0预览及GPU加速研究等硬核技术更新。同时，GitHub相关的安全漏洞披露以及AI应用趋势引发了社区对数据隐私与技术工具可靠性的广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-08-18 12:23",
+    "stories": [
+      {
+        "id": 49338459,
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "domain": "timmarinin.net",
+        "score": 310,
+        "descendants": 227,
+        "by": "gavide",
+        "tags": [],
+        "summary": "揭秘Bluesky如何通过技术手段在截图上精准绘制其品牌标识。"
+      },
+      {
+        "id": 49337602,
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "domain": "openrouter.ai",
+        "score": 229,
+        "descendants": 130,
+        "by": "Topfi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenRouter宣布大幅下调GPT-5.6 Sol模型的API定价，进一步降低开发成本。"
+      },
+      {
+        "id": 49338328,
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 212,
+        "descendants": 94,
+        "by": "shdon",
+        "tags": [],
+        "summary": "复古游戏分析：探讨《雷神之锤》共享版光盘容量设计的局限与背后的工程细节。"
+      },
+      {
+        "id": 49285139,
+        "title": "Shattered skeleton is first confirmed death from trebuchet",
+        "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+        "domain": "science.org",
+        "score": 30,
+        "descendants": 10,
+        "by": "hermitcrab",
+        "tags": [],
+        "summary": "考古学发现：证实历史上首例因投石机操作失误导致的骨骼粉碎性死亡案例。"
+      },
+      {
+        "id": 49330781,
+        "title": "A Preview of DuckDB v2.0",
+        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "domain": "duckdb.org",
+        "score": 573,
+        "descendants": 104,
+        "by": "ibotty",
+        "tags": [],
+        "summary": "DuckDB v2.0预览版发布，带来性能与架构层面的重要改进。"
+      },
+      {
+        "id": 49338285,
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "domain": "catcrafts.net",
+        "score": 106,
+        "descendants": 26,
+        "by": "pizzaiolo",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "开源进展：Fairphone 6在运行PostmarketOS时实现了主摄像头的驱动支持。"
+      },
+      {
+        "id": 49331423,
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "domain": "wiz.io",
+        "score": 334,
+        "descendants": 128,
+        "by": "galnagli",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "安全警示：GitHub Copilot的自动修复功能被滥用，导致Snowflake的Jira系统遭到入侵。"
+      },
+      {
+        "id": 49337392,
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "domain": "responsiblestatecraft.org",
+        "score": 221,
+        "descendants": 103,
+        "by": "DeepLogin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道称以色列通过伪造智库虚假信息来误导AI聊天机器人。"
+      },
+      {
+        "id": 49334991,
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "domain": "arxiv.org",
+        "score": 175,
+        "descendants": 36,
+        "by": "linggen",
+        "tags": [
+          "Rust",
+          "Hardware"
+        ],
+        "summary": "学术探讨：如何利用Rust语言实现便携、安全且高效的GPU卸载计算。"
+      },
+      {
+        "id": 49270194,
+        "title": "Olo (Color)",
+        "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+        "domain": "en.wikipedia.org",
+        "score": 359,
+        "descendants": 67,
+        "by": "inigyou",
+        "tags": [],
+        "summary": "深入了解经典色彩空间与视觉设计相关概念Olo。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "timmarinin.net",
+          "count": 1
+        },
+        {
+          "domain": "openrouter.ai",
+          "count": 1
+        },
+        {
+          "domain": "fabiensanglard.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 255,
+      "max_score": {
+        "title": "A Preview of DuckDB v2.0",
+        "score": 573
+      },
+      "most_discussed": {
+        "title": "How Bluesky draws its logo on screenshots",
+        "comments": 227
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source",
+        "Rust",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出高度的技术多元性，涵盖了AI领域的安全与定价变动、底层数据库技术演进，以及复古硬件与开源项目的软硬件结合实践。此外，社区对AI内容操纵和技术深度原理（如图形渲染与高性能计算）表现出了浓厚的兴趣。"
   }
 }
