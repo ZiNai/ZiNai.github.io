@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-08-19 08:32",
+    "stories": [
+      {
+        "id": 49353221,
+        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+        "url": "https://github.com/DenisSergeevitch/desktop-fly",
+        "domain": "github.com",
+        "score": 107,
+        "descendants": 29,
+        "by": "phoenix120",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "利用真实的FlyWire连接组数据，在macOS桌面上实现了一个实时交互的3D果蝇模型。"
+      },
+      {
+        "id": 49345263,
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "domain": "seths.blog",
+        "score": 874,
+        "descendants": 522,
+        "by": "herbertl",
+        "tags": [],
+        "summary": "深入探讨了亚马逊平台费用对零售商的影响，分析其经营成本压力与市场地位。"
+      },
+      {
+        "id": 49354613,
+        "title": "Solo – a .so loader for static Linux binaries",
+        "url": "https://github.com/pg83/solo",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "zX41ZdbW",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款用于在Linux环境下加载静态二进制文件（.so库）的开源工具。"
+      },
+      {
+        "id": 49321298,
+        "title": "Being ambitious and being a dad",
+        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+        "domain": "nicholascharriere.com",
+        "score": 221,
+        "descendants": 110,
+        "by": "nichochar",
+        "tags": [],
+        "summary": "探讨如何在保持职业抱负的同时，兼顾家庭责任与父亲角色的心理与实践建议。"
+      },
+      {
+        "id": 49349984,
+        "title": "How does IKEA come up with names for its products?",
+        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "domain": "ikea.com",
+        "score": 214,
+        "descendants": 131,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "谷歌发布的用Rust编写的TurboQuant引擎，用于高效处理向量搜索任务。"
+      },
+      {
+        "id": 49354664,
+        "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+        "url": "https://modelmap.cc",
+        "domain": "modelmap.cc",
+        "score": 11,
+        "descendants": 0,
+        "by": "lizhaoliu",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一个可以交互式展现HuggingFace模型底层架构的可视化工具。"
+      },
+      {
+        "id": 49349898,
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "domain": "github.com",
+        "score": 193,
+        "descendants": 26,
+        "by": "fittingopposite",
+        "tags": [
+          "Rust"
+        ]
+      },
+      {
+        "id": 49344825,
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "domain": "philo.gay",
+        "score": 388,
+        "descendants": 61,
+        "by": "otherayden",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个极具创意的实验，探索如何将铁路网络当作大型底片扫描仪使用。"
+      },
+      {
+        "id": 49351324,
+        "title": "Beware Management Consultants",
+        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+        "domain": "about.iceland.co.uk",
+        "score": 426,
+        "descendants": 115,
+        "by": "KolmogorovComp",
+        "tags": [],
+        "summary": "分析管理咨询公司的运作逻辑及其在企业中可能带来的潜在负面影响。"
+      },
+      {
+        "id": 49334209,
+        "title": "Cursor launches Origin, GitHub alternative",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "domain": "cursor.com",
+        "score": 448,
+        "descendants": 351,
+        "by": "tomasreimers",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "AI代码编辑器Cursor发布Origin平台，旨在构建一个全新的GitHub替代方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "seths.blog",
+          "count": 1
+        },
+        {
+          "domain": "nicholascharriere.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 289,
+      "max_score": {
+        "title": "The Amazon tax",
+        "score": 874
+      },
+      "most_discussed": {
+        "title": "The Amazon tax",
+        "comments": 522
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Show HN",
+        "Rust",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从前沿AI工具与架构、开源软件开发工具，到企业管理反思及生活趣味技术等多个维度。社区不仅关注如Cursor、HuggingFace模型架构等技术创新，同时也对职场平衡、企业经营策略及独特的硬核技术实现表现出浓厚兴趣。"
+  }
+}
