@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-08-20 08:32",
+    "stories": [
+      {
+        "id": 49364559,
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "domain": "openrouter.ai",
+        "score": 588,
+        "descendants": 316,
+        "by": "rvz",
+        "tags": [],
+        "summary": "AI 聚合 API 平台 OpenRouter 宣布被 Stripe 收购，旨在进一步构建支付与开发者基础设施。"
+      },
+      {
+        "id": 49365405,
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "domain": "go.dev",
+        "score": 418,
+        "descendants": 100,
+        "by": "database64128",
+        "tags": [],
+        "summary": "Go 语言发布 1.27 版本，带来了一系列性能提升与开发体验改进。"
+      },
+      {
+        "id": 49368625,
+        "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+        "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+        "domain": "kmbc.com",
+        "score": 33,
+        "descendants": 6,
+        "by": "cocacola1",
+        "tags": [],
+        "summary": "由于面临合规性与隐私审查，Gardner 警方决定停用 Flock 自动车牌识别摄像头系统。"
+      },
+      {
+        "id": 49364745,
+        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "domain": "grapheneos.social",
+        "score": 269,
+        "descendants": 105,
+        "by": "Animux",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GrapheneOS 团队指出 Google 将部分开源项目的 Git 标签更新替换为 Google Drive 下载链接，引发对版本控制透明度的担忧。"
+      },
+      {
+        "id": 49365841,
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "domain": "sprocketfox.io",
+        "score": 122,
+        "descendants": 33,
+        "by": "1e1a",
+        "tags": [],
+        "summary": "技术极客通过逆向工程手段，成功解锁并复活了一台原本被弃置的锁定版 Cricut 裁切机。"
+      },
+      {
+        "id": 49365443,
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "domain": "unsloth.ai",
+        "score": 170,
+        "descendants": 64,
+        "by": "jonesy827",
+        "tags": [],
+        "summary": "Unsloth 推出 Dynamic 3.0 GGUF 模型，显著提升了大语言模型在量化部署下的性能与效率。"
+      },
+      {
+        "id": 49348189,
+        "title": "Sol Loves to Cheat",
+        "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+        "domain": "jumploops.com",
+        "score": 63,
+        "descendants": 34,
+        "by": "jumploops",
+        "tags": [],
+        "summary": "探讨 Sol 如何在算法竞争或逻辑博弈中利用机制漏洞获利。"
+      },
+      {
+        "id": 49367256,
+        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+        "url": "https://os8088.com/spotlight/",
+        "domain": "os8088.com",
+        "score": 37,
+        "descendants": 20,
+        "by": "jggonz",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "IBM XT 模拟器项目实现重大突破，现已支持浏览器、CP/M 系统及 Word 1.1a 等经典软件。"
+      },
+      {
+        "id": 49360015,
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "domain": "sprocketfox.io",
+        "score": 723,
+        "descendants": 110,
+        "by": "kareiva",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一次随意的域名购买意外卷入了复杂的国际地缘政治冲突之中。"
+      },
+      {
+        "id": 49368389,
+        "title": "Technical leaders should have the largest AI exhaust",
+        "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+        "domain": "schipper.ai",
+        "score": 8,
+        "descendants": 6,
+        "by": "schipperai",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章提出技术领导者应主动增加“AI 产出”，通过大量实践利用人工智能来提升决策与产出效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sprocketfox.io",
+          "count": 2
+        },
+        {
+          "domain": "openrouter.ai",
+          "count": 1
+        },
+        {
+          "domain": "go.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 243,
+      "max_score": {
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "score": 723
+      },
+      "most_discussed": {
+        "title": "OpenRouter is joining Stripe",
+        "comments": 316
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技生态的重大变动，包括 OpenRouter 被 Stripe 收购以及 Google 源码托管方式引发的社区争议。此外，开发者关注重点涵盖了 Go 语言的新版本发布、AI 模型优化技术及复古计算系统的各种创新实验。"
+  }
+}
