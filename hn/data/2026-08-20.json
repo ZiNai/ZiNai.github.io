@@ -153,5 +153,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在科技生态的重大变动，包括 OpenRouter 被 Stripe 收购以及 Google 源码托管方式引发的社区争议。此外，开发者关注重点涵盖了 Go 语言的新版本发布、AI 模型优化技术及复古计算系统的各种创新实验。"
+  },
+  "noon": {
+    "time": "2026-08-20 12:25",
+    "stories": [
+      {
+        "id": 49364559,
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "domain": "openrouter.ai",
+        "score": 721,
+        "descendants": 367,
+        "by": "rvz",
+        "tags": [],
+        "summary": "AI 模型聚合平台 OpenRouter 宣布被支付巨头 Stripe 收购。"
+      },
+      {
+        "id": 49365405,
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "domain": "go.dev",
+        "score": 508,
+        "descendants": 135,
+        "by": "database64128",
+        "tags": [],
+        "summary": "Go 语言发布 1.27 版本，带来了多项性能提升与功能优化。"
+      },
+      {
+        "id": 49369408,
+        "title": "Turns are Better than Radians",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "domain": "computerenhance.com",
+        "score": 57,
+        "descendants": 33,
+        "by": "mayoff",
+        "tags": [],
+        "summary": "文章论证了在几何与计算中，使用“转（Turns）”作为旋转度量单位比弧度更直观且高效。"
+      },
+      {
+        "id": 49323795,
+        "title": "A faster way to calculate the day of the week",
+        "url": "https://www.benjoffe.com/fast-day-of-week",
+        "domain": "benjoffe.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "gavide",
+        "tags": [],
+        "summary": "介绍了一种能够更快速计算给定日期是星期几的数学算法。"
+      },
+      {
+        "id": 49364745,
+        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "domain": "grapheneos.social",
+        "score": 360,
+        "descendants": 158,
+        "by": "Animux",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GrapheneOS 团队指出 Google 将部分源代码分发方式从 Git 标签改为通过 Google Drive 下载，引发社区对供应链透明度的担忧。"
+      },
+      {
+        "id": 49362001,
+        "title": "Manabu Kosaka's Handmade Paper Sculptures",
+        "url": "https://coca11272000.wixsite.com/manabukosaka",
+        "domain": "coca11272000.wixsite.com",
+        "score": 69,
+        "descendants": 7,
+        "by": "surprisetalk",
+        "tags": [
+          "Science"
+        ],
+        "summary": "展示了艺术家小坂学（Manabu Kosaka）令人惊叹的精密手工纸雕艺术作品。"
+      },
+      {
+        "id": 49294441,
+        "title": "Error by AI scribe during medical appointment leaves patient devastated",
+        "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+        "domain": "abc.net.au",
+        "score": 23,
+        "descendants": 5,
+        "by": "ahonhn",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 AI 医疗记录员在记录过程中出现严重失误，对患者生活造成毁灭性影响的伦理案例。"
+      },
+      {
+        "id": 49365841,
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "domain": "sprocketfox.io",
+        "score": 161,
+        "descendants": 39,
+        "by": "1e1a",
+        "tags": [],
+        "summary": "记录了通过逆向工程手段，解锁并复活一台被厂商强制停用的 Cricut Maker 电子切割机的过程。"
+      },
+      {
+        "id": 49365443,
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "domain": "unsloth.ai",
+        "score": 206,
+        "descendants": 80,
+        "by": "jonesy827",
+        "tags": [],
+        "summary": "Unsloth 发布 3.0 版本，通过引入动态 GGUF 量化技术进一步优化大模型的微调效率。"
+      },
+      {
+        "id": 49360015,
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "domain": "sprocketfox.io",
+        "score": 803,
+        "descendants": 126,
+        "by": "kareiva",
+        "tags": [
+          "AI"
+        ],
+        "summary": "讲述了一次看似普通的域名购买行为如何意外演变成一场地缘政治网络冲突的博弈故事。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sprocketfox.io",
+          "count": 2
+        },
+        {
+          "domain": "openrouter.ai",
+          "count": 1
+        },
+        {
+          "domain": "go.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 296,
+      "max_score": {
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "score": 803
+      },
+      "most_discussed": {
+        "title": "OpenRouter is joining Stripe",
+        "comments": 367
+      },
+      "hot_tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 重点关注科技行业动态，包括 OpenRouter 被 Stripe 收购的消息与 Google 源代码管理方式的争议。此外，技术社区深入探讨了 Go 语言更新、数学表达优化以及关于电子废弃物破解与 AI 在医疗领域引发伦理风险等多样化议题。"
   }
 }
