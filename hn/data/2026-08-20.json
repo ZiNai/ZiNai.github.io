@@ -306,5 +306,149 @@
       ]
     },
     "summary": "今日 Hacker News 重点关注科技行业动态，包括 OpenRouter 被 Stripe 收购的消息与 Google 源代码管理方式的争议。此外，技术社区深入探讨了 Go 语言更新、数学表达优化以及关于电子废弃物破解与 AI 在医疗领域引发伦理风险等多样化议题。"
+  },
+  "evening": {
+    "time": "2026-08-20 20:37",
+    "stories": [
+      {
+        "id": 49371857,
+        "title": "Don't Paste the AI, please",
+        "url": "https://dontpastetheai.com/",
+        "domain": "dontpastetheai.com",
+        "score": 580,
+        "descendants": 280,
+        "by": "pjerem",
+        "tags": [
+          "AI"
+        ],
+        "summary": "呼吁用户在与 AI 交互时应保持谨慎，警惕直接粘贴敏感信息带来的潜在风险。"
+      },
+      {
+        "id": 49372583,
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "domain": "blog.laserphile.com",
+        "score": 181,
+        "descendants": 50,
+        "by": "emctech",
+        "tags": [
+          "Web",
+          "Startup"
+        ],
+        "summary": "研究指出 AliExpress 通过隐蔽的 WebAudio 指纹追踪技术，意外干扰了用户的蓝牙多点连接功能。"
+      },
+      {
+        "id": 49371006,
+        "title": "Windows brings out the Rorschach test in everyone (2003)",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "domain": "devblogs.microsoft.com",
+        "score": 249,
+        "descendants": 94,
+        "by": "luu",
+        "tags": [],
+        "summary": "回顾 2003 年的文章，探讨 Windows 设计如何作为一种反映用户心理预期的“罗夏墨迹测试”。"
+      },
+      {
+        "id": 49373456,
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "domain": "simedw.com",
+        "score": 19,
+        "descendants": 6,
+        "by": "simedw",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示了一个在端侧运行的 125M 参数模型，旨在实现实时的钢琴自动补全创作。"
+      },
+      {
+        "id": 49364559,
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "domain": "openrouter.ai",
+        "score": 889,
+        "descendants": 456,
+        "by": "rvz",
+        "tags": [],
+        "summary": "人工智能接口聚合平台 OpenRouter 宣布正式加入 Stripe，旨在提升 AI 基础设施的规模化支付处理能力。"
+      },
+      {
+        "id": 49369408,
+        "title": "Turns are Better than Radians (2022)",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "domain": "computerenhance.com",
+        "score": 247,
+        "descendants": 127,
+        "by": "mayoff",
+        "tags": [],
+        "summary": "文章论证了在编程与数学运算中，使用“转”（Turns）作为圆周单位比弧度（Radians）更具直观性和实用性。"
+      },
+      {
+        "id": 49364745,
+        "title": "Google has stopped pushing Git tags for some Android source code",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "domain": "grapheneos.social",
+        "score": 672,
+        "descendants": 260,
+        "by": "Animux",
+        "tags": [],
+        "summary": "分析显示 Google 已停止为部分 Android 源码推送 Git 标签，这引发了关于开源透明度与开发流程改变的讨论。"
+      },
+      {
+        "id": 49365405,
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "domain": "go.dev",
+        "score": 688,
+        "descendants": 209,
+        "by": "database64128",
+        "tags": [],
+        "summary": "Go 语言官方发布了 1.27 版本，带来了核心库的更新与语言性能的优化。"
+      },
+      {
+        "id": 49323795,
+        "title": "A faster way to calculate the day of the week",
+        "url": "https://www.benjoffe.com/fast-day-of-week",
+        "domain": "benjoffe.com",
+        "score": 191,
+        "descendants": 42,
+        "by": "gavide",
+        "tags": [],
+        "summary": "介绍了一种在算法层面更高效计算特定日期对应星期的方法。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dontpastetheai.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.laserphile.com",
+          "count": 1
+        },
+        {
+          "domain": "devblogs.microsoft.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 413,
+      "max_score": {
+        "title": "OpenRouter is joining Stripe",
+        "score": 889
+      },
+      "most_discussed": {
+        "title": "OpenRouter is joining Stripe",
+        "comments": 456
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Startup",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术生态的变动与隐私安全挑战，包括 OpenRouter 被 Stripe 收购及 Google 对 Android Git 仓库的管理调整。此外，开发者社区围绕 AI 交互伦理、浏览器隐私追踪及基础数学与编程语言的性能优化展开了深入讨论。"
   }
 }
