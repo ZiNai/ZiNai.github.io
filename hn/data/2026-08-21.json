@@ -160,5 +160,165 @@
       ]
     },
     "summary": "今日Hacker News重点关注技术生态安全与伦理争议，包括大型平台的算法追踪实践、AI版权归属以及供应链安全问题。同时，社区也对技术写作风格、生物学研究感悟等个人化议题保持了高频讨论。"
+  },
+  "noon": {
+    "time": "2026-08-21 12:26",
+    "stories": [
+      {
+        "id": 49378957,
+        "title": "The August 17 outage",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "domain": "github.blog",
+        "score": 391,
+        "descendants": 439,
+        "by": "0xedb",
+        "tags": [],
+        "summary": "GitHub 对 8 月 17 日发生的严重服务中断事件进行了详细的技术复盘与事故分析。"
+      },
+      {
+        "id": 49383326,
+        "title": "Codex on AWS bedrock bug causing 10x charges",
+        "url": "https://github.com/openai/codex/issues/37674",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "TheP1000",
+        "tags": [],
+        "summary": "AWS Bedrock 中的 Codex 相关 Bug 可能导致用户产生高出预期的十倍账单费用。"
+      },
+      {
+        "id": 49347543,
+        "title": "I like 'em thick: an apology to my English teachers",
+        "url": "https://www.experimental-history.com/p/i-like-em-thick",
+        "domain": "experimental-history.com",
+        "score": 620,
+        "descendants": 268,
+        "by": "Ariarule",
+        "tags": [],
+        "summary": "一篇关于英语写作风格的深度随笔，探讨了对语言规范的重新审视与自我表达。"
+      },
+      {
+        "id": 49362689,
+        "title": "HTML Can Do That",
+        "url": "https://chrisburnell.com/html-can-do-that/",
+        "domain": "chrisburnell.com",
+        "score": 632,
+        "descendants": 170,
+        "by": "encyclopedism",
+        "tags": [
+          "Web"
+        ],
+        "summary": "文章总结了 HTML 中许多常被忽视但功能强大的原生特性，鼓励开发者减少对 JS 库的依赖。"
+      },
+      {
+        "id": 49374269,
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "domain": "safedep.io",
+        "score": 421,
+        "descendants": 376,
+        "by": "abhisek",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "分析了一个名为 Arrayref 的恶意 Rust 软件包，它会在编译阶段执行有害载荷。"
+      },
+      {
+        "id": 49377853,
+        "title": "I should have loved biology (2020)",
+        "url": "https://jsomers.net/i-should-have-loved-biology/",
+        "domain": "jsomers.net",
+        "score": 215,
+        "descendants": 82,
+        "by": "tyre",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者回顾对生物学研究的错过与遗憾，探讨科学兴趣的培养与学科交叉的价值。"
+      },
+      {
+        "id": 49304409,
+        "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+        "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
+        "domain": "journals.aps.org",
+        "score": 20,
+        "descendants": 5,
+        "by": "supermagnet",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "学术论文详细介绍了在 4.2K 温度下制造 6 特斯拉级高温超导二极磁体的技术过程。"
+      },
+      {
+        "id": 49383026,
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.gl/blog/physical-destruction.html",
+        "domain": "annas-archive.gl",
+        "score": 136,
+        "descendants": 89,
+        "by": "Cider9986",
+        "tags": [
+          "AI"
+        ],
+        "summary": "呼吁在 AI 公司大规模销毁物理书籍前，社区应加紧对珍稀古籍进行数字归档保护。"
+      },
+      {
+        "id": 49329919,
+        "title": "Captain Zilog",
+        "url": "https://www.zilog.com/captain_zilog/",
+        "domain": "zilog.com",
+        "score": 17,
+        "descendants": 3,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾 Zilog 公司在微处理器领域的发展史，重温经典计算平台的历史印记。"
+      },
+      {
+        "id": 49381896,
+        "title": "Ox Alpha",
+        "url": "https://openrouter.ai/stealth/ox-alpha",
+        "domain": "openrouter.ai",
+        "score": 58,
+        "descendants": 47,
+        "by": "mtokmak06",
+        "tags": [],
+        "summary": "讨论 OpenRouter 新推出的 Ox Alpha 模型，探讨其在 AI 领域的技术定位与影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.blog",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "experimental-history.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 253,
+      "max_score": {
+        "title": "HTML Can Do That",
+        "score": 632
+      },
+      "most_discussed": {
+        "title": "The August 17 outage",
+        "comments": 439
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Rust",
+        "Science",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点涵盖了软件工程领域的重大事故分析与供应链安全隐患，同时伴随对AI技术应用的深层反思。社区讨论重点关注了GitHub故障回顾、恶意软件包攻击警示以及对数字化时代保护人类文化遗产的呼吁。"
   }
 }
