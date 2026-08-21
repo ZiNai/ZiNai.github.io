@@ -320,5 +320,161 @@
       ]
     },
     "summary": "本期 Hacker News 焦点涵盖了软件工程领域的重大事故分析与供应链安全隐患，同时伴随对AI技术应用的深层反思。社区讨论重点关注了GitHub故障回顾、恶意软件包攻击警示以及对数字化时代保护人类文化遗产的呼吁。"
+  },
+  "evening": {
+    "time": "2026-08-21 20:36",
+    "stories": [
+      {
+        "id": 49386163,
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "url": "https://api-docs.deepseek.com/guides/vision/",
+        "domain": "api-docs.deepseek.com",
+        "score": 164,
+        "descendants": 37,
+        "by": "dares2573",
+        "tags": [],
+        "summary": "DeepSeek发布了v4-flash-vision-exp实验性视觉大模型，进一步拓展其AI能力边界。"
+      },
+      {
+        "id": 49385994,
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.pk/blog/physical-destruction.html",
+        "domain": "annas-archive.pk",
+        "score": 113,
+        "descendants": 58,
+        "by": "darccio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "呼吁在AI公司破坏物理图书之前，通过数字化手段抢救并备份珍稀文献。"
+      },
+      {
+        "id": 49386659,
+        "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+        "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+        "domain": "ixuvo.com",
+        "score": 28,
+        "descendants": 6,
+        "by": "ksec",
+        "tags": [],
+        "summary": "深度解析TigerBeetle核心系统架构，探讨高性能金融级数据库的工程实现细节。"
+      },
+      {
+        "id": 49384896,
+        "title": "The Lost Treasure of Sid Meier's Pirates",
+        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+        "domain": "remapradio.com",
+        "score": 141,
+        "descendants": 71,
+        "by": "spankibalt",
+        "tags": [],
+        "summary": "回顾经典游戏《席德·梅尔的海盗》的开发历程及其被遗忘的幕后故事。"
+      },
+      {
+        "id": 49385860,
+        "title": "Small, native web tricks worth remembering",
+        "url": "https://htmlcat.net/",
+        "domain": "htmlcat.net",
+        "score": 84,
+        "descendants": 19,
+        "by": "marcomezzavilla",
+        "tags": [
+          "Web"
+        ],
+        "summary": "整理了一些值得开发者掌握的高效原生Web开发小技巧。"
+      },
+      {
+        "id": 49384716,
+        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+        "url": "https://encore.dev/blog/firecracker-apple-silicon",
+        "domain": "encore.dev",
+        "score": 109,
+        "descendants": 53,
+        "by": "signa11",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "技术团队分享在Apple Silicon架构上重建Linux MicroVM栈的实践经验。"
+      },
+      {
+        "id": 49386383,
+        "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+        "url": "https://github.com/yaroslav/kino",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "ksec",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍专为Ruby 4.0设计的名为Kino的高性能Ractor Web服务器。"
+      },
+      {
+        "id": 49331084,
+        "title": "Flat Chair by Sara Paculdo",
+        "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+        "domain": "toxel.com",
+        "score": 49,
+        "descendants": 16,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨Sara Paculdo设计的Flat Chair，解析其极简的设计理念与结构。"
+      },
+      {
+        "id": 49378957,
+        "title": "The August 17 outage",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "domain": "github.blog",
+        "score": 571,
+        "descendants": 635,
+        "by": "0xedb",
+        "tags": [],
+        "summary": "GitHub官方详细复盘了8月17日发生的重大系统故障及应对措施。"
+      },
+      {
+        "id": 49347543,
+        "title": "I like 'em thick: an apology to my English teachers",
+        "url": "https://www.experimental-history.com/p/i-like-em-thick",
+        "domain": "experimental-history.com",
+        "score": 779,
+        "descendants": 319,
+        "by": "Ariarule",
+        "tags": [],
+        "summary": "一篇关于英语写作风格的反思文章，讨论语言表达厚度与个人修辞习惯的演变。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "api-docs.deepseek.com",
+          "count": 1
+        },
+        {
+          "domain": "annas-archive.pk",
+          "count": 1
+        },
+        {
+          "domain": "ixuvo.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 205,
+      "max_score": {
+        "title": "I like 'em thick: an apology to my English teachers",
+        "score": 779
+      },
+      "most_discussed": {
+        "title": "The August 17 outage",
+        "comments": 635
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿AI模型更新、技术架构深度解析及软件工程实践。从数字化抢救珍稀古籍到系统性能优化与Web技术细节，折射出技术社区对AI时代知识保护、基础设施效能及工程实用技巧的高度关注。"
   }
 }
