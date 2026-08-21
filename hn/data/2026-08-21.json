@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-08-21 08:34",
+    "stories": [
+      {
+        "id": 49378957,
+        "title": "The August 17 outage, and the work ahead",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "domain": "github.blog",
+        "score": 283,
+        "descendants": 330,
+        "by": "0xedb",
+        "tags": [],
+        "summary": "GitHub官方复盘并致歉8月17日的大规模服务中断，并阐述了后续的改进计划。"
+      },
+      {
+        "id": 49378243,
+        "title": "Consumer Rights Wiki",
+        "url": "https://consumerrights.wiki/w/Main_Page",
+        "domain": "consumerrights.wiki",
+        "score": 198,
+        "descendants": 20,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "一个专注于整理全球消费者权益相关信息的百科全书项目。"
+      },
+      {
+        "id": 49347543,
+        "title": "I like 'em thick: an apology to my English teachers",
+        "url": "https://www.experimental-history.com/p/i-like-em-thick",
+        "domain": "experimental-history.com",
+        "score": 539,
+        "descendants": 250,
+        "by": "Ariarule",
+        "tags": [],
+        "summary": "探讨英语写作中关于词句长度与风格的个人反思与观点。"
+      },
+      {
+        "id": 49379550,
+        "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+        "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+        "domain": "blog.curiousquail.com",
+        "score": 825,
+        "descendants": 186,
+        "by": "speckx",
+        "tags": [],
+        "summary": "对比分析亚伦·斯沃茨因抓取数据被起诉与Meta大规模数据采集间的法律待遇不平等。"
+      },
+      {
+        "id": 49372583,
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "domain": "blog.laserphile.com",
+        "score": 859,
+        "descendants": 280,
+        "by": "emctech",
+        "tags": [
+          "Web",
+          "Startup"
+        ],
+        "summary": "披露速卖通通过WebAudio进行静默指纹追踪，并导致蓝牙多点连接中断的技术分析。"
+      },
+      {
+        "id": 49382041,
+        "title": "Copyright does not protect AI-generated content in EU",
+        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+        "domain": "mathstodon.xyz",
+        "score": 10,
+        "descendants": 2,
+        "by": "u1hcw9nx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨欧盟版权法对AI生成内容不予保护的法律定性。"
+      },
+      {
+        "id": 49377853,
+        "title": "I should have loved biology (2020)",
+        "url": "https://jsomers.net/i-should-have-loved-biology/",
+        "domain": "jsomers.net",
+        "score": 185,
+        "descendants": 70,
+        "by": "tyre",
+        "tags": [
+          "Science"
+        ],
+        "summary": "作者回溯学术经历，分享对生物学学科的重新认识与遗憾。"
+      },
+      {
+        "id": 49362689,
+        "title": "HTML Can Do That",
+        "url": "https://chrisburnell.com/html-can-do-that/",
+        "domain": "chrisburnell.com",
+        "score": 545,
+        "descendants": 154,
+        "by": "encyclopedism",
+        "tags": [
+          "Web"
+        ],
+        "summary": "通过实例展示现代HTML原生能力所能实现的高级交互与功能。"
+      },
+      {
+        "id": 49374269,
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "domain": "safedep.io",
+        "score": 379,
+        "descendants": 356,
+        "by": "abhisek",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "技术安全分析：Rust生态中的恶意包通过编译时脚本植入Payload攻击开发者。"
+      },
+      {
+        "id": 49378768,
+        "title": "Show HN: Huzzah – a novel approach to coding with AI",
+        "url": "https://www.danielvaughn.dev/posts/huzzah/",
+        "domain": "danielvaughn.dev",
+        "score": 201,
+        "descendants": 111,
+        "by": "danielvaughn",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "介绍一个旨在革新AI辅助编程体验的开源项目Huzzah。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.blog",
+          "count": 1
+        },
+        {
+          "domain": "consumerrights.wiki",
+          "count": 1
+        },
+        {
+          "domain": "experimental-history.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 402,
+      "max_score": {
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "score": 859
+      },
+      "most_discussed": {
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "comments": 356
+      },
+      "hot_tags": [
+        "Web",
+        "AI",
+        "Startup",
+        "Science",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News重点关注技术生态安全与伦理争议，包括大型平台的算法追踪实践、AI版权归属以及供应链安全问题。同时，社区也对技术写作风格、生物学研究感悟等个人化议题保持了高频讨论。"
+  }
+}
