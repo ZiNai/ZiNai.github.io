@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-08-22 08:32",
+    "stories": [
+      {
+        "id": 49395040,
+        "title": "Paul Atkins Misreads Adam Smith and the American Founding",
+        "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+        "domain": "sites.duke.edu",
+        "score": 26,
+        "descendants": 0,
+        "by": "zaik",
+        "tags": [],
+        "summary": "一篇学术性文章，探讨亚当·斯密思想在美利坚建国过程中被解读的偏差。"
+      },
+      {
+        "id": 49390427,
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "domain": "bandarlabs.github.io",
+        "score": 398,
+        "descendants": 137,
+        "by": "thepoet",
+        "tags": [],
+        "summary": "Kobo 电子书阅读器现在已支持运行第三方应用，大幅扩展了设备的可玩性。"
+      },
+      {
+        "id": 49389430,
+        "title": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "domain": "felonybench.com",
+        "score": 486,
+        "descendants": 220,
+        "by": "colinprince",
+        "tags": [],
+        "summary": "一个旨在为重罪量刑提供透明化参考的在线工具和数据库。"
+      },
+      {
+        "id": 49386895,
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "domain": "nytimes.com",
+        "score": 511,
+        "descendants": 699,
+        "by": "floathub",
+        "tags": [],
+        "summary": "一名公民因在美边境清空手机数据而面临重罪指控，引发关于数字隐私的讨论。"
+      },
+      {
+        "id": 49394985,
+        "title": "Electric shock gloves in use by police departments in Bellevue, Omaha",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
+        "domain": "nebraskapublicmedia.org",
+        "score": 16,
+        "descendants": 13,
+        "by": "rendx",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "报道内布拉斯加州部分警方开始使用电击手套，引发关于执法手段合法性与风险的争议。"
+      },
+      {
+        "id": 49392200,
+        "title": "Scientists release biggest 2D map of the universe",
+        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "domain": "newscenter.lbl.gov",
+        "score": 137,
+        "descendants": 44,
+        "by": "NKosmatos",
+        "tags": [],
+        "summary": "科学家发布了迄今为止最大规模的宇宙二维地图，有助于深入研究天文现象。"
+      },
+      {
+        "id": 49388154,
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "domain": "kagi.com",
+        "score": 986,
+        "descendants": 333,
+        "by": "speckx",
+        "tags": [],
+        "summary": "Kagi 搜索引擎新增功能，允许用户在搜索结果中自动屏蔽付费墙链接。"
+      },
+      {
+        "id": 49357530,
+        "title": "AI boosted homework scores, then exam scores dropped: study",
+        "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+        "domain": "economist.com",
+        "score": 222,
+        "descendants": 281,
+        "by": "dash2",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "最新研究指出，过度依赖 AI 完成作业虽然提升了平时分数，却导致学生在期末考试中成绩下滑。"
+      },
+      {
+        "id": 49387570,
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "domain": "lina.sh",
+        "score": 420,
+        "descendants": 46,
+        "by": "gavide",
+        "tags": [],
+        "summary": "一位开发者讲述自己意外记录并泄露数十万通拨往军事基地通话的经历与反思。"
+      },
+      {
+        "id": 49394827,
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
+        "domain": "ozbrain.com",
+        "score": 19,
+        "descendants": 8,
+        "by": "dariusmonsef",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "展示一个专为代理程序与团队协作设计的新型共享知识大脑平台。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "sites.duke.edu",
+          "count": 1
+        },
+        {
+          "domain": "bandarlabs.github.io",
+          "count": 1
+        },
+        {
+          "domain": "felonybench.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 322,
+      "max_score": {
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "score": 986
+      },
+      "most_discussed": {
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "comments": 699
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Science",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在法律隐私与科技伦理，包括边境数据安全、警用强制力手段及军事通话泄露等争议议题。此外，技术圈持续关注个人计算设备的开放性，以及 AI 在教育辅助与知识协作领域的应用潜力。"
+  }
+}
