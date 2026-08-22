@@ -299,5 +299,153 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于科技与法律的交叉议题，包括数字隐私权、软件性能优化及前沿科学发现。社区讨论重点涵盖了从浏览器搜索体验改进到边境个人数据保护等深度议题，反映了用户对数字工具控制权与底层系统效率的持续关注。"
+  },
+  "evening": {
+    "time": "2026-08-22 20:28",
+    "stories": [
+      {
+        "id": 49398304,
+        "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+        "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+        "domain": "pm.gc.ca",
+        "score": 310,
+        "descendants": 187,
+        "by": "backlit4034",
+        "tags": [],
+        "summary": "加拿大宣布暂停与美国的贸易谈判，并对美国实施等额关税报复。"
+      },
+      {
+        "id": 49398158,
+        "title": "Z80–The 1970s Microprocessor Still Alive",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "domain": "computer.org",
+        "score": 30,
+        "descendants": 14,
+        "by": "asdefghyk",
+        "tags": [],
+        "summary": "探讨经典的Z80微处理器为何在诞生半个世纪后依然在工业界焕发活力。"
+      },
+      {
+        "id": 49398152,
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "domain": "munderdiffl.in",
+        "score": 43,
+        "descendants": 17,
+        "by": "simonpure",
+        "tags": [],
+        "summary": "一个关于重罪量刑基准的在线查询平台，提供详尽的法律判例数据分析。"
+      },
+      {
+        "id": 49393052,
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "url": "https://rust-glancer.github.io/blog/hello-world/",
+        "domain": "rust-glancer.github.io",
+        "score": 293,
+        "descendants": 56,
+        "by": "matklad",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Rust Glancer：通过优化内存使用，比现有LSP减少100倍内存占用的Rust语言服务协议实现。"
+      },
+      {
+        "id": 49389430,
+        "title": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "domain": "felonybench.com",
+        "score": 752,
+        "descendants": 280,
+        "by": "colinprince",
+        "tags": []
+      },
+      {
+        "id": 49390427,
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "domain": "bandarlabs.github.io",
+        "score": 579,
+        "descendants": 191,
+        "by": "thepoet",
+        "tags": [],
+        "summary": "开发者发现Kobo电子阅读器现已支持运行自定义应用程序，极大扩展了设备的使用场景。"
+      },
+      {
+        "id": 49386895,
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "domain": "nytimes.com",
+        "score": 855,
+        "descendants": 981,
+        "by": "floathub",
+        "tags": [],
+        "summary": "一名公民因在美边境删除手机数据而被指控重罪，该事件引发了关于数字隐私与法律边界的激烈讨论。"
+      },
+      {
+        "id": 49395628,
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "domain": "danluu.com",
+        "score": 477,
+        "descendants": 335,
+        "by": "Jach",
+        "tags": [],
+        "summary": "技术博客深度分析了现代软件为何普遍变得缓慢，指出性能优化在技术上已不再是制约因素。"
+      },
+      {
+        "id": 49387570,
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "domain": "lina.sh",
+        "score": 578,
+        "descendants": 70,
+        "by": "gavide",
+        "tags": [],
+        "summary": "一位开发者讲述自己因技术疏忽导致几十万条通话记录被意外同步至军事基地的惊险经历。"
+      },
+      {
+        "id": 49388694,
+        "title": "Zig’s io.threaded is neat",
+        "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "domain": "matklad.github.io",
+        "score": 92,
+        "descendants": 49,
+        "by": "chilipepperhott",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入解析Zig语言中io.threaded的设计实现及其带来的编程便利性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pm.gc.ca",
+          "count": 1
+        },
+        {
+          "domain": "computer.org",
+          "count": 1
+        },
+        {
+          "domain": "munderdiffl.in",
+          "count": 1
+        }
+      ],
+      "avg_score": 401,
+      "max_score": {
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "score": 855
+      },
+      "most_discussed": {
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "comments": 981
+      },
+      "hot_tags": [
+        "Rust",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了国际地缘政治与数字隐私安全、底层技术开发以及性能优化。从边境数据删除的法律风险到对现代软件臃肿速度的深度剖析，体现了社区对系统架构效率与数字公民权利的持续关注。"
   }
 }
