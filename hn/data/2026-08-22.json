@@ -153,5 +153,151 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在法律隐私与科技伦理，包括边境数据安全、警用强制力手段及军事通话泄露等争议议题。此外，技术圈持续关注个人计算设备的开放性，以及 AI 在教育辅助与知识协作领域的应用潜力。"
+  },
+  "noon": {
+    "time": "2026-08-22 12:21",
+    "stories": [
+      {
+        "id": 49395628,
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "domain": "danluu.com",
+        "score": 155,
+        "descendants": 136,
+        "by": "Jach",
+        "tags": [],
+        "summary": "作者探讨了为何现代硬件足以支撑高效软件，并呼吁开发者重新关注软件性能优化。"
+      },
+      {
+        "id": 49389430,
+        "title": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "domain": "felonybench.com",
+        "score": 580,
+        "descendants": 241,
+        "by": "colinprince",
+        "tags": [],
+        "summary": "这是一个针对重罪审判的法律资源平台，旨在提升司法程序信息的透明度。"
+      },
+      {
+        "id": 49390427,
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "domain": "bandarlabs.github.io",
+        "score": 464,
+        "descendants": 164,
+        "by": "thepoet",
+        "tags": [],
+        "summary": "开发者展示了如何让 Kobo 电子阅读器运行第三方应用程序，极大拓展了硬件潜力。"
+      },
+      {
+        "id": 49393052,
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "url": "https://rust-glancer.github.io/blog/hello-world/",
+        "domain": "rust-glancer.github.io",
+        "score": 72,
+        "descendants": 24,
+        "by": "matklad",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍了一款轻量级 Rust 语言服务器，在保持功能的同时将内存占用降低了 100 倍。"
+      },
+      {
+        "id": 49395605,
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+        "domain": "grapheneos.social",
+        "score": 35,
+        "descendants": 13,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "GrapheneOS 团队宣布与摩托罗拉合作，重点开发常规形态的安全 Android 设备。"
+      },
+      {
+        "id": 49394496,
+        "title": "Three important steps in my maturation process",
+        "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+        "domain": "thomasdullien.github.io",
+        "score": 88,
+        "descendants": 26,
+        "by": "tdullien",
+        "tags": [],
+        "summary": "作者通过个人经验总结了职业与生活心智成熟过程中的三个关键认知阶段。"
+      },
+      {
+        "id": 49392200,
+        "title": "Scientists release biggest 2D map of the universe",
+        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "domain": "newscenter.lbl.gov",
+        "score": 164,
+        "descendants": 52,
+        "by": "NKosmatos",
+        "tags": [],
+        "summary": "科学家发布了迄今为止规模最大的二维宇宙地图，为理解宇宙结构提供重要数据。"
+      },
+      {
+        "id": 49388154,
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "domain": "kagi.com",
+        "score": 1044,
+        "descendants": 349,
+        "by": "speckx",
+        "tags": [],
+        "summary": "Kagi 搜索引擎上线新功能，允许用户直接从搜索结果中过滤掉付费墙内容。"
+      },
+      {
+        "id": 49386895,
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "domain": "nytimes.com",
+        "score": 636,
+        "descendants": 792,
+        "by": "floathub",
+        "tags": [],
+        "summary": "讨论一名美国边境旅客因删除手机数据被控重罪的法律争议与隐私权边界。"
+      },
+      {
+        "id": 49396086,
+        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+        "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+        "domain": "history.com",
+        "score": 13,
+        "descendants": 12,
+        "by": "gmays",
+        "tags": [],
+        "summary": "考古学研究指出早期人类饮食结构远比预想中复杂，已开始摄入碳水与糖类食物。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "danluu.com",
+          "count": 1
+        },
+        {
+          "domain": "felonybench.com",
+          "count": 1
+        },
+        {
+          "domain": "bandarlabs.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 325,
+      "max_score": {
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "score": 1044
+      },
+      "most_discussed": {
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "comments": 792
+      },
+      "hot_tags": [
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于科技与法律的交叉议题，包括数字隐私权、软件性能优化及前沿科学发现。社区讨论重点涵盖了从浏览器搜索体验改进到边境个人数据保护等深度议题，反映了用户对数字工具控制权与底层系统效率的持续关注。"
   }
 }
