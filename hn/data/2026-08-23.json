@@ -150,5 +150,156 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术演进及其影响，涵盖从NanoGPT底层优化到本地模型性能分析，以及AI伦理与安全相关的探讨。此外，编程工具、开源项目与技术怀旧内容也引起了开发者社区的广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-08-23 12:26",
+    "stories": [
+      {
+        "id": 49402189,
+        "title": "Scrap (2006)",
+        "url": "https://twitter.com/moxie/status/2091218652133732491",
+        "domain": "twitter.com",
+        "score": 341,
+        "descendants": 185,
+        "by": "tosh",
+        "tags": [],
+        "summary": "探讨 2006 年时期对于“Scrap”及相关网页抓取技术的早期思考与实践。"
+      },
+      {
+        "id": 49402232,
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "domain": "forum.level1techs.com",
+        "score": 230,
+        "descendants": 81,
+        "by": "felineflock",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析导致本地运行大模型表现不如预期的各种技术瓶颈及优化建议。"
+      },
+      {
+        "id": 49404380,
+        "title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "domain": "primeintellect.ai",
+        "score": 67,
+        "descendants": 18,
+        "by": "stared",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍 NanoGPT 在性能提升与架构创新方面的最新进展与尝试。"
+      },
+      {
+        "id": 49400408,
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "url": "https://quantumi.sh/public/labs.html",
+        "domain": "quantumi.sh",
+        "score": 339,
+        "descendants": 107,
+        "by": "jemoka",
+        "tags": [],
+        "summary": "调侃并分析当前 AI 公司命名趋同化的现象，引发关于创新与品牌同质化的讨论。"
+      },
+      {
+        "id": 49351802,
+        "title": "Hister – A private, full content search index that you control",
+        "url": "https://hister.org/",
+        "domain": "hister.org",
+        "score": 273,
+        "descendants": 73,
+        "by": "auraham",
+        "tags": [],
+        "summary": "展示一款由用户自主掌控的私有化全内容搜索索引系统 Hister。"
+      },
+      {
+        "id": 49346854,
+        "title": "typ.ing",
+        "url": "https://typ.ing/",
+        "domain": "typ.ing",
+        "score": 211,
+        "descendants": 62,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "分享一个简洁的在线打字练习平台及其背后的设计理念。"
+      },
+      {
+        "id": 49355659,
+        "title": "RF Cafe",
+        "url": "https://www.rfcafe.com/",
+        "domain": "rfcafe.com",
+        "score": 169,
+        "descendants": 28,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "推荐一个汇集射频（RF）技术资源、历史资料与行业知识的专业网站。"
+      },
+      {
+        "id": 49402107,
+        "title": "Reading Maps – Journeys from fiction drawn on the real world",
+        "url": "https://readingmaps.com/",
+        "domain": "readingmaps.com",
+        "score": 16,
+        "descendants": 2,
+        "by": "hakkikonu",
+        "tags": [],
+        "summary": "通过虚构故事中的地图创作，探究文学作品如何映射与重构现实世界。"
+      },
+      {
+        "id": 49405816,
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "url": "https://martypc.net/",
+        "domain": "martypc.net",
+        "score": 4,
+        "descendants": 0,
+        "by": "boilerupnc",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍一款使用 Rust 编写的、旨在重现早期个人计算机体验的跨平台模拟器。"
+      },
+      {
+        "id": 49399898,
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "domain": "geometridae.bearblog.dev",
+        "score": 209,
+        "descendants": 108,
+        "by": "signa11",
+        "tags": [],
+        "summary": "面向初学者的 Racket 编程语言入门指南，帮助开发者快速掌握其函数式特性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "forum.level1techs.com",
+          "count": 1
+        },
+        {
+          "domain": "primeintellect.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 186,
+      "max_score": {
+        "title": "Scrap (2006)",
+        "score": 341
+      },
+      "most_discussed": {
+        "title": "Scrap (2006)",
+        "comments": 185
+      },
+      "hot_tags": [
+        "AI",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能模型优化与开发工具的演进，展现了社区对本地 LLM 潜力及高效架构方案的持续探索。此外，个人化搜索工具、复古计算模拟以及编程语言教程等主题也受到广泛关注。"
   }
 }
