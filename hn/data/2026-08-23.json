@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-08-23 08:34",
+    "stories": [
+      {
+        "id": 49402189,
+        "title": "Scrap",
+        "url": "https://twitter.com/moxie/status/2091218652133732491",
+        "domain": "twitter.com",
+        "score": 288,
+        "descendants": 139,
+        "by": "tosh",
+        "tags": [],
+        "summary": "探讨名为Scrap的工具及其在开发生态中的应用与价值。"
+      },
+      {
+        "id": 49404380,
+        "title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "domain": "primeintellect.ai",
+        "score": 34,
+        "descendants": 6,
+        "by": "stared",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析NanoGPT模型在训练与推理阶段的性能加速技巧与前沿进展。"
+      },
+      {
+        "id": 49402232,
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "domain": "forum.level1techs.com",
+        "score": 160,
+        "descendants": 46,
+        "by": "felineflock",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析为何本地部署的大模型表现常被低估，探讨量化与上下文配置对感官体验的影响。"
+      },
+      {
+        "id": 49402781,
+        "title": "NetBSD and my life (2005)",
+        "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+        "domain": "mail-index.netbsd.org",
+        "score": 87,
+        "descendants": 22,
+        "by": "gnyeki",
+        "tags": [],
+        "summary": "一篇关于NetBSD系统历史及其在作者个人职业生涯中深远影响的感悟文章。"
+      },
+      {
+        "id": 49400408,
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "url": "https://quantumi.sh/public/labs.html",
+        "domain": "quantumi.sh",
+        "score": 291,
+        "descendants": 98,
+        "by": "jemoka",
+        "tags": [],
+        "summary": "调侃并分析AI领域近期激增的“Labs”类创业公司现象及其命名风潮。"
+      },
+      {
+        "id": 49351802,
+        "title": "Hister – A private, full content search index that you control",
+        "url": "https://hister.org/",
+        "domain": "hister.org",
+        "score": 218,
+        "descendants": 65,
+        "by": "auraham",
+        "tags": [],
+        "summary": "介绍Hister，一款主打隐私安全且支持全文检索的个人本地索引工具。"
+      },
+      {
+        "id": 49355659,
+        "title": "RF Cafe",
+        "url": "https://www.rfcafe.com/",
+        "domain": "rfcafe.com",
+        "score": 142,
+        "descendants": 23,
+        "by": "gregsadetsky",
+        "tags": [],
+        "summary": "回顾射频工程社区网站RF Cafe，讨论其作为专业技术资源的价值。"
+      },
+      {
+        "id": 49346854,
+        "title": "typ.ing",
+        "url": "https://typ.ing/",
+        "domain": "typ.ing",
+        "score": 164,
+        "descendants": 54,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "探索typ.ing网站提供的功能及其在打字练习或特定技术应用场景下的实用性。"
+      },
+      {
+        "id": 49387959,
+        "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+        "domain": "reuters.com",
+        "score": 97,
+        "descendants": 36,
+        "by": "olalonde",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "讲述一名德州学生如何发现并揭露一起非法AI黑客攻击事件的纪实调查。"
+      },
+      {
+        "id": 49399898,
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "domain": "geometridae.bearblog.dev",
+        "score": 181,
+        "descendants": 91,
+        "by": "signa11",
+        "tags": [],
+        "summary": "一篇面向初学者的Racket编程语言入门指南，阐述其函数式编程的魅力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "primeintellect.ai",
+          "count": 1
+        },
+        {
+          "domain": "forum.level1techs.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 166,
+      "max_score": {
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "score": 291
+      },
+      "most_discussed": {
+        "title": "Scrap",
+        "comments": 139
+      },
+      "hot_tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术演进及其影响，涵盖从NanoGPT底层优化到本地模型性能分析，以及AI伦理与安全相关的探讨。此外，编程工具、开源项目与技术怀旧内容也引起了开发者社区的广泛讨论。"
+  }
+}
