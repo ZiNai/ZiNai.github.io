@@ -301,5 +301,156 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能模型优化与开发工具的演进，展现了社区对本地 LLM 潜力及高效架构方案的持续探索。此外，个人化搜索工具、复古计算模拟以及编程语言教程等主题也受到广泛关注。"
+  },
+  "evening": {
+    "time": "2026-08-23 20:29",
+    "stories": [
+      {
+        "id": 49406333,
+        "title": "The End of an Athlon",
+        "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+        "domain": "os2museum.com",
+        "score": 124,
+        "descendants": 38,
+        "by": "userbinator",
+        "tags": [],
+        "summary": "回顾AMD Athlon处理器历史的告别之作。"
+      },
+      {
+        "id": 49405870,
+        "title": "To become a better writer, read as much as you can",
+        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+        "domain": "nappertime.com",
+        "score": 225,
+        "descendants": 146,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "探讨通过大量阅读提升写作能力的深层逻辑与实践。"
+      },
+      {
+        "id": 49407576,
+        "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+        "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+        "domain": "bbc.com",
+        "score": 20,
+        "descendants": 4,
+        "by": "epestr",
+        "tags": [],
+        "summary": "悉尼马拉松奖牌设计出现乌龙，误用慕尼黑体育场图案。"
+      },
+      {
+        "id": 49407309,
+        "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+        "url": "https://skylens.yantraai.app/",
+        "domain": "skylens.yantraai.app",
+        "score": 19,
+        "descendants": 0,
+        "by": "skylensspace",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一个实时3D卫星追踪器及五角大楼解密UFO档案库项目。"
+      },
+      {
+        "id": 49406387,
+        "title": "JIT Compiling Code in 5μs",
+        "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "domain": "malisper.me",
+        "score": 88,
+        "descendants": 50,
+        "by": "zX41ZdbW",
+        "tags": [],
+        "summary": "深入研究如何实现5微秒级别的即时（JIT）代码编译。"
+      },
+      {
+        "id": 49405816,
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "url": "https://martypc.net/",
+        "domain": "martypc.net",
+        "score": 133,
+        "descendants": 43,
+        "by": "boilerupnc",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍一款由Rust编写、支持跨平台的早期PC模拟器MartyPC。"
+      },
+      {
+        "id": 49406285,
+        "title": "Fast and Hard Code",
+        "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+        "domain": "lucumr.pocoo.org",
+        "score": 53,
+        "descendants": 16,
+        "by": "tosh",
+        "tags": [],
+        "summary": "探讨在编程中追求代码执行速度与严谨性的平衡之道。"
+      },
+      {
+        "id": 49407507,
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+        "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+        "domain": "xda-developers.com",
+        "score": 48,
+        "descendants": 10,
+        "by": "raybb",
+        "tags": [],
+        "summary": "实测Qwen 3.8 27B模型在半小时内完成逆向工程任务的潜力。"
+      },
+      {
+        "id": 49402232,
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "domain": "forum.level1techs.com",
+        "score": 385,
+        "descendants": 147,
+        "by": "felineflock",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49405331,
+        "title": "The Art and Beauty of Blade Runner (2015)",
+        "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+        "domain": "nappertime.com",
+        "score": 104,
+        "descendants": 44,
+        "by": "cocacola1",
+        "tags": [],
+        "summary": "赏析纪录片《Blade Runner (2015)》中的艺术美学与视觉风格。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nappertime.com",
+          "count": 2
+        },
+        {
+          "domain": "os2museum.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 120,
+      "max_score": {
+        "title": "Why your local LLM feels dumber than it is",
+        "score": 385
+      },
+      "most_discussed": {
+        "title": "Why your local LLM feels dumber than it is",
+        "comments": 147
+      },
+      "hot_tags": [
+        "Show HN",
+        "Rust",
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News重点关注技术深度探讨与人工智能的实际应用。话题涵盖了性能优化、开源模拟器开发，以及LLM在特定任务如逆向工程中的表现与使用技巧。"
   }
 }
