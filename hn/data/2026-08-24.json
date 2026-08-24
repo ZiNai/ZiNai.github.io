@@ -313,5 +313,166 @@
       ]
     },
     "summary": "本期 Hacker News 关注焦点集中在工程实践与系统架构的反思，涵盖了职场技能提升、复杂系统故障分析以及 AI 在代码辅助与游戏交互中的创新应用。此外，硬件迁移经验与网络安全漏洞依然是社区讨论的热门技术话题。"
+  },
+  "evening": {
+    "time": "2026-08-24 20:38",
+    "stories": [
+      {
+        "id": 49418255,
+        "title": "SeL4 security proofs now complete on AArch64",
+        "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+        "domain": "proofcraft.systems",
+        "score": 30,
+        "descendants": 4,
+        "by": "snvzz",
+        "tags": [
+          "Security"
+        ],
+        "summary": "seL4 微内核在 AArch64 架构上的安全验证正式完成，标志着其安全保障体系进一步扩展至主流硬件平台。"
+      },
+      {
+        "id": 49412396,
+        "title": "I were 17, I'd learn how to build LLMs from scratch",
+        "url": "https://twitter.com/paulg/status/2091544343589060625",
+        "domain": "twitter.com",
+        "score": 233,
+        "descendants": 333,
+        "by": "bilsbie",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了给年轻一代的建议：比起应用层开发，深入理解并从零构建 LLM 才是更有价值的路径。"
+      },
+      {
+        "id": 49413320,
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "domain": "schlarp.com",
+        "score": 1072,
+        "descendants": 292,
+        "by": "schlarpc",
+        "tags": [],
+        "summary": "一篇深度个人叙事，探讨了在物质极简主义与数字化时代，我们对物品所有权及生活意义的重新思考。"
+      },
+      {
+        "id": 49418032,
+        "title": "Omacom Foundation funding hits $10M",
+        "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+        "domain": "omarchy.org",
+        "score": 42,
+        "descendants": 35,
+        "by": "tosh",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Omacom 基金会宣布获得 1000 万美元融资，旨在推动特定开源计算生态的发展。"
+      },
+      {
+        "id": 49418117,
+        "title": "Omakase Computing",
+        "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+        "domain": "learn.omacom.io",
+        "score": 23,
+        "descendants": 20,
+        "by": "Bluestein",
+        "tags": [],
+        "summary": "介绍了“Omakase 计算”理念，探讨在复杂系统中如何通过精选工具组合实现高效的开发体验。"
+      },
+      {
+        "id": 49415893,
+        "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+        "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+        "domain": "medicine.washu.edu",
+        "score": 75,
+        "descendants": 26,
+        "by": "dabinat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "FDA 批准了一项用于辅助阿尔茨海默病诊断的血液检测技术，这一进展显著简化了相关筛查过程。"
+      },
+      {
+        "id": 49415271,
+        "title": "Executable Is a SQLite Database",
+        "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "domain": "fzakaria.com",
+        "score": 171,
+        "descendants": 21,
+        "by": "setheron",
+        "tags": [
+          "Database"
+        ],
+        "summary": "深入探讨了将可执行文件直接作为 SQLite 数据库存储的创新架构设计及其潜在应用场景。"
+      },
+      {
+        "id": 49416953,
+        "title": "The Future Belongs to the Weird",
+        "url": "https://essays.georgestrakhov.com/weird/",
+        "domain": "essays.georgestrakhov.com",
+        "score": 41,
+        "descendants": 23,
+        "by": "georgestrakhov",
+        "tags": [],
+        "summary": "文章论证了在标准化与同质化的 AI 浪潮下，独特的个性和“怪异”的创意将成为未来的核心竞争力。"
+      },
+      {
+        "id": 49418163,
+        "title": "Agent Is Not the Model",
+        "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+        "domain": "code.joejag.com",
+        "score": 8,
+        "descendants": 0,
+        "by": "joejag",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术解析文章，澄清了智能体（Agent）与底层大模型（Model）之间的逻辑区别及其协作边界。"
+      },
+      {
+        "id": 49411102,
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "domain": "ft.com",
+        "score": 590,
+        "descendants": 528,
+        "by": "naves",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度报道指出，尽管 Anthropic 推出了最强模型，但在市场竞争中仍面临用户获取难、廉价工具更受青睐的商业压力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "proofcraft.systems",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "schlarp.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 228,
+      "max_score": {
+        "title": "Everything I own, owned",
+        "score": 1072
+      },
+      "most_discussed": {
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "comments": 528
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Startup",
+        "Database"
+      ]
+    },
+    "summary": "今日 Hacker News 的讨论焦点集中在 AI 生态的演变与挑战，包括大模型商业化的困境、开发理念的探讨以及前沿技术应用。此外，系统架构的底层创新（如 seL4 安全证明）和关于数字化资产与生活方式的个人深度叙事也引发了广泛共鸣。"
   }
 }
