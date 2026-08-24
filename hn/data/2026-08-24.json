@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-08-24 08:33",
+    "stories": [
+      {
+        "id": 49413320,
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "domain": "schlarp.com",
+        "score": 169,
+        "descendants": 47,
+        "by": "schlarpc",
+        "tags": [],
+        "summary": "关于个人物品拥有权的哲学思考与极简主义生活的感悟。"
+      },
+      {
+        "id": 49411643,
+        "title": "How I find problems to solve as a staff engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "domain": "lalitm.com",
+        "score": 243,
+        "descendants": 93,
+        "by": "vanpra",
+        "tags": [],
+        "summary": "一名Staff工程师分享其如何在复杂的工程环境中识别并定义高价值技术问题的策略。"
+      },
+      {
+        "id": 49411102,
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "domain": "ft.com",
+        "score": 162,
+        "descendants": 135,
+        "by": "naves",
+        "tags": [
+          "AI"
+        ],
+        "summary": "金融时报分析Anthropic的高端AI模型为何在低成本替代工具的竞争中面临用户增长困境。"
+      },
+      {
+        "id": 49405657,
+        "title": "AI Chip Architectures",
+        "url": "https://www.jepeake.com/ai-chip-architectures",
+        "domain": "jepeake.com",
+        "score": 27,
+        "descendants": 1,
+        "by": "Finbarr",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "探讨现代AI芯片背后的关键架构设计与技术权衡。"
+      },
+      {
+        "id": 49411717,
+        "title": "Google Workspace thinks my domain is an email provider (2025)",
+        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+        "domain": "blog.elis.cc",
+        "score": 153,
+        "descendants": 34,
+        "by": "el1s7",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "作者记录了Google Workspace将其个人域名误识别为邮件服务商的技术排障过程。"
+      },
+      {
+        "id": 49410932,
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "domain": "fabiensanglard.net",
+        "score": 135,
+        "descendants": 68,
+        "by": "ibobev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享如何利用agent.md配置来提升大模型辅助代码开发的工作流质量。"
+      },
+      {
+        "id": 49409092,
+        "title": "What Is a Harness?",
+        "url": "https://earendil.com/posts/what-is-a-harness/",
+        "domain": "earendil.com",
+        "score": 280,
+        "descendants": 129,
+        "by": "tosh",
+        "tags": [],
+        "summary": "详细解释了“Harness”概念在软件开发及构建系统中的具体定义与作用。"
+      },
+      {
+        "id": 49409473,
+        "title": "How Complex Systems Fail (1998)",
+        "url": "https://how.complexsystems.fail/",
+        "domain": "how.complexsystems.fail",
+        "score": 226,
+        "descendants": 61,
+        "by": "shortcrct",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重温1998年的经典论文，深刻阐述复杂系统失效的普遍规律与内在逻辑。"
+      },
+      {
+        "id": 49408550,
+        "title": "Malware infects Android-based automotive head unit firmware",
+        "url": "https://securelist.com/android-head-unit-malware/121106/",
+        "domain": "securelist.com",
+        "score": 204,
+        "descendants": 104,
+        "by": "campuscodi",
+        "tags": [],
+        "summary": "研究报告披露了恶意软件如何感染基于安卓系统的车载主机固件。"
+      },
+      {
+        "id": 49412909,
+        "title": "Implementation of GPT-2 in pure CMake",
+        "url": "https://github.com/AlpinDale/gpt2.cmake",
+        "domain": "github.com",
+        "score": 17,
+        "descendants": 4,
+        "by": "porridgeraisin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个纯粹由CMake语言实现的GPT-2模型，展示了构建工具的另类应用潜力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "schlarp.com",
+          "count": 1
+        },
+        {
+          "domain": "lalitm.com",
+          "count": 1
+        },
+        {
+          "domain": "ft.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 162,
+      "max_score": {
+        "title": "What Is a Harness?",
+        "score": 280
+      },
+      "most_discussed": {
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "comments": 135
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点集中在技术工程实践与系统架构分析，既有关于Staff工程师解决问题的职业思考，也有对复杂系统故障机制、AI模型市场表现及底层芯片架构的深度剖析。整体展现了技术社区对构建高质量工程、维护安全与理解前沿AI落地挑战的浓厚兴趣。"
+  }
+}
