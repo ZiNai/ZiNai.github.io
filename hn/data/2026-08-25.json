@@ -304,5 +304,161 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点集中在科技巨头的隐私政策与硬件性能突破，以及对数字基础设施和城市公共资源的深度批判。从AI安全、开源工具到欧洲创企的生存环境，社区正积极审视技术对个人隐私、社会治理及创业生态的广泛影响。"
+  },
+  "evening": {
+    "time": "2026-08-25 20:37",
+    "stories": [
+      {
+        "id": 49432319,
+        "title": "Don't Wordle",
+        "url": "https://dontwordle.com/",
+        "domain": "dontwordle.com",
+        "score": 11,
+        "descendants": 2,
+        "by": "Hbruz0",
+        "tags": [],
+        "summary": "一款反向思维的 Wordle 衍生游戏，鼓励用户避免猜中答案。"
+      },
+      {
+        "id": 49432227,
+        "title": "HelloAssembly The smallest possible complete Windows application",
+        "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 9,
+        "by": "Bluestein",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "哈佛商学院研究指出，信用卡奖励系统在经济结构中造成了高达 92 亿美元的财富转移。"
+      },
+      {
+        "id": 49426564,
+        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+        "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+        "domain": "developer.apple.com",
+        "score": 510,
+        "descendants": 155,
+        "by": "K7PJP",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果官方确认 iCloud+ 隐藏邮箱地址将继续维持在 icloud.com 域名下，并未发生改变。"
+      },
+      {
+        "id": 49421158,
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+        "domain": "xusheng.dev",
+        "score": 752,
+        "descendants": 363,
+        "by": "ComputerGuru",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "调查发现微软画图和照片应用会在本地生成的图片中植入隐形 GUID 水印。"
+      },
+      {
+        "id": 49420873,
+        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+        "url": "https://twitter.com/lemire/status/2091894299289874926",
+        "domain": "twitter.com",
+        "score": 911,
+        "descendants": 653,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "对比分析指出小米新款 CPU 在单核性能上追平苹果，多核表现则显著超越。"
+      },
+      {
+        "id": 49432201,
+        "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+        "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+        "domain": "library.hbs.edu",
+        "score": 82,
+        "descendants": 108,
+        "by": "conbrian",
+        "tags": []
+      },
+      {
+        "id": 49428121,
+        "title": "How Universities Should Prepare Founders",
+        "url": "https://paulgraham.com/prepare.html",
+        "domain": "paulgraham.com",
+        "score": 163,
+        "descendants": 191,
+        "by": "gmays",
+        "tags": [],
+        "summary": "保罗·格雷厄姆撰文探讨大学应如何通过机制设置更好地培养创业者。"
+      },
+      {
+        "id": 49431560,
+        "title": "Quantum battery upends the rules of charging",
+        "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+        "domain": "bbc.com",
+        "score": 43,
+        "descendants": 41,
+        "by": "reconnecting",
+        "tags": [
+          "Science"
+        ],
+        "summary": "量子电池技术研究取得进展，可能从根本上改变现有的电能存储与充电规则。"
+      },
+      {
+        "id": 49428638,
+        "title": "SiFive's First Server Platform",
+        "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+        "domain": "chipsandcheese.com",
+        "score": 75,
+        "descendants": 19,
+        "by": "geerlingguy",
+        "tags": [],
+        "summary": "深度测评 SiFive 推出首款服务器平台，分析其在 RISC-V 架构领域的性能与潜力。"
+      },
+      {
+        "id": 49419237,
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+        "domain": "lectronz.com",
+        "score": 1457,
+        "descendants": 917,
+        "by": "l-one-lone",
+        "tags": [],
+        "summary": "探讨欧洲现行法规如何通过高合规成本，严重阻碍小型创客与微型创业者的生存空间。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dontwordle.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "developer.apple.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 402,
+      "max_score": {
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "score": 1457
+      },
+      "most_discussed": {
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "comments": 917
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术隐私与软硬件底层发展。话题涵盖了微软应用的隐形水印技术、苹果 iCloud 邮箱策略更新以及小米自研 CPU 的性能突破，同时引发了关于学术创业扶持、电子支付机制及欧洲监管对小微企业影响的深度讨论。"
   }
 }
