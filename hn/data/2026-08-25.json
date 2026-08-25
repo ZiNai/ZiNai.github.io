@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-08-25 08:33",
+    "stories": [
+      {
+        "id": 49426564,
+        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+        "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+        "domain": "developer.apple.com",
+        "score": 171,
+        "descendants": 35,
+        "by": "K7PJP",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果确认iCloud+的“隐藏邮件”功能地址将继续保留在icloud.com域名下。"
+      },
+      {
+        "id": 49420873,
+        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+        "url": "https://twitter.com/lemire/status/2091894299289874926",
+        "domain": "twitter.com",
+        "score": 707,
+        "descendants": 476,
+        "by": "tosh",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "讨论小米新处理器在单核性能上追平苹果核心，且多核性能显著领先的测试表现。"
+      },
+      {
+        "id": 49426466,
+        "title": "Moon (2024)",
+        "url": "https://ciechanow.ski/moon/",
+        "domain": "ciechanow.ski",
+        "score": 79,
+        "descendants": 13,
+        "by": "simonebrunozzi",
+        "tags": [],
+        "summary": "一篇关于2024年动画短片《Moon》的技术深度解析与视觉艺术分享。"
+      },
+      {
+        "id": 49421158,
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+        "domain": "xusheng.dev",
+        "score": 533,
+        "descendants": 215,
+        "by": "ComputerGuru",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "揭露微软画图和照片应用即便在本地生成图片时，也会悄悄植入包含全局唯一标识符（GUID）的隐形水印。"
+      },
+      {
+        "id": 49425819,
+        "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+        "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+        "domain": "cnn.com",
+        "score": 112,
+        "descendants": 86,
+        "by": "related",
+        "tags": [],
+        "summary": "探讨中国互联网上一小部分群体质疑唐朝历史真实性的怪诞文化现象。"
+      },
+      {
+        "id": 49422784,
+        "title": "The entire city of San Francisco as a video game",
+        "url": "https://sf.thijs.gg/",
+        "domain": "sf.thijs.gg",
+        "score": 321,
+        "descendants": 111,
+        "by": "centrosphere",
+        "tags": [],
+        "summary": "展示了一个将整个旧金山市高度还原为互动电子游戏环境的创意项目。"
+      },
+      {
+        "id": 49419237,
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+        "domain": "lectronz.com",
+        "score": 1030,
+        "descendants": 645,
+        "by": "l-one-lone",
+        "tags": [],
+        "summary": "深度剖析欧洲严苛的法规环境如何抑制了独立制造者与微型创业者的生存空间。"
+      },
+      {
+        "id": 49422800,
+        "title": "Where did all the public bathrooms go?",
+        "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+        "domain": "daily.jstor.org",
+        "score": 136,
+        "descendants": 272,
+        "by": "herbertl",
+        "tags": [],
+        "summary": "分析城市公共卫生基础设施缺失背后的社会与政策原因。"
+      },
+      {
+        "id": 49425800,
+        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+        "domain": "blog.archive.org",
+        "score": 48,
+        "descendants": 6,
+        "by": "signor_bosco",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "回顾人工智能在早期发展阶段的样貌，探讨其在成为复杂热点前的纯粹状态。"
+      },
+      {
+        "id": 49424606,
+        "title": "Oceans hit highest temperature on record",
+        "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+        "domain": "bbc.com",
+        "score": 378,
+        "descendants": 258,
+        "by": "tcp_handshaker",
+        "tags": [],
+        "summary": "报道全球海洋温度再次刷新历史纪录，引发对气候变暖加速的严重担忧。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "developer.apple.com",
+          "count": 1
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "ciechanow.ski",
+          "count": 1
+        }
+      ],
+      "avg_score": 352,
+      "max_score": {
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "score": 1030
+      },
+      "most_discussed": {
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "comments": 645
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点涵盖了科技巨头引发的隐私与生态争议，以及对硬件性能突破、数字媒介与全球社会议题的深度探讨。整体舆论呈现出对企业监管（如苹果、微软）、地缘经济与文化现象，以及环境变迁的高度关注。"
+  }
+}
