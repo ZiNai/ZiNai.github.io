@@ -161,5 +161,162 @@
       ]
     },
     "summary": "本期Hacker News热门资讯聚焦于苹果新硬件发布与深度技术探索。主要趋势涵盖了AI计算基础设施的性能突破、Python开发中的安全隐患与语言特性，以及从医疗可穿戴设备到前沿物理研究的广泛科技动态。"
+  },
+  "noon": {
+    "time": "2026-08-26 12:28",
+    "stories": [
+      {
+        "id": 49433292,
+        "title": "Apple introduces M6 and M5 Ultra",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "domain": "apple.com",
+        "score": 1027,
+        "descendants": 948,
+        "by": "interpol_p",
+        "tags": [],
+        "summary": "Apple正式推出全新M6与M5 Ultra芯片，标志着其自研架构的又一次性能跃升。"
+      },
+      {
+        "id": 49439017,
+        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "domain": "fda.gov",
+        "score": 323,
+        "descendants": 158,
+        "by": "sunnynagra",
+        "tags": [],
+        "summary": "FDA批准了首款可穿戴式生物监测设备，能同时跟踪血糖与酮体水平。"
+      },
+      {
+        "id": 49434378,
+        "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "domain": "newsletter.semianalysis.com",
+        "score": 386,
+        "descendants": 257,
+        "by": "bmulholland",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "分析指出OpenAI开发的Jalapeño芯片在性能表现上或将超越Nvidia Blackwell系列。"
+      },
+      {
+        "id": 49433316,
+        "title": "New Mac Studio with M5 Max and M5 Ultra",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+        "domain": "apple.com",
+        "score": 725,
+        "descendants": 481,
+        "by": "interpol_p",
+        "tags": [],
+        "summary": "新款Mac Studio发布，搭载强劲的M5 Max与M5 Ultra芯片。"
+      },
+      {
+        "id": 49442589,
+        "title": "Queryable Executables",
+        "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+        "domain": "fzakaria.com",
+        "score": 53,
+        "descendants": 7,
+        "by": "rguiscard",
+        "tags": [],
+        "summary": "探讨如何构建可查询的执行文件，提升系统运行状态的可观测性。"
+      },
+      {
+        "id": 49441666,
+        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+        "url": "https://github.com/runetes/maiao",
+        "domain": "github.com",
+        "score": 48,
+        "descendants": 19,
+        "by": "zdw",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "Maiao工具旨在为GitHub等平台引入类似Gerrit的高效代码审查工作流。"
+      },
+      {
+        "id": 49437210,
+        "title": "Black hole singularity is a surface not a point",
+        "url": "https://arxiv.org/abs/2608.21590",
+        "domain": "arxiv.org",
+        "score": 213,
+        "descendants": 152,
+        "by": "raattgift",
+        "tags": [],
+        "summary": "天体物理学新观点挑战传统认知，认为黑洞奇点可能是一个表面而非单一点。"
+      },
+      {
+        "id": 49433450,
+        "title": "New Mac mini, featuring M6 and M5 Pro",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+        "domain": "apple.com",
+        "score": 457,
+        "descendants": 281,
+        "by": "runako",
+        "tags": [],
+        "summary": "新款Mac mini亮相，配置更新为M6与M5 Pro芯片组合。"
+      },
+      {
+        "id": 49440410,
+        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+        "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+        "domain": "sethmlarson.dev",
+        "score": 89,
+        "descendants": 38,
+        "by": "rbanffy",
+        "tags": [
+          "Python",
+          "Security"
+        ],
+        "summary": "分析Python中str.lower()函数处理Unicode字符时可能引发的潜在安全漏洞。"
+      },
+      {
+        "id": 49439499,
+        "title": "C2PA Cameras Do Not Survive Contact with Reality",
+        "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "domain": "da.vidbuchanan.co.uk",
+        "score": 106,
+        "descendants": 56,
+        "by": "Retr0id",
+        "tags": [],
+        "summary": "深度拆解C2PA标准摄像头，揭示其在实际应用环境中的局限性与脆弱性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apple.com",
+          "count": 3
+        },
+        {
+          "domain": "fda.gov",
+          "count": 1
+        },
+        {
+          "domain": "newsletter.semianalysis.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 343,
+      "max_score": {
+        "title": "Apple introduces M6 and M5 Ultra",
+        "score": 1027
+      },
+      "most_discussed": {
+        "title": "Apple introduces M6 and M5 Ultra",
+        "comments": 948
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Open Source",
+        "Python",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News的核心关注点集中在Apple新一代芯片与硬件设备的发布，以及AI算力领域的最新动态。此外，技术社区还关注了数据安全性漏洞、物理学前沿理论及开源开发工具的创新，整体呈现出硬件更新驱动与前沿技术探讨并存的趋势。"
   }
 }
