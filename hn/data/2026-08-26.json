@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-08-26 08:34",
+    "stories": [
+      {
+        "id": 49441033,
+        "title": "Python's pre-declared constants are kinda weird",
+        "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "domain": "sebsite.pw",
+        "score": 121,
+        "descendants": 68,
+        "by": "rbanffy",
+        "tags": [
+          "Python"
+        ],
+        "summary": "探讨Python中预声明常量的实现细节及其为何在某些场景下表现出反直觉的特性。"
+      },
+      {
+        "id": 49439017,
+        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "domain": "fda.gov",
+        "score": 226,
+        "descendants": 133,
+        "by": "sunnynagra",
+        "tags": [],
+        "summary": "FDA批准了首款能同时监测血酮和血糖水平的可穿戴设备，为代谢健康管理带来新选择。"
+      },
+      {
+        "id": 49433292,
+        "title": "Apple introduces M6 and M5 Ultra",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "domain": "apple.com",
+        "score": 926,
+        "descendants": 882,
+        "by": "interpol_p",
+        "tags": [],
+        "summary": "苹果发布了全新的M5和M6 Ultra芯片系列，再次刷新其自研硅片的性能巅峰。"
+      },
+      {
+        "id": 49434378,
+        "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "domain": "newsletter.semianalysis.com",
+        "score": 297,
+        "descendants": 202,
+        "by": "bmulholland",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "分析OpenAI自研Jalapeño芯片的性能优势，对比表明其在特定负载下超越了Nvidia的Blackwell架构。"
+      },
+      {
+        "id": 49433316,
+        "title": "New Mac Studio with M5 Max and M5 Ultra",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+        "domain": "apple.com",
+        "score": 694,
+        "descendants": 434,
+        "by": "interpol_p",
+        "tags": [],
+        "summary": "苹果正式推出搭载M5 Max和M5 Ultra芯片的新款Mac Studio工作站。"
+      },
+      {
+        "id": 49440410,
+        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+        "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+        "domain": "sethmlarson.dev",
+        "score": 46,
+        "descendants": 24,
+        "by": "rbanffy",
+        "tags": [
+          "Python",
+          "Security"
+        ],
+        "summary": "分析为何在Python中错误使用str.lower()进行字符串比较可能导致安全漏洞。"
+      },
+      {
+        "id": 49441666,
+        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+        "url": "https://github.com/runetes/maiao",
+        "domain": "github.com",
+        "score": 16,
+        "descendants": 0,
+        "by": "zdw",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "介绍Maiao，一个为GitHub等平台提供类似Gerrit风格代码审查流程的开源工具。"
+      },
+      {
+        "id": 49437210,
+        "title": "Black hole singularity is a surface not a point",
+        "url": "https://arxiv.org/abs/2608.21590",
+        "domain": "arxiv.org",
+        "score": 176,
+        "descendants": 123,
+        "by": "raattgift",
+        "tags": [],
+        "summary": "一项物理学研究提出黑洞奇点可能是一个表面而非无限小的点的理论观点。"
+      },
+      {
+        "id": 49439499,
+        "title": "C2PA Cameras Do Not Survive Contact with Reality",
+        "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "domain": "da.vidbuchanan.co.uk",
+        "score": 68,
+        "descendants": 27,
+        "by": "Retr0id",
+        "tags": [],
+        "summary": "揭示内容来源与真实性（C2PA）标准在现实应用中面临的技术挑战与局限性。"
+      },
+      {
+        "id": 49441375,
+        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+        "url": "https://github.com/swimmingbrain/texbrain",
+        "domain": "github.com",
+        "score": 34,
+        "descendants": 7,
+        "by": "swimmingbrain",
+        "tags": [
+          "AI",
+          "Web",
+          "Show HN"
+        ],
+        "summary": "推荐一款通过WASM在浏览器中直接运行pdfTeX的LaTeX编辑器项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apple.com",
+          "count": 2
+        },
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "sebsite.pw",
+          "count": 1
+        }
+      ],
+      "avg_score": 260,
+      "max_score": {
+        "title": "Apple introduces M6 and M5 Ultra",
+        "score": 926
+      },
+      "most_discussed": {
+        "title": "Apple introduces M6 and M5 Ultra",
+        "comments": 882
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Hardware",
+        "Security",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门资讯聚焦于苹果新硬件发布与深度技术探索。主要趋势涵盖了AI计算基础设施的性能突破、Python开发中的安全隐患与语言特性，以及从医疗可穿戴设备到前沿物理研究的广泛科技动态。"
+  }
+}
