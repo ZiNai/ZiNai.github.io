@@ -1,0 +1,162 @@
+{
+  "noon": {
+    "time": "2026-08-27 13:28",
+    "stories": [
+      {
+        "id": 49458161,
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+        "domain": "businessinsider.com",
+        "score": 634,
+        "descendants": 267,
+        "by": "mfiguiere",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "英伟达宣布以 130 亿美元收购开源 AI 平台 Hugging Face。"
+      },
+      {
+        "id": 49458418,
+        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+        "url": "https://github.com/SenteLabsAI/OpenExecutive",
+        "domain": "github.com",
+        "score": 281,
+        "descendants": 174,
+        "by": "GrumpySciGuy",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "面对被 AI 取代而遭裁员的困境，开发者通过开源项目回击以 AI 代替 CEO 的职能。"
+      },
+      {
+        "id": 49457545,
+        "title": "Mechanical Turk shutting down September 30",
+        "url": "https://www.mturk.com/",
+        "domain": "mturk.com",
+        "score": 236,
+        "descendants": 77,
+        "by": "tmp10423288442",
+        "tags": [],
+        "summary": "亚马逊宣布将于 9 月 30 日彻底关闭 Mechanical Turk 众包平台。"
+      },
+      {
+        "id": 49449507,
+        "title": "GLM-5.3-Flash",
+        "url": "https://z.ai/blog/glm-5.3-flash",
+        "domain": "z.ai",
+        "score": 952,
+        "descendants": 476,
+        "by": "Philpax",
+        "tags": [],
+        "summary": "新一代高性能 AI 模型 GLM-5.3-Flash 正式发布。"
+      },
+      {
+        "id": 49456851,
+        "title": "Asahi Linux Progress Report: Linux 7.2",
+        "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+        "domain": "asahilinux.org",
+        "score": 171,
+        "descendants": 42,
+        "by": "pizzaiolo",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Asahi Linux 项目发布进度报告，展示了 Linux 7.2 内核在 Apple Silicon 上的运行情况。"
+      },
+      {
+        "id": 49458709,
+        "title": "Kusama Yayoi Dies at 97",
+        "url": "https://news.jp/i/1465528042000662661",
+        "domain": "news.jp",
+        "score": 101,
+        "descendants": 8,
+        "by": "phantomathkg",
+        "tags": [],
+        "summary": "著名日本艺术家草间弥生逝世，享年 97 岁。"
+      },
+      {
+        "id": 49452990,
+        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+        "url": "https://github.com/tailscale/tailcat",
+        "domain": "github.com",
+        "score": 519,
+        "descendants": 95,
+        "by": "nderjung",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Tailcat 工具发布，旨在通过 Tailscale 的数据平面实现类似 netcat 的网络传输功能。"
+      },
+      {
+        "id": 49456929,
+        "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+        "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+        "domain": "nhess.copernicus.org",
+        "score": 113,
+        "descendants": 49,
+        "by": "totetsu",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一项关于喜马拉雅跨界盆地冰川湖洪水的最坏情况模拟研究报告。"
+      },
+      {
+        "id": 49458478,
+        "title": "Laion Big Video Dataset",
+        "url": "https://projects.laion.ai/bvd/",
+        "domain": "projects.laion.ai",
+        "score": 31,
+        "descendants": 4,
+        "by": "ks2048",
+        "tags": [
+          "AI"
+        ],
+        "summary": "LAION 发布了全新的大规模视频数据集，旨在推动视频生成领域的研究。"
+      },
+      {
+        "id": 49452980,
+        "title": "An ongoing 3D-printer AGPL violation",
+        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+        "domain": "lwn.net",
+        "score": 357,
+        "descendants": 160,
+        "by": "Velocifyer",
+        "tags": [],
+        "summary": "开源界曝出一起 3D 打印机制造领域的 AGPL 协议违规案例。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "businessinsider.com",
+          "count": 1
+        },
+        {
+          "domain": "mturk.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 340,
+      "max_score": {
+        "title": "GLM-5.3-Flash",
+        "score": 952
+      },
+      "most_discussed": {
+        "title": "GLM-5.3-Flash",
+        "comments": 476
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点主要集中在 AI 行业的剧烈重构，包括英伟达对开源巨头的巨额收购、自动化浪潮下的开发者博弈以及 AI 模型的技术更新。同时，Linux 内核开发、开源许可纠纷及科技界的重大行业变动也是社区关注的重点。"
+  }
+}
