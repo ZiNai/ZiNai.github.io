@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-08-28 05:38",
+    "stories": [
+      {
+        "id": 49468083,
+        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+        "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+        "domain": "blog.cloudflare.com",
+        "score": 337,
+        "descendants": 95,
+        "by": "TangerineDream",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Cloudflare通过优化DNS缓存机制，成功在1.1.1.1服务中节省了100TB内存占用。"
+      },
+      {
+        "id": 49466917,
+        "title": "Small Models Have Arrived",
+        "url": "https://calv.info/small-models-have-arrived",
+        "domain": "calv.info",
+        "score": 326,
+        "descendants": 140,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨当前AI领域中小型语言模型的崛起及其在效率与部署上的显著优势。"
+      },
+      {
+        "id": 49465169,
+        "title": "507 Mechanical Movements",
+        "url": "https://507movements.com/",
+        "domain": "507movements.com",
+        "score": 405,
+        "descendants": 61,
+        "by": "helloplanets",
+        "tags": [],
+        "summary": "一个精美的交互式图集，展示了507种经典机械传动与运动方式。"
+      },
+      {
+        "id": 49469249,
+        "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+        "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+        "domain": "news.bgov.com",
+        "score": 86,
+        "descendants": 35,
+        "by": "rarisma",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "分析Nvidia如何通过战略扩张，在数据中心基础设施领域建立更深远的影响力。"
+      },
+      {
+        "id": 49468642,
+        "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+        "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+        "domain": "code.ffmpeg.org",
+        "score": 108,
+        "descendants": 81,
+        "by": "dclavijo",
+        "tags": [],
+        "summary": "研究人员分享如何利用vibecoded模糊测试工具在FFmpeg中发现除以零的错误。"
+      },
+      {
+        "id": 49467922,
+        "title": "Gemini Omni 1.1 Flash",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "domain": "blog.google",
+        "score": 154,
+        "descendants": 96,
+        "by": "saretup",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布Gemini Omni 1.1 Flash模型，强调更快的响应速度与多模态能力。"
+      },
+      {
+        "id": 49462763,
+        "title": "Microduck",
+        "url": "https://pollen-robotics.com/microduck/",
+        "domain": "pollen-robotics.com",
+        "score": 435,
+        "descendants": 169,
+        "by": "robotswantdata",
+        "tags": [],
+        "summary": "Pollen Robotics介绍Microduck机器人，展示其独特的结构与交互设计。"
+      },
+      {
+        "id": 49466006,
+        "title": "Decompiling a Nintendo 64 game in 84 days",
+        "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+        "domain": "blog.chrislewis.au",
+        "score": 144,
+        "descendants": 66,
+        "by": "knackers",
+        "tags": [],
+        "summary": "博主详细记录了仅用84天完成任天堂64游戏代码逆向工程的技术路径与心得。"
+      },
+      {
+        "id": 49468593,
+        "title": "M5Stack Launches PaperMono",
+        "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+        "domain": "shop.m5stack.com",
+        "score": 65,
+        "descendants": 22,
+        "by": "marksully",
+        "tags": [
+          "Science"
+        ],
+        "summary": "M5Stack发布新款电子墨水屏设备PaperMono，进一步丰富其嵌入式硬件生态。"
+      },
+      {
+        "id": 49457722,
+        "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+        "url": "https://morphing.cloud/afterglow/",
+        "domain": "morphing.cloud",
+        "score": 57,
+        "descendants": 21,
+        "by": "NaOH",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开源项目Afterglow让macOS现代系统用户能够重新体验经典的After Dark屏保程序。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.cloudflare.com",
+          "count": 1
+        },
+        {
+          "domain": "calv.info",
+          "count": 1
+        },
+        {
+          "domain": "507movements.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 212,
+      "max_score": {
+        "title": "Microduck",
+        "score": 435
+      },
+      "most_discussed": {
+        "title": "Microduck",
+        "comments": 169
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于高性能计算与工程优化，涵盖云基础设施、AI小模型发展及硬件创新。开发者们对底层算法调优、经典软硬件逆向工程以及嵌入式设备的更新表现出极高关注。"
+  }
+}
