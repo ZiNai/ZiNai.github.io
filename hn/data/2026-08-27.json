@@ -158,5 +158,153 @@
       ]
     },
     "summary": "本期 Hacker News 焦点主要集中在 AI 行业的剧烈重构，包括英伟达对开源巨头的巨额收购、自动化浪潮下的开发者博弈以及 AI 模型的技术更新。同时，Linux 内核开发、开源许可纠纷及科技界的重大行业变动也是社区关注的重点。"
+  },
+  "evening": {
+    "time": "2026-08-27 22:50",
+    "stories": [
+      {
+        "id": 49462763,
+        "title": "Pollen Robotics (Hugging Face) Microduck",
+        "url": "https://pollen-robotics.com/microduck/",
+        "domain": "pollen-robotics.com",
+        "score": 201,
+        "descendants": 69,
+        "by": "robotswantdata",
+        "tags": []
+      },
+      {
+        "id": 49464543,
+        "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+        "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+        "domain": "rahuljuliato.com",
+        "score": 42,
+        "descendants": 8,
+        "by": "RahulMJ",
+        "tags": []
+      },
+      {
+        "id": 49458161,
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+        "domain": "businessinsider.com",
+        "score": 1556,
+        "descendants": 700,
+        "by": "mfiguiere",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49464970,
+        "title": "Harness Engineering",
+        "url": "https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/",
+        "domain": "Habitat-Thinking.github.io",
+        "score": 43,
+        "descendants": 19,
+        "by": "tomrod",
+        "tags": []
+      },
+      {
+        "id": 49464637,
+        "title": "CoMaps integration with the wider FLOSS ecosystem – CoMaps",
+        "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
+        "domain": "comaps.app",
+        "score": 44,
+        "descendants": 4,
+        "by": "janandonly",
+        "tags": []
+      },
+      {
+        "id": 49464979,
+        "title": "AC2 Protocol: The missing security layer for AI agents",
+        "url": "https://www.ac2protocol.org",
+        "domain": "ac2protocol.org",
+        "score": 13,
+        "descendants": 11,
+        "by": "josephcecala",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 49464896,
+        "title": "Trade (and Tariffs)",
+        "url": "https://xkcd.com/3290/",
+        "domain": "xkcd.com",
+        "score": 80,
+        "descendants": 6,
+        "by": "throw0101d",
+        "tags": []
+      },
+      {
+        "id": 49464845,
+        "title": "Apple threat notifications and spyware: what everyone should know",
+        "url": "https://www.accessnow.org/apple-threat-notifications-and-spyware/",
+        "domain": "accessnow.org",
+        "score": 14,
+        "descendants": 0,
+        "by": "ricobecks",
+        "tags": []
+      },
+      {
+        "id": 49464314,
+        "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+        "url": "https://aiandeducation.mit.edu/report/",
+        "domain": "aiandeducation.mit.edu",
+        "score": 15,
+        "descendants": 5,
+        "by": "pbui",
+        "tags": [
+          "AI",
+          "Science"
+        ]
+      },
+      {
+        "id": 49464459,
+        "title": "Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)",
+        "url": "https://github.com/issacnitin/RealDiff",
+        "domain": "github.com",
+        "score": 18,
+        "descendants": 1,
+        "by": "issacnitin",
+        "tags": [
+          "Show HN"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pollen-robotics.com",
+          "count": 1
+        },
+        {
+          "domain": "rahuljuliato.com",
+          "count": 1
+        },
+        {
+          "domain": "businessinsider.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 203,
+      "max_score": {
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "score": 1556
+      },
+      "most_discussed": {
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "comments": 700
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Security",
+        "Science",
+        "Show HN"
+      ]
+    },
+    "summary": ""
   }
 }
