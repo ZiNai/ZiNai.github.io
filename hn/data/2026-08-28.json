@@ -318,5 +318,155 @@
       ]
     },
     "summary": "今日Hacker News热门内容涵盖了基础设施优化、人工智能模型演进及开源项目动态。从Cloudflare的内存优化实践到小模型和大模型应用，技术社区正持续关注底层架构效率与AI工具的实际落地场景。"
+  },
+  "evening": {
+    "time": "2026-08-28 23:45",
+    "stories": [
+      {
+        "id": 49477600,
+        "title": "\"IT WoRKs BeTter in the App \"",
+        "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+        "domain": "shkspr.mobi",
+        "score": 413,
+        "descendants": 210,
+        "by": "blenderob",
+        "tags": [],
+        "summary": "探讨为何移动端应用在提供用户体验时常被视为强制性选择而非功能优势。"
+      },
+      {
+        "id": 49478340,
+        "title": "Get your Windows license refund",
+        "url": "https://en.refund4freedom.org/",
+        "domain": "en.refund4freedom.org",
+        "score": 185,
+        "descendants": 64,
+        "by": "smartmic",
+        "tags": [],
+        "summary": "介绍如何通过合法途径申请退还预装Windows操作系统的许可费用。"
+      },
+      {
+        "id": 49477564,
+        "title": "Inception-style curved map for turn-by-turn directions",
+        "url": "https://www.orbify.eu/demo/",
+        "domain": "orbify.eu",
+        "score": 141,
+        "descendants": 50,
+        "by": "smoser",
+        "tags": [],
+        "summary": "展示一种类似《盗梦空间》风格的地图视觉方案，用于优化导航转向指示。"
+      },
+      {
+        "id": 49479122,
+        "title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
+        "url": "https://mastodon.bida.im/@cavallette/117172989300228024",
+        "domain": "mastodon.bida.im",
+        "score": 74,
+        "descendants": 19,
+        "by": "subvol",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Autistici/Inventati因美国恐怖主义相关指控导致.org域名被封禁的事件背景分析。"
+      },
+      {
+        "id": 49478401,
+        "title": "OpenStreetMap State of the Map 2026",
+        "url": "https://2026.stateofthemap.org/",
+        "domain": "2026.stateofthemap.org",
+        "score": 47,
+        "descendants": 16,
+        "by": "lode",
+        "tags": [],
+        "summary": "OpenStreetMap宣布其2026年度地图峰会State of the Map的相关筹备信息。"
+      },
+      {
+        "id": 49477212,
+        "title": "OpenAI: Migrating to HTTPX2",
+        "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+        "domain": "github.com",
+        "score": 124,
+        "descendants": 51,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI分享其后端服务迁移至HTTPX2库的技术实践与性能考量。"
+      },
+      {
+        "id": 49472216,
+        "title": "The Twelve-Factor App",
+        "url": "https://12factor.net/",
+        "domain": "12factor.net",
+        "score": 50,
+        "descendants": 13,
+        "by": "jxmorris12",
+        "tags": [],
+        "summary": "重温经典的“十二要素应用”方法论，探讨现代云原生开发的架构标准。"
+      },
+      {
+        "id": 49476143,
+        "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+        "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+        "domain": "alyssarosenzweig.ca",
+        "score": 178,
+        "descendants": 44,
+        "by": "luu",
+        "tags": [],
+        "summary": "介绍如何利用散度定理实现极其高效的三维体积计算方法。"
+      },
+      {
+        "id": 49479878,
+        "title": "GLM-5.3 is now open-weight",
+        "url": "https://twitter.com/Zai_org/status/2093354097122455713",
+        "domain": "twitter.com",
+        "score": 26,
+        "descendants": 3,
+        "by": "jeudesprits",
+        "tags": [],
+        "summary": "开源权重模型GLM-5.3正式对外发布，更新了其模型可用性状态。"
+      },
+      {
+        "id": 49475079,
+        "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+        "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+        "domain": "blog.luanti.org",
+        "score": 215,
+        "descendants": 71,
+        "by": "miniBill",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Luanti项目因遭遇虚假的AI版权投诉而被Google Play强制下架的详细经过。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "shkspr.mobi",
+          "count": 1
+        },
+        {
+          "domain": "en.refund4freedom.org",
+          "count": 1
+        },
+        {
+          "domain": "orbify.eu",
+          "count": 1
+        }
+      ],
+      "avg_score": 145,
+      "max_score": {
+        "title": "\"IT WoRKs BeTter in the App \"",
+        "score": 413
+      },
+      "most_discussed": {
+        "title": "\"IT WoRKs BeTter in the App \"",
+        "comments": 210
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News关注点集中在技术治理与平台争议，包括开源项目的版权风波、企业服务迁移及反思，以及技术维权等议题。整体呈现出开发者社区对平台合规性、底层架构优化及数字权利的持续高度关注。"
   }
 }
