@@ -1,0 +1,150 @@
+{
+  "morning": {
+    "time": "2026-08-29 05:40",
+    "stories": [
+      {
+        "id": 49479837,
+        "title": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "domain": "ckardaris.com",
+        "score": 444,
+        "descendants": 235,
+        "by": "ckardaris",
+        "tags": [],
+        "summary": "探讨了 GUI 设计应实现完全键盘驱动的重要性，旨在提升专业用户的操作效率与可访问性。"
+      },
+      {
+        "id": 49483182,
+        "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+        "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+        "domain": "thehealthy.com",
+        "score": 138,
+        "descendants": 94,
+        "by": "randycupertino",
+        "tags": [],
+        "summary": "美国农业部发布通告，召回在五个州分发的约 2.5 万磅可能存在安全隐患的鸡肉产品。"
+      },
+      {
+        "id": 49483816,
+        "title": "Stopping the smart TV from being used against you",
+        "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+        "domain": "s-config.com",
+        "score": 39,
+        "descendants": 24,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析了现代智能电视的监控风险，并提供了阻止设备进行不必要网络通信的技术方案。"
+      },
+      {
+        "id": 49478178,
+        "title": "Htmx 4.0",
+        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "domain": "four.htmx.org",
+        "score": 400,
+        "descendants": 99,
+        "by": "rmsaksida",
+        "tags": [],
+        "summary": "Htmx 发布 4.0 版本，继续探索在不依赖复杂前端框架的情况下增强 Web 交互体验的路径。"
+      },
+      {
+        "id": 49480466,
+        "title": "Just the rumour of a bug is enough to find an exploit these days",
+        "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+        "domain": "anil.recoil.org",
+        "score": 184,
+        "descendants": 62,
+        "by": "avsm",
+        "tags": [],
+        "summary": "深度剖析了当前网络安全环境，指出即便只是关于漏洞的流言也足以触发大规模攻击尝试。"
+      },
+      {
+        "id": 49477854,
+        "title": "U.S. sanctions against the A/I Collective",
+        "url": "https://www.inventati.org/",
+        "domain": "inventati.org",
+        "score": 404,
+        "descendants": 356,
+        "by": "exiguus",
+        "tags": [
+          "AI"
+        ],
+        "summary": "讨论了美国政府针对 AI 协作组织实施制裁的影响及其对全球技术研究生态的潜在阻碍。"
+      },
+      {
+        "id": 49477564,
+        "title": "Inception-style curved map for turn-by-turn directions",
+        "url": "https://www.orbify.eu/demo/",
+        "domain": "orbify.eu",
+        "score": 360,
+        "descendants": 124,
+        "by": "smoser",
+        "tags": [],
+        "summary": "介绍了一种基于“盗梦空间”式曲线渲染的导航地图技术，旨在提升驾驶过程中的方向感知。"
+      },
+      {
+        "id": 49422743,
+        "title": "Curvature Beziers: Improving on a timeless recipe",
+        "url": "https://acko.net/blog/curvature-beziers/",
+        "domain": "acko.net",
+        "score": 42,
+        "descendants": 10,
+        "by": "leephillips",
+        "tags": [],
+        "summary": "探讨了曲率贝塞尔曲线算法的改进，旨在为图形设计与渲染提供更平滑的路径规划方案。"
+      },
+      {
+        "id": 49481455,
+        "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+        "url": "https://arxiv.org/abs/2608.23691",
+        "domain": "arxiv.org",
+        "score": 59,
+        "descendants": 10,
+        "by": "stephenchung",
+        "tags": [],
+        "summary": "展示了一项在开放世界多智能体环境中实现自动数学发现的研究成果。"
+      },
+      {
+        "id": 49479878,
+        "title": "GLM-5.3 is now open-weight",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "domain": "huggingface.co",
+        "score": 486,
+        "descendants": 177,
+        "by": "jeudesprits",
+        "tags": [],
+        "summary": "GLM-5.3 模型正式宣布开放权重，为社区提供了更强大的大语言模型选择。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ckardaris.com",
+          "count": 1
+        },
+        {
+          "domain": "thehealthy.com",
+          "count": 1
+        },
+        {
+          "domain": "s-config.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 256,
+      "max_score": {
+        "title": "GLM-5.3 is now open-weight",
+        "score": 486
+      },
+      "most_discussed": {
+        "title": "U.S. sanctions against the A/I Collective",
+        "comments": 356
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿技术演进与数字安全挑战，涵盖了人工智能大模型的最新开源进展、软件开发框架的革新以及对现代计算设备隐私风险的深入讨论。开发者与研究人员正广泛关注人机交互的键盘化趋势及算法安全性，反映出技术社区对开源效率与系统鲁棒性的持续追求。"
+  }
+}
