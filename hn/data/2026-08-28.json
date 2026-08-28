@@ -158,5 +158,165 @@
       ]
     },
     "summary": "本期Hacker News聚焦于高性能计算与工程优化，涵盖云基础设施、AI小模型发展及硬件创新。开发者们对底层算法调优、经典软硬件逆向工程以及嵌入式设备的更新表现出极高关注。"
+  },
+  "noon": {
+    "time": "2026-08-28 15:24",
+    "stories": [
+      {
+        "id": 49474786,
+        "title": "Sovereign Tech Agency invests €500k in Flatpak",
+        "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+        "domain": "modal.cx",
+        "score": 32,
+        "descendants": 6,
+        "by": "eigenspace",
+        "tags": [],
+        "summary": "德国Sovereign Tech Agency为Flatpak注入50万欧元，支持Linux桌面生态发展。"
+      },
+      {
+        "id": 49473483,
+        "title": "Stripe said to abandon $50B pursuit of PayPal",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+        "domain": "bloomberg.com",
+        "score": 114,
+        "descendants": 79,
+        "by": "1986",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道称Stripe放弃了对PayPal高达500亿美元的收购计划。"
+      },
+      {
+        "id": 49468083,
+        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+        "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+        "domain": "blog.cloudflare.com",
+        "score": 692,
+        "descendants": 206,
+        "by": "TangerineDream",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Cloudflare分享了通过优化1.1.1.1 DNS缓存机制节省100TB内存的技术细节。"
+      },
+      {
+        "id": 49466917,
+        "title": "Small Models Have Arrived",
+        "url": "https://calv.info/small-models-have-arrived",
+        "domain": "calv.info",
+        "score": 598,
+        "descendants": 277,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨当前小型人工智能模型在性能与效率上的显著提升及其应用前景。"
+      },
+      {
+        "id": 49471965,
+        "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+        "url": "https://github.com/elyosh/OpenTIE/",
+        "domain": "github.com",
+        "score": 146,
+        "descendants": 34,
+        "by": "elyosh",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了经典空战游戏《星球大战：钛战机》与《X战机》的现代化开源移植项目。"
+      },
+      {
+        "id": 49465169,
+        "title": "507 Mechanical Movements",
+        "url": "https://507movements.com/",
+        "domain": "507movements.com",
+        "score": 559,
+        "descendants": 70,
+        "by": "helloplanets",
+        "tags": [],
+        "summary": "收录了507种经典机械运动原理的在线资源库，展示了物理机械设计的魅力。"
+      },
+      {
+        "id": 49468818,
+        "title": "Gemini-3.5-Transcribe",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "domain": "blog.google",
+        "score": 248,
+        "descendants": 77,
+        "by": "k9294",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍谷歌Gemini 3.5在音频转录领域的最新进展与模型能力。"
+      },
+      {
+        "id": 49462763,
+        "title": "Microduck",
+        "url": "https://pollen-robotics.com/microduck/",
+        "domain": "pollen-robotics.com",
+        "score": 619,
+        "descendants": 209,
+        "by": "robotswantdata",
+        "tags": [],
+        "summary": "介绍Microduck这一小型机器人项目及其在自动化与交互领域的应用。"
+      },
+      {
+        "id": 49468642,
+        "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+        "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+        "domain": "code.ffmpeg.org",
+        "score": 216,
+        "descendants": 164,
+        "by": "dclavijo",
+        "tags": [],
+        "summary": "技术团队通过“Vibecoded”模糊测试工具在FFmpeg中发现并修复了除零错误。"
+      },
+      {
+        "id": 49472820,
+        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+        "url": "https://www.terminal-bench-science.ai/announcement",
+        "domain": "terminal-bench-science.ai",
+        "score": 68,
+        "descendants": 18,
+        "by": "matt_d",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "推出Terminal-Bench-Science基准测试，旨在评估AI智能体处理科学研究工作流的能力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "modal.cx",
+          "count": 1
+        },
+        {
+          "domain": "bloomberg.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.cloudflare.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 329,
+      "max_score": {
+        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+        "score": 692
+      },
+      "most_discussed": {
+        "title": "Small Models Have Arrived",
+        "comments": 277
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News热门内容涵盖了基础设施优化、人工智能模型演进及开源项目动态。从Cloudflare的内存优化实践到小模型和大模型应用，技术社区正持续关注底层架构效率与AI工具的实际落地场景。"
   }
 }
