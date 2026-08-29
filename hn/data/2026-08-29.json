@@ -307,5 +307,164 @@
       ]
     },
     "summary": "本期Hacker News热门话题涵盖了操作系统底层技术、交互设计理念以及AI工具的快速演进，反映出开发者对性能优化、开源架构与人工智能集成的高度关注。同时，科技政策与商业并购相关的议题也在社区引发了广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-08-29 18:33",
+    "stories": [
+      {
+        "id": 49487341,
+        "title": "Samsung's Processing-in-Memory (PIM)",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+        "domain": "chipsandcheese.com",
+        "score": 95,
+        "descendants": 25,
+        "by": "ingve",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "解析三星处理内存在内存（PIM）技术架构及其在降低功耗与提升计算效率方面的优势。"
+      },
+      {
+        "id": 49456819,
+        "title": "Europe's last regular standard-gauge steam passenger service",
+        "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+        "domain": "parowozowniawolsztyn.pl",
+        "score": 47,
+        "descendants": 15,
+        "by": "GungulSurm",
+        "tags": [],
+        "summary": "探访波兰沃尔什廷运营的欧洲最后一条标准轨距蒸汽客运铁路，记录这一工业遗产的独特魅力。"
+      },
+      {
+        "id": 49479837,
+        "title": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "domain": "ckardaris.com",
+        "score": 811,
+        "descendants": 412,
+        "by": "ckardaris",
+        "tags": [],
+        "summary": "探讨图形界面应如何实现完全键盘驱动，以提升专业用户的操作效率与交互体验。"
+      },
+      {
+        "id": 49485267,
+        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "domain": "github.com",
+        "score": 273,
+        "descendants": 78,
+        "by": "hentrep",
+        "tags": [],
+        "summary": "基于苹果Virtualization.framework框架实现虚拟iPhone引导的技术可行性探讨。"
+      },
+      {
+        "id": 49486334,
+        "title": "TurboKV: Insanely fast Rust key-value store",
+        "url": "https://github.com/kingroryg/turbokv",
+        "domain": "github.com",
+        "score": 104,
+        "descendants": 37,
+        "by": "rgbimbochamp",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍一款用Rust编写的超高性能Key-Value存储引擎TurboKV。"
+      },
+      {
+        "id": 49450782,
+        "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+        "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+        "domain": "sigma-star.at",
+        "score": 19,
+        "descendants": 2,
+        "by": "birdculture",
+        "tags": [],
+        "summary": "深度复盘在32位嵌入式设备上排查Go运行时Bug的技术过程。"
+      },
+      {
+        "id": 49478178,
+        "title": "Htmx 4.0",
+        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "domain": "four.htmx.org",
+        "score": 662,
+        "descendants": 166,
+        "by": "rmsaksida",
+        "tags": [],
+        "summary": "发布Htmx 4.0版本，继续探索简化Web前端交互的HTML扩展方案。"
+      },
+      {
+        "id": 49477854,
+        "title": "U.S. sanctions against the A/I Collective",
+        "url": "https://www.inventati.org/",
+        "domain": "inventati.org",
+        "score": 605,
+        "descendants": 591,
+        "by": "exiguus",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨美国针对A/I Collective实施制裁所引发的开源社区与AI监管争议。"
+      },
+      {
+        "id": 49485416,
+        "title": "I accidentally turned LLM memory into program analysis",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "domain": "pwning.systems",
+        "score": 158,
+        "descendants": 35,
+        "by": "matt_d",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "分享作者如何无意中将LLM内存机制转化为程序分析工具的实验性发现。"
+      },
+      {
+        "id": 49486081,
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "domain": "github.com",
+        "score": 103,
+        "descendants": 21,
+        "by": "thclpr",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "介绍一款免费开源的本地AI工具StemDeck，可高效实现音频多轨分离。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "chipsandcheese.com",
+          "count": 1
+        },
+        {
+          "domain": "parowozowniawolsztyn.pl",
+          "count": 1
+        }
+      ],
+      "avg_score": 288,
+      "max_score": {
+        "title": "GUIs should be fully keyboard-driven",
+        "score": 811
+      },
+      "most_discussed": {
+        "title": "U.S. sanctions against the A/I Collective",
+        "comments": 591
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Rust",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了系统架构、前端开发及人工智能工具的深度讨论。技术焦点集中在高性能数据存储与键盘驱动交互设计，同时涉及虚拟化技术与AI合规性引发的行业争议。"
   }
 }
