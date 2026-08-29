@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-08-30 00:06",
+    "stories": [
+      {
+        "id": 49489982,
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://lwn.net/Articles/1091231/",
+        "domain": "lwn.net",
+        "score": 224,
+        "descendants": 170,
+        "by": "pluc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Debian项目投票通过决议，正式允许在项目开发及社区活动中负责任地使用生成式AI工具。"
+      },
+      {
+        "id": 49490138,
+        "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+        "url": "https://uecker.codeberg.page/2026-08-29.html",
+        "domain": "uecker.codeberg.page",
+        "score": 22,
+        "descendants": 5,
+        "by": "uecker",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨了在GCC环境下，如何在不牺牲可执行栈安全性的前提下实现嵌套函数的间接调用。"
+      },
+      {
+        "id": 49426995,
+        "title": "SQLite as a Document Database (2020)",
+        "url": "https://dgl.cx/2020/06/sqlite-json-support",
+        "domain": "dgl.cx",
+        "score": 25,
+        "descendants": 1,
+        "by": "lioeters",
+        "tags": [
+          "Database"
+        ],
+        "summary": "深入分析如何利用SQLite的灵活性和扩展性，将其作为高效的文档型数据库使用。"
+      },
+      {
+        "id": 49447178,
+        "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+        "url": "https://typebase.io",
+        "domain": "typebase.io",
+        "score": 37,
+        "descendants": 4,
+        "by": "andrewww-dev",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "Typebase是一个允许开发者直接用TypeScript编写、且仅需单一文件夹部署的轻量级后端解决方案。"
+      },
+      {
+        "id": 49479546,
+        "title": "Creating the Aetheryte Radio",
+        "url": "https://haz.ee/posts/aetheryte-radio.html",
+        "domain": "haz.ee",
+        "score": 30,
+        "descendants": 4,
+        "by": "wonger_",
+        "tags": [],
+        "summary": "分享了制作以太水晶（Aetheryte）风格无线电装置的技术细节与创作过程。"
+      },
+      {
+        "id": 49487341,
+        "title": "Samsung's Processing-in-Memory (PIM)",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+        "domain": "chipsandcheese.com",
+        "score": 183,
+        "descendants": 65,
+        "by": "ingve",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深度解析三星推出的内存处理（PIM）技术，探讨其如何通过内存计算提升数据处理效率。"
+      },
+      {
+        "id": 49424320,
+        "title": "Glacier Mice",
+        "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+        "domain": "en.wikipedia.org",
+        "score": 132,
+        "descendants": 25,
+        "by": "ostacke",
+        "tags": [],
+        "summary": "介绍了冰川鼠（Glacier Mice）这种由苔藓构成的罕见球状生态现象及其独特的移动方式。"
+      },
+      {
+        "id": 49479837,
+        "title": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "domain": "ckardaris.com",
+        "score": 944,
+        "descendants": 463,
+        "by": "ckardaris",
+        "tags": [],
+        "summary": "论述了现代GUI设计应支持全面键盘驱动的必要性，以提升专业用户的操作效率与可访问性。"
+      },
+      {
+        "id": 49485267,
+        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "domain": "github.com",
+        "score": 344,
+        "descendants": 90,
+        "by": "hentrep",
+        "tags": [],
+        "summary": "详细说明了利用苹果Virtualization框架在本地引导和运行虚拟化iPhone环境的实现方法。"
+      },
+      {
+        "id": 49433328,
+        "title": "EVE Online moves to Python 3",
+        "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+        "domain": "eveonline.com",
+        "score": 137,
+        "descendants": 71,
+        "by": "TylerJaacks",
+        "tags": [
+          "Python"
+        ],
+        "summary": "《EVE Online》游戏后端完成了向Python 3的迁移，详细记录了这一大规模系统升级的挑战与成果。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lwn.net",
+          "count": 1
+        },
+        {
+          "domain": "uecker.codeberg.page",
+          "count": 1
+        },
+        {
+          "domain": "dgl.cx",
+          "count": 1
+        }
+      ],
+      "avg_score": 208,
+      "max_score": {
+        "title": "GUIs should be fully keyboard-driven",
+        "score": 944
+      },
+      "most_discussed": {
+        "title": "GUIs should be fully keyboard-driven",
+        "comments": 463
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Database",
+        "JavaScript",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术基础设施、开源决策及软硬件底层创新。社区热议话题聚焦于软件工程开发工具的演进、高性能计算与虚拟化技术，以及关于用户交互界面设计理念的深入讨论。"
+  }
+}
