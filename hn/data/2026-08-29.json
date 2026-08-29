@@ -146,5 +146,166 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿技术演进与数字安全挑战，涵盖了人工智能大模型的最新开源进展、软件开发框架的革新以及对现代计算设备隐私风险的深入讨论。开发者与研究人员正广泛关注人机交互的键盘化趋势及算法安全性，反映出技术社区对开源效率与系统鲁棒性的持续追求。"
+  },
+  "noon": {
+    "time": "2026-08-29 12:35",
+    "stories": [
+      {
+        "id": 49485267,
+        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "domain": "github.com",
+        "score": 162,
+        "descendants": 53,
+        "by": "hentrep",
+        "tags": [],
+        "summary": "介绍如何利用Apple Virtualization框架引导虚拟iPhone环境的实现方案。"
+      },
+      {
+        "id": 49479837,
+        "title": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "domain": "ckardaris.com",
+        "score": 681,
+        "descendants": 330,
+        "by": "ckardaris",
+        "tags": [],
+        "summary": "探讨图形用户界面应全面支持键盘操作的必要性及其对生产力的提升。"
+      },
+      {
+        "id": 49485452,
+        "title": "9th Circuit sides with states in Kalshi gambling fight",
+        "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+        "domain": "azmirror.com",
+        "score": 92,
+        "descendants": 66,
+        "by": "hungryhobbit",
+        "tags": [],
+        "summary": "报道第九巡回法院在Kalshi博彩交易合法化诉讼中支持各州政府的立场。"
+      },
+      {
+        "id": 49486334,
+        "title": "TurboKV: Insanely fast Rust key-value store",
+        "url": "https://github.com/kingroryg/turbokv",
+        "domain": "github.com",
+        "score": 34,
+        "descendants": 9,
+        "by": "rgbimbochamp",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "介绍一款基于Rust构建的超高性能键值存储数据库TurboKV。"
+      },
+      {
+        "id": 49478178,
+        "title": "Htmx 4.0",
+        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "domain": "four.htmx.org",
+        "score": 572,
+        "descendants": 139,
+        "by": "rmsaksida",
+        "tags": [],
+        "summary": "发布Htmx 4.0版本，继续引领轻量级前端交互开发的潮流。"
+      },
+      {
+        "id": 49485532,
+        "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+        "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+        "domain": "vectorian.be",
+        "score": 73,
+        "descendants": 22,
+        "by": "dev_l1x_be",
+        "tags": [],
+        "summary": "探讨古代苏美尔国王列表与历史气候变化事件之间是否存在关联。"
+      },
+      {
+        "id": 49485416,
+        "title": "I accidentally turned LLM memory into program analysis",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "domain": "pwning.systems",
+        "score": 68,
+        "descendants": 10,
+        "by": "matt_d",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "分享作者无意间将大语言模型记忆转化为程序分析工具的技术探索。"
+      },
+      {
+        "id": 49486172,
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "domain": "openai.com",
+        "score": 218,
+        "descendants": 81,
+        "by": "meetpateltech",
+        "tags": [
+          "Startup",
+          "Science"
+        ],
+        "summary": "回应关于Cursor在被SpaceX收购后的发展决策及后续安排。"
+      },
+      {
+        "id": 49477854,
+        "title": "U.S. sanctions against the A/I Collective",
+        "url": "https://www.inventati.org/",
+        "domain": "inventati.org",
+        "score": 524,
+        "descendants": 493,
+        "by": "exiguus",
+        "tags": [
+          "AI"
+        ],
+        "summary": "详细梳理美国政府针对A/I Collective实施制裁的背景与影响。"
+      },
+      {
+        "id": 49486081,
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "domain": "github.com",
+        "score": 46,
+        "descendants": 11,
+        "by": "thclpr",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "开源一款运行在本地、完全免费的AI音频轨道分离工具StemDeck。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "ckardaris.com",
+          "count": 1
+        },
+        {
+          "domain": "azmirror.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 247,
+      "max_score": {
+        "title": "GUIs should be fully keyboard-driven",
+        "score": 681
+      },
+      "most_discussed": {
+        "title": "U.S. sanctions against the A/I Collective",
+        "comments": 493
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Systems",
+        "Startup",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门话题涵盖了操作系统底层技术、交互设计理念以及AI工具的快速演进，反映出开发者对性能优化、开源架构与人工智能集成的高度关注。同时，科技政策与商业并购相关的议题也在社区引发了广泛讨论。"
   }
 }
