@@ -159,5 +159,155 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦技术深度与社会议题，涵盖了 CPython 对 RISC-V 的支持、软件开发中的认知偏差，以及关于技术隐私与公共安全的讨论。此外，AI 代理架构、开源软件的持续性维护及前沿航天科学也成为社区关注的焦点。"
+  },
+  "evening": {
+    "time": "2026-08-30 17:32",
+    "stories": [
+      {
+        "id": 49496782,
+        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "url": "https://arxiv.org/abs/1804.07389",
+        "domain": "arxiv.org",
+        "score": 17,
+        "descendants": 3,
+        "by": "joebig",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49425252,
+        "title": "RISC-V is now officially supported by CPython",
+        "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+        "domain": "blog.python.org",
+        "score": 160,
+        "descendants": 33,
+        "by": "lumpa",
+        "tags": [
+          "Python",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49492632,
+        "title": "Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+        "domain": "tencent.com",
+        "score": 296,
+        "descendants": 187,
+        "by": "shenli3514",
+        "tags": []
+      },
+      {
+        "id": 49496918,
+        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "domain": "qubes-os.org",
+        "score": 3,
+        "descendants": 0,
+        "by": "vntok",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49494520,
+        "title": "Bug Blindness",
+        "url": "https://danluu.com/bug-blind/",
+        "domain": "danluu.com",
+        "score": 249,
+        "descendants": 141,
+        "by": "davidmckenna",
+        "tags": []
+      },
+      {
+        "id": 49494856,
+        "title": "FreeCORE TrueNAS Core – Continued",
+        "url": "https://freecore.org/",
+        "domain": "freecore.org",
+        "score": 95,
+        "descendants": 55,
+        "by": "sashk",
+        "tags": []
+      },
+      {
+        "id": 49495372,
+        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+        "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+        "domain": "tomshardware.com",
+        "score": 272,
+        "descendants": 102,
+        "by": "shscs911",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49496543,
+        "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+        "domain": "chipsandcheese.com",
+        "score": 5,
+        "descendants": 0,
+        "by": "klelatti",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49415386,
+        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "url": "https://zackbartel.com/blog/2026/08/tether/",
+        "domain": "zackbartel.com",
+        "score": 459,
+        "descendants": 180,
+        "by": "zackb",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49453232,
+        "title": "The Einstein-Szilard Refrigerator",
+        "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
+        "domain": "invention.si.edu",
+        "score": 18,
+        "descendants": 3,
+        "by": "EndXA",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "blog.python.org",
+          "count": 1
+        },
+        {
+          "domain": "tencent.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 157,
+      "max_score": {
+        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "score": 459
+      },
+      "most_discussed": {
+        "title": "Hy4 preview",
+        "comments": 187
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Python",
+        "Hardware"
+      ]
+    },
+    "summary": ""
   }
 }
