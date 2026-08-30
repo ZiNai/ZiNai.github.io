@@ -1,163 +1,163 @@
 {
   "morning": {
-    "time": "2026-08-30 00:06",
+    "time": "2026-08-30 10:05",
     "stories": [
       {
-        "id": 49489982,
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "url": "https://lwn.net/Articles/1091231/",
-        "domain": "lwn.net",
-        "score": 224,
-        "descendants": 170,
-        "by": "pluc",
+        "id": 49494520,
+        "title": "Bug Blindness",
+        "url": "https://danluu.com/bug-blind/",
+        "domain": "danluu.com",
+        "score": 49,
+        "descendants": 17,
+        "by": "davidmckenna",
+        "tags": [],
+        "summary": "探讨程序员在开发过程中为何会产生难以发现错误的“盲区”现象。"
+      },
+      {
+        "id": 49494856,
+        "title": "FreeCORE TrueNAS Core – Continued",
+        "url": "https://freecore.org/",
+        "domain": "freecore.org",
+        "score": 20,
+        "descendants": 6,
+        "by": "sashk",
+        "tags": [],
+        "summary": "介绍 FreeCORE 项目如何延续 TrueNAS Core 的生命周期。"
+      },
+      {
+        "id": 49492632,
+        "title": "Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+        "domain": "tencent.com",
+        "score": 200,
+        "descendants": 127,
+        "by": "shenli3514",
+        "tags": [],
+        "summary": "腾讯发布 Hy4 预览版，展示其在高性能技术领域的新探索。"
+      },
+      {
+        "id": 49425252,
+        "title": "RISC-V is now officially supported by CPython",
+        "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+        "domain": "blog.python.org",
+        "score": 21,
+        "descendants": 2,
+        "by": "lumpa",
+        "tags": [
+          "Python",
+          "Hardware"
+        ],
+        "summary": "CPython 官方正式宣布对 RISC-V 架构的支持，进一步提升了跨平台兼容性。"
+      },
+      {
+        "id": 49415386,
+        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "url": "https://zackbartel.com/blog/2026/08/tether/",
+        "domain": "zackbartel.com",
+        "score": 366,
+        "descendants": 148,
+        "by": "zackb",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款允许在 Linux 系统上同步使用 iMessage 和 SMS 等通信功能的实用工具。"
+      },
+      {
+        "id": 49490870,
+        "title": "Nancy Grace Roman Space Telescope",
+        "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+        "domain": "science.nasa.gov",
+        "score": 132,
+        "descendants": 62,
+        "by": "JumpCrisscross",
+        "tags": [
+          "Science"
+        ],
+        "summary": "NASA 关于南希·格蕾丝·罗曼太空望远镜的最新进展及其科研意义介绍。"
+      },
+      {
+        "id": 49494182,
+        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+        "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+        "domain": "texastribune.org",
+        "score": 104,
+        "descendants": 33,
+        "by": "DeepLogin",
         "tags": [
           "AI"
         ],
-        "summary": "Debian项目投票通过决议，正式允许在项目开发及社区活动中负责任地使用生成式AI工具。"
+        "summary": "调查报道揭露德州通过附加保险费资助 Flock 监控摄像头的资金运作过程。"
       },
       {
-        "id": 49490138,
-        "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-        "url": "https://uecker.codeberg.page/2026-08-29.html",
-        "domain": "uecker.codeberg.page",
-        "score": 22,
-        "descendants": 5,
-        "by": "uecker",
-        "tags": [
-          "Systems"
-        ],
-        "summary": "探讨了在GCC环境下，如何在不牺牲可执行栈安全性的前提下实现嵌套函数的间接调用。"
+        "id": 49491714,
+        "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+        "url": "https://tucker.wales/writing/bias-towards-action/",
+        "domain": "tucker.wales",
+        "score": 109,
+        "descendants": 47,
+        "by": "tuckerwales",
+        "tags": [],
+        "summary": "探讨新岗位上应如何平衡前期调研与快速执行的行动偏好。"
       },
       {
-        "id": 49426995,
-        "title": "SQLite as a Document Database (2020)",
-        "url": "https://dgl.cx/2020/06/sqlite-json-support",
-        "domain": "dgl.cx",
-        "score": 25,
+        "id": 49450248,
+        "title": "Is it safe to call print in a Python signal handler?",
+        "url": "https://iafisher.com/2026/08/sigprint",
+        "domain": "iafisher.com",
+        "score": 17,
         "descendants": 1,
-        "by": "lioeters",
-        "tags": [
-          "Database"
-        ],
-        "summary": "深入分析如何利用SQLite的灵活性和扩展性，将其作为高效的文档型数据库使用。"
-      },
-      {
-        "id": 49447178,
-        "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-        "url": "https://typebase.io",
-        "domain": "typebase.io",
-        "score": 37,
-        "descendants": 4,
-        "by": "andrewww-dev",
-        "tags": [
-          "JavaScript",
-          "Show HN"
-        ],
-        "summary": "Typebase是一个允许开发者直接用TypeScript编写、且仅需单一文件夹部署的轻量级后端解决方案。"
-      },
-      {
-        "id": 49479546,
-        "title": "Creating the Aetheryte Radio",
-        "url": "https://haz.ee/posts/aetheryte-radio.html",
-        "domain": "haz.ee",
-        "score": 30,
-        "descendants": 4,
-        "by": "wonger_",
-        "tags": [],
-        "summary": "分享了制作以太水晶（Aetheryte）风格无线电装置的技术细节与创作过程。"
-      },
-      {
-        "id": 49487341,
-        "title": "Samsung's Processing-in-Memory (PIM)",
-        "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-        "domain": "chipsandcheese.com",
-        "score": 183,
-        "descendants": 65,
-        "by": "ingve",
-        "tags": [
-          "Systems"
-        ],
-        "summary": "深度解析三星推出的内存处理（PIM）技术，探讨其如何通过内存计算提升数据处理效率。"
-      },
-      {
-        "id": 49424320,
-        "title": "Glacier Mice",
-        "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-        "domain": "en.wikipedia.org",
-        "score": 132,
-        "descendants": 25,
-        "by": "ostacke",
-        "tags": [],
-        "summary": "介绍了冰川鼠（Glacier Mice）这种由苔藓构成的罕见球状生态现象及其独特的移动方式。"
-      },
-      {
-        "id": 49479837,
-        "title": "GUIs should be fully keyboard-driven",
-        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "domain": "ckardaris.com",
-        "score": 944,
-        "descendants": 463,
-        "by": "ckardaris",
-        "tags": [],
-        "summary": "论述了现代GUI设计应支持全面键盘驱动的必要性，以提升专业用户的操作效率与可访问性。"
-      },
-      {
-        "id": 49485267,
-        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "url": "https://github.com/Lakr233/vphone-cli",
-        "domain": "github.com",
-        "score": 344,
-        "descendants": 90,
-        "by": "hentrep",
-        "tags": [],
-        "summary": "详细说明了利用苹果Virtualization框架在本地引导和运行虚拟化iPhone环境的实现方法。"
-      },
-      {
-        "id": 49433328,
-        "title": "EVE Online moves to Python 3",
-        "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-        "domain": "eveonline.com",
-        "score": 137,
-        "descendants": 71,
-        "by": "TylerJaacks",
+        "by": "hellerve",
         "tags": [
           "Python"
         ],
-        "summary": "《EVE Online》游戏后端完成了向Python 3的迁移，详细记录了这一大规模系统升级的挑战与成果。"
+        "summary": "深入解析在 Python 信号处理函数中调用 print 函数的安全性与风险。"
+      },
+      {
+        "id": 49492584,
+        "title": "Domain-Driven Agents",
+        "url": "https://coldtake.dev/blog/domain-driven-agents",
+        "domain": "coldtake.dev",
+        "score": 55,
+        "descendants": 6,
+        "by": "AlarQ",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何构建基于领域驱动设计的 AI 智能体架构。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "lwn.net",
+          "domain": "danluu.com",
           "count": 1
         },
         {
-          "domain": "uecker.codeberg.page",
+          "domain": "freecore.org",
           "count": 1
         },
         {
-          "domain": "dgl.cx",
+          "domain": "tencent.com",
           "count": 1
         }
       ],
-      "avg_score": 208,
+      "avg_score": 107,
       "max_score": {
-        "title": "GUIs should be fully keyboard-driven",
-        "score": 944
+        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "score": 366
       },
       "most_discussed": {
-        "title": "GUIs should be fully keyboard-driven",
-        "comments": 463
+        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "comments": 148
       },
       "hot_tags": [
-        "Systems",
+        "Python",
         "AI",
-        "Database",
-        "JavaScript",
-        "Show HN"
+        "Hardware",
+        "Systems",
+        "Science"
       ]
     },
-    "summary": "本期Hacker News焦点涵盖了技术基础设施、开源决策及软硬件底层创新。社区热议话题聚焦于软件工程开发工具的演进、高性能计算与虚拟化技术，以及关于用户交互界面设计理念的深入讨论。"
+    "summary": "本期 Hacker News 聚焦技术深度与社会议题，涵盖了 CPython 对 RISC-V 的支持、软件开发中的认知偏差，以及关于技术隐私与公共安全的讨论。此外，AI 代理架构、开源软件的持续性维护及前沿航天科学也成为社区关注的焦点。"
   }
 }
