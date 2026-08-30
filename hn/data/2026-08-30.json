@@ -161,153 +161,159 @@
     "summary": "本期 Hacker News 聚焦技术深度与社会议题，涵盖了 CPython 对 RISC-V 的支持、软件开发中的认知偏差，以及关于技术隐私与公共安全的讨论。此外，AI 代理架构、开源软件的持续性维护及前沿航天科学也成为社区关注的焦点。"
   },
   "evening": {
-    "time": "2026-08-30 17:32",
+    "time": "2026-08-30 23:55",
     "stories": [
       {
-        "id": 49496782,
-        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-        "url": "https://arxiv.org/abs/1804.07389",
-        "domain": "arxiv.org",
-        "score": 17,
-        "descendants": 3,
-        "by": "joebig",
+        "id": 49491791,
+        "title": "Creepy Crawlies",
+        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "domain": "people.kernel.org",
+        "score": 182,
+        "descendants": 60,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨Linux内核开发中隐藏的复杂性与潜在风险，分析大型系统维护的艰巨性。"
+      },
+      {
+        "id": 49498095,
+        "title": "No AI Fridays",
+        "url": "https://noaifridays.com/",
+        "domain": "noaifridays.com",
+        "score": 173,
+        "descendants": 80,
+        "by": "xendo",
         "tags": [
           "AI"
-        ]
+        ],
+        "summary": "一项倡议行动，呼吁每周五拒绝AI生成内容，旨在鼓励人类真实创作与交流。"
       },
       {
-        "id": 49425252,
-        "title": "RISC-V is now officially supported by CPython",
-        "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-        "domain": "blog.python.org",
-        "score": 160,
-        "descendants": 33,
-        "by": "lumpa",
+        "id": 49497810,
+        "title": "Hacking IKEA Furniture",
+        "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+        "domain": "greenlightning.eu",
+        "score": 127,
+        "descendants": 66,
+        "by": "greenlightning",
         "tags": [
-          "Python",
-          "Hardware"
-        ]
+          "Security"
+        ],
+        "summary": "展示如何通过DIY手法对宜家家具进行硬核改造，提升其功能性与个性化体验。"
       },
       {
-        "id": 49492632,
-        "title": "Hy4 preview",
-        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "domain": "tencent.com",
-        "score": 296,
-        "descendants": 187,
-        "by": "shenli3514",
-        "tags": []
+        "id": 49463888,
+        "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+        "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+        "domain": "youtube.com",
+        "score": 166,
+        "descendants": 59,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "Casey Muratori深入探讨软件工程的底层问题，剖析导致系统开发复杂化与低效的本质因素。"
       },
       {
         "id": 49496918,
         "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
         "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
         "domain": "qubes-os.org",
-        "score": 3,
-        "descendants": 0,
+        "score": 140,
+        "descendants": 56,
         "by": "vntok",
         "tags": [
           "Systems"
-        ]
+        ],
+        "summary": "安全研究人员披露QubesOS在虚拟机间错误报告机制中存在的漏洞，可导致任意代码执行。"
       },
       {
-        "id": 49494520,
-        "title": "Bug Blindness",
-        "url": "https://danluu.com/bug-blind/",
-        "domain": "danluu.com",
-        "score": 249,
-        "descendants": 141,
-        "by": "davidmckenna",
-        "tags": []
-      },
-      {
-        "id": 49494856,
-        "title": "FreeCORE TrueNAS Core – Continued",
-        "url": "https://freecore.org/",
-        "domain": "freecore.org",
-        "score": 95,
-        "descendants": 55,
-        "by": "sashk",
-        "tags": []
-      },
-      {
-        "id": 49495372,
-        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-        "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-        "domain": "tomshardware.com",
-        "score": 272,
-        "descendants": 102,
-        "by": "shscs911",
+        "id": 49496782,
+        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "url": "https://arxiv.org/abs/1804.07389",
+        "domain": "arxiv.org",
+        "score": 155,
+        "descendants": 44,
+        "by": "joebig",
         "tags": [
-          "Systems"
-        ]
+          "AI"
+        ],
+        "summary": "基于地理算法分析，探寻地球表面在陆地或水域上的最长直线路径。"
       },
       {
-        "id": 49496543,
-        "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-        "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-        "domain": "chipsandcheese.com",
-        "score": 5,
-        "descendants": 0,
-        "by": "klelatti",
+        "id": 49498978,
+        "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+        "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+        "domain": "fortune.com",
+        "score": 51,
+        "descendants": 39,
+        "by": "Brajeshwar",
+        "tags": [],
+        "summary": "分析欧洲极端夏季干旱导致的荒漠化风险，强调气候变化对生态与经济的威胁。"
+      },
+      {
+        "id": 49499394,
+        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+        "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+        "domain": "reclaimthenet.org",
+        "score": 27,
+        "descendants": 6,
+        "by": "nickslaughter02",
         "tags": [
-          "Systems"
-        ]
+          "Security"
+        ],
+        "summary": "欧盟委员会重启关于加密后门的立法讨论，引发隐私保护与公共安全争议。"
       },
       {
-        "id": 49415386,
-        "title": "Tether: iMessage, SMS, etc. on Linux",
-        "url": "https://zackbartel.com/blog/2026/08/tether/",
-        "domain": "zackbartel.com",
-        "score": 459,
-        "descendants": 180,
-        "by": "zackb",
-        "tags": [
-          "Systems"
-        ]
+        "id": 49489274,
+        "title": "When Fruit Is Scarce, These Monkeys Hunt Animals",
+        "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
+        "domain": "smithsonianmag.com",
+        "score": 22,
+        "descendants": 1,
+        "by": "cisc",
+        "tags": [],
+        "summary": "科学观察显示，在食物匮乏时期，某些猿类会改变食性转向狩猎其他动物。"
       },
       {
-        "id": 49453232,
-        "title": "The Einstein-Szilard Refrigerator",
-        "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-        "domain": "invention.si.edu",
-        "score": 18,
-        "descendants": 3,
-        "by": "EndXA",
-        "tags": []
+        "id": 49497819,
+        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+        "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+        "domain": "muppetlabs.com",
+        "score": 31,
+        "descendants": 4,
+        "by": "Bluestein",
+        "tags": [],
+        "summary": "开发者为经典的Windows 3.1x系统编写了康威生命游戏，展示对复古平台的致敬。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "arxiv.org",
+          "domain": "people.kernel.org",
           "count": 1
         },
         {
-          "domain": "blog.python.org",
+          "domain": "noaifridays.com",
           "count": 1
         },
         {
-          "domain": "tencent.com",
+          "domain": "greenlightning.eu",
           "count": 1
         }
       ],
-      "avg_score": 157,
+      "avg_score": 107,
       "max_score": {
-        "title": "Tether: iMessage, SMS, etc. on Linux",
-        "score": 459
+        "title": "Creepy Crawlies",
+        "score": 182
       },
       "most_discussed": {
-        "title": "Hy4 preview",
-        "comments": 187
+        "title": "No AI Fridays",
+        "comments": 80
       },
       "hot_tags": [
-        "Systems",
         "AI",
-        "Python",
-        "Hardware"
+        "Security",
+        "Systems"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News热门内容涵盖了系统安全、环境气候危机及复古技术探索。讨论焦点包括QubesOS的漏洞分析、欧洲严峻的旱情挑战以及极客向的旧系统开发与家具改造项目，展现了技术社区在严肃安全防御与科技生活乐趣之间的多元关注。"
   }
 }
