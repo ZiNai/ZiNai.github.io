@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-08-31 10:01",
+    "stories": [
+      {
+        "id": 49503601,
+        "title": "“I just chose words carefully”",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "domain": "unsung.aresluna.org",
+        "score": 290,
+        "descendants": 78,
+        "by": "zdw",
+        "tags": [],
+        "summary": "关于“我只是仔细选择了措辞”的讨论，探讨语言与沟通的精确性。"
+      },
+      {
+        "id": 49491791,
+        "title": "Creepy Crawlies",
+        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "domain": "people.kernel.org",
+        "score": 933,
+        "descendants": 435,
+        "by": "zdw",
+        "tags": [],
+        "summary": "关于Linux内核开发及相关复杂底层系统的技术深度讨论。"
+      },
+      {
+        "id": 49499867,
+        "title": "Haiku R1/beta6 has been released",
+        "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+        "domain": "haiku-os.org",
+        "score": 259,
+        "descendants": 76,
+        "by": "metrofun",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Haiku操作系统正式发布R1/beta6版本，带来系统稳定性和功能升级。"
+      },
+      {
+        "id": 49502214,
+        "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+        "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+        "domain": "righto.com",
+        "score": 79,
+        "descendants": 13,
+        "by": "pwg",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "深入解析1980年Spacelab计算机所使用的磁芯内存模块，回顾航天计算硬件史。"
+      },
+      {
+        "id": 49504625,
+        "title": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "domain": "simonwillison.net",
+        "score": 5,
+        "descendants": 0,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解读ChatGPT的工作机制及其背后的逻辑架构。"
+      },
+      {
+        "id": 49478426,
+        "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+        "url": "https://wilsonharper.net/projects/businesscard/",
+        "domain": "wilsonharper.net",
+        "score": 107,
+        "descendants": 11,
+        "by": "WilsonHarper",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一款集成了微控制器（MCU）并利用NFC能量采集的智能商业名片电路板。"
+      },
+      {
+        "id": 49435285,
+        "title": "Sort branches by last commit date",
+        "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+        "domain": "ryangreenberg.com",
+        "score": 87,
+        "descendants": 34,
+        "by": "speckx",
+        "tags": [],
+        "summary": "介绍一种按最近提交日期对Git分支进行排序的实用技巧。"
+      },
+      {
+        "id": 49502611,
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+        "domain": "sander.ai",
+        "score": 58,
+        "descendants": 19,
+        "by": "peter_d_sherman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨连续扩散语言模型（CDLM）的技术构思及其在模型生成领域的潜力。"
+      },
+      {
+        "id": 49450461,
+        "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+        "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+        "domain": "solar.lowtechmagazine.com",
+        "score": 28,
+        "descendants": 19,
+        "by": "baud147258",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾2011年的观点，分析为何市售自行车发电机在能源可持续性上存在局限性。"
+      },
+      {
+        "id": 49503934,
+        "title": "Matrox: Graphics for Professionals",
+        "url": "https://www.abortretry.fail/p/matrox",
+        "domain": "abortretry.fail",
+        "score": 14,
+        "descendants": 0,
+        "by": "BirAdam",
+        "tags": [],
+        "summary": "回顾Matrox显卡在专业绘图领域的历史地位与技术遗产。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "unsung.aresluna.org",
+          "count": 1
+        },
+        {
+          "domain": "people.kernel.org",
+          "count": 1
+        },
+        {
+          "domain": "haiku-os.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 186,
+      "max_score": {
+        "title": "Creepy Crawlies",
+        "score": 933
+      },
+      "most_discussed": {
+        "title": "Creepy Crawlies",
+        "comments": 435
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点主要围绕开源操作系统Haiku的重大更新与硬件工程的怀旧复兴，涵盖从老式航天计算硬件到现代NFC能源采集电路的跨度。同时，社区对AI技术（如ChatGPT原理与扩散语言模型）保持着持续的研发关注，展现出软硬件技术交汇的多元趋势。"
+  }
+}
