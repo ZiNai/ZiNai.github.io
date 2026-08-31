@@ -158,5 +158,155 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点主要围绕开源操作系统Haiku的重大更新与硬件工程的怀旧复兴，涵盖从老式航天计算硬件到现代NFC能源采集电路的跨度。同时，社区对AI技术（如ChatGPT原理与扩散语言模型）保持着持续的研发关注，展现出软硬件技术交汇的多元趋势。"
+  },
+  "evening": {
+    "time": "2026-08-31 18:13",
+    "stories": [
+      {
+        "id": 49503601,
+        "title": "“I just chose words carefully”",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "domain": "unsung.aresluna.org",
+        "score": 804,
+        "descendants": 207,
+        "by": "zdw",
+        "tags": [],
+        "summary": "关于言辞选择与其背后深层意义的个人反思。"
+      },
+      {
+        "id": 49505219,
+        "title": "P99 0 ms* autocomplete for 240M domain names",
+        "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+        "domain": "ruurtjan.com",
+        "score": 128,
+        "descendants": 55,
+        "by": "dbalatero",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何为2.4亿个域名实现零延迟毫秒级的自动补全技术。"
+      },
+      {
+        "id": 49491791,
+        "title": "Creepy Crawlies",
+        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "domain": "people.kernel.org",
+        "score": 1171,
+        "descendants": 582,
+        "by": "zdw",
+        "tags": [],
+        "summary": "针对内核开发中复杂漏洞与底层隐患的深入技术分析。"
+      },
+      {
+        "id": 49481141,
+        "title": "My hobby of building miniatures and taking pretty pictures",
+        "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+        "domain": "sandyuraz.com",
+        "score": 140,
+        "descendants": 23,
+        "by": "thecsw",
+        "tags": [],
+        "summary": "记录作者将微缩模型制作作为爱好并进行创意摄影的过程。"
+      },
+      {
+        "id": 49485020,
+        "title": "Highlighting My Code Based on How Much I Care",
+        "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
+        "domain": "hank.bond",
+        "score": 60,
+        "descendants": 28,
+        "by": "hankbond",
+        "tags": [],
+        "summary": "一种基于代码关注度自动调整视觉高亮程度的个性化工具实现。"
+      },
+      {
+        "id": 49506142,
+        "title": "uv: Deduplicate all files in the wheel cache",
+        "url": "https://github.com/astral-sh/uv/pull/21327",
+        "domain": "github.com",
+        "score": 24,
+        "descendants": 0,
+        "by": "tosh",
+        "tags": [],
+        "summary": "uv工具通过去重机制优化Python wheel缓存空间的实践更新。"
+      },
+      {
+        "id": 49506819,
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "domain": "embracethered.com",
+        "score": 18,
+        "descendants": 1,
+        "by": "Recursing",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过对抗测试揭示Claude Code自动模式下的安全边界与限制。"
+      },
+      {
+        "id": 49506182,
+        "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+        "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "domain": "arstechnica.com",
+        "score": 135,
+        "descendants": 17,
+        "by": "WithinReason",
+        "tags": [],
+        "summary": "12TB Steam数据泄露事件揭开了十年间PC游戏开发历史的遗失档案。"
+      },
+      {
+        "id": 49503934,
+        "title": "Matrox: Graphics for Professionals",
+        "url": "https://www.abortretry.fail/p/matrox",
+        "domain": "abortretry.fail",
+        "score": 117,
+        "descendants": 34,
+        "by": "BirAdam",
+        "tags": [],
+        "summary": "回顾Matrox图形卡在专业领域的技术贡献与品牌历程。"
+      },
+      {
+        "id": 49504625,
+        "title": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "domain": "simonwillison.net",
+        "score": 190,
+        "descendants": 86,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析ChatGPT内部工作原理及其处理任务的技术逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "unsung.aresluna.org",
+          "count": 1
+        },
+        {
+          "domain": "ruurtjan.com",
+          "count": 1
+        },
+        {
+          "domain": "people.kernel.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 279,
+      "max_score": {
+        "title": "Creepy Crawlies",
+        "score": 1171
+      },
+      "most_discussed": {
+        "title": "Creepy Crawlies",
+        "comments": 582
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从前沿软件工程技术到复古硬件文化的多元议题。开发者们热衷于讨论高性能架构优化、AI工具的深入探索及游戏史料的挖掘，反映了社区在技术实践与人文技术史之间保持着持续的高度关注。"
   }
 }
