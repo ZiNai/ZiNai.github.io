@@ -158,5 +158,148 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于科技政策变动与开发工具创新，Google 对 MV2 插件的清理引发了社区对于隐私保护工具未来的担忧。与此同时，跨平台开发工具、复古技术及个人黑客项目展示了开发者在生态兼容性和创意实验方面的多样化探索。"
+  },
+  "noon": {
+    "time": "2026-09-01 16:58",
+    "stories": [
+      {
+        "id": 49517584,
+        "title": "GPU World",
+        "url": "https://www.gpuworld.org/",
+        "domain": "gpuworld.org",
+        "score": 202,
+        "descendants": 85,
+        "by": "simonpure",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度解析 GPU 产业生态的行业分析报告。"
+      },
+      {
+        "id": 49517448,
+        "title": "Fastpotify",
+        "url": "https://fastpotify.rocks/",
+        "domain": "fastpotify.rocks",
+        "score": 346,
+        "descendants": 170,
+        "by": "nreece",
+        "tags": [],
+        "summary": "一款旨在提供极速体验的第三方 Spotify 客户端。"
+      },
+      {
+        "id": 49516059,
+        "title": "Tmp.0ut Volume 5",
+        "url": "https://tmpout.sh/5/",
+        "domain": "tmpout.sh",
+        "score": 48,
+        "descendants": 18,
+        "by": "ghuntley",
+        "tags": [],
+        "summary": "探讨底层安全、二进制分析与黑客技术的第五期电子杂志。"
+      },
+      {
+        "id": 49517624,
+        "title": "Restroom Archive",
+        "url": "https://restroomarchive.com",
+        "domain": "restroomarchive.com",
+        "score": 111,
+        "descendants": 34,
+        "by": "jcalx",
+        "tags": [],
+        "summary": "一个记录与展示世界各地独特公共厕所的档案馆。"
+      },
+      {
+        "id": 49511856,
+        "title": "I turned my security cameras into an automatic bird identification system",
+        "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+        "domain": "jasontucker.blog",
+        "score": 491,
+        "descendants": 116,
+        "by": "speckx",
+        "tags": [
+          "Security"
+        ],
+        "summary": "将安防摄像头与AI结合，打造自动化鸟类识别监控系统。"
+      },
+      {
+        "id": 49510514,
+        "title": "Playa Phone",
+        "url": "https://playaphone.com/",
+        "domain": "playaphone.com",
+        "score": 615,
+        "descendants": 209,
+        "by": "cutoff",
+        "tags": [],
+        "summary": "极简主义功能手机设计，旨在减少数字干扰与提升专注力。"
+      },
+      {
+        "id": 49503521,
+        "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+        "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+        "domain": "youtube.com",
+        "score": 411,
+        "descendants": 58,
+        "by": "matthewsinclair",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49512975,
+        "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+        "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+        "domain": "youtube.com",
+        "score": 322,
+        "descendants": 38,
+        "by": "keithcarolus",
+        "tags": [
+          "Web"
+        ],
+        "summary": "仅用单个 HTML 文件构建的交互式 ASCII 赛博朋克城市。"
+      },
+      {
+        "id": 49517297,
+        "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+        "url": "https://github.com/fregacmols/RotaryCell",
+        "domain": "github.com",
+        "score": 57,
+        "descendants": 8,
+        "by": "jombib",
+        "tags": [],
+        "summary": "利用 ESP32-S3 实现老式拨盘电话的 LTE 蜂窝网络改造。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 2
+        },
+        {
+          "domain": "gpuworld.org",
+          "count": 1
+        },
+        {
+          "domain": "fastpotify.rocks",
+          "count": 1
+        }
+      ],
+      "avg_score": 289,
+      "max_score": {
+        "title": "Playa Phone",
+        "score": 615
+      },
+      "most_discussed": {
+        "title": "Playa Phone",
+        "comments": 209
+      },
+      "hot_tags": [
+        "Hardware",
+        "Security",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "今日 Hacker News 热门趋势展现了软硬件结合的极客文化，涵盖了从老旧设备改造（RotaryCell、Playa Phone）到智能家居自动化与视觉艺术的多元创新。技术分享依然是核心，不仅包含GPU算力趋势与数学科普，还展示了轻量化Web与底层安全技术的趣味应用。"
   }
 }
