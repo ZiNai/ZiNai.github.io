@@ -1,154 +1,162 @@
 {
   "morning": {
-    "time": "2026-09-01 02:39",
+    "time": "2026-09-01 10:22",
     "stories": [
+      {
+        "id": 49514878,
+        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+        "domain": "webiterate.dev",
+        "score": 558,
+        "descendants": 424,
+        "by": "twapi",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Google 正式从 Chrome 商店移除 MV2 扩展，引发了对 uBlock Origin 等知名拦截插件命运的广泛讨论。"
+      },
+      {
+        "id": 49515830,
+        "title": "Run macOS Software on Linux",
+        "url": "https://www.darlinghq.org/",
+        "domain": "darlinghq.org",
+        "score": 111,
+        "descendants": 32,
+        "by": "Bluestein",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍在 Linux 系统上运行 macOS 软件的开源项目，探讨其兼容性与实现逻辑。"
+      },
       {
         "id": 49511856,
         "title": "I turned my security cameras into an automatic bird identification system",
         "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
         "domain": "jasontucker.blog",
-        "score": 124,
-        "descendants": 43,
+        "score": 367,
+        "descendants": 95,
         "by": "speckx",
         "tags": [
           "Security"
         ],
-        "summary": "博主通过自定义方案将安防摄像头改造为自动鸟类识别系统。"
+        "summary": "作者利用安防摄像头与自动识别算法，打造了一个能自动标记访客鸟类的智能系统。"
+      },
+      {
+        "id": 49476239,
+        "title": "'Mad honey' that can stop your heart is being sold online",
+        "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+        "domain": "phys.org",
+        "score": 142,
+        "descendants": 91,
+        "by": "samizdis",
+        "tags": [],
+        "summary": "深度调查探讨网上非法售卖的“疯狂蜂蜜”及其潜在的致死性心脏风险。"
+      },
+      {
+        "id": 49516209,
+        "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+        "domain": "twitter.com",
+        "score": 35,
+        "descendants": 24,
+        "by": "ilamont",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "约翰·卡马克在推特探讨早期的 Scratch 编程经验是否与程序员的后续职业发展存在关联。"
       },
       {
         "id": 49510514,
         "title": "Playa Phone",
         "url": "https://playaphone.com/",
         "domain": "playaphone.com",
-        "score": 291,
-        "descendants": 118,
+        "score": 505,
+        "descendants": 186,
         "by": "cutoff",
         "tags": [],
-        "summary": "一款旨在提升火人节等大型活动期间通信体验的特殊手机项目。"
-      },
-      {
-        "id": 49512856,
-        "title": "The safest job from AI may be writing",
-        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-        "domain": "muratbuffalo.blogspot.com",
-        "score": 22,
-        "descendants": 14,
-        "by": "ilreb",
-        "tags": [
-          "AI"
-        ],
-        "summary": "探讨为何写作类工作在AI时代反而可能具备更高的职业安全性。"
-      },
-      {
-        "id": 49511534,
-        "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-        "url": "https://ravynos.com/",
-        "domain": "ravynos.com",
-        "score": 77,
-        "descendants": 48,
-        "by": "Bluestein",
-        "tags": [
-          "Systems",
-          "Open Source"
-        ],
-        "summary": "一个基于Darwin和FreeBSD构建的类macOS体验开源操作系统项目。"
-      },
-      {
-        "id": 49512789,
-        "title": "Student teacher arrested for private Snapchat message",
-        "url": "https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school",
-        "domain": "gadgetreview.com",
-        "score": 15,
-        "descendants": 9,
-        "by": "saulpw",
-        "tags": [],
-        "summary": "探讨因发送私人Snapchat消息导致实习教师被捕的争议性事件。"
-      },
-      {
-        "id": 49510000,
-        "title": "ChatGPT Work Tool and Skill Reference",
-        "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-        "domain": "codex-tool-reference.simonw.chatgpt.site",
-        "score": 121,
-        "descendants": 44,
-        "by": "ijidak",
-        "tags": [
-          "AI"
-        ],
-        "summary": "一份详尽的ChatGPT工作场景工具及技能使用参考指南。"
+        "summary": "介绍一款极简主义的 Playa Phone，旨在提供无干扰、专注沟通的数字生活体验。"
       },
       {
         "id": 49512975,
         "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
         "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
         "domain": "youtube.com",
-        "score": 9,
-        "descendants": 3,
+        "score": 215,
+        "descendants": 29,
         "by": "keithcarolus",
         "tags": [
           "Web"
         ],
-        "summary": "一个仅用单个HTML文件实现的交互式赛博朋克风格ASCII行走城市。"
+        "summary": "一个仅由单文件 HTML 实现的 ASCII 风格赛博朋克城市，展示了极致的轻量级图形编程。"
       },
       {
-        "id": 49511007,
-        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-        "url": "https://usealmanac.com/",
-        "domain": "usealmanac.com",
-        "score": 23,
-        "descendants": 30,
-        "by": "kushagrchitkar",
+        "id": 49503521,
+        "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+        "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+        "domain": "youtube.com",
+        "score": 220,
+        "descendants": 26,
+        "by": "matthewsinclair",
         "tags": [
-          "AI",
-          "Startup"
+          "AI"
         ],
-        "summary": "深入解析C++26标准中正在进行的标准库安全加固实验。"
+        "summary": "数学家陶哲轩深入浅出地讲解六个基础数学概念，非常适合数学爱好者学习提升。"
       },
       {
-        "id": 49510511,
-        "title": "C++26: Standard Library Hardening Experiments",
-        "url": "https://www.cppstories.com/2026/hardening-experiments/",
-        "domain": "cppstories.com",
-        "score": 57,
-        "descendants": 33,
-        "by": "ibobev",
-        "tags": [
-          "Systems"
-        ]
+        "id": 49494181,
+        "title": "Lion-man – the oldest confirmed statue ever discovered",
+        "url": "https://en.wikipedia.org/wiki/Lion-man",
+        "domain": "en.wikipedia.org",
+        "score": 55,
+        "descendants": 25,
+        "by": "gurjeet",
+        "tags": [],
+        "summary": "介绍了被证实为人类历史上最古老的雕像作品“狮人雕像”的相关考古细节。"
+      },
+      {
+        "id": 49515662,
+        "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+        "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+        "domain": "cgicoffee.com",
+        "score": 44,
+        "descendants": 29,
+        "by": "aryonoco",
+        "tags": [],
+        "summary": "探讨如何利用经典的 Tcl/Tk 工具包快速构建跨平台的命令行及图形界面工具。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "jasontucker.blog",
+          "domain": "youtube.com",
+          "count": 2
+        },
+        {
+          "domain": "webiterate.dev",
           "count": 1
         },
         {
-          "domain": "playaphone.com",
-          "count": 1
-        },
-        {
-          "domain": "muratbuffalo.blogspot.com",
+          "domain": "darlinghq.org",
           "count": 1
         }
       ],
-      "avg_score": 82,
+      "avg_score": 225,
       "max_score": {
-        "title": "Playa Phone",
-        "score": 291
+        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "score": 558
       },
       "most_discussed": {
-        "title": "Playa Phone",
-        "comments": 118
+        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "comments": 424
       },
       "hot_tags": [
-        "AI",
+        "Web",
         "Systems",
         "Security",
-        "Open Source",
-        "Web"
+        "Hardware",
+        "AI"
       ]
     },
-    "summary": "本期Hacker News热门内容聚焦于技术实践与AI应用，涵盖了个人开发者在计算机视觉、操作系统开发及AI辅助工具方面的创新尝试。同时，社会议题及编程标准演进也引发了社区的关注与讨论。"
+    "summary": "本期 Hacker News 焦点集中于科技政策变动与开发工具创新，Google 对 MV2 插件的清理引发了社区对于隐私保护工具未来的担忧。与此同时，跨平台开发工具、复古技术及个人黑客项目展示了开发者在生态兼容性和创意实验方面的多样化探索。"
   }
 }
