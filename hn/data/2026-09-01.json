@@ -301,5 +301,161 @@
       ]
     },
     "summary": "今日 Hacker News 热门趋势展现了软硬件结合的极客文化，涵盖了从老旧设备改造（RotaryCell、Playa Phone）到智能家居自动化与视觉艺术的多元创新。技术分享依然是核心，不仅包含GPU算力趋势与数学科普，还展示了轻量化Web与底层安全技术的趣味应用。"
+  },
+  "evening": {
+    "time": "2026-09-01 23:58",
+    "stories": [
+      {
+        "id": 49520022,
+        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+        "domain": "github.com",
+        "score": 539,
+        "descendants": 146,
+        "by": "hexa555",
+        "tags": [],
+        "summary": "AnkiDroid 因谷歌应用商店的政策限制，被迫移除 Open Collective 捐赠链接。"
+      },
+      {
+        "id": 49522897,
+        "title": "Ask HN: Who is hiring? (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49522897",
+        "domain": "news.ycombinator.com",
+        "score": 43,
+        "descendants": 36,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 2026 年 9 月份的招聘贴，供求职者与招聘方对接。"
+      },
+      {
+        "id": 49521623,
+        "title": "Io_uring Without Readahead",
+        "url": "https://frn.sh/io-uring/",
+        "domain": "frn.sh",
+        "score": 54,
+        "descendants": 5,
+        "by": "porridgeraisin",
+        "tags": [],
+        "summary": "探讨在不使用预读（readahead）机制的情况下优化 io_uring 的性能表现。"
+      },
+      {
+        "id": 49519939,
+        "title": "44% on ARC-AGI-1 in 67 cents",
+        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+        "domain": "mvakde.github.io",
+        "score": 247,
+        "descendants": 70,
+        "by": "porridgeraisin",
+        "tags": [],
+        "summary": "研究者仅花费 67 美分就在 ARC-AGI-1 基准测试中实现了 44% 的准确率。"
+      },
+      {
+        "id": 49493468,
+        "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+        "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+        "domain": "simpleflying.com",
+        "score": 253,
+        "descendants": 101,
+        "by": "NaOH",
+        "tags": [
+          "AI"
+        ],
+        "summary": "纪念美国航空一位拥有 80 年职业生涯、享年 100 岁的传奇机械师。"
+      },
+      {
+        "id": 49522954,
+        "title": "EFF to Governor Newsom: Veto California's AB 1709",
+        "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
+        "domain": "eff.org",
+        "score": 53,
+        "descendants": 28,
+        "by": "mdp2021",
+        "tags": [],
+        "summary": "电子前哨基金会（EFF）敦促加州州长否决 AB 1709 法案以保护数字权益。"
+      },
+      {
+        "id": 49517448,
+        "title": "Fastpotify",
+        "url": "https://fastpotify.rocks/",
+        "domain": "fastpotify.rocks",
+        "score": 670,
+        "descendants": 429,
+        "by": "nreece",
+        "tags": [],
+        "summary": "一款高性能的第三方 Spotify 客户端，专注于提供更快捷的音乐播放体验。"
+      },
+      {
+        "id": 49521973,
+        "title": "Introducing Ad Blocker for Firefox on iOS",
+        "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+        "domain": "blog.mozilla.org",
+        "score": 71,
+        "descendants": 26,
+        "by": "HieronymusBosch",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "Mozilla 宣布为 iOS 版 Firefox 推出原生的广告拦截功能。"
+      },
+      {
+        "id": 49523361,
+        "title": "A browser-based viewer for Office Open XML documents",
+        "url": "https://ooxml.silurus.dev/",
+        "domain": "ooxml.silurus.dev",
+        "score": 5,
+        "descendants": 0,
+        "by": "mathiaswp",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个轻量级的浏览器插件，支持在线直接查看 Office Open XML 文档。"
+      },
+      {
+        "id": 49509655,
+        "title": "We Are Rebuilding Monica",
+        "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
+        "domain": "monicahq.com",
+        "score": 23,
+        "descendants": 10,
+        "by": "robinhood",
+        "tags": [],
+        "summary": "开源个人 CRM 项目 Monica 宣布进行底层架构重构以提升性能与扩展性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "frn.sh",
+          "count": 1
+        }
+      ],
+      "avg_score": 196,
+      "max_score": {
+        "title": "Fastpotify",
+        "score": 670
+      },
+      "most_discussed": {
+        "title": "Fastpotify",
+        "comments": 429
+      },
+      "hot_tags": [
+        "Web",
+        "Ask HN",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于开源生态挑战、AI 进展与技术工具更新。社区不仅讨论了关于应用商店政策对开源捐赠的影响，还关注了性能优化、新兴的 AI 效率突破及针对特定平台的隐私与办公工具创新。"
   }
 }
