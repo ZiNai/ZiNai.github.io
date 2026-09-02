@@ -1,0 +1,168 @@
+{
+  "morning": {
+    "time": "2026-09-02 09:44",
+    "stories": [
+      {
+        "id": 49527748,
+        "title": "Hang on to Your Firefox",
+        "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+        "domain": "newsonaut.com",
+        "score": 496,
+        "descendants": 265,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "呼吁用户继续坚守Firefox，探讨浏览器市场竞争与用户选择的重要性。"
+      },
+      {
+        "id": 49525378,
+        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "domain": "anthropic.com",
+        "score": 931,
+        "descendants": 878,
+        "by": "denysvitali",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Anthropic发布了Claude Fable 5.1和Claude Mythos 5.1新模型，引发业界广泛关注。"
+      },
+      {
+        "id": 49526069,
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "url": "https://danluu.com/zitron/",
+        "domain": "danluu.com",
+        "score": 413,
+        "descendants": 501,
+        "by": "jatins",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度评估分析师Ed Zitron此前关于人工智能发展的批判性预测准确度。"
+      },
+      {
+        "id": 49529898,
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "domain": "baseten.co",
+        "score": 36,
+        "descendants": 6,
+        "by": "philipkiely",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨大语言模型推理在算力成本与性能之间的平衡点。"
+      },
+      {
+        "id": 49528895,
+        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "url": "https://masteranza.github.io/weedout/",
+        "domain": "masteranza.github.io",
+        "score": 54,
+        "descendants": 19,
+        "by": "masteranza",
+        "tags": [
+          "AI",
+          "Web",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一款Safari浏览器插件，可自动屏蔽YouTube上被标记为AI生成的视频。"
+      },
+      {
+        "id": 49529132,
+        "title": "My local model setup on an M4 Pro Mac Mini",
+        "url": "https://lws.io/blog/my-local-model-setup/",
+        "domain": "lws.io",
+        "score": 56,
+        "descendants": 27,
+        "by": "raybb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享在M4 Pro芯片Mac Mini上运行本地大语言模型的配置经验。"
+      },
+      {
+        "id": 49520022,
+        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+        "domain": "github.com",
+        "score": 832,
+        "descendants": 246,
+        "by": "hexa555",
+        "tags": [],
+        "summary": "AnkiDroid开发者反映Google Play商店禁止其链接Open Collective捐赠渠道。"
+      },
+      {
+        "id": 49521973,
+        "title": "Introducing Ad Blocker for Firefox on iOS",
+        "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+        "domain": "blog.mozilla.org",
+        "score": 308,
+        "descendants": 106,
+        "by": "HieronymusBosch",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "Mozilla官方宣布为iOS版Firefox推出原生广告拦截功能。"
+      },
+      {
+        "id": 49482099,
+        "title": "Sonic Pi",
+        "url": "https://sonic-pi.net/",
+        "domain": "sonic-pi.net",
+        "score": 33,
+        "descendants": 4,
+        "by": "Bluestein",
+        "tags": [],
+        "summary": "介绍Sonic Pi，一款通过编写代码进行实时音乐创作的开源软件。"
+      },
+      {
+        "id": 49479909,
+        "title": "Building an interactive instrument for a one-of-a-kind festival",
+        "url": "https://benholmen.com/blog/halfmoon-chimes/",
+        "domain": "benholmen.com",
+        "score": 12,
+        "descendants": 1,
+        "by": "tjwds",
+        "tags": [],
+        "summary": "分享为特殊节日定制开发交互式音乐设备的实践过程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "newsonaut.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "danluu.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 317,
+      "max_score": {
+        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "score": 931
+      },
+      "most_discussed": {
+        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "comments": 878
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，涵盖了Anthropic新模型发布、对AI预测的批判性回顾以及LLM推理效率优化。同时，关于Firefox浏览器功能的演进及开源软件在合规性审查下的挑战（如AnkiDroid）也引发了社区的广泛讨论。"
+  }
+}
