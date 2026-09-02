@@ -331,5 +331,162 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI领域，涵盖了Claude新模型的发布、AI模型内部结构的学术探索以及对其行业预测的理性批判。此外，开发者工具和隐私安全话题（如数据泄露与广告屏蔽）同样引发了社区的广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-09-02 23:51",
+    "stories": [
+      {
+        "id": 49535752,
+        "title": "A Note from LWN",
+        "url": "https://lwn.net/Articles/1090585/",
+        "domain": "lwn.net",
+        "score": 400,
+        "descendants": 81,
+        "by": "rwky",
+        "tags": [],
+        "summary": "知名 Linux 新闻网站 LWN 发布重要公告，涉及其运营模式的调整。"
+      },
+      {
+        "id": 49537553,
+        "title": "Gemini 3.8 Flash",
+        "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+        "domain": "deepmind.google",
+        "score": 104,
+        "descendants": 43,
+        "by": "bratao",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google DeepMind 发布了性能更优的 Gemini 3.8 Flash 模型。"
+      },
+      {
+        "id": 49536079,
+        "title": "Biggest dark matter detector spots a single weird particle",
+        "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+        "domain": "science.org",
+        "score": 93,
+        "descendants": 10,
+        "by": "randycupertino",
+        "tags": [],
+        "summary": "顶级暗物质探测器观测到一个异常粒子，可能挑战现有物理学认知。"
+      },
+      {
+        "id": 49535284,
+        "title": "Mistral now trains on user input by default, except on enterprise tier",
+        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "domain": "help.mistral.ai",
+        "score": 143,
+        "descendants": 70,
+        "by": "teekert",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral AI 更新隐私政策，除企业版外默认使用用户输入进行模型训练。"
+      },
+      {
+        "id": 49536375,
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "domain": "trellner.com",
+        "score": 116,
+        "descendants": 66,
+        "by": "jakobgreenfeld",
+        "tags": [
+          "AI"
+        ],
+        "summary": "调查揭露三个网站通过生成海量垃圾内容骗取搜索排名，而 Perplexity 却将其作为引用源。"
+      },
+      {
+        "id": 49536384,
+        "title": "GrapheneOS says Pixel 11 has MTE support after all",
+        "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+        "domain": "grapheneos.social",
+        "score": 72,
+        "descendants": 51,
+        "by": "user_7832",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "GrapheneOS 确认 Pixel 11 硬件确实提供了内存标记扩展 (MTE) 支持。"
+      },
+      {
+        "id": 49536177,
+        "title": "Poisson Disk Sampling",
+        "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+        "domain": "stripeacross.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "深入解析计算机图形学中用于生成随机分布点的泊松盘采样算法。"
+      },
+      {
+        "id": 49536606,
+        "title": "Exit the Cave",
+        "url": "https://turtlespace.blog/p/exit-the-cave",
+        "domain": "turtlespace.blog",
+        "score": 40,
+        "descendants": 11,
+        "by": "akkartik",
+        "tags": [],
+        "summary": "一篇探讨认知突破与摆脱思维局限的深度思考文章。"
+      },
+      {
+        "id": 49533497,
+        "title": "Commodore 64 released September 1, 1982",
+        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+        "domain": "dfarq.homeip.net",
+        "score": 230,
+        "descendants": 117,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "怀旧回顾 1982 年发布的 Commodore 64 对家用计算机史的影响。"
+      },
+      {
+        "id": 49536411,
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "url": "https://github.com/mlc-ai/web-llm",
+        "domain": "github.com",
+        "score": 20,
+        "descendants": 7,
+        "by": "saikatsg",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "WebLLM 介绍如何通过浏览器实现高性能的本地大语言模型推理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lwn.net",
+          "count": 1
+        },
+        {
+          "domain": "deepmind.google",
+          "count": 1
+        },
+        {
+          "domain": "science.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 127,
+      "max_score": {
+        "title": "A Note from LWN",
+        "score": 400
+      },
+      "most_discussed": {
+        "title": "Commodore 64 released September 1, 1982",
+        "comments": 117
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于人工智能生态的演变与治理，涵盖了模型更新、数据抓取争议及隐私策略等关键议题。此外，技术社区仍对前沿科学发现、开源软件及怀旧计算机历史保持浓厚兴趣。"
   }
 }
