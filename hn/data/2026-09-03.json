@@ -155,5 +155,157 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI领域的快速迭代与负面舆情，包括Meta与Google的新模型发布，以及行业对AI搜索引用质量、数据隐私合规及语言多样性的深入探讨。此外，技术社区还关注了特定文件格式的逆向工程实践及个性化医疗服务的创业动向。"
+  },
+  "noon": {
+    "time": "2026-09-03 16:21",
+    "stories": [
+      {
+        "id": 49546753,
+        "title": "Pre-Release of Polars 2.0",
+        "url": "https://pola.rs/posts/announcing-polars-2/",
+        "domain": "pola.rs",
+        "score": 43,
+        "descendants": 1,
+        "by": "komape",
+        "tags": [],
+        "summary": "数据处理框架 Polars 发布 2.0 预发布版，带来架构优化与功能增强。"
+      },
+      {
+        "id": 49541256,
+        "title": "Muse Spark 1.3",
+        "url": "https://developer.meta.com/ai/models/muse-spark/",
+        "domain": "developer.meta.com",
+        "score": 547,
+        "descendants": 375,
+        "by": "bvaldivielso",
+        "tags": [],
+        "summary": "Meta 发布 Muse Spark 1.3，进一步展示了其在生成式 AI 模型领域的最新技术进展。"
+      },
+      {
+        "id": 49537553,
+        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "domain": "blog.google",
+        "score": 989,
+        "descendants": 564,
+        "by": "bratao",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google 推出 Gemini 3.8 Flash 及增强版 Cyber 模型，旨在平衡性能与推理速度。"
+      },
+      {
+        "id": 49511493,
+        "title": "The Computer Museum of America reclamation project",
+        "url": "https://computer-museum.org/wp/",
+        "domain": "computer-museum.org",
+        "score": 35,
+        "descendants": 11,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "美国计算机博物馆的藏品回收项目记录了计算技术的发展历程与遗产保护工作。"
+      },
+      {
+        "id": 49508405,
+        "title": "Holden's Lightning Flight",
+        "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+        "domain": "en.wikipedia.org",
+        "score": 145,
+        "descendants": 27,
+        "by": "ColinWright",
+        "tags": [],
+        "summary": "回顾 Holden 极具挑战性的飞行历史事件及其背后的技术背景。"
+      },
+      {
+        "id": 49530169,
+        "title": "LLMs and Self-Referentiality",
+        "url": "https://scottaaronson.blog/?p=10046",
+        "domain": "scottaaronson.blog",
+        "score": 25,
+        "descendants": 11,
+        "by": "mavdol04",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨大型语言模型（LLM）的自我指涉特性及其在逻辑思维方面的潜在局限。"
+      },
+      {
+        "id": 49536375,
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "domain": "trellner.com",
+        "score": 395,
+        "descendants": 191,
+        "by": "jakobgreenfeld",
+        "tags": [
+          "AI"
+        ],
+        "summary": "揭露了 AI 内容农场通过批量生产“最佳软件”网页进行 SEO 操纵，并被 Perplexity 等 AI 搜索工具误用的乱象。"
+      },
+      {
+        "id": 49537131,
+        "title": "Google avoids a breakup of its ad tech business",
+        "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+        "domain": "nytimes.com",
+        "score": 360,
+        "descendants": 267,
+        "by": "donohoe",
+        "tags": [],
+        "summary": "Google 在针对其广告技术业务的拆分官司中获得阶段性规避，法律博弈仍在继续。"
+      },
+      {
+        "id": 49535284,
+        "title": "Can I opt out of my input or output data being used for training?",
+        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "domain": "help.mistral.ai",
+        "score": 428,
+        "descendants": 191,
+        "by": "teekert",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨用户如何要求 Mistral AI 在训练过程中保护其输入及输出数据的隐私权。"
+      },
+      {
+        "id": 49508608,
+        "title": "Reverse Engineering Unknown File Formats with ImHex",
+        "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+        "domain": "werwolv.net",
+        "score": 183,
+        "descendants": 34,
+        "by": "carlos-menezes",
+        "tags": [],
+        "summary": "介绍如何利用 ImHex 工具对未知文件格式进行逆向工程分析的实操技巧。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pola.rs",
+          "count": 1
+        },
+        {
+          "domain": "developer.meta.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        }
+      ],
+      "avg_score": 315,
+      "max_score": {
+        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "score": 989
+      },
+      "most_discussed": {
+        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "comments": 564
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 领域的前沿进展与争议，包括 Google 与 Meta 的模型更新、AI 内容农场的SEO策略，以及用户对于模型训练数据隐私权的广泛担忧。此外，技术社区还关注了数据处理工具 Polars 的重大更新、逆向工程技术及大型科技公司的监管博弈。"
   }
 }
