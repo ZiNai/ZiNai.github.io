@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-09-04 09:44",
+    "stories": [
+      {
+        "id": 49554643,
+        "title": "GPT-6 Astra",
+        "url": "https://openai.com/index/gpt-6-astra/",
+        "domain": "openai.com",
+        "score": 1320,
+        "descendants": 1041,
+        "by": "kibae",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布GPT-6 Astra，引发了关于模型能力演进及行业影响的广泛讨论。"
+      },
+      {
+        "id": 49550772,
+        "title": ".name Termination",
+        "url": "https://neil.fraser.name/news/2026/09/03/",
+        "domain": "neil.fraser.name",
+        "score": 1355,
+        "descendants": 378,
+        "by": "pavel_lishin",
+        "tags": [],
+        "summary": "作者分享了其个人域名被终止的经历，探讨了域名注册管理中的争议性政策问题。"
+      },
+      {
+        "id": 49554520,
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "url": "https://inference-docs.cerebras.ai/models/overview",
+        "domain": "inference-docs.cerebras.ai",
+        "score": 452,
+        "descendants": 131,
+        "by": "altertable",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cerebras平台现已支持Qwen 3.8 27B模型，实现了高达每秒1500 tokens的推理速度。"
+      },
+      {
+        "id": 49526453,
+        "title": "The largest electric aircraft just flew [video]",
+        "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+        "domain": "youtube.com",
+        "score": 197,
+        "descendants": 127,
+        "by": "feb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "全球最大的电动飞机完成试飞，展示了可持续航空领域的重大技术突破。"
+      },
+      {
+        "id": 49530807,
+        "title": "New type of dice guarantees no tie when deciding who goes first",
+        "url": "https://www.cbc.ca/lite/story/9.7328614",
+        "domain": "cbc.ca",
+        "score": 21,
+        "descendants": 18,
+        "by": "colinprince",
+        "tags": [],
+        "summary": "一种新型骰子设计的数学原理被公开，旨在彻底解决竞选先后顺序时的平局问题。"
+      },
+      {
+        "id": 49552572,
+        "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+        "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+        "domain": "discoverwildlife.com",
+        "score": 155,
+        "descendants": 53,
+        "by": "speckx",
+        "tags": [],
+        "summary": "研究表明，通过人工构建海狸坝改善河流生态，使银鲑鱼苗的存活率从8%显著提升至60%。"
+      },
+      {
+        "id": 49557206,
+        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+        "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+        "domain": "armature.tech",
+        "score": 97,
+        "descendants": 30,
+        "by": "screm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过对1.7万次运行数据的分析，揭示了Claude、Codex和Cursor等AI工具在任务选择上的偏好倾向。"
+      },
+      {
+        "id": 49550375,
+        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "domain": "babyloniantwins.com",
+        "score": 198,
+        "descendants": 62,
+        "by": "rabahs",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "开发者利用LLM辅助解析68000汇编语言，成功将1993年的Amiga经典游戏移植至Godot引擎。"
+      },
+      {
+        "id": 49551760,
+        "title": "K2 Horizon: A connected fleet of six open models",
+        "url": "https://ifm.ai/blog/k2/",
+        "domain": "ifm.ai",
+        "score": 256,
+        "descendants": 84,
+        "by": "karimf",
+        "tags": [
+          "AI"
+        ],
+        "summary": "K2 Horizon发布了一套包含六个互联模型的开源模型套件，旨在提升多模型协作效率。"
+      },
+      {
+        "id": 49544618,
+        "title": "GPS glitched across the US by as much as 33 feet",
+        "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+        "domain": "sciencealert.com",
+        "score": 116,
+        "descendants": 63,
+        "by": "thread_id",
+        "tags": [],
+        "summary": "美国境内发生的GPS大范围偏移故障引发关注，文中分析了造成数十英尺定位偏差的潜在原因。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "neil.fraser.name",
+          "count": 1
+        },
+        {
+          "domain": "inference-docs.cerebras.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 417,
+      "max_score": {
+        "title": ".name Termination",
+        "score": 1355
+      },
+      "most_discussed": {
+        "title": "GPT-6 Astra",
+        "comments": 1041
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中于AI技术的最新进展，涵盖了OpenAI与Qwen等大模型的更新、推理加速以及AI辅助编程与逆向工程的实际应用。同时，科技领域在航空工程、生物多样性修复及全球导航系统可靠性等基础科学与实用技术方面也展现了多元化的探讨。"
+  }
+}
