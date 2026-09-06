@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-09-06 09:38",
+    "stories": [
+      {
+        "id": 49582000,
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "url": "https://cloudinabottle.org/blog/launch-post",
+        "domain": "cloudinabottle.org",
+        "score": 82,
+        "descendants": 32,
+        "by": "zplizzi",
+        "tags": [],
+        "summary": "旨在降低自托管技术门槛的Cloud in a Bottle项目介绍。"
+      },
+      {
+        "id": 49580939,
+        "title": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "domain": "bcantrill.dtrace.org",
+        "score": 95,
+        "descendants": 24,
+        "by": "chmaynard",
+        "tags": [],
+        "summary": "关于读者主导权与数字内容阅读方式的反思与探讨。"
+      },
+      {
+        "id": 49580369,
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "domain": "space.com",
+        "score": 362,
+        "descendants": 187,
+        "by": "bookmtn",
+        "tags": [],
+        "summary": "德国私人火箭首次成功在欧洲本土发射入轨，标志着欧洲航天事业的重要进展。"
+      },
+      {
+        "id": 49578280,
+        "title": "Learn Programming with OCaml",
+        "url": "https://usr.lmf.cnrs.fr/lpo/",
+        "domain": "usr.lmf.cnrs.fr",
+        "score": 173,
+        "descendants": 73,
+        "by": "elvis70",
+        "tags": [],
+        "summary": "一份面向程序员的OCaml语言入门学习指南。"
+      },
+      {
+        "id": 49576386,
+        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+        "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+        "domain": "devquasar.com",
+        "score": 279,
+        "descendants": 85,
+        "by": "networked",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "评测性价比极高的AMD BC-250矿卡作为60美元游戏主机方案的实战表现。"
+      },
+      {
+        "id": 49580329,
+        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+        "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+        "domain": "terrytao.wordpress.com",
+        "score": 56,
+        "descendants": 21,
+        "by": "gmays",
+        "tags": [],
+        "summary": "陶哲轩探讨三维平均Navier-Stokes方程在有限时间内解的爆破问题。"
+      },
+      {
+        "id": 49548852,
+        "title": "How Swiss tables work in Go built-in map",
+        "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+        "domain": "victoriametrics.com",
+        "score": 39,
+        "descendants": 3,
+        "by": "valyala",
+        "tags": [],
+        "summary": "深入解析Go语言内置Map中使用的Swiss Tables数据结构原理。"
+      },
+      {
+        "id": 49563355,
+        "title": "Discovery of a new OpenAI agent message board",
+        "url": "https://collusion.wiki/",
+        "domain": "collusion.wiki",
+        "score": 2110,
+        "descendants": 1515,
+        "by": "moultano",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于一个新发现的OpenAI代理通信留言板的社区讨论。"
+      },
+      {
+        "id": 49576343,
+        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+        "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+        "domain": "sofiabelen.github.io",
+        "score": 131,
+        "descendants": 19,
+        "by": "torutofu",
+        "tags": [
+          "AI",
+          "Rust",
+          "Systems"
+        ],
+        "summary": "通过可视化手段详细解读Rust语言中动态分发机制dyn Trait的内存结构。"
+      },
+      {
+        "id": 49549778,
+        "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+        "url": "https://github.com/iczelia/balrogg",
+        "domain": "github.com",
+        "score": 62,
+        "descendants": 8,
+        "by": "palaiologos",
+        "tags": [],
+        "summary": "一款能够将Vorbis/Opus音频格式额外压缩约15%的无损重压缩工具介绍。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "cloudinabottle.org",
+          "count": 1
+        },
+        {
+          "domain": "bcantrill.dtrace.org",
+          "count": 1
+        },
+        {
+          "domain": "space.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 339,
+      "max_score": {
+        "title": "Discovery of a new OpenAI agent message board",
+        "score": 2110
+      },
+      "most_discussed": {
+        "title": "Discovery of a new OpenAI agent message board",
+        "comments": 1515
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Rust",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了从太空探索到底层技术的深度实践，展现了开发者社区对高性能计算、编程语言机制及自托管工具的持续关注。除了重磅的行业动态与科学发现，Rust与Go等现代编程语言的底层原理分析成为本期技术探讨的核心趋势。"
+  }
+}
