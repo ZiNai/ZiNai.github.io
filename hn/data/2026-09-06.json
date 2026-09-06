@@ -308,5 +308,150 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了开源自托管技术、科技伦理与行业评论，反映了开发者对个人计算自主权及大公司平台政策的持续关注。此外，内容还涉及计算机科学与艺术交叉领域，展示了程序员群体在技术架构、历史溯源及前沿趋势分析上的多元兴趣。"
+  },
+  "evening": {
+    "time": "2026-09-06 22:49",
+    "stories": [
+      {
+        "id": 49585644,
+        "title": "Intellectual Fly Is Open (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "domain": "bcantrill.dtrace.org",
+        "score": 198,
+        "descendants": 116,
+        "by": "cyb0rg0",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49585627,
+        "title": "Doomscrolling Ourselves to Death",
+        "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+        "domain": "edwest.co.uk",
+        "score": 143,
+        "descendants": 86,
+        "by": "shubhamjain",
+        "tags": []
+      },
+      {
+        "id": 49584083,
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "domain": "isaraerospace.com",
+        "score": 367,
+        "descendants": 105,
+        "by": "mpweiher",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 49586898,
+        "title": "A/I shuts down – Stay human",
+        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "domain": "keepitfree.ai",
+        "score": 6,
+        "descendants": 0,
+        "by": "captainmuon",
+        "tags": []
+      },
+      {
+        "id": 49586435,
+        "title": "The many mysteries and lessons of the Bayeux tapestry",
+        "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+        "domain": "economist.com",
+        "score": 20,
+        "descendants": 1,
+        "by": "andsoitis",
+        "tags": []
+      },
+      {
+        "id": 49531619,
+        "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+        "url": "https://en.wikipedia.org/wiki/M-DISC",
+        "domain": "en.wikipedia.org",
+        "score": 94,
+        "descendants": 38,
+        "by": "gurjeet",
+        "tags": []
+      },
+      {
+        "id": 49559451,
+        "title": "What is Nueralese and Why is it Bad",
+        "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
+        "domain": "lesswrong.com",
+        "score": 11,
+        "descendants": 4,
+        "by": "tristanMatthias",
+        "tags": []
+      },
+      {
+        "id": 49582000,
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "url": "https://cloudinabottle.org/blog/launch-post",
+        "domain": "cloudinabottle.org",
+        "score": 512,
+        "descendants": 256,
+        "by": "zplizzi",
+        "tags": []
+      },
+      {
+        "id": 49585703,
+        "title": "The pencil case model of creativity",
+        "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+        "domain": "dub.uu.nl",
+        "score": 27,
+        "descendants": 5,
+        "by": "jruohonen",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49586698,
+        "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+        "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+        "domain": "phoronix.com",
+        "score": 25,
+        "descendants": 2,
+        "by": "mdp2021",
+        "tags": [
+          "Systems"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "bcantrill.dtrace.org",
+          "count": 1
+        },
+        {
+          "domain": "edwest.co.uk",
+          "count": 1
+        },
+        {
+          "domain": "isaraerospace.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 140,
+      "max_score": {
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "score": 512
+      },
+      "most_discussed": {
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "comments": 256
+      },
+      "hot_tags": [
+        "Hardware",
+        "Science",
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": ""
   }
 }
