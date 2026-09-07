@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-09-07 09:36",
+    "stories": [
+      {
+        "id": 49591876,
+        "title": "Making a Python interpreter in 1024 bytes",
+        "url": "https://austinhenley.com/blog/python1024.html",
+        "domain": "austinhenley.com",
+        "score": 75,
+        "descendants": 27,
+        "by": "azhenley",
+        "tags": [
+          "Python"
+        ],
+        "summary": "开发者分享了如何在仅 1024 字节内编写一个功能性 Python 解释器的挑战与过程。"
+      },
+      {
+        "id": 49590512,
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "domain": "grapheneos.social",
+        "score": 191,
+        "descendants": 109,
+        "by": "Cider9986",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "GrapheneOS 宣布对其默认应用架构和安全剪贴板功能进行了重大升级，提升了系统安全性。"
+      },
+      {
+        "id": 49590611,
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "domain": "anubis.techaro.lol",
+        "score": 135,
+        "descendants": 82,
+        "by": "xena",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "回顾在 Anubis 项目中集成 WebAssembly 的长达一年的开发与调试历程。"
+      },
+      {
+        "id": 49585644,
+        "title": "Your intellectual fly is open (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "domain": "bcantrill.dtrace.org",
+        "score": 522,
+        "descendants": 336,
+        "by": "cyb0rg0",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一篇关于认知偏差与知识盲区的深度思考文章，探讨了现代人在交流中可能忽略的逻辑漏洞。"
+      },
+      {
+        "id": 49590738,
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "url": "https://github.com/marsbos/mador",
+        "domain": "github.com",
+        "score": 66,
+        "descendants": 22,
+        "by": "bosmarcel",
+        "tags": [
+          "JavaScript",
+          "Show HN"
+        ],
+        "summary": "介绍了一个仅 80 行代码的轻量级工具 Mador，通过 Proxy 状态元组实现 DOM 的响应式更新。"
+      },
+      {
+        "id": 49588988,
+        "title": "Nitter and XCancel resume service after legal advice",
+        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "domain": "github.com",
+        "score": 456,
+        "descendants": 239,
+        "by": "zImPatrick",
+        "tags": [],
+        "summary": "在获取法律建议后，Nitter 与 XCancel 项目宣布恢复相关服务。"
+      },
+      {
+        "id": 49591793,
+        "title": "Is mathematics about to enter the conservatory?",
+        "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+        "domain": "mbmccoy.dev",
+        "score": 15,
+        "descendants": 15,
+        "by": "_alternator_",
+        "tags": [],
+        "summary": "探讨现代数学是否正在走向某种“保守主义”或固化阶段的思辨随笔。"
+      },
+      {
+        "id": 49590595,
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "url": "https://arxiv.org/abs/2505.12540",
+        "domain": "arxiv.org",
+        "score": 42,
+        "descendants": 9,
+        "by": "ur-whale",
+        "tags": [],
+        "summary": "学术探讨如何利用嵌入向量的通用几何特性来优化 AI 模型的数据处理能力。"
+      },
+      {
+        "id": 49554622,
+        "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+        "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+        "domain": "babylonian-collection.yale.edu",
+        "score": 96,
+        "descendants": 49,
+        "by": "yubblegum",
+        "tags": [],
+        "summary": "耶鲁大学考古记录复现了一道距今约 3700 年前的古巴比伦甜菜炖羊肉食谱。"
+      },
+      {
+        "id": 49587636,
+        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+        "domain": "blog.netbsd.org",
+        "score": 104,
+        "descendants": 7,
+        "by": "jaypatelani",
+        "tags": [],
+        "summary": "NetBSD 9.5 版本正式发布，同时标志着 NetBSD-9 系列支持周期的结束。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "austinhenley.com",
+          "count": 1
+        },
+        {
+          "domain": "grapheneos.social",
+          "count": 1
+        }
+      ],
+      "avg_score": 170,
+      "max_score": {
+        "title": "Your intellectual fly is open (2025)",
+        "score": 522
+      },
+      "most_discussed": {
+        "title": "Your intellectual fly is open (2025)",
+        "comments": 336
+      },
+      "hot_tags": [
+        "Systems",
+        "Python",
+        "Web",
+        "Hardware",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期 Hacker News 内容涵盖了从底层技术开发到开源隐私工具的广泛讨论。技术焦点集中在 WebAssembly 实现、Python 解释器构建及前端响应式编程等硬核议题，同时关于系统维护、历史文化与数学哲学的探讨也引发了社区关注。"
+  }
+}
