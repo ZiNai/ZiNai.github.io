@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-09-08 01:06",
+    "stories": [
+      {
+        "id": 49597907,
+        "title": "De-Brainrot Vacations",
+        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+        "domain": "devz.cl",
+        "score": 363,
+        "descendants": 146,
+        "by": "DanielVZ",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨现代人如何通过离线度假来摆脱社交媒体与数字成瘾带来的认知损耗。"
+      },
+      {
+        "id": 49598291,
+        "title": "bzip3",
+        "url": "https://github.com/iczelia/bzip3",
+        "domain": "github.com",
+        "score": 170,
+        "descendants": 57,
+        "by": "tosh",
+        "tags": [],
+        "summary": "介绍新一代压缩算法bzip3，旨在提供比传统bzip2更优的压缩效率与速度表现。"
+      },
+      {
+        "id": 49593563,
+        "title": "Keep Our Servers Running",
+        "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "domain": "blog.archive.org",
+        "score": 780,
+        "descendants": 198,
+        "by": "sonicrocketman",
+        "tags": [],
+        "summary": "互联网档案馆呼吁社区支持其服务器运行成本，以维持这项关键数字资产的持续可用。"
+      },
+      {
+        "id": 49596055,
+        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+        "url": "https://mathathonchallenge.com/index.html",
+        "domain": "mathathonchallenge.com",
+        "score": 142,
+        "descendants": 30,
+        "by": "astroanax",
+        "tags": [
+          "Security",
+          "Science"
+        ],
+        "summary": "加州理工学院举办首届专注于科研级数学难题的黑客松活动。"
+      },
+      {
+        "id": 49558685,
+        "title": "Simple Is Not Small",
+        "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+        "domain": "jyn.dev",
+        "score": 65,
+        "descendants": 22,
+        "by": "zdw",
+        "tags": [],
+        "summary": "通过技术视角剖析“简洁”与“微小”的区别，探讨软件架构设计中的复杂性管理。"
+      },
+      {
+        "id": 49595865,
+        "title": "Live map of public transport in Belgium",
+        "url": "https://openbaarvervoerbelgie.be/",
+        "domain": "openbaarvervoerbelgie.be",
+        "score": 140,
+        "descendants": 62,
+        "by": "coinfused",
+        "tags": [],
+        "summary": "展示比利时公共交通系统的实时动态地图，利用开放数据实现的可视化项目。"
+      },
+      {
+        "id": 49594878,
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+        "domain": "notebookcheck.net",
+        "score": 878,
+        "descendants": 428,
+        "by": "chris_overseas",
+        "tags": [],
+        "summary": "LG智能电视被曝在屏幕关闭时仍私自录音并扫描家庭局域网设备，引发隐私争议。"
+      },
+      {
+        "id": 49589190,
+        "title": "The Dataflow Model Revisited",
+        "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+        "domain": "vldb.org",
+        "score": 13,
+        "descendants": 5,
+        "by": "scott_s",
+        "tags": [
+          "AI"
+        ],
+        "summary": "学术性回顾数据流模型（Dataflow Model）在现代分布式计算中的演进与应用。"
+      },
+      {
+        "id": 49596054,
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "domain": "vllm.ai",
+        "score": 96,
+        "descendants": 31,
+        "by": "ankitg12",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "解析vLLM框架在AMD GPU上实现推测解码（Speculative Decoding）的技术细节与优化。"
+      },
+      {
+        "id": 49597189,
+        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+        "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+        "domain": "theregister.com",
+        "score": 198,
+        "descendants": 113,
+        "by": "mdp2021",
+        "tags": [
+          "AI"
+        ],
+        "summary": "调查显示多家智能手机制造商未能遵守欧盟关于产品可修复性的相关法规要求。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "devz.cl",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.archive.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 284,
+      "max_score": {
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "score": 878
+      },
+      "most_discussed": {
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "comments": 428
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于技术隐私安全、硬件政策合规性及开源工具的最新进展。从互联网基础设施的维护现状到大模型推理优化的前沿探索，开发者社群正密切关注技术边界内的权力博弈与系统效率提升。"
+  }
+}
