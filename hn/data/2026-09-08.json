@@ -1,161 +1,164 @@
 {
   "morning": {
-    "time": "2026-09-08 01:06",
+    "time": "2026-09-08 09:47",
     "stories": [
       {
-        "id": 49597907,
-        "title": "De-Brainrot Vacations",
-        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-        "domain": "devz.cl",
-        "score": 363,
-        "descendants": 146,
-        "by": "DanielVZ",
-        "tags": [
-          "AI"
-        ],
-        "summary": "探讨现代人如何通过离线度假来摆脱社交媒体与数字成瘾带来的认知损耗。"
+        "id": 49604637,
+        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "domain": "mcpherrin.ca",
+        "score": 27,
+        "descendants": 0,
+        "by": "ahlCVA",
+        "tags": [],
+        "summary": "作者成功分解了一家90年代认证机构的RSA私钥，揭示了早期加密技术的脆弱性。"
       },
       {
-        "id": 49598291,
-        "title": "bzip3",
-        "url": "https://github.com/iczelia/bzip3",
+        "id": 49604150,
+        "title": "TALA Is Open-Source",
+        "url": "https://d2lang.com/blog/tala-is-open-source/",
+        "domain": "d2lang.com",
+        "score": 77,
+        "descendants": 7,
+        "by": "alixanderwang",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "图表绘图工具TALA正式宣布开源，旨在提升工程文档与图表生成的效率。"
+      },
+      {
+        "id": 49603546,
+        "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+        "url": "https://github.com/Sadpainy/Stuxnet",
         "domain": "github.com",
-        "score": 170,
-        "descendants": 57,
-        "by": "tosh",
-        "tags": [],
-        "summary": "介绍新一代压缩算法bzip3，旨在提供比传统bzip2更优的压缩效率与速度表现。"
-      },
-      {
-        "id": 49593563,
-        "title": "Keep Our Servers Running",
-        "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-        "domain": "blog.archive.org",
-        "score": 780,
-        "descendants": 198,
-        "by": "sonicrocketman",
-        "tags": [],
-        "summary": "互联网档案馆呼吁社区支持其服务器运行成本，以维持这项关键数字资产的持续可用。"
-      },
-      {
-        "id": 49596055,
-        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-        "url": "https://mathathonchallenge.com/index.html",
-        "domain": "mathathonchallenge.com",
-        "score": 142,
-        "descendants": 30,
-        "by": "astroanax",
+        "score": 87,
+        "descendants": 25,
+        "by": "CMDDestory",
         "tags": [
-          "Security",
-          "Science"
+          "Show HN"
         ],
-        "summary": "加州理工学院举办首届专注于科研级数学难题的黑客松活动。"
+        "summary": "针对著名网络武器Stuxnet的源码复刻项目，展示了其复杂的攻击逻辑与实现细节。"
       },
       {
-        "id": 49558685,
-        "title": "Simple Is Not Small",
-        "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-        "domain": "jyn.dev",
-        "score": 65,
-        "descendants": 22,
-        "by": "zdw",
-        "tags": [],
-        "summary": "通过技术视角剖析“简洁”与“微小”的区别，探讨软件架构设计中的复杂性管理。"
-      },
-      {
-        "id": 49595865,
-        "title": "Live map of public transport in Belgium",
-        "url": "https://openbaarvervoerbelgie.be/",
-        "domain": "openbaarvervoerbelgie.be",
-        "score": 140,
-        "descendants": 62,
-        "by": "coinfused",
-        "tags": [],
-        "summary": "展示比利时公共交通系统的实时动态地图，利用开放数据实现的可视化项目。"
-      },
-      {
-        "id": 49594878,
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-        "domain": "notebookcheck.net",
-        "score": 878,
-        "descendants": 428,
-        "by": "chris_overseas",
-        "tags": [],
-        "summary": "LG智能电视被曝在屏幕关闭时仍私自录音并扫描家庭局域网设备，引发隐私争议。"
-      },
-      {
-        "id": 49589190,
-        "title": "The Dataflow Model Revisited",
-        "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-        "domain": "vldb.org",
-        "score": 13,
-        "descendants": 5,
-        "by": "scott_s",
+        "id": 49601655,
+        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+        "url": "https://lax-skyline.parcelscope.net/",
+        "domain": "lax-skyline.parcelscope.net",
+        "score": 219,
+        "descendants": 104,
+        "by": "rustywasm",
         "tags": [
-          "AI"
+          "Systems"
         ],
-        "summary": "学术性回顾数据流模型（Dataflow Model）在现代分布式计算中的演进与应用。"
+        "summary": "一个通过可视化手段展现洛杉矶自1880年至2026年建筑增长变迁的交互式演示。"
       },
       {
-        "id": 49596054,
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "domain": "vllm.ai",
-        "score": 96,
-        "descendants": 31,
-        "by": "ankitg12",
+        "id": 49602699,
+        "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+        "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+        "domain": "virtualizationhowto.com",
+        "score": 89,
+        "descendants": 46,
+        "by": "josephcsible",
+        "tags": [],
+        "summary": "Broadcom撤下VDDK下载链接，进一步收紧了VMware生态的访问权限，引发虚拟化行业担忧。"
+      },
+      {
+        "id": 49575515,
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+        "url": "https://arxiv.org/abs/2607.24888",
+        "domain": "arxiv.org",
+        "score": 148,
+        "descendants": 35,
+        "by": "signa11",
         "tags": [
           "AI",
-          "Hardware"
+          "Rust",
+          "Systems"
         ],
-        "summary": "解析vLLM框架在AMD GPU上实现推测解码（Speculative Decoding）的技术细节与优化。"
+        "summary": "一篇论文探讨了如何针对整个Linux发行版实施类似“信任的信任”类型的供应链攻击。"
       },
       {
-        "id": 49597189,
-        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-        "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-        "domain": "theregister.com",
-        "score": 198,
-        "descendants": 113,
-        "by": "mdp2021",
+        "id": 49552299,
+        "title": "WeatherNext 3",
+        "url": "https://deepmind.google/science/weathernext/",
+        "domain": "deepmind.google",
+        "score": 233,
+        "descendants": 54,
+        "by": "matthieu_bl",
+        "tags": [],
+        "summary": "DeepMind发布WeatherNext 3模型，利用先进算法提升了气象预测的精准度。"
+      },
+      {
+        "id": 49569838,
+        "title": "Scientists observe Einstein's gravity in the quantum world",
+        "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+        "domain": "ox.ac.uk",
+        "score": 140,
+        "descendants": 33,
+        "by": "mudil",
         "tags": [
-          "AI"
+          "Science"
         ],
-        "summary": "调查显示多家智能手机制造商未能遵守欧盟关于产品可修复性的相关法规要求。"
+        "summary": "科学家在微观量子领域首次观察到爱因斯坦的引力效应，为量子引力理论提供关键实验证据。"
+      },
+      {
+        "id": 49560682,
+        "title": "John Margolies' Photographs of Roadside America",
+        "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+        "domain": "publicdomainreview.org",
+        "score": 12,
+        "descendants": 3,
+        "by": "duck",
+        "tags": [],
+        "summary": "摄影师约翰·马戈利斯记录的美国公路沿线文化遗产影像集，具有珍贵的历史文献价值。"
+      },
+      {
+        "id": 49568162,
+        "title": "Show HN: I built an aesthetically pleasing puzzle",
+        "url": "https://jigsawhaiku.com/",
+        "domain": "jigsawhaiku.com",
+        "score": 48,
+        "descendants": 14,
+        "by": "windowshopping",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个极具美学设计的拼图解谜项目，通过简洁的交互提供优雅的智力挑战体验。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "devz.cl",
+          "domain": "mcpherrin.ca",
+          "count": 1
+        },
+        {
+          "domain": "d2lang.com",
           "count": 1
         },
         {
           "domain": "github.com",
           "count": 1
-        },
-        {
-          "domain": "blog.archive.org",
-          "count": 1
         }
       ],
-      "avg_score": 284,
+      "avg_score": 108,
       "max_score": {
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-        "score": 878
+        "title": "WeatherNext 3",
+        "score": 233
       },
       "most_discussed": {
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-        "comments": 428
+        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+        "comments": 104
       },
       "hot_tags": [
+        "Show HN",
+        "Systems",
+        "Open Source",
         "AI",
-        "Security",
-        "Science",
-        "Hardware"
+        "Rust"
       ]
     },
-    "summary": "本期Hacker News焦点集中于技术隐私安全、硬件政策合规性及开源工具的最新进展。从互联网基础设施的维护现状到大模型推理优化的前沿探索，开发者社群正密切关注技术边界内的权力博弈与系统效率提升。"
+    "summary": "今日Hacker News重点关注网络安全与技术考古，涵盖了RSA加密破译、Stuxnet源码复刻以及针对Linux的信任攻击等硬核话题。同时，科学界与城市规划相关的可视化项目也获得了极高关注，展现了社区对基础技术深度与前沿科学进展的偏好。"
   }
 }
