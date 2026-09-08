@@ -160,5 +160,164 @@
       ]
     },
     "summary": "今日Hacker News重点关注网络安全与技术考古，涵盖了RSA加密破译、Stuxnet源码复刻以及针对Linux的信任攻击等硬核话题。同时，科学界与城市规划相关的可视化项目也获得了极高关注，展现了社区对基础技术深度与前沿科学进展的偏好。"
+  },
+  "noon": {
+    "time": "2026-09-08 16:24",
+    "stories": [
+      {
+        "id": 49604637,
+        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "domain": "mcpherrin.ca",
+        "score": 283,
+        "descendants": 49,
+        "by": "ahlCVA",
+        "tags": [],
+        "summary": "作者成功破解了90年代某证书颁发机构的RSA密钥，展示了早期加密技术的脆弱性。"
+      },
+      {
+        "id": 49605767,
+        "title": "Mistral raises €3B",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "domain": "mistral.ai",
+        "score": 348,
+        "descendants": 219,
+        "by": "kuberwastaken",
+        "tags": [
+          "AI"
+        ],
+        "summary": "欧洲AI初创公司Mistral完成30亿欧元融资，进一步巩固其作为OpenAI竞争对手的地位。"
+      },
+      {
+        "id": 49605691,
+        "title": "We have a year to fix security everywhere",
+        "url": "https://jyn.dev/a-year-to-fix-security/",
+        "domain": "jyn.dev",
+        "score": 189,
+        "descendants": 140,
+        "by": "saikatsg",
+        "tags": [
+          "Security"
+        ],
+        "summary": "文章呼吁全球网络安全领域必须在一年内进行系统性修复，以应对迫在眉睫的安全危机。"
+      },
+      {
+        "id": 49605782,
+        "title": "My Feed, My Way",
+        "url": "https://www.pm.gov.au/media/my-feed-my-way",
+        "domain": "pm.gov.au",
+        "score": 96,
+        "descendants": 58,
+        "by": "dotcoma",
+        "tags": [],
+        "summary": "探讨如何构建个人化、不受算法干扰的内容订阅流，实现信息的自主掌控。"
+      },
+      {
+        "id": 49606339,
+        "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+        "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+        "domain": "middleeastainews.com",
+        "score": 15,
+        "descendants": 4,
+        "by": "instagraham",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "分析了一款来自阿联酋的开源NSFW（不适宜工作场所）内容分类模型，探讨其全球表现。"
+      },
+      {
+        "id": 49605822,
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "domain": "github.com",
+        "score": 34,
+        "descendants": 20,
+        "by": "fittingopposite",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一个基于多智能体协作的LLM金融交易框架，展示了AI在量化交易中的应用潜力。"
+      },
+      {
+        "id": 49604150,
+        "title": "TALA Is Open-Source",
+        "url": "https://d2lang.com/blog/tala-is-open-source/",
+        "domain": "d2lang.com",
+        "score": 209,
+        "descendants": 13,
+        "by": "alixanderwang",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "图表工具D2发布了其核心组件TALA的开源版本，旨在简化复杂逻辑的图形表达。"
+      },
+      {
+        "id": 49604870,
+        "title": "There's a new \"Google Jail\" for independent wikis",
+        "url": "https://weirdgloop.org/blog/google-jail",
+        "domain": "weirdgloop.org",
+        "score": 98,
+        "descendants": 36,
+        "by": "pizzaiolo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "抨击谷歌搜索机制对独立维基网站造成的流量压制，引发关于搜索引擎垄断的讨论。"
+      },
+      {
+        "id": 49605246,
+        "title": "How well do agents use test/verification techniques?",
+        "url": "https://danluu.com/agentic-testing/",
+        "domain": "danluu.com",
+        "score": 72,
+        "descendants": 18,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "通过测评分析探讨了当前AI Agent在软件测试与验证环节中的实际表现与局限性。"
+      },
+      {
+        "id": 49605915,
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "domain": "cims.nyu.edu",
+        "score": 185,
+        "descendants": 79,
+        "by": "procedurecall",
+        "tags": [],
+        "summary": "分享了关于纳维-斯托克斯方程的深度学术论文，探讨流体力学中的核心数学难题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mcpherrin.ca",
+          "count": 1
+        },
+        {
+          "domain": "mistral.ai",
+          "count": 1
+        },
+        {
+          "domain": "jyn.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 153,
+      "max_score": {
+        "title": "Mistral raises €3B",
+        "score": 348
+      },
+      "most_discussed": {
+        "title": "Mistral raises €3B",
+        "comments": 219
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI领域的重磅融资与技术演进，同时安全领域引发了对加密机制及全球基础设施安全性的深度忧虑。此外，开源工具的发布及学术界在复杂数学模型上的讨论依然占据了科技讨论的核心版图。"
   }
 }
