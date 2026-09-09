@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-09-09 09:53",
+    "stories": [
+      {
+        "id": 49615537,
+        "title": "Muse – Meta’s personal AI agent",
+        "url": "https://ai.meta.com/muse/",
+        "domain": "ai.meta.com",
+        "score": 310,
+        "descendants": 310,
+        "by": "yks",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Meta 推出的个人 AI 代理 Muse，旨在通过深度集成提升用户的个性化交互体验。"
+      },
+      {
+        "id": 49617581,
+        "title": "Large language models develop novel social biases through adaptive exploration",
+        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+        "domain": "openreview.net",
+        "score": 92,
+        "descendants": 48,
+        "by": "paimapi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究揭示大型语言模型在适应性探索过程中，会自发形成新型社会偏见，引发对 AI 对齐问题的担忧。"
+      },
+      {
+        "id": 49617255,
+        "title": "How to build a printer",
+        "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+        "domain": "nishantjosh.dev",
+        "score": 138,
+        "descendants": 31,
+        "by": "cat-whisperer",
+        "tags": [],
+        "summary": "一份详细的指南，展示了从零开始构建一台打印机的工程细节与逻辑。"
+      },
+      {
+        "id": 49611251,
+        "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "domain": "blog.google",
+        "score": 494,
+        "descendants": 115,
+        "by": "utiiiD",
+        "tags": [],
+        "summary": "Google 利用 AlphaGenome Atlas 构建了高分辨率的人类 DNA 图谱，为生命科学研究提供了强大工具。"
+      },
+      {
+        "id": 49605915,
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "domain": "cims.nyu.edu",
+        "score": 1260,
+        "descendants": 548,
+        "by": "procedurecall",
+        "tags": [],
+        "summary": "数学家 Tristan Buckmaster 关于 Navier-Stokes 方程的深入分析报告，探讨了流体力学中的核心难点。"
+      },
+      {
+        "id": 49613262,
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://openai.com/index/navier-stokes-solution/",
+        "domain": "openai.com",
+        "score": 1123,
+        "descendants": 971,
+        "by": "tedsanders",
+        "tags": [],
+        "summary": "OpenAI 针对千禧年大奖难题 Navier-Stokes 方程发表的研究进展，引发了学术界的广泛关注与讨论。"
+      },
+      {
+        "id": 49610181,
+        "title": "DaVinci Resolve 21.1",
+        "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+        "domain": "blackmagicdesign.com",
+        "score": 351,
+        "descendants": 157,
+        "by": "tosh",
+        "tags": [],
+        "summary": "专业视频剪辑软件 DaVinci Resolve 发布 21.1 版本更新，带来多项性能优化与新功能。"
+      },
+      {
+        "id": 49591112,
+        "title": "The Microeconomics of Artificial Intelligence (2025)",
+        "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+        "domain": "direct.mit.edu",
+        "score": 30,
+        "descendants": 8,
+        "by": "neehao",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "从微观经济学视角分析 2025 年人工智能技术对市场结构与生产力的影响。"
+      },
+      {
+        "id": 49616968,
+        "title": "Tao: Open math problems being non-renewably mined by AI",
+        "url": "https://mathstodon.xyz/@tao/117237320796901560",
+        "domain": "mathstodon.xyz",
+        "score": 149,
+        "descendants": 93,
+        "by": "_alternator_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "陶哲轩关注 AI 对数学领域的影响，讨论人工智能如何处理并可能耗尽非再生数学难题。"
+      },
+      {
+        "id": 49611128,
+        "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+        "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+        "domain": "quesma.com",
+        "score": 216,
+        "descendants": 107,
+        "by": "stared",
+        "tags": [],
+        "summary": "基准测试显示 Qwen3.8 27B 模型在 4-bit 量化下表现稳健，但 1-bit 量化会导致模型性能崩溃。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "ai.meta.com",
+          "count": 1
+        },
+        {
+          "domain": "openreview.net",
+          "count": 1
+        },
+        {
+          "domain": "nishantjosh.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 416,
+      "max_score": {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "score": 1260
+      },
+      "most_discussed": {
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "comments": 971
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点高度集中在 AI 前沿技术与数学研究领域，涵盖了从 Meta 的个人 AI 助手到 AI 如何协助解析人类基因组等重大创新。同时，数学界的经典难题 Navier-Stokes 方程引发了大规模学术讨论，展现了算法与硬核科学研究的深度融合。"
+  }
+}
