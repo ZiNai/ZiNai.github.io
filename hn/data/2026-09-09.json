@@ -151,5 +151,162 @@
       ]
     },
     "summary": "本期 Hacker News 焦点高度集中在 AI 前沿技术与数学研究领域，涵盖了从 Meta 的个人 AI 助手到 AI 如何协助解析人类基因组等重大创新。同时，数学界的经典难题 Navier-Stokes 方程引发了大规模学术讨论，展现了算法与硬核科学研究的深度融合。"
+  },
+  "noon": {
+    "time": "2026-09-09 16:26",
+    "stories": [
+      {
+        "id": 49622561,
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+        "domain": "openai.com",
+        "score": 28,
+        "descendants": 5,
+        "by": "theanonymousone",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨GPT-5.6模型如何辅助量子计算实验的运行与优化。"
+      },
+      {
+        "id": 49615537,
+        "title": "Muse – Meta’s personal AI agent",
+        "url": "https://ai.meta.com/muse/",
+        "domain": "ai.meta.com",
+        "score": 491,
+        "descendants": 521,
+        "by": "yks",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Meta推出的个人AI智能体Muse的功能与技术架构。"
+      },
+      {
+        "id": 49622305,
+        "title": "On Really Trying (2009)",
+        "url": "https://gwern.net/on-really-trying",
+        "domain": "gwern.net",
+        "score": 31,
+        "descendants": 5,
+        "by": "whoami_nr",
+        "tags": [],
+        "summary": "重温2009年关于“真正尝试去做某事”的深刻思考。"
+      },
+      {
+        "id": 49546964,
+        "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+        "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+        "domain": "phys.org",
+        "score": 112,
+        "descendants": 22,
+        "by": "mdp2021",
+        "tags": [
+          "AI"
+        ],
+        "summary": "解析植物组织‘拉伸木’如何通过生物力学实现弯曲与校正。"
+      },
+      {
+        "id": 49605915,
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "domain": "cims.nyu.edu",
+        "score": 1606,
+        "descendants": 680,
+        "by": "procedurecall",
+        "tags": [],
+        "summary": "深入探讨纳维-斯托克斯方程的数学特性与相关研究综述。"
+      },
+      {
+        "id": 49580761,
+        "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+        "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+        "domain": "smithsonianmag.com",
+        "score": 37,
+        "descendants": 11,
+        "by": "cisc",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍研究人员如何通过地磁场特征识别伪造的古代陶器。"
+      },
+      {
+        "id": 49621102,
+        "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+        "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+        "domain": "note.com",
+        "score": 42,
+        "descendants": 9,
+        "by": "porridgeraisin",
+        "tags": [],
+        "summary": "回顾Cloudflare技术架构师Lee Holloway的个人成长与技术贡献（上篇）。"
+      },
+      {
+        "id": 49617255,
+        "title": "How to build a printer",
+        "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+        "domain": "nishantjosh.dev",
+        "score": 309,
+        "descendants": 59,
+        "by": "cat-whisperer",
+        "tags": [],
+        "summary": "提供一份从零开始构建打印机的技术实践指南。"
+      },
+      {
+        "id": 49611251,
+        "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "domain": "blog.google",
+        "score": 554,
+        "descendants": 118,
+        "by": "utiiiD",
+        "tags": [],
+        "summary": "谷歌发布AlphaGenome Atlas，展示了高分辨率的人类DNA图谱。"
+      },
+      {
+        "id": 49622042,
+        "title": "Copyright does more harm than good and should be abolished",
+        "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+        "domain": "grapheneos.social",
+        "score": 168,
+        "descendants": 110,
+        "by": "Cider9986",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨版权制度的弊端及其是否应被废除的社会与法律争议。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "ai.meta.com",
+          "count": 1
+        },
+        {
+          "domain": "gwern.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 338,
+      "max_score": {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "score": 1606
+      },
+      "most_discussed": {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "comments": 680
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热点主要集中在AI技术的深度应用与学术突破，涵盖了Meta AI Agent、量子计算及基因组学等前沿领域。此外，关于版权制度的社会争议、工程实践经验以及基础科学研究（如物理学与古迹检测）也引起了社区的广泛讨论。"
   }
 }
