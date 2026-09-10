@@ -295,5 +295,166 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-09-10 23:44",
+    "stories": [
+      {
+        "id": 49643982,
+        "title": "Shopify moves back to Native from React Native",
+        "url": "https://shopify.engineering/back-to-native",
+        "domain": "shopify.engineering",
+        "score": 250,
+        "descendants": 165,
+        "by": "fnthawar2",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "Shopify技术团队详解为何决定放弃React Native，转而全面回归移动端原生开发。"
+      },
+      {
+        "id": 49643546,
+        "title": "Rust Is Tier-1 Language at Microsoft",
+        "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "domain": "rustfoundation.org",
+        "score": 188,
+        "descendants": 85,
+        "by": "mmastrac",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "微软正式将Rust列为与C/C++同等地位的Tier-1编程语言，旨在强化系统底层安全。"
+      },
+      {
+        "id": 49644047,
+        "title": "Amazon pilots ad services in ChatGPT",
+        "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+        "domain": "marketingdive.com",
+        "score": 66,
+        "descendants": 52,
+        "by": "thm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "亚马逊正与OpenAI测试合作，将购物广告嵌入ChatGPT对话体验中。"
+      },
+      {
+        "id": 49627634,
+        "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+        "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+        "domain": "pv-magazine.com",
+        "score": 173,
+        "descendants": 133,
+        "by": "thelastgallon",
+        "tags": [],
+        "summary": "日立推出新型CO2热泵热水器，支持与光伏发电系统联动以实现能源利用最优化。"
+      },
+      {
+        "id": 49643556,
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "url": "https://news.ycombinator.com/item?id=49643556",
+        "domain": "news.ycombinator.com",
+        "score": 298,
+        "descendants": 109,
+        "by": "jacquesm",
+        "tags": [
+          "AI"
+        ],
+        "summary": "社区反馈OpenAI平台频繁自动重置用户设置，导致隐私选项中的“允许模型训练”开关被多次开启。"
+      },
+      {
+        "id": 49640646,
+        "title": "What algorithm did Windows XP use to choose your initial user picture?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+        "domain": "devblogs.microsoft.com",
+        "score": 238,
+        "descendants": 114,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "微软博客回顾Windows XP如何通过特定算法为用户随机分配初始头像。"
+      },
+      {
+        "id": 49642531,
+        "title": "List of references on Sony websites to players \"owning\" their digital games",
+        "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+        "domain": "consumerrights.wiki",
+        "score": 169,
+        "descendants": 51,
+        "by": "haunter",
+        "tags": [
+          "Web"
+        ],
+        "summary": "该列表整理了索尼网站上关于玩家“拥有”数字游戏所有权的相关表述及潜在法律争议。"
+      },
+      {
+        "id": 49610780,
+        "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+        "url": "https://devz.cl/posts/how-to-write/",
+        "domain": "devz.cl",
+        "score": 38,
+        "descendants": 3,
+        "by": "DanielVZ",
+        "tags": [],
+        "summary": "探讨非虚构写作的结构化方法：通过先建立核心主干，再延展细节来实现逻辑清晰的表达。"
+      },
+      {
+        "id": 49599992,
+        "title": "Stockfish 19",
+        "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+        "domain": "stockfishchess.org",
+        "score": 173,
+        "descendants": 112,
+        "by": "atiedebee",
+        "tags": [],
+        "summary": "顶级国际象棋引擎Stockfish正式发布第19版本，带来全新的性能提升与评估机制。"
+      },
+      {
+        "id": 49643112,
+        "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+        "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+        "domain": "bsky.app",
+        "score": 224,
+        "descendants": 107,
+        "by": "ColinWright",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "研究人员指出OpenAI可能在利用私人对话数据训练模型，并对此后的技术突破描述存在误导性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "shopify.engineering",
+          "count": 1
+        },
+        {
+          "domain": "rustfoundation.org",
+          "count": 1
+        },
+        {
+          "domain": "marketingdive.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 182,
+      "max_score": {
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "score": 298
+      },
+      "most_discussed": {
+        "title": "Shopify moves back to Native from React Native",
+        "comments": 165
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Rust",
+        "Web",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在大型科技公司的战略调整与伦理争议，包括Shopify弃用React Native回归原生开发，以及微软对Rust语言的深度拥抱。此外，OpenAI因数据训练隐私问题再次引发社区强烈不满，反映了开发者对模型训练透明度的持续关注。"
   }
 }
