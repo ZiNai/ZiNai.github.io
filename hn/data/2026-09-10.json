@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-09-10 09:50",
+    "stories": [
+      {
+        "id": 49630931,
+        "title": "iPhone Duo",
+        "url": "https://www.apple.com/iphone-duo/",
+        "domain": "apple.com",
+        "score": 890,
+        "descendants": 1688,
+        "by": "thecosmicfrog",
+        "tags": [],
+        "summary": "苹果推出全新iPhone Duo产品线，引发社区对其定位与功能的激烈讨论。"
+      },
+      {
+        "id": 49626190,
+        "title": "Shopify acquires Tailwind",
+        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+        "domain": "tailwindcss.com",
+        "score": 891,
+        "descendants": 352,
+        "by": "EdwinHoksberg",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Shopify正式收购Tailwind，引发开发者对该前端框架未来生态与走向的广泛关注。"
+      },
+      {
+        "id": 49614280,
+        "title": "What do Visa and Mastercard do? An intro to card networks",
+        "url": "https://tautology.town/2026/06/01/card-networks.html",
+        "domain": "tautology.town",
+        "score": 372,
+        "descendants": 224,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "深入浅出地拆解Visa与Mastercard支付网络运作机制，科普信用卡处理流程。"
+      },
+      {
+        "id": 49630253,
+        "title": "AirPods 5",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "domain": "apple.com",
+        "score": 377,
+        "descendants": 305,
+        "by": "awad",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果发布AirPods 5代，探讨其硬件升级与用户体验改进。"
+      },
+      {
+        "id": 49629886,
+        "title": "Growing proof that autonomous cars save lives",
+        "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+        "domain": "spectrum.ieee.org",
+        "score": 210,
+        "descendants": 407,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "探讨自动驾驶技术如何通过数据证明其在提升交通安全和拯救生命方面的成效。"
+      },
+      {
+        "id": 49630151,
+        "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+        "domain": "apple.com",
+        "score": 281,
+        "descendants": 292,
+        "by": "meetpateltech",
+        "tags": [],
+        "summary": "详细解读iPhone 18 Pro系列的新特性与技术指标。"
+      },
+      {
+        "id": 49628493,
+        "title": "No Man's Sky Cosmos",
+        "url": "https://www.nomanssky.com/cosmos-update/",
+        "domain": "nomanssky.com",
+        "score": 298,
+        "descendants": 320,
+        "by": "Limb",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "《无人深空》Cosmos版本更新发布，展示了游戏界持续维护与版本迭代的力量。"
+      },
+      {
+        "id": 49627370,
+        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "domain": "magazine.sebastianraschka.com",
+        "score": 349,
+        "descendants": 122,
+        "by": "ModelForge",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨GPT-6 Astra与循环Transformer架构中隐藏的推理逻辑演进。"
+      },
+      {
+        "id": 49630566,
+        "title": "Apple Watch Series 12",
+        "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+        "domain": "apple.com",
+        "score": 215,
+        "descendants": 252,
+        "by": "Lealen",
+        "tags": [],
+        "summary": "苹果发布Apple Watch Series 12，关注其在可穿戴设备领域的新功能尝试。"
+      },
+      {
+        "id": 49633534,
+        "title": "Factoring RSA 260",
+        "url": "https://cognition.com/blog/factoring-rsa-260",
+        "domain": "cognition.com",
+        "score": 26,
+        "descendants": 3,
+        "by": "samyok",
+        "tags": [],
+        "summary": "数学与安全界最新进展：成功完成RSA 260的大数分解研究。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apple.com",
+          "count": 4
+        },
+        {
+          "domain": "tailwindcss.com",
+          "count": 1
+        },
+        {
+          "domain": "tautology.town",
+          "count": 1
+        }
+      ],
+      "avg_score": 391,
+      "max_score": {
+        "title": "Shopify acquires Tailwind",
+        "score": 891
+      },
+      "most_discussed": {
+        "title": "iPhone Duo",
+        "comments": 1688
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News被Apple发布会相关内容占据主流，多款新品型号引起热议。同时，技术圈关注焦点集中在支付网络解析、自动驾驶安全性、AI前沿架构研究以及密码学领域的重大突破。"
+  }
+}
