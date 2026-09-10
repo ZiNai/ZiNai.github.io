@@ -151,5 +151,149 @@
       ]
     },
     "summary": "本期Hacker News被Apple发布会相关内容占据主流，多款新品型号引起热议。同时，技术圈关注焦点集中在支付网络解析、自动驾驶安全性、AI前沿架构研究以及密码学领域的重大突破。"
+  },
+  "noon": {
+    "time": "2026-09-10 16:28",
+    "stories": [
+      {
+        "id": 49639090,
+        "title": "DeepSeek v4.1 Flash",
+        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+        "domain": "twitter.com",
+        "score": 194,
+        "descendants": 51,
+        "by": "Liwink",
+        "tags": []
+      },
+      {
+        "id": 49630931,
+        "title": "iPhone Duo",
+        "url": "https://www.apple.com/iphone-duo/",
+        "domain": "apple.com",
+        "score": 1173,
+        "descendants": 2057,
+        "by": "thecosmicfrog",
+        "tags": []
+      },
+      {
+        "id": 49637385,
+        "title": "Show HN: What if the speed of light was 5 km/h?",
+        "url": "https://rivendell.dmitrybrant.com/relativity/",
+        "domain": "rivendell.dmitrybrant.com",
+        "score": 271,
+        "descendants": 113,
+        "by": "dmitrybrant",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49621018,
+        "title": "Larger Pacific Striped Octopus",
+        "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
+        "domain": "en.wikipedia.org",
+        "score": 47,
+        "descendants": 22,
+        "by": "olalonde",
+        "tags": []
+      },
+      {
+        "id": 49626190,
+        "title": "Shopify acquires Tailwind",
+        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+        "domain": "tailwindcss.com",
+        "score": 1012,
+        "descendants": 389,
+        "by": "EdwinHoksberg",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49614280,
+        "title": "What do Visa and Mastercard do? An intro to card networks",
+        "url": "https://tautology.town/2026/06/01/card-networks.html",
+        "domain": "tautology.town",
+        "score": 508,
+        "descendants": 290,
+        "by": "evakhoury",
+        "tags": []
+      },
+      {
+        "id": 49629886,
+        "title": "Growing proof that autonomous cars save lives",
+        "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+        "domain": "spectrum.ieee.org",
+        "score": 333,
+        "descendants": 580,
+        "by": "bookofjoe",
+        "tags": []
+      },
+      {
+        "id": 49638280,
+        "title": "All grown-ups were once children, but only few of them remember it",
+        "url": "https://mathstodon.xyz/@tao/117244102901892965",
+        "domain": "mathstodon.xyz",
+        "score": 137,
+        "descendants": 85,
+        "by": "yurivish",
+        "tags": []
+      },
+      {
+        "id": 49628493,
+        "title": "No Man's Sky Cosmos",
+        "url": "https://www.nomanssky.com/cosmos-update/",
+        "domain": "nomanssky.com",
+        "score": 371,
+        "descendants": 385,
+        "by": "Limb",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49630253,
+        "title": "AirPods 5",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "domain": "apple.com",
+        "score": 445,
+        "descendants": 361,
+        "by": "awad",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apple.com",
+          "count": 2
+        },
+        {
+          "domain": "twitter.com",
+          "count": 1
+        },
+        {
+          "domain": "rivendell.dmitrybrant.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 449,
+      "max_score": {
+        "title": "iPhone Duo",
+        "score": 1173
+      },
+      "most_discussed": {
+        "title": "iPhone Duo",
+        "comments": 2057
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": ""
   }
 }
