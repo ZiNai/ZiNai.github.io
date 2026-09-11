@@ -164,5 +164,162 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术迭代与企业基建架构的重大调整，OpenAI 的新模型及 API 更新引起开发者广泛关注。与此同时，Shopify 放弃 React Native 的技术决策与科技巨头对核能的能源布局，反映了行业在开发生态与可持续电力领域的深刻变局。"
+  },
+  "noon": {
+    "time": "2026-09-11 16:22",
+    "stories": [
+      {
+        "id": 49643982,
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "url": "https://shopify.engineering/back-to-native",
+        "domain": "shopify.engineering",
+        "score": 1019,
+        "descendants": 696,
+        "by": "fnthawar2",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "Shopify宣布放弃React Native，全面转向Swift和Kotlin原生开发以提升应用性能与维护效率。"
+      },
+      {
+        "id": 49653699,
+        "title": "The Gemini app is now available for Windows",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+        "domain": "blog.google",
+        "score": 38,
+        "descendants": 22,
+        "by": "quysala12",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌正式在Windows平台上线Gemini应用，进一步优化其桌面端AI交互体验。"
+      },
+      {
+        "id": 49651221,
+        "title": "Nine coding harnesses vs. your laptop",
+        "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+        "domain": "nasutton.notion.site",
+        "score": 81,
+        "descendants": 18,
+        "by": "nasutton12",
+        "tags": [],
+        "summary": "探讨如何构建便携式笔记本电脑底座与支架，以改善开发者长时间办公的舒适度。"
+      },
+      {
+        "id": 49645393,
+        "title": "Don't let anyone take away your big box of cables",
+        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+        "domain": "blog.jim-nielsen.com",
+        "score": 482,
+        "descendants": 326,
+        "by": "Brajeshwar",
+        "tags": []
+      },
+      {
+        "id": 49606281,
+        "title": "Working with Git Worktrees in Magit",
+        "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+        "domain": "emacsredux.com",
+        "score": 30,
+        "descendants": 4,
+        "by": "srijan4",
+        "tags": [],
+        "summary": "介绍在Emacs Magit插件中高效管理Git Worktrees的实战技巧。"
+      },
+      {
+        "id": 49649213,
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "domain": "developers.openai.com",
+        "score": 244,
+        "descendants": 135,
+        "by": "aquir",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49653882,
+        "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+        "domain": "conviva.ai",
+        "score": 31,
+        "descendants": 14,
+        "by": "rzk",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "分享在Rust查询引擎中将内存映射（mmap）替换为io_uring的性能反思，意外发现由于开销增加导致运行速度变慢。"
+      },
+      {
+        "id": 49649124,
+        "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+        "url": "https://auberon.xyz/blog/posts/deathray/",
+        "domain": "auberon.xyz",
+        "score": 163,
+        "descendants": 107,
+        "by": "auberonedu",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "披露一种名为“Deathray”的技术漏洞，允许不受信任的网页导致Mac设备瞬时卡死。"
+      },
+      {
+        "id": 49645437,
+        "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+        "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+        "domain": "spinoff.nasa.gov",
+        "score": 325,
+        "descendants": 53,
+        "by": "gumby",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "NASA利用先进的卫星图像处理技术，揭示出隐藏在常规拍摄中的古代文明遗迹。"
+      },
+      {
+        "id": 49652237,
+        "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+        "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+        "domain": "upsocl.com",
+        "score": 183,
+        "descendants": 68,
+        "by": "rguiscard",
+        "tags": [],
+        "summary": "一位墨西哥学生研发出一种声学灭火器，通过特定频率的声波在数秒内熄灭火苗。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "shopify.engineering",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "nasutton.notion.site",
+          "count": 1
+        }
+      ],
+      "avg_score": 260,
+      "max_score": {
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "score": 1019
+      },
+      "most_discussed": {
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "comments": 696
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "JavaScript",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术栈演进与底层性能调优，Shopify放弃React Native回归原生开发引发了关于移动端架构的深度讨论。此外，AI生态系统通过OpenAI Agents API持续扩展，同时社区对macOS安全漏洞及底层系统I/O优化等工程细节表现出浓厚兴趣。"
   }
 }
