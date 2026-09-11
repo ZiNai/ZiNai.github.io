@@ -1,0 +1,168 @@
+{
+  "morning": {
+    "time": "2026-09-11 09:48",
+    "stories": [
+      {
+        "id": 49652028,
+        "title": "YuE2 · Frontier Music with Symbolic Planning",
+        "url": "https://map-yue2.github.io/",
+        "domain": "map-yue2.github.io",
+        "score": 27,
+        "descendants": 11,
+        "by": "sexy_seedbox",
+        "tags": [],
+        "summary": "介绍 YuE2：一种结合符号规划与前沿音频生成技术的新型音乐创作工具。"
+      },
+      {
+        "id": 49643982,
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "url": "https://shopify.engineering/back-to-native",
+        "domain": "shopify.engineering",
+        "score": 780,
+        "descendants": 529,
+        "by": "fnthawar2",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "Shopify 宣布放弃 React Native，正式回归 Swift 和 Kotlin 原生开发路径。"
+      },
+      {
+        "id": 49652105,
+        "title": "Google will buy half the electricity of a nuclear power plant",
+        "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+        "domain": "bbc.com",
+        "score": 70,
+        "descendants": 43,
+        "by": "lukaspetersson",
+        "tags": [],
+        "summary": "谷歌与核电站签署能源采购协议，以满足其 AI 计算基础设施的巨大电力需求。"
+      },
+      {
+        "id": 49639408,
+        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+        "domain": "mathstodon.xyz",
+        "score": 669,
+        "descendants": 631,
+        "by": "pred_",
+        "tags": [
+          "AI",
+          "Rust",
+          "Science"
+        ],
+        "summary": "关于 OpenAI 在处理未发表数学研究成果时潜在的数据安全与信任问题引发社区讨论。"
+      },
+      {
+        "id": 49649213,
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "domain": "developers.openai.com",
+        "score": 132,
+        "descendants": 85,
+        "by": "aquir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 官方推出的 Agents API，旨在简化自动化智能代理的构建与部署。"
+      },
+      {
+        "id": 49645393,
+        "title": "Don't let anyone take away your big box of cables",
+        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+        "domain": "blog.jim-nielsen.com",
+        "score": 328,
+        "descendants": 250,
+        "by": "Brajeshwar",
+        "tags": [],
+        "summary": "一篇关于保留“旧电缆盒”的情感与实用性探讨，引发对极简主义数字生活的反思。"
+      },
+      {
+        "id": 49645443,
+        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+        "url": "https://cognition.com/blog/swe-2",
+        "domain": "cognition.com",
+        "score": 353,
+        "descendants": 144,
+        "by": "seelos",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cognition 发布 SWE-2 模型，宣称在软件工程自动化领域可媲美 Fable 5.1 与 GPT-Astra。"
+      },
+      {
+        "id": 49649124,
+        "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+        "url": "https://auberon.xyz/blog/posts/deathray/",
+        "domain": "auberon.xyz",
+        "score": 82,
+        "descendants": 55,
+        "by": "auberonedu",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "揭露一种名为“死亡射线”的安全漏洞，允许不可信网站使 macOS 系统陷入卡死状态。"
+      },
+      {
+        "id": 49651372,
+        "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+        "url": "https://system76.com/workstations/thelio-mira-ai",
+        "domain": "system76.com",
+        "score": 28,
+        "descendants": 19,
+        "by": "jonifico",
+        "tags": [
+          "AI",
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "System76 推出配备 192GB GPU 显存的 Thelio Mira 工作站，专为高强度 AI 任务设计。"
+      },
+      {
+        "id": 49645437,
+        "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+        "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+        "domain": "spinoff.nasa.gov",
+        "score": 273,
+        "descendants": 42,
+        "by": "gumby",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "NASA 开发的卫星照片分析技术，现已能通过处理手段揭示隐藏的地表古迹。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "map-yue2.github.io",
+          "count": 1
+        },
+        {
+          "domain": "shopify.engineering",
+          "count": 1
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 274,
+      "max_score": {
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "score": 780
+      },
+      "most_discussed": {
+        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+        "comments": 631
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Systems",
+        "JavaScript",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术迭代与企业基建架构的重大调整，OpenAI 的新模型及 API 更新引起开发者广泛关注。与此同时，Shopify 放弃 React Native 的技术决策与科技巨头对核能的能源布局，反映了行业在开发生态与可持续电力领域的深刻变局。"
+  }
+}
