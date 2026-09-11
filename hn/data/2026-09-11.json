@@ -321,5 +321,167 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在技术栈演进与底层性能调优，Shopify放弃React Native回归原生开发引发了关于移动端架构的深度讨论。此外，AI生态系统通过OpenAI Agents API持续扩展，同时社区对macOS安全漏洞及底层系统I/O优化等工程细节表现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-09-11 23:45",
+    "stories": [
+      {
+        "id": 49656496,
+        "title": "The Waymo effect: how AI is quietly making research less collaborative",
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "domain": "researchagenda.news",
+        "score": 284,
+        "descendants": 222,
+        "by": "JohnHammersley",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨Waymo等企业的封闭式研发模式如何导致人工智能领域的科研合作日益减少。"
+      },
+      {
+        "id": 49659647,
+        "title": "Show HN: Hacker News, without AI",
+        "url": "https://hcker.news/?ai=exclude",
+        "domain": "hcker.news",
+        "score": 17,
+        "descendants": 15,
+        "by": "postalcoder",
+        "tags": [
+          "AI",
+          "Security",
+          "Show HN"
+        ],
+        "summary": "一个展示纯净版Hacker News的副项目，旨在过滤掉AI相关的热门话题。"
+      },
+      {
+        "id": 49622406,
+        "title": "Logo Programming Language",
+        "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+        "domain": "el.media.mit.edu",
+        "score": 64,
+        "descendants": 26,
+        "by": "azhenley",
+        "tags": [],
+        "summary": "回顾经典编程语言Logo，探讨其在教育计算和思维启蒙方面的独特价值。"
+      },
+      {
+        "id": 49657850,
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "url": "https://news.ycombinator.com/item?id=49657850",
+        "domain": "news.ycombinator.com",
+        "score": 573,
+        "descendants": 283,
+        "by": "cromka",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ],
+        "summary": "社区关于限制AI相关新闻刷屏的讨论，反映了用户对信息过载的疲惫。"
+      },
+      {
+        "id": 49658299,
+        "title": "Houthis 'take control' of key island in global shipping route",
+        "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+        "domain": "bbc.com",
+        "score": 215,
+        "descendants": 225,
+        "by": "consumer451",
+        "tags": [],
+        "summary": "报道胡塞武装控制全球关键航运路线中某岛屿的最新局势。"
+      },
+      {
+        "id": 49621546,
+        "title": "So you want to use OpenRouter?",
+        "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+        "domain": "mmoustafa.com",
+        "score": 436,
+        "descendants": 113,
+        "by": "player85",
+        "tags": [],
+        "summary": "针对开发者如何接入和高效使用OpenRouter API的深度实践指南。"
+      },
+      {
+        "id": 49659245,
+        "title": "HuggingFace: Security.txt",
+        "url": "https://huggingface.co/security.txt",
+        "domain": "huggingface.co",
+        "score": 54,
+        "descendants": 2,
+        "by": "yarapavan",
+        "tags": [
+          "Security"
+        ],
+        "summary": "HuggingFace官方发布的Security.txt文件，公开了其安全漏洞披露与联系机制。"
+      },
+      {
+        "id": 49651046,
+        "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+        "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+        "domain": "derflounder.wordpress.com",
+        "score": 8,
+        "descendants": 0,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析在配备Secure Enclave芯片的Mac上迁移登录钥匙串时遇到的技术故障。"
+      },
+      {
+        "id": 49658302,
+        "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+        "domain": "collabora.com",
+        "score": 17,
+        "descendants": 6,
+        "by": "losgehts",
+        "tags": [],
+        "summary": "技术方案展示：如何将“Chrobalt”技术集成到RDK平台，以优化电视端的YouTube播放体验。"
+      },
+      {
+        "id": 49655286,
+        "title": "Cherenkov Radiation - traveling faster than light",
+        "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+        "domain": "iaea.org",
+        "score": 160,
+        "descendants": 80,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "科普切连科夫辐射原理，解释粒子在介质中为何能表现出超越局部光速的物理现象。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "researchagenda.news",
+          "count": 1
+        },
+        {
+          "domain": "hcker.news",
+          "count": 1
+        },
+        {
+          "domain": "el.media.mit.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 183,
+      "max_score": {
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "score": 573
+      },
+      "most_discussed": {
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "comments": 283
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Science",
+        "Show HN",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，社区对AI相关内容的饱和度产生强烈共鸣，并讨论了其对科研协作与技术生态的深远影响。同时，地缘政治局势、经典编程工具及硬件安全等硬核科技话题也引发了广泛关注。"
   }
 }
