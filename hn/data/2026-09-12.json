@@ -316,5 +316,165 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于技术界对 AI 与算法的深度反思，涵盖了数学研究、反爬虫机制及广告欺诈等热点问题。同时，社区对硬件逆向工程、编程语言特性设计及独特人文记录展现了持续的探索热情。"
+  },
+  "evening": {
+    "time": "2026-09-12 22:53",
+    "stories": [
+      {
+        "id": 49672365,
+        "title": "A Mathematical Framework for Transformer Circuits (2021)",
+        "url": "https://transformer-circuits.pub/2021/framework/index.html",
+        "domain": "transformer-circuits.pub",
+        "score": 18,
+        "descendants": 1,
+        "by": "Bluestein",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇深入剖析Transformer电路数学机制的基础性研究文献。"
+      },
+      {
+        "id": 49671329,
+        "title": "Fuck it, make it anyway",
+        "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+        "domain": "joelotter.com",
+        "score": 296,
+        "descendants": 235,
+        "by": "JayOtter",
+        "tags": [],
+        "summary": "探讨如何在面对不确定性时，坚持将创意与想法付诸行动的个人心路。"
+      },
+      {
+        "id": 49639647,
+        "title": "IKEA made a mod for Skyrim [video]",
+        "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+        "domain": "youtube.com",
+        "score": 351,
+        "descendants": 74,
+        "by": "kegenaar",
+        "tags": [],
+        "summary": "宜家官方发布了一款以Skyrim为主题的趣味Mod作品展示。"
+      },
+      {
+        "id": 49670032,
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "url": "https://eiln.github.io/posts/ane.html",
+        "domain": "eiln.github.io",
+        "score": 154,
+        "descendants": 18,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术博客复盘了对苹果自研神经网络引擎（ANE）的逆向工程过程。"
+      },
+      {
+        "id": 49662371,
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "domain": "mathandai.org",
+        "score": 1068,
+        "descendants": 1026,
+        "by": "meredydd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于当前AI工具在数学领域应用中存在的逻辑偏差与局限性的深度讨论。"
+      },
+      {
+        "id": 49643543,
+        "title": "LRU is harder to beat than the KV-cache papers suggest",
+        "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+        "domain": "github.com",
+        "score": 26,
+        "descendants": 10,
+        "by": "gauravapiscean",
+        "tags": [
+          "Science"
+        ],
+        "summary": "分析显示LRU机制在实际场景中的表现优于部分主流KV缓存相关论文的预期。"
+      },
+      {
+        "id": 49623933,
+        "title": "Performance of WebAssembly Runtimes in 2026",
+        "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+        "domain": "00f.net",
+        "score": 14,
+        "descendants": 0,
+        "by": "fagnerbrack",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "一份针对2026年各类主流WebAssembly运行时性能表现的实测报告。"
+      },
+      {
+        "id": 49662990,
+        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+        "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+        "domain": "dayzlegame.com",
+        "score": 637,
+        "descendants": 352,
+        "by": "nickabe",
+        "tags": [],
+        "summary": "作者通过投放Google广告发现60%安装量为机器人流量，揭露了数字广告生态的欺诈乱象。"
+      },
+      {
+        "id": 49671159,
+        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "domain": "tedium.co",
+        "score": 58,
+        "descendants": 27,
+        "by": "ColinWright",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度拆解iLands AI代理平台如何利用自动化手段制造大规模垃圾邮件产业链。"
+      },
+      {
+        "id": 49672549,
+        "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+        "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+        "domain": "latimes.com",
+        "score": 13,
+        "descendants": 4,
+        "by": "mmayberry",
+        "tags": [],
+        "summary": "Waymo自动驾驶车辆在遇到持有“幽灵枪”的青少年乘客时，选择停靠并报警的事件报道。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "transformer-circuits.pub",
+          "count": 1
+        },
+        {
+          "domain": "joelotter.com",
+          "count": 1
+        },
+        {
+          "domain": "youtube.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 264,
+      "max_score": {
+        "title": "A misalignment of AI in mathematics",
+        "score": 1068
+      },
+      "most_discussed": {
+        "title": "A misalignment of AI in mathematics",
+        "comments": 1026
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "今日热门趋势集中在AI技术的深度探索与实战挑战，涵盖了从大模型底层机理、芯片架构逆向工程到AI滥用引发的广告诈骗和自动化骚扰等议题。此外，开发者社区也关注软件架构性能对比及数字化时代的社会治理事件。"
   }
 }
