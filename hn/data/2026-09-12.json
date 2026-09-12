@@ -158,5 +158,163 @@
       ]
     },
     "summary": "本期Hacker News热门话题聚焦于AI领域的多维影响，从数学推理的对齐问题、自动化代理的潜在安全风险，到AI应用开发及性能优化。同时，开发者社区关注开源工具创新、广告投放中的机器人欺诈挑战，以及跨学科的人文科学研究。"
+  },
+  "noon": {
+    "time": "2026-09-12 16:11",
+    "stories": [
+      {
+        "id": 49668386,
+        "title": "google.com/goto: Google's anti-scraping update",
+        "url": "https://www.autom.dev/blog/google-search-goto-links",
+        "domain": "autom.dev",
+        "score": 373,
+        "descendants": 246,
+        "by": "1e1a",
+        "tags": [],
+        "summary": "探讨 Google 更新反爬虫机制对开发者及网页抓取生态带来的潜在影响。"
+      },
+      {
+        "id": 49668706,
+        "title": "Navier-Stokes Announcement",
+        "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+        "domain": "claymath.org",
+        "score": 123,
+        "descendants": 71,
+        "by": "rvz",
+        "tags": [],
+        "summary": "克雷数学研究所发布关于纳维-斯托克斯存在性与光滑性问题的官方公告。"
+      },
+      {
+        "id": 49662371,
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "domain": "mathandai.org",
+        "score": 861,
+        "descendants": 843,
+        "by": "meredydd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析当前人工智能在数学研究与证明应用中存在的逻辑对齐挑战。"
+      },
+      {
+        "id": 49670032,
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "url": "https://eiln.github.io/posts/ane.html",
+        "domain": "eiln.github.io",
+        "score": 9,
+        "descendants": 0,
+        "by": "zdw",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术博文回顾如何通过逆向工程手段剖析 Apple 神经网络引擎的底层运作。"
+      },
+      {
+        "id": 49668777,
+        "title": "Usenet rewind archive search engine",
+        "url": "https://www.usenet-rewind.com/",
+        "domain": "usenet-rewind.com",
+        "score": 48,
+        "descendants": 9,
+        "by": "cstadler1869",
+        "tags": [],
+        "summary": "介绍一款旨在检索和重温 Usenet 历史数据的档案搜索引擎。"
+      },
+      {
+        "id": 49662990,
+        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+        "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+        "domain": "dayzlegame.com",
+        "score": 486,
+        "descendants": 255,
+        "by": "nickabe",
+        "tags": [],
+        "summary": "开发者实测显示 Google 应用广告中存在大量虚假流量，指出广告投放的机器人欺诈问题。"
+      },
+      {
+        "id": 49624456,
+        "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+        "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+        "domain": "cbc.ca",
+        "score": 56,
+        "descendants": 3,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "科学家发现五大湖鲟鱼寿命可能长达 400 年，正重新评估其保护策略。"
+      },
+      {
+        "id": 49626718,
+        "title": "A Design Space Exploration of Async/Await",
+        "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+        "domain": "cel.cs.brown.edu",
+        "score": 262,
+        "descendants": 61,
+        "by": "wcrichton",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "针对异步编程模型中 Async/Await 机制的设计空间与潜在缺陷进行学术探讨。"
+      },
+      {
+        "id": 49643011,
+        "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+        "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+        "domain": "blog.stephaniestimac.com",
+        "score": 26,
+        "descendants": 5,
+        "by": "mooreds",
+        "tags": [
+          "Web"
+        ],
+        "summary": "解析利用 CSS 适配双屏及折叠屏设备的网页布局设计方案。"
+      },
+      {
+        "id": 49649789,
+        "title": "Show HN: Bodily Oddities",
+        "url": "https://vester.si/bodily-oddities/",
+        "domain": "vester.si",
+        "score": 222,
+        "descendants": 156,
+        "by": "vesterde",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一个名为 Bodily Oddities 的项目，汇集并探讨人类身体形态的奇特现象。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "autom.dev",
+          "count": 1
+        },
+        {
+          "domain": "claymath.org",
+          "count": 1
+        },
+        {
+          "domain": "mathandai.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 247,
+      "max_score": {
+        "title": "A misalignment of AI in mathematics",
+        "score": 861
+      },
+      "most_discussed": {
+        "title": "A misalignment of AI in mathematics",
+        "comments": 843
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于技术界对 AI 与算法的深度反思，涵盖了数学研究、反爬虫机制及广告欺诈等热点问题。同时，社区对硬件逆向工程、编程语言特性设计及独特人文记录展现了持续的探索热情。"
   }
 }
