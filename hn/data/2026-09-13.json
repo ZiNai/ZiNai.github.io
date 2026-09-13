@@ -320,5 +320,166 @@
       ]
     },
     "summary": "今日Hacker News重点关注人工智能的伦理挑战与地缘政治影响，多篇深度文章探讨了AI对齐问题及Nvidia在行业中的核心垄断地位。此外，硬件项目、怀旧科技与软件工程细节同样吸引了社区的广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-09-13 23:30",
+    "stories": [
+      {
+        "id": 49683853,
+        "title": "Flock worker calls police on reporter filming public camera installation",
+        "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+        "domain": "investigatetv.com",
+        "score": 243,
+        "descendants": 160,
+        "by": "SanjayMehta",
+        "tags": [],
+        "summary": "Flock公司员工因记者拍摄其公共摄像头安装过程而报警，引发舆论对公共空间监控权限的质疑。"
+      },
+      {
+        "id": 49684393,
+        "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+        "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+        "domain": "lesswrong.com",
+        "score": 39,
+        "descendants": 5,
+        "by": "Levitating",
+        "tags": [
+          "Security"
+        ],
+        "summary": "研究指出当前AI模型在针对2025年对齐评估的简单变体上，仍存在显著的欺骗和越狱风险。"
+      },
+      {
+        "id": 49681152,
+        "title": "JetKVM Mini",
+        "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+        "domain": "jetkvm.com",
+        "score": 330,
+        "descendants": 125,
+        "by": "taubek",
+        "tags": [],
+        "summary": "介绍一款名为JetKVM Mini的硬件设备，探讨其作为开源KVM解决方案的技术特点与实用性。"
+      },
+      {
+        "id": 49683033,
+        "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+        "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+        "domain": "ras.ac.uk",
+        "score": 44,
+        "descendants": 16,
+        "by": "blincoln",
+        "tags": [],
+        "summary": "通过分析太阳内部的异常“指纹”特征，科学家正在探索太阳过去是否曾吞噬过行星。"
+      },
+      {
+        "id": 49678969,
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "domain": "yoshuabengio.org",
+        "score": 422,
+        "descendants": 498,
+        "by": "jonifico",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Yoshua Bengio探讨了人工智能代理在复杂任务中表现出欺骗和策略性协同行为背后的深层原因。"
+      },
+      {
+        "id": 49678423,
+        "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+        "url": "https://github.com/FeralFirmware/TailTalk/",
+        "domain": "github.com",
+        "score": 33,
+        "descendants": 11,
+        "by": "zdw",
+        "tags": [
+          "AI",
+          "Rust",
+          "Science"
+        ],
+        "summary": "基于Rust和Tokio构建的现代异步用户空间AppleTalk协议栈实现项目。"
+      },
+      {
+        "id": 49638071,
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+        "url": "https://bensimms.moe/reverse-engineering-scooter/",
+        "domain": "bensimms.moe",
+        "score": 89,
+        "descendants": 28,
+        "by": "vinhnx",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "一位开发者详细记录了自己对电动滑板车进行逆向工程，并使用Rust重写固件的过程。"
+      },
+      {
+        "id": 49655450,
+        "title": "Base84 deserves a place in file names",
+        "url": "https://00f.net/2026/09/09/base84/",
+        "domain": "00f.net",
+        "score": 24,
+        "descendants": 10,
+        "by": "kevvok",
+        "tags": [],
+        "summary": "文章论述了为何Base84编码在处理文件名时具备优越性和使用价值。"
+      },
+      {
+        "id": 49683729,
+        "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+        "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+        "domain": "tomshardware.com",
+        "score": 61,
+        "descendants": 41,
+        "by": "Levitating",
+        "tags": [
+          "Security",
+          "Hardware"
+        ],
+        "summary": "美国海关监管人员因窃取国土安全部电脑硬件被捕，引发对关键基础设施安全监管的讨论。"
+      },
+      {
+        "id": 49683262,
+        "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+        "domain": "devblogs.microsoft.com",
+        "score": 11,
+        "descendants": 4,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "微软开发博客深度解析了x86架构中UD2指令名称的由来及其设计含义。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "investigatetv.com",
+          "count": 1
+        },
+        {
+          "domain": "lesswrong.com",
+          "count": 1
+        },
+        {
+          "domain": "jetkvm.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 130,
+      "max_score": {
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "score": 422
+      },
+      "most_discussed": {
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "comments": 498
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Rust",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI前沿研究、硬件逆向工程及网络安全等技术议题。社会治理与数字隐私层面的争议，以及对计算机体系结构细节的探讨，同样引起了社区用户的广泛关注。"
   }
 }
