@@ -1,0 +1,166 @@
+{
+  "morning": {
+    "time": "2026-09-13 09:46",
+    "stories": [
+      {
+        "id": 49678683,
+        "title": "Everyone should slow down AI development except for me",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "domain": "xeiaso.net",
+        "score": 52,
+        "descendants": 6,
+        "by": "xena",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI监管悖论，指出人们往往支持行业放缓，却又期望在自身领域保持领先。"
+      },
+      {
+        "id": 49674050,
+        "title": "Make your first edit to OpenStreetMap",
+        "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "domain": "high5apps.github.io",
+        "score": 332,
+        "descendants": 77,
+        "by": "juliantigler",
+        "tags": [],
+        "summary": "一份面向初学者的指南，教你如何贡献数据以优化OpenStreetMap地图生态。"
+      },
+      {
+        "id": 49676820,
+        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "domain": "withspecific.com",
+        "score": 115,
+        "descendants": 61,
+        "by": "theanonymousone",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Real-SWE基准测试，旨在评估AI模型在真实私有企业代码库中的实际表现。"
+      },
+      {
+        "id": 49673098,
+        "title": "Nvidia is the central bank of AI",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "domain": "economist.com",
+        "score": 396,
+        "descendants": 269,
+        "by": "tolugenius",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "分析英伟达如何通过算力垄断成为AI时代的“央行”，重塑全球科技经济格局。"
+      },
+      {
+        "id": 49619848,
+        "title": "Apple iPod Engraver (2019)",
+        "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+        "domain": "dunstanorchard.com",
+        "score": 121,
+        "descendants": 24,
+        "by": "NaOH",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "回顾并展示了2019年Apple iPod激光刻字服务的历史细节与文化意义。"
+      },
+      {
+        "id": 49636479,
+        "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+        "url": "https://eiln.github.io/posts/ane-dma.html",
+        "domain": "eiln.github.io",
+        "score": 74,
+        "descendants": 12,
+        "by": "eiln",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术干货分享，解析如何通过优化手段在Apple Neural Engine上实现50 GB/s的数据吞吐量。"
+      },
+      {
+        "id": 49678783,
+        "title": "Align AI and Mathematics–To Something Else",
+        "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+        "domain": "liorpachter.wordpress.com",
+        "score": 5,
+        "descendants": 0,
+        "by": "nitrogenpuddle",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI与数学领域的深层联系，思考两者如何共同演进并向不同方向发展。"
+      },
+      {
+        "id": 49625056,
+        "title": "Stabilizing Rust's Never Type",
+        "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+        "domain": "lwn.net",
+        "score": 133,
+        "descendants": 33,
+        "by": "cjd8",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "深入剖析Rust语言中Never Type（!）的标准化进展及其对类型系统的重要意义。"
+      },
+      {
+        "id": 49678548,
+        "title": "Recurrent Looped Transformer",
+        "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+        "domain": "yifanzhang-pro.github.io",
+        "score": 7,
+        "descendants": 0,
+        "by": "MayCXC",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种名为循环回路变换器（Recurrent Looped Transformer）的新型模型架构。"
+      },
+      {
+        "id": 49678432,
+        "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+        "url": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+        "domain": "accuweather.com",
+        "score": 13,
+        "descendants": 1,
+        "by": "RickJWagner",
+        "tags": [],
+        "summary": "气象记录显示大西洋飓风活动延迟至9月中旬，打破了维持60年的历史纪录。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "xeiaso.net",
+          "count": 1
+        },
+        {
+          "domain": "high5apps.github.io",
+          "count": 1
+        },
+        {
+          "domain": "withspecific.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 125,
+      "max_score": {
+        "title": "Nvidia is the central bank of AI",
+        "score": 396
+      },
+      "most_discussed": {
+        "title": "Nvidia is the central bank of AI",
+        "comments": 269
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Startup",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI领域，涵盖了从行业经济影响、模型基准测试到技术实现细节的多维度探讨。此外，开源地理协作、苹果硬件逆向工程以及Rust语言特性升级也引发了社区的广泛关注。"
+  }
+}
