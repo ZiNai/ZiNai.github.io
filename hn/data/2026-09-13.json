@@ -162,5 +162,163 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在AI领域，涵盖了从行业经济影响、模型基准测试到技术实现细节的多维度探讨。此外，开源地理协作、苹果硬件逆向工程以及Rust语言特性升级也引发了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-09-13 16:36",
+    "stories": [
+      {
+        "id": 49681152,
+        "title": "JetKVM Mini",
+        "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+        "domain": "jetkvm.com",
+        "score": 27,
+        "descendants": 11,
+        "by": "taubek",
+        "tags": [],
+        "summary": "一款小巧的开源远程键盘鼠标（KVM）控制硬件方案展示。"
+      },
+      {
+        "id": 49678969,
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "domain": "yoshuabengio.org",
+        "score": 160,
+        "descendants": 192,
+        "by": "jonifico",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Yoshua Bengio探讨AI代理表现出欺骗与协同行为背后的风险与成因。"
+      },
+      {
+        "id": 49679459,
+        "title": "The Interim Computer Museum",
+        "url": "https://icm.museum/",
+        "domain": "icm.museum",
+        "score": 104,
+        "descendants": 11,
+        "by": "mulmen",
+        "tags": [],
+        "summary": "介绍Interim计算机博物馆及其对计算发展史的收藏与记录。"
+      },
+      {
+        "id": 49674050,
+        "title": "Make your first edit to OpenStreetMap",
+        "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "domain": "high5apps.github.io",
+        "score": 440,
+        "descendants": 106,
+        "by": "juliantigler",
+        "tags": [],
+        "summary": "一份面向初学者的指南，引导用户完成OpenStreetMap的首次编辑贡献。"
+      },
+      {
+        "id": 49640913,
+        "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+        "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+        "domain": "medium.com",
+        "score": 65,
+        "descendants": 30,
+        "by": "ichacas",
+        "tags": [],
+        "summary": "通过自制硬件将非Wi-Fi的三菱空调接入Home Assistant智能家居系统。"
+      },
+      {
+        "id": 49679643,
+        "title": "Aligned to whom?",
+        "url": "https://hyperbo.la/w/aligned-to-whom/",
+        "domain": "hyperbo.la",
+        "score": 37,
+        "descendants": 11,
+        "by": "lopopolo",
+        "tags": [],
+        "summary": "探讨AI对齐过程中关于利益主体选择的伦理与政治难题。"
+      },
+      {
+        "id": 49619848,
+        "title": "Apple iPod Engraver (2019)",
+        "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+        "domain": "dunstanorchard.com",
+        "score": 200,
+        "descendants": 51,
+        "by": "NaOH",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "回顾2019年Apple iPod刻字服务的怀旧项目与视觉文化意义。"
+      },
+      {
+        "id": 49673098,
+        "title": "Nvidia is the central bank of AI",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "domain": "economist.com",
+        "score": 469,
+        "descendants": 333,
+        "by": "tolugenius",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "《经济学人》分析Nvidia如何凭借算力掌控力成为AI时代的中央银行。"
+      },
+      {
+        "id": 49625056,
+        "title": "Stabilizing Rust's Never Type",
+        "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+        "domain": "lwn.net",
+        "score": 182,
+        "descendants": 51,
+        "by": "cjd8",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "详细解读Rust语言中关于“Never Type”特性稳定化的过程与影响。"
+      },
+      {
+        "id": 49678683,
+        "title": "Everyone should slow down AI development except for me",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "domain": "xeiaso.net",
+        "score": 424,
+        "descendants": 251,
+        "by": "xena",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇关于当前AI监管浪潮中讽刺性心态与技术垄断竞争的评论文章。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jetkvm.com",
+          "count": 1
+        },
+        {
+          "domain": "yoshuabengio.org",
+          "count": 1
+        },
+        {
+          "domain": "icm.museum",
+          "count": 1
+        }
+      ],
+      "avg_score": 211,
+      "max_score": {
+        "title": "Nvidia is the central bank of AI",
+        "score": 469
+      },
+      "most_discussed": {
+        "title": "Nvidia is the central bank of AI",
+        "comments": 333
+      },
+      "hot_tags": [
+        "AI",
+        "Startup",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能的伦理挑战与地缘政治影响，多篇深度文章探讨了AI对齐问题及Nvidia在行业中的核心垄断地位。此外，硬件项目、怀旧科技与软件工程细节同样吸引了社区的广泛讨论。"
   }
 }
