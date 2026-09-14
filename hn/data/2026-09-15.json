@@ -1,0 +1,148 @@
+{
+  "morning": {
+    "time": "2026-09-15 01:31",
+    "stories": [
+      {
+        "id": 49699158,
+        "title": "Distributed Systems Classics",
+        "url": "https://nvartolomei.com/dist-sys-classics/",
+        "domain": "nvartolomei.com",
+        "score": 66,
+        "descendants": 10,
+        "by": "grep_it",
+        "tags": [],
+        "summary": "分布式系统领域必读经典文献汇编，适合深入理解架构原理。"
+      },
+      {
+        "id": 49700477,
+        "title": "Pion, an agent designed to run any company autonomously",
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "domain": "andonlabs.com",
+        "score": 15,
+        "descendants": 3,
+        "by": "lukaspetersson",
+        "tags": [],
+        "summary": "介绍一款旨在实现企业自动化运营的智能体 Pion。"
+      },
+      {
+        "id": 49700299,
+        "title": "It's a Scam",
+        "url": "https://nice-marmot.net/Archives/2026/September_2026.html#note_3792",
+        "domain": "nice-marmot.net",
+        "score": 15,
+        "descendants": 1,
+        "by": "speckx",
+        "tags": [],
+        "summary": "揭露某种普遍存在的行业骗局。"
+      },
+      {
+        "id": 49698607,
+        "title": "Principles for Fast Tokio Applications",
+        "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+        "domain": "dial9-rs.github.io",
+        "score": 50,
+        "descendants": 9,
+        "by": "carllerche",
+        "tags": [],
+        "summary": "提供优化 Rust Tokio 异步应用程序性能的关键原则与实战建议。"
+      },
+      {
+        "id": 49699159,
+        "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+        "url": "https://www.neobrutalism.dev/",
+        "domain": "neobrutalism.dev",
+        "score": 30,
+        "descendants": 10,
+        "by": "samke-",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Neobrutalism.dev 新增 Base UI 支持与全新配色主题。"
+      },
+      {
+        "id": 49697014,
+        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "domain": "patrickmccanna.net",
+        "score": 82,
+        "descendants": 32,
+        "by": "0o_MrPatrick_o0",
+        "tags": [],
+        "summary": "分享将大型预设提示词从 Opus 迁移至本地 Ollama 时的踩坑记录与技巧。"
+      },
+      {
+        "id": 49695876,
+        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+        "domain": "tenderlovemaking.com",
+        "score": 152,
+        "descendants": 183,
+        "by": "gregnavis",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "爆料 OpenAI 爬虫预知并利用了 RubyGems 的缓存漏洞，引发对 AI 工具安全性的讨论。"
+      },
+      {
+        "id": 49699648,
+        "title": "Why don't machine learning research agents overfit?",
+        "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+        "domain": "amazon.science",
+        "score": 18,
+        "descendants": 2,
+        "by": "Betelbuddy",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨为何机器学习研究类智能体在训练过程中能够避免过拟合的机制。"
+      },
+      {
+        "id": 49697094,
+        "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+        "url": "https://spectrum.ieee.org/adversarial-fashion",
+        "domain": "spectrum.ieee.org",
+        "score": 43,
+        "descendants": 22,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析对抗性服饰如何作为一种社会性表达，挑战 AI 监控技术的无处不在。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nvartolomei.com",
+          "count": 1
+        },
+        {
+          "domain": "andonlabs.com",
+          "count": 1
+        },
+        {
+          "domain": "nice-marmot.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 52,
+      "max_score": {
+        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "score": 152
+      },
+      "most_discussed": {
+        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "comments": 183
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Security",
+        "Science"
+      ]
+    },
+    "summary": "今日 Hacker News 讨论聚焦于 AI 技术的深层影响与工程实践，涵盖了 AI 智能体自主性、安全漏洞及模型部署的实战优化。同时，社区也关注分布式系统经典理论与前沿 UI 设计趋势，反映了技术深度与行业应用创新的并重。"
+  }
+}
