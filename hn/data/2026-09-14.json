@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-09-14 10:04",
+    "stories": [
+      {
+        "id": 49688695,
+        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "domain": "vals.ai",
+        "score": 481,
+        "descendants": 207,
+        "by": "u1hcw9nx",
+        "tags": [],
+        "summary": "Fable 5.1 成功破译了困扰学术界 370 年的 Cyphral Distich 密码。"
+      },
+      {
+        "id": 49686445,
+        "title": "Why is Google still serving dodgy ads?",
+        "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+        "domain": "atomic14.com",
+        "score": 602,
+        "descendants": 280,
+        "by": "iamflimflam1",
+        "tags": [],
+        "summary": "探讨 Google 搜索结果中为何充斥着大量虚假与欺诈性广告。"
+      },
+      {
+        "id": 49690554,
+        "title": "The case against JPEG XL",
+        "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+        "domain": "giannirosato.com",
+        "score": 38,
+        "descendants": 29,
+        "by": "contact9879",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章详细分析了为何 JPEG XL 在图像格式竞争中面临质疑与抵制。"
+      },
+      {
+        "id": 49689048,
+        "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+        "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+        "domain": "community.signalusers.org",
+        "score": 84,
+        "descendants": 41,
+        "by": "Cider9986",
+        "tags": [],
+        "summary": "Signal 计划引入零知识证明技术，实现无须绑定手机号的注册功能。"
+      },
+      {
+        "id": 49690260,
+        "title": "Open-Source AI and Open Models Reading List",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "domain": "interconnects.ai",
+        "score": 22,
+        "descendants": 1,
+        "by": "simonpure",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "一份关于开源 AI 及其开放模型研究的精选阅读资源列表。"
+      },
+      {
+        "id": 49642645,
+        "title": "Julia 1.13 highlights",
+        "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+        "domain": "julialang.org",
+        "score": 155,
+        "descendants": 12,
+        "by": "eigenspace",
+        "tags": [],
+        "summary": "盘点编程语言 Julia 1.13 版本的核心亮点与功能改进。"
+      },
+      {
+        "id": 49684393,
+        "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+        "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+        "domain": "lesswrong.com",
+        "score": 382,
+        "descendants": 176,
+        "by": "Levitating",
+        "tags": [
+          "Security"
+        ],
+        "summary": "分析 Astra 与 Fable 如何处理 2025 年人工智能对齐评估的简化变体。"
+      },
+      {
+        "id": 49683953,
+        "title": "Data collected by cars and sold to third parties",
+        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "domain": "theverge.com",
+        "score": 312,
+        "descendants": 161,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "揭露现代汽车如何收集驾驶数据并将其出售给第三方机构。"
+      },
+      {
+        "id": 49688391,
+        "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+        "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+        "domain": "pages.cs.wisc.edu",
+        "score": 63,
+        "descendants": 8,
+        "by": "walrus01",
+        "tags": [],
+        "summary": "回顾 2003 年因路由器缺陷导致威斯康星大学时间服务器瘫痪的经典事故。"
+      },
+      {
+        "id": 49686380,
+        "title": "Ask HN: What are you working on? (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49686380",
+        "domain": "news.ycombinator.com",
+        "score": 88,
+        "descendants": 183,
+        "by": "david927",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News 每月例行专题：社区成员分享自己近期正在开发的个人项目。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "vals.ai",
+          "count": 1
+        },
+        {
+          "domain": "atomic14.com",
+          "count": 1
+        },
+        {
+          "domain": "giannirosato.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 223,
+      "max_score": {
+        "title": "Why is Google still serving dodgy ads?",
+        "score": 602
+      },
+      "most_discussed": {
+        "title": "Why is Google still serving dodgy ads?",
+        "comments": 280
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Security",
+        "Ask HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于网络安全与数据隐私挑战，涵盖了从古老密码破译到现代商业追踪的广泛议题。此外，人工智能模型的开放性争议及编程语言的技术更新也是社区讨论的重点。"
+  }
+}
