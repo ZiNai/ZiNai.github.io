@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-09-16 00:07",
+    "stories": [
+      {
+        "id": 49711544,
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "domain": "github.com",
+        "score": 519,
+        "descendants": 85,
+        "by": "arnemunthekaas",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49714239,
+        "title": "Swift 6.4 Released",
+        "url": "https://www.swift.org/blog/swift-6.4-released/",
+        "domain": "swift.org",
+        "score": 42,
+        "descendants": 5,
+        "by": "timsneath",
+        "tags": []
+      },
+      {
+        "id": 49713999,
+        "title": "Cartesian – AI 3D Modeling for Design",
+        "url": "https://www.formas.ai/cartesian",
+        "domain": "formas.ai",
+        "score": 16,
+        "descendants": 7,
+        "by": "eustoria",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49712102,
+        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "url": "https://bkovac.github.io/modem-thing/",
+        "domain": "bkovac.github.io",
+        "score": 91,
+        "descendants": 9,
+        "by": "bobili1234",
+        "tags": [
+          "Security",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49712278,
+        "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+        "url": "https://withcapsule.app/",
+        "domain": "withcapsule.app",
+        "score": 104,
+        "descendants": 53,
+        "by": "bashtian",
+        "tags": [
+          "Web",
+          "Database",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49708431,
+        "title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "domain": "notnottalmud.substack.com",
+        "score": 671,
+        "descendants": 292,
+        "by": "networked",
+        "tags": []
+      },
+      {
+        "id": 49712041,
+        "title": "Java 27 Released",
+        "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+        "domain": "mail.openjdk.org",
+        "score": 210,
+        "descendants": 162,
+        "by": "mkurz",
+        "tags": []
+      },
+      {
+        "id": 49714457,
+        "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
+        "url": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
+        "domain": "stateofopensource.ai",
+        "score": 5,
+        "descendants": 1,
+        "by": "airplanesandOS",
+        "tags": [
+          "Systems",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 49694382,
+        "title": "A Man Archiving Pirate Radio Station Kool FM",
+        "url": "https://londonist.com/london/music/kool-fm-archives",
+        "domain": "londonist.com",
+        "score": 29,
+        "descendants": 9,
+        "by": "rdmuser",
+        "tags": []
+      },
+      {
+        "id": 49710883,
+        "title": "25 Years of Mass Surveillance Is Enough",
+        "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+        "domain": "schneier.com",
+        "score": 439,
+        "descendants": 131,
+        "by": "iamnothere",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "swift.org",
+          "count": 1
+        },
+        {
+          "domain": "formas.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 213,
+      "max_score": {
+        "title": "I can't stop thinking about Papua New Guinea",
+        "score": 671
+      },
+      "most_discussed": {
+        "title": "I can't stop thinking about Papua New Guinea",
+        "comments": 292
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI",
+        "Security",
+        "Web",
+        "Database"
+      ]
+    },
+    "summary": ""
+  }
+}
