@@ -156,5 +156,147 @@
       ]
     },
     "summary": "本期Hacker News关注焦点涵盖了技术前沿与安全议题，包括AI自主代理的兴起、操作系统演进及分布式系统架构的深度探讨。同时，网络安全漏洞披露、硬件自动化黑客技巧以及考古发现等多元内容引发了社区广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-09-15 17:02",
+    "stories": [
+      {
+        "id": 49708431,
+        "title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "domain": "notnottalmud.substack.com",
+        "score": 55,
+        "descendants": 12,
+        "by": "networked",
+        "tags": [],
+        "summary": "关于巴布亚新几内亚的人文观察与思考。"
+      },
+      {
+        "id": 49701004,
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "domain": "apple.com",
+        "score": 587,
+        "descendants": 668,
+        "by": "throw0101d",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "关于 iOS、iPadOS 和 macOS 27 版本概念与讨论。"
+      },
+      {
+        "id": 49684289,
+        "title": "OpenArm: An open-source 7DOF humanoid arm",
+        "url": "https://github.com/enactic/OpenArm",
+        "domain": "github.com",
+        "score": 78,
+        "descendants": 15,
+        "by": "Lwrless",
+        "tags": [
+          "Hardware",
+          "Open Source"
+        ],
+        "summary": "一个开源的 7 自由度人型机械臂项目。"
+      },
+      {
+        "id": 49707627,
+        "title": "Linux from Scratch",
+        "url": "https://www.linuxfromscratch.org/",
+        "domain": "linuxfromscratch.org",
+        "score": 159,
+        "descendants": 54,
+        "by": "sippingabonedry",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨从零开始构建 Linux 系统的经典技术指南。"
+      },
+      {
+        "id": 49675817,
+        "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+        "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+        "domain": "arkeonews.net",
+        "score": 126,
+        "descendants": 38,
+        "by": "arunbahl",
+        "tags": [],
+        "summary": "在萨卡拉发现的 4400 年前保存完好的古埃及法官墓葬。"
+      },
+      {
+        "id": 49700477,
+        "title": "Pion, an agent designed to run any company autonomously",
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "domain": "andonlabs.com",
+        "score": 393,
+        "descendants": 488,
+        "by": "lukaspetersson",
+        "tags": [],
+        "summary": "一款旨在实现公司运营自动化的智能代理 Pion。"
+      },
+      {
+        "id": 49693690,
+        "title": "When code is a maze, smart developers make maps (2025)",
+        "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
+        "domain": "medium.com",
+        "score": 33,
+        "descendants": 39,
+        "by": "boxesnlines",
+        "tags": [],
+        "summary": "探讨在复杂代码库中，聪明开发者如何通过绘制映射图来提升效率。"
+      },
+      {
+        "id": 49704246,
+        "title": "Charts built for Chat",
+        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "domain": "dbtcharts.com",
+        "score": 218,
+        "descendants": 66,
+        "by": "thingsilearned",
+        "tags": [],
+        "summary": "专为 AI 对话界面设计的图表生成工具。"
+      },
+      {
+        "id": 49694296,
+        "title": "XCancel service is suspended until further notice",
+        "url": "https://xcancel.com/#",
+        "domain": "xcancel.com",
+        "score": 612,
+        "descendants": 923,
+        "by": "gaganyaan",
+        "tags": [],
+        "summary": "XCancel 服务因故暂停运营的相关公告。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "notnottalmud.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 251,
+      "max_score": {
+        "title": "XCancel service is suspended until further notice",
+        "score": 612
+      },
+      "most_discussed": {
+        "title": "XCancel service is suspended until further notice",
+        "comments": 923
+      },
+      "hot_tags": [
+        "Systems",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 自动化与前沿科技创新，讨论涵盖了自动驾驶公司代理、iOS 概念更新及各类开源硬件项目。同时，社区也关注考古发现与系统底层构建等人文与技术深度议题，反映出开发者对技术前沿与实用工具的高度热情。"
   }
 }
