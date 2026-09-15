@@ -1,121 +1,133 @@
 {
   "morning": {
-    "time": "2026-09-15 01:31",
+    "time": "2026-09-15 10:11",
     "stories": [
       {
-        "id": 49699158,
-        "title": "Distributed Systems Classics",
-        "url": "https://nvartolomei.com/dist-sys-classics/",
-        "domain": "nvartolomei.com",
-        "score": 66,
-        "descendants": 10,
-        "by": "grep_it",
-        "tags": [],
-        "summary": "分布式系统领域必读经典文献汇编，适合深入理解架构原理。"
+        "id": 49701004,
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "domain": "apple.com",
+        "score": 385,
+        "descendants": 439,
+        "by": "throw0101d",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "讨论苹果未来操作系统版本（iOS/iPadOS/macOS 27）的预期功能演进与潜在变革。"
       },
       {
         "id": 49700477,
         "title": "Pion, an agent designed to run any company autonomously",
         "url": "https://andonlabs.com/blog/why-we-built-pion",
         "domain": "andonlabs.com",
-        "score": 15,
-        "descendants": 3,
+        "score": 294,
+        "descendants": 321,
         "by": "lukaspetersson",
         "tags": [],
-        "summary": "介绍一款旨在实现企业自动化运营的智能体 Pion。"
+        "summary": "介绍一款名为Pion的AI代理，旨在实现企业任务的完全自主化运行。"
       },
       {
-        "id": 49700299,
-        "title": "It's a Scam",
-        "url": "https://nice-marmot.net/Archives/2026/September_2026.html#note_3792",
-        "domain": "nice-marmot.net",
-        "score": 15,
-        "descendants": 1,
-        "by": "speckx",
+        "id": 49704246,
+        "title": "Charts built for Chat",
+        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "domain": "dbtcharts.com",
+        "score": 102,
+        "descendants": 34,
+        "by": "thingsilearned",
         "tags": [],
-        "summary": "揭露某种普遍存在的行业骗局。"
+        "summary": "针对大模型交互场景构建的可视化图表工具，旨在优化AI输出的展示效果。"
       },
       {
-        "id": 49698607,
-        "title": "Principles for Fast Tokio Applications",
-        "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-        "domain": "dial9-rs.github.io",
-        "score": 50,
-        "descendants": 9,
-        "by": "carllerche",
-        "tags": [],
-        "summary": "提供优化 Rust Tokio 异步应用程序性能的关键原则与实战建议。"
-      },
-      {
-        "id": 49699159,
-        "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-        "url": "https://www.neobrutalism.dev/",
-        "domain": "neobrutalism.dev",
-        "score": 30,
-        "descendants": 10,
-        "by": "samke-",
+        "id": 49705442,
+        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "url": "https://github.com/JamesRyanATX/fcbnerd",
+        "domain": "github.com",
+        "score": 37,
+        "descendants": 4,
+        "by": "fretlessjazz",
         "tags": [
+          "Systems",
           "Show HN"
         ],
-        "summary": "Neobrutalism.dev 新增 Base UI 支持与全新配色主题。"
+        "summary": "展示如何通过MIDI踏板控制器为macOS系统添加强大的宏指令控制功能。"
       },
       {
-        "id": 49697014,
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-        "domain": "patrickmccanna.net",
-        "score": 82,
-        "descendants": 32,
-        "by": "0o_MrPatrick_o0",
+        "id": 49675817,
+        "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+        "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+        "domain": "arkeonews.net",
+        "score": 19,
+        "descendants": 4,
+        "by": "arunbahl",
         "tags": [],
-        "summary": "分享将大型预设提示词从 Opus 迁移至本地 Ollama 时的踩坑记录与技巧。"
+        "summary": "报道萨卡拉发现的4400年前埃及法官陵墓，其墙面色彩保留完好。"
+      },
+      {
+        "id": 49673689,
+        "title": "Compressing a Flag to 11 Bits",
+        "url": "https://read.vantezzen.io/miniflags",
+        "domain": "read.vantezzen.io",
+        "score": 73,
+        "descendants": 36,
+        "by": "bennett_dev",
+        "tags": [],
+        "summary": "探讨如何利用算法将国旗图片数据压缩至极小的11位存储空间。"
+      },
+      {
+        "id": 49699158,
+        "title": "Distributed Systems Classics (2017)",
+        "url": "https://nvartolomei.com/dist-sys-classics/",
+        "domain": "nvartolomei.com",
+        "score": 236,
+        "descendants": 52,
+        "by": "grep_it",
+        "tags": [],
+        "summary": "整理并重温分布式系统领域的经典理论文献，适合系统架构师深入学习。"
       },
       {
         "id": 49695876,
         "title": "OpenAI bots knew about the RubyGems caching vulnerability",
         "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
         "domain": "tenderlovemaking.com",
-        "score": 152,
-        "descendants": 183,
+        "score": 379,
+        "descendants": 324,
         "by": "gregnavis",
         "tags": [
           "AI",
           "Security"
         ],
-        "summary": "爆料 OpenAI 爬虫预知并利用了 RubyGems 的缓存漏洞，引发对 AI 工具安全性的讨论。"
+        "summary": "分析OpenAI机器人预先知晓RubyGems缓存漏洞的安全警示与启示。"
       },
       {
-        "id": 49699648,
-        "title": "Why don't machine learning research agents overfit?",
-        "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-        "domain": "amazon.science",
-        "score": 18,
-        "descendants": 2,
-        "by": "Betelbuddy",
+        "id": 49694296,
+        "title": "XCancel service is suspended until further notice",
+        "url": "https://xcancel.com/#",
+        "domain": "xcancel.com",
+        "score": 467,
+        "descendants": 776,
+        "by": "gaganyaan",
+        "tags": [],
+        "summary": "关于XCancel服务因故暂停运营的官方说明公告。"
+      },
+      {
+        "id": 49697477,
+        "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+        "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+        "domain": "nathannaveen.dev",
+        "score": 33,
+        "descendants": 9,
+        "by": "nathannaveen",
         "tags": [
           "AI",
-          "Science"
+          "Systems"
         ],
-        "summary": "探讨为何机器学习研究类智能体在训练过程中能够避免过拟合的机制。"
-      },
-      {
-        "id": 49697094,
-        "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-        "url": "https://spectrum.ieee.org/adversarial-fashion",
-        "domain": "spectrum.ieee.org",
-        "score": 43,
-        "descendants": 22,
-        "by": "rbanffy",
-        "tags": [
-          "AI"
-        ],
-        "summary": "分析对抗性服饰如何作为一种社会性表达，挑战 AI 监控技术的无处不在。"
+        "summary": "分享通过备忘录（Memoization）技术将eBPF CPU开销降低90%的性能优化实战。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "nvartolomei.com",
+          "domain": "apple.com",
           "count": 1
         },
         {
@@ -123,26 +135,26 @@
           "count": 1
         },
         {
-          "domain": "nice-marmot.net",
+          "domain": "dbtcharts.com",
           "count": 1
         }
       ],
-      "avg_score": 52,
+      "avg_score": 202,
       "max_score": {
-        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "score": 152
+        "title": "XCancel service is suspended until further notice",
+        "score": 467
       },
       "most_discussed": {
-        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "comments": 183
+        "title": "XCancel service is suspended until further notice",
+        "comments": 776
       },
       "hot_tags": [
+        "Systems",
         "AI",
         "Show HN",
-        "Security",
-        "Science"
+        "Security"
       ]
     },
-    "summary": "今日 Hacker News 讨论聚焦于 AI 技术的深层影响与工程实践，涵盖了 AI 智能体自主性、安全漏洞及模型部署的实战优化。同时，社区也关注分布式系统经典理论与前沿 UI 设计趋势，反映了技术深度与行业应用创新的并重。"
+    "summary": "本期Hacker News关注焦点涵盖了技术前沿与安全议题，包括AI自主代理的兴起、操作系统演进及分布式系统架构的深度探讨。同时，网络安全漏洞披露、硬件自动化黑客技巧以及考古发现等多元内容引发了社区广泛讨论。"
   }
 }
