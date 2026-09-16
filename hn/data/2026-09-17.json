@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-09-17 00:00",
+    "stories": [
+      {
+        "id": 49726955,
+        "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+        "url": "https://arxiv.org/abs/2609.14858",
+        "domain": "arxiv.org",
+        "score": 65,
+        "descendants": 16,
+        "by": "bananaflag",
+        "tags": [],
+        "summary": "介绍了一种通过在演化世界中循环互动来实现递归自我改进的新型AI框架Dream-RSI。"
+      },
+      {
+        "id": 49723408,
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "url": "https://mistral.ai/news/mistral-x-mozilla/",
+        "domain": "mistral.ai",
+        "score": 322,
+        "descendants": 107,
+        "by": "vertigoruntime",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mistral与Mozilla合作推出的隐私优先多语言AI浏览器，旨在提升搜索体验。"
+      },
+      {
+        "id": 49724927,
+        "title": "The Google Play app review process now regularly takes longer than a week",
+        "url": "https://gultsch.social/@daniel/117280438824908947",
+        "domain": "gultsch.social",
+        "score": 244,
+        "descendants": 209,
+        "by": "inputmice",
+        "tags": [],
+        "summary": "开发者反映Google Play应用审核周期显著延长，已成为困扰独立开发者的主要问题。"
+      },
+      {
+        "id": 49717558,
+        "title": "Introducing System One Models and Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "domain": "typesafe.ai",
+        "score": 1660,
+        "descendants": 456,
+        "by": "albelfio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨了System One模型及Jev架构，旨在构建更具逻辑推理能力的AI系统。"
+      },
+      {
+        "id": 49711544,
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "domain": "github.com",
+        "score": 1838,
+        "descendants": 219,
+        "by": "arnemunthekaas",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个能够捕捉鸟鸣并实时将其转化为19世纪风格插画的电子墨水屏艺术装置。"
+      },
+      {
+        "id": 49726586,
+        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+        "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+        "domain": "wired.com",
+        "score": 195,
+        "descendants": 87,
+        "by": "driverdan",
+        "tags": [
+          "Security"
+        ],
+        "summary": "黑客入侵Flock监控摄像头后揭露了该系统的底层数据结构与工作原理。"
+      },
+      {
+        "id": 49712185,
+        "title": "How Big Are Factorials?",
+        "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+        "domain": "eli.thegreenplace.net",
+        "score": 20,
+        "descendants": 10,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "通过数学角度探讨阶乘增长的规模及其在计算领域中的表现。"
+      },
+      {
+        "id": 49721322,
+        "title": "Apple Reference Image: A New Approach for Verified Photography",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "domain": "security.apple.com",
+        "score": 404,
+        "descendants": 256,
+        "by": "imwally",
+        "tags": [],
+        "summary": "苹果发布用于验证照片真实性的新方案，旨在应对AI伪造图像带来的挑战。"
+      },
+      {
+        "id": 49710903,
+        "title": "Tell the speakers that you liked their talks",
+        "url": "https://ohhelloana.blog/tell-the-speakers/",
+        "domain": "ohhelloana.blog",
+        "score": 38,
+        "descendants": 10,
+        "by": "whisper2020",
+        "tags": [],
+        "summary": "呼吁参会者积极向演讲者表达反馈，建立良好的学术与技术分享社区文化。"
+      },
+      {
+        "id": 49689062,
+        "title": "Douglas Adams and the exterminated Doctor Who adventure",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
+        "domain": "bbc.co.uk",
+        "score": 52,
+        "descendants": 36,
+        "by": "6LLvveMx2koXfwn",
+        "tags": [],
+        "summary": "揭秘道格拉斯·亚当斯曾参与但最终被废弃的《神秘博士》剧集创作往事。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "mistral.ai",
+          "count": 1
+        },
+        {
+          "domain": "gultsch.social",
+          "count": 1
+        }
+      ],
+      "avg_score": 484,
+      "max_score": {
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "score": 1838
+      },
+      "most_discussed": {
+        "title": "Introducing System One Models and Jev",
+        "comments": 456
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于前沿人工智能技术与安全隐私挑战，涵盖了自进化模型、大模型浏览器集成及苹果的摄影验证方案。此外，社区关注点还延伸至移动应用生态的审核痛点、监控系统数据安全及独特的创意硬件项目。"
+  }
+}
