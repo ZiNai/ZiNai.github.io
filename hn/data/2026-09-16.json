@@ -1,154 +1,165 @@
 {
   "morning": {
-    "time": "2026-09-16 00:07",
+    "time": "2026-09-16 10:04",
     "stories": [
+      {
+        "id": 49717558,
+        "title": "Introducing System One Models and Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "domain": "typesafe.ai",
+        "score": 792,
+        "descendants": 261,
+        "by": "albelfio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍旨在提升AI推理效率与确定性的System One模型架构及Jev工具。"
+      },
       {
         "id": 49711544,
         "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "url": "https://github.com/arnegiacomo/fugleramme",
         "domain": "github.com",
-        "score": 519,
-        "descendants": 85,
+        "score": 1327,
+        "descendants": 183,
         "by": "arnemunthekaas",
         "tags": [
           "Show HN"
-        ]
+        ],
+        "summary": "展示一款通过电子墨水屏实时将环境鸟鸣转化为18世纪风格版画插图的创意设备。"
       },
       {
-        "id": 49714239,
-        "title": "Swift 6.4 Released",
-        "url": "https://www.swift.org/blog/swift-6.4-released/",
-        "domain": "swift.org",
-        "score": 42,
-        "descendants": 5,
-        "by": "timsneath",
-        "tags": []
+        "id": 49716176,
+        "title": "An Update on Wayback Machine Access",
+        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+        "domain": "blog.archive.org",
+        "score": 392,
+        "descendants": 214,
+        "by": "ChrisArchitect",
+        "tags": [],
+        "summary": "互联网档案馆官方针对近期Wayback Machine访问受限问题的说明及最新进展。"
       },
       {
-        "id": 49713999,
-        "title": "Cartesian – AI 3D Modeling for Design",
-        "url": "https://www.formas.ai/cartesian",
-        "domain": "formas.ai",
-        "score": 16,
-        "descendants": 7,
-        "by": "eustoria",
+        "id": 49718928,
+        "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+        "domain": "rheinmetall.github.io",
+        "score": 131,
+        "descendants": 40,
+        "by": "summarity",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "德国军工巨头莱茵金属宣布开源其作战套件（Battlesuite）的武器系统连接协议。"
+      },
+      {
+        "id": 49715947,
+        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "domain": "blog.google",
+        "score": 307,
+        "descendants": 190,
+        "by": "leumon",
         "tags": [
           "AI"
-        ]
+        ],
+        "summary": "谷歌发布Gemini 3.8 Live及其增强型深度思考模型，提升了实时交互与逻辑推理能力。"
       },
       {
-        "id": 49712102,
-        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-        "url": "https://bkovac.github.io/modem-thing/",
-        "domain": "bkovac.github.io",
+        "id": 49716476,
+        "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+        "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+        "domain": "strix.ai",
+        "score": 221,
+        "descendants": 115,
+        "by": "bearsyankees",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "深度复盘研究人员如何在25分钟内获取Baseten生产环境GitHub管理权限的过程。"
+      },
+      {
+        "id": 49718822,
+        "title": "Jean-Pierre Serre is 100 years old today",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+        "domain": "mathshistory.st-andrews.ac.uk",
         "score": 91,
-        "descendants": 9,
-        "by": "bobili1234",
+        "descendants": 13,
+        "by": "jzox",
+        "tags": [],
+        "summary": "庆祝20世纪最具影响力的数学家之一让-皮埃尔·塞尔百岁诞辰。"
+      },
+      {
+        "id": 49719938,
+        "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+        "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+        "domain": "nand2mario.github.io",
+        "score": 31,
+        "descendants": 6,
+        "by": "zdw",
         "tags": [
-          "Security",
-          "Show HN"
-        ]
+          "Hardware"
+        ],
+        "summary": "通过FPGA技术在现代硬件上完整复现90年代Voodoo显卡及经典PC游戏体验。"
       },
       {
-        "id": 49712278,
-        "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-        "url": "https://withcapsule.app/",
-        "domain": "withcapsule.app",
-        "score": 104,
-        "descendants": 53,
-        "by": "bashtian",
-        "tags": [
-          "Web",
-          "Database",
-          "Show HN"
-        ]
-      },
-      {
-        "id": 49708431,
-        "title": "I can't stop thinking about Papua New Guinea",
-        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-        "domain": "notnottalmud.substack.com",
-        "score": 671,
-        "descendants": 292,
-        "by": "networked",
-        "tags": []
-      },
-      {
-        "id": 49712041,
-        "title": "Java 27 Released",
-        "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-        "domain": "mail.openjdk.org",
-        "score": 210,
-        "descendants": 162,
-        "by": "mkurz",
-        "tags": []
-      },
-      {
-        "id": 49714457,
-        "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
-        "url": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
-        "domain": "stateofopensource.ai",
-        "score": 5,
-        "descendants": 1,
-        "by": "airplanesandOS",
+        "id": 49717638,
+        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+        "url": "https://codyho.dev/blog/gpu-driver/",
+        "domain": "codyho.dev",
+        "score": 167,
+        "descendants": 105,
+        "by": "ADevWithAnIdea",
         "tags": [
           "Systems",
-          "Open Source"
-        ]
+          "Hardware"
+        ],
+        "summary": "开发者记录其在短短一个月内为M4 Mac Mini成功编写Linux GPU驱动的技术挑战。"
       },
       {
-        "id": 49694382,
-        "title": "A Man Archiving Pirate Radio Station Kool FM",
-        "url": "https://londonist.com/london/music/kool-fm-archives",
-        "domain": "londonist.com",
-        "score": 29,
-        "descendants": 9,
-        "by": "rdmuser",
-        "tags": []
-      },
-      {
-        "id": 49710883,
-        "title": "25 Years of Mass Surveillance Is Enough",
-        "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-        "domain": "schneier.com",
-        "score": 439,
-        "descendants": 131,
-        "by": "iamnothere",
-        "tags": []
+        "id": 49680916,
+        "title": "Sierra digital cameras on the Apple II",
+        "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+        "domain": "colino.net",
+        "score": 21,
+        "descendants": 0,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "回顾并探索早期Sierra数码相机在经典Apple II电脑上的连接与应用实现。"
       }
     ],
     "insights": {
       "top_domains": [
         {
+          "domain": "typesafe.ai",
+          "count": 1
+        },
+        {
           "domain": "github.com",
           "count": 1
         },
         {
-          "domain": "swift.org",
-          "count": 1
-        },
-        {
-          "domain": "formas.ai",
+          "domain": "blog.archive.org",
           "count": 1
         }
       ],
-      "avg_score": 213,
+      "avg_score": 348,
       "max_score": {
-        "title": "I can't stop thinking about Papua New Guinea",
-        "score": 671
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "score": 1327
       },
       "most_discussed": {
-        "title": "I can't stop thinking about Papua New Guinea",
-        "comments": 292
+        "title": "Introducing System One Models and Jev",
+        "comments": 261
       },
       "hot_tags": [
-        "Show HN",
         "AI",
-        "Security",
-        "Web",
-        "Database"
+        "Open Source",
+        "Hardware",
+        "Show HN",
+        "Systems"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News焦点涵盖了从前沿AI模型架构（System One、Gemini）到网络安全事件（Baseten GitHub漏洞）的广泛议题。此外，硬核工程实践如FPGA复刻经典硬件、Apple芯片驱动开发及艺术与技术的跨界结合也引发了社区的浓厚兴趣。"
   }
 }
