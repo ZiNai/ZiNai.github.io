@@ -161,5 +161,163 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了从前沿AI模型架构（System One、Gemini）到网络安全事件（Baseten GitHub漏洞）的广泛议题。此外，硬核工程实践如FPGA复刻经典硬件、Apple芯片驱动开发及艺术与技术的跨界结合也引发了社区的浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-09-16 16:54",
+    "stories": [
+      {
+        "id": 49717558,
+        "title": "Introducing System One Models and Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "domain": "typesafe.ai",
+        "score": 1335,
+        "descendants": 387,
+        "by": "albelfio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Typesafe推出System One模型及Jev框架，旨在提升AI系统的推理能力与确定性。"
+      },
+      {
+        "id": 49721322,
+        "title": "Apple Reference Image: A New Approach for Verified Photography",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "domain": "security.apple.com",
+        "score": 226,
+        "descendants": 146,
+        "by": "imwally",
+        "tags": [],
+        "summary": "苹果发布关于验证摄影的新技术方案，通过参考图像提升数字媒体的真实性与安全性。"
+      },
+      {
+        "id": 49711544,
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "domain": "github.com",
+        "score": 1617,
+        "descendants": 202,
+        "by": "arnemunthekaas",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "这是一个结合软硬件的创意项目，利用电子墨水屏自动捕捉鸟鸣并将其绘制成19世纪风格的插图。"
+      },
+      {
+        "id": 49693971,
+        "title": "Show HN: I made a flight simulator, except you're just a passenger",
+        "url": "https://inflightsimulator.com",
+        "domain": "inflightsimulator.com",
+        "score": 170,
+        "descendants": 78,
+        "by": "rkotcher",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款极简主义的飞行模拟器，让用户体验纯粹的乘客视角而非飞行操控。"
+      },
+      {
+        "id": 49716176,
+        "title": "An update on Wayback Machine access",
+        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+        "domain": "blog.archive.org",
+        "score": 518,
+        "descendants": 265,
+        "by": "ChrisArchitect",
+        "tags": [],
+        "summary": "互联网档案馆针对Wayback Machine近期遭遇的访问限制及服务状态发布了详细更新说明。"
+      },
+      {
+        "id": 49705944,
+        "title": "Doing Everyone Else's Job",
+        "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+        "domain": "yosefk.com",
+        "score": 55,
+        "descendants": 25,
+        "by": "luu",
+        "tags": [],
+        "summary": "探讨职场中承担额外职责的现象及其对个人效率与职业发展的影响。"
+      },
+      {
+        "id": 49721548,
+        "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+        "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+        "domain": "blog.archive.org",
+        "score": 78,
+        "descendants": 19,
+        "by": "bananaboy",
+        "tags": [],
+        "summary": "回顾艺术团体Negativland的文化干扰实践，探讨在版权与创作界限模糊地带如何进行艺术创新。"
+      },
+      {
+        "id": 49715947,
+        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "domain": "blog.google",
+        "score": 397,
+        "descendants": 263,
+        "by": "leumon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google发布Gemini 3.8系列模型，重点增强了实时交互与扩展思维链推理性能。"
+      },
+      {
+        "id": 49717638,
+        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+        "url": "https://codyho.dev/blog/gpu-driver/",
+        "domain": "codyho.dev",
+        "score": 305,
+        "descendants": 178,
+        "by": "ADevWithAnIdea",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "开发者分享了在短短一个月内为M4 Mac Mini成功构建Linux GPU驱动的技术历程。"
+      },
+      {
+        "id": 49722276,
+        "title": "Datamimic – don't let your coding agent invent its own test world",
+        "url": "https://github.com/rapiddweller/datamimic",
+        "domain": "github.com",
+        "score": 34,
+        "descendants": 5,
+        "by": "ake2l",
+        "tags": [],
+        "summary": "Datamimic工具介绍，帮助开发者为AI编程代理构建标准化的测试数据环境，避免其随意臆造数据。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "blog.archive.org",
+          "count": 2
+        },
+        {
+          "domain": "typesafe.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 474,
+      "max_score": {
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "score": 1617
+      },
+      "most_discussed": {
+        "title": "Introducing System One Models and Jev",
+        "comments": 387
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了人工智能前沿模型的突破与扩展，以及科技圈在硬件逆向工程、文化存档和趣味创意项目上的多样探索。整体趋势显示开发者正积极利用开源与实验性工具，探索从AI推理优化到电子纸艺术表现的跨界技术应用。"
   }
 }
