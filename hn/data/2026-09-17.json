@@ -1,156 +1,163 @@
 {
   "morning": {
-    "time": "2026-09-17 00:00",
+    "time": "2026-09-17 10:08",
     "stories": [
       {
-        "id": 49726955,
-        "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-        "url": "https://arxiv.org/abs/2609.14858",
+        "id": 49724881,
+        "title": "Nvidia announces native GPU programming in Rust",
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "domain": "developer.nvidia.com",
+        "score": 307,
+        "descendants": 116,
+        "by": "nonmaskable",
+        "tags": [
+          "Rust",
+          "Hardware"
+        ],
+        "summary": "Nvidia正式宣布支持在Rust中进行原生GPU编程，进一步简化高性能计算开发。"
+      },
+      {
+        "id": 49731285,
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "url": "https://rohanbansal.com/qorl",
+        "domain": "rohanbansal.com",
+        "score": 407,
+        "descendants": 84,
+        "by": "polyphilz",
+        "tags": [
+          "AI",
+          "Database"
+        ],
+        "summary": "通过训练4B参数模型，实现比Postgres快81%的查询计划生成方案。"
+      },
+      {
+        "id": 49732270,
+        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+        "url": "https://mimo.xiaomi.com/rl/",
+        "domain": "mimo.xiaomi.com",
+        "score": 268,
+        "descendants": 66,
+        "by": "krackers",
+        "tags": [
+          "AI"
+        ],
+        "summary": "小米发布Mimo 2.6版本，提供直观的大模型训练实时监控仪表盘。"
+      },
+      {
+        "id": 49732931,
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "url": "https://arxiv.org/abs/2609.16338",
         "domain": "arxiv.org",
-        "score": 65,
-        "descendants": 16,
-        "by": "bananaflag",
-        "tags": [],
-        "summary": "介绍了一种通过在演化世界中循环互动来实现递归自我改进的新型AI框架Dream-RSI。"
-      },
-      {
-        "id": 49723408,
-        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-        "url": "https://mistral.ai/news/mistral-x-mozilla/",
-        "domain": "mistral.ai",
-        "score": 322,
-        "descendants": 107,
-        "by": "vertigoruntime",
+        "score": 145,
+        "descendants": 18,
+        "by": "matt_d",
         "tags": [
           "AI"
         ],
-        "summary": "Mistral与Mozilla合作推出的隐私优先多语言AI浏览器，旨在提升搜索体验。"
+        "summary": "科研论文探讨如何突破三进制大模型在1.58-bit量化方面的性能瓶颈。"
       },
       {
-        "id": 49724927,
-        "title": "The Google Play app review process now regularly takes longer than a week",
-        "url": "https://gultsch.social/@daniel/117280438824908947",
-        "domain": "gultsch.social",
-        "score": 244,
-        "descendants": 209,
-        "by": "inputmice",
+        "id": 49732513,
+        "title": "Backups Aren't Simple",
+        "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+        "domain": "filipovski.net",
+        "score": 90,
+        "descendants": 38,
+        "by": "afilipovski",
         "tags": [],
-        "summary": "开发者反映Google Play应用审核周期显著延长，已成为困扰独立开发者的主要问题。"
+        "summary": "深入分析为何看似基础的备份任务在实际工程中存在极高的复杂性。"
       },
       {
-        "id": 49717558,
-        "title": "Introducing System One Models and Jev",
-        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "domain": "typesafe.ai",
-        "score": 1660,
-        "descendants": 456,
-        "by": "albelfio",
+        "id": 49729000,
+        "title": "Small programming tricks",
+        "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+        "domain": "will-keleher.com",
+        "score": 406,
+        "descendants": 184,
+        "by": "signa11",
+        "tags": [],
+        "summary": "汇集了一系列实用的编程技巧，旨在提升日常代码编写效率。"
+      },
+      {
+        "id": 49719596,
+        "title": "The engineering behind the US Strategic Petroleum Reserve",
+        "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+        "domain": "johnjwang.com",
+        "score": 111,
+        "descendants": 37,
+        "by": "johnjwang",
+        "tags": [],
+        "summary": "详细解析美国战略石油储备库背后的工程设计与运作逻辑。"
+      },
+      {
+        "id": 49734264,
+        "title": "OpenSpec – A lightweight and configurable AI spec framework",
+        "url": "https://openspec.dev/",
+        "domain": "openspec.dev",
+        "score": 71,
+        "descendants": 26,
+        "by": "etoxin",
         "tags": [
           "AI"
         ],
-        "summary": "探讨了System One模型及Jev架构，旨在构建更具逻辑推理能力的AI系统。"
+        "summary": "介绍一个轻量级且高度可配置的AI规范框架OpenSpec。"
       },
       {
-        "id": 49711544,
-        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "url": "https://github.com/arnegiacomo/fugleramme",
-        "domain": "github.com",
-        "score": 1838,
-        "descendants": 219,
-        "by": "arnemunthekaas",
+        "id": 49700153,
+        "title": "Developing provably correct Rust code with Verus",
+        "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+        "domain": "amazon.science",
+        "score": 17,
+        "descendants": 0,
+        "by": "Betelbuddy",
         "tags": [
-          "Show HN"
+          "Rust"
         ],
-        "summary": "一个能够捕捉鸟鸣并实时将其转化为19世纪风格插画的电子墨水屏艺术装置。"
+        "summary": "探讨如何利用Verus工具在Rust中开发经过形式化验证的正确代码。"
       },
       {
-        "id": 49726586,
-        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-        "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-        "domain": "wired.com",
-        "score": 195,
-        "descendants": 87,
-        "by": "driverdan",
-        "tags": [
-          "Security"
-        ],
-        "summary": "黑客入侵Flock监控摄像头后揭露了该系统的底层数据结构与工作原理。"
-      },
-      {
-        "id": 49712185,
-        "title": "How Big Are Factorials?",
-        "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-        "domain": "eli.thegreenplace.net",
-        "score": 20,
-        "descendants": 10,
-        "by": "ibobev",
+        "id": 49711424,
+        "title": "Performance Improvements in .NET 11",
+        "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+        "domain": "devblogs.microsoft.com",
+        "score": 180,
+        "descendants": 34,
+        "by": "soheilpro",
         "tags": [],
-        "summary": "通过数学角度探讨阶乘增长的规模及其在计算领域中的表现。"
-      },
-      {
-        "id": 49721322,
-        "title": "Apple Reference Image: A New Approach for Verified Photography",
-        "url": "https://security.apple.com/blog/apple-reference-image/",
-        "domain": "security.apple.com",
-        "score": 404,
-        "descendants": 256,
-        "by": "imwally",
-        "tags": [],
-        "summary": "苹果发布用于验证照片真实性的新方案，旨在应对AI伪造图像带来的挑战。"
-      },
-      {
-        "id": 49710903,
-        "title": "Tell the speakers that you liked their talks",
-        "url": "https://ohhelloana.blog/tell-the-speakers/",
-        "domain": "ohhelloana.blog",
-        "score": 38,
-        "descendants": 10,
-        "by": "whisper2020",
-        "tags": [],
-        "summary": "呼吁参会者积极向演讲者表达反馈，建立良好的学术与技术分享社区文化。"
-      },
-      {
-        "id": 49689062,
-        "title": "Douglas Adams and the exterminated Doctor Who adventure",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-        "domain": "bbc.co.uk",
-        "score": 52,
-        "descendants": 36,
-        "by": "6LLvveMx2koXfwn",
-        "tags": [],
-        "summary": "揭秘道格拉斯·亚当斯曾参与但最终被废弃的《神秘博士》剧集创作往事。"
+        "summary": "微软官方博客总结.NET 11版本带来的各项核心性能优化细节。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "arxiv.org",
+          "domain": "developer.nvidia.com",
           "count": 1
         },
         {
-          "domain": "mistral.ai",
+          "domain": "rohanbansal.com",
           "count": 1
         },
         {
-          "domain": "gultsch.social",
+          "domain": "mimo.xiaomi.com",
           "count": 1
         }
       ],
-      "avg_score": 484,
+      "avg_score": 200,
       "max_score": {
-        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "score": 1838
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "score": 407
       },
       "most_discussed": {
-        "title": "Introducing System One Models and Jev",
-        "comments": 456
+        "title": "Small programming tricks",
+        "comments": 184
       },
       "hot_tags": [
         "AI",
-        "Show HN",
-        "Security"
+        "Rust",
+        "Hardware",
+        "Database"
       ]
     },
-    "summary": "本期Hacker News焦点集中于前沿人工智能技术与安全隐私挑战，涵盖了自进化模型、大模型浏览器集成及苹果的摄影验证方案。此外，社区关注点还延伸至移动应用生态的审核痛点、监控系统数据安全及独特的创意硬件项目。"
+    "summary": "今日Hacker News重点关注AI技术迭代与系统底层优化，包括大语言模型架构创新、高性能数据处理方案及编程语言的深度应用。开发者群体对Rust在高性能计算领域的拓展，以及提升数据库查询与系统性能的工程化手段表现出浓厚兴趣。"
   }
 }
