@@ -315,5 +315,157 @@
       ]
     },
     "summary": "本期Hacker News热点聚焦于高性能计算与AI技术的深度交叉，包括新型AI压缩架构、语言模型创新及安全审计。同时，底层架构优化及数字搜索工具的开发也成为讨论重点，展现了技术社区从软件工程底层到前沿人工智能应用的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-09-18 23:42",
+    "stories": [
+      {
+        "id": 49754785,
+        "title": "Cloudflare Quick Tunnels",
+        "url": "https://try.cloudflare.com/",
+        "domain": "try.cloudflare.com",
+        "score": 47,
+        "descendants": 23,
+        "by": "jcbhmr",
+        "tags": [],
+        "summary": "Cloudflare推出的Quick Tunnels服务，简化了快速创建本地隧道连接的过程。"
+      },
+      {
+        "id": 49753878,
+        "title": "An Empirical Study of Harness Design for Coding Agents",
+        "url": "https://arxiv.org/abs/2609.20804",
+        "domain": "arxiv.org",
+        "score": 119,
+        "descendants": 20,
+        "by": "wek",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一篇关于如何科学评测与设计AI编码代理（Coding Agents）框架的研究论文。"
+      },
+      {
+        "id": 49755160,
+        "title": "North Korean nuclear test sets off years of earthquakes",
+        "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+        "domain": "science.org",
+        "score": 27,
+        "descendants": 10,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "科学研究表明，朝鲜的核试验引发了后续数年的地震活动。"
+      },
+      {
+        "id": 49746406,
+        "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+        "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+        "domain": "sandordargo.com",
+        "score": 29,
+        "descendants": 22,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "C++26标准迎来调整，明确将平凡的无限循环不再视为未定义行为（UB）。"
+      },
+      {
+        "id": 49754823,
+        "title": "BeanShell3 in Development",
+        "url": "https://beanshell.github.io/home.html",
+        "domain": "beanshell.github.io",
+        "score": 10,
+        "descendants": 4,
+        "by": "jimjag",
+        "tags": [],
+        "summary": "经典的Java动态脚本语言BeanShell进入第3版开发阶段。"
+      },
+      {
+        "id": 49753179,
+        "title": "Bend 2 and the Vibe-Coding Trap",
+        "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+        "domain": "blog.liampwll.com",
+        "score": 267,
+        "descendants": 184,
+        "by": "LiamPowell",
+        "tags": [],
+        "summary": "深入解析Bend 2编程语言及其在当下所谓“氛围编程”（Vibe-coding）趋势中的陷阱。"
+      },
+      {
+        "id": 49752041,
+        "title": "OpenJev",
+        "url": "https://openjev.com/",
+        "domain": "openjev.com",
+        "score": 324,
+        "descendants": 187,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "介绍开源项目OpenJev，关注相关领域的特定功能或技术实现。"
+      },
+      {
+        "id": 49721507,
+        "title": "The Shadows Lurking in the Equations – Underwater Islands",
+        "url": "https://gods.art/articles/equation_shadows",
+        "domain": "gods.art",
+        "score": 38,
+        "descendants": 6,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "探索数学方程背后隐藏的地理或物理现象，通过艺术视角展示海底岛屿的研究。"
+      },
+      {
+        "id": 49753211,
+        "title": "I don't like passkeys",
+        "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "domain": "hawksley.dev",
+        "score": 384,
+        "descendants": 354,
+        "by": "ethanhawksley",
+        "tags": [],
+        "summary": "作者详细阐述了为何对当前主流的Passkeys无密码验证技术持有保留态度。"
+      },
+      {
+        "id": 49755312,
+        "title": "Show HN: Rickub – The Smartest Git in the Universe",
+        "url": "https://rickub.com/",
+        "domain": "rickub.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "ssaboum",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Show HN项目：推出Rickub，自称是目前最智能的Git版本控制工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "try.cloudflare.com",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "science.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 125,
+      "max_score": {
+        "title": "I don't like passkeys",
+        "score": 384
+      },
+      "most_discussed": {
+        "title": "I don't like passkeys",
+        "comments": 354
+      },
+      "hot_tags": [
+        "Science",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热点主要集中在编程语言演进、AI开发辅助工具以及网络安全与身份验证的争议。社区深度关注代码助手测评、C++标准修订及Passkeys方案的局限性，显示出开发者对于底层技术规范与实用工具效率的持续探讨。"
   }
 }
