@@ -161,5 +161,159 @@
       ]
     },
     "summary": "本期Hacker News聚焦于高性能计算与人工智能基础设施的快速演进，从新型压缩算法、内存安全编程语言到定制化CPU架构，展示了开发者对极致算力效率和数据隐私的持续追求。此外，跨平台开发工具与前沿科学发现也为技术生态带来了多元化的关注点。"
+  },
+  "noon": {
+    "time": "2026-09-18 16:34",
+    "stories": [
+      {
+        "id": 49750152,
+        "title": "Jemalloc 5.4.0",
+        "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "domain": "github.com",
+        "score": 98,
+        "descendants": 22,
+        "by": "gkfasdfasdf",
+        "tags": [],
+        "summary": "内存分配库Jemalloc发布5.4.0版本，带来一系列性能优化与改进。"
+      },
+      {
+        "id": 49745940,
+        "title": "Astra for Law",
+        "url": "https://openai.com/index/astra-for-law/",
+        "domain": "openai.com",
+        "score": 468,
+        "descendants": 498,
+        "by": "vertigoruntime",
+        "tags": [],
+        "summary": "OpenAI推出的Astra for Law旨在利用大模型技术提升法律行业的数字化与自动化水平。"
+      },
+      {
+        "id": 49750094,
+        "title": "The scourge of x86 emulation",
+        "url": "https://fex-emu.com/Scourge-of-emulation/",
+        "domain": "fex-emu.com",
+        "score": 98,
+        "descendants": 11,
+        "by": "dagmx",
+        "tags": [],
+        "summary": "深度解析x86指令集模拟技术在现代异构计算环境下面临的挑战与复杂性。"
+      },
+      {
+        "id": 49746618,
+        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "url": "https://prismml.com/news/bonsai-2-27b",
+        "domain": "prismml.com",
+        "score": 413,
+        "descendants": 119,
+        "by": "JonSchneider",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Bend编程语言利用形式化证明技术，在CPU与GPU上构建能有效防范AI逻辑错误的开发环境。"
+      },
+      {
+        "id": 49746163,
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "url": "https://bend-lang.com/",
+        "domain": "bend-lang.com",
+        "score": 442,
+        "descendants": 205,
+        "by": "nicolas-siplis",
+        "tags": [
+          "AI",
+          "Systems",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49747925,
+        "title": "Qwen 3.8 Omni Flash",
+        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "domain": "qwen.ai",
+        "score": 195,
+        "descendants": 66,
+        "by": "jjcm",
+        "tags": [],
+        "summary": "Qwen 3.8 Omni Flash大模型发布，进一步刷新了模型在多模态与推理性能上的指标。"
+      },
+      {
+        "id": 49743097,
+        "title": "Hister: A private search engine for the pages you visit and the files you keep",
+        "url": "https://github.com/asciimoo/hister",
+        "domain": "github.com",
+        "score": 593,
+        "descendants": 161,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "Hister是一款开源隐私搜索引擎，支持对用户本地访问记录与文件进行高效检索。"
+      },
+      {
+        "id": 49749771,
+        "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+        "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+        "domain": "linguisticdiscovery.com",
+        "score": 68,
+        "descendants": 28,
+        "by": "axiologist",
+        "tags": [],
+        "summary": "语言学研究揭示了隐藏在古希腊语中的前希腊语底层结构，为探究古代语言演变提供新线索。"
+      },
+      {
+        "id": 49726614,
+        "title": "When the fractional part of a float fixes your shader",
+        "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+        "domain": "crocidb.com",
+        "score": 12,
+        "descendants": 0,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "探讨如何通过巧妙利用浮点数的余数部分来解决图形着色器中的渲染瑕疵。"
+      },
+      {
+        "id": 49749656,
+        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "domain": "hacktron.ai",
+        "score": 338,
+        "descendants": 129,
+        "by": "Handy-Man",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "技术复盘分析了攻击者如何利用堆溢出与SSO配置漏洞入侵OpenAI内部代码仓库。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "fex-emu.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 272,
+      "max_score": {
+        "title": "Hister: A private search engine for the pages you visit and the files you keep",
+        "score": 593
+      },
+      "most_discussed": {
+        "title": "Astra for Law",
+        "comments": 498
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热点聚焦于高性能计算与AI技术的深度交叉，包括新型AI压缩架构、语言模型创新及安全审计。同时，底层架构优化及数字搜索工具的开发也成为讨论重点，展现了技术社区从软件工程底层到前沿人工智能应用的广泛关注。"
   }
 }
