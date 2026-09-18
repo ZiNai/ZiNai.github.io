@@ -1,168 +1,165 @@
 {
   "morning": {
-    "time": "2026-09-18 00:06",
+    "time": "2026-09-18 09:55",
     "stories": [
+      {
+        "id": 49745940,
+        "title": "Astra for Law",
+        "url": "https://openai.com/index/astra-for-law/",
+        "domain": "openai.com",
+        "score": 315,
+        "descendants": 344,
+        "by": "vertigoruntime",
+        "tags": [],
+        "summary": "OpenAI发布Astra for Law，探索大语言模型在法律领域的专业应用与落地。"
+      },
+      {
+        "id": 49746618,
+        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "url": "https://prismml.com/news/bonsai-2-27b",
+        "domain": "prismml.com",
+        "score": 226,
+        "descendants": 71,
+        "by": "JonSchneider",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Bonsai 2 27B模型通过新型压缩技术，实现了在大幅减小体积的同时保持近乎无损的性能。"
+      },
+      {
+        "id": 49748954,
+        "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+        "url": "https://github.com/aardappel/goose/tree/master",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 7,
+        "by": "bobbydigitales",
+        "tags": [
+          "Rust",
+          "Systems"
+        ],
+        "summary": "Goose项目宣称在保持内存安全的前提下，运行速度超越了C++和Rust。"
+      },
+      {
+        "id": 49746163,
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "url": "https://bend-lang.com/",
+        "domain": "bend-lang.com",
+        "score": 283,
+        "descendants": 148,
+        "by": "nicolas-siplis",
+        "tags": [
+          "AI",
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "Bend编程语言引入形式化验证机制，旨在通过证明逻辑阻断AI生成的错误代码。"
+      },
+      {
+        "id": 49743097,
+        "title": "Hister: A private search engine for the pages you visit and the files you keep",
+        "url": "https://github.com/asciimoo/hister",
+        "domain": "github.com",
+        "score": 463,
+        "descendants": 135,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "Hister是一款本地化隐私搜索引擎，专门用于索引和搜索用户个人访问过的网页及本地文件。"
+      },
+      {
+        "id": 49726007,
+        "title": "Wax motor",
+        "url": "https://en.wikipedia.org/wiki/Wax_motor",
+        "domain": "en.wikipedia.org",
+        "score": 244,
+        "descendants": 47,
+        "by": "mhb",
+        "tags": [],
+        "summary": "维基百科科普：介绍蜡驱动器（Wax motor）的工作原理及其在工业控制中的独特应用。"
+      },
       {
         "id": 49715813,
         "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
         "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
         "domain": "global.fujitsu",
-        "score": 240,
-        "descendants": 86,
+        "score": 516,
+        "descendants": 195,
         "by": "my123",
         "tags": [
           "Systems"
         ],
-        "summary": "富士通推出日本本土制造的新一代高性能CPU“FUJITSU-MONAKA”，旨在提升能效表现。"
+        "summary": "富士通推出日本制造的下一代高性能CPU“FUJITSU-MONAKA”，剑指高性能计算领域。"
       },
       {
-        "id": 49742353,
-        "title": "Rate limits on GitLab.com are changing",
-        "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-        "domain": "about.gitlab.com",
-        "score": 23,
-        "descendants": 8,
-        "by": "darkwater",
-        "tags": [
-          "Open Source"
-        ],
-        "summary": "GitLab.com宣布更新其速率限制策略，提醒用户关注API调用额度变化。"
-      },
-      {
-        "id": 49742437,
-        "title": "LLM Classification Is Feature Engineering",
-        "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-        "domain": "minimallysufficient.com",
-        "score": 13,
-        "descendants": 1,
-        "by": "minsufficient",
-        "tags": [
-          "AI"
-        ],
-        "summary": "文章讨论将LLM分类视为一种特征工程手段，以优化数据处理与建模流程。"
-      },
-      {
-        "id": 49737849,
-        "title": "One Year of Sponsored Servo Development",
-        "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "domain": "servo.org",
-        "score": 270,
-        "descendants": 113,
-        "by": "AshleysBrain",
+        "id": 49747925,
+        "title": "Alibaba releases Qwen 3.8 Omni Flash",
+        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "domain": "qwen.ai",
+        "score": 19,
+        "descendants": 2,
+        "by": "jjcm",
         "tags": [],
-        "summary": "Servo浏览器引擎回顾了一年来的赞助开发成果及未来的技术路线图。"
+        "summary": "阿里巴巴发布Qwen 3.8 Omni Flash模型，进一步扩充其Qwen系列模型阵营。"
       },
       {
-        "id": 49742021,
-        "title": "Artificial intelligence now beats some of the best human forecasters",
-        "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
-        "domain": "economist.com",
-        "score": 15,
-        "descendants": 6,
-        "by": "ddp26",
+        "id": 49746290,
+        "title": "Flet 1.0 – Build cross-platform apps in Python",
+        "url": "https://flet.dev/",
+        "domain": "flet.dev",
+        "score": 59,
+        "descendants": 30,
+        "by": "absqueued",
         "tags": [
-          "Hardware"
+          "Python"
         ],
-        "summary": "《经济学人》指出人工智能在预测任务中已展现出超越顶尖人类专家的能力。"
+        "summary": "Flet 1.0正式发布，支持开发者仅使用Python即可快速构建跨平台应用程序。"
       },
       {
-        "id": 49742233,
-        "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-        "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
-        "domain": "asiaai.fyi",
-        "score": 11,
-        "descendants": 12,
-        "by": "ghernando",
-        "tags": [
-          "AI"
-        ],
-        "summary": "深度分析指出OpenAI的AI对齐框架可能是一种试图引导全球AI监管方向的战术举措。"
-      },
-      {
-        "id": 49737787,
-        "title": "CCC invites all model citizens to 40C3",
-        "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-        "domain": "events.ccc.de",
-        "score": 197,
-        "descendants": 53,
-        "by": "antonly",
+        "id": 49710447,
+        "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+        "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+        "domain": "sci.news",
+        "score": 28,
+        "descendants": 19,
+        "by": "embedding-shape",
         "tags": [
           "AI"
         ],
-        "summary": "德国混沌通信大会（CCC）正式发出邀请，诚邀各界参与即将在汉堡举办的第40届年度盛会。"
-      },
-      {
-        "id": 49724881,
-        "title": "Nvidia announces native GPU programming in Rust",
-        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "domain": "developer.nvidia.com",
-        "score": 874,
-        "descendants": 345,
-        "by": "nonmaskable",
-        "tags": [
-          "Rust",
-          "Hardware"
-        ],
-        "summary": "Nvidia正式发布了支持Rust语言的本地GPU编程工具，大幅降低了高性能计算的开发门槛。"
-      },
-      {
-        "id": 49718773,
-        "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-        "url": "https://jakeasmith.com/blog/http-build-url/",
-        "domain": "jakeasmith.com",
-        "score": 257,
-        "descendants": 66,
-        "by": "jakeasmith",
-        "tags": [],
-        "summary": "一名开发者决定弃用自己2014年发布的PHP临时修复补丁，该补丁目前已拥有近2000万次安装量。"
-      },
-      {
-        "id": 49740105,
-        "title": "Show HN: Share your AI Setup, Learn from others",
-        "url": "https://mysetup.ai/",
-        "domain": "mysetup.ai",
-        "score": 41,
-        "descendants": 20,
-        "by": "steveybrown",
-        "tags": [
-          "AI",
-          "Show HN"
-        ],
-        "summary": "一个展示并交流个人AI开发环境与配置方案的Show HN分享平台。"
+        "summary": "古生物学新发现：此前被认为仅存在于美洲的梁龙化石在西班牙被发现。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "global.fujitsu",
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "about.gitlab.com",
-          "count": 1
-        },
-        {
-          "domain": "minimallysufficient.com",
+          "domain": "prismml.com",
           "count": 1
         }
       ],
-      "avg_score": 194,
+      "avg_score": 218,
       "max_score": {
-        "title": "Nvidia announces native GPU programming in Rust",
-        "score": 874
+        "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+        "score": 516
       },
       "most_discussed": {
-        "title": "Nvidia announces native GPU programming in Rust",
-        "comments": 345
+        "title": "Astra for Law",
+        "comments": 344
       },
       "hot_tags": [
         "AI",
-        "Hardware",
         "Systems",
-        "Open Source",
-        "Rust"
+        "Rust",
+        "Hardware",
+        "Python"
       ]
     },
-    "summary": "本期Hacker News聚焦人工智能与底层技术的交叉演进，从Nvidia的Rust GPU编程支持到Fujitsu新一代CPU的发布，显示了硬核计算领域对AI赋能的深度渴求。同时，社区对AI治理架构的批判性思考及开源软件维护周期的反思，也反映了技术开发者在快速迭代背景下的现实困境。"
+    "summary": "本期Hacker News聚焦于高性能计算与人工智能基础设施的快速演进，从新型压缩算法、内存安全编程语言到定制化CPU架构，展示了开发者对极致算力效率和数据隐私的持续追求。此外，跨平台开发工具与前沿科学发现也为技术生态带来了多元化的关注点。"
   }
 }
