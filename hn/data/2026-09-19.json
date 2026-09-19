@@ -140,5 +140,160 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-09-19 16:21",
+    "stories": [
+      {
+        "id": 49763697,
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "domain": "med.stanford.edu",
+        "score": 151,
+        "descendants": 46,
+        "by": "emigre",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "斯坦福大学研究表明，人脑可能由两个独立的器官组成，挑战了传统的神经科学认知。"
+      },
+      {
+        "id": 49763987,
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "domain": "prinzai.com",
+        "score": 63,
+        "descendants": 25,
+        "by": "nsoonhui",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GPT-6 Astra在破解一战时期德国无线电加密通信方面的实验性表现。"
+      },
+      {
+        "id": 49763928,
+        "title": "If math is more than proof, we need to better celebrate the rest of it",
+        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+        "domain": "terrytao.wordpress.com",
+        "score": 48,
+        "descendants": 21,
+        "by": "num42",
+        "tags": [],
+        "summary": "数学家陶哲轩呼吁在学术界应更多地去庆贺数学中非证明部分的创造性价值。"
+      },
+      {
+        "id": 49763296,
+        "title": "San Francisco Onion Futures Company",
+        "url": "https://onionfutures.com/",
+        "domain": "onionfutures.com",
+        "score": 163,
+        "descendants": 59,
+        "by": "z-mach9",
+        "tags": [],
+        "summary": "回顾旧金山洋葱期货公司的历史，剖析其商业运作模式与市场影响。"
+      },
+      {
+        "id": 49758736,
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "domain": "grapheneos.social",
+        "score": 795,
+        "descendants": 387,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "Android 17被指在不向AOSP开源的情况下新增API，引发了开发者对Android生态封闭化的担忧。"
+      },
+      {
+        "id": 49733647,
+        "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+        "url": "https://github.com/awlevin/typesafe-computer-use",
+        "domain": "github.com",
+        "score": 70,
+        "descendants": 33,
+        "by": "rahimnathwani",
+        "tags": [],
+        "summary": "展示了通过类型安全计算机使用技术，以极低成本驱动Mac执行复杂目标的实验。"
+      },
+      {
+        "id": 49762687,
+        "title": "Science Is Open Software",
+        "url": "https://jepedersen.dk/blog/202505_research/",
+        "domain": "jepedersen.dk",
+        "score": 78,
+        "descendants": 31,
+        "by": "jegp",
+        "tags": [
+          "Science"
+        ],
+        "summary": "文章论述了科学研究应如何拥抱开源软件，以提高实验的可重复性与透明度。"
+      },
+      {
+        "id": 49762744,
+        "title": "SDCC – Small Device C Compiler",
+        "url": "https://sdcc.sourceforge.net/",
+        "domain": "sdcc.sourceforge.net",
+        "score": 68,
+        "descendants": 15,
+        "by": "lioeters",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了SDCC（小型设备C编译器），一款专注于微控制器和嵌入式系统的编译器套件。"
+      },
+      {
+        "id": 49754785,
+        "title": "Cloudflare Quick Tunnels",
+        "url": "https://try.cloudflare.com/",
+        "domain": "try.cloudflare.com",
+        "score": 689,
+        "descendants": 275,
+        "by": "jcbhmr",
+        "tags": [],
+        "summary": "Cloudflare推出的Quick Tunnels功能，简化了开发者的网络隧道配置与部署流程。"
+      },
+      {
+        "id": 49730069,
+        "title": "You can run Git on object storage if you re-make packfiles",
+        "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+        "domain": "tigrisdata.com",
+        "score": 33,
+        "descendants": 9,
+        "by": "evacchi",
+        "tags": [],
+        "summary": "探讨通过重建packfiles技术，实现将Git仓库直接托管在对象存储系统上的可行方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "med.stanford.edu",
+          "count": 1
+        },
+        {
+          "domain": "prinzai.com",
+          "count": 1
+        },
+        {
+          "domain": "terrytao.wordpress.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 216,
+      "max_score": {
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "score": 795
+      },
+      "most_discussed": {
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "comments": 387
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了生物学、人工智能及计算机底层技术的广泛探讨，研究者们正在重新审视大脑结构与数学发现的本质。同时，开发者社区对Android系统架构、开源工具生态及边缘计算技术的演进表现出高度关注。"
   }
 }
