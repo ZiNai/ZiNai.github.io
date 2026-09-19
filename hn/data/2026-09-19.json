@@ -1,0 +1,144 @@
+{
+  "morning": {
+    "time": "2026-09-19 09:59",
+    "stories": [
+      {
+        "id": 49758736,
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "domain": "grapheneos.social",
+        "score": 541,
+        "descendants": 263,
+        "by": "theanonymousone",
+        "tags": []
+      },
+      {
+        "id": 49754785,
+        "title": "Cloudflare Quick Tunnels",
+        "url": "https://try.cloudflare.com/",
+        "domain": "try.cloudflare.com",
+        "score": 578,
+        "descendants": 250,
+        "by": "jcbhmr",
+        "tags": []
+      },
+      {
+        "id": 49758580,
+        "title": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "domain": "blog.cloudflare.com",
+        "score": 228,
+        "descendants": 43,
+        "by": "f311a",
+        "tags": []
+      },
+      {
+        "id": 49744036,
+        "title": "The Farnese letter",
+        "url": "https://simonklee.dk/farnese-letter",
+        "domain": "simonklee.dk",
+        "score": 27,
+        "descendants": 5,
+        "by": "grigolin",
+        "tags": []
+      },
+      {
+        "id": 49758419,
+        "title": "Xcode 27.1 Beta Release Notes",
+        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+        "domain": "developer.apple.com",
+        "score": 113,
+        "descendants": 68,
+        "by": "CameronBanga",
+        "tags": []
+      },
+      {
+        "id": 49747070,
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "domain": "sockpuppet.org",
+        "score": 391,
+        "descendants": 270,
+        "by": "joeriddles",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49757050,
+        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+        "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+        "domain": "donjon.ledger.com",
+        "score": 157,
+        "descendants": 53,
+        "by": "synack",
+        "tags": []
+      },
+      {
+        "id": 49748553,
+        "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+        "url": "https://cactuscompute.com/needle",
+        "domain": "cactuscompute.com",
+        "score": 164,
+        "descendants": 78,
+        "by": "HenryNdubuaku",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49758615,
+        "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+        "url": "https://arxiv.org/abs/2510.03215",
+        "domain": "arxiv.org",
+        "score": 66,
+        "descendants": 12,
+        "by": "rochansinha",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49744704,
+        "title": "The first new cat species discovered in 100 years",
+        "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+        "domain": "nationalgeographic.com",
+        "score": 171,
+        "descendants": 59,
+        "by": "ohjeez",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "grapheneos.social",
+          "count": 1
+        },
+        {
+          "domain": "try.cloudflare.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.cloudflare.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 244,
+      "max_score": {
+        "title": "Cloudflare Quick Tunnels",
+        "score": 578
+      },
+      "most_discussed": {
+        "title": "How to Write with an LLM",
+        "comments": 270
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": ""
+  }
+}
