@@ -150,5 +150,159 @@
       ]
     },
     "summary": "本期Hacker News焦点主要围绕人工智能技术的深度应用与治理展开，涵盖了OpenAI的数据隐私争议及开源模型保护等热点话题。同时，半导体行业产能激增与复古计算技术在数字时代的叙事也引发了社区的广泛关注与讨论。"
+  },
+  "evening": {
+    "time": "2026-09-21 17:23",
+    "stories": [
+      {
+        "id": 49783495,
+        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "domain": "gameshelf.jmac.org",
+        "score": 174,
+        "descendants": 30,
+        "by": "kelseyfrog",
+        "tags": [],
+        "summary": "《冥界狂想曲》的设计文档，揭示了这款经典冒险游戏背后的解谜逻辑。"
+      },
+      {
+        "id": 49783999,
+        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "url": "https://github.com/jaredpalmer/kev/tree/main",
+        "domain": "github.com",
+        "score": 64,
+        "descendants": 34,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Kev是一个基于Qwen3.5构建的轻量级决策模型族，旨在实现高效的判断逻辑。"
+      },
+      {
+        "id": 49780797,
+        "title": "AX – Google’s Open Agentic Orchestrator",
+        "url": "https://agentexecutor.io",
+        "domain": "agentexecutor.io",
+        "score": 481,
+        "descendants": 211,
+        "by": "blazarquasar",
+        "tags": [],
+        "summary": "Google开源了AX框架，旨在为开发者提供构建代理（Agentic）应用的编排工具。"
+      },
+      {
+        "id": 49778029,
+        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+        "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+        "domain": "en.sedaily.com",
+        "score": 466,
+        "descendants": 315,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "行业消息显示三星正积极扩张HBM4及HBM4E内存产能，以应对算力芯片的需求激增。"
+      },
+      {
+        "id": 49780820,
+        "title": "What happened to the Snowden archive",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "domain": "libroot.org",
+        "score": 437,
+        "descendants": 280,
+        "by": "EXHades",
+        "tags": [],
+        "summary": "深入探讨斯诺登泄密文件档案的现状及其在当前数字环境下的流转与保存问题。"
+      },
+      {
+        "id": 49775499,
+        "title": "Qwen Image 2.1",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "domain": "qwen.ai",
+        "score": 645,
+        "descendants": 171,
+        "by": "jmillikin",
+        "tags": [],
+        "summary": "Qwen团队发布Image 2.1，展示了在图像生成和多模态理解能力上的最新技术突破。"
+      },
+      {
+        "id": 49768336,
+        "title": "The Effect of CRTs on Pixel Art (2024)",
+        "url": "https://datagubbe.se/crt/",
+        "domain": "datagubbe.se",
+        "score": 210,
+        "descendants": 70,
+        "by": "tobr",
+        "tags": [],
+        "summary": "分析CRT显示器特有的显示机制如何重塑了复古像素艺术的视觉体验。"
+      },
+      {
+        "id": 49783133,
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "domain": "github.com",
+        "score": 58,
+        "descendants": 12,
+        "by": "volotat",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "Mini-AGI项目展示了一个仅需8GB显存即可运行的动态持续学习模型。"
+      },
+      {
+        "id": 49781436,
+        "title": "Amiga Unix, Again",
+        "url": "https://amigaux.org/",
+        "domain": "amigaux.org",
+        "score": 96,
+        "descendants": 29,
+        "by": "doener",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨曾被遗忘的Amiga Unix系统的历史背景及其在现代复古计算圈的再次兴起。"
+      },
+      {
+        "id": 49772961,
+        "title": "Spain orders blocks on Archive.today and its mirrors",
+        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "domain": "reclaimthenet.org",
+        "score": 415,
+        "descendants": 296,
+        "by": "latein",
+        "tags": [
+          "AI"
+        ],
+        "summary": "西班牙监管机构下令封锁Archive.today及其镜像网站，引发关于信息访问权的争议。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "gameshelf.jmac.org",
+          "count": 1
+        },
+        {
+          "domain": "agentexecutor.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 305,
+      "max_score": {
+        "title": "Qwen Image 2.1",
+        "score": 645
+      },
+      "most_discussed": {
+        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+        "comments": 315
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News聚焦人工智能前沿进展，包括Google推出的Agentic框架、轻量级决策模型及图像生成技术。此外，行业动态关注HBM内存产能的扩张以及互联网信息审查与档案保存议题的持续发酵。"
   }
 }
