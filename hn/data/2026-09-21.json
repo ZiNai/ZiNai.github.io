@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-09-21 10:04",
+    "stories": [
+      {
+        "id": 49780797,
+        "title": "Google's Open Agentic Orchestrator",
+        "url": "https://agentexecutor.io",
+        "domain": "agentexecutor.io",
+        "score": 205,
+        "descendants": 87,
+        "by": "blazarquasar",
+        "tags": [],
+        "summary": "Google推出开源Agentic Orchestrator，旨在简化智能体任务编排流程。"
+      },
+      {
+        "id": 49780820,
+        "title": "What happened to the Snowden archive",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "domain": "libroot.org",
+        "score": 172,
+        "descendants": 73,
+        "by": "EXHades",
+        "tags": [],
+        "summary": "深入探讨斯诺登揭秘文档的后续流传路径及数字归档现状。"
+      },
+      {
+        "id": 49778029,
+        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+        "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+        "domain": "en.sedaily.com",
+        "score": 353,
+        "descendants": 227,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "三星计划大幅提升下一代HBM4和HBM4E高带宽内存的生产产能。"
+      },
+      {
+        "id": 49776729,
+        "title": "ChatGPT now knows what you do on other websites via ad collector",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+        "domain": "buchodi.com",
+        "score": 607,
+        "descendants": 321,
+        "by": "lmbbuchodi",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "分析指出ChatGPT通过广告收集机制获取用户跨站访问数据的隐私隐忧。"
+      },
+      {
+        "id": 49781436,
+        "title": "Amiga Unix, Again",
+        "url": "https://amigaux.org/",
+        "domain": "amigaux.org",
+        "score": 19,
+        "descendants": 6,
+        "by": "doener",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾Amiga Unix操作系统的历史意义及其在现代的复刻尝试。"
+      },
+      {
+        "id": 49775499,
+        "title": "Qwen Image 2.1",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "domain": "qwen.ai",
+        "score": 503,
+        "descendants": 152,
+        "by": "jmillikin",
+        "tags": [],
+        "summary": "介绍阿里巴巴开源的Qwen Image 2.1多模态模型及其视觉表现提升。"
+      },
+      {
+        "id": 49768336,
+        "title": "The Effect of CRTs on Pixel Art (2024)",
+        "url": "https://datagubbe.se/crt/",
+        "domain": "datagubbe.se",
+        "score": 97,
+        "descendants": 23,
+        "by": "tobr",
+        "tags": [],
+        "summary": "探究CRT显示器特性如何重塑像素艺术的美学表现与视觉体验。"
+      },
+      {
+        "id": 49776699,
+        "title": "Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co/",
+        "domain": "pirateface.co",
+        "score": 453,
+        "descendants": 134,
+        "by": "skepticalgenius",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Pirate Face项目通过数据存档与分发机制保护面临删除风险的AI模型。"
+      },
+      {
+        "id": 49780630,
+        "title": "Bill to Ban Private Equity from Owning Medical Practices",
+        "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+        "domain": "truthout.org",
+        "score": 265,
+        "descendants": 169,
+        "by": "paimapi",
+        "tags": [],
+        "summary": "讨论美国议案提议禁止私募股权机构持有医疗诊所所有权的影响。"
+      },
+      {
+        "id": 49776717,
+        "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+        "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+        "domain": "gadgetreview.com",
+        "score": 181,
+        "descendants": 78,
+        "by": "geox",
+        "tags": [],
+        "summary": "新加坡国家图书馆通过微支付机制激励用户培养日常阅读习惯。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "agentexecutor.io",
+          "count": 1
+        },
+        {
+          "domain": "libroot.org",
+          "count": 1
+        },
+        {
+          "domain": "en.sedaily.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 286,
+      "max_score": {
+        "title": "ChatGPT now knows what you do on other websites via ad collector",
+        "score": 607
+      },
+      "most_discussed": {
+        "title": "ChatGPT now knows what you do on other websites via ad collector",
+        "comments": 321
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点主要围绕人工智能技术的深度应用与治理展开，涵盖了OpenAI的数据隐私争议及开源模型保护等热点话题。同时，半导体行业产能激增与复古计算技术在数字时代的叙事也引发了社区的广泛关注与讨论。"
+  }
+}
