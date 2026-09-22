@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-09-23 00:09",
+    "stories": [
+      {
+        "id": 49802871,
+        "title": "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
+        "url": "https://mouse.dev/blog/muse-runtime-export/",
+        "domain": "mouse.dev",
+        "score": 78,
+        "descendants": 39,
+        "by": "Aeroi",
+        "tags": [],
+        "summary": "通过深度剖析Meta Muse的6.8GB文件系统，揭示其背后的技术架构与工作原理。"
+      },
+      {
+        "id": 49801324,
+        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "domain": "cryptocellar.org",
+        "score": 224,
+        "descendants": 231,
+        "by": "sohkamyung",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI的GPT-6 Astra成功破解了自2005年以来一直未被解决的Enigma加密信息。"
+      },
+      {
+        "id": 49801939,
+        "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+        "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+        "domain": "techradar.com",
+        "score": 228,
+        "descendants": 148,
+        "by": "MC995",
+        "tags": [],
+        "summary": "分析苹果在iOS系统中引入持久性广告的举措及其引发的用户强烈不满。"
+      },
+      {
+        "id": 49801329,
+        "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+        "url": "https://droprun.sh/",
+        "domain": "droprun.sh",
+        "score": 73,
+        "descendants": 19,
+        "by": "mixedbit",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "介绍一款支持gVisor的无根（rootless）Linux沙箱工具Drop。"
+      },
+      {
+        "id": 49802160,
+        "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
+        "url": "https://github.com/Amal-David/awesome-jev",
+        "domain": "github.com",
+        "score": 56,
+        "descendants": 11,
+        "by": "frostbyte7",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "汇总了社交媒体上的Jev演示、实用工具及相关生态集成资源。"
+      },
+      {
+        "id": 49797323,
+        "title": "Can gzip be a language model?",
+        "url": "https://nathan.rs/posts/gzip-lm/",
+        "domain": "nathan.rs",
+        "score": 309,
+        "descendants": 119,
+        "by": "networked",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨压缩算法gzip是否具备成为语言模型的可能性，以及背后的理论基础。"
+      },
+      {
+        "id": 49794193,
+        "title": "Solitaire Alone Together",
+        "url": "https://solitairealonetogether.com/",
+        "domain": "solitairealonetogether.com",
+        "score": 24,
+        "descendants": 3,
+        "by": "eieio",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨单人纸牌游戏所折射出的社会连接与个人独处间的心理博弈。"
+      },
+      {
+        "id": 49792730,
+        "title": "MiMo v2.6",
+        "url": "https://mimo.xiaomi.com/mimo-v2-6",
+        "domain": "mimo.xiaomi.com",
+        "score": 1024,
+        "descendants": 456,
+        "by": "volf_",
+        "tags": [],
+        "summary": "小米发布MiMo 2.6版本，引发了技术社区的高度关注与大量讨论。"
+      },
+      {
+        "id": 49802161,
+        "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+        "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+        "domain": "arcturus-labs.com",
+        "score": 85,
+        "descendants": 69,
+        "by": "JohnBerryman",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨OpenAI的产品迭代如何对Jev等小型AI实验室构成直接的生存威胁。"
+      },
+      {
+        "id": 49794615,
+        "title": "Spymarks, Not Watermarks",
+        "url": "https://brand.io/article/spymarks/",
+        "domain": "brand.io",
+        "score": 603,
+        "descendants": 149,
+        "by": "possibilistic",
+        "tags": [],
+        "summary": "提出一种名为“间谍标记”而非传统水印的技术，用于数字内容的追踪与溯源。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mouse.dev",
+          "count": 1
+        },
+        {
+          "domain": "cryptocellar.org",
+          "count": 1
+        },
+        {
+          "domain": "techradar.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 270,
+      "max_score": {
+        "title": "MiMo v2.6",
+        "score": 1024
+      },
+      "most_discussed": {
+        "title": "MiMo v2.6",
+        "comments": 456
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News焦点集中于前沿人工智能的进展与争议，包括OpenAI模型能力的突破、Meta技术的深度解析及生成式AI的竞争格局。同时，系统级安全工具、苹果生态的广告策略及数据压缩与AI结合的跨界研究也引发了社区的广泛讨论。"
+  }
+}
