@@ -1,155 +1,155 @@
 {
   "morning": {
-    "time": "2026-09-22 01:44",
+    "time": "2026-09-22 10:10",
     "stories": [
+      {
+        "id": 49792730,
+        "title": "Xiaomi MiMo v2.6",
+        "url": "https://mimo.xiaomi.com/mimo-v2-6",
+        "domain": "mimo.xiaomi.com",
+        "score": 560,
+        "descendants": 283,
+        "by": "volf_",
+        "tags": [],
+        "summary": "小米发布 MiMo v2.6 更新，引发社区关于系统工具功能的探讨。"
+      },
+      {
+        "id": 49795579,
+        "title": "Claude Status – Elevated errors for multiple models",
+        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+        "domain": "status.claude.com",
+        "score": 57,
+        "descendants": 28,
+        "by": "corvad",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude 官方通报多个模型出现错误率升高的服务故障问题。"
+      },
+      {
+        "id": 49794615,
+        "title": "Spymarks, Not Watermarks",
+        "url": "https://brand.io/article/spymarks/",
+        "domain": "brand.io",
+        "score": 127,
+        "descendants": 31,
+        "by": "possibilistic",
+        "tags": [],
+        "summary": "探讨数字时代标识技术，呼吁关注更为隐蔽且有效的版权追踪手段。"
+      },
+      {
+        "id": 49794330,
+        "title": "I don't want to read what you didn't write",
+        "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+        "domain": "blog.colinbreck.com",
+        "score": 281,
+        "descendants": 104,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "作者通过个人博客反思，表达了对人工智能自动生成内容泛滥的厌倦与抵触。"
+      },
+      {
+        "id": 49792342,
+        "title": "Transformers Explained Visually",
+        "url": "https://poloclub.github.io/transformer-explainer/",
+        "domain": "poloclub.github.io",
+        "score": 211,
+        "descendants": 37,
+        "by": "aray07",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过可视化手段深入浅出地讲解 Transformer 模型的核心运作机制。"
+      },
       {
         "id": 49787436,
         "title": "What Sun got wrong",
         "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
         "domain": "bcantrill.dtrace.org",
-        "score": 292,
-        "descendants": 159,
+        "score": 503,
+        "descendants": 294,
         "by": "chmaynard",
         "tags": [],
-        "summary": "回顾Sun Microsystems的技术决策及其对后世系统设计的深远影响。"
+        "summary": "深入剖析 Sun Microsystems 曾经的战略失误，解读科技巨头衰落背后的历史经验。"
       },
       {
         "id": 49787726,
         "title": "Attention is all you have",
         "url": "https://alicegg.tech/2026/09/21/attention",
         "domain": "alicegg.tech",
-        "score": 216,
-        "descendants": 58,
+        "score": 588,
+        "descendants": 178,
         "by": "zer0tonin",
         "tags": [],
-        "summary": "深入解析注意力机制在现代AI架构中的核心地位及局限性。"
+        "summary": "对“Attention Is All You Need”论文的再审视，探讨 AI 技术发展的底层逻辑与局限。"
       },
       {
-        "id": 49788838,
-        "title": "Grok 4.7",
-        "url": "https://x.ai/news/grok-4-7",
-        "domain": "x.ai",
-        "score": 209,
-        "descendants": 157,
-        "by": "meetpateltech",
-        "tags": [],
-        "summary": "x.ai发布的最新版Grok 4.7模型，引发关于其性能与行业影响的讨论。"
-      },
-      {
-        "id": 49789224,
-        "title": "Fable 5 – Median thinking declined in August",
-        "url": "https://twitter.com/Lon/status/2101793422487204027",
-        "domain": "twitter.com",
-        "score": 103,
-        "descendants": 56,
-        "by": "espeed",
-        "tags": [],
-        "summary": "分析当前网络环境下，群体决策质量在特定时间段出现的下滑现象。"
-      },
-      {
-        "id": 49788773,
-        "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-        "url": "http://pdp1173.com/",
-        "domain": "pdp1173.com",
-        "score": 38,
-        "descendants": 12,
-        "by": "davepl",
-        "tags": [],
-        "summary": "技术博主展示了一台通过211BSD Unix运行并提供网页服务的古董PDP-11/83。"
-      },
-      {
-        "id": 49789228,
-        "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-        "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-        "domain": "spectrum.ieee.org",
-        "score": 21,
-        "descendants": 8,
-        "by": "SamuraiLion",
-        "tags": [],
-        "summary": "介绍一种能够向偏远地区发送数字信息的无线电技术。"
-      },
-      {
-        "id": 49787142,
-        "title": "Python Workers are now generally available",
-        "url": "https://blog.cloudflare.com/python-workers-ga/",
-        "domain": "blog.cloudflare.com",
-        "score": 71,
-        "descendants": 4,
-        "by": "torutofu",
+        "id": 49791939,
+        "title": "NASA’s Mars Sample Return mission is dead",
+        "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+        "domain": "science.org",
+        "score": 317,
+        "descendants": 251,
+        "by": "Muhammad523",
         "tags": [
-          "AI",
-          "Python"
+          "Science"
         ],
-        "summary": "Cloudflare正式推出Python Workers，支持在边缘节点直接运行Python代码。"
+        "summary": "NASA 火星样本取回任务因预算与技术困境宣告终止，引发对航天计划的讨论。"
       },
       {
-        "id": 49783999,
-        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-        "url": "https://github.com/jaredpalmer/kev/tree/main",
-        "domain": "github.com",
-        "score": 312,
-        "descendants": 147,
-        "by": "tosh",
+        "id": 49792067,
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "domain": "linear.app",
+        "score": 144,
+        "descendants": 143,
+        "by": "julian_digital",
         "tags": [
           "AI"
         ],
-        "summary": "介绍基于Qwen 3.5构建的轻量级决策模型框架Kev。"
+        "summary": "AI 辅助编码导致 CI 流水线成为瓶颈，Linear 分享其重构流水线的实战经验。"
       },
       {
-        "id": 49783495,
-        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-        "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-        "domain": "gameshelf.jmac.org",
-        "score": 326,
-        "descendants": 70,
-        "by": "kelseyfrog",
+        "id": 49769561,
+        "title": "Divide by depth for instant 3D",
+        "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+        "domain": "gabrieloc.com",
+        "score": 87,
+        "descendants": 9,
+        "by": "gabrieloc",
         "tags": [],
-        "summary": "一份1996年的珍贵文档，记录了经典游戏《冥界狂想曲》的谜题设计思路。"
-      },
-      {
-        "id": 49789356,
-        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-        "url": "https://github.com/naw103/foremerge",
-        "domain": "github.com",
-        "score": 16,
-        "descendants": 0,
-        "by": "foremerge",
-        "tags": [
-          "Show HN"
-        ],
-        "summary": "一款新工具，旨在解决多个AI编程代理同时工作时产生的代码意图冲突。"
+        "summary": "介绍一种利用深度信息实现快速 3D 转换的简便算法。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "github.com",
-          "count": 2
-        },
-        {
-          "domain": "bcantrill.dtrace.org",
+          "domain": "mimo.xiaomi.com",
           "count": 1
         },
         {
-          "domain": "alicegg.tech",
+          "domain": "status.claude.com",
+          "count": 1
+        },
+        {
+          "domain": "brand.io",
           "count": 1
         }
       ],
-      "avg_score": 160,
+      "avg_score": 288,
       "max_score": {
-        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-        "score": 326
+        "title": "Attention is all you have",
+        "score": 588
       },
       "most_discussed": {
         "title": "What Sun got wrong",
-        "comments": 159
+        "comments": 294
       },
       "hot_tags": [
         "AI",
-        "Python",
-        "Show HN"
+        "Science"
       ]
     },
-    "summary": "今日Hacker News热门话题涵盖了从系统工程、AI模型应用到复古计算技术的多元议题。开发者们热衷于讨论硬件恢复、新型AI代理架构以及软件领域的前沿实践，体现了硬核技术追求与人工智能创新的碰撞。"
+    "summary": "本期 Hacker News 焦点集中在人工智能技术的深入探讨与工程挑战，特别是大模型在开发流程和视觉表达上的应用。此外，关于科技产业发展史的深度反思以及重大航天工程的调整也引起了社区的广泛关注与讨论。"
   }
 }
