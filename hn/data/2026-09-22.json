@@ -151,5 +151,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能技术的深入探讨与工程挑战，特别是大模型在开发流程和视觉表达上的应用。此外，关于科技产业发展史的深度反思以及重大航天工程的调整也引起了社区的广泛关注与讨论。"
+  },
+  "noon": {
+    "time": "2026-09-22 16:52",
+    "stories": [
+      {
+        "id": 49797323,
+        "title": "Can gzip be a language model?",
+        "url": "https://nathan.rs/posts/gzip-lm/",
+        "domain": "nathan.rs",
+        "score": 93,
+        "descendants": 29,
+        "by": "networked",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨将Gzip压缩算法作为一种非传统语言模型的实验性思路。"
+      },
+      {
+        "id": 49792730,
+        "title": "MiMo v2.6",
+        "url": "https://mimo.xiaomi.com/mimo-v2-6",
+        "domain": "mimo.xiaomi.com",
+        "score": 880,
+        "descendants": 394,
+        "by": "volf_",
+        "tags": [],
+        "summary": "小米发布MiMo v2.6版本，进一步强化其智能硬件生态的性能与功能。"
+      },
+      {
+        "id": 49794615,
+        "title": "Spymarks, Not Watermarks",
+        "url": "https://brand.io/article/spymarks/",
+        "domain": "brand.io",
+        "score": 399,
+        "descendants": 101,
+        "by": "possibilistic",
+        "tags": [],
+        "summary": "探讨通过在数据中嵌入隐蔽标识而非传统水印来保护内容版权的技术方案。"
+      },
+      {
+        "id": 49787726,
+        "title": "Attention is all you have",
+        "url": "https://alicegg.tech/2026/09/21/attention",
+        "domain": "alicegg.tech",
+        "score": 787,
+        "descendants": 231,
+        "by": "zer0tonin",
+        "tags": [],
+        "summary": "深入解析Transformer架构，通过可视化手段简化对复杂注意力机制的理解。"
+      },
+      {
+        "id": 49792342,
+        "title": "Transformers Explained Visually",
+        "url": "https://poloclub.github.io/transformer-explainer/",
+        "domain": "poloclub.github.io",
+        "score": 388,
+        "descendants": 62,
+        "by": "aray07",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提供交互式视觉图解，帮助开发者直观理解Transformer模型的工作原理。"
+      },
+      {
+        "id": 49796660,
+        "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+        "domain": "artificialanalysis.ai",
+        "score": 52,
+        "descendants": 10,
+        "by": "theanonymousone",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "对MiMo v2.6 Pro在智能表现、计算性能及定价策略方面的深度评测。"
+      },
+      {
+        "id": 49787436,
+        "title": "What Sun got wrong",
+        "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "domain": "bcantrill.dtrace.org",
+        "score": 580,
+        "descendants": 330,
+        "by": "chmaynard",
+        "tags": [],
+        "summary": "回顾Sun Microsystems的技术遗产，深度解析该公司在发展过程中决策的成败得失。"
+      },
+      {
+        "id": 49794330,
+        "title": "I don't want to read what you didn't write",
+        "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+        "domain": "blog.colinbreck.com",
+        "score": 650,
+        "descendants": 246,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "呼吁在AI生成内容泛滥的时代，保持对人类原创思考与深度写作价值的坚持。"
+      },
+      {
+        "id": 49792067,
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "domain": "linear.app",
+        "score": 232,
+        "descendants": 250,
+        "by": "julian_digital",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享Linear如何优化CI流水线，以应对AI辅助编程导致的代码产出激增。"
+      },
+      {
+        "id": 49772263,
+        "title": "World Wide Words",
+        "url": "https://www.worldwidewords.org/genindex.html",
+        "domain": "worldwidewords.org",
+        "score": 13,
+        "descendants": 1,
+        "by": "Petiver",
+        "tags": [],
+        "summary": "介绍“世界英语单词”网站，探索语言演变背后的词源故事与文化背景。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "nathan.rs",
+          "count": 1
+        },
+        {
+          "domain": "mimo.xiaomi.com",
+          "count": 1
+        },
+        {
+          "domain": "brand.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 407,
+      "max_score": {
+        "title": "MiMo v2.6",
+        "score": 880
+      },
+      "most_discussed": {
+        "title": "MiMo v2.6",
+        "comments": 394
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中于AI生态的演进，涵盖了模型架构解析、AI开发对工程实践的冲击，以及技术领域对原创性与工具透明度的深度思辨。开发者们正积极探讨从模型底层原理到CI/CD流程优化等实战议题，整体呈现出理性评估AI应用落地的趋势。"
   }
 }
