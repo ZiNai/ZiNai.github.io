@@ -1,161 +1,159 @@
 {
   "morning": {
-    "time": "2026-09-23 00:09",
+    "time": "2026-09-23 10:10",
     "stories": [
       {
-        "id": 49802871,
-        "title": "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
-        "url": "https://mouse.dev/blog/muse-runtime-export/",
-        "domain": "mouse.dev",
-        "score": 78,
-        "descendants": 39,
-        "by": "Aeroi",
-        "tags": [],
-        "summary": "通过深度剖析Meta Muse的6.8GB文件系统，揭示其背后的技术架构与工作原理。"
+        "id": 49805509,
+        "title": "GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "domain": "openai.com",
+        "score": 1198,
+        "descendants": 611,
+        "by": "OfficialTurkey",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布了名为GPT-6 Sol和Luna的新模型，引发了社区对其性能与能力的深入探讨。"
+      },
+      {
+        "id": 49803892,
+        "title": "Claude Opus 5.5",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "domain": "anthropic.com",
+        "score": 1220,
+        "descendants": 817,
+        "by": "km144",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic推出了Claude Opus 5.5，引发用户对新版本智能水平与实用性的热烈讨论。"
+      },
+      {
+        "id": 49805278,
+        "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+        "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+        "domain": "404media.co",
+        "score": 407,
+        "descendants": 291,
+        "by": "spenvo",
+        "tags": [
+          "Security"
+        ],
+        "summary": "黑客声称已攻破FBI系统并获取了全体员工的敏感数据，目前真实性正引起高度关注。"
       },
       {
         "id": 49801324,
         "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
         "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
         "domain": "cryptocellar.org",
-        "score": 224,
-        "descendants": 231,
+        "score": 562,
+        "descendants": 360,
         "by": "sohkamyung",
         "tags": [
           "AI"
         ],
-        "summary": "OpenAI的GPT-6 Astra成功破解了自2005年以来一直未被解决的Enigma加密信息。"
+        "summary": "OpenAI的GPT-6 Astra成功破解了困扰密码学界近20年的Enigma加密难题。"
       },
       {
-        "id": 49801939,
-        "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-        "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-        "domain": "techradar.com",
-        "score": 228,
-        "descendants": 148,
-        "by": "MC995",
-        "tags": [],
-        "summary": "分析苹果在iOS系统中引入持久性广告的举措及其引发的用户强烈不满。"
-      },
-      {
-        "id": 49801329,
-        "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
-        "url": "https://droprun.sh/",
-        "domain": "droprun.sh",
-        "score": 73,
-        "descendants": 19,
-        "by": "mixedbit",
-        "tags": [
-          "Systems",
-          "Show HN"
-        ],
-        "summary": "介绍一款支持gVisor的无根（rootless）Linux沙箱工具Drop。"
-      },
-      {
-        "id": 49802160,
-        "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
-        "url": "https://github.com/Amal-David/awesome-jev",
+        "id": 49781862,
+        "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+        "url": "https://github.com/xCuri0/ReBarUEFI",
         "domain": "github.com",
-        "score": 56,
-        "descendants": 11,
-        "by": "frostbyte7",
-        "tags": [
-          "Systems"
-        ],
-        "summary": "汇总了社交媒体上的Jev演示、实用工具及相关生态集成资源。"
-      },
-      {
-        "id": 49797323,
-        "title": "Can gzip be a language model?",
-        "url": "https://nathan.rs/posts/gzip-lm/",
-        "domain": "nathan.rs",
-        "score": 309,
-        "descendants": 119,
-        "by": "networked",
-        "tags": [
-          "AI"
-        ],
-        "summary": "探讨压缩算法gzip是否具备成为语言模型的可能性，以及背后的理论基础。"
-      },
-      {
-        "id": 49794193,
-        "title": "Solitaire Alone Together",
-        "url": "https://solitairealonetogether.com/",
-        "domain": "solitairealonetogether.com",
-        "score": 24,
-        "descendants": 3,
-        "by": "eieio",
-        "tags": [
-          "AI"
-        ],
-        "summary": "探讨单人纸牌游戏所折射出的社会连接与个人独处间的心理博弈。"
-      },
-      {
-        "id": 49792730,
-        "title": "MiMo v2.6",
-        "url": "https://mimo.xiaomi.com/mimo-v2-6",
-        "domain": "mimo.xiaomi.com",
-        "score": 1024,
-        "descendants": 456,
-        "by": "volf_",
+        "score": 77,
+        "descendants": 21,
+        "by": "nateb2022",
         "tags": [],
-        "summary": "小米发布MiMo 2.6版本，引发了技术社区的高度关注与大量讨论。"
+        "summary": "ReBarUEFI项目为各种旧款UEFI系统解锁了Resizable BAR功能，提升了硬件性能潜力。"
       },
       {
-        "id": 49802161,
-        "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
-        "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-        "domain": "arcturus-labs.com",
-        "score": 85,
-        "descendants": 69,
-        "by": "JohnBerryman",
-        "tags": [
-          "AI"
-        ],
-        "summary": "探讨OpenAI的产品迭代如何对Jev等小型AI实验室构成直接的生存威胁。"
-      },
-      {
-        "id": 49794615,
-        "title": "Spymarks, Not Watermarks",
-        "url": "https://brand.io/article/spymarks/",
-        "domain": "brand.io",
-        "score": 603,
-        "descendants": 149,
-        "by": "possibilistic",
+        "id": 49808023,
+        "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "url": "https://foxscript.org/",
+        "domain": "foxscript.org",
+        "score": 186,
+        "descendants": 132,
+        "by": "boredjohnny",
         "tags": [],
-        "summary": "提出一种名为“间谍标记”而非传统水印的技术，用于数字内容的追踪与溯源。"
+        "summary": "尽管微软已停止支持FoxPro多年，但开发者社区通过FoxScript项目成功复活了这一经典数据库语言。"
+      },
+      {
+        "id": 49796379,
+        "title": "What California is learning from solar panels built over irrigation canals",
+        "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+        "domain": "kqed.org",
+        "score": 121,
+        "descendants": 156,
+        "by": "Jtsummers",
+        "tags": [],
+        "summary": "加州试点将太阳能板架设在灌溉渠之上，该方案展示了水资源保护与可再生能源生产的协同效应。"
+      },
+      {
+        "id": 49806335,
+        "title": "SAML: A fractal of bad design",
+        "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+        "domain": "blog.trailofbits.com",
+        "score": 163,
+        "descendants": 91,
+        "by": "aray07",
+        "tags": [],
+        "summary": "文章深度分析了SAML协议中的设计缺陷，揭示了其在复杂架构下的安全性隐患。"
+      },
+      {
+        "id": 49804316,
+        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+        "domain": "artificialanalysis.ai",
+        "score": 236,
+        "descendants": 72,
+        "by": "theanonymousone",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "深度评测文章，详细对比了Claude Opus 5.5在智能表现、推理性能及性价比方面的综合竞争力。"
+      },
+      {
+        "id": 49803959,
+        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+        "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+        "domain": "github.com",
+        "score": 156,
+        "descendants": 84,
+        "by": "vntok",
+        "tags": [],
+        "summary": "披露了WordPress中一个严重的路径遍历漏洞，该漏洞可能导致未授权的远程代码执行（RCE）。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "mouse.dev",
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "cryptocellar.org",
-          "count": 1
-        },
-        {
-          "domain": "techradar.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ],
-      "avg_score": 270,
+      "avg_score": 433,
       "max_score": {
-        "title": "MiMo v2.6",
-        "score": 1024
+        "title": "Claude Opus 5.5",
+        "score": 1220
       },
       "most_discussed": {
-        "title": "MiMo v2.6",
-        "comments": 456
+        "title": "Claude Opus 5.5",
+        "comments": 817
       },
       "hot_tags": [
         "AI",
-        "Systems",
-        "Show HN"
+        "Security",
+        "Hardware"
       ]
     },
-    "summary": "今日Hacker News焦点集中于前沿人工智能的进展与争议，包括OpenAI模型能力的突破、Meta技术的深度解析及生成式AI的竞争格局。同时，系统级安全工具、苹果生态的广告策略及数据压缩与AI结合的跨界研究也引发了社区的广泛讨论。"
+    "summary": "今日Hacker News焦点集中在AI领域的爆发式更新，OpenAI与Anthropic相继发布旗舰模型引发广泛讨论。与此同时，网络安全议题占据了重要版面，包括FBI数据泄露事件及WordPress高危漏洞分析，整体呈现出AI前沿突破与基础设施脆弱性并存的科技态势。"
   }
 }
