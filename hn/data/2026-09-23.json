@@ -317,5 +317,155 @@
       ]
     },
     "summary": "今日Hacker News重点关注人工智能的最新迭代与突破，包括OpenAI与Anthropic模型发布及解密成果，同时安全漏洞与系统底层优化也受到广泛探讨。整体呈现出AI技术突飞猛进与网络安全威胁并存的趋势。"
+  },
+  "evening": {
+    "time": "2026-09-23 23:58",
+    "stories": [
+      {
+        "id": 49817469,
+        "title": "Fixing the Portobello Police Station Clock",
+        "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+        "domain": "pointinthecloud.com",
+        "score": 50,
+        "descendants": 6,
+        "by": "avidly",
+        "tags": []
+      },
+      {
+        "id": 49817289,
+        "title": "Strands Harness",
+        "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+        "domain": "strandsagents.com",
+        "score": 43,
+        "descendants": 31,
+        "by": "zuckerborg0101",
+        "tags": []
+      },
+      {
+        "id": 49817404,
+        "title": "GPT-6 Astra has gained the ability to drive a car",
+        "url": "https://drivingbench.com/",
+        "domain": "drivingbench.com",
+        "score": 50,
+        "descendants": 35,
+        "by": "plurby",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49815982,
+        "title": "Stripe's Knowledge AI Platform",
+        "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+        "domain": "stripe.dev",
+        "score": 77,
+        "descendants": 38,
+        "by": "ltononro",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49814947,
+        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "domain": "blog.szypowi.cz",
+        "score": 338,
+        "descendants": 183,
+        "by": "pszypowicz",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49812769,
+        "title": "Jev in 25 Lines of Python",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "domain": "nobodywho.ai",
+        "score": 456,
+        "descendants": 138,
+        "by": "bashbjorn",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "id": 49814236,
+        "title": "Z80 REPL (2018)",
+        "url": "https://abagames.github.io/z80-repl/index.html",
+        "domain": "abagames.github.io",
+        "score": 99,
+        "descendants": 12,
+        "by": "adunk",
+        "tags": []
+      },
+      {
+        "id": 49817524,
+        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+        "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+        "domain": "radicle.dev",
+        "score": 8,
+        "descendants": 1,
+        "by": "lostmsu",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 49805509,
+        "title": "GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "domain": "openai.com",
+        "score": 1662,
+        "descendants": 798,
+        "by": "OfficialTurkey",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49815466,
+        "title": "I don't want the details",
+        "url": "https://michaelheap.com/i-dont-want-the-details/",
+        "domain": "michaelheap.com",
+        "score": 167,
+        "descendants": 102,
+        "by": "mooreds",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "pointinthecloud.com",
+          "count": 1
+        },
+        {
+          "domain": "strandsagents.com",
+          "count": 1
+        },
+        {
+          "domain": "drivingbench.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 295,
+      "max_score": {
+        "title": "GPT-6 Sol and Luna",
+        "score": 1662
+      },
+      "most_discussed": {
+        "title": "GPT-6 Sol and Luna",
+        "comments": 798
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Security"
+      ]
+    },
+    "summary": ""
   }
 }
