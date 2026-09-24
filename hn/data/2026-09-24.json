@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-09-24 09:57",
+    "stories": [
+      {
+        "id": 49824268,
+        "title": "Meta VR Glasses",
+        "url": "https://www.meta.com/vr-glasses/",
+        "domain": "meta.com",
+        "score": 218,
+        "descendants": 173,
+        "by": "polymorph1sm",
+        "tags": [],
+        "summary": "Meta 展示其最新 VR 眼镜产品的核心技术进展。"
+      },
+      {
+        "id": 49823582,
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "domain": "qualcomm.com",
+        "score": 147,
+        "descendants": 66,
+        "by": "aaronday",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "高通确认 Snapdragon X2 系列芯片即将获得 Linux 原生支持。"
+      },
+      {
+        "id": 49820134,
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "domain": "anthropic.com",
+        "score": 499,
+        "descendants": 532,
+        "by": "raahelb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 的 Claude 模型协助科学家发现了一种类似 CRISPR 的新型酶系统。"
+      },
+      {
+        "id": 49822555,
+        "title": "VSCode's SSH Agent Is Bananas (2025)",
+        "url": "https://fly.io/blog/vscode-ssh-wtf/",
+        "domain": "fly.io",
+        "score": 128,
+        "descendants": 86,
+        "by": "Rapzid",
+        "tags": [],
+        "summary": "深入解析 VSCode SSH Agent 在复杂网络环境下的运行机制及其潜在的配置问题。"
+      },
+      {
+        "id": 49823664,
+        "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+        "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+        "domain": "blog.arxiv.org",
+        "score": 56,
+        "descendants": 8,
+        "by": "JohnHammersley",
+        "tags": [],
+        "summary": "ArXiv 获得多项长期资金承诺，确保其作为独立非营利组织的运营稳定性。"
+      },
+      {
+        "id": 49823348,
+        "title": "Mercury 2.5 LLM hits 770 tokens per second",
+        "url": "https://artificialanalysis.ai/models/mercury-2-5",
+        "domain": "artificialanalysis.ai",
+        "score": 52,
+        "descendants": 24,
+        "by": "Retro_Dev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Mercury 2.5 LLM 性能测试报告，其推理速度达到惊人的每秒 770 个 token。"
+      },
+      {
+        "id": 49796372,
+        "title": "The \"Windows XP Box\" (2003)",
+        "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+        "domain": "mini-itx.com",
+        "score": 47,
+        "descendants": 7,
+        "by": "doubletwoyou",
+        "tags": [],
+        "summary": "回顾 2003 年打造复古 Windows XP 主题机箱的工程挑战。"
+      },
+      {
+        "id": 49817469,
+        "title": "Fixing the Portobello Police Station Clock",
+        "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+        "domain": "pointinthecloud.com",
+        "score": 381,
+        "descendants": 89,
+        "by": "avidly",
+        "tags": []
+      },
+      {
+        "id": 49823195,
+        "title": "We just shipped support for the ugliest part of HTTP: Vary",
+        "url": "https://blog.cloudflare.com/vary-support/",
+        "domain": "blog.cloudflare.com",
+        "score": 77,
+        "descendants": 12,
+        "by": "thisisfatih",
+        "tags": [],
+        "summary": "Cloudflare 技术团队解析并改进了 HTTP 协议中最复杂的部分：Vary 响应头。"
+      },
+      {
+        "id": 49824969,
+        "title": "FLAWED's Flaws and What This Means for Industry Research",
+        "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+        "domain": "suhacker.ai",
+        "score": 9,
+        "descendants": 1,
+        "by": "tob_scott_a",
+        "tags": [
+          "Science"
+        ],
+        "summary": "分析 FLAWED 研究方法的局限性及其对行业研发趋势的影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "meta.com",
+          "count": 1
+        },
+        {
+          "domain": "qualcomm.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 161,
+      "max_score": {
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "score": 499
+      },
+      "most_discussed": {
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "comments": 532
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦前沿技术动态，涵盖人工智能模型性能与科研突破、硬件生态革新及网络架构优化。科技界对大语言模型应用与底层算力开发的关注度持续高涨，同时社区也展示了对怀旧工程与开源基础设施维护的浓厚兴趣。"
+  }
+}
