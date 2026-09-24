@@ -151,5 +151,167 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦前沿技术动态，涵盖人工智能模型性能与科研突破、硬件生态革新及网络架构优化。科技界对大语言模型应用与底层算力开发的关注度持续高涨，同时社区也展示了对怀旧工程与开源基础设施维护的浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-09-24 16:49",
+    "stories": [
+      {
+        "id": 49823582,
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "domain": "qualcomm.com",
+        "score": 376,
+        "descendants": 165,
+        "by": "aaronday",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "高通宣布为骁龙 X2 系列芯片提供 Linux 支持，提升在开源生态的适配能力。"
+      },
+      {
+        "id": 49820134,
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "domain": "anthropic.com",
+        "score": 639,
+        "descendants": 653,
+        "by": "raahelb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "回顾 2003 年的一篇经典硬件案例，展示了如何构建迷你的 Windows XP 系统主机。"
+      },
+      {
+        "id": 49826565,
+        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "url": "https://transluce.org/agent-activity",
+        "domain": "transluce.org",
+        "score": 91,
+        "descendants": 60,
+        "by": "snikolaev",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "安全分析显示，urlquery.net 上捕捉到了早期恶意 AI 代理的黑客攻击行为。"
+      },
+      {
+        "id": 49825642,
+        "title": "Ideas on modernizing the open-source desktop",
+        "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "domain": "lwn.net",
+        "score": 110,
+        "descendants": 70,
+        "by": "signa11",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "探讨如何通过现代化的设计与功能改进，解决当前开源桌面环境面临的痛点。"
+      },
+      {
+        "id": 49823664,
+        "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+        "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+        "domain": "blog.arxiv.org",
+        "score": 167,
+        "descendants": 20,
+        "by": "JohnHammersley",
+        "tags": [],
+        "summary": "ArXiv 获得多方长期资助承诺，旨在确保其作为独立非营利组织的稳定运行。"
+      },
+      {
+        "id": 49826221,
+        "title": "Contrastive Language Models",
+        "url": "https://contrastive-lm.notion.site/",
+        "domain": "contrastive-lm.notion.site",
+        "score": 55,
+        "descendants": 11,
+        "by": "erichocean",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入解析对比语言模型（Contrastive Language Models）的原理、训练方法及应用前景。"
+      },
+      {
+        "id": 49822555,
+        "title": "VSCode's SSH Agent Is Bananas (2025)",
+        "url": "https://fly.io/blog/vscode-ssh-wtf/",
+        "domain": "fly.io",
+        "score": 220,
+        "descendants": 140,
+        "by": "Rapzid",
+        "tags": [],
+        "summary": "作者深度剖析 VSCode SSH 代理机制的复杂设计及其在特定环境下的表现问题。"
+      },
+      {
+        "id": 49824864,
+        "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+        "url": "https://github.com/nestrilabs/virtio-nvgpu",
+        "domain": "github.com",
+        "score": 88,
+        "descendants": 41,
+        "by": "WanjohiRyan",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍 virtio-nvgpu 项目，实现了在 KVM 虚拟机中以近乎原生的性能访问 Nvidia GPU。"
+      },
+      {
+        "id": 49796372,
+        "title": "The \"Windows XP Box\" (2003)",
+        "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+        "domain": "mini-itx.com",
+        "score": 142,
+        "descendants": 24,
+        "by": "doubletwoyou",
+        "tags": []
+      },
+      {
+        "id": 49795600,
+        "title": "Making portable my unportable transputer C compiler",
+        "url": "https://nanochess.org/transputer_c_compiler.html",
+        "domain": "nanochess.org",
+        "score": 44,
+        "descendants": 4,
+        "by": "nanochess",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "开发者分享将古老的 Transputer C 编译器移植至现代系统的技术挑战与实现过程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "qualcomm.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "transluce.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 193,
+      "max_score": {
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "score": 639
+      },
+      "most_discussed": {
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "comments": 653
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿科技与底层技术的交叉演进，人工智能在生物科学领域的突破引发广泛关注。同时，社区对Linux生态适配、系统架构优化以及开发工具的深度分析保持高度活跃，反映出开发者对高性能计算与系统架构演进的持续探索。"
   }
 }
