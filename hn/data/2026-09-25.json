@@ -1,0 +1,149 @@
+{
+  "morning": {
+    "time": "2026-09-25 00:22",
+    "stories": [
+      {
+        "id": 49831968,
+        "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "domain": "f-droid.org",
+        "score": 182,
+        "descendants": 48,
+        "by": "daveoc64",
+        "tags": []
+      },
+      {
+        "id": 49831201,
+        "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
+        "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
+        "domain": "blog.madhukaraphatak.in",
+        "score": 76,
+        "descendants": 22,
+        "by": "phatak-dev",
+        "tags": []
+      },
+      {
+        "id": 49818031,
+        "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+        "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
+        "domain": "jgeekstudies.org",
+        "score": 58,
+        "descendants": 11,
+        "by": "zdw",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 49805806,
+        "title": "Enjoy Every Sandwich",
+        "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+        "domain": "bradmontague.substack.com",
+        "score": 111,
+        "descendants": 47,
+        "by": "NaOH",
+        "tags": []
+      },
+      {
+        "id": 49828385,
+        "title": "Nokia Design Archive (2025)",
+        "url": "https://nokiadesignarchive.aalto.fi/index.html",
+        "domain": "nokiadesignarchive.aalto.fi",
+        "score": 163,
+        "descendants": 85,
+        "by": "pillars",
+        "tags": []
+      },
+      {
+        "id": 49831774,
+        "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+        "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+        "domain": "arstechnica.com",
+        "score": 80,
+        "descendants": 67,
+        "by": "Brajeshwar",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49823582,
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "domain": "qualcomm.com",
+        "score": 559,
+        "descendants": 232,
+        "by": "aaronday",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49832491,
+        "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
+        "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
+        "domain": "dynamicallytyped.org",
+        "score": 3,
+        "descendants": 0,
+        "by": "joelberger",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49831456,
+        "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+        "domain": "tomshardware.com",
+        "score": 52,
+        "descendants": 39,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 49825642,
+        "title": "Ideas on modernizing the open-source desktop",
+        "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "domain": "lwn.net",
+        "score": 307,
+        "descendants": 356,
+        "by": "signa11",
+        "tags": [
+          "Open Source"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "f-droid.org",
+          "count": 1
+        },
+        {
+          "domain": "blog.madhukaraphatak.in",
+          "count": 1
+        },
+        {
+          "domain": "jgeekstudies.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 159,
+      "max_score": {
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "score": 559
+      },
+      "most_discussed": {
+        "title": "Ideas on modernizing the open-source desktop",
+        "comments": 356
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Open Source"
+      ]
+    },
+    "summary": ""
+  }
+}
