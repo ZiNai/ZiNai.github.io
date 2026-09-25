@@ -1,0 +1,144 @@
+{
+  "morning": {
+    "time": "2026-09-26 00:22",
+    "stories": [
+      {
+        "id": 49843269,
+        "title": "Platform-Independent SIMD in Go",
+        "url": "https://go.dev/blog/simd-experiment",
+        "domain": "go.dev",
+        "score": 182,
+        "descendants": 61,
+        "by": "yurivish",
+        "tags": []
+      },
+      {
+        "id": 49843174,
+        "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+        "url": "https://github.com/git-bug/git-bug",
+        "domain": "github.com",
+        "score": 161,
+        "descendants": 43,
+        "by": "alentred",
+        "tags": []
+      },
+      {
+        "id": 49846391,
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "url": "https://github.com/Avinash-jetwani/jevmem",
+        "domain": "github.com",
+        "score": 12,
+        "descendants": 0,
+        "by": "avinashjetwani",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      },
+      {
+        "id": 49844736,
+        "title": "First Principles Thinking",
+        "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+        "domain": "sunilsadasivan.com",
+        "score": 54,
+        "descendants": 21,
+        "by": "sunils34",
+        "tags": []
+      },
+      {
+        "id": 49845952,
+        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "domain": "washingtonsun.com",
+        "score": 60,
+        "descendants": 27,
+        "by": "rdmuser",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49844786,
+        "title": "Allow Carriers on Planes",
+        "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+        "domain": "jefftk.com",
+        "score": 130,
+        "descendants": 134,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 49841285,
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "domain": "nyaa.sh",
+        "score": 182,
+        "descendants": 83,
+        "by": "hugh4life",
+        "tags": []
+      },
+      {
+        "id": 49842270,
+        "title": "Ink and Switch Interactive Homepage",
+        "url": "https://www.inkandswitch.com/",
+        "domain": "inkandswitch.com",
+        "score": 132,
+        "descendants": 19,
+        "by": "iFreilicht",
+        "tags": []
+      },
+      {
+        "id": 49831968,
+        "title": "F-Droid 2.0",
+        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "domain": "f-droid.org",
+        "score": 1378,
+        "descendants": 396,
+        "by": "daveoc64",
+        "tags": []
+      },
+      {
+        "id": 49841563,
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "url": "https://www.dawo.community/en/",
+        "domain": "dawo.community",
+        "score": 774,
+        "descendants": 438,
+        "by": "fjfaase",
+        "tags": [
+          "Systems"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "go.dev",
+          "count": 1
+        },
+        {
+          "domain": "sunilsadasivan.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 306,
+      "max_score": {
+        "title": "F-Droid 2.0",
+        "score": 1378
+      },
+      "most_discussed": {
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "comments": 438
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": ""
+  }
+}
