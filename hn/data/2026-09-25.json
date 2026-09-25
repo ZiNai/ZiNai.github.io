@@ -153,5 +153,155 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出高度的技术多元性，开源工具与IDE创新成为关注焦点。同时，关于生物学机制、汽车行业转型以及个人趣味探索的讨论反映了开发者社区对科技与生活跨界议题的广泛兴趣。"
+  },
+  "evening": {
+    "time": "2026-09-25 17:10",
+    "stories": [
+      {
+        "id": 49841115,
+        "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+        "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+        "domain": "safateam.com",
+        "score": 41,
+        "descendants": 8,
+        "by": "safateam",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 49841285,
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "domain": "nyaa.sh",
+        "score": 25,
+        "descendants": 5,
+        "by": "hugh4life",
+        "tags": []
+      },
+      {
+        "id": 49831968,
+        "title": "F-Droid 2.0",
+        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "domain": "f-droid.org",
+        "score": 1226,
+        "descendants": 342,
+        "by": "daveoc64",
+        "tags": []
+      },
+      {
+        "id": 49823738,
+        "title": "Show HN: Make cursed fonts like Times New Bastard",
+        "url": "https://bastardica.mitpit.com",
+        "domain": "bastardica.mitpit.com",
+        "score": 684,
+        "descendants": 93,
+        "by": "MitPitt",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49833867,
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "domain": "github.com",
+        "score": 302,
+        "descendants": 115,
+        "by": "sidharthkmenon",
+        "tags": [
+          "Startup",
+          "Show HN",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 49832938,
+        "title": "Why is the liver so weirdly regenerative?",
+        "url": "https://dynomight.substack.com/p/liver",
+        "domain": "dynomight.substack.com",
+        "score": 401,
+        "descendants": 203,
+        "by": "jbotz",
+        "tags": []
+      },
+      {
+        "id": 49801436,
+        "title": "2DWillNeverDie",
+        "url": "https://2dwillneverdie.com/",
+        "domain": "2dwillneverdie.com",
+        "score": 228,
+        "descendants": 48,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 49841563,
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "url": "https://www.dawo.community/en/",
+        "domain": "dawo.community",
+        "score": 6,
+        "descendants": 0,
+        "by": "fjfaase",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 49800085,
+        "title": "Fearless SIMD v1.0",
+        "url": "https://linebender.org/blog/fearless-simd-1-0/",
+        "domain": "linebender.org",
+        "score": 257,
+        "descendants": 36,
+        "by": "verdagon",
+        "tags": []
+      },
+      {
+        "id": 49817680,
+        "title": "Rails World 2026 Opening Keynote [video]",
+        "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+        "domain": "youtube.com",
+        "score": 332,
+        "descendants": 365,
+        "by": "an0malous",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "safateam.com",
+          "count": 1
+        },
+        {
+          "domain": "nyaa.sh",
+          "count": 1
+        },
+        {
+          "domain": "f-droid.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 350,
+      "max_score": {
+        "title": "F-Droid 2.0",
+        "score": 1226
+      },
+      "most_discussed": {
+        "title": "Rails World 2026 Opening Keynote [video]",
+        "comments": 365
+      },
+      "hot_tags": [
+        "Show HN",
+        "Security",
+        "Startup",
+        "Open Source",
+        "Systems"
+      ]
+    },
+    "summary": ""
   }
 }
