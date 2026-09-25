@@ -1,116 +1,124 @@
 {
   "morning": {
-    "time": "2026-09-25 00:22",
+    "time": "2026-09-25 10:13",
     "stories": [
       {
         "id": 49831968,
-        "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+        "title": "F-Droid 2.0",
         "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
         "domain": "f-droid.org",
-        "score": 182,
-        "descendants": 48,
+        "score": 955,
+        "descendants": 265,
         "by": "daveoc64",
-        "tags": []
+        "tags": [],
+        "summary": "开源安卓应用商店F-Droid发布2.0版本，带来显著的架构更新与体验优化。"
       },
       {
-        "id": 49831201,
-        "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
-        "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
-        "domain": "blog.madhukaraphatak.in",
-        "score": 76,
-        "descendants": 22,
-        "by": "phatak-dev",
-        "tags": []
-      },
-      {
-        "id": 49818031,
-        "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
-        "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
-        "domain": "jgeekstudies.org",
-        "score": 58,
-        "descendants": 11,
-        "by": "zdw",
+        "id": 49823738,
+        "title": "Show HN: Make cursed fonts like Times New Bastard",
+        "url": "https://bastardica.mitpit.com",
+        "domain": "bastardica.mitpit.com",
+        "score": 497,
+        "descendants": 68,
+        "by": "MitPitt",
         "tags": [
-          "Science"
-        ]
+          "Show HN"
+        ],
+        "summary": "一个能够生成独特且带有“诅咒”风格字体的字体创意工具。"
       },
       {
-        "id": 49805806,
-        "title": "Enjoy Every Sandwich",
-        "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
-        "domain": "bradmontague.substack.com",
-        "score": 111,
-        "descendants": 47,
-        "by": "NaOH",
-        "tags": []
-      },
-      {
-        "id": 49828385,
-        "title": "Nokia Design Archive (2025)",
-        "url": "https://nokiadesignarchive.aalto.fi/index.html",
-        "domain": "nokiadesignarchive.aalto.fi",
-        "score": 163,
-        "descendants": 85,
-        "by": "pillars",
-        "tags": []
-      },
-      {
-        "id": 49831774,
-        "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-        "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-        "domain": "arstechnica.com",
-        "score": 80,
-        "descendants": 67,
-        "by": "Brajeshwar",
+        "id": 49833867,
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "domain": "github.com",
+        "score": 204,
+        "descendants": 82,
+        "by": "sidharthkmenon",
         "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 49823582,
-        "title": "Linux support is coming to Snapdragon X2 Series",
-        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-        "domain": "qualcomm.com",
-        "score": 559,
-        "descendants": 232,
-        "by": "aaronday",
-        "tags": [
-          "Systems"
-        ]
-      },
-      {
-        "id": 49832491,
-        "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-        "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-        "domain": "dynamicallytyped.org",
-        "score": 3,
-        "descendants": 0,
-        "by": "joelberger",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 49831456,
-        "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
-        "domain": "tomshardware.com",
-        "score": 52,
-        "descendants": 39,
-        "by": "speckx",
-        "tags": []
-      },
-      {
-        "id": 49825642,
-        "title": "Ideas on modernizing the open-source desktop",
-        "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-        "domain": "lwn.net",
-        "score": 307,
-        "descendants": 356,
-        "by": "signa11",
-        "tags": [
+          "Startup",
+          "Show HN",
           "Open Source"
-        ]
+        ],
+        "summary": "一款专注于软件设计架构的开源IDE，旨在通过白板式交互优化开发流程。"
+      },
+      {
+        "id": 49832938,
+        "title": "Why is the liver so weirdly regenerative?",
+        "url": "https://dynomight.substack.com/p/liver",
+        "domain": "dynomight.substack.com",
+        "score": 267,
+        "descendants": 158,
+        "by": "jbotz",
+        "tags": [],
+        "summary": "探讨肝脏为何具备极强的再生能力及其背后的生物学机制。"
+      },
+      {
+        "id": 49800085,
+        "title": "Fearless SIMD v1.0",
+        "url": "https://linebender.org/blog/fearless-simd-1-0/",
+        "domain": "linebender.org",
+        "score": 189,
+        "descendants": 31,
+        "by": "verdagon",
+        "tags": [],
+        "summary": "旨在提供安全、高效SIMD操作的编程库发布1.0正式版。"
+      },
+      {
+        "id": 49801436,
+        "title": "2DWillNeverDie",
+        "url": "https://2dwillneverdie.com/",
+        "domain": "2dwillneverdie.com",
+        "score": 117,
+        "descendants": 10,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "深入探讨2D游戏开发在当代技术背景下的持久生命力与发展前景。"
+      },
+      {
+        "id": 49817680,
+        "title": "Rails World 2026 Opening Keynote [video]",
+        "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+        "domain": "youtube.com",
+        "score": 242,
+        "descendants": 255,
+        "by": "an0malous",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Rails World 2026开幕主题演讲视频，涵盖Ruby on Rails的最新愿景与社区动态。"
+      },
+      {
+        "id": 49823568,
+        "title": "Toyota is taking the Corolla electric",
+        "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+        "domain": "electrek.co",
+        "score": 236,
+        "descendants": 376,
+        "by": "cisc",
+        "tags": [],
+        "summary": "丰田汽车计划推出Corolla系列的电动版本，引发关于传统厂商转型策略的讨论。"
+      },
+      {
+        "id": 49805344,
+        "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+        "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+        "domain": "ahmedhossamdev.com",
+        "score": 228,
+        "descendants": 95,
+        "by": "ahmedhossamdev",
+        "tags": [],
+        "summary": "作者分享在Google Maps中虚拟漫游东京的个人趣味经历与地理探索发现。"
+      },
+      {
+        "id": 49802510,
+        "title": "Writing Parquet files using Haskell",
+        "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+        "domain": "datahaskell.org",
+        "score": 18,
+        "descendants": 2,
+        "by": "cosmic_quanta",
+        "tags": [],
+        "summary": "技术教程：演示如何在Haskell编程环境中实现Parquet数据文件的写入与处理。"
       }
     ],
     "insights": {
@@ -120,30 +128,30 @@
           "count": 1
         },
         {
-          "domain": "blog.madhukaraphatak.in",
+          "domain": "bastardica.mitpit.com",
           "count": 1
         },
         {
-          "domain": "jgeekstudies.org",
+          "domain": "github.com",
           "count": 1
         }
       ],
-      "avg_score": 159,
+      "avg_score": 295,
       "max_score": {
-        "title": "Linux support is coming to Snapdragon X2 Series",
-        "score": 559
+        "title": "F-Droid 2.0",
+        "score": 955
       },
       "most_discussed": {
-        "title": "Ideas on modernizing the open-source desktop",
-        "comments": 356
+        "title": "Toyota is taking the Corolla electric",
+        "comments": 376
       },
       "hot_tags": [
-        "AI",
-        "Science",
-        "Systems",
-        "Open Source"
+        "Show HN",
+        "Startup",
+        "Open Source",
+        "AI"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News热门内容呈现出高度的技术多元性，开源工具与IDE创新成为关注焦点。同时，关于生物学机制、汽车行业转型以及个人趣味探索的讨论反映了开发者社区对科技与生活跨界议题的广泛兴趣。"
   }
 }
