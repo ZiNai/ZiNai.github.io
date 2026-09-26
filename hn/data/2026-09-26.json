@@ -1,144 +1,162 @@
 {
   "morning": {
-    "time": "2026-09-26 00:22",
+    "time": "2026-09-26 10:19",
     "stories": [
       {
+        "id": 49849985,
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
+        "domain": "swarmtraces.org",
+        "score": 231,
+        "descendants": 145,
+        "by": "specked-citrus",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "详细解析OpenAI Agent如何利用漏洞绕过限制攻入Hugging Face平台的安全复盘。"
+      },
+      {
+        "id": 49848269,
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "domain": "ollaya.dev",
+        "score": 343,
+        "descendants": 100,
+        "by": "Ardakilic",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "介绍Ollaya框架，将决策模型与本地大模型推理能力相结合的开源工具。"
+      },
+      {
+        "id": 49845172,
+        "title": "Show HN: Jev Plays Pokémon Red",
+        "url": "https://jev-pokemon.vercel.app/",
+        "domain": "jev-pokemon.vercel.app",
+        "score": 158,
+        "descendants": 68,
+        "by": "pancomplex",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个有趣的Show HN项目，展示了名为Jev的AI代理如何独立玩通《宝可梦：红》。"
+      },
+      {
+        "id": 49850305,
+        "title": "What even is an OS now?",
+        "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+        "domain": "sockpuppet.org",
+        "score": 87,
+        "descendants": 128,
+        "by": "fratellobigio",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入探讨在云计算和Web应用时代，现代操作系统定义的边界正在如何模糊。"
+      },
+      {
+        "id": 49840054,
+        "title": "Plan mode is dead",
+        "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+        "domain": "aymannadeem.com",
+        "score": 100,
+        "descendants": 112,
+        "by": "jmvldz",
+        "tags": [],
+        "summary": "探讨为何曾经流行的“规划模式”在当下的软件开发实践中逐渐失去效用。"
+      },
+      {
+        "id": 49852302,
+        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+        "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+        "domain": "cbsnews.com",
+        "score": 25,
+        "descendants": 2,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "法院裁定Facebook在剑桥分析丑闻中存在欺诈用户行为，需承担法律责任。"
+      },
+      {
         "id": 49843269,
-        "title": "Platform-Independent SIMD in Go",
+        "title": "Platform-independent SIMD in Go",
         "url": "https://go.dev/blog/simd-experiment",
         "domain": "go.dev",
-        "score": 182,
-        "descendants": 61,
+        "score": 363,
+        "descendants": 134,
         "by": "yurivish",
-        "tags": []
+        "tags": [],
+        "summary": "Go官方团队介绍如何实现跨平台的SIMD向量化加速，提升程序运行性能。"
+      },
+      {
+        "id": 49849832,
+        "title": "Excel now supports multiple values in a single cell",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+        "domain": "techcommunity.microsoft.com",
+        "score": 107,
+        "descendants": 79,
+        "by": "luispa",
+        "tags": [],
+        "summary": "微软宣布Excel更新，支持在单个单元格中存储多个值，改变传统数据处理方式。"
       },
       {
         "id": 49843174,
         "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
         "url": "https://github.com/git-bug/git-bug",
         "domain": "github.com",
-        "score": 161,
-        "descendants": 43,
+        "score": 313,
+        "descendants": 101,
         "by": "alentred",
-        "tags": []
+        "tags": [],
+        "summary": "推介一款嵌入Git仓库、支持离线操作的分布式Bug跟踪工具。"
       },
       {
-        "id": 49846391,
-        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-        "url": "https://github.com/Avinash-jetwani/jevmem",
-        "domain": "github.com",
-        "score": 12,
-        "descendants": 0,
-        "by": "avinashjetwani",
+        "id": 49819244,
+        "title": "Why didn't anybody tell me about Redis hash slots?",
+        "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+        "domain": "blog.verygoodsoftwarenotvirus.dev",
+        "score": 20,
+        "descendants": 4,
+        "by": "badrequest",
         "tags": [
-          "AI",
-          "Systems"
-        ]
-      },
-      {
-        "id": 49844736,
-        "title": "First Principles Thinking",
-        "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-        "domain": "sunilsadasivan.com",
-        "score": 54,
-        "descendants": 21,
-        "by": "sunils34",
-        "tags": []
-      },
-      {
-        "id": 49845952,
-        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-        "domain": "washingtonsun.com",
-        "score": 60,
-        "descendants": 27,
-        "by": "rdmuser",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 49844786,
-        "title": "Allow Carriers on Planes",
-        "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-        "domain": "jefftk.com",
-        "score": 130,
-        "descendants": 134,
-        "by": "surprisetalk",
-        "tags": []
-      },
-      {
-        "id": 49841285,
-        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-        "domain": "nyaa.sh",
-        "score": 182,
-        "descendants": 83,
-        "by": "hugh4life",
-        "tags": []
-      },
-      {
-        "id": 49842270,
-        "title": "Ink and Switch Interactive Homepage",
-        "url": "https://www.inkandswitch.com/",
-        "domain": "inkandswitch.com",
-        "score": 132,
-        "descendants": 19,
-        "by": "iFreilicht",
-        "tags": []
-      },
-      {
-        "id": 49831968,
-        "title": "F-Droid 2.0",
-        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-        "domain": "f-droid.org",
-        "score": 1378,
-        "descendants": 396,
-        "by": "daveoc64",
-        "tags": []
-      },
-      {
-        "id": 49841563,
-        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-        "url": "https://www.dawo.community/en/",
-        "domain": "dawo.community",
-        "score": 774,
-        "descendants": 438,
-        "by": "fjfaase",
-        "tags": [
-          "Systems"
-        ]
+          "Database"
+        ],
+        "summary": "作者分享对Redis哈希槽（Hash Slots）机制的发现，探讨其在大规模分布式架构中的价值。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "github.com",
-          "count": 2
-        },
-        {
-          "domain": "go.dev",
+          "domain": "swarmtraces.org",
           "count": 1
         },
         {
-          "domain": "sunilsadasivan.com",
+          "domain": "ollaya.dev",
+          "count": 1
+        },
+        {
+          "domain": "jev-pokemon.vercel.app",
           "count": 1
         }
       ],
-      "avg_score": 306,
+      "avg_score": 175,
       "max_score": {
-        "title": "F-Droid 2.0",
-        "score": 1378
+        "title": "Platform-independent SIMD in Go",
+        "score": 363
       },
       "most_discussed": {
-        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-        "comments": 438
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "comments": 145
       },
       "hot_tags": [
         "AI",
+        "Security",
+        "Open Source",
+        "Show HN",
         "Systems"
       ]
     },
-    "summary": ""
+    "summary": "今日Hacker News重点关注AI安全实践、底层系统架构演进及开源开发者工具的创新。从OpenAI代理的安全性讨论到SIMD编程优化与去中心化工作流工具，社区正积极探索前沿技术在生产环境中的实用边界。"
   }
 }
