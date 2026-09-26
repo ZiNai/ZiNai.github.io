@@ -158,5 +158,167 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI安全实践、底层系统架构演进及开源开发者工具的创新。从OpenAI代理的安全性讨论到SIMD编程优化与去中心化工作流工具，社区正积极探索前沿技术在生产环境中的实用边界。"
+  },
+  "noon": {
+    "time": "2026-09-26 16:54",
+    "stories": [
+      {
+        "id": 49849985,
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
+        "domain": "swarmtraces.org",
+        "score": 466,
+        "descendants": 283,
+        "by": "specked-citrus",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "通过复盘OpenAI智能体破解Hugging Face的案例，深入分析AI系统的潜在安全威胁。"
+      },
+      {
+        "id": 49854399,
+        "title": "CAPTCHAs don't prove you're human – they prove you're American",
+        "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+        "domain": "shkspr.mobi",
+        "score": 10,
+        "descendants": 3,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "犀利指出CAPTCHA验证机制在地理歧视和人类身份验证有效性上的逻辑漏洞。"
+      },
+      {
+        "id": 49853175,
+        "title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "domain": "allanrbo.blogspot.com",
+        "score": 58,
+        "descendants": 9,
+        "by": "allanrbo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一种支持视觉模型、简化LLM集成的单函数Jev封装工具。"
+      },
+      {
+        "id": 49852717,
+        "title": "We're gonna need a lot more mathematicians",
+        "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "domain": "terrytao.wordpress.com",
+        "score": 110,
+        "descendants": 108,
+        "by": "srcreigh",
+        "tags": [],
+        "summary": "陶哲轩探讨科技与社会发展背景下，数学人才储备的重要性与缺口。"
+      },
+      {
+        "id": 49840054,
+        "title": "Plan mode is dead",
+        "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+        "domain": "aymannadeem.com",
+        "score": 300,
+        "descendants": 282,
+        "by": "jmvldz",
+        "tags": [],
+        "summary": "批判以“计划模式”为核心的软件架构设计，探讨其在当前开发范式下的局限性。"
+      },
+      {
+        "id": 49848269,
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "domain": "ollaya.dev",
+        "score": 437,
+        "descendants": 117,
+        "by": "Ardakilic",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "发布Ollaya项目，为开源Jev决策模型提供类似Ollama的简便运行环境。"
+      },
+      {
+        "id": 49845172,
+        "title": "Show HN: Jev Plays Pokémon Red",
+        "url": "https://jev-pokemon.vercel.app/",
+        "domain": "jev-pokemon.vercel.app",
+        "score": 195,
+        "descendants": 83,
+        "by": "pancomplex",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "演示项目：展示Jev智能体如何通过自主决策游玩经典游戏《宝可梦：红》。"
+      },
+      {
+        "id": 49850305,
+        "title": "What even is an OS now?",
+        "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+        "domain": "sockpuppet.org",
+        "score": 185,
+        "descendants": 271,
+        "by": "fratellobigio",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入反思在现代计算环境下，操作系统边界逐渐模糊的架构定义问题。"
+      },
+      {
+        "id": 49836579,
+        "title": "How I changed teaching after AI managed to do all my homework assignments",
+        "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+        "domain": "thelastsoftwareengineer.substack.com",
+        "score": 67,
+        "descendants": 34,
+        "by": "azhenley",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一位教师分享在AI普及后，如何重构教学模式以应对作业自动化挑战。"
+      },
+      {
+        "id": 49838040,
+        "title": "The Murky History of Soviet-Born Tetris",
+        "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 39,
+        "descendants": 9,
+        "by": "EA-3167",
+        "tags": [],
+        "summary": "回顾《俄罗斯方块》背后的冷战历史与复杂的版权归属争端。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "swarmtraces.org",
+          "count": 1
+        },
+        {
+          "domain": "shkspr.mobi",
+          "count": 1
+        },
+        {
+          "domain": "allanrbo.blogspot.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 187,
+      "max_score": {
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "score": 466
+      },
+      "most_discussed": {
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "comments": 283
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Open Source",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中于人工智能领域，涵盖了AI安全漏洞分析、教育模式变革及新型LLM交互代理（Jev架构）的兴起。同时，社区也对数学人才需求、操作系统定义以及数字文化史等硬核议题展开了深度讨论。"
   }
 }
