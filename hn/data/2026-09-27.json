@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-09-27 10:14",
+    "stories": [
+      {
+        "id": 49844657,
+        "title": "Does Georgism work? Five years later",
+        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+        "domain": "astralcodexten.com",
+        "score": 135,
+        "descendants": 71,
+        "by": "silveraxe93",
+        "tags": [],
+        "summary": "回顾乔治主义经济学模式在过去五年的实践效果及其现实影响力。"
+      },
+      {
+        "id": 49859112,
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "domain": "arxiv.org",
+        "score": 163,
+        "descendants": 47,
+        "by": "shenli3514",
+        "tags": [],
+        "summary": "介绍 DeepSeek 推出的弹性计算架构，重点探讨其如何优化高性能计算资源分配。"
+      },
+      {
+        "id": 49842764,
+        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "url": "https://github.com/InfinityLoop1308/PipePipe",
+        "domain": "github.com",
+        "score": 323,
+        "descendants": 175,
+        "by": "Qision",
+        "tags": [
+          "Python"
+        ],
+        "summary": "NewPipe 的开源分支 PipePipe，通过集成 SponsorBlock 功能增强了用户体验。"
+      },
+      {
+        "id": 49856988,
+        "title": "Go Concurrency Distilled",
+        "url": "https://antonz.org/go-concurrency-distilled/",
+        "domain": "antonz.org",
+        "score": 43,
+        "descendants": 9,
+        "by": "chmaynard",
+        "tags": [],
+        "summary": "深入解析 Go 语言并发编程的核心概念与最佳实践。"
+      },
+      {
+        "id": 49858513,
+        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "url": "https://github.com/reladraw/reladraw",
+        "domain": "github.com",
+        "score": 189,
+        "descendants": 56,
+        "by": "jpwalsh234",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款全新的图表绘制语言，旨在通过手动定位提升创作控制力。"
+      },
+      {
+        "id": 49839567,
+        "title": "Evolving programming languages in the AI era",
+        "url": "https://dashbit.co/blog/evolving-ai-era",
+        "domain": "dashbit.co",
+        "score": 33,
+        "descendants": 16,
+        "by": "pjm331",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 AI 时代编程语言应如何演进以适应自动化开发需求。"
+      },
+      {
+        "id": 49832768,
+        "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+        "url": "https://www.movingimagearchive.com/",
+        "domain": "movingimagearchive.com",
+        "score": 116,
+        "descendants": 25,
+        "by": "momentmaker",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个汇集了 1915 年以来各类被遗忘公共领域电影片段的可搜索资料库。"
+      },
+      {
+        "id": 49857656,
+        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "domain": "privatemode.ai",
+        "score": 29,
+        "descendants": 13,
+        "by": "flxflx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "尝试将 GLM-5.3-Flash 模型改造为类似 Jev 的决策逻辑模型。"
+      },
+      {
+        "id": 49857729,
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "domain": "tangled.org",
+        "score": 111,
+        "descendants": 32,
+        "by": "parasitid",
+        "tags": [],
+        "summary": "在 Excalidraw 画布上实时运行的 AI 编程辅助工具。"
+      },
+      {
+        "id": 49858676,
+        "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+        "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+        "domain": "righto.com",
+        "score": 30,
+        "descendants": 6,
+        "by": "pwg",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "对 Intel 8087 数学协处理器正切算法的深度逆向工程分析。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "astralcodexten.com",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 117,
+      "max_score": {
+        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "score": 323
+      },
+      "most_discussed": {
+        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "comments": 175
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于 AI 技术的深层应用与工程实践，包括大模型弹性计算、AI 编程代理及算法逆向。同时，社区对经济学理论的实证观察、开源工具的创新及复古计算技术的探讨也展现了技术圈的多样化兴趣。"
+  }
+}
