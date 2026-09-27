@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-09-28 00:16",
+    "stories": [
+      {
+        "id": 49867067,
+        "title": "\"They had no concept of a duty of care to their users.\"",
+        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "domain": "unsung.aresluna.org",
+        "score": 170,
+        "descendants": 116,
+        "by": "jandeboevrie",
+        "tags": [],
+        "summary": "文章探讨了科技公司在忽视用户安全与责任方面的问题，引发了对数字伦理的深刻反思。"
+      },
+      {
+        "id": 49866951,
+        "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+        "domain": "nytimes.com",
+        "score": 52,
+        "descendants": 19,
+        "by": "danso",
+        "tags": [],
+        "summary": "研究人员在一间廉价汽车旅馆中发现重要生物学证据，为探索生命起源提供了新线索。"
+      },
+      {
+        "id": 49867486,
+        "title": "The Normalization of Inexplicable Failures",
+        "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+        "domain": "ihatethefuture.com",
+        "score": 25,
+        "descendants": 1,
+        "by": "pxx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨现代技术系统中系统性故障常态化的问题，质疑为何复杂性导致了“不可解释”的失败。"
+      },
+      {
+        "id": 49866515,
+        "title": "Replacing the old battery on rechargeable bike lights",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "domain": "jvns.ca",
+        "score": 54,
+        "descendants": 20,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "分享了如何通过自行更换电池延长自行车灯寿命的实用硬件维修指南。"
+      },
+      {
+        "id": 49867775,
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "domain": "tinyaiarena.com",
+        "score": 7,
+        "descendants": 2,
+        "by": "hp6",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一个展示AI代理人实时博弈与对战的演示平台，直观观察不同AI模型的性能表现。"
+      },
+      {
+        "id": 49849409,
+        "title": "Writing Efficient C++ Code",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "domain": "asawicki.info",
+        "score": 33,
+        "descendants": 4,
+        "by": "ibobev",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入解析编写高性能C++代码的工程实践，涵盖优化策略与内存管理核心逻辑。"
+      },
+      {
+        "id": 49858285,
+        "title": "Font where each token is equal-width",
+        "url": "https://twitter.com/amplifiedamp/status/2103535129503383700",
+        "domain": "twitter.com",
+        "score": 19,
+        "descendants": 5,
+        "by": "ampdot",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款专为大语言模型应用设计的字体，确保每个Token在视觉上等宽以优化排版。"
+      },
+      {
+        "id": 49866534,
+        "title": "Ten Lines of Code That Changed My World",
+        "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+        "domain": "pixelambacht.nl",
+        "score": 22,
+        "descendants": 3,
+        "by": "dimonomid",
+        "tags": [],
+        "summary": "作者分享了十行改变其编程世界观的代码，探讨简洁逻辑背后的深远影响。"
+      },
+      {
+        "id": 49854219,
+        "title": "Flip Fluid on Flip Dots",
+        "url": "https://mitxela.com/projects/flipflip",
+        "domain": "mitxela.com",
+        "score": 261,
+        "descendants": 17,
+        "by": "blutack",
+        "tags": [],
+        "summary": "通过经典的翻转点阵显示器（Flip Dots）实现流体动力学模拟，展示硬核复古工程美学。"
+      },
+      {
+        "id": 49824144,
+        "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+        "url": "https://3d-retro.com/",
+        "domain": "3d-retro.com",
+        "score": 32,
+        "descendants": 8,
+        "by": "SouthWestAtlas",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个基于CC0协议的开源博物馆，汇集了可直接嵌入网页的复古3D视觉渲染技巧。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "unsung.aresluna.org",
+          "count": 1
+        },
+        {
+          "domain": "nytimes.com",
+          "count": 1
+        },
+        {
+          "domain": "ihatethefuture.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 68,
+      "max_score": {
+        "title": "Flip Fluid on Flip Dots",
+        "score": 261
+      },
+      "most_discussed": {
+        "title": "\"They had no concept of a duty of care to their users.\"",
+        "comments": 116
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点涵盖了从前沿科学探索到技术实践的广泛议题。内容主要集中在用户责任的法律伦理探讨、硬件维护与底层编程技巧的经验分享，以及通过开源项目与实验展现的创新创造力。"
+  }
+}
