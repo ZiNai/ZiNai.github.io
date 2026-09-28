@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-09-29 03:09",
+    "stories": [
+      {
+        "id": 49880036,
+        "title": "Pirating the Pirates",
+        "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "domain": "mubi.com",
+        "score": 189,
+        "descendants": 60,
+        "by": "piotrgrabowski",
+        "tags": [],
+        "summary": "探讨版权保护与盗版行为之间的博弈，剖析数字时代内容分发的利益冲突。"
+      },
+      {
+        "id": 49879702,
+        "title": "Hijacking the PS5's RTMP stream",
+        "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+        "domain": "yashgarg.dev",
+        "score": 97,
+        "descendants": 17,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "技术演示如何劫持并解析 PS5 的 RTMP 实时流传输数据。"
+      },
+      {
+        "id": 49879401,
+        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "url": "https://hn.watch/",
+        "domain": "hn.watch",
+        "score": 72,
+        "descendants": 20,
+        "by": "mrborgen",
+        "tags": [
+          "Systems",
+          "Security",
+          "Show HN"
+        ],
+        "summary": "介绍一个通过视频化手段展示 Hacker News 热门贴讨论内容的全新平台。"
+      },
+      {
+        "id": 49881692,
+        "title": "Who wrote Elizabeth I's most scathing letters?",
+        "url": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+        "domain": "smithsonianmag.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "benbreen",
+        "tags": [],
+        "summary": "探寻历史上伊丽莎白一世那些言辞激烈的信件背后的真实代笔者。"
+      },
+      {
+        "id": 49875913,
+        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+        "url": "https://git.mills.io/prologic/parley",
+        "domain": "git.mills.io",
+        "score": 248,
+        "descendants": 124,
+        "by": "davidcollantes",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款支持联邦制与去中心化架构，且完全兼容 IRC 标准的聊天通讯工具。"
+      },
+      {
+        "id": 49881606,
+        "title": "Joseph Szabo’s pictures of American adolescents",
+        "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+        "domain": "newyorker.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "prismatic",
+        "tags": [],
+        "summary": "通过摄影集展示美国青春期少年的生活状态，探讨纪实摄影的艺术表现力。"
+      },
+      {
+        "id": 49870367,
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "domain": "sancho.bearblog.dev",
+        "score": 1722,
+        "descendants": 950,
+        "by": "sancho-panza",
+        "tags": [],
+        "summary": "深度反思谷歌当前产品体验与商业逻辑为何变得越来越难以捉摸且令人困惑。"
+      },
+      {
+        "id": 49881505,
+        "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+        "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+        "domain": "vespper.com",
+        "score": 14,
+        "descendants": 2,
+        "by": "topaztee",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "YC 孵化项目 Vespper 推出基于 MCP 的先进 Docx 文档处理方案。"
+      },
+      {
+        "id": 49882208,
+        "title": "GrapheneOS – When an app is slow",
+        "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+        "domain": "blog.wirelessmoves.com",
+        "score": 25,
+        "descendants": 3,
+        "by": "speckx",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入分析在 GrapheneOS 系统下应用运行缓慢的成因及排查思路。"
+      },
+      {
+        "id": 49878900,
+        "title": "What heraldry and Japanese mon can teach about visual-identity generators",
+        "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+        "domain": "benovermyer.com",
+        "score": 43,
+        "descendants": 13,
+        "by": "bovermyer",
+        "tags": [],
+        "summary": "分析传统纹章与日本家纹的设计美学，探讨其对现代视觉身份自动生成技术的启发。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mubi.com",
+          "count": 1
+        },
+        {
+          "domain": "yashgarg.dev",
+          "count": 1
+        },
+        {
+          "domain": "hn.watch",
+          "count": 1
+        }
+      ],
+      "avg_score": 243,
+      "max_score": {
+        "title": "When did Google get so weird?",
+        "score": 1722
+      },
+      "most_discussed": {
+        "title": "When did Google get so weird?",
+        "comments": 950
+      },
+      "hot_tags": [
+        "Systems",
+        "Security",
+        "Show HN",
+        "AI",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术探索与个人见解，既有关于 PS5 串流破解和去中心化聊天协议等硬核技术讨论，也有对谷歌产品现状及历史文化话题的深度观察。社区整体展现出对开源工具构建、数字内容创作以及对科技巨头产品策略的持续批判性思考。"
+  }
+}
