@@ -152,5 +152,161 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了技术深度与社会反思，从Google企业文化的变迁到AI与嵌入式硬件的创新应用引发广泛热议。同时，高性能计算（Rust SIMD）、环境健康研究及极客硬件项目也展示了社区对底层技术与现实社会问题的持续关注。"
+  },
+  "evening": {
+    "time": "2026-09-28 18:16",
+    "stories": [
+      {
+        "id": 49872723,
+        "title": "Owed a billion dollars in Nvidia stock",
+        "url": "https://colo.to/nvidia-stock-narrative.html",
+        "domain": "colo.to",
+        "score": 707,
+        "descendants": 295,
+        "by": "Eric_Gullichsen",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨持有巨额英伟达股票所带来的财富与心理冲击。"
+      },
+      {
+        "id": 49873241,
+        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+        "url": "https://arxiv.org/abs/2110.01834",
+        "domain": "arxiv.org",
+        "score": 101,
+        "descendants": 30,
+        "by": "teleforce",
+        "tags": [
+          "AI"
+        ],
+        "summary": "解析 AI 模型中元认知（metacognition）对提升决策质量的重要性。"
+      },
+      {
+        "id": 49868830,
+        "title": "Ember-1",
+        "url": "https://fireworks.ai/blog/ember-1",
+        "domain": "fireworks.ai",
+        "score": 465,
+        "descendants": 215,
+        "by": "gmays",
+        "tags": [],
+        "summary": "介绍 Fireworks.ai 推出的 Ember-1 模型及其在推理任务中的表现。"
+      },
+      {
+        "id": 49870367,
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "domain": "sancho.bearblog.dev",
+        "score": 1306,
+        "descendants": 724,
+        "by": "sancho-panza",
+        "tags": [],
+        "summary": "深度反思 Google 近年产品方向与公司文化走向“怪异”的原因。"
+      },
+      {
+        "id": 49872883,
+        "title": "Nissan's third generation e-POWER powertrain",
+        "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+        "domain": "nissan-global.com",
+        "score": 64,
+        "descendants": 77,
+        "by": "mroche",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术解析日产汽车第三代 e-POWER 动力总成的效率优化。"
+      },
+      {
+        "id": 49874728,
+        "title": "Prompting Claude Opus 5.5",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "domain": "platform.claude.com",
+        "score": 89,
+        "descendants": 81,
+        "by": "Michelangelo11",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨针对 Claude Opus 5.5 模型的高级提示词撰写技巧。"
+      },
+      {
+        "id": 49865312,
+        "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+        "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+        "domain": "bookofrevenue.com",
+        "score": 23,
+        "descendants": 11,
+        "by": "birdculture",
+        "tags": [
+          "Database"
+        ],
+        "summary": "揭示在 Postgres 中使用 'at time zone UTC' 可能引发的时区陷阱。"
+      },
+      {
+        "id": 49869755,
+        "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+        "url": "https://www.inkandswitch.com/essay/malleable-software/",
+        "domain": "inkandswitch.com",
+        "score": 98,
+        "descendants": 43,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "倡导回归软件可塑性，重新赋予用户对应用程序的掌控权。"
+      },
+      {
+        "id": 49852238,
+        "title": "Functional Mechanical Sympathy [video]",
+        "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+        "domain": "youtube.com",
+        "score": 30,
+        "descendants": 1,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "通过视频探讨如何利用“机械同理心”优化函数式编程性能。"
+      },
+      {
+        "id": 49874551,
+        "title": "Made by Mechanical Means",
+        "url": "https://felixrieseberg.com/made-by-mechanical-means/",
+        "domain": "felixrieseberg.com",
+        "score": 21,
+        "descendants": 5,
+        "by": "cocoflunchy",
+        "tags": [],
+        "summary": "回顾机械制造技术在历史上对生产力与创作的深远影响。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "colo.to",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "fireworks.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 290,
+      "max_score": {
+        "title": "When did Google get so weird?",
+        "score": 1306
+      },
+      "most_discussed": {
+        "title": "When did Google get so weird?",
+        "comments": 724
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Database"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技行业观察与 AI 技术演进。热议话题涵盖 Google 的公司文化变迁、AI 模型的发展与提示词工程，以及关于软件可塑性和硬件机制的深度技术探讨。"
   }
 }
