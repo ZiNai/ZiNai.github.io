@@ -156,5 +156,166 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于技术探索与个人见解，既有关于 PS5 串流破解和去中心化聊天协议等硬核技术讨论，也有对谷歌产品现状及历史文化话题的深度观察。社区整体展现出对开源工具构建、数字内容创作以及对科技巨头产品策略的持续批判性思考。"
+  },
+  "noon": {
+    "time": "2026-09-29 11:03",
+    "stories": [
+      {
+        "id": 49883844,
+        "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "url": "https://github.com/firelex/jeff",
+        "domain": "github.com",
+        "score": 315,
+        "descendants": 128,
+        "by": "firelex",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一款家用训练、推理延迟低至30ms的0.8B参数决策模型。"
+      },
+      {
+        "id": 49880036,
+        "title": "Pirating the Pirates",
+        "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "domain": "mubi.com",
+        "score": 434,
+        "descendants": 231,
+        "by": "piotrgrabowski",
+        "tags": [],
+        "summary": "深入探讨流媒体时代背景下内容版权与盗版生态的现状及争议。"
+      },
+      {
+        "id": 49855059,
+        "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+        "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+        "domain": "archaeologymag.com",
+        "score": 89,
+        "descendants": 22,
+        "by": "yusufaytas",
+        "tags": [
+          "AI"
+        ],
+        "summary": "考古学研究揭示了哥贝克力石阵1.2万年前独特的遗骨遗址分布规律。"
+      },
+      {
+        "id": 49882781,
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "url": "https://stateofutopia.com/experiments/microllmlab/",
+        "domain": "stateofutopia.com",
+        "score": 147,
+        "descendants": 66,
+        "by": "logicallee",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "一个可以在浏览器中直接运行并对比7种微型大语言模型的实验项目。"
+      },
+      {
+        "id": 49886195,
+        "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+        "url": "https://lolchat.rip/",
+        "domain": "lolchat.rip",
+        "score": 33,
+        "descendants": 21,
+        "by": "henrychannel",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一款复刻Win95/System 7时代UI风格的怀旧聊天室模拟器。"
+      },
+      {
+        "id": 49883539,
+        "title": "California farmers are struggling to sell grapes as demand for wine drops",
+        "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+        "domain": "kqed.org",
+        "score": 77,
+        "descendants": 180,
+        "by": "randycupertino",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49886482,
+        "title": "Tank Body Problem",
+        "url": "http://www.jimsitu.com",
+        "domain": "jimsitu.com",
+        "score": 19,
+        "descendants": 5,
+        "by": "jimbooonooo",
+        "tags": [],
+        "summary": "针对“坦克车身问题”这一经典统计推断难题的技术深度分析。"
+      },
+      {
+        "id": 49881850,
+        "title": "Sonnet 5.5",
+        "url": "https://www.anthropic.com/claude-sonnet-5-5",
+        "domain": "anthropic.com",
+        "score": 615,
+        "descendants": 420,
+        "by": "D2OQZG8l5BI1S06",
+        "tags": [],
+        "summary": "Anthropic发布最新一代模型Sonnet 3.5的性能与技术规格更新。"
+      },
+      {
+        "id": 49883536,
+        "title": "Scientists solve 1840s space weather mystery",
+        "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+        "domain": "arstechnica.com",
+        "score": 67,
+        "descendants": 38,
+        "by": "gumby",
+        "tags": [
+          "Science"
+        ],
+        "summary": "科学家通过历史数据分析破译了19世纪40年代的一场神秘空间气象事件。"
+      },
+      {
+        "id": 49884625,
+        "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+        "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+        "domain": "github.com",
+        "score": 37,
+        "descendants": 3,
+        "by": "nkko",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示了在ESP32S3芯片上运行1.58位BitNet量化大模型的硬件工程实践。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "mubi.com",
+          "count": 1
+        },
+        {
+          "domain": "archaeologymag.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 183,
+      "max_score": {
+        "title": "Sonnet 5.5",
+        "score": 615
+      },
+      "most_discussed": {
+        "title": "Sonnet 5.5",
+        "comments": 420
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中于极简人工智能领域，开源社区通过端侧模型优化和量化技术挑战大型LLM的算力门槛。此外，科技人文历史与行业趋势的探讨同样引发热议，涵盖了从怀旧网络文化到气候与产业结构的跨学科分析。"
   }
 }
