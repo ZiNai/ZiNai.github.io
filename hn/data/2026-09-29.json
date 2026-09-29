@@ -317,5 +317,166 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中于极简人工智能领域，开源社区通过端侧模型优化和量化技术挑战大型LLM的算力门槛。此外，科技人文历史与行业趋势的探讨同样引发热议，涵盖了从怀旧网络文化到气候与产业结构的跨学科分析。"
+  },
+  "evening": {
+    "time": "2026-09-29 18:12",
+    "stories": [
+      {
+        "id": 49890051,
+        "title": "Using any C++ library in Godot",
+        "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+        "domain": "blog.conan.io",
+        "score": 32,
+        "descendants": 8,
+        "by": "czoido",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨如何利用Conan包管理器将任意C++库集成至Godot游戏引擎的技术方案。"
+      },
+      {
+        "id": 49880411,
+        "title": "Phyllotaxis: An audio-reactive LED display",
+        "url": "https://jagi.studio/posts/phyllotaxis/",
+        "domain": "jagi.studio",
+        "score": 148,
+        "descendants": 16,
+        "by": "evakhoury",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "展示了一个基于植物趋光性原理设计的音频响应式LED显示装置的构建过程。"
+      },
+      {
+        "id": 49890226,
+        "title": "AI companies leak data to advertisers [pdf]",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "domain": "jorgegarciaherrero.com",
+        "score": 15,
+        "descendants": 0,
+        "by": "damaru2",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一份分析报告指出AI公司正将用户数据泄露给广告商的潜在风险。"
+      },
+      {
+        "id": 49876052,
+        "title": "The systems that no one will test",
+        "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+        "domain": "blog.christianperone.com",
+        "score": 63,
+        "descendants": 26,
+        "by": "perone",
+        "tags": [],
+        "summary": "分析复杂软件系统中那些因高难度而往往被忽视的测试盲区及其潜在隐患。"
+      },
+      {
+        "id": 49870376,
+        "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+        "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+        "domain": "computerworld.com",
+        "score": 51,
+        "descendants": 12,
+        "by": "doener",
+        "tags": [],
+        "summary": "讲述一台从1993年持续运行至今的服务器即将退役的怀旧与技术回顾。"
+      },
+      {
+        "id": 49888937,
+        "title": "Uncensored and Offensive Security AI Models Benchmark",
+        "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+        "domain": "github.com",
+        "score": 27,
+        "descendants": 8,
+        "by": "soltanov",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "发布了一个旨在评估无审查及攻防安全类AI模型能力的基准测试项目。"
+      },
+      {
+        "id": 49880036,
+        "title": "Pirating the Pirates",
+        "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "domain": "mubi.com",
+        "score": 588,
+        "descendants": 288,
+        "by": "piotrgrabowski",
+        "tags": [],
+        "summary": "深入剖析流媒体电影分发背后的版权保护机制与侵权生态的复杂博弈。"
+      },
+      {
+        "id": 49889934,
+        "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+        "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+        "domain": "twitter.com",
+        "score": 68,
+        "descendants": 32,
+        "by": "pranshuchittora",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Firebase SDK更新导致大量iOS应用在今日出现崩溃的紧急技术警示。"
+      },
+      {
+        "id": 49883539,
+        "title": "California farmers are struggling to sell grapes as demand for wine drops",
+        "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+        "domain": "kqed.org",
+        "score": 220,
+        "descendants": 518,
+        "by": "randycupertino",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "讨论受葡萄酒消费需求下降影响，加州葡萄种植农户面临的严重销售困境。"
+      },
+      {
+        "id": 49866783,
+        "title": "Software occlusion culling in Block Game",
+        "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+        "domain": "enikofox.com",
+        "score": 12,
+        "descendants": 0,
+        "by": "airhangerf15",
+        "tags": [],
+        "summary": "技术性展示在自制方块游戏引擎中实现软件遮挡剔除（Occlusion Culling）的方法。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.conan.io",
+          "count": 1
+        },
+        {
+          "domain": "jagi.studio",
+          "count": 1
+        },
+        {
+          "domain": "jorgegarciaherrero.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 122,
+      "max_score": {
+        "title": "Pirating the Pirates",
+        "score": 588
+      },
+      "most_discussed": {
+        "title": "California farmers are struggling to sell grapes as demand for wine drops",
+        "comments": 518
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "JavaScript",
+        "Security",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热点呈现出多元的技术前沿与现实挑战，涵盖了游戏引擎开发、软件基础设施风险以及社会经济问题的碰撞。从Firebase iOS应用崩溃事件与安全模型基准测试，到葡萄酒行业转型困境及数字考古，反映了开发者对系统稳定性与跨领域技术应用的持续关注。"
   }
 }
