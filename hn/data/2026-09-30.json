@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-09-30 01:30",
+    "stories": [
+      {
+        "id": 49896586,
+        "title": "GPT 6.1 Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "domain": "openai.com",
+        "score": 179,
+        "descendants": 94,
+        "by": "crorella",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布GPT 6.1 Sol，展示了其在AI性能上的最新迭代。"
+      },
+      {
+        "id": 49896604,
+        "title": "Dots",
+        "url": "https://openai.com/index/introducing-dots/",
+        "domain": "openai.com",
+        "score": 107,
+        "descendants": 50,
+        "by": "alvis",
+        "tags": [],
+        "summary": "OpenAI推出名为Dots的新项目，引发社区关注。"
+      },
+      {
+        "id": 49892245,
+        "title": "How Delhi cut electricity loss from 50 to 5 percent",
+        "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+        "domain": "spectrum.ieee.org",
+        "score": 307,
+        "descendants": 177,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "探讨印度德里如何通过基础设施改革与管理手段，将电力损耗从50%大幅降低至5%。"
+      },
+      {
+        "id": 49896050,
+        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+        "domain": "eff.org",
+        "score": 113,
+        "descendants": 64,
+        "by": "paimapi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "EFF揭露DraftKings利用AI算法对病理性赌徒进行精准行为引导的争议性做法。"
+      },
+      {
+        "id": 49896975,
+        "title": "ChatGPT Pro 500",
+        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+        "domain": "help.openai.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "prodigycorp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI推出ChatGPT Pro 500订阅计划的官方说明。"
+      },
+      {
+        "id": 49890226,
+        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "domain": "jorgegarciaherrero.com",
+        "score": 374,
+        "descendants": 121,
+        "by": "damaru2",
+        "tags": [
+          "AI",
+          "Web",
+          "Security"
+        ],
+        "summary": "对网页与移动端对话式AI代理的隐私性进行深度技术分析。"
+      },
+      {
+        "id": 49892175,
+        "title": "Without the Hot Air",
+        "url": "https://www.withouthotair.com/",
+        "domain": "withouthotair.com",
+        "score": 95,
+        "descendants": 47,
+        "by": "0sake_rs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重读经典著作《Without the Hot Air》，深入探讨可持续能源与气候数据分析。"
+      },
+      {
+        "id": 49891290,
+        "title": "Jeeves. Reasoning improves Jev-like decision models",
+        "url": "https://github.com/PostHog/jeeves",
+        "domain": "github.com",
+        "score": 180,
+        "descendants": 75,
+        "by": "nicowaltz",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Jeeves项目，探讨如何通过推理能力增强类Jev决策模型的表现。"
+      },
+      {
+        "id": 49896712,
+        "title": "Tcl/Tk 9.1 Released",
+        "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+        "domain": "tcl-lang.org",
+        "score": 4,
+        "descendants": 0,
+        "by": "dmux",
+        "tags": [],
+        "summary": "Tcl/Tk 9.1版本发布，带来了新的功能更新与性能改进。"
+      },
+      {
+        "id": 49878093,
+        "title": "Walking Men",
+        "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+        "domain": "bookofjoe2.blogspot.com",
+        "score": 39,
+        "descendants": 10,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "一篇关于行走的人的随笔，记录日常生活中的观察与思考。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 2
+        },
+        {
+          "domain": "spectrum.ieee.org",
+          "count": 1
+        },
+        {
+          "domain": "eff.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 141,
+      "max_score": {
+        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+        "score": 374
+      },
+      "most_discussed": {
+        "title": "How Delhi cut electricity loss from 50 to 5 percent",
+        "comments": 177
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News重点关注人工智能的最新动态，包括OpenAI的多项产品发布及AI技术的隐私与伦理争议。此外，能源管理效率提升与工程技术更新也是社区讨论的热点。"
+  }
+}
