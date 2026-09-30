@@ -1,0 +1,142 @@
+{
+  "morning": {
+    "time": "2026-10-01 01:29",
+    "stories": [
+      {
+        "id": 49911759,
+        "title": "Let's Ditch Google (Verb)",
+        "url": "https://adam.farkas.pro/lets-ditch-google-verb/",
+        "domain": "adam.farkas.pro",
+        "score": 30,
+        "descendants": 20,
+        "by": "speckx",
+        "tags": [],
+        "summary": "作者呼吁开发者减少对Google生态的依赖，提倡使用更独立、去中心化的替代工具。"
+      },
+      {
+        "id": 49909583,
+        "title": "A Brief History of the Bloomberg Terminal",
+        "url": "https://spectrum.ieee.org/bloomberg-terminal",
+        "domain": "spectrum.ieee.org",
+        "score": 71,
+        "descendants": 20,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "回顾彭博终端的发展史，探讨其如何通过专用硬件和独特信息服务垄断金融数据市场。"
+      },
+      {
+        "id": 49906637,
+        "title": "You Said No MCP",
+        "url": "https://earendil.com/posts/you-said-no-mcp/",
+        "domain": "earendil.com",
+        "score": 460,
+        "descendants": 263,
+        "by": "yarapavan",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨对MCP（模型上下文协议）的质疑，分析其在AI生态集成中可能带来的局限与风险。"
+      },
+      {
+        "id": 49883970,
+        "title": "I Could've Accessed 17T Microsoft Records",
+        "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+        "domain": "blog.faav.net",
+        "score": 113,
+        "descendants": 54,
+        "by": "luispa",
+        "tags": [],
+        "summary": "披露了一项涉及微软数百万条记录的安全漏洞，详细说明了云基础设施中配置错误导致的严重数据泄露风险。"
+      },
+      {
+        "id": 49910613,
+        "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+        "domain": "advanced.onlinelibrary.wiley.com",
+        "score": 21,
+        "descendants": 11,
+        "by": "croes",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍了一种新型“湿气-电”墙纸技术，旨在通过室内湿度实现能源收集与环境调节。"
+      },
+      {
+        "id": 49908962,
+        "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+        "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+        "domain": "alphapixeldev.com",
+        "score": 72,
+        "descendants": 35,
+        "by": "ibobev",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49884346,
+        "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+        "url": "https://github.com/mogrinz/AMT630A",
+        "domain": "github.com",
+        "score": 30,
+        "descendants": 7,
+        "by": "mogrinz",
+        "tags": [],
+        "summary": "通过逆向工程分析了一款廉价车载倒车摄像头，展示了AMT630A芯片的内部构造与运行逻辑。"
+      },
+      {
+        "id": 49909610,
+        "title": "SDF Public Access Unix System ... est. 1987",
+        "url": "https://sdf.org/",
+        "domain": "sdf.org",
+        "score": 23,
+        "descendants": 1,
+        "by": "kmstout",
+        "tags": [],
+        "summary": "介绍自1987年成立至今的SDF公共访问Unix系统，展示了老牌极客社区的持续生命力。"
+      },
+      {
+        "id": 49882754,
+        "title": "Burning Man Death Rates – A Short Lesson in Statistics",
+        "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+        "domain": "ihavenapkinthoughts.substack.com",
+        "score": 18,
+        "descendants": 0,
+        "by": "viraj_shah",
+        "tags": [],
+        "summary": "以统计学视角剖析火人节的死亡率数据，提醒读者如何避免在解读此类报告时陷入误区。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "adam.farkas.pro",
+          "count": 1
+        },
+        {
+          "domain": "spectrum.ieee.org",
+          "count": 1
+        },
+        {
+          "domain": "earendil.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 93,
+      "max_score": {
+        "title": "You Said No MCP",
+        "score": 460
+      },
+      "most_discussed": {
+        "title": "You Said No MCP",
+        "comments": 263
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News热门内容涵盖了技术反思、安全漏洞、硬件逆向工程及前沿材料科学等多元主题。社区关注点集中在对大厂依赖的规避、系统级协议的发展争议以及对硬核工程实践的深入剖析。"
+  }
+}
