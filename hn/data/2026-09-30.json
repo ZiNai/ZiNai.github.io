@@ -1,162 +1,158 @@
 {
   "morning": {
-    "time": "2026-09-30 01:30",
+    "time": "2026-09-30 10:44",
     "stories": [
       {
-        "id": 49896586,
-        "title": "GPT 6.1 Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "domain": "openai.com",
-        "score": 179,
-        "descendants": 94,
-        "by": "crorella",
-        "tags": [
-          "AI"
-        ],
-        "summary": "OpenAI发布GPT 6.1 Sol，展示了其在AI性能上的最新迭代。"
+        "id": 49901736,
+        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "url": "https://github.com/ninjahawk/livenerf",
+        "domain": "github.com",
+        "score": 277,
+        "descendants": 126,
+        "by": "bryan0",
+        "tags": [],
+        "summary": "讨论Opus 5.5模型在实际应用中是否遭遇性能削减。"
       },
       {
-        "id": 49896604,
-        "title": "Dots",
-        "url": "https://openai.com/index/introducing-dots/",
-        "domain": "openai.com",
-        "score": 107,
-        "descendants": 50,
-        "by": "alvis",
+        "id": 49899090,
+        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+        "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+        "domain": "postalemployeenetwork.com",
+        "score": 177,
+        "descendants": 105,
+        "by": "ilamont",
+        "tags": [
+          "Web"
+        ],
+        "summary": "美国邮政检查员查封了一个专门销售伪造邮资标签的网站。"
+      },
+      {
+        "id": 49893509,
+        "title": "America.gov",
+        "url": "https://america.gov/",
+        "domain": "america.gov",
+        "score": 380,
+        "descendants": 306,
+        "by": "plesiv",
         "tags": [],
-        "summary": "OpenAI推出名为Dots的新项目，引发社区关注。"
+        "summary": "关于America.gov平台及其背后的运作机制探讨。"
+      },
+      {
+        "id": 49898778,
+        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+        "url": "https://space.bl2.net/",
+        "domain": "space.bl2.net",
+        "score": 123,
+        "descendants": 32,
+        "by": "wanick",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一个包含52.6万颗小行星及所有被追踪卫星的实时太阳系可视化工具。"
+      },
+      {
+        "id": 49888182,
+        "title": "When oil prices spike, where does the money go?",
+        "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+        "domain": "theconversation.com",
+        "score": 43,
+        "descendants": 33,
+        "by": "thelastgallon",
+        "tags": [],
+        "summary": "分析油价上涨时，巨额利润流向及背后的经济流转逻辑。"
+      },
+      {
+        "id": 49896586,
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "domain": "openai.com",
+        "score": 807,
+        "descendants": 745,
+        "by": "crorella",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "OpenAI发布GPT 6.1 Sol模型，号称以五分之一价格提供接近Astra级的智能水平。"
       },
       {
         "id": 49892245,
         "title": "How Delhi cut electricity loss from 50 to 5 percent",
         "url": "https://spectrum.ieee.org/delhi-electricity-loss",
         "domain": "spectrum.ieee.org",
-        "score": 307,
-        "descendants": 177,
+        "score": 447,
+        "descendants": 261,
         "by": "rbanffy",
         "tags": [],
-        "summary": "探讨印度德里如何通过基础设施改革与管理手段，将电力损耗从50%大幅降低至5%。"
+        "summary": "详述德里如何通过改革将电力传输损耗从50%大幅降低至5%。"
       },
       {
-        "id": 49896050,
-        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-        "domain": "eff.org",
-        "score": 113,
-        "descendants": 64,
-        "by": "paimapi",
-        "tags": [
-          "AI"
-        ],
-        "summary": "EFF揭露DraftKings利用AI算法对病理性赌徒进行精准行为引导的争议性做法。"
+        "id": 49897993,
+        "title": "Vermont replacing power plants with home batteries",
+        "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+        "domain": "bbc.com",
+        "score": 104,
+        "descendants": 84,
+        "by": "devonnull",
+        "tags": [],
+        "summary": "探讨佛蒙特州如何通过部署家用电池组来替代传统发电厂。"
       },
       {
-        "id": 49896975,
-        "title": "ChatGPT Pro 500",
-        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "domain": "help.openai.com",
-        "score": 9,
-        "descendants": 1,
-        "by": "prodigycorp",
-        "tags": [
-          "AI"
-        ],
-        "summary": "OpenAI推出ChatGPT Pro 500订阅计划的官方说明。"
-      },
-      {
-        "id": 49890226,
-        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "domain": "jorgegarciaherrero.com",
-        "score": 374,
-        "descendants": 121,
-        "by": "damaru2",
-        "tags": [
-          "AI",
-          "Web",
-          "Security"
-        ],
-        "summary": "对网页与移动端对话式AI代理的隐私性进行深度技术分析。"
-      },
-      {
-        "id": 49892175,
-        "title": "Without the Hot Air",
-        "url": "https://www.withouthotair.com/",
-        "domain": "withouthotair.com",
-        "score": 95,
-        "descendants": 47,
-        "by": "0sake_rs",
-        "tags": [
-          "AI"
-        ],
-        "summary": "重读经典著作《Without the Hot Air》，深入探讨可持续能源与气候数据分析。"
-      },
-      {
-        "id": 49891290,
-        "title": "Jeeves. Reasoning improves Jev-like decision models",
-        "url": "https://github.com/PostHog/jeeves",
-        "domain": "github.com",
-        "score": 180,
-        "descendants": 75,
-        "by": "nicowaltz",
-        "tags": [
-          "AI"
-        ],
-        "summary": "介绍Jeeves项目，探讨如何通过推理能力增强类Jev决策模型的表现。"
-      },
-      {
-        "id": 49896712,
-        "title": "Tcl/Tk 9.1 Released",
-        "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-        "domain": "tcl-lang.org",
-        "score": 4,
+        "id": 49891203,
+        "title": "Language models for text classification: From bag-of-words to Jev",
+        "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+        "domain": "magazine.sebastianraschka.com",
+        "score": 37,
         "descendants": 0,
-        "by": "dmux",
-        "tags": [],
-        "summary": "Tcl/Tk 9.1版本发布，带来了新的功能更新与性能改进。"
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍文本分类领域语言模型从传统词袋模型到现代Jev技术的演进路径。"
       },
       {
-        "id": 49878093,
-        "title": "Walking Men",
-        "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
-        "domain": "bookofjoe2.blogspot.com",
-        "score": 39,
-        "descendants": 10,
-        "by": "surprisetalk",
+        "id": 49895864,
+        "title": "Needed 1+1, built a functional programming language",
+        "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+        "domain": "hereticpleb.vercel.app",
+        "score": 35,
+        "descendants": 8,
+        "by": "birdculture",
         "tags": [],
-        "summary": "一篇关于行走的人的随笔，记录日常生活中的观察与思考。"
+        "summary": "作者分享自己为了解决基础数学运算，独立开发了一门函数式编程语言的经历。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "openai.com",
-          "count": 2
-        },
-        {
-          "domain": "spectrum.ieee.org",
+          "domain": "github.com",
           "count": 1
         },
         {
-          "domain": "eff.org",
+          "domain": "postalemployeenetwork.com",
+          "count": 1
+        },
+        {
+          "domain": "america.gov",
           "count": 1
         }
       ],
-      "avg_score": 141,
+      "avg_score": 243,
       "max_score": {
-        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-        "score": 374
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+        "score": 807
       },
       "most_discussed": {
-        "title": "How Delhi cut electricity loss from 50 to 5 percent",
-        "comments": 177
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+        "comments": 745
       },
       "hot_tags": [
         "AI",
         "Web",
-        "Security"
+        "Show HN",
+        "Hardware"
       ]
     },
-    "summary": "今日Hacker News重点关注人工智能的最新动态，包括OpenAI的多项产品发布及AI技术的隐私与伦理争议。此外，能源管理效率提升与工程技术更新也是社区讨论的热点。"
+    "summary": "本期Hacker News焦点聚焦于AI模型的发展动态与性能争议，同时深入探讨了能源基础设施优化及社会公共管理等议题。技术社区关注重心不仅在于计算成本的下降，也对电力改革及公共服务效能的提升展现出浓厚兴趣。"
   }
 }
