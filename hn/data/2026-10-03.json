@@ -1,0 +1,150 @@
+{
+  "morning": {
+    "time": "2026-10-03 01:19",
+    "stories": [
+      {
+        "id": 49933235,
+        "title": "The Legend of von Neumann (1973) [pdf]",
+        "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+        "domain": "gwern.net",
+        "score": 159,
+        "descendants": 86,
+        "by": "suopspaces",
+        "tags": [],
+        "summary": "关于天才数学家冯·诺依曼的深度传奇文章，回顾其在科学与计算领域的深远影响。"
+      },
+      {
+        "id": 49935751,
+        "title": "Dutch Computer Museums",
+        "url": "https://aresluna.org/dutch-computer-museums/",
+        "domain": "aresluna.org",
+        "score": 7,
+        "descendants": 1,
+        "by": "npollock",
+        "tags": [],
+        "summary": "一份汇总荷兰境内计算机博物馆的指南，适合科技史爱好者探索。"
+      },
+      {
+        "id": 49928192,
+        "title": "Tiny Brutalism",
+        "url": "https://placeholders.itch.io/tiny-brutalism",
+        "domain": "placeholders.itch.io",
+        "score": 47,
+        "descendants": 5,
+        "by": "abetusk",
+        "tags": [],
+        "summary": "探讨“微型野兽派”风格在设计与艺术中的应用及视觉表现。"
+      },
+      {
+        "id": 49927754,
+        "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+        "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+        "domain": "eff.org",
+        "score": 58,
+        "descendants": 11,
+        "by": "hn_acker",
+        "tags": [],
+        "summary": "法院裁定犹他州的VPN相关法律在技术层面不可执行，EFF在法律博弈中取得胜利。"
+      },
+      {
+        "id": 49934784,
+        "title": "Supabase is acquiring Turso",
+        "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+        "domain": "supabase.com",
+        "score": 102,
+        "descendants": 50,
+        "by": "cvburgess",
+        "tags": [],
+        "summary": "Supabase宣布收购数据库公司Turso，旨在强化其边缘计算与数据库布局。"
+      },
+      {
+        "id": 49925974,
+        "title": "FLUX 3 Image",
+        "url": "https://bfl.ai/models/flux-3-image",
+        "domain": "bfl.ai",
+        "score": 68,
+        "descendants": 4,
+        "by": "minimaxir",
+        "tags": [],
+        "summary": "Black Forest Labs发布最新的FLUX 3图像生成模型，展示了更强的创作能力。"
+      },
+      {
+        "id": 49928566,
+        "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+        "url": "https://stillwet.art/",
+        "domain": "stillwet.art",
+        "score": 60,
+        "descendants": 11,
+        "by": "alstonite",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一个展示Opus 5.5模拟绘画画布效果的实验项目。"
+      },
+      {
+        "id": 49925653,
+        "title": "Giving friends custom text buzzes based on Morse code",
+        "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
+        "domain": "liquidbrain.net",
+        "score": 30,
+        "descendants": 13,
+        "by": "evakhoury",
+        "tags": [],
+        "summary": "利用莫尔斯电码为特定好友设置个性化振动提醒的有趣实践。"
+      },
+      {
+        "id": 49935867,
+        "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+        "domain": "npr.org",
+        "score": 16,
+        "descendants": 0,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "ICC法官分析美国对国际法官实施制裁对全球司法公正的潜在冲击。"
+      },
+      {
+        "id": 49930047,
+        "title": "Shimano Bicycle Museum Review",
+        "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+        "domain": "inrng.com",
+        "score": 260,
+        "descendants": 61,
+        "by": "pietroppeter",
+        "tags": [],
+        "summary": "对日本Shimano自行车博物馆的深入游记，记录了自行车工程技术的发展历程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gwern.net",
+          "count": 1
+        },
+        {
+          "domain": "aresluna.org",
+          "count": 1
+        },
+        {
+          "domain": "placeholders.itch.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 81,
+      "max_score": {
+        "title": "Shimano Bicycle Museum Review",
+        "score": 260
+      },
+      "most_discussed": {
+        "title": "The Legend of von Neumann (1973) [pdf]",
+        "comments": 86
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News内容多元，涵盖了计算机科学史、前沿技术并购与AI图像进展。讨论焦点既包含深度的技术叙事与博物馆文化，也触及了VPN法律监管等具有现实意义的社会议题。"
+  }
+}
