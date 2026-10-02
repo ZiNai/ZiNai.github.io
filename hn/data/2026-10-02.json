@@ -1,168 +1,166 @@
 {
   "morning": {
-    "time": "2026-10-02 01:54",
+    "time": "2026-10-02 10:53",
     "stories": [
       {
-        "id": 49923692,
-        "title": "Clef: Our open-source decision models, and new RL fine-tuning platform",
-        "url": "https://blog.cloudflare.com/clef-decision-models/",
-        "domain": "blog.cloudflare.com",
-        "score": 165,
-        "descendants": 54,
-        "by": "jasondavies",
-        "tags": [
-          "AI",
-          "Open Source"
-        ],
-        "summary": "Cloudflare发布开源决策模型与强化学习微调平台Clef，旨在提升模型部署效能。"
+        "id": 49926069,
+        "title": "Pi 1.0",
+        "url": "https://earendil.com/posts/pi-1-0/",
+        "domain": "earendil.com",
+        "score": 812,
+        "descendants": 285,
+        "by": "sergiotapia",
+        "tags": [],
+        "summary": "Earendil 发布了 Pi 1.0 版本，进一步展示了其在模型开发领域的最新成果。"
       },
       {
-        "id": 49923466,
-        "title": "RIP, vector database",
-        "url": "https://turbopuffer.com/blog/rip-vector-database",
-        "domain": "turbopuffer.com",
-        "score": 97,
-        "descendants": 21,
-        "by": "razin",
-        "tags": [
-          "Database"
-        ],
-        "summary": "探讨向量数据库在当前AI架构中的定位演变及潜在的技术替代趋势。"
-      },
-      {
-        "id": 49920160,
-        "title": "StreetComplete on iOS is now in public beta",
-        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-        "domain": "github.com",
-        "score": 404,
-        "descendants": 92,
-        "by": "Snowly",
+        "id": 49928121,
+        "title": "Several vulnerabilities have been discovered in the Linux kernel",
+        "url": "https://lwn.net/Articles/1097401/",
+        "domain": "lwn.net",
+        "score": 133,
+        "descendants": 72,
+        "by": "luispa",
         "tags": [
           "Systems"
         ],
-        "summary": "开源地图编辑工具StreetComplete正式推出iOS版本公测，方便移动端贡献数据。"
+        "summary": "Linux 内核近日被发现存在多处漏洞，建议相关系统维护者关注补丁更新。"
       },
       {
-        "id": 49922515,
-        "title": "RacketCon Is Saturday",
-        "url": "https://con.racket-lang.org/",
-        "domain": "con.racket-lang.org",
-        "score": 72,
-        "descendants": 20,
-        "by": "spdegabrielle",
-        "tags": [],
-        "summary": "Racket语言社区年度大会RacketCon即将在本周六举行。"
+        "id": 49923692,
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "domain": "blog.cloudflare.com",
+        "score": 445,
+        "descendants": 163,
+        "by": "jasondavies",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cloudflare 推出了 Clef，这是一个专注于开放权重决策模型及强化学习微调的新平台。"
+      },
+      {
+        "id": 49926536,
+        "title": "SvelteKit 3",
+        "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+        "domain": "svelte.dev",
+        "score": 137,
+        "descendants": 54,
+        "by": "sampsn",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "SvelteKit 3 正式发布，标志着该前端框架在架构和性能上的重大演进。"
       },
       {
         "id": 49922569,
         "title": "Ask HN: Who is hiring? (October 2026)",
         "url": "https://news.ycombinator.com/item?id=49922569",
         "domain": "news.ycombinator.com",
-        "score": 40,
-        "descendants": 47,
+        "score": 161,
+        "descendants": 165,
         "by": "whoishiring",
         "tags": [
           "Ask HN"
         ],
-        "summary": "Hacker News每月招聘贴：企业发布职位需求，寻找高质量技术人才。"
+        "summary": "Hacker News 社区 2026 年 10 月度的“谁在招人”招聘贴正式发布。"
       },
       {
-        "id": 49920896,
-        "title": "How to speed up the Rust compiler in September 2026",
-        "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-        "domain": "nnethercote.github.io",
-        "score": 174,
-        "descendants": 85,
-        "by": "trickypr",
+        "id": 49925969,
+        "title": "Pi Durable",
+        "url": "https://earendil.com/posts/pi-durable/",
+        "domain": "earendil.com",
+        "score": 247,
+        "descendants": 27,
+        "by": "paulsmith",
+        "tags": [],
+        "summary": "Earendil 介绍了 Pi Durable，探讨了模型在持久化与鲁棒性方面的优化方案。"
+      },
+      {
+        "id": 49920160,
+        "title": "StreetComplete on iOS is now in public beta",
+        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+        "domain": "github.com",
+        "score": 529,
+        "descendants": 134,
+        "by": "Snowly",
         "tags": [
-          "Rust",
           "Systems"
         ],
-        "summary": "详细分析2026年9月期间提升Rust编译器构建速度的多种优化方案。"
+        "summary": "知名开源项目 StreetComplete 正式推出 iOS 公测版，方便用户通过手机参与地图数据贡献。"
       },
       {
-        "id": 49921923,
-        "title": "Cloudflare K2: serverless event streams",
-        "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-        "domain": "blog.cloudflare.com",
-        "score": 86,
-        "descendants": 25,
-        "by": "elffjs",
+        "id": 49926917,
+        "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+        "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+        "domain": "resobscura.substack.com",
+        "score": 83,
+        "descendants": 15,
+        "by": "benbreen",
         "tags": [],
-        "summary": "Cloudflare推出K2服务，提供高性能的无服务器事件流处理能力。"
+        "summary": "文章介绍了利用 Opus 5.5 模型分析历史文档，从而发现了关于渡渡鸟的新目击记录。"
       },
       {
-        "id": 49922736,
-        "title": "Identity Management for Agentic AI [pdf] (2025)",
-        "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-        "domain": "openid.net",
-        "score": 43,
-        "descendants": 7,
-        "by": "cgeier",
+        "id": 49926773,
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "url": "https://github.com/Vibra-Ingenn/Janus",
+        "domain": "github.com",
+        "score": 54,
+        "descendants": 8,
+        "by": "Maverick617",
         "tags": [
-          "AI"
+          "AI",
+          "Show HN",
+          "Hardware"
         ],
-        "summary": "深入探讨如何为Agentic AI（智能体）设计安全的身份识别与管理机制。"
+        "summary": "Janus 是一个基于 Go 的二进制工具，支持在 AMD、Intel 及 NVIDIA GPU 上通过 Vulkan 运行 GGUF 模型。"
       },
       {
-        "id": 49922568,
-        "title": "Ask HN: Who wants to be hired? (October 2026)",
-        "url": "https://news.ycombinator.com/item?id=49922568",
-        "domain": "news.ycombinator.com",
-        "score": 30,
-        "descendants": 127,
-        "by": "whoishiring",
+        "id": 49927212,
+        "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+        "url": "https://www.cssbed.com",
+        "domain": "cssbed.com",
+        "score": 63,
+        "descendants": 13,
+        "by": "sea-gold",
         "tags": [
-          "Ask HN"
+          "Web"
         ],
-        "summary": "Hacker News每月求职贴：开发者在此展示简历，寻找新的职业机会。"
-      },
-      {
-        "id": 49913571,
-        "title": "Gemini 4 Argon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "domain": "blog.google",
-        "score": 1599,
-        "descendants": 1061,
-        "by": "bradleyg223",
-        "tags": [
-          "AI"
-        ],
-        "summary": "Google发布新一代大模型Gemini 4 Argon，在性能与基准测试上引发热议。"
+        "summary": "CSS Bed 提供了一系列无类（Classless）CSS 主题，旨在简化 Web 开发的初始样式构建过程。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "blog.cloudflare.com",
+          "domain": "earendil.com",
           "count": 2
         },
         {
-          "domain": "news.ycombinator.com",
+          "domain": "github.com",
           "count": 2
         },
         {
-          "domain": "turbopuffer.com",
+          "domain": "lwn.net",
           "count": 1
         }
       ],
-      "avg_score": 271,
+      "avg_score": 266,
       "max_score": {
-        "title": "Gemini 4 Argon",
-        "score": 1599
+        "title": "Pi 1.0",
+        "score": 812
       },
       "most_discussed": {
-        "title": "Gemini 4 Argon",
-        "comments": 1061
+        "title": "Pi 1.0",
+        "comments": 285
       },
       "hot_tags": [
-        "AI",
         "Systems",
+        "AI",
+        "JavaScript",
         "Ask HN",
-        "Open Source",
-        "Database"
+        "Show HN"
       ]
     },
-    "summary": "本期Hacker News焦点主要集中在AI技术的演进与基础设施的升级，Gemini 4 Argon的发布引发了社区广泛讨论。此外，开发者工具和开源项目持续活跃，涵盖了编译器优化、OpenStreetMap工具移植及云端无服务器架构等技术趋势。"
+    "summary": "本期 Hacker News 焦点集中在 AI 模型技术的迭代与应用，包括新开源的决策模型与本地化部署工具。同时，Linux 内核安全漏洞披露以及前端开发领域（SvelteKit 3、CSS 框架）的更新也引起了开发者社区的广泛关注。"
   }
 }
