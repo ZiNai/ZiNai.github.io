@@ -1,150 +1,153 @@
 {
   "morning": {
-    "time": "2026-10-03 01:19",
+    "time": "2026-10-03 10:39",
     "stories": [
       {
-        "id": 49933235,
-        "title": "The Legend of von Neumann (1973) [pdf]",
-        "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-        "domain": "gwern.net",
-        "score": 159,
-        "descendants": 86,
-        "by": "suopspaces",
+        "id": 49940219,
+        "title": "Things That Apparently Cause Cancer",
+        "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+        "domain": "breakthroughjournal.org",
+        "score": 82,
+        "descendants": 31,
+        "by": "timpera",
         "tags": [],
-        "summary": "关于天才数学家冯·诺依曼的深度传奇文章，回顾其在科学与计算领域的深远影响。"
+        "summary": "探讨那些在媒体报道中被列为致癌物，但实际影响往往被过度夸大的科学认知差异。"
       },
       {
-        "id": 49935751,
-        "title": "Dutch Computer Museums",
-        "url": "https://aresluna.org/dutch-computer-museums/",
-        "domain": "aresluna.org",
-        "score": 7,
-        "descendants": 1,
-        "by": "npollock",
-        "tags": [],
-        "summary": "一份汇总荷兰境内计算机博物馆的指南，适合科技史爱好者探索。"
-      },
-      {
-        "id": 49928192,
-        "title": "Tiny Brutalism",
-        "url": "https://placeholders.itch.io/tiny-brutalism",
-        "domain": "placeholders.itch.io",
-        "score": 47,
-        "descendants": 5,
-        "by": "abetusk",
-        "tags": [],
-        "summary": "探讨“微型野兽派”风格在设计与艺术中的应用及视觉表现。"
+        "id": 49933869,
+        "title": "The Forgetful CPU (Linux on M4)",
+        "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "domain": "yuka.dev",
+        "score": 119,
+        "descendants": 46,
+        "by": "signa11",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "分析在M4架构Mac上运行Linux时遇到的CPU内存一致性及缓存管理的具体技术挑战。"
       },
       {
         "id": 49927754,
         "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
         "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
         "domain": "eff.org",
-        "score": 58,
-        "descendants": 11,
+        "score": 528,
+        "descendants": 232,
         "by": "hn_acker",
         "tags": [],
-        "summary": "法院裁定犹他州的VPN相关法律在技术层面不可执行，EFF在法律博弈中取得胜利。"
+        "summary": "法院支持EFF诉求，认为犹他州旨在限制未成年人使用VPN的法案在技术上无法实现。"
       },
       {
-        "id": 49934784,
-        "title": "Supabase is acquiring Turso",
-        "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-        "domain": "supabase.com",
-        "score": 102,
-        "descendants": 50,
-        "by": "cvburgess",
+        "id": 49925184,
+        "title": "Mike Tomlin spent 12 years building a Minecraft city",
+        "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+        "domain": "nytimes.com",
+        "score": 309,
+        "descendants": 83,
+        "by": "CoryOndrejka",
         "tags": [],
-        "summary": "Supabase宣布收购数据库公司Turso，旨在强化其边缘计算与数据库布局。"
+        "summary": "讲述一名教练在12年间利用业余时间在《我的世界》中复刻现实城市的耐心工程。"
       },
       {
-        "id": 49925974,
-        "title": "FLUX 3 Image",
-        "url": "https://bfl.ai/models/flux-3-image",
-        "domain": "bfl.ai",
-        "score": 68,
-        "descendants": 4,
-        "by": "minimaxir",
+        "id": 49932147,
+        "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+        "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+        "domain": "bsky.app",
+        "score": 203,
+        "descendants": 49,
+        "by": "mariuz",
         "tags": [],
-        "summary": "Black Forest Labs发布最新的FLUX 3图像生成模型，展示了更强的创作能力。"
+        "summary": "展示了通过12年连续天文观测拍摄的恒星系统影像，清晰捕捉到了四颗行星的轨道运行轨迹。"
       },
       {
-        "id": 49928566,
-        "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-        "url": "https://stillwet.art/",
-        "domain": "stillwet.art",
-        "score": 60,
-        "descendants": 11,
-        "by": "alstonite",
+        "id": 49937276,
+        "title": "Apple Pass Designer",
+        "url": "https://developer.apple.com/pass-designer/",
+        "domain": "developer.apple.com",
+        "score": 329,
+        "descendants": 222,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "苹果推出的Pass Designer工具，旨在简化数字钱包凭证的设计与开发流程。"
+      },
+      {
+        "id": 49940467,
+        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+        "domain": "ntsb.gov",
+        "score": 15,
+        "descendants": 7,
+        "by": "sdko",
         "tags": [
-          "AI",
-          "Show HN"
+          "AI"
         ],
-        "summary": "一个展示Opus 5.5模拟绘画画布效果的实验项目。"
+        "summary": "NTSB关于Prime Air货运波音767飞机在跑道冲出事件的初步调查报告。"
       },
       {
-        "id": 49925653,
-        "title": "Giving friends custom text buzzes based on Morse code",
-        "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
-        "domain": "liquidbrain.net",
-        "score": 30,
-        "descendants": 13,
-        "by": "evakhoury",
-        "tags": [],
-        "summary": "利用莫尔斯电码为特定好友设置个性化振动提醒的有趣实践。"
-      },
-      {
-        "id": 49935867,
-        "title": "ICC judge on what U.S. sanctions mean for her and global courts",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
-        "domain": "npr.org",
-        "score": 16,
+        "id": 49940394,
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "url": "https://www.newgrounds.com/",
+        "domain": "newgrounds.com",
+        "score": 12,
         "descendants": 0,
-        "by": "rbanffy",
+        "by": "azhenley",
         "tags": [],
-        "summary": "ICC法官分析美国对国际法官实施制裁对全球司法公正的潜在冲击。"
+        "summary": "重温作为互联网早期创意文化基石的Newgrounds社区，及其在游戏、音乐与艺术领域的影响力。"
       },
       {
-        "id": 49930047,
-        "title": "Shimano Bicycle Museum Review",
-        "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-        "domain": "inrng.com",
-        "score": 260,
-        "descendants": 61,
-        "by": "pietroppeter",
+        "id": 49933740,
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "domain": "arstechnica.com",
+        "score": 188,
+        "descendants": 91,
+        "by": "PaulHoule",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍AI在不完全信息博弈游戏《陆战棋》中取得的最新算法突破，攻克了长期的策略难题。"
+      },
+      {
+        "id": 49937504,
+        "title": "Muse Gadgets",
+        "url": "https://gadgets.muse.ai",
+        "domain": "gadgets.muse.ai",
+        "score": 138,
+        "descendants": 67,
+        "by": "anant",
         "tags": [],
-        "summary": "对日本Shimano自行车博物馆的深入游记，记录了自行车工程技术的发展历程。"
+        "summary": "Muse.ai发布的新型智能小工具集，旨在通过AI技术优化视频内容的处理与搜索体验。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "gwern.net",
+          "domain": "breakthroughjournal.org",
           "count": 1
         },
         {
-          "domain": "aresluna.org",
+          "domain": "yuka.dev",
           "count": 1
         },
         {
-          "domain": "placeholders.itch.io",
+          "domain": "eff.org",
           "count": 1
         }
       ],
-      "avg_score": 81,
+      "avg_score": 192,
       "max_score": {
-        "title": "Shimano Bicycle Museum Review",
-        "score": 260
+        "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+        "score": 528
       },
       "most_discussed": {
-        "title": "The Legend of von Neumann (1973) [pdf]",
-        "comments": 86
+        "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+        "comments": 232
       },
       "hot_tags": [
         "AI",
-        "Show HN"
+        "Systems"
       ]
     },
-    "summary": "今日Hacker News内容多元，涵盖了计算机科学史、前沿技术并购与AI图像进展。讨论焦点既包含深度的技术叙事与博物馆文化，也触及了VPN法律监管等具有现实意义的社会议题。"
+    "summary": "本期Hacker News焦点涵盖了技术深度与法律边界，从Linux在M4芯片上的硬件兼容性挑战到EFF对反VPN法规的法律胜利，体现了社区对底层技术与数字权利的关注。同时，从天文观测、游戏算法突破到苹果设计工具的更新，反映了技术社区在科学探索、娱乐产业及生产力工具方面的广泛兴趣。"
   }
 }
