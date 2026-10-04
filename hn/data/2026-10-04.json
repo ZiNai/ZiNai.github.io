@@ -1,0 +1,158 @@
+{
+  "noon": {
+    "time": "2026-10-04 11:11",
+    "stories": [
+      {
+        "id": 49949235,
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "domain": "simonwillison.net",
+        "score": 228,
+        "descendants": 124,
+        "by": "elffjs",
+        "tags": [],
+        "summary": "西蒙·威利森讨论在技术项目与系统构建中设定严格财务预算上限的必要性。"
+      },
+      {
+        "id": 49949438,
+        "title": "Bob Cringely Has Died",
+        "url": "https://news.ycombinator.com/item?id=49949438",
+        "domain": "news.ycombinator.com",
+        "score": 167,
+        "descendants": 28,
+        "by": "paveworld",
+        "tags": [],
+        "summary": "悼念知名科技专栏作家、评论家鲍勃·克林格利（Bob Cringely）逝世。"
+      },
+      {
+        "id": 49946355,
+        "title": "Treachery in the Rodin Museum 3D scan verdict",
+        "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+        "domain": "cosmowenman.substack.com",
+        "score": 99,
+        "descendants": 51,
+        "by": "CosmoWenman",
+        "tags": [],
+        "summary": "深度解析关于罗丹博物馆3D扫描版权争议的判决结果及其法律影响。"
+      },
+      {
+        "id": 49946393,
+        "title": "Hole Punch: Sling your spaceship around gravitational fields",
+        "url": "https://notoriousbfg.com/hole-punch/",
+        "domain": "notoriousbfg.com",
+        "score": 246,
+        "descendants": 62,
+        "by": "trwhite",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍一款利用重力场弹射机制进行太空导航的物理模拟类游戏。"
+      },
+      {
+        "id": 49946895,
+        "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+        "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+        "domain": "phoronix.com",
+        "score": 163,
+        "descendants": 21,
+        "by": "speckx",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "分析Valve工程师Timur Kristóf在Linux内核层面提升老旧AMD GPU性能的技术贡献。"
+      },
+      {
+        "id": 49947631,
+        "title": "Reasons I didn't become an EMT, ranked",
+        "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+        "domain": "ben.stolovitz.com",
+        "score": 112,
+        "descendants": 54,
+        "by": "citelao",
+        "tags": [],
+        "summary": "作者通过个人经历排行总结了自己最终选择不从事急救医疗技术员（EMT）职业的深层原因。"
+      },
+      {
+        "id": 49910462,
+        "title": "So You Think You Could Be an Electrician?",
+        "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+        "domain": "asteriskmag.com",
+        "score": 31,
+        "descendants": 15,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨成为一名职业电工所需的硬核技术素养与行业现实。"
+      },
+      {
+        "id": 49923873,
+        "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+        "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+        "domain": "whec.com",
+        "score": 153,
+        "descendants": 40,
+        "by": "gscott",
+        "tags": [],
+        "summary": "讲述一名患者庆祝其青少年时期移植的肾脏功能已持续运作达100年的医学奇迹。"
+      },
+      {
+        "id": 49942706,
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "domain": "aleph-alpha.com",
+        "score": 533,
+        "descendants": 304,
+        "by": "bastitx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Aleph Alpha发布名为Kolibri的全新开源权重AI模型，强调模型主权与透明度。"
+      },
+      {
+        "id": 49948332,
+        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "domain": "theguardian.com",
+        "score": 205,
+        "descendants": 155,
+        "by": "jethronethro",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI高层安全负责人离职并指责公司内部安全文化存在严重缺陷。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "simonwillison.net",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "cosmowenman.substack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 194,
+      "max_score": {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "score": 533
+      },
+      "most_discussed": {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "comments": 304
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI领域的安全治理与模型创新，同时涵盖了计算机图形学、硬件优化及社会人文议题。技术社区在深入探讨AI行业文化困境与财务约束的同时，也保持对基础科学、怀旧技术及人类生活方式的广泛兴趣。"
+  }
+}
