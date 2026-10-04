@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-10-05 00:20",
+    "stories": [
+      {
+        "id": 49954882,
+        "title": "Car is a smartphone on wheels. Here's who's listening",
+        "url": "https://automatictransmission.khoury.northeastern.edu/",
+        "domain": "automatictransmission.khoury.northeastern.edu",
+        "score": 48,
+        "descendants": 15,
+        "by": "longhaul",
+        "tags": [],
+        "summary": "研究报告指出，现代智能汽车正像智能手机一样广泛收集并上传驾驶员的行为数据。"
+      },
+      {
+        "id": 49953495,
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "url": "https://github.com/Niko1221/Strata",
+        "domain": "github.com",
+        "score": 245,
+        "descendants": 121,
+        "by": "snehesht",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍如何通过优化技术在单张RTX 4090上流畅运行125B参数的Qwen 3.8 Flash模型。"
+      },
+      {
+        "id": 49930439,
+        "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+        "url": "https://niklasroy.com/gtc/",
+        "domain": "niklasroy.com",
+        "score": 81,
+        "descendants": 14,
+        "by": "r0r0",
+        "tags": [],
+        "summary": "展示了一个利用废弃物手工打造、运行精准的半小时周期摆钟的趣味工程项目。"
+      },
+      {
+        "id": 49933461,
+        "title": "A Map of Every Lighthouse on the Planet",
+        "url": "https://mapped.earth/lighthouses/world",
+        "domain": "mapped.earth",
+        "score": 9,
+        "descendants": 1,
+        "by": "karakoram",
+        "tags": [],
+        "summary": "一个收录全球各地灯塔地理位置与详细信息的地图可视化项目。"
+      },
+      {
+        "id": 49949438,
+        "title": "Tell HN: Bob Cringely has died",
+        "url": "https://news.ycombinator.com/item?id=49949438",
+        "domain": "news.ycombinator.com",
+        "score": 673,
+        "descendants": 135,
+        "by": "paveworld",
+        "tags": [],
+        "summary": "著名科技评论家与专栏作家Bob Cringely去世，社区对此表示深切哀悼。"
+      },
+      {
+        "id": 49952111,
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "url": "https://github.com/allenv0/SCM",
+        "domain": "github.com",
+        "score": 62,
+        "descendants": 37,
+        "by": "allenleee",
+        "tags": [
+          "AI",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "一款为macOS开发的工具，支持对本地所有照片和视频帧进行AI深度搜索。"
+      },
+      {
+        "id": 49950554,
+        "title": "Why don't more developers “use the platform”?",
+        "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+        "domain": "nolanlawson.com",
+        "score": 224,
+        "descendants": 221,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "探讨了为何现代开发者倾向于使用复杂框架而非充分利用底层原生平台能力。"
+      },
+      {
+        "id": 49952029,
+        "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+        "url": "https://gamehistory.org/5k-magazines/",
+        "domain": "gamehistory.org",
+        "score": 73,
+        "descendants": 11,
+        "by": "rdmuser",
+        "tags": [],
+        "summary": "电子游戏历史基金会宣布其数字化存档库已突破5000本杂志，并公布了后续扩展计划。"
+      },
+      {
+        "id": 49939637,
+        "title": "The Heilbronn Problem",
+        "url": "https://math.tejstead.com/heilbronn/",
+        "domain": "math.tejstead.com",
+        "score": 31,
+        "descendants": 3,
+        "by": "tejstead",
+        "tags": [],
+        "summary": "探讨组合几何领域中著名的海尔布隆问题，即在单位圆内放置点的分布规律。"
+      },
+      {
+        "id": 49946895,
+        "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+        "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+        "domain": "phoronix.com",
+        "score": 383,
+        "descendants": 67,
+        "by": "speckx",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "报道了Valve工程师Timur Kristóf在Linux内核层面为老旧AMD显卡带来的显著性能优化。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "automatictransmission.khoury.northeastern.edu",
+          "count": 1
+        },
+        {
+          "domain": "niklasroy.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 183,
+      "max_score": {
+        "title": "Tell HN: Bob Cringely has died",
+        "score": 673
+      },
+      "most_discussed": {
+        "title": "Why don't more developers “use the platform”?",
+        "comments": 221
+      },
+      "hot_tags": [
+        "Hardware",
+        "Systems",
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术深度与怀旧人文的交织，包括AI模型部署优化、Linux驱动改进等硬核工程实践，以及对科技界名人离世的悼念。同时，社区讨论也延伸至软硬件平台的开发哲学与复古数字文化保存，反映了极客群体对性能极限与技术传承的持续关注。"
+  }
+}
