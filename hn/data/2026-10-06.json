@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-10-06 04:08",
+    "stories": [
+      {
+        "id": 49969183,
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "domain": "reflection.ai",
+        "score": 89,
+        "descendants": 21,
+        "by": "Philpax",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49968906,
+        "title": "Why Plain Text Is Still One of the Best Technologies We Have",
+        "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
+        "domain": "deadparrotbbs.com",
+        "score": 54,
+        "descendants": 13,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49963171,
+        "title": "Web Search API",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+        "domain": "developers.cloudflare.com",
+        "score": 391,
+        "descendants": 188,
+        "by": "tosh",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 49966163,
+        "title": "The future of independence is interdependence",
+        "url": "https://onlys.ky/independence-is-interdependence/",
+        "domain": "onlys.ky",
+        "score": 112,
+        "descendants": 71,
+        "by": "eustoria",
+        "tags": []
+      },
+      {
+        "id": 49965308,
+        "title": "Making a GTK application in Haskell, part 1",
+        "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+        "domain": "floreal.tech",
+        "score": 109,
+        "descendants": 21,
+        "by": "Vosporos",
+        "tags": []
+      },
+      {
+        "id": 49968105,
+        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+        "domain": "diff.wikimedia.org",
+        "score": 186,
+        "descendants": 124,
+        "by": "brokensegue",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49944049,
+        "title": "Competitive Programmer's Handbook (2018) [pdf]",
+        "url": "https://cses.fi/book/book.pdf",
+        "domain": "cses.fi",
+        "score": 16,
+        "descendants": 1,
+        "by": "vinhnx",
+        "tags": []
+      },
+      {
+        "id": 49965118,
+        "title": "Linux containers in 500 lines of code",
+        "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+        "domain": "blog.lizzie.io",
+        "score": 60,
+        "descendants": 12,
+        "by": "mkornaukhov",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      },
+      {
+        "id": 49952148,
+        "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+        "url": "https://github.com/rsutcliffe/nightwatch",
+        "domain": "github.com",
+        "score": 41,
+        "descendants": 4,
+        "by": "delphidolphin",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49962012,
+        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+        "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+        "domain": "cpr.dk",
+        "score": 428,
+        "descendants": 305,
+        "by": "clan",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "reflection.ai",
+          "count": 1
+        },
+        {
+          "domain": "deadparrotbbs.com",
+          "count": 1
+        },
+        {
+          "domain": "developers.cloudflare.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 149,
+      "max_score": {
+        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+        "score": 428
+      },
+      "most_discussed": {
+        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+        "comments": 305
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": ""
+  }
+}
