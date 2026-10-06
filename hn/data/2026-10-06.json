@@ -148,5 +148,162 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-10-06 11:36",
+    "stories": [
+      {
+        "id": 49969183,
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "domain": "reflection.ai",
+        "score": 347,
+        "descendants": 104,
+        "by": "Philpax",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Reflection AI 发布了名为 Beam 的 501B 超大规模开源权重模型。"
+      },
+      {
+        "id": 49971921,
+        "title": "Example.com just launched the biggest redesign in decades",
+        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+        "domain": "debugbear.com",
+        "score": 116,
+        "descendants": 70,
+        "by": "jgx0",
+        "tags": [],
+        "summary": "Example.com 进行了近几十年来规模最大的一次网页改版。"
+      },
+      {
+        "id": 49971230,
+        "title": "Find the flattest route between any two points in SF",
+        "url": "https://flattensf.com/",
+        "domain": "flattensf.com",
+        "score": 134,
+        "descendants": 43,
+        "by": "ishan0102",
+        "tags": [],
+        "summary": "一个专门为旧金山用户设计的寻找平坦骑行或步行路线的地图工具。"
+      },
+      {
+        "id": 49970871,
+        "title": "Dust: Pretraining Transformers Without Backpropagation",
+        "url": "https://qlabs.sh/research/dust",
+        "domain": "qlabs.sh",
+        "score": 125,
+        "descendants": 21,
+        "by": "E-Reverance",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了一种无需反向传播（Backpropagation）即可预训练 Transformer 模型的新算法。"
+      },
+      {
+        "id": 49971719,
+        "title": "Friendship ended with Deno, now Node is my best friend",
+        "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+        "domain": "dbushell.com",
+        "score": 88,
+        "descendants": 31,
+        "by": "ibobev",
+        "tags": [
+          "JavaScript"
+        ],
+        "summary": "开发者分享了为何从 Deno 迁移回 Node.js 开发生态的个人心路历程。"
+      },
+      {
+        "id": 49972419,
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "url": "https://edworkingpapers.com/ai26-1551",
+        "domain": "edworkingpapers.com",
+        "score": 45,
+        "descendants": 32,
+        "by": "bryan0",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一项针对 Khanmigo AI 导师在学校中应用的长达两年的实验性研究报告。"
+      },
+      {
+        "id": 49973811,
+        "title": "A single license fee of £100k.00",
+        "url": "https://dbushell.com/copyright/",
+        "domain": "dbushell.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "corvad",
+        "tags": [],
+        "summary": "讨论关于单一软件授权费设定在 10 万英镑背后的逻辑与影响。"
+      },
+      {
+        "id": 49945588,
+        "title": "An Algorithmic Failure Beneath the Secret Ballot",
+        "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+        "domain": "blog.citp.princeton.edu",
+        "score": 41,
+        "descendants": 12,
+        "by": "leecoursey",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨秘密投票系统底层算法可能存在的逻辑漏洞与安全隐患。"
+      },
+      {
+        "id": 49970667,
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "domain": "vals.ai",
+        "score": 243,
+        "descendants": 175,
+        "by": "outlier99",
+        "tags": [],
+        "summary": "Opus 5.5 AI 智能体成功辅助科研人员发现了两种室温磁性半导体候选材料。"
+      },
+      {
+        "id": 49971846,
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "domain": "niemanlab.org",
+        "score": 325,
+        "descendants": 222,
+        "by": "rdmuser",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道指出 ChatGPT 生成的假冒《纽约客》漫画中竟包含了真实漫画家的签名，引发侵权争议。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "dbushell.com",
+          "count": 2
+        },
+        {
+          "domain": "reflection.ai",
+          "count": 1
+        },
+        {
+          "domain": "debugbear.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 147,
+      "max_score": {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "score": 347
+      },
+      "most_discussed": {
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "comments": 222
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术的前沿突破与争议，涵盖了超大模型发布、新算法研究及 AI 生成内容引发的版权伦理问题。此外，技术圈对于开发工具链的选择与实验性社会创新也展现出持续的讨论热情。"
   }
 }
