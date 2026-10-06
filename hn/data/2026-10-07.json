@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-10-07 01:49",
+    "stories": [
+      {
+        "id": 49977979,
+        "title": "Mistral Large 4",
+        "url": "https://mistral.ai/news/mistral-large-4/\\",
+        "domain": "mistral.ai",
+        "score": 989,
+        "descendants": 661,
+        "by": "Philpax",
+        "tags": []
+      },
+      {
+        "id": 49976265,
+        "title": "Nobel Prize in Physics goes to Francis Halzen",
+        "url": "https://www.nobelprize.org/prizes/physics/2026/",
+        "domain": "nobelprize.org",
+        "score": 374,
+        "descendants": 113,
+        "by": "solarist",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 49977177,
+        "title": "Release of Polars 2.0",
+        "url": "https://pola.rs/posts/release-polars-2/",
+        "domain": "pola.rs",
+        "score": 291,
+        "descendants": 52,
+        "by": "simicd",
+        "tags": []
+      },
+      {
+        "id": 49980715,
+        "title": "AI is now capable of developing its own inference hardware",
+        "url": "https://github.com/FeSens/openTPU",
+        "domain": "github.com",
+        "score": 99,
+        "descendants": 64,
+        "by": "fsbonetto",
+        "tags": [
+          "AI",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49979845,
+        "title": "The Early History of Smalltalk (1993)",
+        "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+        "domain": "worrydream.com",
+        "score": 55,
+        "descendants": 11,
+        "by": "_reza",
+        "tags": []
+      },
+      {
+        "id": 49978563,
+        "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+        "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+        "domain": "mihai.dinculescu.dev",
+        "score": 88,
+        "descendants": 31,
+        "by": "faithraven",
+        "tags": [
+          "Rust",
+          "Python"
+        ]
+      },
+      {
+        "id": 49977072,
+        "title": "JetBrains reported a net financial loss first time in its tracked history",
+        "url": "https://www.helgilibrary.com/companies/jetbrains",
+        "domain": "helgilibrary.com",
+        "score": 492,
+        "descendants": 466,
+        "by": "thw_9a83c",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49967427,
+        "title": "Benchmark in Milliseconds",
+        "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+        "domain": "matklad.github.io",
+        "score": 73,
+        "descendants": 15,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 49977588,
+        "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+        "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+        "domain": "techdirt.com",
+        "score": 279,
+        "descendants": 179,
+        "by": "beardyw",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 49975619,
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "domain": "gleam.run",
+        "score": 214,
+        "descendants": 94,
+        "by": "ingve",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mistral.ai",
+          "count": 1
+        },
+        {
+          "domain": "nobelprize.org",
+          "count": 1
+        },
+        {
+          "domain": "pola.rs",
+          "count": 1
+        }
+      ],
+      "avg_score": 295,
+      "max_score": {
+        "title": "Mistral Large 4",
+        "score": 989
+      },
+      "most_discussed": {
+        "title": "Mistral Large 4",
+        "comments": 661
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware",
+        "Rust",
+        "Python"
+      ]
+    },
+    "summary": ""
+  }
+}
