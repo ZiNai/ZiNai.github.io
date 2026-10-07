@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-10-08 02:20",
+    "stories": [
+      {
+        "id": 49996437,
+        "title": "Claude Haiku 5.5",
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "domain": "anthropic.com",
+        "score": 103,
+        "descendants": 44,
+        "by": "sfkgtbor",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 49993914,
+        "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+        "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+        "domain": "classaction.org",
+        "score": 260,
+        "descendants": 121,
+        "by": "DeepLogin",
+        "tags": []
+      },
+      {
+        "id": 49996425,
+        "title": "GPT‑6 and Intelligent UI for everyone",
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "domain": "openai.com",
+        "score": 43,
+        "descendants": 5,
+        "by": "joshuawright11",
+        "tags": [
+          "AI",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 49993857,
+        "title": "Animated ASCII Art for Web Pages",
+        "url": "https://ascii.rest/",
+        "domain": "ascii.rest",
+        "score": 146,
+        "descendants": 34,
+        "by": "turrini",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 49994443,
+        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+        "url": "https://bigwords.page/",
+        "domain": "bigwords.page",
+        "score": 102,
+        "descendants": 25,
+        "by": "SpeakingOfBrad",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 49991227,
+        "title": "Shipping JPEG XL in Chrome",
+        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "domain": "developer.chrome.com",
+        "score": 379,
+        "descendants": 236,
+        "by": "AshleysBrain",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 49994027,
+        "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+        "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+        "domain": "githubstatus.com",
+        "score": 215,
+        "descendants": 167,
+        "by": "gagan2020",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 49990224,
+        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+        "url": "https://github.com/szabadkai/c64-keyboard-font/",
+        "domain": "github.com",
+        "score": 321,
+        "descendants": 56,
+        "by": "sohkamyung",
+        "tags": []
+      },
+      {
+        "id": 49974173,
+        "title": "Wood Tape (2004)",
+        "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+        "domain": "gamesbyemail.com",
+        "score": 79,
+        "descendants": 8,
+        "by": "NaOH",
+        "tags": []
+      },
+      {
+        "id": 49990470,
+        "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+        "domain": "nobelprize.org",
+        "score": 246,
+        "descendants": 42,
+        "by": "sasvari",
+        "tags": [
+          "AI",
+          "Science"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "classaction.org",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 189,
+      "max_score": {
+        "title": "Shipping JPEG XL in Chrome",
+        "score": 379
+      },
+      "most_discussed": {
+        "title": "Shipping JPEG XL in Chrome",
+        "comments": 236
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Hardware",
+        "Show HN",
+        "Open Source"
+      ]
+    },
+    "summary": ""
+  }
+}
