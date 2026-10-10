@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-10-11 00:51",
+    "stories": [
+      {
+        "id": 50033407,
+        "title": "Bitwarden Dual License Model",
+        "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+        "domain": "community.bitwarden.com",
+        "score": 166,
+        "descendants": 107,
+        "by": "Cider9986",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Bitwarden 调整其开源授权模式，引发社区对双许可策略的讨论。"
+      },
+      {
+        "id": 50034081,
+        "title": "Knuth Reward Check",
+        "url": "https://www.thomas-huehn.com/knuth-reward-check",
+        "domain": "thomas-huehn.com",
+        "score": 28,
+        "descendants": 10,
+        "by": "Curiositry",
+        "tags": [],
+        "summary": "关于高德纳（Donald Knuth）奖励支票及其背后的轶事记录。"
+      },
+      {
+        "id": 50031614,
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "domain": "github.com",
+        "score": 142,
+        "descendants": 74,
+        "by": "rociiu",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Talorys 是一个基于 Cloudflare 免费层部署的自托管个人 AI 代理解决方案。"
+      },
+      {
+        "id": 50024242,
+        "title": "Rampart: Browser native on-device PII radaction",
+        "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+        "domain": "ndstudio.gov",
+        "score": 26,
+        "descendants": 10,
+        "by": "nateb2022",
+        "tags": [
+          "Web"
+        ],
+        "summary": "美国政府发布 Rampart 项目，旨在浏览器端实现原生的个人身份信息（PII）脱敏。"
+      },
+      {
+        "id": 50016956,
+        "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+        "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+        "domain": "blogs.windows.com",
+        "score": 46,
+        "descendants": 7,
+        "by": "smokel",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软发布 Mxc (Microsoft Execution Containers) 1.0.0 版本，旨在提升容器化执行能力。"
+      },
+      {
+        "id": 50028275,
+        "title": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
+        "domain": "rea.tools",
+        "score": 580,
+        "descendants": 253,
+        "by": "modinfo",
+        "tags": [],
+        "summary": "REA 是一款旨在实现“逆向工程一切”的工具平台，近期热度极高。"
+      },
+      {
+        "id": 50029123,
+        "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "domain": "beaksec.github.io",
+        "score": 314,
+        "descendants": 161,
+        "by": "g-b-r",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Telegram 桌面端被曝存在严重漏洞，可能导致用户本地文件被恶意窃取。"
+      },
+      {
+        "id": 50032758,
+        "title": "I would like the value of my home to rise, while my property taxes fall",
+        "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+        "domain": "conversableeconomist.com",
+        "score": 80,
+        "descendants": 159,
+        "by": "colinprince",
+        "tags": [],
+        "summary": "经济学视角探讨房产价值上涨与房产税降低之间的矛盾诉求。"
+      },
+      {
+        "id": 50022292,
+        "title": "Triple-A Minesweeper",
+        "url": "https://minesweeper.mikelacher.com/",
+        "domain": "minesweeper.mikelacher.com",
+        "score": 1218,
+        "descendants": 242,
+        "by": "robin_reala",
+        "tags": [],
+        "summary": "一款制作精良、画质顶级的网页版扫雷游戏，在社区引起热烈反响。"
+      },
+      {
+        "id": 50031269,
+        "title": "`123456' password used in Danish CPR data breach",
+        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+        "domain": "cphpost.dk",
+        "score": 309,
+        "descendants": 170,
+        "by": "baal80spam",
+        "tags": [],
+        "summary": "丹麦 CPR 数据泄露事件分析，指出弱口令“123456”在安全防线中的脆弱性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "community.bitwarden.com",
+          "count": 1
+        },
+        {
+          "domain": "thomas-huehn.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 291,
+      "max_score": {
+        "title": "Triple-A Minesweeper",
+        "score": 1218
+      },
+      "most_discussed": {
+        "title": "REA Reverse – Engineer Anything",
+        "comments": 253
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Security"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于安全与隐私议题，包括数据泄露事件及浏览器端隐私保护技术。同时，社区对 AI 代理部署、开源项目许可模式以及怀旧类游戏应用保持了高度关注。"
+  }
+}
