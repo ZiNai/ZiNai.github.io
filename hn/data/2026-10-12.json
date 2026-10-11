@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-10-12 01:14",
+    "stories": [
+      {
+        "id": 50042219,
+        "title": "I paid people to try and follow my README",
+        "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+        "domain": "shkspr.mobi",
+        "score": 254,
+        "descendants": 128,
+        "by": "edent",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者通过付费邀请他人测试其README的可读性，揭示了文档编写中常见的用户理解偏差。"
+      },
+      {
+        "id": 50044733,
+        "title": "The Corporate Happiness Treadmill and the Case for Doing Less",
+        "url": "https://0xff.nu/corp-burnout/",
+        "domain": "0xff.nu",
+        "score": 25,
+        "descendants": 12,
+        "by": "hxii",
+        "tags": [],
+        "summary": "探讨企业文化中盲目追求快乐对工作效能的负面影响，并倡导以更适度的节奏工作。"
+      },
+      {
+        "id": 50042425,
+        "title": "The tilde in your PATH may not be your HOME",
+        "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+        "domain": "disconnect3d.pl",
+        "score": 136,
+        "descendants": 75,
+        "by": "arusekk",
+        "tags": [],
+        "summary": "深入分析了不同 Shell 对路径中波浪号（~）的处理差异，揭示了可能导致的安全隐患。"
+      },
+      {
+        "id": 50041619,
+        "title": "Bot traffic from Yandex",
+        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+        "domain": "radar.cloudflare.com",
+        "score": 506,
+        "descendants": 195,
+        "by": "walrus01",
+        "tags": [],
+        "summary": "Cloudflare 分析了 Yandex 机器流量对网站造成的负面影响，引发对网络抓取与合规性的讨论。"
+      },
+      {
+        "id": 50040276,
+        "title": "LineageOS 24.0",
+        "url": "https://lineageos.org/Changelog-32/",
+        "domain": "lineageos.org",
+        "score": 301,
+        "descendants": 106,
+        "by": "timschumi",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Android 第三方 ROM 领头羊 LineageOS 正式发布 24.0 版本，带来系统维护与升级更新。"
+      },
+      {
+        "id": 50042362,
+        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+        "url": "https://verdagon.dev/blog/valen-group-borrowing",
+        "domain": "verdagon.dev",
+        "score": 78,
+        "descendants": 32,
+        "by": "verdagon",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍一种名为 Valen 的新内存安全方案，探讨其在借用检查机制上的创新思路。"
+      },
+      {
+        "id": 50042333,
+        "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+        "url": "https://betterwispr.com/",
+        "domain": "betterwispr.com",
+        "score": 60,
+        "descendants": 32,
+        "by": "kartik017",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "一款为 Mac 开发的免费开源语音转文字工具，旨在提供更隐私便捷的听写体验。"
+      },
+      {
+        "id": 50044272,
+        "title": "How I reverse engineered a commercial spatial audio effect",
+        "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+        "domain": "epestr.com",
+        "score": 21,
+        "descendants": 8,
+        "by": "epestr",
+        "tags": [],
+        "summary": "作者分享了逆向工程商业空间音频特效算法的完整过程与技术细节。"
+      },
+      {
+        "id": 50041682,
+        "title": "Nitter: Update Oct 10th seeking funding and legal help",
+        "url": "https://nitter.net",
+        "domain": "nitter.net",
+        "score": 325,
+        "descendants": 154,
+        "by": "ForHackernews",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Twitter 第三方前端 Nitter 在面临平台 API 限制压力下，发布关于法律支持与资金的需求公告。"
+      },
+      {
+        "id": 50028647,
+        "title": "The RAM shortage is bringing back DDR4",
+        "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "domain": "theverge.com",
+        "score": 183,
+        "descendants": 171,
+        "by": "1potato",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "shkspr.mobi",
+          "count": 1
+        },
+        {
+          "domain": "0xff.nu",
+          "count": 1
+        },
+        {
+          "domain": "disconnect3d.pl",
+          "count": 1
+        }
+      ],
+      "avg_score": 189,
+      "max_score": {
+        "title": "Bot traffic from Yandex",
+        "score": 506
+      },
+      "most_discussed": {
+        "title": "Bot traffic from Yandex",
+        "comments": 195
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Show HN",
+        "Open Source",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于技术底层的深耕与挑战，涵盖了内存安全创新、操作系统版本更新以及系统路径安全等硬核开发主题。同时，社区对网络流量安全、开源项目的可持续发展以及企业文化反思展现了高度关注，体现了开发者在应对技术实操与职场压力时的复杂关切。"
+  }
+}
