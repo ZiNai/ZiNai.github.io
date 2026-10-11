@@ -151,5 +151,159 @@
       ]
     },
     "summary": "本期 Hacker News 焦点主要集中在技术实践与创意工程，涵盖了从 AI 应用开发与伦理争议，到老硬件改造及趣味小游戏等多元话题。开发者们展示了对工具构建、逆向工程和计算历史的深厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-10-11 18:24",
+    "stories": [
+      {
+        "id": 50040276,
+        "title": "LineageOS 24.0",
+        "url": "https://lineageos.org/Changelog-32/",
+        "domain": "lineageos.org",
+        "score": 100,
+        "descendants": 23,
+        "by": "timschumi",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "LineageOS 发布 24.0 版本，继续为老旧设备提供现代化的安卓系统支持。"
+      },
+      {
+        "id": 50037949,
+        "title": "Build your own decision model",
+        "url": "https://nishtahir.com/build-your-own-decision-model/",
+        "domain": "nishtahir.com",
+        "score": 308,
+        "descendants": 72,
+        "by": "softwaredoug",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨如何构建个人决策模型，通过系统化方法提升抉择质量。"
+      },
+      {
+        "id": 49991852,
+        "title": "2D Vehicles",
+        "url": "https://patkerr.co.uk/2d-vehicles/",
+        "domain": "patkerr.co.uk",
+        "score": 484,
+        "descendants": 101,
+        "by": "Michelangelo11",
+        "tags": [],
+        "summary": "展示了 2D 载具设计的相关技术原理及实现逻辑。"
+      },
+      {
+        "id": 50036864,
+        "title": "A city-building game in which the city would prefer you didn't",
+        "url": "https://housing.over.pizza/",
+        "domain": "housing.over.pizza",
+        "score": 351,
+        "descendants": 117,
+        "by": "JumpCrisscross",
+        "tags": [],
+        "summary": "介绍一款反向机制的城市建造游戏，模拟城市如何“抗拒”玩家的管理。"
+      },
+      {
+        "id": 50029487,
+        "title": "The Lightbulb Computer",
+        "url": "https://lightbulbcomputer.com/",
+        "domain": "lightbulbcomputer.com",
+        "score": 427,
+        "descendants": 66,
+        "by": "oskarth",
+        "tags": [],
+        "summary": "展示如何使用白炽灯泡打造计算机系统的硬核工程项目。"
+      },
+      {
+        "id": 50017548,
+        "title": "How big is a Git commit?",
+        "url": "https://ratfactor.com/cards/git-commit-size",
+        "domain": "ratfactor.com",
+        "score": 36,
+        "descendants": 17,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "探讨如何衡量 Git 提交的体量，以及代码变更的理想粒度。"
+      },
+      {
+        "id": 50038623,
+        "title": "PSPi 6 – Raspberry Pi in a PSP",
+        "url": "https://github.com/othermod/PSPi-Version-6",
+        "domain": "github.com",
+        "score": 88,
+        "descendants": 7,
+        "by": "therepanic",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "硬核 DIY 项目，将树莓派嵌入索尼 PSP 机身以实现复古游戏体验。"
+      },
+      {
+        "id": 50028647,
+        "title": "Decade-old RAM is making a comeback",
+        "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "domain": "theverge.com",
+        "score": 69,
+        "descendants": 57,
+        "by": "1potato",
+        "tags": [],
+        "summary": "分析为何十年前的旧款内存条在当下市场重新受到关注。"
+      },
+      {
+        "id": 50001234,
+        "title": "Retrofitting language models to operate over bytes",
+        "url": "https://www.nature.com/articles/s41586-026-11111-4",
+        "domain": "nature.com",
+        "score": 66,
+        "descendants": 7,
+        "by": "theanonymousone",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究如何让语言模型直接处理字节序列，以优化其底层运行效率。"
+      },
+      {
+        "id": 50039063,
+        "title": "European Alternatives",
+        "url": "https://buy-european.net/en/alternatives",
+        "domain": "buy-european.net",
+        "score": 52,
+        "descendants": 25,
+        "by": "doener",
+        "tags": [],
+        "summary": "推荐欧洲本地替代产品，倡导更可持续与本土化的消费选择。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lineageos.org",
+          "count": 1
+        },
+        {
+          "domain": "nishtahir.com",
+          "count": 1
+        },
+        {
+          "domain": "patkerr.co.uk",
+          "count": 1
+        }
+      ],
+      "avg_score": 198,
+      "max_score": {
+        "title": "2D Vehicles",
+        "score": 484
+      },
+      "most_discussed": {
+        "title": "A city-building game in which the city would prefer you didn't",
+        "comments": 117
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "今日 Hacker News 热门讨论聚焦于硬核技术改造与极客项目，从经典硬件如PSP与老旧RAM的重焕新生，到软件工程中的Git分析及AI底层优化。同时，社区对城市模拟游戏及决策模型构建等创意与工程实践展现了浓厚兴趣。"
   }
 }
