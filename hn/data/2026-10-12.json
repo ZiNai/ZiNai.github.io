@@ -309,5 +309,167 @@
       ]
     },
     "summary": "本期 Hacker News 焦点涵盖了从底层技术重构到前沿 AI 进展的多元议题。开发者对高性能计算与软件复刻展现出极高热情，同时关于人工智能能力边界、隐私监测及企业环境责任的社会讨论也引发了广泛关注。"
+  },
+  "evening": {
+    "time": "2026-10-12 19:25",
+    "stories": [
+      {
+        "id": 50054207,
+        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+        "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+        "domain": "bbc.com",
+        "score": 119,
+        "descendants": 24,
+        "by": "Betelbuddy",
+        "tags": [],
+        "summary": "德勤因伪造文件协助阿布拉莫维奇逃税而受到广泛批评与调查。"
+      },
+      {
+        "id": 50051573,
+        "title": "Type-safe HTML templating in Zig",
+        "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+        "domain": "lalinsky.com",
+        "score": 137,
+        "descendants": 60,
+        "by": "lukaslalinsky",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "探讨如何通过Zig语言实现类型安全的HTML模板渲染。"
+      },
+      {
+        "id": 50054751,
+        "title": "QGIS bans AI assisted contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "domain": "github.com",
+        "score": 4,
+        "descendants": 0,
+        "by": "bwnkl",
+        "tags": [
+          "AI"
+        ],
+        "summary": "QGIS项目组正式宣布禁止提交包含人工智能辅助生成的代码。"
+      },
+      {
+        "id": 50048642,
+        "title": "Fingerprints are the new cookies",
+        "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+        "domain": "royfish.dev",
+        "score": 422,
+        "descendants": 217,
+        "by": "royfish",
+        "tags": [],
+        "summary": "深入分析浏览器指纹技术如何演变为类似Cookie的追踪工具。"
+      },
+      {
+        "id": 50037711,
+        "title": "Secret of Orange Cats Revealed After 60-Year Search",
+        "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+        "domain": "sciencealert.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "历时60年的科学探索揭示了橘猫毛色背后的基因遗传机制。"
+      },
+      {
+        "id": 50045984,
+        "title": "Total Annihilation, rebuilt for modern computers",
+        "url": "https://nanolathe.gg",
+        "domain": "nanolathe.gg",
+        "score": 545,
+        "descendants": 207,
+        "by": "jttnr",
+        "tags": [],
+        "summary": "经典即时战略游戏《横扫千军》被爱好者重构以适配现代计算机。"
+      },
+      {
+        "id": 50052163,
+        "title": "Postgres isn't slow, your storage is",
+        "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+        "domain": "clickhouse.com",
+        "score": 116,
+        "descendants": 93,
+        "by": "saisrirampur",
+        "tags": [
+          "Database"
+        ],
+        "summary": "解析Postgres数据库性能瓶颈，核心问题往往在于存储配置而非软件本身。"
+      },
+      {
+        "id": 50041573,
+        "title": "Running the unmodified Linux amdgpu driver on an iPad",
+        "url": "https://github.com/Geramy/LemonSeed-Studio",
+        "domain": "github.com",
+        "score": 35,
+        "descendants": 13,
+        "by": "joshcsimmons",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "技术实践记录：在iPad上成功运行原生Linux amdgpu驱动程序的尝试。"
+      },
+      {
+        "id": 50052251,
+        "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+        "url": "https://github.com/snuri00/ps2-web-recomp",
+        "domain": "github.com",
+        "score": 51,
+        "descendants": 16,
+        "by": "deadxwarrior",
+        "tags": [
+          "Web",
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "将PS2经典游戏静态重编译为WebAssembly，实现浏览器直接运行。"
+      },
+      {
+        "id": 50034206,
+        "title": "Calculus with Julia",
+        "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+        "domain": "jverzani.github.io",
+        "score": 144,
+        "descendants": 15,
+        "by": "subset",
+        "tags": [],
+        "summary": "一本利用Julia语言进行微积分教学的开源互动教程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "bbc.com",
+          "count": 1
+        },
+        {
+          "domain": "lalinsky.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 158,
+      "max_score": {
+        "title": "Total Annihilation, rebuilt for modern computers",
+        "score": 545
+      },
+      "most_discussed": {
+        "title": "Fingerprints are the new cookies",
+        "comments": 217
+      },
+      "hot_tags": [
+        "Systems",
+        "Web",
+        "AI",
+        "Database",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热点呈现出多元的技术探索与严谨的行业监管并存的趋势。开发者关注焦点集中在底层系统优化、游戏重构与编程语言特性，同时关于数据隐私与合规性的讨论依然是社区关注的重点。"
   }
 }
