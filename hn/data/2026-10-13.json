@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-10-13 04:49",
+    "stories": [
+      {
+        "id": 50060694,
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "url": "https://github.com/openai/codex/issues/48195",
+        "domain": "github.com",
+        "score": 299,
+        "descendants": 178,
+        "by": "whimblepop",
+        "tags": [],
+        "summary": "Codex CLI 被爆默认安装常驻后台守护进程，引发用户对安全及隐私的担忧。"
+      },
+      {
+        "id": 50058507,
+        "title": "GLM-Legal",
+        "url": "https://z.ai/blog/glm-legal",
+        "domain": "z.ai",
+        "score": 322,
+        "descendants": 176,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "GLM-Legal 是专为法律领域打造的专业大模型应用。"
+      },
+      {
+        "id": 50058528,
+        "title": "A Modern Web App in C",
+        "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "domain": "prophitt.me",
+        "score": 254,
+        "descendants": 103,
+        "by": "prophittcorey",
+        "tags": [
+          "Web"
+        ],
+        "summary": "作者分享了如何仅使用 C 语言构建现代 Web 应用程序的技术方案。"
+      },
+      {
+        "id": 50059523,
+        "title": "AI coding agents generate more code, but not more software",
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+        "domain": "arstechnica.com",
+        "score": 209,
+        "descendants": 173,
+        "by": "gumby",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章探讨了 AI 编程代理虽然能大幅增加代码产出量，但未必能提升整体软件交付质量。"
+      },
+      {
+        "id": 50059096,
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "domain": "news.ycombinator.com",
+        "score": 64,
+        "descendants": 46,
+        "by": "vishnukool",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Agent37 提供低成本的沙盒环境，专门用于安全地运行各类 AI 代理。"
+      },
+      {
+        "id": 50061859,
+        "title": "Writing a Demoscene Intro for the ZX Spectrum",
+        "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+        "domain": "markround.com",
+        "score": 16,
+        "descendants": 0,
+        "by": "zdw",
+        "tags": [],
+        "summary": "探讨如何为 ZX Spectrum 老式计算机编写演示场景（Demoscene）的入门程序。"
+      },
+      {
+        "id": 50055304,
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+        "domain": "tomshardware.com",
+        "score": 249,
+        "descendants": 502,
+        "by": "Zeekaas",
+        "tags": [
+          "Security"
+        ],
+        "summary": "黑客入侵并激活了欧洲多家超市的冰箱自动除霜功能，凸显了物联网基础设施的安全隐患。"
+      },
+      {
+        "id": 50055593,
+        "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+        "url": "https://github.com/h0m3us3r/w1700k-sdr",
+        "domain": "github.com",
+        "score": 186,
+        "descendants": 50,
+        "by": "djfergus",
+        "tags": [],
+        "summary": "教程展示如何将 WiFi 7 路由器改装为高频宽的软件定义无线电（SDR）接收机。"
+      },
+      {
+        "id": 50055220,
+        "title": "Citroen revives the 2CV for an electric age",
+        "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+        "domain": "bbc.com",
+        "score": 209,
+        "descendants": 236,
+        "by": "scrlk",
+        "tags": []
+      },
+      {
+        "id": 50059115,
+        "title": "Muse Wonder",
+        "url": "https://research.meta.ai/blog/muse-wonder",
+        "domain": "research.meta.ai",
+        "score": 419,
+        "descendants": 204,
+        "by": "meetpateltech",
+        "tags": [],
+        "summary": "Meta 发布 Muse Wonder 研究成果，探索生成式 AI 在创意表达领域的新能力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "z.ai",
+          "count": 1
+        },
+        {
+          "domain": "prophitt.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 223,
+      "max_score": {
+        "title": "Muse Wonder",
+        "score": 419
+      },
+      "most_discussed": {
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "comments": 502
+      },
+      "hot_tags": [
+        "Web",
+        "AI",
+        "Startup",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News热门话题涵盖了AI技术的广泛应用与争议，包括编码代理的实际效能及代码库的安全风险。此外，社区对复古计算、硬件极客改装以及工程创新应用（如智能冰箱与电动复古车）表现出了浓厚兴趣。"
+  }
+}
