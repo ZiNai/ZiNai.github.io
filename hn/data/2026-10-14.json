@@ -1,0 +1,153 @@
+{
+  "morning": {
+    "time": "2026-10-14 02:47",
+    "stories": [
+      {
+        "id": 50073879,
+        "title": "Gemini 4 Argon",
+        "url": "https://deepmind.google/models/gemini/",
+        "domain": "deepmind.google",
+        "score": 534,
+        "descendants": 415,
+        "by": "737max",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google发布Gemini 4 Argon，展示了其最新的大规模多模态模型能力。"
+      },
+      {
+        "id": 50071017,
+        "title": "Apple HomeView",
+        "url": "https://www.apple.com/apple-homeview/",
+        "domain": "apple.com",
+        "score": 497,
+        "descendants": 621,
+        "by": "etothet",
+        "tags": [],
+        "summary": "苹果正式推出HomeView产品，拓展其智能家居与个人计算生态。"
+      },
+      {
+        "id": 50074289,
+        "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+        "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+        "domain": "ua.news",
+        "score": 94,
+        "descendants": 59,
+        "by": "paaloeye",
+        "tags": [],
+        "summary": "丹麦与德国之间的海底隧道建设工程因遭受网络攻击而被迫中断。"
+      },
+      {
+        "id": 50074869,
+        "title": "Gemini 4 Argon for Robotics",
+        "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+        "domain": "developers.googleblog.com",
+        "score": 69,
+        "descendants": 15,
+        "by": "xnx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google详细介绍Gemini 4 Argon模型在机器人控制与自动化领域的具体应用。"
+      },
+      {
+        "id": 50072913,
+        "title": "Thunderbird for iOS",
+        "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+        "domain": "blog.thunderbird.net",
+        "score": 185,
+        "descendants": 72,
+        "by": "mjorgers",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Thunderbird邮件客户端正式发布iOS版本，旨在提升跨设备沟通体验。"
+      },
+      {
+        "id": 50069499,
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "url": "https://github.com/rust-lang/rust/issues/164250",
+        "domain": "github.com",
+        "score": 577,
+        "descendants": 333,
+        "by": "formerly_proven",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Rust borrow checker中被发现存在长达11年的技术漏洞，引发社区对语言安全性的讨论。"
+      },
+      {
+        "id": 50073221,
+        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+        "domain": "sammystraus.com",
+        "score": 131,
+        "descendants": 75,
+        "by": "sammy0910",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "一名博主分享其在发布内容至HN后遭遇大规模AI机器人流量攻击的经历。"
+      },
+      {
+        "id": 50070302,
+        "title": "Firefox Enterprise",
+        "url": "https://www.firefox.com/en-US/enterprise/",
+        "domain": "firefox.com",
+        "score": 440,
+        "descendants": 179,
+        "by": "recvonline",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Firefox推出针对企业级市场的定制化解决方案，强调管理与安全性。"
+      },
+      {
+        "id": 50073633,
+        "title": "Redesigning source control at Anthropic",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "domain": "anthropic.com",
+        "score": 148,
+        "descendants": 115,
+        "by": "Philpax",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic分享了其在公司内部重构源代码管理流程的技术实践。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "deepmind.google",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        },
+        {
+          "domain": "ua.news",
+          "count": 1
+        }
+      ],
+      "avg_score": 297,
+      "max_score": {
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "score": 577
+      },
+      "most_discussed": {
+        "title": "Apple HomeView",
+        "comments": 621
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News焦点集中在科技巨头的产品发布与重大技术安全事件，Gemini 4 Argon和Apple HomeView引发广泛讨论。同时，开发者群体正关注Rust borrow checker的长期漏洞以及企业软件环境下的技术挑战与安全风险。"
+  }
+}
