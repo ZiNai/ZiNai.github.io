@@ -152,5 +152,169 @@
       ]
     },
     "summary": "今日Hacker News热门话题涵盖了AI技术的广泛应用与争议，包括编码代理的实际效能及代码库的安全风险。此外，社区对复古计算、硬件极客改装以及工程创新应用（如智能冰箱与电动复古车）表现出了浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-10-13 12:15",
+    "stories": [
+      {
+        "id": 50041866,
+        "title": "The baffling intelligence of a single cell (2024)",
+        "url": "https://jsomers.net/e-coli-chemotaxis/",
+        "domain": "jsomers.net",
+        "score": 128,
+        "descendants": 11,
+        "by": "jsomers",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨单细胞生物展现出的惊人智能，引发关于生命复杂性与认知本质的深度思考。"
+      },
+      {
+        "id": 50058507,
+        "title": "GLM-Legal",
+        "url": "https://z.ai/blog/glm-legal",
+        "domain": "z.ai",
+        "score": 476,
+        "descendants": 275,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "介绍专门针对法律领域优化的GLM模型，旨在解决大模型在法律场景下的专业准确性问题。"
+      },
+      {
+        "id": 50065692,
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "url": "https://arxiv.org/abs/2610.13928",
+        "domain": "arxiv.org",
+        "score": 29,
+        "descendants": 6,
+        "by": "sbulaev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究指出AI模型能够通过机制设计刻意隐藏其特定能力，对模型安全评估提出新挑战。"
+      },
+      {
+        "id": 50058528,
+        "title": "A Modern Web App in C",
+        "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "domain": "prophitt.me",
+        "score": 445,
+        "descendants": 178,
+        "by": "prophittcorey",
+        "tags": [
+          "Web"
+        ],
+        "summary": "演示如何完全使用C语言构建现代Web应用，探索底层语言在构建高性能网页后端中的可行性。"
+      },
+      {
+        "id": 50063365,
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "domain": "intel.com",
+        "score": 110,
+        "descendants": 46,
+        "by": "hurricanepootis",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "英特尔发布D270 AI加速器，配备高达480GB大容量内存，专为大规模AI计算优化。"
+      },
+      {
+        "id": 50063138,
+        "title": "Who is vfmaddrnd231pd?",
+        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+        "domain": "purplesyringa.moe",
+        "score": 141,
+        "descendants": 15,
+        "by": "pngmangi",
+        "tags": [],
+        "summary": "追溯网络昵称“vfmaddrnd231pd”的身份起源，揭开技术圈内隐秘人物的背景调查。"
+      },
+      {
+        "id": 50055304,
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+        "domain": "tomshardware.com",
+        "score": 506,
+        "descendants": 700,
+        "by": "Zeekaas",
+        "tags": [
+          "Security"
+        ],
+        "summary": "大规模黑客攻击导致欧洲多家超市冷柜自动除霜功能被异常激活，凸显物联网设备的安全性危机。"
+      },
+      {
+        "id": 50065932,
+        "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+        "url": "https://www.argmin.net/p/faster-fourier-transforms",
+        "domain": "argmin.net",
+        "score": 45,
+        "descendants": 27,
+        "by": "mochomocha",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析OpenAI关于快速傅里叶变换（FFT）的数学优化声明及其在计算性能上的实际影响。"
+      },
+      {
+        "id": 50063717,
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "url": "https://github.com/prabanta-dev/janas",
+        "domain": "github.com",
+        "score": 66,
+        "descendants": 25,
+        "by": "khalidkhair",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Janas项目，通过从SSD实时流式传输专家参数，突破内存限制运行大型LLM。"
+      },
+      {
+        "id": 50061791,
+        "title": "Making big downloads resumable in Firefox",
+        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+        "domain": "lunarwatcher.codeberg.page",
+        "score": 126,
+        "descendants": 43,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨改进Firefox大文件下载恢复机制的技术细节，提升用户在不稳定网络环境下的下载体验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jsomers.net",
+          "count": 1
+        },
+        {
+          "domain": "z.ai",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 207,
+      "max_score": {
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "score": 506
+      },
+      "most_discussed": {
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "comments": 700
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Web",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在AI技术的深度演进与硬件革新，涵盖了从模型隐蔽能力到算力加速的讨论。同时，系统工程领域也表现出强劲的活力，从底层的C语言Web开发到浏览器下载优化，展示了技术社区对性能提升与基础设施安全持续关注。"
   }
 }
