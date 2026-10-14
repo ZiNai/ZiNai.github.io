@@ -1,120 +1,131 @@
 {
   "morning": {
-    "time": "2026-10-14 02:47",
+    "time": "2026-10-14 10:27",
     "stories": [
       {
         "id": 50073879,
         "title": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
         "domain": "deepmind.google",
-        "score": 534,
-        "descendants": 415,
+        "score": 1042,
+        "descendants": 769,
         "by": "737max",
         "tags": [
           "AI"
         ],
-        "summary": "Google发布Gemini 4 Argon，展示了其最新的大规模多模态模型能力。"
+        "summary": "DeepMind发布Gemini 4 Argon，进一步推进多模态AI模型的能力边界。"
       },
       {
-        "id": 50071017,
-        "title": "Apple HomeView",
-        "url": "https://www.apple.com/apple-homeview/",
-        "domain": "apple.com",
-        "score": 497,
-        "descendants": 621,
-        "by": "etothet",
-        "tags": [],
-        "summary": "苹果正式推出HomeView产品，拓展其智能家居与个人计算生态。"
-      },
-      {
-        "id": 50074289,
-        "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-        "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
-        "domain": "ua.news",
-        "score": 94,
-        "descendants": 59,
-        "by": "paaloeye",
-        "tags": [],
-        "summary": "丹麦与德国之间的海底隧道建设工程因遭受网络攻击而被迫中断。"
-      },
-      {
-        "id": 50074869,
-        "title": "Gemini 4 Argon for Robotics",
-        "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-        "domain": "developers.googleblog.com",
-        "score": 69,
-        "descendants": 15,
-        "by": "xnx",
+        "id": 50077020,
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
+        "domain": "guitoro.com",
+        "score": 299,
+        "descendants": 90,
+        "by": "talccc",
         "tags": [
-          "AI"
+          "Show HN"
         ],
-        "summary": "Google详细介绍Gemini 4 Argon模型在机器人控制与自动化领域的具体应用。"
+        "summary": "一个允许用户通过键盘模拟弹奏吉他的网页端虚拟乐器工具。"
       },
       {
-        "id": 50072913,
-        "title": "Thunderbird for iOS",
-        "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-        "domain": "blog.thunderbird.net",
-        "score": 185,
-        "descendants": 72,
-        "by": "mjorgers",
+        "id": 50054092,
+        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "domain": "bleepingcomputer.com",
+        "score": 464,
+        "descendants": 340,
+        "by": "thm",
         "tags": [
-          "Systems"
+          "Hardware"
         ],
-        "summary": "Thunderbird邮件客户端正式发布iOS版本，旨在提升跨设备沟通体验。"
+        "summary": "报道称Ledger加密钱包遭到供应链攻击，硬件中被植入恶意间谍芯片。"
       },
       {
-        "id": 50069499,
-        "title": "11 year old unsoundness bugs found in Rust borrow checker",
-        "url": "https://github.com/rust-lang/rust/issues/164250",
-        "domain": "github.com",
-        "score": 577,
-        "descendants": 333,
-        "by": "formerly_proven",
-        "tags": [
-          "Rust"
-        ],
-        "summary": "Rust borrow checker中被发现存在长达11年的技术漏洞，引发社区对语言安全性的讨论。"
-      },
-      {
-        "id": 50073221,
-        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-        "domain": "sammystraus.com",
-        "score": 131,
-        "descendants": 75,
-        "by": "sammy0910",
+        "id": 50080275,
+        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "url": "https://pulseos.finance",
+        "domain": "pulseos.finance",
+        "score": 61,
+        "descendants": 31,
+        "by": "niztk",
         "tags": [
           "AI",
-          "Web"
+          "Show HN"
         ],
-        "summary": "一名博主分享其在发布内容至HN后遭遇大规模AI机器人流量攻击的经历。"
-      },
-      {
-        "id": 50070302,
-        "title": "Firefox Enterprise",
-        "url": "https://www.firefox.com/en-US/enterprise/",
-        "domain": "firefox.com",
-        "score": 440,
-        "descendants": 179,
-        "by": "recvonline",
-        "tags": [
-          "Web"
-        ],
-        "summary": "Firefox推出针对企业级市场的定制化解决方案，强调管理与安全性。"
+        "summary": "一款注重隐私的Mac本地预算管理应用，所有AI模型均在终端侧离线运行。"
       },
       {
         "id": 50073633,
         "title": "Redesigning source control at Anthropic",
         "url": "https://www.anthropic.com/engineering/redesigning-source-control",
         "domain": "anthropic.com",
-        "score": 148,
-        "descendants": 115,
+        "score": 569,
+        "descendants": 538,
         "by": "Philpax",
         "tags": [
           "AI"
         ],
-        "summary": "Anthropic分享了其在公司内部重构源代码管理流程的技术实践。"
+        "summary": "Anthropic分享其如何重新设计内部源代码管理系统以支持更高效的研发流程。"
+      },
+      {
+        "id": 50071017,
+        "title": "Apple HomeView",
+        "url": "https://www.apple.com/apple-homeview/",
+        "domain": "apple.com",
+        "score": 678,
+        "descendants": 786,
+        "by": "etothet",
+        "tags": [],
+        "summary": "苹果公司发布HomeView智能家居管理平台，旨在强化家庭自动化生态整合。"
+      },
+      {
+        "id": 50053487,
+        "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+        "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+        "domain": "openculture.com",
+        "score": 57,
+        "descendants": 4,
+        "by": "mdp2021",
+        "tags": [],
+        "summary": "一份来自1692年的900页珍稀色彩指南，现已完成高分辨率扫描并公开展示。"
+      },
+      {
+        "id": 50072913,
+        "title": "Thunderbird for iOS",
+        "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+        "domain": "blog.thunderbird.net",
+        "score": 355,
+        "descendants": 157,
+        "by": "mjorgers",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Thunderbird邮件客户端正式推出iOS版本，扩展其在移动端的跨平台支持。"
+      },
+      {
+        "id": 50081133,
+        "title": "High-speed video reveals how honey bee stingers pump venom",
+        "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+        "domain": "arstechnica.com",
+        "score": 13,
+        "descendants": 0,
+        "by": "gumby",
+        "tags": [],
+        "summary": "通过高速摄影技术解析蜜蜂刺针如何向目标泵入毒液的生物力学机制。"
+      },
+      {
+        "id": 50070302,
+        "title": "Firefox Enterprise",
+        "url": "https://www.firefox.com/en-US/enterprise/",
+        "domain": "firefox.com",
+        "score": 659,
+        "descendants": 268,
+        "by": "recvonline",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Mozilla针对企业用户优化的Firefox部署指南及管理方案更新。"
       }
     ],
     "insights": {
@@ -124,30 +135,31 @@
           "count": 1
         },
         {
-          "domain": "apple.com",
+          "domain": "guitoro.com",
           "count": 1
         },
         {
-          "domain": "ua.news",
+          "domain": "bleepingcomputer.com",
           "count": 1
         }
       ],
-      "avg_score": 297,
+      "avg_score": 420,
       "max_score": {
-        "title": "11 year old unsoundness bugs found in Rust borrow checker",
-        "score": 577
+        "title": "Gemini 4 Argon",
+        "score": 1042
       },
       "most_discussed": {
         "title": "Apple HomeView",
-        "comments": 621
+        "comments": 786
       },
       "hot_tags": [
         "AI",
-        "Web",
+        "Show HN",
+        "Hardware",
         "Systems",
-        "Rust"
+        "Web"
       ]
     },
-    "summary": "今日Hacker News焦点集中在科技巨头的产品发布与重大技术安全事件，Gemini 4 Argon和Apple HomeView引发广泛讨论。同时，开发者群体正关注Rust borrow checker的长期漏洞以及企业软件环境下的技术挑战与安全风险。"
+    "summary": "今日Hacker News重点关注AI技术迭代与企业软件更新，DeepMind的Gemini 4 Argon发布及Anthropic的代码版本控制重构引发广泛讨论。同时，多款创新工具与复古技术史料同步登榜，展示了社区在生产力工具优化与前沿科技趋势上的多元探索。"
   }
 }
