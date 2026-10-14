@@ -161,5 +161,159 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术迭代与企业软件更新，DeepMind的Gemini 4 Argon发布及Anthropic的代码版本控制重构引发广泛讨论。同时，多款创新工具与复古技术史料同步登榜，展示了社区在生产力工具优化与前沿科技趋势上的多元探索。"
+  },
+  "evening": {
+    "time": "2026-10-14 17:06",
+    "stories": [
+      {
+        "id": 50073879,
+        "title": "Gemini 4 Argon",
+        "url": "https://deepmind.google/models/gemini/",
+        "domain": "deepmind.google",
+        "score": 1274,
+        "descendants": 893,
+        "by": "737max",
+        "tags": [
+          "AI"
+        ],
+        "summary": "DeepMind发布Gemini 4 Argon模型，引发AI社区对大模型新能力的广泛探讨。"
+      },
+      {
+        "id": 50045147,
+        "title": "Sound – Bartosz Ciechanowski (2022)",
+        "url": "https://ciechanow.ski/sound/",
+        "domain": "ciechanow.ski",
+        "score": 110,
+        "descendants": 16,
+        "by": "dverlaeckt80",
+        "tags": [],
+        "summary": "深度解析声波物理特性的交互式科普文章，通过可视化方式拆解声音原理。"
+      },
+      {
+        "id": 50083130,
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://github.com/android/ndk/issues/2260",
+        "domain": "github.com",
+        "score": 225,
+        "descendants": 103,
+        "by": "tharen",
+        "tags": [],
+        "summary": "AOSP源码发布延迟迫使开发者通过反汇编库文件来排查Bug，引发对开源协作流程的讨论。"
+      },
+      {
+        "id": 50054092,
+        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "domain": "bleepingcomputer.com",
+        "score": 670,
+        "descendants": 436,
+        "by": "thm",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Ledger确认硬件钱包遭受供应链攻击，存在间谍芯片导致加密货币被盗风险。"
+      },
+      {
+        "id": 50080007,
+        "title": "Grace Hopper Celebration Cancelled",
+        "url": "https://anitab.org/press-release",
+        "domain": "anitab.org",
+        "score": 183,
+        "descendants": 84,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "知名的Grace Hopper计算机女性庆典宣布取消，引发对行业多元化活动未来的关注。"
+      },
+      {
+        "id": 50077020,
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
+        "domain": "guitoro.com",
+        "score": 424,
+        "descendants": 107,
+        "by": "talccc",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个有趣的开源项目，让用户可以通过电脑键盘模拟真实吉他弹奏。"
+      },
+      {
+        "id": 50082470,
+        "title": "Felix Rieseberg Homepage",
+        "url": "https://felixrieseberg.com/",
+        "domain": "felixrieseberg.com",
+        "score": 183,
+        "descendants": 68,
+        "by": "rglover",
+        "tags": [],
+        "summary": "Felix Rieseberg的个人主页展示，以独特的数字艺术风格和交互设计受到关注。"
+      },
+      {
+        "id": 50073633,
+        "title": "Redesigning source control at Anthropic",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "domain": "anthropic.com",
+        "score": 759,
+        "descendants": 752,
+        "by": "Philpax",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic深度分享其内部重构版本控制系统的工程实践与技术挑战。"
+      },
+      {
+        "id": 50053487,
+        "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+        "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+        "domain": "openculture.com",
+        "score": 158,
+        "descendants": 19,
+        "by": "mdp2021",
+        "tags": [],
+        "summary": "一份来自1692年的珍贵手稿，详细记录了早期的色彩指南并已开放高清扫描版。"
+      },
+      {
+        "id": 50072994,
+        "title": "The United Kingdom generates less electricity per person than in the 1970s",
+        "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+        "domain": "ourworldindata.org",
+        "score": 302,
+        "descendants": 447,
+        "by": "karakoram",
+        "tags": [],
+        "summary": "数据可视化分析显示，英国目前人均电力产出已低于20世纪70年代水平。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "deepmind.google",
+          "count": 1
+        },
+        {
+          "domain": "ciechanow.ski",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 429,
+      "max_score": {
+        "title": "Gemini 4 Argon",
+        "score": 1274
+      },
+      "most_discussed": {
+        "title": "Gemini 4 Argon",
+        "comments": 893
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News关注点集中在AI技术前沿进展、大型软件生态的工程挑战以及科技行业的社会议题。从DeepMind的新模型发布到AOSP开发困境及Ledger安全漏洞，反映了社区对技术底层掌控力、安全性及开源生态可持续性的深度关切。"
   }
 }
