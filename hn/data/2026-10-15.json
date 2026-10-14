@@ -1,0 +1,150 @@
+{
+  "morning": {
+    "time": "2026-10-15 00:23",
+    "stories": [
+      {
+        "id": 50084240,
+        "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+        "url": "https://typeof.net/Iosevka/",
+        "domain": "typeof.net",
+        "score": 479,
+        "descendants": 194,
+        "by": "otobrglez",
+        "tags": [
+          "Science",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 50086165,
+        "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+        "url": "https://github.com/timescale/pg_vectorsearch",
+        "domain": "github.com",
+        "score": 120,
+        "descendants": 35,
+        "by": "jascha_eng",
+        "tags": []
+      },
+      {
+        "id": 50088643,
+        "title": "Running Windows desktop tests from Linux with disposable VMs",
+        "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+        "domain": "qawolf.com",
+        "score": 23,
+        "descendants": 10,
+        "by": "jadenlemmon",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50088430,
+        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+        "domain": "reuters.com",
+        "score": 93,
+        "descendants": 72,
+        "by": "tartoran",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50088534,
+        "title": "AI is mass decompiling games. That's both awesome and scary",
+        "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+        "domain": "popcar.bearblog.dev",
+        "score": 60,
+        "descendants": 35,
+        "by": "popcar2",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50089229,
+        "title": "Submarine Cable Resilience",
+        "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+        "domain": "blog.apnic.net",
+        "score": 6,
+        "descendants": 0,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 50084757,
+        "title": "Amazon pushes up prices across the Internet",
+        "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+        "domain": "not-ship.com",
+        "score": 419,
+        "descendants": 405,
+        "by": "sighborg",
+        "tags": []
+      },
+      {
+        "id": 50088935,
+        "title": "Passkeys Are Not a Trap",
+        "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+        "domain": "scotthelme.co.uk",
+        "score": 201,
+        "descendants": 267,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 50089395,
+        "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+        "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+        "domain": "404media.co",
+        "score": 27,
+        "descendants": 9,
+        "by": "Luc",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50045147,
+        "title": "Sound – Bartosz Ciechanowski (2022)",
+        "url": "https://ciechanow.ski/sound/",
+        "domain": "ciechanow.ski",
+        "score": 233,
+        "descendants": 24,
+        "by": "dverlaeckt80",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "typeof.net",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "qawolf.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 166,
+      "max_score": {
+        "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+        "score": 479
+      },
+      "most_discussed": {
+        "title": "Amazon pushes up prices across the Internet",
+        "comments": 405
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Open Source",
+        "Systems"
+      ]
+    },
+    "summary": ""
+  }
+}
