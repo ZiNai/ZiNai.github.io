@@ -146,5 +146,157 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术迭代与合规治理的博弈，同时涵盖了医疗健康科普、现代社交模式变迁及深度系统编程优化等多样化议题。整体呈现出技术前沿探索与社会深度思考并行的趋势。"
+  },
+  "noon": {
+    "time": "2026-10-15 16:39",
+    "stories": [
+      {
+        "id": 50093568,
+        "title": "Things to know when you get cancer",
+        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+        "domain": "jjmaxwell4.com",
+        "score": 1290,
+        "descendants": 320,
+        "by": "jjmaxwell4",
+        "tags": [],
+        "summary": "作者分享了罹患癌症后的心路历程与实用建议，为处于困境中的人们提供指引。"
+      },
+      {
+        "id": 50070625,
+        "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+        "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+        "domain": "blog.dfb.sh",
+        "score": 38,
+        "descendants": 15,
+        "by": "0xdeafbeef",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "作者在寻找ISO镜像下载过程中，意外发现并深入研究了一个内核漏洞。"
+      },
+      {
+        "id": 50094994,
+        "title": "OpenCode 2.0",
+        "url": "https://anoma.ly/notes/opencode-2-0/",
+        "domain": "anoma.ly",
+        "score": 583,
+        "descendants": 223,
+        "by": "gmays",
+        "tags": [],
+        "summary": "介绍OpenCode 2.0，重点关注其在开源生态与AI代码生成领域的新特性。"
+      },
+      {
+        "id": 50081045,
+        "title": "Creating a Garmin \"MCP\"",
+        "url": "https://jackantico.io/garmin-mcp",
+        "domain": "jackantico.io",
+        "score": 20,
+        "descendants": 15,
+        "by": "ricotico060",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "详细记录了作者如何通过硬件改造构建一个Garmin MCP航空控制器。"
+      },
+      {
+        "id": 50096142,
+        "title": "Tiny Little Office",
+        "url": "https://tinylittleoffice.com/",
+        "domain": "tinylittleoffice.com",
+        "score": 397,
+        "descendants": 58,
+        "by": "donohoe",
+        "tags": [],
+        "summary": "展示了一个极致简约、专注高效的办公空间设计案例。"
+      },
+      {
+        "id": 50097369,
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "domain": "liquid.ai",
+        "score": 200,
+        "descendants": 44,
+        "by": "gmays",
+        "tags": [],
+        "summary": "Liquid AI发布专为本地设备快速运行优化的全新大模型LFM2.5-24B-A2B。"
+      },
+      {
+        "id": 50050553,
+        "title": "Do dentists know what they're doing?",
+        "url": "https://mapwriting.substack.com/p/dentists",
+        "domain": "mapwriting.substack.com",
+        "score": 664,
+        "descendants": 476,
+        "by": "doitLP",
+        "tags": [],
+        "summary": "深度剖析现代牙科诊疗的合理性，引发对牙科行业标准与过度治疗的讨论。"
+      },
+      {
+        "id": 50064470,
+        "title": "Show HN: Indigene – Native plants for where you stand",
+        "url": "https://indigene.app/",
+        "domain": "indigene.app",
+        "score": 11,
+        "descendants": 1,
+        "by": "olivierlacan",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "推介Indigene应用，通过地理位置定位，帮助用户识别并种植本地原生植物。"
+      },
+      {
+        "id": 50053384,
+        "title": "Catch a Bird – I made it for my own sanity",
+        "url": "https://catchabird.com",
+        "domain": "catchabird.com",
+        "score": 148,
+        "descendants": 33,
+        "by": "eduardsik",
+        "tags": [],
+        "summary": "开发者分享了为排解压力而制作的休闲游戏Catch a Bird的创作故事。"
+      },
+      {
+        "id": 50089921,
+        "title": "Americans' social activity has steeply declined in the past 30 years",
+        "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+        "domain": "dataforprogress.org",
+        "score": 382,
+        "descendants": 357,
+        "by": "hubraumhugo",
+        "tags": [],
+        "summary": "数据分析显示，过去30年间美国民众的社交参与度呈现显著下降趋势。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "jjmaxwell4.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.dfb.sh",
+          "count": 1
+        },
+        {
+          "domain": "anoma.ly",
+          "count": 1
+        }
+      ],
+      "avg_score": 373,
+      "max_score": {
+        "title": "Things to know when you get cancer",
+        "score": 1290
+      },
+      "most_discussed": {
+        "title": "Do dentists know what they're doing?",
+        "comments": 476
+      },
+      "hot_tags": [
+        "Systems",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于生活质量与科技探索的双重叙事。话题涵盖了面对个人重大健康挑战的实用指南，对现代社会生活模式变迁的探讨，以及从内核漏洞研究到AI模型开发的各类硬核技术分享。"
   }
 }
