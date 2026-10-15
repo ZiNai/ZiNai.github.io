@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-10-16 00:11",
+    "stories": [
+      {
+        "id": 50104654,
+        "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "domain": "simonsfoundation.org",
+        "score": 79,
+        "descendants": 42,
+        "by": "aaraujo002",
+        "tags": [
+          "AI"
+        ],
+        "summary": "西蒙斯基金会投入 1500 万美元，资助数学家在 AI 时代的研究与转型。"
+      },
+      {
+        "id": 50105635,
+        "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+        "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+        "domain": "respawnfirst.com",
+        "score": 23,
+        "descendants": 4,
+        "by": "starkparker",
+        "tags": [],
+        "summary": "对比测试显示 Steam 客户端在启动速度与响应表现上已优于 Epic Games Store。"
+      },
+      {
+        "id": 50103338,
+        "title": "Wayland desktop for Linux with skeuomorphic design",
+        "url": "https://github.com/fyzugx/DEsk",
+        "domain": "github.com",
+        "score": 183,
+        "descendants": 69,
+        "by": "FinalDestiny",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款为 Linux 设计的仿拟物风格（Skeuomorphic）Wayland 桌面环境项目。"
+      },
+      {
+        "id": 50103630,
+        "title": "I know why Mathematicians weep",
+        "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+        "domain": "derekthompson.org",
+        "score": 138,
+        "descendants": 191,
+        "by": "RickJWagner",
+        "tags": [],
+        "summary": "深入探讨数学家为何在 AI 冲击下感到焦虑与失落的行业现状。"
+      },
+      {
+        "id": 50105344,
+        "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+        "url": "https://snoutcover.com/one-year",
+        "domain": "snoutcover.com",
+        "score": 39,
+        "descendants": 10,
+        "by": "ragswag",
+        "tags": [],
+        "summary": "一名开发者通过 3D 打印设计狗用护鼻罩并开源，惠及超过 500 只爱犬。"
+      },
+      {
+        "id": 50102923,
+        "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+        "url": "https://libreboot.org/news/libreboot2610.html",
+        "domain": "libreboot.org",
+        "score": 143,
+        "descendants": 70,
+        "by": "iamnothere",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Libreboot 26.10 发布，正式支持 UEFI 启动与更多 Chromebook 型号。"
+      },
+      {
+        "id": 50104726,
+        "title": "Celebrating 70 Years of Fortran",
+        "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+        "domain": "fortran-lang.org",
+        "score": 48,
+        "descendants": 19,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "回顾并庆祝 Fortran 编程语言诞生 70 周年的演变历程。"
+      },
+      {
+        "id": 50102247,
+        "title": "Show HN: Unfenced – Land for sale that borders public land",
+        "url": "https://unfenced.land/",
+        "domain": "unfenced.land",
+        "score": 145,
+        "descendants": 104,
+        "by": "otherwatersflow",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个展示邻接公共土地的私人地块信息平台，方便用户寻找户外空间。"
+      },
+      {
+        "id": 50101813,
+        "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+        "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+        "domain": "citizenlab.ca",
+        "score": 120,
+        "descendants": 13,
+        "by": "jcomp",
+        "tags": [],
+        "summary": "Citizen Lab 揭露名为 AdFection 的新型零点击间谍软件，通过精准广告投放传播。"
+      },
+      {
+        "id": 50093568,
+        "title": "Things to know when you get cancer",
+        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+        "domain": "jjmaxwell4.com",
+        "score": 1757,
+        "descendants": 416,
+        "by": "jjmaxwell4",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "simonsfoundation.org",
+          "count": 1
+        },
+        {
+          "domain": "respawnfirst.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 268,
+      "max_score": {
+        "title": "Things to know when you get cancer",
+        "score": 1757
+      },
+      "most_discussed": {
+        "title": "Things to know when you get cancer",
+        "comments": 416
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点主要集中在技术与人类生存议题的深度碰撞上，从数学界应对 AI 时代的挑战，到癌症科普引发的广泛共鸣。此外，Linux 生态系统的开发进展（Wayland 与 Libreboot）与科技伦理（零点击间谍软件）依然是社区关注的核心。"
+  }
+}
