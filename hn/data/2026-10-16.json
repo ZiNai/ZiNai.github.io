@@ -145,5 +145,151 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-10-16 16:34",
+    "stories": [
+      {
+        "id": 50111852,
+        "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+        "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+        "domain": "niemanlab.org",
+        "score": 255,
+        "descendants": 93,
+        "by": "0in",
+        "tags": [],
+        "summary": "专家指出Meta最新的商业条款允许其抓取新闻网站内容，引发了关于版权和数据伦理的担忧。"
+      },
+      {
+        "id": 50107379,
+        "title": "Muse Spark Open",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "domain": "research.meta.ai",
+        "score": 792,
+        "descendants": 395,
+        "by": "bigwheels",
+        "tags": [],
+        "summary": "Meta发布了Muse Spark Open，展示了其在生成式AI领域的最新研究进展。"
+      },
+      {
+        "id": 50065859,
+        "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+        "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+        "domain": "youtube.com",
+        "score": 228,
+        "descendants": 52,
+        "by": "johnnyApplePRNG",
+        "tags": [],
+        "summary": "一段记录女子救助受伤乌鸦后获得报答的视频，展现了人与自然间奇妙的互动。"
+      },
+      {
+        "id": 50082113,
+        "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
+        "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
+        "domain": "cnn.com",
+        "score": 24,
+        "descendants": 10,
+        "by": "1659447091",
+        "tags": [],
+        "summary": "纽约市标志性的马车产业面临终结，预计将停止运营。"
+      },
+      {
+        "id": 50114359,
+        "title": "Last rites for Gentoo's Chromium package",
+        "url": "https://lwn.net/Articles/1097760/",
+        "domain": "lwn.net",
+        "score": 44,
+        "descendants": 22,
+        "by": "signa11",
+        "tags": [],
+        "summary": "Gentoo Linux社区决定停止维护Chromium包，标志着该项目的一个时代结束。"
+      },
+      {
+        "id": 50112330,
+        "title": "RPKI now protects 70% of internet routes",
+        "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+        "domain": "ipinfo.io",
+        "score": 144,
+        "descendants": 41,
+        "by": "emot",
+        "tags": [],
+        "summary": "互联网路由保护机制RPKI的覆盖率已达到70%，显著提升了全球网络边界安全。"
+      },
+      {
+        "id": 50114342,
+        "title": "The Folders Programming Language",
+        "url": "https://danieltemkin.com/esolangs/folders",
+        "domain": "danieltemkin.com",
+        "score": 35,
+        "descendants": 4,
+        "by": "gurst",
+        "tags": [],
+        "summary": "文章介绍了名为“Folders”的编程语言，这是一种完全通过目录结构编写程序的独特尝试。"
+      },
+      {
+        "id": 50105647,
+        "title": "Neural networks are clean",
+        "url": "https://already-clean.goodfire.com/",
+        "domain": "already-clean.goodfire.com",
+        "score": 667,
+        "descendants": 247,
+        "by": "themgt",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨了神经网络内部表示的“清洁度”，分析模型如何编码及处理复杂特征。"
+      },
+      {
+        "id": 50072119,
+        "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+        "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+        "domain": "polygon.com",
+        "score": 128,
+        "descendants": 76,
+        "by": "cvoss",
+        "tags": [],
+        "summary": "深度测评了一款极度复杂且耗时的“500小时”游戏挑战，探讨了其极限玩法带来的体验。"
+      },
+      {
+        "id": 50109715,
+        "title": "What I self-host",
+        "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "domain": "viceconsole.fyi",
+        "score": 456,
+        "descendants": 288,
+        "by": "BrunoBernardino",
+        "tags": [],
+        "summary": "博主分享了自己构建的个人自托管技术栈，展示了在去中心化网络环境下的实用工具选择。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "niemanlab.org",
+          "count": 1
+        },
+        {
+          "domain": "research.meta.ai",
+          "count": 1
+        },
+        {
+          "domain": "youtube.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 277,
+      "max_score": {
+        "title": "Muse Spark Open",
+        "score": 792
+      },
+      "most_discussed": {
+        "title": "Muse Spark Open",
+        "comments": 395
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于AI技术的最新研究与伦理争议，包括Meta的开源模型发布及其数据抓取策略的讨论，以及关于神经网络可解释性的深入探讨。同时，网络基础设施安全（RPKI）、自托管趋势及小众技术趣闻构成了榜单的多元补充。"
   }
 }
