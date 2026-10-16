@@ -291,5 +291,151 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于AI技术的最新研究与伦理争议，包括Meta的开源模型发布及其数据抓取策略的讨论，以及关于神经网络可解释性的深入探讨。同时，网络基础设施安全（RPKI）、自托管趋势及小众技术趣闻构成了榜单的多元补充。"
+  },
+  "evening": {
+    "time": "2026-10-16 23:58",
+    "stories": [
+      {
+        "id": 50117746,
+        "title": "I Love Software Rendering",
+        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+        "domain": "jamesfmackenzie.com",
+        "score": 171,
+        "descendants": 119,
+        "by": "speckx",
+        "tags": []
+      },
+      {
+        "id": 50118977,
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "url": "https://calif.io/research/big-fish",
+        "domain": "calif.io",
+        "score": 49,
+        "descendants": 6,
+        "by": "rs_rs_rs_rs_rs",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50118320,
+        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "domain": "machinelearning.apple.com",
+        "score": 59,
+        "descendants": 19,
+        "by": "antipaul",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 50118828,
+        "title": "What on Earth Is Dekton?",
+        "url": "https://www.worksinprogress.news/p/porcelain",
+        "domain": "worksinprogress.news",
+        "score": 17,
+        "descendants": 0,
+        "by": "wawayanda",
+        "tags": []
+      },
+      {
+        "id": 50118688,
+        "title": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "domain": "starskirmish.com",
+        "score": 47,
+        "descendants": 17,
+        "by": "__cayenne__",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50118512,
+        "title": "How to Formalize All of Mathematics",
+        "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+        "domain": "xenaproject.wordpress.com",
+        "score": 31,
+        "descendants": 15,
+        "by": "practal",
+        "tags": []
+      },
+      {
+        "id": 50111752,
+        "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+        "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+        "domain": "youtube.com",
+        "score": 37,
+        "descendants": 16,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 50104965,
+        "title": "Gyroscopes Got So Small [video]",
+        "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+        "domain": "youtube.com",
+        "score": 43,
+        "descendants": 14,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 50118267,
+        "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+        "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+        "domain": "anuragbhatia.com",
+        "score": 27,
+        "descendants": 4,
+        "by": "porridgeraisin",
+        "tags": []
+      },
+      {
+        "id": 50074322,
+        "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+        "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+        "domain": "cbsnews.com",
+        "score": 14,
+        "descendants": 3,
+        "by": "ohjeez",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 2
+        },
+        {
+          "domain": "jamesfmackenzie.com",
+          "count": 1
+        },
+        {
+          "domain": "calif.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 50,
+      "max_score": {
+        "title": "I Love Software Rendering",
+        "score": 171
+      },
+      "most_discussed": {
+        "title": "I Love Software Rendering",
+        "comments": 119
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science",
+        "Show HN"
+      ]
+    },
+    "summary": ""
   }
 }
