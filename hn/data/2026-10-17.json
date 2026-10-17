@@ -1,0 +1,147 @@
+{
+  "morning": {
+    "time": "2026-10-17 09:53",
+    "stories": [
+      {
+        "id": 50112657,
+        "title": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "domain": "tesla.com",
+        "score": 1192,
+        "descendants": 2157,
+        "by": "shekhar101",
+        "tags": [],
+        "summary": "特斯拉官方发布新款Roadster的相关更新与产品信息。"
+      },
+      {
+        "id": 50122431,
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "domain": "github.com",
+        "score": 201,
+        "descendants": 51,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开发者成功在破解版PS5上运行Llama.cpp，实现了在游戏主机上本地部署GGUF格式大模型。"
+      },
+      {
+        "id": 50122800,
+        "title": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "domain": "anthropic.com",
+        "score": 685,
+        "descendants": 273,
+        "by": "ahlCVA",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic通过Claude分析揭示了ECDSA加密算法中椭圆曲线参数的来源历史。"
+      },
+      {
+        "id": 50123580,
+        "title": "FLUX 3 Image Klein",
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "domain": "bfl.ai",
+        "score": 116,
+        "descendants": 27,
+        "by": "gmays",
+        "tags": [],
+        "summary": "Black Forest Labs发布FLUX 3 Image Klein模型，展示了其最新的图像生成能力。"
+      },
+      {
+        "id": 50118981,
+        "title": "Waymo in Toronto",
+        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+        "domain": "waymo.com",
+        "score": 271,
+        "descendants": 381,
+        "by": "ChrisArchitect",
+        "tags": [],
+        "summary": "讨论Waymo在多伦多开展业务测试的相关进展及其带来的行业影响。"
+      },
+      {
+        "id": 50122878,
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "domain": "alexwang.ai",
+        "score": 142,
+        "descendants": 40,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "深入探讨如何仅凭记忆和基础原理推导出Transformer架构的演进过程。"
+      },
+      {
+        "id": 50122034,
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "domain": "arrl.org",
+        "score": 174,
+        "descendants": 137,
+        "by": "7402",
+        "tags": [],
+        "summary": "eBay调整无线电设备上架规则，限制部分设备但保留了业余无线电频段设备的销售许可。"
+      },
+      {
+        "id": 50083673,
+        "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+        "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+        "domain": "hub.jhu.edu",
+        "score": 70,
+        "descendants": 7,
+        "by": "giuliomagnifico",
+        "tags": [],
+        "summary": "约翰霍普金斯大学研究人员开发出无线磁控微型机器人，可在跳动的心脏内精确输送药物。"
+      },
+      {
+        "id": 50121939,
+        "title": "Designing more efficient quantum circuits with Claude",
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "domain": "anthropic.com",
+        "score": 103,
+        "descendants": 20,
+        "by": "pretext",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨如何利用Claude模型辅助设计更高效的量子电路，提升计算性能。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 2
+        },
+        {
+          "domain": "tesla.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 328,
+      "max_score": {
+        "title": "Tesla Roadster",
+        "score": 1192
+      },
+      "most_discussed": {
+        "title": "Tesla Roadster",
+        "comments": 2157
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术的前沿落地与突破，包括大模型在游戏主机上的运行及在科学研究中的应用。同时，科技行业在自动驾驶扩张、前沿硬件创新及法规监管方面也展现出活跃的讨论态势。"
+  }
+}
