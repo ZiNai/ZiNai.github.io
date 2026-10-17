@@ -301,5 +301,157 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术应用与硬件突破，包括本地大模型运行优化、架构原理探讨及多模态模型更新。此外，汽车工业前沿动态与工程实践类文章也吸引了社区广泛关注。"
+  },
+  "evening": {
+    "time": "2026-10-17 22:51",
+    "stories": [
+      {
+        "id": 50129121,
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "domain": "openrouter.ai",
+        "score": 413,
+        "descendants": 190,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "DeepSeek发布了v4.1 Flash 1017版本，展示了模型性能的最新进展。"
+      },
+      {
+        "id": 50131256,
+        "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "domain": "pv-magazine.com",
+        "score": 76,
+        "descendants": 28,
+        "by": "xbmcuser",
+        "tags": [],
+        "summary": "全球太阳能发电量首次超过核能，标志着能源转型的一个重要里程碑。"
+      },
+      {
+        "id": 50131213,
+        "title": "Making Chicken Transparent Using Dorito Dust",
+        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+        "domain": "chillphysicsenjoyer.substack.com",
+        "score": 22,
+        "descendants": 6,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "一篇关于通过多力多滋粉末使鸡肉组织呈现半透明状态的趣味物理实验文章。"
+      },
+      {
+        "id": 50106747,
+        "title": "Ultramarine 1 Flash",
+        "url": "https://www.paperinstruments.com/ultramarine",
+        "domain": "paperinstruments.com",
+        "score": 316,
+        "descendants": 100,
+        "by": "i_rush_carriers",
+        "tags": [],
+        "summary": "Ultramarine 1 Flash 相关的技术发布与讨论。"
+      },
+      {
+        "id": 50121506,
+        "title": "The First Candid",
+        "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+        "domain": "newyorker.com",
+        "score": 11,
+        "descendants": 0,
+        "by": "Thevet",
+        "tags": [],
+        "summary": "关于历史上第一张“抓拍”照片的深度叙述与背景回顾。"
+      },
+      {
+        "id": 50119315,
+        "title": "Rendering pretty sky in Around The World game",
+        "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+        "domain": "frozenfractal.com",
+        "score": 17,
+        "descendants": 1,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "详细解析《Around The World》游戏中如何实现精美天空渲染的图形技术。"
+      },
+      {
+        "id": 50112657,
+        "title": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "domain": "tesla.com",
+        "score": 1526,
+        "descendants": 2775,
+        "by": "shekhar101",
+        "tags": [],
+        "summary": "关于特斯拉Roadster跑车的技术规格与市场期待的激烈讨论。"
+      },
+      {
+        "id": 50127979,
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "domain": "llmspeed.dev",
+        "score": 163,
+        "descendants": 52,
+        "by": "albinstman",
+        "tags": [
+          "AI",
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一个测试工具，帮助用户在购买硬件前评估本地运行LLM的实际速度。"
+      },
+      {
+        "id": 50129045,
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "domain": "huggingface.co",
+        "score": 303,
+        "descendants": 118,
+        "by": "theykk",
+        "tags": [],
+        "summary": "DeepSeek-v4.1-Flash-1017模型在Hugging Face平台上的资源与讨论。"
+      },
+      {
+        "id": 50122431,
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "domain": "github.com",
+        "score": 327,
+        "descendants": 78,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术极客成功在越狱的PS5主机上运行Llama.cpp，实现GGUF模型的原生部署。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openrouter.ai",
+          "count": 1
+        },
+        {
+          "domain": "pv-magazine.com",
+          "count": 1
+        },
+        {
+          "domain": "chillphysicsenjoyer.substack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 317,
+      "max_score": {
+        "title": "Tesla Roadster",
+        "score": 1526
+      },
+      "most_discussed": {
+        "title": "Tesla Roadster",
+        "comments": 2775
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于前沿AI技术的快速迭代，包括DeepSeek系列模型的更新与本地化运行方案。此外，能源行业结构的里程碑式变化以及极客圈的硬件改造与趣味科学实验也引发了社区的高度关注。"
   }
 }
