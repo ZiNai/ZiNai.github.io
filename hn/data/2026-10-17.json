@@ -143,5 +143,163 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术的前沿落地与突破，包括大模型在游戏主机上的运行及在科学研究中的应用。同时，科技行业在自动驾驶扩张、前沿硬件创新及法规监管方面也展现出活跃的讨论态势。"
+  },
+  "noon": {
+    "time": "2026-10-17 16:06",
+    "stories": [
+      {
+        "id": 50106747,
+        "title": "Ultramarine 1 Flash",
+        "url": "https://www.paperinstruments.com/ultramarine",
+        "domain": "paperinstruments.com",
+        "score": 213,
+        "descendants": 62,
+        "by": "i_rush_carriers",
+        "tags": [],
+        "summary": "介绍Ultramarine 1 Flash的相关技术细节或产品动态。"
+      },
+      {
+        "id": 50112657,
+        "title": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "domain": "tesla.com",
+        "score": 1388,
+        "descendants": 2438,
+        "by": "shekhar101",
+        "tags": [],
+        "summary": "关于特斯拉新款Roadster跑车的官方发布及技术性能讨论。"
+      },
+      {
+        "id": 50127979,
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "domain": "llmspeed.dev",
+        "score": 46,
+        "descendants": 16,
+        "by": "albinstman",
+        "tags": [
+          "AI",
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "一个测试本地硬件运行大模型速度的工具，助你购机前评估性能表现。"
+      },
+      {
+        "id": 50122431,
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "domain": "github.com",
+        "score": 273,
+        "descendants": 67,
+        "by": "Anon84",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过破解PS5运行Llama.cpp，实现在游戏主机上本地部署GGUF格式模型。"
+      },
+      {
+        "id": 50122800,
+        "title": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "domain": "anthropic.com",
+        "score": 842,
+        "descendants": 315,
+        "by": "ahlCVA",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic团队撰文揭秘ECDSA椭圆曲线加密算法的起源与背景。"
+      },
+      {
+        "id": 50122878,
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "domain": "alexwang.ai",
+        "score": 271,
+        "descendants": 65,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "探讨通过记忆复现Transformer架构的可行性与深度逻辑分析。"
+      },
+      {
+        "id": 50088937,
+        "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+        "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+        "domain": "sfchronicle.com",
+        "score": 38,
+        "descendants": 33,
+        "by": "danso",
+        "tags": [],
+        "summary": "加州投入4亿美元建设防护工程，以提升优胜美地国家公园危险公路的安全性。"
+      },
+      {
+        "id": 50103255,
+        "title": "Intuitive concurrent programming in any language",
+        "url": "https://www.lf-lang.org/",
+        "domain": "lf-lang.org",
+        "score": 20,
+        "descendants": 2,
+        "by": "mpweiher",
+        "tags": [],
+        "summary": "探讨跨语言环境下实现直观并发编程的方法论与实践。"
+      },
+      {
+        "id": 50123580,
+        "title": "FLUX 3 Image Klein",
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "domain": "bfl.ai",
+        "score": 158,
+        "descendants": 45,
+        "by": "gmays",
+        "tags": [],
+        "summary": "介绍FLUX 3 Image Klein模型在图像生成领域的最新进展。"
+      },
+      {
+        "id": 50088767,
+        "title": "0/1 Knapsack Problem in PyTorch",
+        "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+        "domain": "jedrzej.maczan.pl",
+        "score": 13,
+        "descendants": 0,
+        "by": "yu3zhou4",
+        "tags": [],
+        "summary": "分享如何利用PyTorch框架高效求解经典的0/1背包问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "paperinstruments.com",
+          "count": 1
+        },
+        {
+          "domain": "tesla.com",
+          "count": 1
+        },
+        {
+          "domain": "llmspeed.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 326,
+      "max_score": {
+        "title": "Tesla Roadster",
+        "score": 1388
+      },
+      "most_discussed": {
+        "title": "Tesla Roadster",
+        "comments": 2438
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术应用与硬件突破，包括本地大模型运行优化、架构原理探讨及多模态模型更新。此外，汽车工业前沿动态与工程实践类文章也吸引了社区广泛关注。"
   }
 }
