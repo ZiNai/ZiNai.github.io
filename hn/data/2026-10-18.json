@@ -300,5 +300,157 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术迭代与应用，DeepSeek 的 API 定价与新模型备受关注，开发效率工具与科学研究进展同样引发热议。整体呈现出从底层模型部署到科学环保议题的多维技术交流趋势。"
+  },
+  "evening": {
+    "time": "2026-10-18 23:16",
+    "stories": [
+      {
+        "id": 50141076,
+        "title": "RepRapMicron",
+        "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+        "domain": "github.com",
+        "score": 99,
+        "descendants": 16,
+        "by": "RobotToaster",
+        "tags": [],
+        "summary": "介绍一款名为RepRapMicron的高精度开源3D打印机项目。"
+      },
+      {
+        "id": 50139692,
+        "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+        "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+        "domain": "niemanlab.org",
+        "score": 118,
+        "descendants": 30,
+        "by": "DeepLogin",
+        "tags": [],
+        "summary": "法律专家警告Meta的新服务条款在隐私保护方面仍存在过度的数据抓取授权。"
+      },
+      {
+        "id": 50138531,
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "domain": "api-docs.deepseek.com",
+        "score": 380,
+        "descendants": 190,
+        "by": "fagnerbrack",
+        "tags": [],
+        "summary": "DeepSeek发布了搜索与获取API，每千次成功请求定价为0.75美元。"
+      },
+      {
+        "id": 50141681,
+        "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+        "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+        "domain": "terrytao.wordpress.com",
+        "score": 6,
+        "descendants": 2,
+        "by": "smilelamp",
+        "tags": [
+          "Science"
+        ],
+        "summary": "陶哲轩探讨数学与科学在未来是进入黄金时代还是面临衰退。"
+      },
+      {
+        "id": 50140001,
+        "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+        "url": "https://github.com/0x23/MicroManipulatorStepper",
+        "domain": "github.com",
+        "score": 85,
+        "descendants": 6,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "展示一款亚微米级精度的开源三维运动控制平台项目。"
+      },
+      {
+        "id": 50140769,
+        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "url": "https://legendofhyrule.com/",
+        "domain": "legendofhyrule.com",
+        "score": 27,
+        "descendants": 5,
+        "by": "jsomau",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一份为《时之笛》重制版预热准备的塞尔达传说系列时间线梳理。"
+      },
+      {
+        "id": 50139067,
+        "title": "Parser Combinators",
+        "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+        "domain": "t3.at",
+        "score": 118,
+        "descendants": 52,
+        "by": "schindlabua",
+        "tags": [],
+        "summary": "深入解析解析器组合子（Parser Combinators）的设计原理与应用。"
+      },
+      {
+        "id": 50137620,
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "domain": "readtheprofile.com",
+        "score": 243,
+        "descendants": 307,
+        "by": "MaysonL",
+        "tags": [],
+        "summary": "深度分析伊丽莎白·霍尔姆斯相关纪录片中存在的叙事误导与事实偏差。"
+      },
+      {
+        "id": 50093081,
+        "title": "Hatching (Heraldry)",
+        "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+        "domain": "en.wikipedia.org",
+        "score": 37,
+        "descendants": 5,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "通过纹章学中的影线技术（Hatching）探讨图像表达的演变史。"
+      },
+      {
+        "id": 50141429,
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "domain": "tomshardware.com",
+        "score": 33,
+        "descendants": 21,
+        "by": "f-serif",
+        "tags": [
+          "AI"
+        ],
+        "summary": "质疑Anthropic提出的AI安全法案，称其仅在导致严重伤亡或巨额经济损失时才会触发。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "niemanlab.org",
+          "count": 1
+        },
+        {
+          "domain": "api-docs.deepseek.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 115,
+      "max_score": {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "score": 380
+      },
+      "most_discussed": {
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "comments": 307
+      },
+      "hot_tags": [
+        "Science",
+        "Show HN",
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News主要关注AI技术的最新动态与争议，包括DeepSeek的API定价策略及对Anthropic安全法规的审视。此外，开源硬件项目与法律伦理议题（如Meta的数据抓取条款）也引起了社区的广泛讨论。"
   }
 }
