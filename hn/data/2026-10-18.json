@@ -147,5 +147,158 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了前沿AI技术、环境生态修复及独特的开源工具与硬件模拟。科技界高度关注DeepSeek的新模型发布，同时自然科学领域的珊瑚保护与水坝拆除效应，以及如字体工具、硬件模拟等趣味性开发项目也引发了广泛讨论。"
+  },
+  "noon": {
+    "time": "2026-10-18 16:23",
+    "stories": [
+      {
+        "id": 50138531,
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "domain": "api-docs.deepseek.com",
+        "score": 98,
+        "descendants": 43,
+        "by": "fagnerbrack",
+        "tags": [],
+        "summary": "DeepSeek 推出搜索与抓取服务，定价为每千次成功请求 0.75 美元。"
+      },
+      {
+        "id": 50137950,
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "domain": "sphinx-six-theta.vercel.app",
+        "score": 99,
+        "descendants": 29,
+        "by": "critiquebrowser",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "Sphinx 是一款在代码发布前通过测验确保你理解 AI 生成代码逻辑的辅助工具。"
+      },
+      {
+        "id": 50137620,
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "domain": "readtheprofile.com",
+        "score": 110,
+        "descendants": 100,
+        "by": "MaysonL",
+        "tags": [],
+        "summary": "文章深度剖析了伊丽莎白·霍尔姆斯纪录片《You Can See Everything》中存在的叙事误导。"
+      },
+      {
+        "id": 50126253,
+        "title": "Bleached corals thrive within days when touching healthy neighbour",
+        "url": "https://www.nature.com/articles/d41586-026-03266-x",
+        "domain": "nature.com",
+        "score": 430,
+        "descendants": 97,
+        "by": "alkyon",
+        "tags": [],
+        "summary": "研究发现，与健康的珊瑚接触能使白化的珊瑚在数日内迅速恢复生机。"
+      },
+      {
+        "id": 50114758,
+        "title": "Lean now ships with verified kernels",
+        "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+        "domain": "leodemoura.github.io",
+        "score": 120,
+        "descendants": 40,
+        "by": "matt_d",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Lean 编程语言现在支持发布经过形式化验证的内核，提升了系统可信度。"
+      },
+      {
+        "id": 50138087,
+        "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+        "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+        "domain": "webmasters.stackexchange.com",
+        "score": 78,
+        "descendants": 49,
+        "by": "thatslast",
+        "tags": [],
+        "summary": "回顾 Cloudflare 创始人 Matthew Prince 在 2016 年关于提供免费服务长期策略的阐述。"
+      },
+      {
+        "id": 50126312,
+        "title": "Dam removals are bringing fish back across the northeastern United States",
+        "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+        "domain": "smithsonianmag.com",
+        "score": 265,
+        "descendants": 65,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "美国东北部拆除水坝的环保举措，正在有效恢复当地鱼类种群的多样性与洄游路径。"
+      },
+      {
+        "id": 50129045,
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "domain": "huggingface.co",
+        "score": 841,
+        "descendants": 642,
+        "by": "theykk",
+        "tags": [],
+        "summary": "关于 DeepSeek-v4.1-Flash-1017 模型的发布，引发了社区对最新 AI 性能指标的高度关注与讨论。"
+      },
+      {
+        "id": 50132193,
+        "title": "Pele – Mermaid diagrams as themeable SVG",
+        "url": "https://pele.run/",
+        "domain": "pele.run",
+        "score": 408,
+        "descendants": 37,
+        "by": "dchest",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Pele 工具将 Mermaid 图表转化为可高度自定义样式的 SVG，方便在文档中集成。"
+      },
+      {
+        "id": 50138002,
+        "title": "Notes on the Complex Roots of Unity",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "domain": "eli.thegreenplace.net",
+        "score": 17,
+        "descendants": 1,
+        "by": "sks_15",
+        "tags": [],
+        "summary": "深入探讨单位根（Roots of Unity）复数解的相关数学性质与研究笔记。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "api-docs.deepseek.com",
+          "count": 1
+        },
+        {
+          "domain": "sphinx-six-theta.vercel.app",
+          "count": 1
+        },
+        {
+          "domain": "readtheprofile.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 247,
+      "max_score": {
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "score": 841
+      },
+      "most_discussed": {
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "comments": 642
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术迭代与应用，DeepSeek 的 API 定价与新模型备受关注，开发效率工具与科学研究进展同样引发热议。整体呈现出从底层模型部署到科学环保议题的多维技术交流趋势。"
   }
 }
