@@ -1,0 +1,151 @@
+{
+  "morning": {
+    "time": "2026-10-18 09:52",
+    "stories": [
+      {
+        "id": 50136881,
+        "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+        "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+        "domain": "meidasnews.com",
+        "score": 80,
+        "descendants": 18,
+        "by": "DeepLogin",
+        "tags": [],
+        "summary": "Meta在抗议日期间封禁No Kings Instagram账号引发关于平台审查制度的讨论。"
+      },
+      {
+        "id": 50126253,
+        "title": "Bleached corals thrive within days when touching healthy neighbour",
+        "url": "https://www.nature.com/articles/d41586-026-03266-x",
+        "domain": "nature.com",
+        "score": 329,
+        "descendants": 72,
+        "by": "alkyon",
+        "tags": [],
+        "summary": "最新研究显示，白化的珊瑚通过接触健康的邻居能够实现快速恢复。"
+      },
+      {
+        "id": 50126312,
+        "title": "Dam removals are bringing fish back across the northeastern United States",
+        "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+        "domain": "smithsonianmag.com",
+        "score": 196,
+        "descendants": 54,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "美国东北部拆除废弃水坝后的生态监测表明，洄游鱼类种群正在显著回升。"
+      },
+      {
+        "id": 50129045,
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "domain": "huggingface.co",
+        "score": 702,
+        "descendants": 591,
+        "by": "theykk",
+        "tags": [],
+        "summary": "DeepSeek发布最新v4.1-Flash-1017模型，在开发者社区引发了关于模型性能的激烈讨论。"
+      },
+      {
+        "id": 50100994,
+        "title": "Furifont, a Japanese font that shows furigana",
+        "url": "https://furifont.antfu.me/",
+        "domain": "furifont.antfu.me",
+        "score": 267,
+        "descendants": 55,
+        "by": "plaguna",
+        "tags": [],
+        "summary": "Furifont是一款专为日语学习者设计的字体，能够自动在汉字旁显示假名。"
+      },
+      {
+        "id": 50132193,
+        "title": "Pele – Mermaid diagrams as themeable SVG",
+        "url": "https://pele.run/",
+        "domain": "pele.run",
+        "score": 239,
+        "descendants": 26,
+        "by": "dchest",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Pele是一个能够将Mermaid图表转化为可自定义样式的SVG的工具。"
+      },
+      {
+        "id": 50100366,
+        "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+        "url": "https://github.com/antirez/c64-hw-simulator",
+        "domain": "github.com",
+        "score": 145,
+        "descendants": 23,
+        "by": "antirez",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一款Commodore 64硬件模拟器，允许用户在虚拟环境中破坏芯片和引脚来观察系统崩溃逻辑。"
+      },
+      {
+        "id": 50131213,
+        "title": "Making chicken transparent using Dorito dust",
+        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+        "domain": "chillphysicsenjoyer.substack.com",
+        "score": 255,
+        "descendants": 66,
+        "by": "crescit_eundo",
+        "tags": [],
+        "summary": "一篇趣味物理科普文章，探讨如何利用特殊的材料处理方式让鸡肉组织变得透明。"
+      },
+      {
+        "id": 50090927,
+        "title": "Types of types: Haskell's Kind system",
+        "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+        "domain": "thunk.blog",
+        "score": 52,
+        "descendants": 27,
+        "by": "Thom2503",
+        "tags": [],
+        "summary": "深入浅出地解析Haskell语言中的Kind系统，适合对类型系统感兴趣的开发者。"
+      },
+      {
+        "id": 50132870,
+        "title": "Gold is now the top U.S. export",
+        "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+        "domain": "numismaticnews.net",
+        "score": 239,
+        "descendants": 122,
+        "by": "iamnothere",
+        "tags": [],
+        "summary": "数据显示，黄金已取代其他商品成为美国出口额最高的单一产品。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "meidasnews.com",
+          "count": 1
+        },
+        {
+          "domain": "nature.com",
+          "count": 1
+        },
+        {
+          "domain": "smithsonianmag.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 250,
+      "max_score": {
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "score": 702
+      },
+      "most_discussed": {
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "comments": 591
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿AI技术、环境生态修复及独特的开源工具与硬件模拟。科技界高度关注DeepSeek的新模型发布，同时自然科学领域的珊瑚保护与水坝拆除效应，以及如字体工具、硬件模拟等趣味性开发项目也引发了广泛讨论。"
+  }
+}
