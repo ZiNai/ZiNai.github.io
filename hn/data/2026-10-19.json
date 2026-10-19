@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-10-19 10:09",
+    "stories": [
+      {
+        "id": 50145337,
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "domain": "arxiv.org",
+        "score": 221,
+        "descendants": 137,
+        "by": "allinonai",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "探讨了一种在潜空间进行推理、通过文本执行任务的新型混合推理LLM代理架构。"
+      },
+      {
+        "id": 50146625,
+        "title": "William Gibson and the trademarking of cyberspace",
+        "url": "https://colo.to/cyberspace.html",
+        "domain": "colo.to",
+        "score": 68,
+        "descendants": 5,
+        "by": "Eric_Gullichsen",
+        "tags": [
+          "Science"
+        ],
+        "summary": "回顾William Gibson与“赛博空间”一词背后的商标权历史渊源。"
+      },
+      {
+        "id": 50136150,
+        "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+        "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+        "domain": "youtube.com",
+        "score": 176,
+        "descendants": 138,
+        "by": "mdp2021",
+        "tags": [],
+        "summary": "3blue1brown深入阐述为何当前是进入数学研究领域的黄金时期。"
+      },
+      {
+        "id": 50145507,
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "domain": "jrdsgl.com",
+        "score": 39,
+        "descendants": 24,
+        "by": "amrrs",
+        "tags": [
+          "AI"
+        ],
+        "summary": "讨论为何开发者应运行自己的LLM代理以增强对数据与调用过程的可控性。"
+      },
+      {
+        "id": 50142573,
+        "title": "Someone behind the software",
+        "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+        "domain": "karrisaarinen.com",
+        "score": 318,
+        "descendants": 136,
+        "by": "tosh",
+        "tags": [],
+        "summary": "探讨软件背后的人性化因素以及技术产品中的设计者视角。"
+      },
+      {
+        "id": 50111537,
+        "title": "Laptop Based on 6502 CPU",
+        "url": "https://www.maddox.pro/?p=448",
+        "domain": "maddox.pro",
+        "score": 34,
+        "descendants": 11,
+        "by": "nanochess",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "展示了一款完全基于经典6502 CPU架构构建的复古笔记本电脑项目。"
+      },
+      {
+        "id": 50144066,
+        "title": "Free Pascal compiler now supports dynamic packages",
+        "url": "https://www.getlazarus.org/dynamic/",
+        "domain": "getlazarus.org",
+        "score": 115,
+        "descendants": 22,
+        "by": "sysrpl",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "Free Pascal编译器更新，正式引入对动态链接包的支持。"
+      },
+      {
+        "id": 50141076,
+        "title": "RepRapMicron",
+        "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+        "domain": "github.com",
+        "score": 334,
+        "descendants": 54,
+        "by": "RobotToaster",
+        "tags": [],
+        "summary": "介绍RepRapMicron项目，分享微型3D打印机的硬件设计与实现。"
+      },
+      {
+        "id": 50136979,
+        "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+        "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+        "domain": "sciencealert.com",
+        "score": 135,
+        "descendants": 81,
+        "by": "gmays",
+        "tags": [],
+        "summary": "研究发现狗与人类在处理布巴/奇奇效应时展现出相似的跨物种联觉机制。"
+      },
+      {
+        "id": 50145715,
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "domain": "github.com",
+        "score": 43,
+        "descendants": 30,
+        "by": "zoozla",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示了一个基于Cloudflare运行的免费WhatsApp MCP（模型上下文协议）工具。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
+          "domain": "colo.to",
+          "count": 1
+        }
+      ],
+      "avg_score": 148,
+      "max_score": {
+        "title": "RepRapMicron",
+        "score": 334
+      },
+      "most_discussed": {
+        "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+        "comments": 138
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于AI技术的深层应用与工程实践，涵盖了LLM推理机制、代理开发以及硬件创新。此外，数学教育与基础科学的跨学科研究也引发了社区的广泛讨论。"
+  }
+}
