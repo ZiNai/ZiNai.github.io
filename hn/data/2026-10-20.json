@@ -157,5 +157,161 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在系统底层开发与前沿技术突破，涵盖了OpenBSD驱动更新、Wine移植以及创新的硬件工程项目。同时，社区也关注AI代理应用及软件工程中回归纯粹编程乐趣的讨论，体现了技术爱好者对底层构建与实践探索的持续热情。"
+  },
+  "noon": {
+    "time": "2026-10-20 16:58",
+    "stories": [
+      {
+        "id": 50141581,
+        "title": "Nordwand Mono – A monospace font for coders and adventurers",
+        "url": "https://github.com/tywr/Nordwand-Mono",
+        "domain": "github.com",
+        "score": 193,
+        "descendants": 57,
+        "by": "noriax86",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一款为程序员与冒险者设计的等宽字体Nordwand Mono发布。"
+      },
+      {
+        "id": 50160494,
+        "title": "OpenBSD 8.0",
+        "url": "https://www.openbsd.org/80.html",
+        "domain": "openbsd.org",
+        "score": 264,
+        "descendants": 77,
+        "by": "privong",
+        "tags": [],
+        "summary": "OpenBSD 8.0 正式发布，带来系统性能与安全性的常规更新。"
+      },
+      {
+        "id": 50140111,
+        "title": "Restoration of Retinal Regenerative Potential",
+        "url": "https://www.nature.com/articles/s41467-025-58290-8",
+        "domain": "nature.com",
+        "score": 48,
+        "descendants": 2,
+        "by": "Kaibeezy",
+        "tags": [],
+        "summary": "探讨视网膜再生潜力的恢复机制及其生物医学研究进展。"
+      },
+      {
+        "id": 50159341,
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "domain": "redact.dev",
+        "score": 401,
+        "descendants": 106,
+        "by": "ds",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究发现WhatsApp帮助页面中隐藏了禁止推荐监管机构的LLM指令。"
+      },
+      {
+        "id": 50154540,
+        "title": "MiniMax M3.1 Flash",
+        "url": "https://www.minimax.io/blog/minimax-m31f",
+        "domain": "minimax.io",
+        "score": 461,
+        "descendants": 197,
+        "by": "jtg",
+        "tags": [],
+        "summary": "MiniMax推出M3.1 Flash模型，主打高性能人工智能算力。"
+      },
+      {
+        "id": 50154244,
+        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "domain": "reuters.com",
+        "score": 226,
+        "descendants": 192,
+        "by": "cmrdporcupine",
+        "tags": [],
+        "summary": "美国国土安全部下令禁止联邦民事机构使用DeepSeek人工智能。"
+      },
+      {
+        "id": 50159616,
+        "title": "France's supermarket fridges were vulnerable online for months",
+        "url": "https://ipinfo.io/blog/france-fridges-hack",
+        "domain": "ipinfo.io",
+        "score": 161,
+        "descendants": 133,
+        "by": "emot",
+        "tags": [],
+        "summary": "法国多家超市的制冷设备在线系统长期存在安全漏洞，暴露在公网中。"
+      },
+      {
+        "id": 50140584,
+        "title": "Weball: Play Katamari on Websites",
+        "url": "https://www.funwithcomputervision.com/weball/",
+        "domain": "funwithcomputervision.com",
+        "score": 193,
+        "descendants": 14,
+        "by": "croes",
+        "tags": [
+          "Web"
+        ],
+        "summary": "Weball项目允许用户在任何网页上体验类似《块魂》的收集互动游戏。"
+      },
+      {
+        "id": 50160877,
+        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+        "url": "https://github.com/golang/go/issues/82345",
+        "domain": "github.com",
+        "score": 86,
+        "descendants": 31,
+        "by": "mendym",
+        "tags": [
+          "AI",
+          "Rust"
+        ],
+        "summary": "Go语言将更新以拒绝包含八种被标记为不信任的SPKI证书链。"
+      },
+      {
+        "id": 50158942,
+        "title": "An ad-free Android TV",
+        "url": "https://cretezy.com/2026/ad-free-android-tv",
+        "domain": "cretezy.com",
+        "score": 196,
+        "descendants": 59,
+        "by": "CraftThatBlock",
+        "tags": [],
+        "summary": "探讨如何构建一个无广告干扰的Android TV使用体验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "openbsd.org",
+          "count": 1
+        },
+        {
+          "domain": "nature.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 223,
+      "max_score": {
+        "title": "MiniMax M3.1 Flash",
+        "score": 461
+      },
+      "most_discussed": {
+        "title": "MiniMax M3.1 Flash",
+        "comments": 197
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Web",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于科技安全与人工智能监管，包括DeepSeek的联邦禁令、WhatsApp潜在的指令暴露，以及OpenBSD等开源系统的重大更新。此外，字体设计、生物医学研究及网络安全隐患等话题也引发了开发者的广泛关注。"
   }
 }
