@@ -1,138 +1,161 @@
 {
   "morning": {
-    "time": "2026-10-20 02:14",
+    "time": "2026-10-20 10:24",
     "stories": [
       {
-        "id": 50152307,
-        "title": "Wine ported to OpenBSD",
-        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-        "domain": "marc.info",
-        "score": 328,
-        "descendants": 88,
-        "by": "iamnothere",
-        "tags": []
+        "id": 50159993,
+        "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+        "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+        "domain": "efe.com",
+        "score": 122,
+        "descendants": 45,
+        "by": "jumpocelot",
+        "tags": [
+          "AI",
+          "JavaScript"
+        ],
+        "summary": "卢拉支持者抗议Meta，指责其存在所谓的“选举干预”行为。"
       },
       {
         "id": 50154540,
         "title": "MiniMax M3.1 Flash",
         "url": "https://www.minimax.io/blog/minimax-m31f",
         "domain": "minimax.io",
-        "score": 47,
-        "descendants": 16,
+        "score": 389,
+        "descendants": 168,
         "by": "jtg",
-        "tags": []
+        "tags": [],
+        "summary": "MiniMax发布M3.1 Flash模型，进一步拓展了高性能AI模型的能力。"
+      },
+      {
+        "id": 50150089,
+        "title": "I built a drone with only one motor [video]",
+        "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+        "domain": "youtube.com",
+        "score": 401,
+        "descendants": 85,
+        "by": "hakonjdjohnsen",
+        "tags": [],
+        "summary": "作者通过工程创新，成功研发出一款仅使用单马达驱动的无人机。"
+      },
+      {
+        "id": 50152307,
+        "title": "Wine ported to OpenBSD",
+        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "domain": "marc.info",
+        "score": 508,
+        "descendants": 170,
+        "by": "iamnothere",
+        "tags": [],
+        "summary": "Wine项目已正式移植至OpenBSD系统，提升了该平台的兼容性。"
+      },
+      {
+        "id": 50140584,
+        "title": "Weball: Play Katamari on Websites",
+        "url": "https://www.funwithcomputervision.com/weball/",
+        "domain": "funwithcomputervision.com",
+        "score": 70,
+        "descendants": 4,
+        "by": "croes",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50158138,
+        "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+        "url": "https://bsd.network/@brynet/117407035545900963",
+        "domain": "bsd.network",
+        "score": 94,
+        "descendants": 16,
+        "by": "doener",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "OpenBSD 8.0计划集成源自Linux 6.18的inteldrm及amdgpu驱动，显著增强图形性能。"
       },
       {
         "id": 50136126,
         "title": "RuneScape Bench: MMOs for Agents [video]",
         "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
         "domain": "youtube.com",
-        "score": 32,
-        "descendants": 11,
+        "score": 159,
+        "descendants": 64,
         "by": "evakhoury",
         "tags": [
           "Systems"
-        ]
+        ],
+        "summary": "RuneScape Bench提供了一套针对AI智能体在大型多人在线游戏环境下的基准测试方案。"
       },
       {
         "id": 50134472,
         "title": "It's still ok to enjoy programming",
         "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
         "domain": "chriskiehl.com",
-        "score": 164,
-        "descendants": 160,
+        "score": 454,
+        "descendants": 424,
         "by": "goostavos",
-        "tags": []
+        "tags": [],
+        "summary": "文章探讨了在复杂的工业化软件开发环境下，如何保持对编程本身的热爱与纯粹性。"
+      },
+      {
+        "id": 50157865,
+        "title": "One Hash Bloom Filters",
+        "url": "https://calabro.io/ohbf",
+        "domain": "calabro.io",
+        "score": 57,
+        "descendants": 5,
+        "by": "jcalabro",
+        "tags": [],
+        "summary": "深入解析一种名为“单哈希布隆过滤器”的数据结构优化方案。"
       },
       {
         "id": 50154624,
         "title": "Android apps running native on macOS",
         "url": "https://github.com/kksimp/Mac.apk",
         "domain": "github.com",
-        "score": 28,
-        "descendants": 5,
+        "score": 264,
+        "descendants": 143,
         "by": "flocked",
         "tags": [
           "Systems"
-        ]
-      },
-      {
-        "id": 50155245,
-        "title": "Mercury 3: Diffusion at scale",
-        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-        "domain": "inceptionlabs.ai",
-        "score": 83,
-        "descendants": 31,
-        "by": "cmrdporcupine",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50150434,
-        "title": "Timestral: Mistral's time-series foundation models",
-        "url": "https://mistral.ai/news/timestral/",
-        "domain": "mistral.ai",
-        "score": 403,
-        "descendants": 76,
-        "by": "groar",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50150927,
-        "title": "Alternatives to animal testing are finally taking off",
-        "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-        "domain": "spectrum.ieee.org",
-        "score": 214,
-        "descendants": 52,
-        "by": "rbanffy",
-        "tags": []
-      },
-      {
-        "id": 50129102,
-        "title": "Galois Finite Fields and the Advanced Encryption Standard (AES)",
-        "url": "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html",
-        "domain": "cs.uaf.edu",
-        "score": 33,
-        "descendants": 0,
-        "by": "ankitg12",
-        "tags": [
-          "Security"
-        ]
+        ],
+        "summary": "一个开源项目实现了Android应用在macOS系统上的原生运行支持。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "marc.info",
+          "domain": "youtube.com",
+          "count": 2
+        },
+        {
+          "domain": "efe.com",
           "count": 1
         },
         {
           "domain": "minimax.io",
           "count": 1
-        },
-        {
-          "domain": "youtube.com",
-          "count": 1
         }
       ],
-      "avg_score": 148,
+      "avg_score": 252,
       "max_score": {
-        "title": "Timestral: Mistral's time-series foundation models",
-        "score": 403
+        "title": "Wine ported to OpenBSD",
+        "score": 508
       },
       "most_discussed": {
         "title": "It's still ok to enjoy programming",
-        "comments": 160
+        "comments": 424
       },
       "hot_tags": [
         "Systems",
         "AI",
-        "Security"
+        "JavaScript",
+        "Web",
+        "Hardware"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News焦点集中在系统底层开发与前沿技术突破，涵盖了OpenBSD驱动更新、Wine移植以及创新的硬件工程项目。同时，社区也关注AI代理应用及软件工程中回归纯粹编程乐趣的讨论，体现了技术爱好者对底层构建与实践探索的持续热情。"
   }
 }
