@@ -1,0 +1,146 @@
+{
+  "morning": {
+    "time": "2026-10-21 00:14",
+    "stories": [
+      {
+        "id": 50167536,
+        "title": "Facebook now charging to post more than 2 links a month",
+        "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+        "domain": "mastodon.gamedev.place",
+        "score": 173,
+        "descendants": 85,
+        "by": "AshleysBrain",
+        "tags": []
+      },
+      {
+        "id": 50163277,
+        "title": "DeepSeek just open-sourced its inference engine",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "domain": "github.com",
+        "score": 1621,
+        "descendants": 591,
+        "by": "ggcr",
+        "tags": [
+          "AI",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 50166579,
+        "title": "EMudhra Intermediate CA Compromise",
+        "url": "https://emudhra.we-have-a-problem.com/",
+        "domain": "emudhra.we-have-a-problem.com",
+        "score": 141,
+        "descendants": 52,
+        "by": "galadran",
+        "tags": []
+      },
+      {
+        "id": 50165208,
+        "title": "Apple broke an essential presentation feature of iPads",
+        "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+        "domain": "teddysvoronos.com",
+        "score": 237,
+        "descendants": 129,
+        "by": "evanb",
+        "tags": []
+      },
+      {
+        "id": 50166257,
+        "title": "How I got over 300 Tor exit nodes removed",
+        "url": "https://kaba.cx/posts/20261020_Tor/",
+        "domain": "kaba.cx",
+        "score": 103,
+        "descendants": 29,
+        "by": "kabakabakaba",
+        "tags": []
+      },
+      {
+        "id": 50131997,
+        "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+        "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+        "domain": "quantamagazine.org",
+        "score": 26,
+        "descendants": 6,
+        "by": "gumby",
+        "tags": []
+      },
+      {
+        "id": 50166794,
+        "title": "My Friend Bob Cringely",
+        "url": "https://tyma.com/my-cringe-story/",
+        "domain": "tyma.com",
+        "score": 64,
+        "descendants": 22,
+        "by": "zinxq",
+        "tags": []
+      },
+      {
+        "id": 50167028,
+        "title": "Ofcom Concedes Defeat in the 4chan Case",
+        "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+        "domain": "prestonbyrne.com",
+        "score": 85,
+        "descendants": 43,
+        "by": "iamnothere",
+        "tags": []
+      },
+      {
+        "id": 50165801,
+        "title": "Publish fake stats, get cited in LLMs",
+        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "domain": "peec.ai",
+        "score": 149,
+        "descendants": 82,
+        "by": "robtherobber",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50167617,
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "url": "https://jevcards.com",
+        "domain": "jevcards.com",
+        "score": 17,
+        "descendants": 6,
+        "by": "totisjosema",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mastodon.gamedev.place",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "emudhra.we-have-a-problem.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 262,
+      "max_score": {
+        "title": "DeepSeek just open-sourced its inference engine",
+        "score": 1621
+      },
+      "most_discussed": {
+        "title": "DeepSeek just open-sourced its inference engine",
+        "comments": 591
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Show HN"
+      ]
+    },
+    "summary": ""
+  }
+}
