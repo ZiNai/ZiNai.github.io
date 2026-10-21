@@ -156,5 +156,153 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖了技术前沿与社会议题。AI模型（如Mistral的Voxtral 3）与基础设施（Google开源TorchTPU）持续驱动技术讨论，同时社区对官僚审批流程、药物滥用社会问题及开放知识体系的防卫表现出极高关注。"
+  },
+  "noon": {
+    "time": "2026-10-21 16:57",
+    "stories": [
+      {
+        "id": 50175070,
+        "title": "The Future of CSS",
+        "url": "https://www.joshwcomeau.com/css/interop-2027/",
+        "domain": "joshwcomeau.com",
+        "score": 340,
+        "descendants": 130,
+        "by": "soheilpro",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50170593,
+        "title": "Show HN: SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "domain": "permit.petercai.com",
+        "score": 780,
+        "descendants": 369,
+        "by": "pcai",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50172041,
+        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+        "url": "https://news-web.php.net/php.announce/509",
+        "domain": "news-web.php.net",
+        "score": 719,
+        "descendants": 269,
+        "by": "xd",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 50174687,
+        "title": "Muse exposes users' personal and business secrets when they share conversations",
+        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "domain": "arstechnica.com",
+        "score": 155,
+        "descendants": 57,
+        "by": "gumby",
+        "tags": []
+      },
+      {
+        "id": 50168396,
+        "title": "Voxtral 3",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "domain": "mistral.ai",
+        "score": 655,
+        "descendants": 164,
+        "by": "ilreb",
+        "tags": []
+      },
+      {
+        "id": 50166579,
+        "title": "eMudhra intermediate CA compromise",
+        "url": "https://emudhra.we-have-a-problem.com/",
+        "domain": "emudhra.we-have-a-problem.com",
+        "score": 914,
+        "descendants": 392,
+        "by": "galadran",
+        "tags": []
+      },
+      {
+        "id": 50173487,
+        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+        "domain": "krebsonsecurity.com",
+        "score": 195,
+        "descendants": 88,
+        "by": "Bender",
+        "tags": []
+      },
+      {
+        "id": 50175185,
+        "title": "In Hilbert space, all things are quantumly possible",
+        "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+        "domain": "quantamagazine.org",
+        "score": 91,
+        "descendants": 47,
+        "by": "unprovable",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 50149861,
+        "title": "The Decoherence Trap",
+        "url": "https://maevyn.codes/decoherence",
+        "domain": "maevyn.codes",
+        "score": 20,
+        "descendants": 1,
+        "by": "cassianoleal",
+        "tags": []
+      },
+      {
+        "id": 50175059,
+        "title": "Good type against all odds",
+        "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+        "domain": "unsung.aresluna.org",
+        "score": 111,
+        "descendants": 12,
+        "by": "firloop",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "joshwcomeau.com",
+          "count": 1
+        },
+        {
+          "domain": "permit.petercai.com",
+          "count": 1
+        },
+        {
+          "domain": "news-web.php.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 398,
+      "max_score": {
+        "title": "eMudhra intermediate CA compromise",
+        "score": 914
+      },
+      "most_discussed": {
+        "title": "eMudhra intermediate CA compromise",
+        "comments": 392
+      },
+      "hot_tags": [
+        "Web",
+        "Show HN",
+        "Security",
+        "Science",
+        "AI"
+      ]
+    },
+    "summary": ""
   }
 }
