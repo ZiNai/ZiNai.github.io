@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-10-22 00:29",
+    "stories": [
+      {
+        "id": 50180873,
+        "title": "PHP 8.2.35",
+        "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "domain": "github.com",
+        "score": 609,
+        "descendants": 239,
+        "by": "tuyuri",
+        "tags": [],
+        "summary": "PHP发布8.2.35版本，包含关键安全修复。"
+      },
+      {
+        "id": 50182987,
+        "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "domain": "thephp.foundation",
+        "score": 65,
+        "descendants": 12,
+        "by": "ejohnso49",
+        "tags": [
+          "Security"
+        ],
+        "summary": "PHP基金会官方详细阐述此次安全更新的内容及加强PHP安全生态的后续计划。"
+      },
+      {
+        "id": 50181136,
+        "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+        "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+        "domain": "duckdb.org",
+        "score": 180,
+        "descendants": 19,
+        "by": "nnx",
+        "tags": [],
+        "summary": "DuckDB发布2.0.0 LTS版本，代号“Cinnamon Teal”，带来多项性能与稳定性提升。"
+      },
+      {
+        "id": 50181114,
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "domain": "safedep.io",
+        "score": 102,
+        "descendants": 46,
+        "by": "abhisek",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "LiteLLM在PyPI上的版本被植入后门，导致凭据泄露，提醒开发者审慎管理依赖包。"
+      },
+      {
+        "id": 50181175,
+        "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "domain": "openai.com",
+        "score": 116,
+        "descendants": 65,
+        "by": "nr378",
+        "tags": [],
+        "summary": "OpenAI探讨利用AI智能体在全球范围内协同发现与修复安全漏洞的潜力。"
+      },
+      {
+        "id": 50177916,
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "domain": "scotthelme.co.uk",
+        "score": 599,
+        "descendants": 259,
+        "by": "hkc",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "eMudhra证书颁发机构的CA密钥被曝存在严重安全漏洞，可在毫秒级被破解。"
+      },
+      {
+        "id": 50182526,
+        "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+        "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+        "domain": "apnews.com",
+        "score": 41,
+        "descendants": 23,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "俄勒冈州立法机构批准拨款购回被挂牌出售的标志性瀑布，以保护自然资源。"
+      },
+      {
+        "id": 50180836,
+        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce",
+        "domain": "wiz.io",
+        "score": 344,
+        "descendants": 114,
+        "by": "danlark1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Wiz研究人员揭露利用AI发现PHP核心代码中的严重远程代码执行（RCE）漏洞。"
+      },
+      {
+        "id": 50181137,
+        "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+        "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+        "domain": "techdirt.com",
+        "score": 328,
+        "descendants": 237,
+        "by": "robtherobber",
+        "tags": [],
+        "summary": "探讨No Kings组织被封禁事件，强调依赖中心化大厂托管平台存在的言论自由风险。"
+      },
+      {
+        "id": 50176908,
+        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "url": "https://alterauth.com/",
+        "domain": "alterauth.com",
+        "score": 12,
+        "descendants": 9,
+        "by": "simfinii",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "YC入选项目Alter推出多用户AI智能体访问控制解决方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "thephp.foundation",
+          "count": 1
+        },
+        {
+          "domain": "duckdb.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 240,
+      "max_score": {
+        "title": "PHP 8.2.35",
+        "score": 609
+      },
+      "most_discussed": {
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "comments": 259
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Rust",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在PHP生态的安全危机，包括多个关键漏洞披露及后续的安全响应。此外，AI领域的安全风险、数据库技术更新以及平台治理的权力问题也引发了社区的广泛讨论。"
+  }
+}
