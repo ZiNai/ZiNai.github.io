@@ -1,146 +1,160 @@
 {
   "morning": {
-    "time": "2026-10-21 00:14",
+    "time": "2026-10-21 10:18",
     "stories": [
       {
-        "id": 50167536,
-        "title": "Facebook now charging to post more than 2 links a month",
-        "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-        "domain": "mastodon.gamedev.place",
-        "score": 173,
-        "descendants": 85,
-        "by": "AshleysBrain",
-        "tags": []
-      },
-      {
-        "id": 50163277,
-        "title": "DeepSeek just open-sourced its inference engine",
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "domain": "github.com",
-        "score": 1621,
-        "descendants": 591,
-        "by": "ggcr",
+        "id": 50170593,
+        "title": "Show HN: SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "domain": "permit.petercai.com",
+        "score": 586,
+        "descendants": 294,
+        "by": "pcai",
         "tags": [
-          "AI",
-          "Open Source"
-        ]
+          "Show HN"
+        ],
+        "summary": "一个模拟城市建设的网页游戏，核心玩法专注于处理复杂的建筑与行政审批流程。"
       },
       {
-        "id": 50166579,
-        "title": "EMudhra Intermediate CA Compromise",
-        "url": "https://emudhra.we-have-a-problem.com/",
-        "domain": "emudhra.we-have-a-problem.com",
-        "score": 141,
-        "descendants": 52,
-        "by": "galadran",
-        "tags": []
+        "id": 50173487,
+        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+        "domain": "krebsonsecurity.com",
+        "score": 107,
+        "descendants": 40,
+        "by": "Bender",
+        "tags": [],
+        "summary": "联邦调查局调查显示，一名网络勒索谈判专家涉嫌暗中运营黑客组织ShinyHunters的敲诈勒索平台。"
       },
       {
-        "id": 50165208,
-        "title": "Apple broke an essential presentation feature of iPads",
-        "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-        "domain": "teddysvoronos.com",
-        "score": 237,
-        "descendants": 129,
-        "by": "evanb",
-        "tags": []
+        "id": 50168396,
+        "title": "Voxtral 3",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "domain": "mistral.ai",
+        "score": 535,
+        "descendants": 143,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "Mistral AI发布了最新的Voxtral 3模型，引发社区对人工智能性能与更新方向的关注。"
       },
       {
-        "id": 50166257,
-        "title": "How I got over 300 Tor exit nodes removed",
-        "url": "https://kaba.cx/posts/20261020_Tor/",
-        "domain": "kaba.cx",
-        "score": 103,
-        "descendants": 29,
-        "by": "kabakabakaba",
-        "tags": []
-      },
-      {
-        "id": 50131997,
-        "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-        "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-        "domain": "quantamagazine.org",
-        "score": 26,
-        "descendants": 6,
-        "by": "gumby",
-        "tags": []
-      },
-      {
-        "id": 50166794,
-        "title": "My Friend Bob Cringely",
-        "url": "https://tyma.com/my-cringe-story/",
-        "domain": "tyma.com",
-        "score": 64,
-        "descendants": 22,
-        "by": "zinxq",
-        "tags": []
-      },
-      {
-        "id": 50167028,
-        "title": "Ofcom Concedes Defeat in the 4chan Case",
-        "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-        "domain": "prestonbyrne.com",
-        "score": 85,
+        "id": 50173891,
+        "title": "The Other Epidemic: Trying to get off benzodiazepines",
+        "url": "https://www.thebeliever.net/the-other-epidemic/",
+        "domain": "thebeliever.net",
+        "score": 69,
         "descendants": 43,
-        "by": "iamnothere",
-        "tags": []
+        "by": "gaplong",
+        "tags": [],
+        "summary": "深入探讨苯二氮䓬类药物（Benzodiazepines）成瘾的社会困境及戒断过程的艰巨性。"
       },
       {
-        "id": 50165801,
-        "title": "Publish fake stats, get cited in LLMs",
-        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-        "domain": "peec.ai",
-        "score": 149,
-        "descendants": 82,
-        "by": "robtherobber",
+        "id": 50175059,
+        "title": "Good type against all odds",
+        "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+        "domain": "unsung.aresluna.org",
+        "score": 14,
+        "descendants": 4,
+        "by": "firloop",
         "tags": [
           "AI"
-        ]
+        ],
+        "summary": "一篇关于在逆境中如何保持优秀排版设计与字体艺术的个人技术随笔。"
       },
       {
-        "id": 50167617,
-        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-        "url": "https://jevcards.com",
-        "domain": "jevcards.com",
-        "score": 17,
-        "descendants": 6,
-        "by": "totisjosema",
+        "id": 50175057,
+        "title": "Learning to live with Waymos",
+        "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+        "domain": "newyorker.com",
+        "score": 8,
+        "descendants": 0,
+        "by": "njrc",
         "tags": [
-          "AI",
-          "Show HN"
-        ]
+          "Systems"
+        ],
+        "summary": "文章探讨了自动驾驶出租车Waymo在城市生活中的实际融入感与公众适应过程。"
+      },
+      {
+        "id": 50169053,
+        "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+        "url": "https://github.com/google-pytorch/torch_tpu",
+        "domain": "github.com",
+        "score": 267,
+        "descendants": 64,
+        "by": "ilreb",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Google正式开源TorchTPU，为PyTorch提供原生的TPU后端支持，显著优化计算效率。"
+      },
+      {
+        "id": 50170917,
+        "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+        "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+        "domain": "blogs.lse.ac.uk",
+        "score": 141,
+        "descendants": 75,
+        "by": "jruohonen",
+        "tags": [],
+        "summary": "呼吁学术界承担保护责任，积极维护并捍卫Wikipedia等开放知识体系的权威性。"
+      },
+      {
+        "id": 50169707,
+        "title": "What shall I teach my son?",
+        "url": "https://stevekrouse.com/ends",
+        "domain": "stevekrouse.com",
+        "score": 274,
+        "descendants": 335,
+        "by": "Curiositry",
+        "tags": [],
+        "summary": "一篇关于教育哲学与价值观引导的深度思考，探讨作为父母应如何为下一代准备面对未来的知识与心智。"
+      },
+      {
+        "id": 50108717,
+        "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+        "domain": "github.com",
+        "score": 176,
+        "descendants": 79,
+        "by": "dhorthy",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "最新的代码生成模型测评基准，分析了Opus 5.5等模型在实际编程任务中的表现及其潜在弊端。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "mastodon.gamedev.place",
-          "count": 1
-        },
-        {
           "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "permit.petercai.com",
           "count": 1
         },
         {
-          "domain": "emudhra.we-have-a-problem.com",
+          "domain": "krebsonsecurity.com",
           "count": 1
         }
       ],
-      "avg_score": 262,
+      "avg_score": 218,
       "max_score": {
-        "title": "DeepSeek just open-sourced its inference engine",
-        "score": 1621
+        "title": "Show HN: SimCity, but with Permits",
+        "score": 586
       },
       "most_discussed": {
-        "title": "DeepSeek just open-sourced its inference engine",
-        "comments": 591
+        "title": "What shall I teach my son?",
+        "comments": 335
       },
       "hot_tags": [
+        "Show HN",
         "AI",
+        "Systems",
         "Open Source",
-        "Show HN"
+        "Hardware"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News焦点涵盖了技术前沿与社会议题。AI模型（如Mistral的Voxtral 3）与基础设施（Google开源TorchTPU）持续驱动技术讨论，同时社区对官僚审批流程、药物滥用社会问题及开放知识体系的防卫表现出极高关注。"
   }
 }
