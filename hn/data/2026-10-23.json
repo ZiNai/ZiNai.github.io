@@ -1,0 +1,145 @@
+{
+  "morning": {
+    "time": "2026-10-23 00:30",
+    "stories": [
+      {
+        "id": 50195959,
+        "title": "Quad9 (DNS Resolver) to Exit France",
+        "url": "https://quad9.net/news/blog/au-revoir-france/",
+        "domain": "quad9.net",
+        "score": 206,
+        "descendants": 65,
+        "by": "farrokhi",
+        "tags": []
+      },
+      {
+        "id": 50195110,
+        "title": "eMudhra to exit global SSL/TLS certificate business",
+        "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+        "domain": "emudhra.com",
+        "score": 461,
+        "descendants": 363,
+        "by": "bo0tzz",
+        "tags": []
+      },
+      {
+        "id": 50195543,
+        "title": "What's Getting Pwned",
+        "url": "https://pwn.watch/",
+        "domain": "pwn.watch",
+        "score": 133,
+        "descendants": 84,
+        "by": "mrkd",
+        "tags": []
+      },
+      {
+        "id": 50196718,
+        "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+        "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "domain": "github.com",
+        "score": 41,
+        "descendants": 14,
+        "by": "aghuang",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50150163,
+        "title": "What Is Gridifcation",
+        "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+        "domain": "musicalform.substack.com",
+        "score": 228,
+        "descendants": 101,
+        "by": "gumby",
+        "tags": []
+      },
+      {
+        "id": 50192536,
+        "title": "Jailbreaking the Switch 2",
+        "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "domain": "pepsipu.com",
+        "score": 457,
+        "descendants": 167,
+        "by": "ledoge",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50196837,
+        "title": "Google cleared 300 hectares of Finnish forest",
+        "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+        "domain": "techspot.com",
+        "score": 66,
+        "descendants": 33,
+        "by": "wetwater",
+        "tags": []
+      },
+      {
+        "id": 50193170,
+        "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+        "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+        "domain": "globus.software",
+        "score": 144,
+        "descendants": 30,
+        "by": "molind",
+        "tags": []
+      },
+      {
+        "id": 50197533,
+        "title": "Where Wealth Is Moving in America",
+        "url": "https://thestatedtruth.com/?p=28732",
+        "domain": "thestatedtruth.com",
+        "score": 3,
+        "descendants": 1,
+        "by": "hihetej",
+        "tags": []
+      },
+      {
+        "id": 50190363,
+        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+        "domain": "simedw.com",
+        "score": 414,
+        "descendants": 129,
+        "by": "alphax314",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "quad9.net",
+          "count": 1
+        },
+        {
+          "domain": "emudhra.com",
+          "count": 1
+        },
+        {
+          "domain": "pwn.watch",
+          "count": 1
+        }
+      ],
+      "avg_score": 215,
+      "max_score": {
+        "title": "eMudhra to exit global SSL/TLS certificate business",
+        "score": 461
+      },
+      "most_discussed": {
+        "title": "eMudhra to exit global SSL/TLS certificate business",
+        "comments": 363
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": ""
+  }
+}
