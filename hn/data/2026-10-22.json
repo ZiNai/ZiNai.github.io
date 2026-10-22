@@ -159,5 +159,169 @@
       ]
     },
     "summary": "今日Hacker News焦点高度集中在网络安全与漏洞修复领域，涵盖了PHP、GitLab及PyPI供应链攻击等多个关键安全事件。此外，行业动态方面，关于Google的Rust规范、大型科技公司的合规惩罚及UI设计讨论也引发了广泛关注。"
+  },
+  "noon": {
+    "time": "2026-10-22 16:59",
+    "stories": [
+      {
+        "id": 50190363,
+        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+        "domain": "simedw.com",
+        "score": 164,
+        "descendants": 51,
+        "by": "alphax314",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者训练了一个360M参数的模型，专门用于模拟终端操作界面。"
+      },
+      {
+        "id": 50190455,
+        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "domain": "web.maths.unsw.edu.au",
+        "score": 190,
+        "descendants": 120,
+        "by": "craigcitro",
+        "tags": [],
+        "summary": "介绍了一项近期提出的O(n log n)整数乘法算法的数学研究。"
+      },
+      {
+        "id": 50188228,
+        "title": "Security Disclosure",
+        "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "domain": "blog.railway.com",
+        "score": 446,
+        "descendants": 260,
+        "by": "passenger",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Railway官方发布的关于其近期经历的安全事件及详细披露报告。"
+      },
+      {
+        "id": 50191507,
+        "title": "OpenAI CLI",
+        "url": "https://github.com/openai/openai-cli",
+        "domain": "github.com",
+        "score": 101,
+        "descendants": 66,
+        "by": "armcat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款针对OpenAI API的命令行工具，旨在简化终端下的交互流程。"
+      },
+      {
+        "id": 50186037,
+        "title": "Claude Duet",
+        "url": "https://claude.com/product/claude-duet",
+        "domain": "claude.com",
+        "score": 356,
+        "descendants": 330,
+        "by": "kuberwastaken",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨Claude推出的新功能特性及双人协作模式的应用。"
+      },
+      {
+        "id": 50186010,
+        "title": "Rust Style Guide",
+        "url": "https://google.github.io/styleguide/rustguide.html",
+        "domain": "google.github.io",
+        "score": 295,
+        "descendants": 178,
+        "by": "kaycebasques",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "谷歌发布的Rust编程语言风格指南，规范了代码编写与项目维护标准。"
+      },
+      {
+        "id": 50185869,
+        "title": "GitLab critical patch release",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "domain": "docs.gitlab.com",
+        "score": 343,
+        "descendants": 80,
+        "by": "artooro",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitLab针对关键漏洞发布的补丁更新说明，建议用户尽快升级。"
+      },
+      {
+        "id": 50181114,
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "domain": "safedep.io",
+        "score": 507,
+        "descendants": 167,
+        "by": "abhisek",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "PyPI上的LiteLLM 1.107.0版本遭篡改，植入了凭证窃取程序及后门。"
+      },
+      {
+        "id": 50161346,
+        "title": "No more icons in every menu by default",
+        "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+        "domain": "blog.jim-nielsen.com",
+        "score": 298,
+        "descendants": 185,
+        "by": "riffraff",
+        "tags": [],
+        "summary": "作者主张现代UI设计应减少默认菜单图标，以提升简洁度和可用性。"
+      },
+      {
+        "id": 50176082,
+        "title": "Using LLM for confidence scoring is a bad idea",
+        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+        "domain": "rumple.github.io",
+        "score": 82,
+        "descendants": 43,
+        "by": "jimauthors",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术博文分析了为何不应将大语言模型（LLM）用于置信度评分的深层原因。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "simedw.com",
+          "count": 1
+        },
+        {
+          "domain": "web.maths.unsw.edu.au",
+          "count": 1
+        },
+        {
+          "domain": "blog.railway.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 278,
+      "max_score": {
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "score": 507
+      },
+      "most_discussed": {
+        "title": "Claude Duet",
+        "comments": 330
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Rust",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于科技安全与开发者工具，其中供应链攻击及服务商安全披露引发广泛关注。同时，AI模型应用与前沿数学算法的讨论依然是社区热点，反映出开发者对工具安全性及底层技术效率的持续思考。"
   }
 }
