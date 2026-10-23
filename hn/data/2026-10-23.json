@@ -1,145 +1,157 @@
 {
   "morning": {
-    "time": "2026-10-23 00:30",
+    "time": "2026-10-23 10:19",
     "stories": [
+      {
+        "id": 50202681,
+        "title": "Docker is weird",
+        "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "domain": "codeandcake.dev",
+        "score": 137,
+        "descendants": 61,
+        "by": "psxuaw",
+        "tags": [],
+        "summary": "作者探讨了Docker在复杂环境下的各种怪异表现与开发痛点。"
+      },
+      {
+        "id": 50202217,
+        "title": "LLMs are making formal software verification feasible at a much larger scale",
+        "url": "https://www.anthropic.com/research/formal-verification",
+        "domain": "anthropic.com",
+        "score": 129,
+        "descendants": 65,
+        "by": "johnbender",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic指出大模型正在显著降低形式化软件验证的复杂度和门槛。"
+      },
       {
         "id": 50195959,
         "title": "Quad9 (DNS Resolver) to Exit France",
         "url": "https://quad9.net/news/blog/au-revoir-france/",
         "domain": "quad9.net",
-        "score": 206,
-        "descendants": 65,
+        "score": 1013,
+        "descendants": 365,
         "by": "farrokhi",
-        "tags": []
+        "tags": [],
+        "summary": "DNS服务商Quad9因法律裁决被迫退出法国市场。"
       },
       {
-        "id": 50195110,
-        "title": "eMudhra to exit global SSL/TLS certificate business",
-        "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-        "domain": "emudhra.com",
-        "score": 461,
-        "descendants": 363,
-        "by": "bo0tzz",
-        "tags": []
+        "id": 50203161,
+        "title": "The foolishness of \"natural language programming\" (1978)",
+        "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "domain": "cs.utexas.edu",
+        "score": 30,
+        "descendants": 26,
+        "by": "xiaoyu2006",
+        "tags": [],
+        "summary": "重温1978年的老文章，探讨为何自然语言编程在实际应用中常被认为是愚蠢的尝试。"
       },
       {
-        "id": 50195543,
-        "title": "What's Getting Pwned",
-        "url": "https://pwn.watch/",
-        "domain": "pwn.watch",
-        "score": 133,
-        "descendants": 84,
-        "by": "mrkd",
-        "tags": []
+        "id": 50198675,
+        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "domain": "github.com",
+        "score": 311,
+        "descendants": 162,
+        "by": "niemandhier",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍一款名为OpenShell的开源项目，旨在为自主AI代理提供安全且私密的运行环境。"
+      },
+      {
+        "id": 50194833,
+        "title": "Woman faces six years in prison over Cash App account she never opened",
+        "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+        "domain": "techspot.com",
+        "score": 517,
+        "descendants": 533,
+        "by": "oidar",
+        "tags": [],
+        "summary": "一名女子因身份被盗用开设非法Cash App账户，竟面临长达六年的监禁刑罚。"
+      },
+      {
+        "id": 50197313,
+        "title": "Every AI model has the same \"controversial\" take on humans",
+        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+        "domain": "modelcompare.ai",
+        "score": 254,
+        "descendants": 313,
+        "by": "rakannimer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析发现各类主流AI模型在涉及人类话题时，往往表现出惊人且刻板的同质化倾向。"
+      },
+      {
+        "id": 50202671,
+        "title": "AI compute is the new oil–and needs a new market",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+        "domain": "economist.com",
+        "score": 24,
+        "descendants": 14,
+        "by": "ijidak",
+        "tags": [
+          "AI"
+        ],
+        "summary": "文章论证了AI算力正成为新时代的石油，呼吁建立与之匹配的新型市场架构。"
+      },
+      {
+        "id": 50197404,
+        "title": "Getting ready to operate GNU Taler in Germany",
+        "url": "https://www.taler.net/en/news/2026-13.html",
+        "domain": "taler.net",
+        "score": 229,
+        "descendants": 85,
+        "by": "dewey",
+        "tags": [],
+        "summary": "GNU Taler团队宣布正在德国准备上线其电子支付系统。"
       },
       {
         "id": 50196718,
-        "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+        "title": "Run full iOS 16.5 firmware on Android Devices",
         "url": "https://github.com/oosexgang/hackios-xnu-kernel",
         "domain": "github.com",
-        "score": 41,
-        "descendants": 14,
+        "score": 329,
+        "descendants": 126,
         "by": "aghuang",
         "tags": [
-          "Systems",
-          "Show HN"
-        ]
-      },
-      {
-        "id": 50150163,
-        "title": "What Is Gridifcation",
-        "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-        "domain": "musicalform.substack.com",
-        "score": 228,
-        "descendants": 101,
-        "by": "gumby",
-        "tags": []
-      },
-      {
-        "id": 50192536,
-        "title": "Jailbreaking the Switch 2",
-        "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-        "domain": "pepsipu.com",
-        "score": 457,
-        "descendants": 167,
-        "by": "ledoge",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50196837,
-        "title": "Google cleared 300 hectares of Finnish forest",
-        "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
-        "domain": "techspot.com",
-        "score": 66,
-        "descendants": 33,
-        "by": "wetwater",
-        "tags": []
-      },
-      {
-        "id": 50193170,
-        "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-        "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-        "domain": "globus.software",
-        "score": 144,
-        "descendants": 30,
-        "by": "molind",
-        "tags": []
-      },
-      {
-        "id": 50197533,
-        "title": "Where Wealth Is Moving in America",
-        "url": "https://thestatedtruth.com/?p=28732",
-        "domain": "thestatedtruth.com",
-        "score": 3,
-        "descendants": 1,
-        "by": "hihetej",
-        "tags": []
-      },
-      {
-        "id": 50190363,
-        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-        "domain": "simedw.com",
-        "score": 414,
-        "descendants": 129,
-        "by": "alphax314",
-        "tags": [
-          "AI"
-        ]
+          "Systems"
+        ],
+        "summary": "开源项目成功在安卓设备上运行完整的iOS 16.5固件，展示了跨平台技术的突破。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "quad9.net",
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "codeandcake.dev",
           "count": 1
         },
         {
-          "domain": "emudhra.com",
-          "count": 1
-        },
-        {
-          "domain": "pwn.watch",
+          "domain": "anthropic.com",
           "count": 1
         }
       ],
-      "avg_score": 215,
+      "avg_score": 297,
       "max_score": {
-        "title": "eMudhra to exit global SSL/TLS certificate business",
-        "score": 461
+        "title": "Quad9 (DNS Resolver) to Exit France",
+        "score": 1013
       },
       "most_discussed": {
-        "title": "eMudhra to exit global SSL/TLS certificate business",
-        "comments": 363
+        "title": "Woman faces six years in prison over Cash App account she never opened",
+        "comments": 533
       },
       "hot_tags": [
         "AI",
-        "Systems",
-        "Show HN"
+        "Systems"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News焦点聚焦于AI技术的演进与挑战，包括AI开发工具、大模型偏见及算力市场的探讨。同时，关于数字隐私、网络安全及跨平台技术破解的讨论依然占据重要地位。"
   }
 }
