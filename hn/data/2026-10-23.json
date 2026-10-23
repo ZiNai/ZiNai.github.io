@@ -153,5 +153,163 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于AI技术的演进与挑战，包括AI开发工具、大模型偏见及算力市场的探讨。同时，关于数字隐私、网络安全及跨平台技术破解的讨论依然占据重要地位。"
+  },
+  "noon": {
+    "time": "2026-10-23 16:54",
+    "stories": [
+      {
+        "id": 50202285,
+        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "url": "https://edjefferson.com/localwiki/",
+        "domain": "edjefferson.com",
+        "score": 309,
+        "descendants": 78,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "通过地理位置筛选 Wikipedia 条目，让你发现步行半小时路程内的本地百科知识。"
+      },
+      {
+        "id": 50202681,
+        "title": "Docker is weird",
+        "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "domain": "codeandcake.dev",
+        "score": 446,
+        "descendants": 209,
+        "by": "psxuaw",
+        "tags": [],
+        "summary": "作者深度剖析了 Docker 在架构设计与日常使用中一些令人困惑且反直觉的特性。"
+      },
+      {
+        "id": 50201445,
+        "title": "How does Fable 5.1 hide messages in images?",
+        "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+        "domain": "lesswrong.com",
+        "score": 70,
+        "descendants": 16,
+        "by": "gmays",
+        "tags": [],
+        "summary": "探讨 Fable 5.1 图像处理工具是如何巧妙地在图片中隐藏信息的隐写术原理。"
+      },
+      {
+        "id": 50203161,
+        "title": "The foolishness of \"natural language programming\" (1978)",
+        "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "domain": "cs.utexas.edu",
+        "score": 153,
+        "descendants": 96,
+        "by": "xiaoyu2006",
+        "tags": [],
+        "summary": "重温 1978 年关于自然语言编程的早期经典批判，探讨为何编程仍需严谨的逻辑表达而非口语化指令。"
+      },
+      {
+        "id": 50195002,
+        "title": "The alien space of science: Coherent but cognitively unavailable directions",
+        "url": "https://arxiv.org/abs/2603.01092",
+        "domain": "arxiv.org",
+        "score": 44,
+        "descendants": 3,
+        "by": "martincsweiss",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "讨论科学研究中存在的潜在知识领域，虽然逻辑自洽但受限于人类认知能力而难以被发掘。"
+      },
+      {
+        "id": 50200164,
+        "title": "The HTML-in-Canvas API origin trial",
+        "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+        "domain": "developer.chrome.com",
+        "score": 37,
+        "descendants": 13,
+        "by": "andrewstuart",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍 Chrome 正在进行的 HTML-in-Canvas API 源试用，旨在改进在 Canvas 内直接渲染 HTML 的能力。"
+      },
+      {
+        "id": 50198675,
+        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "domain": "github.com",
+        "score": 389,
+        "descendants": 191,
+        "by": "niemandhier",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开源项目 OpenShell，旨在为大规模自主 AI 代理提供一套安全且保护隐私的运行时环境。"
+      },
+      {
+        "id": 50197313,
+        "title": "Every AI model has the same \"controversial\" take on humans",
+        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+        "domain": "modelcompare.ai",
+        "score": 401,
+        "descendants": 411,
+        "by": "rakannimer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过对比测试发现，主流 AI 模型在评价人类相关问题时表现出惊人的一致性偏见。"
+      },
+      {
+        "id": 50203759,
+        "title": "This I Believe (1952)",
+        "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+        "domain": "awakin.org",
+        "score": 79,
+        "descendants": 28,
+        "by": "ctoth",
+        "tags": [],
+        "summary": "回顾 1952 年的《This I Believe》文献，探讨那个时代的思想观念与人生哲学。"
+      },
+      {
+        "id": 50195488,
+        "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+        "url": "https://github.com/dsmurrell/onkey",
+        "domain": "github.com",
+        "score": 44,
+        "descendants": 24,
+        "by": "dsmurrell",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "开发者自制的一款辅助工具，通过实时分析音高帮助歌唱新手识别并纠正走音问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "edjefferson.com",
+          "count": 1
+        },
+        {
+          "domain": "codeandcake.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 197,
+      "max_score": {
+        "title": "Docker is weird",
+        "score": 446
+      },
+      "most_discussed": {
+        "title": "Every AI model has the same \"controversial\" take on humans",
+        "comments": 411
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期 Hacker News 热门讨论呈现出技术深度与反思并存的特点，涵盖了从 AI 代理安全与大模型偏见分析，到针对传统编程范式及旧时代技术文献的批判性回顾。同时，开发者社区对 Docker 的实操体验及 HTML 渲染等前沿 Web 技术保持高度关注。"
   }
 }
