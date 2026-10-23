@@ -1,0 +1,155 @@
+{
+  "morning": {
+    "time": "2026-10-24 00:20",
+    "stories": [
+      {
+        "id": 50208099,
+        "title": "OpenSSL 4.1.0",
+        "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+        "domain": "github.com",
+        "score": 143,
+        "descendants": 41,
+        "by": "petecooper",
+        "tags": [],
+        "summary": "OpenSSL 发布 4.1.0 版本，继续维护加密协议的底层安全性。"
+      },
+      {
+        "id": 50202285,
+        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "url": "https://edjefferson.com/localwiki/",
+        "domain": "edjefferson.com",
+        "score": 887,
+        "descendants": 171,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "一个基于地理位置的 Wikipedia 工具，展示用户步行半小时范围内的百科知识。"
+      },
+      {
+        "id": 50210067,
+        "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+        "domain": "bugzilla.mozilla.org",
+        "score": 86,
+        "descendants": 26,
+        "by": "IcePenguin",
+        "tags": [],
+        "summary": "证书颁发机构 eMudhra 因无视 Mozilla 的调查期限而陷入信任危机。"
+      },
+      {
+        "id": 50202681,
+        "title": "Docker is weird",
+        "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "domain": "codeandcake.dev",
+        "score": 719,
+        "descendants": 290,
+        "by": "psxuaw",
+        "tags": [],
+        "summary": "作者通过技术剖析探讨 Docker 在容器化流程中存在的反直觉设计与怪异之处。"
+      },
+      {
+        "id": 50205934,
+        "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+        "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+        "domain": "tvfandomlounge.com",
+        "score": 317,
+        "descendants": 310,
+        "by": "robtherobber",
+        "tags": [
+          "AI"
+        ],
+        "summary": "迪士尼在全层级订阅加入广告后紧接着宣布涨价，引发用户不满。"
+      },
+      {
+        "id": 50207620,
+        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+        "url": "https://www.thisandthat.chat/enron/",
+        "domain": "thisandthat.chat",
+        "score": 26,
+        "descendants": 19,
+        "by": "jreynar",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "利用 AI 自动解析 4.5 万封安然公司邮件并生成带有详细引用的维基百科内容。"
+      },
+      {
+        "id": 50208837,
+        "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+        "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+        "domain": "kadoa.com",
+        "score": 416,
+        "descendants": 296,
+        "by": "hubraumhugo",
+        "tags": [],
+        "summary": "分析显示由投资者持有的公用事业公司电价普遍高于公共电力供应商。"
+      },
+      {
+        "id": 50206840,
+        "title": "Job Loss and Cortisone Mania",
+        "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+        "domain": "tilschuenemann.de",
+        "score": 87,
+        "descendants": 26,
+        "by": "speckx",
+        "tags": [],
+        "summary": "探讨失业压力引发的心理波动及皮质醇水平对个人身心的影响。"
+      },
+      {
+        "id": 50195002,
+        "title": "The alien space of science: Coherent but cognitively unavailable directions",
+        "url": "https://arxiv.org/abs/2603.01092",
+        "domain": "arxiv.org",
+        "score": 157,
+        "descendants": 58,
+        "by": "martincsweiss",
+        "tags": [
+          "AI",
+          "Science"
+        ]
+      },
+      {
+        "id": 50203161,
+        "title": "The foolishness of \"natural language programming\" (1978)",
+        "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "domain": "cs.utexas.edu",
+        "score": 303,
+        "descendants": 198,
+        "by": "xiaoyu2006",
+        "tags": [],
+        "summary": "重温 1978 年的经典文章，剖析为何“自然语言编程”在实际开发中往往是行不通的痴人说梦。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "edjefferson.com",
+          "count": 1
+        },
+        {
+          "domain": "bugzilla.mozilla.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 314,
+      "max_score": {
+        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "score": 887
+      },
+      "most_discussed": {
+        "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+        "comments": 310
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News重点关注科技基建与社会议题，从OpenSSL更新、Docker技术探讨到Mozilla对CA机构的审计争议，展现了技术社区对底层生态的严谨审视。同时，公众对公用事业价格与企业商业策略的讨论反映了对现实经济影响的广泛关注。"
+  }
+}
