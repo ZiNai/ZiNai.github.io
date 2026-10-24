@@ -152,5 +152,157 @@
       ]
     },
     "summary": "本期Hacker News焦点聚焦于网络安全漏洞与人工智能前沿进展。iPhone安全研究与关键系统漏洞披露成为讨论核心，同时大模型在语音交互及多模态领域的最新技术应用也引发了社区的高度关注。"
+  },
+  "noon": {
+    "time": "2026-10-24 16:28",
+    "stories": [
+      {
+        "id": 50218430,
+        "title": "OBS Studio 33",
+        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "domain": "github.com",
+        "score": 97,
+        "descendants": 23,
+        "by": "pentagrama",
+        "tags": [],
+        "summary": "OBS Studio发布33版本，继续巩固其作为开源流媒体与录屏工具的行业地位。"
+      },
+      {
+        "id": 50212065,
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "domain": "kimi.ai",
+        "score": 884,
+        "descendants": 520,
+        "by": "Jowsey",
+        "tags": [],
+        "summary": "Kimi推出K3.1 Pro及高配版本，展示了国产大模型在处理能力与速度上的最新突破。"
+      },
+      {
+        "id": 50217500,
+        "title": "Twelve years of distributed SQLite",
+        "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "domain": "philipotoole.com",
+        "score": 176,
+        "descendants": 20,
+        "by": "otoolep",
+        "tags": [
+          "Database"
+        ],
+        "summary": "回顾并分析分布式SQLite数据库在过去十二年里的架构演进与技术挑战。"
+      },
+      {
+        "id": 50211474,
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
+        "domain": "blog.calif.io",
+        "score": 860,
+        "descendants": 559,
+        "by": "pavel_lishin",
+        "tags": [
+          "Security"
+        ],
+        "summary": "技术团队详细记录了针对iPhone底层系统的深度破解过程与核心发现。"
+      },
+      {
+        "id": 50218195,
+        "title": "How close can pure functional programming get to C?",
+        "url": "https://rtfeldman.com/fp-vs-c",
+        "domain": "rtfeldman.com",
+        "score": 89,
+        "descendants": 7,
+        "by": "stmonty",
+        "tags": [],
+        "summary": "深入探讨纯函数式编程在性能指标上挑战C语言极限的可行性与实现路径。"
+      },
+      {
+        "id": 50207910,
+        "title": "Apple Music 404 Not Found",
+        "url": "https://music.apple.com/this-url-doesnt-exist",
+        "domain": "music.apple.com",
+        "score": 742,
+        "descendants": 229,
+        "by": "frizlab",
+        "tags": [],
+        "summary": "用户反馈Apple Music出现大范围404错误，引发了关于云服务可靠性的讨论。"
+      },
+      {
+        "id": 50202285,
+        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "url": "https://edjefferson.com/localwiki/",
+        "domain": "edjefferson.com",
+        "score": 1364,
+        "descendants": 233,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "通过地理位置定制的“本地维基百科”，让你探索步行距离内周边事物的历史与文化。"
+      },
+      {
+        "id": 50171379,
+        "title": "A practical guide to AI image generation, from diffusion to agents",
+        "url": "https://danielball.com/notes/ai_image_generation.html",
+        "domain": "danielball.com",
+        "score": 70,
+        "descendants": 15,
+        "by": "westsmith",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一份从基础扩散模型到智能体应用的全方位AI图像生成实战指南。"
+      },
+      {
+        "id": 50186450,
+        "title": "Physicists trap a single antimatter particle for a month",
+        "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+        "domain": "scientificamerican.com",
+        "score": 6,
+        "descendants": 2,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "物理学家成功将单个反物质粒子捕获长达一个月，刷新了量子物理实验的记录。"
+      },
+      {
+        "id": 50172962,
+        "title": "Bringing uv and ty together",
+        "url": "https://astral.sh/blog/uv-ty-integration",
+        "domain": "astral.sh",
+        "score": 136,
+        "descendants": 29,
+        "by": "Ravencentric",
+        "tags": [],
+        "summary": "Astral团队探讨如何整合uv与ty项目，以优化Python生态的开发与部署流程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "kimi.ai",
+          "count": 1
+        },
+        {
+          "domain": "philipotoole.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 442,
+      "max_score": {
+        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "score": 1364
+      },
+      "most_discussed": {
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "comments": 559
+      },
+      "hot_tags": [
+        "Database",
+        "Security",
+        "AI"
+      ]
+    },
+    "summary": "今日Hacker News热门话题涵盖了前沿科技进展与深度技术探讨。AI大模型与工具的发布、系统架构的演进以及针对iPhone等设备的安全性研究成为了技术社区关注的焦点。"
   }
 }
