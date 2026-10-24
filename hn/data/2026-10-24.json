@@ -1,155 +1,156 @@
 {
   "morning": {
-    "time": "2026-10-24 00:20",
+    "time": "2026-10-24 10:17",
     "stories": [
       {
-        "id": 50208099,
-        "title": "OpenSSL 4.1.0",
-        "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-        "domain": "github.com",
-        "score": 143,
-        "descendants": 41,
-        "by": "petecooper",
+        "id": 50212065,
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "domain": "kimi.ai",
+        "score": 737,
+        "descendants": 461,
+        "by": "Jowsey",
         "tags": [],
-        "summary": "OpenSSL 发布 4.1.0 版本，继续维护加密协议的底层安全性。"
+        "summary": "Moonshot AI发布了Kimi K3.1 Pro及其高速版本，进一步提升了大语言模型的推理性能。"
+      },
+      {
+        "id": 50216791,
+        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+        "domain": "nitter.click",
+        "score": 88,
+        "descendants": 34,
+        "by": "cowlevel",
+        "tags": [
+          "Python"
+        ],
+        "summary": "披露了一个影响Node.js和Python等平台的HTTP/2严重远程代码执行漏洞（HTTP2Shell）。"
+      },
+      {
+        "id": 50207910,
+        "title": "Apple Music 404 Not Found",
+        "url": "https://music.apple.com/this-url-doesnt-exist",
+        "domain": "music.apple.com",
+        "score": 603,
+        "descendants": 194,
+        "by": "frizlab",
+        "tags": [],
+        "summary": "关于Apple Music页面出现404错误的讨论，引发了对苹果服务稳定性的关注。"
+      },
+      {
+        "id": 50215530,
+        "title": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/",
+        "domain": "cve.0xosprey.com",
+        "score": 111,
+        "descendants": 42,
+        "by": "Group_B",
+        "tags": [
+          "Security"
+        ],
+        "summary": "介绍了一个专注于CVE安全漏洞追踪的工具网站，旨在简化安全研究员的信息获取流程。"
+      },
+      {
+        "id": 50213925,
+        "title": "Dessa: the most authentic full-duplex speech model ever built",
+        "url": "https://block.xyz/dessa",
+        "domain": "block.xyz",
+        "score": 243,
+        "descendants": 100,
+        "by": "dsr12",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Block推出Dessa，声称是目前最真实、支持全双工交互的语音对话模型。"
+      },
+      {
+        "id": 50211474,
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
+        "domain": "blog.calif.io",
+        "score": 757,
+        "descendants": 512,
+        "by": "pavel_lishin",
+        "tags": [
+          "Security"
+        ],
+        "summary": "安全团队分享了成功攻破iPhone安全机制的详细过程与技术路径。"
       },
       {
         "id": 50202285,
         "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
         "url": "https://edjefferson.com/localwiki/",
         "domain": "edjefferson.com",
-        "score": 887,
-        "descendants": 171,
+        "score": 1256,
+        "descendants": 225,
         "by": "sohkamyung",
         "tags": [],
-        "summary": "一个基于地理位置的 Wikipedia 工具，展示用户步行半小时范围内的百科知识。"
+        "summary": "一款基于地理位置的维基百科应用，专门展示用户步行半小时范围内地点的信息。"
       },
       {
-        "id": 50210067,
-        "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
-        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
-        "domain": "bugzilla.mozilla.org",
-        "score": 86,
-        "descendants": 26,
-        "by": "IcePenguin",
+        "id": 50169499,
+        "title": "The Real Kevin Bacon",
+        "url": "https://pudding.cool/2026/10/kevin-bacon/",
+        "domain": "pudding.cool",
+        "score": 247,
+        "descendants": 70,
+        "by": "xnx",
         "tags": [],
-        "summary": "证书颁发机构 eMudhra 因无视 Mozilla 的调查期限而陷入信任危机。"
+        "summary": "深度解析凯文·贝肯（Kevin Bacon）在流行文化与电影圈中的“六度分隔”理论。"
       },
       {
-        "id": 50202681,
-        "title": "Docker is weird",
-        "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-        "domain": "codeandcake.dev",
-        "score": 719,
-        "descendants": 290,
-        "by": "psxuaw",
+        "id": 50202114,
+        "title": "Canadians are running out of time to oppose Bill C-22",
+        "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+        "domain": "eff.org",
+        "score": 339,
+        "descendants": 171,
+        "by": "hn_acker",
         "tags": [],
-        "summary": "作者通过技术剖析探讨 Docker 在容器化流程中存在的反直觉设计与怪异之处。"
+        "summary": "呼吁加拿大民众关注并反对极具争议的C-22法案，保护数字隐私权。"
       },
       {
-        "id": 50205934,
-        "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-        "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-        "domain": "tvfandomlounge.com",
-        "score": 317,
-        "descendants": 310,
-        "by": "robtherobber",
-        "tags": [
-          "AI"
-        ],
-        "summary": "迪士尼在全层级订阅加入广告后紧接着宣布涨价，引发用户不满。"
-      },
-      {
-        "id": 50207620,
-        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-        "url": "https://www.thisandthat.chat/enron/",
-        "domain": "thisandthat.chat",
-        "score": 26,
-        "descendants": 19,
-        "by": "jreynar",
-        "tags": [
-          "AI",
-          "Show HN"
-        ],
-        "summary": "利用 AI 自动解析 4.5 万封安然公司邮件并生成带有详细引用的维基百科内容。"
-      },
-      {
-        "id": 50208837,
-        "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-        "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-        "domain": "kadoa.com",
-        "score": 416,
-        "descendants": 296,
-        "by": "hubraumhugo",
+        "id": 50172962,
+        "title": "Bringing uv and ty together",
+        "url": "https://astral.sh/blog/uv-ty-integration",
+        "domain": "astral.sh",
+        "score": 23,
+        "descendants": 9,
+        "by": "Ravencentric",
         "tags": [],
-        "summary": "分析显示由投资者持有的公用事业公司电价普遍高于公共电力供应商。"
-      },
-      {
-        "id": 50206840,
-        "title": "Job Loss and Cortisone Mania",
-        "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
-        "domain": "tilschuenemann.de",
-        "score": 87,
-        "descendants": 26,
-        "by": "speckx",
-        "tags": [],
-        "summary": "探讨失业压力引发的心理波动及皮质醇水平对个人身心的影响。"
-      },
-      {
-        "id": 50195002,
-        "title": "The alien space of science: Coherent but cognitively unavailable directions",
-        "url": "https://arxiv.org/abs/2603.01092",
-        "domain": "arxiv.org",
-        "score": 157,
-        "descendants": 58,
-        "by": "martincsweiss",
-        "tags": [
-          "AI",
-          "Science"
-        ]
-      },
-      {
-        "id": 50203161,
-        "title": "The foolishness of \"natural language programming\" (1978)",
-        "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-        "domain": "cs.utexas.edu",
-        "score": 303,
-        "descendants": 198,
-        "by": "xiaoyu2006",
-        "tags": [],
-        "summary": "重温 1978 年的经典文章，剖析为何“自然语言编程”在实际开发中往往是行不通的痴人说梦。"
+        "summary": "Astral官方讨论如何整合旗下的uv包管理器与ty类型检查工具，提升Python开发效率。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "github.com",
+          "domain": "kimi.ai",
           "count": 1
         },
         {
-          "domain": "edjefferson.com",
+          "domain": "nitter.click",
           "count": 1
         },
         {
-          "domain": "bugzilla.mozilla.org",
+          "domain": "music.apple.com",
           "count": 1
         }
       ],
-      "avg_score": 314,
+      "avg_score": 440,
       "max_score": {
         "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "score": 887
+        "score": 1256
       },
       "most_discussed": {
-        "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-        "comments": 310
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "comments": 512
       },
       "hot_tags": [
-        "AI",
-        "Show HN",
-        "Science"
+        "Security",
+        "Python",
+        "AI"
       ]
     },
-    "summary": "今日Hacker News重点关注科技基建与社会议题，从OpenSSL更新、Docker技术探讨到Mozilla对CA机构的审计争议，展现了技术社区对底层生态的严谨审视。同时，公众对公用事业价格与企业商业策略的讨论反映了对现实经济影响的广泛关注。"
+    "summary": "本期Hacker News焦点聚焦于网络安全漏洞与人工智能前沿进展。iPhone安全研究与关键系统漏洞披露成为讨论核心，同时大模型在语音交互及多模态领域的最新技术应用也引发了社区的高度关注。"
   }
 }
