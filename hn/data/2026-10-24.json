@@ -304,5 +304,160 @@
       ]
     },
     "summary": "今日Hacker News热门话题涵盖了前沿科技进展与深度技术探讨。AI大模型与工具的发布、系统架构的演进以及针对iPhone等设备的安全性研究成为了技术社区关注的焦点。"
+  },
+  "evening": {
+    "time": "2026-10-24 23:17",
+    "stories": [
+      {
+        "id": 50192975,
+        "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+        "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+        "domain": "infoq.com",
+        "score": 32,
+        "descendants": 1,
+        "by": "pjmlp",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "TornadoVM 7更新支持Java应用直接调用GPU加速，显著提升高性能计算的开发体验。"
+      },
+      {
+        "id": 50221676,
+        "title": "Google illegally cut down 250K trees in Finland for data center",
+        "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+        "domain": "nypost.com",
+        "score": 70,
+        "descendants": 27,
+        "by": "rustybolt",
+        "tags": [],
+        "summary": "报道称谷歌在芬兰建设数据中心过程中非法砍伐了约25万棵树木。"
+      },
+      {
+        "id": 50218430,
+        "title": "OBS Studio 33",
+        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "domain": "github.com",
+        "score": 315,
+        "descendants": 100,
+        "by": "pentagrama",
+        "tags": [],
+        "summary": "开源视频直播与录制软件OBS Studio发布33版本更新。"
+      },
+      {
+        "id": 50217495,
+        "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+        "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+        "domain": "grapheneos.social",
+        "score": 377,
+        "descendants": 119,
+        "by": "privacyishuman",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "多款主流银行应用已开始正式支持GrapheneOS系统，提升了该隐私系统在金融领域的可用性。"
+      },
+      {
+        "id": 50219177,
+        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+        "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+        "domain": "aikido.dev",
+        "score": 119,
+        "descendants": 61,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "研究揭示了名为HTTP2Shell的安全漏洞，该漏洞影响广泛的HTTP库与应用程序。"
+      },
+      {
+        "id": 50219666,
+        "title": "I Don't Understand Quantum Physics (2018)",
+        "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+        "domain": "southampton.ac.uk",
+        "score": 179,
+        "descendants": 122,
+        "by": "rramadass",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨量子物理的复杂性与难以理解的本质，反映出科学普及内容的长期吸引力。"
+      },
+      {
+        "id": 50212065,
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "domain": "kimi.ai",
+        "score": 1000,
+        "descendants": 599,
+        "by": "Jowsey",
+        "tags": [],
+        "summary": "Kimi智能助手发布K3.1 Pro及其高速版本模型，引发社区对国产大模型能力的广泛讨论。"
+      },
+      {
+        "id": 50186450,
+        "title": "Physicists trap a single antimatter particle for a month",
+        "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+        "domain": "scientificamerican.com",
+        "score": 158,
+        "descendants": 56,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "物理学家成功实现单个反物质粒子的长期捕获，实验时长创下月度记录。"
+      },
+      {
+        "id": 50211474,
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
+        "domain": "blog.calif.io",
+        "score": 995,
+        "descendants": 625,
+        "by": "pavel_lishin",
+        "tags": [
+          "Security"
+        ],
+        "summary": "安全研究人员详细记录了针对iPhone的破解过程及其带来的深层技术影响。"
+      },
+      {
+        "id": 50181106,
+        "title": "Appreciating the beauty of all your body's scars and scratches",
+        "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+        "domain": "1000awesomethings.com",
+        "score": 45,
+        "descendants": 27,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "一篇感性随笔，探讨并呼吁欣赏身体留下的疤痕与划痕背后的生活意义。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "infoq.com",
+          "count": 1
+        },
+        {
+          "domain": "nypost.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 329,
+      "max_score": {
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "score": 1000
+      },
+      "most_discussed": {
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "comments": 625
+      },
+      "hot_tags": [
+        "Hardware",
+        "Systems",
+        "Science",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出高度的技术深度与跨界关注，涵盖从AI模型与高性能计算优化到网络安全漏洞与物理学前沿进展等多元领域。用户对重大安全漏洞披露、前沿科研突破以及开源软件生态的更新表现出极高关注度。"
   }
 }
