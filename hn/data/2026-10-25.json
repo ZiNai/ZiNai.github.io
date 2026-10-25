@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-10-25 10:03",
+    "stories": [
+      {
+        "id": 50225695,
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://danluu.com/ambitious/",
+        "domain": "danluu.com",
+        "score": 172,
+        "descendants": 131,
+        "by": "ltratt",
+        "tags": [],
+        "summary": "作者呼吁开发者应打破现状，在软件构建中追求更高的目标与雄心。"
+      },
+      {
+        "id": 50224422,
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "url": "https://missileer.watch",
+        "domain": "missileer.watch",
+        "score": 119,
+        "descendants": 78,
+        "by": "liotier",
+        "tags": [],
+        "summary": "通过监听11175 kHz频率，解读美国核力量紧急行动信息的获取与分析方法。"
+      },
+      {
+        "id": 50224100,
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "domain": "aardappel.github.io",
+        "score": 246,
+        "descendants": 167,
+        "by": "bobbydigitales",
+        "tags": [],
+        "summary": "介绍Goose编程语言的设计理念及其在特定计算场景下的应用优势。"
+      },
+      {
+        "id": 50226419,
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "domain": "apricitas.io",
+        "score": 170,
+        "descendants": 142,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过数据分析探讨媒体与艺术领域大规模裁员背后，人工智能所扮演的角色占比。"
+      },
+      {
+        "id": 50226577,
+        "title": "Why Gopher in 2026?",
+        "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+        "domain": "gopher.muffinlabs.com",
+        "score": 24,
+        "descendants": 7,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "探讨在2026年依然选择使用Gopher协议构建网络服务的技术与社会意义。"
+      },
+      {
+        "id": 50225674,
+        "title": "Small Programs and Languages",
+        "url": "https://ratfactor.com/cards/pl-small",
+        "domain": "ratfactor.com",
+        "score": 40,
+        "descendants": 1,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "探讨小型程序和微型语言在编程生态中的独特价值与构建哲学。"
+      },
+      {
+        "id": 50224210,
+        "title": "SpeedCrunch 1.1",
+        "url": "https://www.speedcrunch.org/",
+        "domain": "speedcrunch.org",
+        "score": 78,
+        "descendants": 10,
+        "by": "LordNibbler",
+        "tags": [],
+        "summary": "高精度科学计算器SpeedCrunch发布1.1版本，进一步优化计算与交互体验。"
+      },
+      {
+        "id": 50224916,
+        "title": "Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com/",
+        "domain": "stealmybitcoin.com",
+        "score": 410,
+        "descendants": 248,
+        "by": "cloudlandsdev",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个包含比特币私钥的挑战项目，邀请社区成员参与解密游戏。"
+      },
+      {
+        "id": 50172432,
+        "title": "I Built a Stereo Vision Board for Hardware Hackers",
+        "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+        "domain": "rootkitlabs.com",
+        "score": 34,
+        "descendants": 0,
+        "by": "machinehum",
+        "tags": [
+          "Security",
+          "Hardware"
+        ],
+        "summary": "展示一款为硬件极客设计的立体视觉开发板，支持低成本深度感知功能。"
+      },
+      {
+        "id": 50188440,
+        "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+        "url": "https://xingjianbai.com/reactive-optimizers/",
+        "domain": "xingjianbai.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "matt_d",
+        "tags": [
+          "AI",
+          "JavaScript"
+        ],
+        "summary": "介绍一种通过在训练过程中重写优化器源码来实现动态优化的前沿方法。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "danluu.com",
+          "count": 1
+        },
+        {
+          "domain": "missileer.watch",
+          "count": 1
+        },
+        {
+          "domain": "aardappel.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 130,
+      "max_score": {
+        "title": "Show HN: Steal My Bitcoin",
+        "score": 410
+      },
+      "most_discussed": {
+        "title": "Show HN: Steal My Bitcoin",
+        "comments": 248
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Security",
+        "Hardware",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖软件工程的哲学思考与编程语言创新，AI对传媒行业的冲击引发了广泛讨论。此外，社区关注点还延伸至核威慑通信等硬核技术领域及创意编程项目，整体呈现出技术理性与行业现实主义并重的特征。"
+  }
+}
