@@ -311,5 +311,148 @@
       ]
     },
     "summary": "今日Hacker News重点关注软件开发哲学的反思与AI技术的产业影响。话题涵盖从编程语言设计与极简主义工具，到AI对就业市场的潜在冲击以及行业底层技术的最新进展。"
+  },
+  "evening": {
+    "time": "2026-10-25 23:27",
+    "stories": [
+      {
+        "id": 50232312,
+        "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+        "url": "https://bigwhalehunting.com/workforce/",
+        "domain": "bigwhalehunting.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "vfxGer",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50230917,
+        "title": "Tool book of a Nuremberg knight from 1505",
+        "url": "https://loeffelholz-codex.org/en/",
+        "domain": "loeffelholz-codex.org",
+        "score": 102,
+        "descendants": 38,
+        "by": "edwardog",
+        "tags": []
+      },
+      {
+        "id": 50231349,
+        "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+        "url": "https://github.com/winnin/farol",
+        "domain": "github.com",
+        "score": 31,
+        "descendants": 20,
+        "by": "ericholiveira",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50230384,
+        "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+        "url": "https://github.com/ihhub/fheroes2",
+        "domain": "github.com",
+        "score": 105,
+        "descendants": 36,
+        "by": "tosh",
+        "tags": []
+      },
+      {
+        "id": 50225695,
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://danluu.com/ambitious/",
+        "domain": "danluu.com",
+        "score": 574,
+        "descendants": 535,
+        "by": "ltratt",
+        "tags": []
+      },
+      {
+        "id": 50227356,
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "domain": "cerebras.ai",
+        "score": 263,
+        "descendants": 88,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50193936,
+        "title": "How Japanese Dried Bonito Is Made",
+        "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+        "domain": "kottke.org",
+        "score": 124,
+        "descendants": 32,
+        "by": "bookofjoe",
+        "tags": []
+      },
+      {
+        "id": 50224100,
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "domain": "aardappel.github.io",
+        "score": 495,
+        "descendants": 303,
+        "by": "bobbydigitales",
+        "tags": []
+      },
+      {
+        "id": 50167528,
+        "title": "Why Washing Machines Took Decades to Catch On",
+        "url": "https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/",
+        "domain": "daily.jstor.org",
+        "score": 8,
+        "descendants": 2,
+        "by": "herbertl",
+        "tags": []
+      },
+      {
+        "id": 50230181,
+        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+        "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+        "domain": "twitter.com",
+        "score": 202,
+        "descendants": 133,
+        "by": "mashally",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "bigwhalehunting.com",
+          "count": 1
+        },
+        {
+          "domain": "loeffelholz-codex.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 192,
+      "max_score": {
+        "title": "We should be more ambitious with the software we build",
+        "score": 574
+      },
+      "most_discussed": {
+        "title": "We should be more ambitious with the software we build",
+        "comments": 535
+      },
+      "hot_tags": [
+        "Show HN",
+        "AI"
+      ]
+    },
+    "summary": ""
   }
 }
