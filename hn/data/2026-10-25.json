@@ -156,5 +156,160 @@
       ]
     },
     "summary": "本期Hacker News焦点涵盖软件工程的哲学思考与编程语言创新，AI对传媒行业的冲击引发了广泛讨论。此外，社区关注点还延伸至核威慑通信等硬核技术领域及创意编程项目，整体呈现出技术理性与行业现实主义并重的特征。"
+  },
+  "noon": {
+    "time": "2026-10-25 16:47",
+    "stories": [
+      {
+        "id": 50225695,
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://danluu.com/ambitious/",
+        "domain": "danluu.com",
+        "score": 380,
+        "descendants": 335,
+        "by": "ltratt",
+        "tags": [],
+        "summary": "文章呼吁开发者在软件构建中展现更多野心，挑战当前平庸的开发范式。"
+      },
+      {
+        "id": 50227356,
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "domain": "cerebras.ai",
+        "score": 140,
+        "descendants": 48,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cerebras宣布部署万亿参数AI模型，展示了其在高性能计算领域的最新技术突破。"
+      },
+      {
+        "id": 50193936,
+        "title": "How Japanese Dried Bonito Is Made",
+        "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+        "domain": "kottke.org",
+        "score": 29,
+        "descendants": 5,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "详细记录了日本传统食材鲣节（柴鱼片）的制作工艺流程。"
+      },
+      {
+        "id": 50224100,
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "domain": "aardappel.github.io",
+        "score": 371,
+        "descendants": 243,
+        "by": "bobbydigitales",
+        "tags": [],
+        "summary": "介绍了一门名为Goose的新编程语言，探讨了其设计理念与语法特性。"
+      },
+      {
+        "id": 50224210,
+        "title": "SpeedCrunch 1.1",
+        "url": "https://www.speedcrunch.org/",
+        "domain": "speedcrunch.org",
+        "score": 138,
+        "descendants": 24,
+        "by": "LordNibbler",
+        "tags": [],
+        "summary": "高精度计算器软件SpeedCrunch发布1.1版本更新。"
+      },
+      {
+        "id": 50225674,
+        "title": "Small Programs and Languages",
+        "url": "https://ratfactor.com/cards/pl-small",
+        "domain": "ratfactor.com",
+        "score": 101,
+        "descendants": 7,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "探讨小型程序与编程语言在现代开发生态中的独特价值与持久魅力。"
+      },
+      {
+        "id": 50226577,
+        "title": "Why Gopher in 2026?",
+        "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+        "domain": "gopher.muffinlabs.com",
+        "score": 73,
+        "descendants": 22,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "反思在2026年这一时间节点，Gopher协议为何依然具有探讨意义与应用价值。"
+      },
+      {
+        "id": 50226419,
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "domain": "apricitas.io",
+        "score": 340,
+        "descendants": 336,
+        "by": "gnabgib",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析美国媒体与艺术行业裁员的现状，深入探讨AI在其中扮演的角色及其对就业的影响。"
+      },
+      {
+        "id": 50172432,
+        "title": "I Built a Stereo Vision Board for Hardware Hackers",
+        "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+        "domain": "rootkitlabs.com",
+        "score": 69,
+        "descendants": 12,
+        "by": "machinehum",
+        "tags": [
+          "Security",
+          "Hardware"
+        ],
+        "summary": "分享了一款为硬件极客设计的立体视觉开发板的开发过程。"
+      },
+      {
+        "id": 50219666,
+        "title": "I don't understand quantum physics (2018)",
+        "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+        "domain": "southampton.ac.uk",
+        "score": 313,
+        "descendants": 248,
+        "by": "rramadass",
+        "tags": [
+          "Science"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "danluu.com",
+          "count": 1
+        },
+        {
+          "domain": "cerebras.ai",
+          "count": 1
+        },
+        {
+          "domain": "kottke.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 195,
+      "max_score": {
+        "title": "We should be more ambitious with the software we build",
+        "score": 380
+      },
+      "most_discussed": {
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "comments": 336
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Hardware",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News重点关注软件开发哲学的反思与AI技术的产业影响。话题涵盖从编程语言设计与极简主义工具，到AI对就业市场的潜在冲击以及行业底层技术的最新进展。"
   }
 }
