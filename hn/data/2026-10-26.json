@@ -148,5 +148,163 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在 AI 技术的最新演进与应用，涵盖了模型价格战、上下文工程优化及医疗诊断等前沿突破。同时，社区也关注数字阅读工具创新、怀旧游戏移植以及电影制作幕后等人文与技术交融的话题。"
+  },
+  "evening": {
+    "time": "2026-10-26 17:27",
+    "stories": [
+      {
+        "id": 50240922,
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "url": "https://blocks.manifold3d.ch/",
+        "domain": "blocks.manifold3d.ch",
+        "score": 25,
+        "descendants": 3,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "一个以1:1比例完整还原瑞士地理的数字建模项目。"
+      },
+      {
+        "id": 50238708,
+        "title": "Show HN: TitleArt – Make text like it's 1997",
+        "url": "https://titleart.dvy.io/",
+        "domain": "titleart.dvy.io",
+        "score": 225,
+        "descendants": 34,
+        "by": "davidbarker",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款可以制作90年代怀旧网页艺术风格文字的生成工具。"
+      },
+      {
+        "id": 50239748,
+        "title": "The result of the C++26 DIS ballot",
+        "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+        "domain": "train-it.eu",
+        "score": 45,
+        "descendants": 29,
+        "by": "uasi",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "总结了C++26国际标准草案投票的最新变动与决议结果。"
+      },
+      {
+        "id": 50238739,
+        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+        "domain": "github.com",
+        "score": 129,
+        "descendants": 30,
+        "by": "vardhan1237",
+        "tags": [
+          "Rust",
+          "Web",
+          "Science"
+        ],
+        "summary": "基于Rust编写、利用WASM与MCP技术的零云端PDF处理引擎。"
+      },
+      {
+        "id": 50238763,
+        "title": "Behind the scenes at the NeXT Computer office",
+        "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+        "domain": "exhibits.stanford.edu",
+        "score": 106,
+        "descendants": 47,
+        "by": "Austin_Conlon",
+        "tags": [],
+        "summary": "通过斯坦福大学档案重温NeXT计算机办公环境的幕后珍贵影像。"
+      },
+      {
+        "id": 50209278,
+        "title": "Growing Trees",
+        "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+        "domain": "brashandplucky.com",
+        "score": 48,
+        "descendants": 4,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "探讨通过植树造林实现生态修复与增长的实践心得。"
+      },
+      {
+        "id": 50234474,
+        "title": "Dolly Parton's Imagination Library",
+        "url": "https://imaginationlibrary.com/",
+        "domain": "imaginationlibrary.com",
+        "score": 535,
+        "descendants": 93,
+        "by": "jumploops",
+        "tags": [],
+        "summary": "介绍Dolly Parton创立的知名儿童早期教育读物捐赠计划。"
+      },
+      {
+        "id": 50228115,
+        "title": "Show HN: A Truly Modular Keyboard",
+        "url": "https://github.com/notaroomba/keybytes",
+        "domain": "github.com",
+        "score": 150,
+        "descendants": 43,
+        "by": "NotARoomba",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个主打完全模块化定制的开源机械键盘项目。"
+      },
+      {
+        "id": 50197108,
+        "title": "Overgrown, when plants invade your abandoned tabs",
+        "url": "https://charliegerard.dev/blog/overgrown-extension/",
+        "domain": "charliegerard.dev",
+        "score": 267,
+        "descendants": 93,
+        "by": "speckx",
+        "tags": [],
+        "summary": "一款极具创意的浏览器插件，能将闲置标签页转化为虚拟植物花园。"
+      },
+      {
+        "id": 50237224,
+        "title": "Attention Is Not What You Need (2025)",
+        "url": "https://arxiv.org/abs/2512.19428",
+        "domain": "arxiv.org",
+        "score": 103,
+        "descendants": 37,
+        "by": "westurner",
+        "tags": [],
+        "summary": "2025年学术论文，深度探讨并质疑了当前Transformer架构中注意力机制的必要性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "blocks.manifold3d.ch",
+          "count": 1
+        },
+        {
+          "domain": "titleart.dvy.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 163,
+      "max_score": {
+        "title": "Dolly Parton's Imagination Library",
+        "score": 535
+      },
+      "most_discussed": {
+        "title": "Dolly Parton's Imagination Library",
+        "comments": 93
+      },
+      "hot_tags": [
+        "Show HN",
+        "Systems",
+        "Rust",
+        "Web",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了从复古科技美学、编译器规范更新到人工智能前沿探讨等广泛主题。社区依然对高性能构建工具、创新硬件设计以及开源项目保持高度关注，同时学术界对AI模型架构的深度反思也成为讨论焦点。"
   }
 }
