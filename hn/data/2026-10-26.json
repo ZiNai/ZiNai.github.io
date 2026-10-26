@@ -1,0 +1,152 @@
+{
+  "morning": {
+    "time": "2026-10-26 10:04",
+    "stories": [
+      {
+        "id": 50234474,
+        "title": "Dolly Parton's Imagination Library",
+        "url": "https://imaginationlibrary.com/",
+        "domain": "imaginationlibrary.com",
+        "score": 390,
+        "descendants": 68,
+        "by": "jumploops",
+        "tags": [],
+        "summary": "介绍 Dolly Parton 创办的儿童免费图书寄送项目，旨在提升早期阅读素养。"
+      },
+      {
+        "id": 50197108,
+        "title": "Overgrown, when plants invade your abandoned tabs",
+        "url": "https://charliegerard.dev/blog/overgrown-extension/",
+        "domain": "charliegerard.dev",
+        "score": 142,
+        "descendants": 38,
+        "by": "speckx",
+        "tags": [],
+        "summary": "一款浏览器扩展插件，通过视觉化的植物生长效果提醒用户清理闲置的后台标签页。"
+      },
+      {
+        "id": 50237078,
+        "title": "F-Zero X on Nintendo 3DS",
+        "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "domain": "hypnotize.works",
+        "score": 42,
+        "descendants": 26,
+        "by": "bpierre",
+        "tags": [],
+        "summary": "探讨将经典的 F-Zero X 赛车游戏成功移植到任天堂 3DS 手持设备的技术实现过程。"
+      },
+      {
+        "id": 50237224,
+        "title": "Attention Is Not What You Need",
+        "url": "https://arxiv.org/abs/2512.19428",
+        "domain": "arxiv.org",
+        "score": 25,
+        "descendants": 7,
+        "by": "westurner",
+        "tags": [],
+        "summary": "深度解析大模型架构中“注意力机制”的局限性，探讨替代方案与未来模型发展方向。"
+      },
+      {
+        "id": 50235017,
+        "title": "Why I Am a Programmer",
+        "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+        "domain": "alfie.wtf",
+        "score": 137,
+        "descendants": 51,
+        "by": "jruohonen",
+        "tags": [],
+        "summary": "作者反思个人作为程序员的职业动机，探讨代码创作背后的哲学思考与情感价值。"
+      },
+      {
+        "id": 50235738,
+        "title": "What goes into making an animated film?",
+        "url": "https://www.disneyanimation.com/process/",
+        "domain": "disneyanimation.com",
+        "score": 90,
+        "descendants": 33,
+        "by": "embedding-shape",
+        "tags": [],
+        "summary": "迪士尼动画工作室揭秘长篇动画的制作流程，展示从创意构思到成品输出的复杂工艺。"
+      },
+      {
+        "id": 50235780,
+        "title": "The State of Context Engineering",
+        "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "domain": "dbreunig.com",
+        "score": 79,
+        "descendants": 22,
+        "by": "pchristensen",
+        "tags": [],
+        "summary": "分析当前 AI 开发中“上下文工程”的现状，探讨如何高效管理与优化模型输入数据。"
+      },
+      {
+        "id": 50233779,
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "url": "https://lynchlab.net/llm-skin-cancer",
+        "domain": "lynchlab.net",
+        "score": 443,
+        "descendants": 210,
+        "by": "sungam",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究显示一个 10 年前的老牌 CNN 模型在皮肤癌诊断任务上竟击败了当前顶尖的大型语言模型。"
+      },
+      {
+        "id": 50213610,
+        "title": "Making the Buddha Head from Merv Whole Again",
+        "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+        "domain": "getty.edu",
+        "score": 22,
+        "descendants": 0,
+        "by": "laybak",
+        "tags": [
+          "AI"
+        ],
+        "summary": "盖蒂博物馆展示如何利用数字重建技术修复被毁损的梅尔夫佛头雕塑。"
+      },
+      {
+        "id": 50236102,
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "domain": "minimaxir.com",
+        "score": 153,
+        "descendants": 177,
+        "by": "minimaxir",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析 OpenAI 和 Anthropic 等巨头近期大幅下调 LLM API 价格背后的商业战略与市场逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "imaginationlibrary.com",
+          "count": 1
+        },
+        {
+          "domain": "charliegerard.dev",
+          "count": 1
+        },
+        {
+          "domain": "hypnotize.works",
+          "count": 1
+        }
+      ],
+      "avg_score": 152,
+      "max_score": {
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "score": 443
+      },
+      "most_discussed": {
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "comments": 210
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术的最新演进与应用，涵盖了模型价格战、上下文工程优化及医疗诊断等前沿突破。同时，社区也关注数字阅读工具创新、怀旧游戏移植以及电影制作幕后等人文与技术交融的话题。"
+  }
+}
