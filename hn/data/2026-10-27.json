@@ -1,0 +1,147 @@
+{
+  "morning": {
+    "time": "2026-10-27 02:07",
+    "stories": [
+      {
+        "id": 50245138,
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "domain": "magazine.sebastianraschka.com",
+        "score": 291,
+        "descendants": 37,
+        "by": "sgiannopoulos",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50245831,
+        "title": "CSS-Tricks has a new owner",
+        "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+        "domain": "css-tricks.com",
+        "score": 167,
+        "descendants": 39,
+        "by": "edent",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50242939,
+        "title": "Anthropic S-1",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "domain": "sec.gov",
+        "score": 1084,
+        "descendants": 1008,
+        "by": "SiNTEx",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50247453,
+        "title": "The Git Forge for Agent-Human Collaboration",
+        "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+        "domain": "entire.com",
+        "score": 33,
+        "descendants": 9,
+        "by": "lizziepika",
+        "tags": []
+      },
+      {
+        "id": 50236681,
+        "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+        "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+        "domain": "shraiwi.com",
+        "score": 85,
+        "descendants": 21,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 50209525,
+        "title": "Diamond Transistor",
+        "url": "https://www.df.com/diamond-transistor",
+        "domain": "df.com",
+        "score": 45,
+        "descendants": 26,
+        "by": "Gravityloss",
+        "tags": []
+      },
+      {
+        "id": 50241925,
+        "title": "Pharo 14",
+        "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+        "domain": "pharo.org",
+        "score": 166,
+        "descendants": 38,
+        "by": "xkriva11",
+        "tags": []
+      },
+      {
+        "id": 50200152,
+        "title": "Blaise Pascal invented fixed route public transport (2024)",
+        "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+        "domain": "humantransit.org",
+        "score": 200,
+        "descendants": 95,
+        "by": "skadamat",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50247493,
+        "title": "Nietzschian Debugger",
+        "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "dilawargopang",
+        "tags": []
+      },
+      {
+        "id": 50242870,
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "domain": "ubicloud.com",
+        "score": 118,
+        "descendants": 62,
+        "by": "coffeemug",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "magazine.sebastianraschka.com",
+          "count": 1
+        },
+        {
+          "domain": "css-tricks.com",
+          "count": 1
+        },
+        {
+          "domain": "sec.gov",
+          "count": 1
+        }
+      ],
+      "avg_score": 220,
+      "max_score": {
+        "title": "Anthropic S-1",
+        "score": 1084
+      },
+      "most_discussed": {
+        "title": "Anthropic S-1",
+        "comments": 1008
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": ""
+  }
+}
