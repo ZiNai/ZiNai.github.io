@@ -154,5 +154,155 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦于前沿科研与计算机底层技术的碰撞，从数学与物理新发现到计算复杂性理论的突破，引发了深度技术讨论。同时，社区对经典软件兼容性及现代人工智能架构的安全隐患表现出浓厚兴趣，反映了开发者对技术历史底蕴与工程实践细节的持续关注。"
+  },
+  "evening": {
+    "time": "2026-10-27 17:24",
+    "stories": [
+      {
+        "id": 50251344,
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "domain": "openai.com",
+        "score": 873,
+        "descendants": 399,
+        "by": "jonluca",
+        "tags": [
+          "Science"
+        ],
+        "summary": "盘点数学、计算机科学与物理学领域的三项重大研究进展。"
+      },
+      {
+        "id": 50255298,
+        "title": "The Mythical Man-Month in the Age of AI",
+        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "domain": "j11g.com",
+        "score": 103,
+        "descendants": 84,
+        "by": "ilreb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨在AI全面辅助编程的背景下，《人月神话》中提出的软件工程经典理论是否依然适用。"
+      },
+      {
+        "id": 50251661,
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+        "domain": "github.com",
+        "score": 613,
+        "descendants": 221,
+        "by": "vok",
+        "tags": [],
+        "summary": "一篇学术论文详细论证了指数时间假设（ETH）的错误性。"
+      },
+      {
+        "id": 50196212,
+        "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+        "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+        "domain": "sciencealert.com",
+        "score": 44,
+        "descendants": 14,
+        "by": "gmays",
+        "tags": [],
+        "summary": "研究发现一种新型昼夜节律亚型抑郁症，约影响四分之一的抑郁症患者。"
+      },
+      {
+        "id": 50245138,
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "domain": "magazine.sebastianraschka.com",
+        "score": 701,
+        "descendants": 95,
+        "by": "sgiannopoulos",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50255177,
+        "title": "Writing about pratt parsing so I remember it",
+        "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+        "domain": "unix.dog",
+        "score": 26,
+        "descendants": 1,
+        "by": "dverlaeckt80",
+        "tags": [],
+        "summary": "作者通过撰写技术博客来梳理并巩固对Pratt Parsing算法的理解。"
+      },
+      {
+        "id": 50248055,
+        "title": "Oldest GUI application that still runs on Windows 11",
+        "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+        "domain": "blog.enlyth.com",
+        "score": 413,
+        "descendants": 236,
+        "by": "enlyth",
+        "tags": [],
+        "summary": "深入探究依然能在Windows 11上稳定运行的历史最久远图形界面应用程序。"
+      },
+      {
+        "id": 50253939,
+        "title": "I still teach OpenGL ES 3.0",
+        "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+        "domain": "eliasfarhan.ch",
+        "score": 54,
+        "descendants": 33,
+        "by": "majorchord",
+        "tags": [],
+        "summary": "一位开发者分享其坚持教授OpenGL ES 3.0的理由与思考。"
+      },
+      {
+        "id": 50248371,
+        "title": "Type Server Protocol",
+        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+        "domain": "github.com",
+        "score": 241,
+        "descendants": 158,
+        "by": "adamnemecek",
+        "tags": [],
+        "summary": "介绍Type Server Protocol（TSP）的相关概念及其在代码分析中的应用。"
+      },
+      {
+        "id": 50253529,
+        "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+        "url": "https://github.com/otya128/winevdm",
+        "domain": "github.com",
+        "score": 88,
+        "descendants": 20,
+        "by": "doener",
+        "tags": [],
+        "summary": "探讨如何实现在现代64位Windows系统中运行Windows 1.x至3.x等16位老系统程序。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "j11g.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 316,
+      "max_score": {
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "score": 873
+      },
+      "most_discussed": {
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "comments": 399
+      },
+      "hot_tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于计算机科学与数学的前沿理论进展，涵盖了计算复杂性理论的突破性发现。此外，从复古GUI兼容性探讨到大模型时代的工程实践，开发者们正通过历史回顾与前沿技术学习不断重塑软件开发范式。"
   }
 }
