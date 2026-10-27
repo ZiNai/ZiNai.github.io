@@ -1,147 +1,158 @@
 {
   "morning": {
-    "time": "2026-10-27 02:07",
+    "time": "2026-10-27 10:41",
     "stories": [
+      {
+        "id": 50251344,
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "domain": "openai.com",
+        "score": 534,
+        "descendants": 226,
+        "by": "jonluca",
+        "tags": [
+          "Science"
+        ],
+        "summary": "回顾近期数学、计算机科学与物理学领域的三项重要学术突破及其科学意义。"
+      },
+      {
+        "id": 50251661,
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+        "domain": "github.com",
+        "score": 342,
+        "descendants": 136,
+        "by": "vok",
+        "tags": [],
+        "summary": "一篇关于指数时间假设（ETH）可能为假的学术探讨，挑战了算法复杂度领域的核心理论。"
+      },
       {
         "id": 50245138,
         "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
         "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
         "domain": "magazine.sebastianraschka.com",
-        "score": 291,
-        "descendants": 37,
+        "score": 578,
+        "descendants": 83,
         "by": "sgiannopoulos",
         "tags": [
           "AI"
-        ]
+        ],
+        "summary": "Sebastian Raschka 推出的从零构建推理模型视频课程，适合深度学习开发者进阶学习。"
+      },
+      {
+        "id": 50248055,
+        "title": "Oldest GUI application that still runs on Windows 11",
+        "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+        "domain": "blog.enlyth.com",
+        "score": 316,
+        "descendants": 194,
+        "by": "enlyth",
+        "tags": [],
+        "summary": "深入探究依然能在 Windows 11 上运行的古老图形界面程序，回顾个人电脑的软件兼容性。"
+      },
+      {
+        "id": 50252159,
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "domain": "blog.cloudflare.com",
+        "score": 83,
+        "descendants": 23,
+        "by": "wondersky",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Cloudflare 披露了 GLM-5.3 模型中存在的跨请求 KV 缓存数据泄露漏洞，提醒 AI 服务安全性。"
+      },
+      {
+        "id": 50253529,
+        "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+        "url": "https://github.com/otya128/winevdm",
+        "domain": "github.com",
+        "score": 22,
+        "descendants": 1,
+        "by": "doener",
+        "tags": [],
+        "summary": "介绍如何在现代 64 位 Windows 系统中运行 16 位旧版 Windows 应用的解决方案。"
+      },
+      {
+        "id": 50248371,
+        "title": "Type Server Protocol",
+        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+        "domain": "github.com",
+        "score": 198,
+        "descendants": 141,
+        "by": "adamnemecek",
+        "tags": [],
+        "summary": "关于 Type Server Protocol 的技术提案与讨论，旨在标准化类型系统的远程交互模式。"
+      },
+      {
+        "id": 50204697,
+        "title": "A Printer Printing onto Paper",
+        "url": "https://twitter.com/macrofying/status/2112904628509528219",
+        "domain": "twitter.com",
+        "score": 68,
+        "descendants": 19,
+        "by": "MrBuddyCasino",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一段关于打印机物理打印过程的观察式记录，引发对机械与数字交互的探讨。"
       },
       {
         "id": 50245831,
         "title": "CSS-Tricks has a new owner",
         "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
         "domain": "css-tricks.com",
-        "score": 167,
-        "descendants": 39,
+        "score": 393,
+        "descendants": 90,
         "by": "edent",
         "tags": [
           "Web"
-        ]
+        ],
+        "summary": "知名前端资源站 CSS-Tricks 宣布易主，引发社区对该平台未来发展方向的关注。"
       },
       {
-        "id": 50242939,
-        "title": "Anthropic S-1",
-        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-        "domain": "sec.gov",
-        "score": 1084,
-        "descendants": 1008,
-        "by": "SiNTEx",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50247453,
-        "title": "The Git Forge for Agent-Human Collaboration",
-        "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-        "domain": "entire.com",
-        "score": 33,
-        "descendants": 9,
-        "by": "lizziepika",
-        "tags": []
-      },
-      {
-        "id": 50236681,
-        "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-        "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-        "domain": "shraiwi.com",
-        "score": 85,
-        "descendants": 21,
-        "by": "zdw",
-        "tags": []
-      },
-      {
-        "id": 50209525,
-        "title": "Diamond Transistor",
-        "url": "https://www.df.com/diamond-transistor",
-        "domain": "df.com",
-        "score": 45,
-        "descendants": 26,
-        "by": "Gravityloss",
-        "tags": []
-      },
-      {
-        "id": 50241925,
-        "title": "Pharo 14",
-        "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-        "domain": "pharo.org",
-        "score": 166,
-        "descendants": 38,
-        "by": "xkriva11",
-        "tags": []
-      },
-      {
-        "id": 50200152,
-        "title": "Blaise Pascal invented fixed route public transport (2024)",
-        "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-        "domain": "humantransit.org",
-        "score": 200,
-        "descendants": 95,
-        "by": "skadamat",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50247493,
-        "title": "Nietzschian Debugger",
-        "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-        "domain": "github.com",
-        "score": 11,
-        "descendants": 1,
-        "by": "dilawargopang",
-        "tags": []
-      },
-      {
-        "id": 50242870,
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "domain": "ubicloud.com",
-        "score": 118,
-        "descendants": 62,
-        "by": "coffeemug",
-        "tags": [
-          "AI"
-        ]
+        "id": 50245385,
+        "title": "Solar power is becoming bigger than nuclear",
+        "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+        "domain": "bbc.com",
+        "score": 158,
+        "descendants": 262,
+        "by": "geox",
+        "tags": [],
+        "summary": "分析全球能源结构变化，探讨太阳能发电规模超越核能的趋势及其背后的经济与技术动因。"
       }
     ],
     "insights": {
       "top_domains": [
         {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
           "domain": "magazine.sebastianraschka.com",
-          "count": 1
-        },
-        {
-          "domain": "css-tricks.com",
-          "count": 1
-        },
-        {
-          "domain": "sec.gov",
           "count": 1
         }
       ],
-      "avg_score": 220,
+      "avg_score": 269,
       "max_score": {
-        "title": "Anthropic S-1",
-        "score": 1084
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "score": 578
       },
       "most_discussed": {
-        "title": "Anthropic S-1",
-        "comments": 1008
+        "title": "Solar power is becoming bigger than nuclear",
+        "comments": 262
       },
       "hot_tags": [
+        "Science",
         "AI",
         "Web"
       ]
     },
-    "summary": ""
+    "summary": "本期 Hacker News 聚焦于前沿科研与计算机底层技术的碰撞，从数学与物理新发现到计算复杂性理论的突破，引发了深度技术讨论。同时，社区对经典软件兼容性及现代人工智能架构的安全隐患表现出浓厚兴趣，反映了开发者对技术历史底蕴与工程实践细节的持续关注。"
   }
 }
