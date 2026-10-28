@@ -1,0 +1,136 @@
+{
+  "morning": {
+    "time": "2026-10-29 01:49",
+    "stories": [
+      {
+        "id": 50276792,
+        "title": "Gemini 4 Carbon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "domain": "blog.google",
+        "score": 225,
+        "descendants": 158,
+        "by": "acossta",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50274409,
+        "title": "CNC Stone Carving",
+        "url": "https://carmelitegothic.com/cnc-stone-carving/",
+        "domain": "carmelitegothic.com",
+        "score": 215,
+        "descendants": 70,
+        "by": "bschne",
+        "tags": []
+      },
+      {
+        "id": 50276940,
+        "title": "MacBook Pro with PROLED XDR Display and Touch",
+        "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+        "domain": "apple.com",
+        "score": 132,
+        "descendants": 191,
+        "by": "etothet",
+        "tags": []
+      },
+      {
+        "id": 50275626,
+        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+        "url": "https://surgehq.ai/blog/dayjob-tax",
+        "domain": "surgehq.ai",
+        "score": 69,
+        "descendants": 44,
+        "by": "landonxi",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50208960,
+        "title": "Start Doing Graph Theory",
+        "url": "https://vertex.degree/",
+        "domain": "vertex.degree",
+        "score": 401,
+        "descendants": 93,
+        "by": "ibobev",
+        "tags": []
+      },
+      {
+        "id": 50243060,
+        "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+        "url": "https://www.circuithub.com/post/unveiling-the-grid",
+        "domain": "circuithub.com",
+        "score": 262,
+        "descendants": 116,
+        "by": "seddona",
+        "tags": []
+      },
+      {
+        "id": 50276883,
+        "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+        "url": "https://slidebyside.com/",
+        "domain": "slidebyside.com",
+        "score": 8,
+        "descendants": 4,
+        "by": "denismenace",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50271640,
+        "title": "Apple's git still trusts the compromised eMudhra certificates",
+        "url": "https://emudhra.we-have-a-problem.com/apple.html",
+        "domain": "emudhra.we-have-a-problem.com",
+        "score": 810,
+        "descendants": 319,
+        "by": "galadran",
+        "tags": [
+          "Rust"
+        ]
+      },
+      {
+        "id": 50274251,
+        "title": "AlpineBSD",
+        "url": "https://wiki.alpinebsd.org",
+        "domain": "wiki.alpinebsd.org",
+        "score": 60,
+        "descendants": 59,
+        "by": "bradley_taunt",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "carmelitegothic.com",
+          "count": 1
+        },
+        {
+          "domain": "apple.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 242,
+      "max_score": {
+        "title": "Apple's git still trusts the compromised eMudhra certificates",
+        "score": 810
+      },
+      "most_discussed": {
+        "title": "Apple's git still trusts the compromised eMudhra certificates",
+        "comments": 319
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust"
+      ]
+    },
+    "summary": ""
+  }
+}
