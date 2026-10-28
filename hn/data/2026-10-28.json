@@ -1,157 +1,159 @@
 {
   "morning": {
-    "time": "2026-10-28 01:19",
+    "time": "2026-10-28 10:50",
     "stories": [
       {
         "id": 50261319,
         "title": "Genie 4",
         "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "domain": "deepmind.google",
-        "score": 204,
-        "descendants": 108,
+        "score": 758,
+        "descendants": 456,
         "by": "acossta",
         "tags": [],
-        "summary": "Google DeepMind发布Genie 4，展示了在生成式模型领域的最新突破性能力。"
+        "summary": "Google DeepMind发布Genie 4，展示了生成式AI在物理交互与世界模拟方面的新进展。"
       },
       {
-        "id": 50261819,
-        "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "domain": "gizmodo.com",
-        "score": 44,
-        "descendants": 9,
-        "by": "gumby",
+        "id": 50261998,
+        "title": "Ghostty 1.4",
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "domain": "ghostty.org",
+        "score": 810,
+        "descendants": 244,
+        "by": "deaux",
+        "tags": [],
+        "summary": "高性能终端模拟器Ghostty发布1.4版本，进一步优化了跨平台体验与渲染性能。"
+      },
+      {
+        "id": 50234796,
+        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+        "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+        "domain": "arstechnica.com",
+        "score": 83,
+        "descendants": 14,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "Nikon微观世界摄影大赛揭晓，捕捉墨滴运动的精美作品荣获年度大奖。"
+      },
+      {
+        "id": 50268380,
+        "title": "Git for US Legislation",
+        "url": "https://lexifina.com/blog/git-for-the-us-code",
+        "domain": "lexifina.com",
+        "score": 17,
+        "descendants": 6,
+        "by": "alansaber",
+        "tags": [],
+        "summary": "探讨将Git版本控制系统应用于美国立法过程，以提升法律修订的透明度与协作效率。"
+      },
+      {
+        "id": 50265609,
+        "title": "Early progress on accelerating drug development with Claude",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "domain": "anthropic.com",
+        "score": 145,
+        "descendants": 127,
+        "by": "dataking",
         "tags": [
           "AI"
         ],
-        "summary": "探讨警方如何利用AI技术监测所谓“可疑”驾驶行为，引发了关于监控边界与隐私的伦理争议。"
+        "summary": "Anthropic分享了利用Claude模型加速药物开发流程的早期成果与实践经验。"
       },
       {
-        "id": 50258538,
-        "title": "New iMac with M6",
-        "url": "https://www.apple.com/imac/",
-        "domain": "apple.com",
-        "score": 168,
-        "descendants": 179,
-        "by": "notfried",
-        "tags": [],
-        "summary": "苹果正式推出搭载M6芯片的全新iMac，标志着其自研芯片性能的再次迭代升级。"
-      },
-      {
-        "id": 50257419,
-        "title": "Python's experimental JIT to be removed",
-        "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-        "domain": "lwn.net",
-        "score": 301,
-        "descendants": 153,
-        "by": "f311a",
-        "tags": [
-          "Python"
-        ],
-        "summary": "Python官方宣布将移除实验性的JIT编译器，这一决定引发开发者对性能优化路线的讨论。"
-      },
-      {
-        "id": 50261352,
-        "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-        "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "domain": "apple.com",
-        "score": 53,
-        "descendants": 39,
-        "by": "beex",
-        "tags": [],
-        "summary": "苹果发布新款14英寸MacBook Pro，核心亮点在于搭载了最新的M6系列处理芯片。"
-      },
-      {
-        "id": 50257326,
-        "title": "Wikipedia's Cleanup of AI-Generated Content",
-        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-        "domain": "spectrum.ieee.org",
-        "score": 286,
-        "descendants": 134,
-        "by": "rbanffy",
+        "id": 50264857,
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "url": "https://tailscale.com/ssh-investigation-update",
+        "domain": "tailscale.com",
+        "score": 207,
+        "descendants": 113,
+        "by": "figmert",
         "tags": [
           "AI"
         ],
-        "summary": "分析维基百科如何应对并清理平台上泛滥的AI生成内容，以维护知识库的质量与可信度。"
+        "summary": "Tailscale官方针对SSH功能的安全调查发布了补救更新说明。"
       },
       {
-        "id": 50259604,
-        "title": "The US government is hiding secret court ruling about how it spies on Americans",
-        "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-        "domain": "wired.com",
-        "score": 367,
-        "descendants": 107,
-        "by": "helterskelter2",
-        "tags": [],
-        "summary": "报道美国政府隐瞒涉及监控美国公民隐私的秘密法院裁决，引发公众对司法透明度的质疑。"
+        "id": 50264853,
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "domain": "brangus.io",
+        "score": 206,
+        "descendants": 108,
+        "by": "Luc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Survival LLM项目介绍了一款可在本地电脑运行的AI助手，专为应急生存场景设计。"
       },
       {
-        "id": 50261647,
-        "title": "Classification of Finite Simple Groups Formalized in Lean",
-        "url": "https://cfsg.axiommath.ai/",
-        "domain": "cfsg.axiommath.ai",
-        "score": 25,
-        "descendants": 11,
-        "by": "pfdietz",
-        "tags": [],
-        "summary": "数学界重大进展：有限单群分类定理正式在Lean证明辅助系统中得到形式化验证。"
-      },
-      {
-        "id": 50245014,
-        "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-        "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-        "domain": "hothardware.com",
-        "score": 71,
-        "descendants": 10,
-        "by": "rbanffy",
-        "tags": [],
-        "summary": "解析美光科技为何在DRAM存储技术路线上选择弃用4F²架构，与行业主流背道而驰的原因。"
-      },
-      {
-        "id": 50261583,
-        "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-        "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-        "domain": "cloudsleuth.io",
-        "score": 11,
-        "descendants": 0,
-        "by": "bigfish2026",
+        "id": 50265594,
+        "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+        "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+        "domain": "bret.dk",
+        "score": 108,
+        "descendants": 43,
+        "by": "sthlmb",
         "tags": [
           "AI",
-          "Open Source"
+          "Hardware"
         ],
-        "summary": "汇总了近期PHP2Shell、LiteLLM及GitLab等主流软件的安全漏洞，提醒开发者及时修补。"
+        "summary": "开发者在设备树文件中发现了疑似Raspberry Pi Zero 3W和Pi 4 Model A的新踪迹。"
+      },
+      {
+        "id": 50242688,
+        "title": "81 Jokes for the ZX81",
+        "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+        "domain": "spelk.press",
+        "score": 44,
+        "descendants": 2,
+        "by": "robin_reala",
+        "tags": [],
+        "summary": "为经典计算机ZX81搜集的81则笑话合集，引发复古计算爱好者的怀旧共鸣。"
+      },
+      {
+        "id": 50217978,
+        "title": "Tabletop Whale is an original science illustration blog",
+        "url": "https://tabletopwhale.com",
+        "domain": "tabletopwhale.com",
+        "score": 13,
+        "descendants": 1,
+        "by": "Levitating",
+        "tags": [
+          "Science"
+        ],
+        "summary": "Tabletop Whale是一个专注于科学插画的博客，以生动直观的方式科普各类科学知识。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "apple.com",
-          "count": 2
-        },
-        {
           "domain": "deepmind.google",
           "count": 1
         },
         {
-          "domain": "gizmodo.com",
+          "domain": "ghostty.org",
+          "count": 1
+        },
+        {
+          "domain": "arstechnica.com",
           "count": 1
         }
       ],
-      "avg_score": 153,
+      "avg_score": 239,
       "max_score": {
-        "title": "The US government is hiding secret court ruling about how it spies on Americans",
-        "score": 367
+        "title": "Ghostty 1.4",
+        "score": 810
       },
       "most_discussed": {
-        "title": "New iMac with M6",
-        "comments": 179
+        "title": "Genie 4",
+        "comments": 456
       },
       "hot_tags": [
         "AI",
-        "Python",
-        "Open Source"
+        "Hardware",
+        "Science"
       ]
     },
-    "summary": "本期Hacker News焦点集中在科技巨头硬件与AI创新的博弈，苹果发布搭载M6芯片的新品引发硬件关注，而DeepMind的Genie 4则展示了生成式AI的最新进展。与此同时，社区对AI内容治理、技术架构迭代（Python JIT）以及隐私安全与法律审计等行业议题展现出浓厚讨论兴趣。"
+    "summary": "本期Hacker News焦点集中在AI技术的前沿突破与工具生态的演进，包括Google的Genie 4、Claude在药物研发的应用及本地化AI助手的涌现。此外，开发工具如Ghostty终端和Tailscale的安全更新亦引发了社区的高度关注，体现了开发者对生产力工具与基础设施可靠性的持续重视。"
   }
 }
