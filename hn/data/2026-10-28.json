@@ -155,5 +155,158 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在AI技术的前沿突破与工具生态的演进，包括Google的Genie 4、Claude在药物研发的应用及本地化AI助手的涌现。此外，开发工具如Ghostty终端和Tailscale的安全更新亦引发了社区的高度关注，体现了开发者对生产力工具与基础设施可靠性的持续重视。"
+  },
+  "evening": {
+    "time": "2026-10-28 18:06",
+    "stories": [
+      {
+        "id": 50268380,
+        "title": "Git for the US Code",
+        "url": "https://lexifina.com/blog/git-for-the-us-code",
+        "domain": "lexifina.com",
+        "score": 268,
+        "descendants": 136,
+        "by": "alansaber",
+        "tags": [],
+        "summary": "讨论建立一套类似Git的版本控制系统来管理美国法典，以提高法律文档的可追踪性。"
+      },
+      {
+        "id": 50261319,
+        "title": "Genie 4",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "domain": "deepmind.google",
+        "score": 900,
+        "descendants": 517,
+        "by": "acossta",
+        "tags": [],
+        "summary": "DeepMind发布Genie 4，展示了在生成式AI环境交互和模型能力方面的最新突破。"
+      },
+      {
+        "id": 50261998,
+        "title": "Ghostty 1.4",
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "domain": "ghostty.org",
+        "score": 1034,
+        "descendants": 331,
+        "by": "deaux",
+        "tags": [],
+        "summary": "高性能终端模拟器Ghostty发布1.4版本，带来了性能优化与新特性。"
+      },
+      {
+        "id": 50234796,
+        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+        "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+        "domain": "arstechnica.com",
+        "score": 237,
+        "descendants": 41,
+        "by": "_Microft",
+        "tags": [],
+        "summary": "Nikon微观世界摄影大赛揭晓，一张墨滴动态捕捉照片摘得冠军。"
+      },
+      {
+        "id": 50208960,
+        "title": "Start Doing Graph Theory",
+        "url": "https://vertex.degree/",
+        "domain": "vertex.degree",
+        "score": 23,
+        "descendants": 0,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "介绍图论的学习路径与重要性，鼓励开发者掌握这一基础数学学科。"
+      },
+      {
+        "id": 50227400,
+        "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+        "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+        "domain": "oldvcr.blogspot.com",
+        "score": 50,
+        "descendants": 0,
+        "by": "classichasclass",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "复古计算爱好者为经典的Apple Network Server v1.0整理并发布了MacOS扩展包。"
+      },
+      {
+        "id": 50264853,
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "domain": "brangus.io",
+        "score": 348,
+        "descendants": 141,
+        "by": "Luc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Survival LLM，一个可离线运行的本地AI助手，专门用于紧急情况下的知识检索与应急支持。"
+      },
+      {
+        "id": 50264857,
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "url": "https://tailscale.com/ssh-investigation-update",
+        "domain": "tailscale.com",
+        "score": 286,
+        "descendants": 148,
+        "by": "figmert",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Tailscale发布关于其SSH功能漏洞的调查报告及相应的安全修复方案。"
+      },
+      {
+        "id": 50265609,
+        "title": "Early progress on accelerating drug development with Claude",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "domain": "anthropic.com",
+        "score": 228,
+        "descendants": 216,
+        "by": "dataking",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic分享了利用Claude模型加速药物研发流程的初步研究进展与成果。"
+      },
+      {
+        "id": 50223739,
+        "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+        "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+        "domain": "healeycodes.com",
+        "score": 40,
+        "descendants": 6,
+        "by": "healeycodes",
+        "tags": [],
+        "summary": "技术博客深入解析如何逆向工程经典游戏《快餐大亨2》并实现地图渲染逻辑。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "lexifina.com",
+          "count": 1
+        },
+        {
+          "domain": "deepmind.google",
+          "count": 1
+        },
+        {
+          "domain": "ghostty.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 341,
+      "max_score": {
+        "title": "Ghostty 1.4",
+        "score": 1034
+      },
+      "most_discussed": {
+        "title": "Genie 4",
+        "comments": 517
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术迭代与应用，DeepMind的Genie 4和Anthropic的药物研发进展引发热议。同时，软件工程工具更新（如Ghostty 1.4、Tailscale SSH）及硬核技术分析（如代码逆向、数学理论）也备受技术社区青睐。"
   }
 }
