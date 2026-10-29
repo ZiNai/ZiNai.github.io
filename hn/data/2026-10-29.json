@@ -290,5 +290,167 @@
       ]
     },
     "summary": "本期Hacker News热门内容呈现出高度的技术深度与跨界创新，AI模型架构研究、软硬件安全漏洞及精密制造技术成为讨论热点。此外，个人博客叙事与工业化生产工具的创新应用也引发了社区的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-10-29 18:31",
+    "stories": [
+      {
+        "id": 50282838,
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "url": "https://divagr.com/blog/qwenputer",
+        "domain": "divagr.com",
+        "score": 482,
+        "descendants": 100,
+        "by": "csmantle",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "数据统计显示 Stack Overflow 的月度提问量已跌破 1000 关口，反映了技术社区活跃度的变化。"
+      },
+      {
+        "id": 50285452,
+        "title": "Zero click, silent, remote Android DoS",
+        "url": "https://smsofdeath.com/",
+        "domain": "smsofdeath.com",
+        "score": 79,
+        "descendants": 39,
+        "by": "MarkBlah",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "披露了一项针对 Android 设备的远程零点击拒绝服务（DoS）漏洞分析。"
+      },
+      {
+        "id": 50276998,
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "url": "https://nullpt.rs/fingerprinting-bioweapons",
+        "domain": "nullpt.rs",
+        "score": 1256,
+        "descendants": 236,
+        "by": "hazebooth",
+        "tags": [],
+        "summary": "深入探讨了一款指纹采集脚本因代码逻辑问题，引发意外触发安全警报及错误行为的始末。"
+      },
+      {
+        "id": 50243757,
+        "title": "Getting debug access on a Brother printer over Telnet",
+        "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+        "domain": "inventor7777.github.io",
+        "score": 53,
+        "descendants": 13,
+        "by": "inventor7777",
+        "tags": [],
+        "summary": "作者通过 Telnet 协议成功获取了 Brother 打印机的调试权限。"
+      },
+      {
+        "id": 50285319,
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "domain": "blog.orange.tw",
+        "score": 60,
+        "descendants": 14,
+        "by": "austinallegro",
+        "tags": [
+          "AI"
+        ],
+        "summary": "知名研究员 Orange 分享了如何仅利用逻辑漏洞构建完整的 Microsoft Edge 攻击链。"
+      },
+      {
+        "id": 50251200,
+        "title": "OpenAI's agents talked to each other through the CPU Cache",
+        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+        "domain": "the-decoder.com",
+        "score": 166,
+        "descendants": 75,
+        "by": "limbicsystem",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "报道称 OpenAI 的 AI 代理程序被发现通过 CPU 缓存进行隐蔽的跨进程通信。"
+      },
+      {
+        "id": 50282454,
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "domain": "data.stackexchange.com",
+        "score": 470,
+        "descendants": 393,
+        "by": "babelfish",
+        "tags": []
+      },
+      {
+        "id": 50280974,
+        "title": "A Health Update",
+        "url": "https://furbo.org/2026/10/28/a-health-update/",
+        "domain": "furbo.org",
+        "score": 263,
+        "descendants": 41,
+        "by": "frizlab",
+        "tags": [],
+        "summary": "知名开发者关于个人健康状况的更新声明。"
+      },
+      {
+        "id": 50259697,
+        "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+        "url": "https://dmux.github.io/minilake/",
+        "domain": "dmux.github.io",
+        "score": 17,
+        "descendants": 2,
+        "by": "kermatt",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍一款支持 SQL、Delta Lake 和 Spark 的本地 Databricks API 模拟器 MiniLake。"
+      },
+      {
+        "id": 50282544,
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "domain": "alpinelinux.org",
+        "score": 182,
+        "descendants": 85,
+        "by": "sashk",
+        "tags": [
+          "Security",
+          "Open Source"
+        ],
+        "summary": "GitLab 公布一起针对 CVE-2026-97229 漏洞的尝试性攻击事件细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "divagr.com",
+          "count": 1
+        },
+        {
+          "domain": "smsofdeath.com",
+          "count": 1
+        },
+        {
+          "domain": "nullpt.rs",
+          "count": 1
+        }
+      ],
+      "avg_score": 303,
+      "max_score": {
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "score": 1256
+      },
+      "most_discussed": {
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "comments": 393
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Hardware",
+        "Database",
+        "Security"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦于前沿安全研究与系统底层探索，涵盖了从处理器仿真、Android 系统漏洞到浏览器逻辑链攻击的深度技术解析。同时，行业议题如 Stack Overflow 内容生态的萎缩以及企业安全运维挑战也引发了开发者的广泛关注。"
   }
 }
