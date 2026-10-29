@@ -132,5 +132,163 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-10-29 11:13",
+    "stories": [
+      {
+        "id": 50282838,
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "url": "https://divagr.com/blog/qwenputer",
+        "domain": "divagr.com",
+        "score": 143,
+        "descendants": 34,
+        "by": "csmantle",
+        "tags": [
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "研究者在Qwen3.5大模型中构建了一个可运行的确定性RISC-V CPU。"
+      },
+      {
+        "id": 50276998,
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "url": "https://nullpt.rs/fingerprinting-bioweapons",
+        "domain": "nullpt.rs",
+        "score": 918,
+        "descendants": 192,
+        "by": "hazebooth",
+        "tags": [],
+        "summary": "探讨了关于指纹识别脚本意外触发生物武器相关安全警报的离奇事件。"
+      },
+      {
+        "id": 50282544,
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "domain": "alpinelinux.org",
+        "score": 103,
+        "descendants": 37,
+        "by": "sashk",
+        "tags": [
+          "Security",
+          "Open Source"
+        ],
+        "summary": "GitLab针对CVE-2026-97229漏洞的安全响应与利用尝试分析。"
+      },
+      {
+        "id": 50280974,
+        "title": "A Health Update",
+        "url": "https://furbo.org/2026/10/28/a-health-update/",
+        "domain": "furbo.org",
+        "score": 134,
+        "descendants": 15,
+        "by": "frizlab",
+        "tags": [],
+        "summary": "博主分享的个人健康状况更新动态。"
+      },
+      {
+        "id": 50274409,
+        "title": "CNC Stone Carving",
+        "url": "https://carmelitegothic.com/cnc-stone-carving/",
+        "domain": "carmelitegothic.com",
+        "score": 421,
+        "descendants": 122,
+        "by": "bschne",
+        "tags": [],
+        "summary": "利用CNC机床进行精密石材雕刻的技术展示与工艺探讨。"
+      },
+      {
+        "id": 50276792,
+        "title": "Gemini 4 Carbon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "domain": "blog.google",
+        "score": 831,
+        "descendants": 692,
+        "by": "acossta",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google发布Gemini 4 Carbon模型，引发关于模型性能与生态影响的广泛讨论。"
+      },
+      {
+        "id": 50281044,
+        "title": "Formlabs Studio 1 $699 Resin Printer",
+        "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+        "domain": "formlabs.com",
+        "score": 135,
+        "descendants": 90,
+        "by": "mhb",
+        "tags": [],
+        "summary": "Formlabs推出售价699美元的Studio 1光固化树脂打印机。"
+      },
+      {
+        "id": 50242873,
+        "title": "Human-enhanced tsunami hazard in large lakes",
+        "url": "https://www.nature.com/articles/s41467-026-78272-8",
+        "domain": "nature.com",
+        "score": 6,
+        "descendants": 0,
+        "by": "gumby",
+        "tags": [],
+        "summary": "关于大型湖泊中人类活动如何加剧海啸风险的科学研究。"
+      },
+      {
+        "id": 50243060,
+        "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+        "url": "https://www.circuithub.com/post/unveiling-the-grid",
+        "domain": "circuithub.com",
+        "score": 449,
+        "descendants": 209,
+        "by": "seddona",
+        "tags": [],
+        "summary": "介绍位于马萨诸塞州的一家能够按需制造PCB的自动化工厂机器人系统。"
+      },
+      {
+        "id": 50244929,
+        "title": "Nixpkgs for the Front End Impaired",
+        "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+        "domain": "fzakaria.com",
+        "score": 17,
+        "descendants": 3,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "为不熟悉前端开发的工程师提供的Nixpkgs实用指南。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "divagr.com",
+          "count": 1
+        },
+        {
+          "domain": "nullpt.rs",
+          "count": 1
+        },
+        {
+          "domain": "alpinelinux.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 316,
+      "max_score": {
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "score": 918
+      },
+      "most_discussed": {
+        "title": "Gemini 4 Carbon",
+        "comments": 692
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Hardware",
+        "Security",
+        "Open Source"
+      ]
+    },
+    "summary": "本期Hacker News热门内容呈现出高度的技术深度与跨界创新，AI模型架构研究、软硬件安全漏洞及精密制造技术成为讨论热点。此外，个人博客叙事与工业化生产工具的创新应用也引发了社区的广泛关注。"
   }
 }
