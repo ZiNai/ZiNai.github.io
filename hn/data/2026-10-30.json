@@ -141,5 +141,165 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-10-30 11:16",
+    "stories": [
+      {
+        "id": 50296470,
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+        "domain": "arkm.com",
+        "score": 833,
+        "descendants": 495,
+        "by": "Tiberium",
+        "tags": [
+          "Security"
+        ],
+        "summary": "加密货币交易所Binance遭遇重大安全漏洞，高达56亿美元资产被盗。"
+      },
+      {
+        "id": 50289418,
+        "title": "We're releasing the weights of Mistral Large 4",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "domain": "mistral.ai",
+        "score": 1246,
+        "descendants": 349,
+        "by": "kuberwastaken",
+        "tags": [],
+        "summary": "Mistral AI正式发布Mistral Large 4大语言模型的权重，进一步推动开源模型生态发展。"
+      },
+      {
+        "id": 50296486,
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "domain": "labs.ycombinator.com",
+        "score": 202,
+        "descendants": 68,
+        "by": "sandslash",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "Y Combinator实验室分享了在Minecraft和Mindustry中部署AI智能体集群的实验成果。"
+      },
+      {
+        "id": 50255343,
+        "title": "Cuis: The Modern Smalltalk-80",
+        "url": "https://cuis.st/",
+        "domain": "cuis.st",
+        "score": 9,
+        "descendants": 0,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "介绍旨在保留Smalltalk-80核心哲学并实现现代化的编程语言环境Cuis。"
+      },
+      {
+        "id": 50270651,
+        "title": "Astroterm: A Planetarium for Your Terminal",
+        "url": "https://github.com/da-luce/astroterm",
+        "domain": "github.com",
+        "score": 10,
+        "descendants": 1,
+        "by": "nvmdbljstm",
+        "tags": [],
+        "summary": "一款能在终端中运行的星象模拟工具，为命令行爱好者提供天文观测体验。"
+      },
+      {
+        "id": 50295450,
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "url": "https://github.com/SheepSeb/tinyworldformer",
+        "domain": "github.com",
+        "score": 150,
+        "descendants": 8,
+        "by": "airinei",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "开发者成功在树莓派Pico 2 W的极小资源环境下运行了一个微型世界模型来驱动游戏。"
+      },
+      {
+        "id": 50298964,
+        "title": "Pico CSS is no longer maintained",
+        "url": "https://github.com/picocss/pico/discussions/754",
+        "domain": "github.com",
+        "score": 43,
+        "descendants": 14,
+        "by": "henrid",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "简洁易用的轻量级CSS框架Pico CSS宣布停止维护。"
+      },
+      {
+        "id": 50298436,
+        "title": "Herdr has released native app",
+        "url": "https://github.com/herdrdev/herdr-app",
+        "domain": "github.com",
+        "score": 39,
+        "descendants": 32,
+        "by": "cherioo",
+        "tags": [],
+        "summary": "社区平台Herdr发布了原生应用程序，改善跨设备使用体验。"
+      },
+      {
+        "id": 50297089,
+        "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+        "url": "https://journal.animationstudies.org/article/id/66/",
+        "domain": "journal.animationstudies.org",
+        "score": 62,
+        "descendants": 10,
+        "by": "simonebrunozzi",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度解析宫崎骏电影《红猪》中所蕴含的政治隐喻与战争哲学。"
+      },
+      {
+        "id": 50291054,
+        "title": "H.264 Is Magic (2016)",
+        "url": "https://sidbala.com/h-264-is-magic/",
+        "domain": "sidbala.com",
+        "score": 352,
+        "descendants": 130,
+        "by": "ea016",
+        "tags": [],
+        "summary": "详细拆解H.264视频编码标准背后的复杂数学原理与工程精巧性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "arkm.com",
+          "count": 1
+        },
+        {
+          "domain": "mistral.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 295,
+      "max_score": {
+        "title": "We're releasing the weights of Mistral Large 4",
+        "score": 1246
+      },
+      "most_discussed": {
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "comments": 495
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Security",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点聚焦于科技界的多样化动态，涵盖了Mistral发布大模型权重的重磅消息、加密货币领域的大规模安全事件，以及AI Agent在游戏领域的实验性探索。整体趋势显示开发者社区对人工智能底层技术、复古编程工具及底层架构解析依然保持着高度关注。"
   }
 }
