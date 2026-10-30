@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-10-31 01:38",
+    "stories": [
+      {
+        "id": 50306442,
+        "title": "A Working Nintendo in ~1GB of Qwen Weights",
+        "url": "https://github.com/dbreunig/nesformer",
+        "domain": "github.com",
+        "score": 45,
+        "descendants": 37,
+        "by": "dbreunig",
+        "tags": [],
+        "summary": "开发者展示了如何利用 1GB 大小的 Qwen 模型权重运行任天堂模拟器。"
+      },
+      {
+        "id": 50305025,
+        "title": "Northflank Breached",
+        "url": "https://status.northflank.com",
+        "domain": "status.northflank.com",
+        "score": 118,
+        "descendants": 73,
+        "by": "js4ever",
+        "tags": [],
+        "summary": "云平台 Northflank 发布公告确认其系统遭到安全入侵。"
+      },
+      {
+        "id": 50300683,
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "domain": "phorion.io",
+        "score": 420,
+        "descendants": 367,
+        "by": "_chall",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "研究人员在 Cursor 市场的 Claude Code 扩展中发现恶意后门。"
+      },
+      {
+        "id": 50305573,
+        "title": "The federated code forge",
+        "url": "https://tangled.org/blog/forge/",
+        "domain": "tangled.org",
+        "score": 63,
+        "descendants": 26,
+        "by": "zlliang",
+        "tags": [],
+        "summary": "介绍了 Tangled 这一基于联合协议的代码托管平台，旨在去中心化代码协作。"
+      },
+      {
+        "id": 50305693,
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "domain": "newsletter.signoz.io",
+        "score": 223,
+        "descendants": 175,
+        "by": "dorianniemiec",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 AI 工具虽然赋能 SRE 工作，但长期使用可能导致运维工程师的核心技能退化。"
+      },
+      {
+        "id": 50301854,
+        "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+        "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+        "domain": "binarysecurity.no",
+        "score": 192,
+        "descendants": 29,
+        "by": "swq115",
+        "tags": [],
+        "summary": "安全研究人员披露了 Azure 平台中存在的五个跨租户严重漏洞。"
+      },
+      {
+        "id": 50306008,
+        "title": "US tech stocks see sharp falls over AI cost fears",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "domain": "bbc.co.uk",
+        "score": 89,
+        "descendants": 38,
+        "by": "mindracer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "由于市场对 AI 高昂成本投入的获利前景产生怀疑，美国科技股出现大幅下跌。"
+      },
+      {
+        "id": 50305637,
+        "title": "Florilegium: Procedural Flowers in LaTeX",
+        "url": "https://github.com/kevinraymond/florilegium",
+        "domain": "github.com",
+        "score": 28,
+        "descendants": 3,
+        "by": "nanna",
+        "tags": [],
+        "summary": "一个展示如何使用 LaTeX 语言通过程序生成精美花卉图案的项目。"
+      },
+      {
+        "id": 50263837,
+        "title": "Breaking the open web won't stop the bad bots",
+        "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+        "domain": "techpolicy.press",
+        "score": 15,
+        "descendants": 0,
+        "by": "raybb",
+        "tags": [
+          "Web"
+        ],
+        "summary": "观点文章指出通过破坏开放网络环境并不能有效阻挡恶意爬虫。"
+      },
+      {
+        "id": 50305480,
+        "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+        "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+        "domain": "npr.org",
+        "score": 81,
+        "descendants": 18,
+        "by": "paulpauper",
+        "tags": [
+          "AI",
+          "Security",
+          "Hardware"
+        ],
+        "summary": "区块链情报公司指出北韩与针对币安平台的 63 亿美元黑客攻击存在关联。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "status.northflank.com",
+          "count": 1
+        },
+        {
+          "domain": "phorion.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 127,
+      "max_score": {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "score": 420
+      },
+      "most_discussed": {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "comments": 367
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Web",
+        "Hardware"
+      ]
+    },
+    "summary": "今日 Hacker News 重点关注科技行业的安全隐患与 AI 发展的副作用，涵盖了从云平台漏洞、代码扩展插件后门到 AI 对 SRE 职业影响及市场情绪的深度讨论。整体呈现出技术安全审计与行业生态焦虑并存的趋势。"
+  }
+}
