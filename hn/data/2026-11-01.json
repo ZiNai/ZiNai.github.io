@@ -1,0 +1,151 @@
+{
+  "morning": {
+    "time": "2026-11-01 00:43",
+    "stories": [
+      {
+        "id": 50316531,
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "domain": "blog.talosintelligence.com",
+        "score": 71,
+        "descendants": 12,
+        "by": "khalidkhair",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50317363,
+        "title": "Casio Watches of the 1980s",
+        "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+        "domain": "casio.com",
+        "score": 21,
+        "descendants": 5,
+        "by": "karagenit",
+        "tags": []
+      },
+      {
+        "id": 50314666,
+        "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+        "url": "https://piefed.world/post/1503394",
+        "domain": "piefed.world",
+        "score": 184,
+        "descendants": 125,
+        "by": "DeepLogin",
+        "tags": []
+      },
+      {
+        "id": 50314699,
+        "title": "We Took over ChatGPT Accounts",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "domain": "parameter.ai",
+        "score": 197,
+        "descendants": 101,
+        "by": "armcat",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50314654,
+        "title": "Serbia just elected the world's brainiest parliament",
+        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "domain": "science.org",
+        "score": 612,
+        "descendants": 353,
+        "by": "input_sh",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50314085,
+        "title": "Switch Lowering in GCC",
+        "url": "https://xoranth.net/gcc-switch/",
+        "domain": "xoranth.net",
+        "score": 141,
+        "descendants": 29,
+        "by": "signa11",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50261253,
+        "title": "Simple circuits can create complex behaviors",
+        "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+        "domain": "aatishb.com",
+        "score": 88,
+        "descendants": 18,
+        "by": "aatish",
+        "tags": []
+      },
+      {
+        "id": 50317484,
+        "title": "A/SIDE – Private photo sharing and encrypted messages",
+        "url": "https://a-side.social/",
+        "domain": "a-side.social",
+        "score": 3,
+        "descendants": 0,
+        "by": "eustoria",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 50316760,
+        "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+        "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+        "domain": "torrentfreak.com",
+        "score": 46,
+        "descendants": 25,
+        "by": "WesleyGrant782",
+        "tags": [
+          "Science"
+        ]
+      },
+      {
+        "id": 50271052,
+        "title": "Reading and writing are less symmetric than you (probably) think",
+        "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+        "domain": "fgiesen.wordpress.com",
+        "score": 20,
+        "descendants": 2,
+        "by": "luu",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.talosintelligence.com",
+          "count": 1
+        },
+        {
+          "domain": "casio.com",
+          "count": 1
+        },
+        {
+          "domain": "piefed.world",
+          "count": 1
+        }
+      ],
+      "avg_score": 138,
+      "max_score": {
+        "title": "Serbia just elected the world's brainiest parliament",
+        "score": 612
+      },
+      "most_discussed": {
+        "title": "Serbia just elected the world's brainiest parliament",
+        "comments": 353
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Science"
+      ]
+    },
+    "summary": ""
+  }
+}
