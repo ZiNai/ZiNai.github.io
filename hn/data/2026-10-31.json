@@ -1,129 +1,129 @@
 {
   "morning": {
-    "time": "2026-10-31 01:38",
+    "time": "2026-10-31 10:59",
     "stories": [
       {
-        "id": 50306442,
-        "title": "A Working Nintendo in ~1GB of Qwen Weights",
-        "url": "https://github.com/dbreunig/nesformer",
-        "domain": "github.com",
-        "score": 45,
-        "descendants": 37,
-        "by": "dbreunig",
-        "tags": [],
-        "summary": "开发者展示了如何利用 1GB 大小的 Qwen 模型权重运行任天堂模拟器。"
+        "id": 50311686,
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/",
+        "domain": "tng.episodle.com",
+        "score": 84,
+        "descendants": 24,
+        "by": "francisofascii",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款向帕特里克·斯图尔特爵士致敬的《星际迷航：下一代》剧集猜谜小游戏。"
       },
       {
-        "id": 50305025,
-        "title": "Northflank Breached",
-        "url": "https://status.northflank.com",
-        "domain": "status.northflank.com",
-        "score": 118,
-        "descendants": 73,
-        "by": "js4ever",
-        "tags": [],
-        "summary": "云平台 Northflank 发布公告确认其系统遭到安全入侵。"
+        "id": 50277379,
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "url": "https://github.com/chris124567/cfsolve",
+        "domain": "github.com",
+        "score": 111,
+        "descendants": 31,
+        "by": "costco",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一个无需调用无头浏览器即可破解Cloudflare Turnstile验证码的开源库。"
       },
       {
         "id": 50300683,
         "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
         "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
         "domain": "phorion.io",
-        "score": 420,
-        "descendants": 367,
+        "score": 797,
+        "descendants": 499,
         "by": "_chall",
         "tags": [
           "AI",
           "Security"
         ],
-        "summary": "研究人员在 Cursor 市场的 Claude Code 扩展中发现恶意后门。"
+        "summary": "Cursor插件市场中的Claude Code扩展被曝存在严重后门风险，引发广泛关注。"
       },
       {
-        "id": 50305573,
-        "title": "The federated code forge",
-        "url": "https://tangled.org/blog/forge/",
-        "domain": "tangled.org",
-        "score": 63,
-        "descendants": 26,
-        "by": "zlliang",
+        "id": 50307190,
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "domain": "virtuallyfun.com",
+        "score": 257,
+        "descendants": 74,
+        "by": "DHowett",
         "tags": [],
-        "summary": "介绍了 Tangled 这一基于联合协议的代码托管平台，旨在去中心化代码协作。"
+        "summary": "文章介绍了如何将一台任天堂Wii主机打造成个人心目中最棒的PowerMac复古机。"
       },
       {
-        "id": 50305693,
-        "title": "AI isn't replacing SREs, it's deskilling them",
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "domain": "newsletter.signoz.io",
-        "score": 223,
-        "descendants": 175,
-        "by": "dorianniemiec",
+        "id": 50305025,
+        "title": "Northflank Breached",
+        "url": "https://status.northflank.com",
+        "domain": "status.northflank.com",
+        "score": 370,
+        "descendants": 281,
+        "by": "js4ever",
+        "tags": [],
+        "summary": "云计算平台Northflank证实遭受数据泄露，官方发布了详细的情况通报。"
+      },
+      {
+        "id": 50303172,
+        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "domain": "wired.com",
+        "score": 346,
+        "descendants": 235,
+        "by": "domhudson",
         "tags": [
-          "AI"
+          "Security"
         ],
-        "summary": "探讨 AI 工具虽然赋能 SRE 工作，但长期使用可能导致运维工程师的核心技能退化。"
-      },
-      {
-        "id": 50301854,
-        "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-        "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-        "domain": "binarysecurity.no",
-        "score": 192,
-        "descendants": 29,
-        "by": "swq115",
-        "tags": [],
-        "summary": "安全研究人员披露了 Azure 平台中存在的五个跨租户严重漏洞。"
-      },
-      {
-        "id": 50306008,
-        "title": "US tech stocks see sharp falls over AI cost fears",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "domain": "bbc.co.uk",
-        "score": 89,
-        "descendants": 38,
-        "by": "mindracer",
-        "tags": [
-          "AI"
-        ],
-        "summary": "由于市场对 AI 高昂成本投入的获利前景产生怀疑，美国科技股出现大幅下跌。"
-      },
-      {
-        "id": 50305637,
-        "title": "Florilegium: Procedural Flowers in LaTeX",
-        "url": "https://github.com/kevinraymond/florilegium",
-        "domain": "github.com",
-        "score": 28,
-        "descendants": 3,
-        "by": "nanna",
-        "tags": [],
-        "summary": "一个展示如何使用 LaTeX 语言通过程序生成精美花卉图案的项目。"
+        "summary": "深度回顾Binance曾遭遇的巨额黑客攻击，揭示其如何在短短20分钟内得手。"
       },
       {
         "id": 50263837,
         "title": "Breaking the open web won't stop the bad bots",
         "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
         "domain": "techpolicy.press",
-        "score": 15,
-        "descendants": 0,
+        "score": 203,
+        "descendants": 93,
         "by": "raybb",
         "tags": [
           "Web"
         ],
-        "summary": "观点文章指出通过破坏开放网络环境并不能有效阻挡恶意爬虫。"
+        "summary": "探讨当前防御机器人手段对开放网络造成的负面影响，并指出其无法根治恶意流量。"
       },
       {
-        "id": 50305480,
-        "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-        "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-        "domain": "npr.org",
-        "score": 81,
-        "descendants": 18,
-        "by": "paulpauper",
+        "id": 50309314,
+        "title": "Jules Verne's Lost Novel",
+        "url": "https://blue-continuum.com/verne-paris",
+        "domain": "blue-continuum.com",
+        "score": 86,
+        "descendants": 19,
+        "by": "dnetesn",
+        "tags": [],
+        "summary": "关于儒勒·凡尔纳一部失传已久的小说的发现与背景分析。"
+      },
+      {
+        "id": 50309266,
+        "title": "The oldest ice disappears and the Stone Age emerges from it",
+        "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+        "domain": "sciencenorway.no",
+        "score": 102,
+        "descendants": 39,
+        "by": "dxs",
+        "tags": [],
+        "summary": "随着冰川融化，埋藏于冰层下的石器时代遗迹正逐渐显露出来。"
+      },
+      {
+        "id": 50306442,
+        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "url": "https://github.com/dbreunig/nesformer",
+        "domain": "github.com",
+        "score": 199,
+        "descendants": 113,
+        "by": "dbreunig",
         "tags": [
-          "AI",
-          "Security",
-          "Hardware"
+          "Show HN"
         ],
-        "summary": "区块链情报公司指出北韩与针对币安平台的 63 亿美元黑客攻击存在关联。"
+        "summary": "展示了一个利用约1GB的Qwen模型权重实现任天堂主机模拟功能的创意项目。"
       }
     ],
     "insights": {
@@ -133,7 +133,7 @@
           "count": 2
         },
         {
-          "domain": "status.northflank.com",
+          "domain": "tng.episodle.com",
           "count": 1
         },
         {
@@ -141,22 +141,22 @@
           "count": 1
         }
       ],
-      "avg_score": 127,
+      "avg_score": 256,
       "max_score": {
         "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "score": 420
+        "score": 797
       },
       "most_discussed": {
         "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "comments": 367
+        "comments": 499
       },
       "hot_tags": [
-        "AI",
-        "Security",
+        "Show HN",
         "Web",
-        "Hardware"
+        "Security",
+        "AI"
       ]
     },
-    "summary": "今日 Hacker News 重点关注科技行业的安全隐患与 AI 发展的副作用，涵盖了从云平台漏洞、代码扩展插件后门到 AI 对 SRE 职业影响及市场情绪的深度讨论。整体呈现出技术安全审计与行业生态焦虑并存的趋势。"
+    "summary": "本期Hacker News焦点集中在网络安全与供应链攻击，重点报道了Cursor插件后门及Northflank数据泄露等重大安全事件。此外，技术社区对老旧硬件的复古改造以及AI与游戏模拟的跨界结合表现出浓厚兴趣。"
   }
 }
