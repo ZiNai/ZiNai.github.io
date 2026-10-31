@@ -158,5 +158,156 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在网络安全与供应链攻击，重点报道了Cursor插件后门及Northflank数据泄露等重大安全事件。此外，技术社区对老旧硬件的复古改造以及AI与游戏模拟的跨界结合表现出浓厚兴趣。"
+  },
+  "evening": {
+    "time": "2026-10-31 18:01",
+    "stories": [
+      {
+        "id": 50314085,
+        "title": "Switch Lowering in GCC",
+        "url": "https://xoranth.net/gcc-switch/",
+        "domain": "xoranth.net",
+        "score": 46,
+        "descendants": 1,
+        "by": "signa11",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50260753,
+        "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+        "url": "https://zebra.rodeo/en/blog/marelleo/",
+        "domain": "zebra.rodeo",
+        "score": 43,
+        "descendants": 13,
+        "by": "foOg",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ]
+      },
+      {
+        "id": 50313661,
+        "title": "Digital Minimalism",
+        "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+        "domain": "vitalik.eth.limo",
+        "score": 32,
+        "descendants": 12,
+        "by": "wilbertliu",
+        "tags": []
+      },
+      {
+        "id": 50307190,
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "domain": "virtuallyfun.com",
+        "score": 309,
+        "descendants": 88,
+        "by": "DHowett",
+        "tags": []
+      },
+      {
+        "id": 50277379,
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "url": "https://github.com/chris124567/cfsolve",
+        "domain": "github.com",
+        "score": 205,
+        "descendants": 60,
+        "by": "costco",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50303172,
+        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "domain": "wired.com",
+        "score": 452,
+        "descendants": 303,
+        "by": "domhudson",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 50305025,
+        "title": "Northflank Breached",
+        "url": "https://status.northflank.com",
+        "domain": "status.northflank.com",
+        "score": 433,
+        "descendants": 315,
+        "by": "js4ever",
+        "tags": []
+      },
+      {
+        "id": 50312756,
+        "title": "Tell HN: Scribd Breached",
+        "url": "https://news.ycombinator.com/item?id=50312756",
+        "domain": "news.ycombinator.com",
+        "score": 203,
+        "descendants": 84,
+        "by": "x______________",
+        "tags": []
+      },
+      {
+        "id": 50263837,
+        "title": "Breaking the open web won't stop the bad bots",
+        "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+        "domain": "techpolicy.press",
+        "score": 260,
+        "descendants": 111,
+        "by": "raybb",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50290652,
+        "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+        "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+        "domain": "thedataexchange.media",
+        "score": 28,
+        "descendants": 2,
+        "by": "datascientist",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "xoranth.net",
+          "count": 1
+        },
+        {
+          "domain": "zebra.rodeo",
+          "count": 1
+        },
+        {
+          "domain": "vitalik.eth.limo",
+          "count": 1
+        }
+      ],
+      "avg_score": 201,
+      "max_score": {
+        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "score": 452
+      },
+      "most_discussed": {
+        "title": "Northflank Breached",
+        "comments": 315
+      },
+      "hot_tags": [
+        "Web",
+        "Systems",
+        "Show HN",
+        "Open Source",
+        "Security"
+      ]
+    },
+    "summary": ""
   }
 }
