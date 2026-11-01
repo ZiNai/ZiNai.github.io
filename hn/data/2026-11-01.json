@@ -1,151 +1,160 @@
 {
   "morning": {
-    "time": "2026-11-01 00:43",
+    "time": "2026-11-01 10:55",
     "stories": [
       {
-        "id": 50316531,
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-        "domain": "blog.talosintelligence.com",
-        "score": 71,
-        "descendants": 12,
-        "by": "khalidkhair",
+        "id": 50319510,
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "domain": "karpathy.bearblog.dev",
+        "score": 800,
+        "descendants": 255,
+        "by": "karpathy",
         "tags": [
-          "AI"
-        ]
+          "Systems",
+          "Security"
+        ],
+        "summary": "一个根据Hacker News推荐视频构建的视频聚合平台。"
       },
       {
-        "id": 50317363,
-        "title": "Casio Watches of the 1980s",
-        "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-        "domain": "casio.com",
-        "score": 21,
-        "descendants": 5,
-        "by": "karagenit",
-        "tags": []
+        "id": 50320963,
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "domain": "smithsonianmag.com",
+        "score": 185,
+        "descendants": 54,
+        "by": "ecares",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "讲述了一位意大利农民在阁楼发现神秘种子并成功种植的奇闻。"
+      },
+      {
+        "id": 50319143,
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "domain": "atlasum.net",
+        "score": 369,
+        "descendants": 175,
+        "by": "oger",
+        "tags": [
+          "Security"
+        ],
+        "summary": "关于一个高危评级的TCP Use-After-Free漏洞披露。"
+      },
+      {
+        "id": 50320995,
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "domain": "github.com",
+        "score": 98,
+        "descendants": 49,
+        "by": "guregodevo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍由多个Qwen 3.8-27B模型组成的系统在LiveCodeBench测试中击败了强劲对手。"
+      },
+      {
+        "id": 50321048,
+        "title": "Altoids Project",
+        "url": "https://uvdn7.github.io/altoids-project/",
+        "domain": "uvdn7.github.io",
+        "score": 53,
+        "descendants": 3,
+        "by": "uvdn7",
+        "tags": [],
+        "summary": "关于Altoids Project项目的技术分享。"
+      },
+      {
+        "id": 50321130,
+        "title": "When electric cars were for women",
+        "url": "https://spectrum.ieee.org/early-electric-vehicles",
+        "domain": "spectrum.ieee.org",
+        "score": 46,
+        "descendants": 21,
+        "by": "dverlaeckt80",
+        "tags": [],
+        "summary": "回顾了早期电动汽车被定位为女性专属交通工具的历史背景。"
+      },
+      {
+        "id": 50318720,
+        "title": "It's the memory latency, stupid",
+        "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+        "domain": "pivotlake.io",
+        "score": 139,
+        "descendants": 42,
+        "by": "ntur1337",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "深入探讨内存延迟对系统性能的决定性影响。"
+      },
+      {
+        "id": 50313051,
+        "title": "First response from the Project Suncatcher prototype satellite",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+        "domain": "blog.google",
+        "score": 38,
+        "descendants": 37,
+        "by": "praccu",
+        "tags": [],
+        "summary": "谷歌分享Project Suncatcher原型卫星收到的首次响应。"
+      },
+      {
+        "id": 50311045,
+        "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+        "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+        "domain": "maketecheasier.com",
+        "score": 39,
+        "descendants": 12,
+        "by": "ohjeez",
+        "tags": [],
+        "summary": "分析阿雷西博望远镜坍塌背后的核心工程问题：连接套筒内的锌蠕变现象。"
       },
       {
         "id": 50314666,
         "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
         "url": "https://piefed.world/post/1503394",
         "domain": "piefed.world",
-        "score": 184,
-        "descendants": 125,
+        "score": 311,
+        "descendants": 182,
         "by": "DeepLogin",
-        "tags": []
-      },
-      {
-        "id": 50314699,
-        "title": "We Took over ChatGPT Accounts",
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "domain": "parameter.ai",
-        "score": 197,
-        "descendants": 101,
-        "by": "armcat",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50314654,
-        "title": "Serbia just elected the world's brainiest parliament",
-        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-        "domain": "science.org",
-        "score": 612,
-        "descendants": 353,
-        "by": "input_sh",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "id": 50314085,
-        "title": "Switch Lowering in GCC",
-        "url": "https://xoranth.net/gcc-switch/",
-        "domain": "xoranth.net",
-        "score": 141,
-        "descendants": 29,
-        "by": "signa11",
-        "tags": [
-          "Systems"
-        ]
-      },
-      {
-        "id": 50261253,
-        "title": "Simple circuits can create complex behaviors",
-        "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-        "domain": "aatishb.com",
-        "score": 88,
-        "descendants": 18,
-        "by": "aatish",
-        "tags": []
-      },
-      {
-        "id": 50317484,
-        "title": "A/SIDE – Private photo sharing and encrypted messages",
-        "url": "https://a-side.social/",
-        "domain": "a-side.social",
-        "score": 3,
-        "descendants": 0,
-        "by": "eustoria",
-        "tags": [
-          "Security"
-        ]
-      },
-      {
-        "id": 50316760,
-        "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-        "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-        "domain": "torrentfreak.com",
-        "score": 46,
-        "descendants": 25,
-        "by": "WesleyGrant782",
-        "tags": [
-          "Science"
-        ]
-      },
-      {
-        "id": 50271052,
-        "title": "Reading and writing are less symmetric than you (probably) think",
-        "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
-        "domain": "fgiesen.wordpress.com",
-        "score": 20,
-        "descendants": 2,
-        "by": "luu",
-        "tags": []
+        "tags": [],
+        "summary": "Signal分支应用Molly因长期未更新导致安全漏洞风险，引发用户关注。"
       }
     ],
     "insights": {
       "top_domains": [
         {
-          "domain": "blog.talosintelligence.com",
+          "domain": "karpathy.bearblog.dev",
           "count": 1
         },
         {
-          "domain": "casio.com",
+          "domain": "smithsonianmag.com",
           "count": 1
         },
         {
-          "domain": "piefed.world",
+          "domain": "atlasum.net",
           "count": 1
         }
       ],
-      "avg_score": 138,
+      "avg_score": 208,
       "max_score": {
-        "title": "Serbia just elected the world's brainiest parliament",
-        "score": 612
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "score": 800
       },
       "most_discussed": {
-        "title": "Serbia just elected the world's brainiest parliament",
-        "comments": 353
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "comments": 255
       },
       "hot_tags": [
-        "AI",
         "Systems",
         "Security",
-        "Science"
+        "Hardware",
+        "AI"
       ]
     },
-    "summary": ""
+    "summary": "本期Hacker News热门话题涵盖了技术漏洞披露、AI模型性能突破及极客趣味项目。社区关注点广泛，从严重的TCP安全风险到历史技术演变，显示了技术爱好者对前沿算力发展与基础设施底层安全的持续性投入。"
   }
 }
