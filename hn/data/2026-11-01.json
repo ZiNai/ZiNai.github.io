@@ -156,5 +156,170 @@
       ]
     },
     "summary": "本期Hacker News热门话题涵盖了技术漏洞披露、AI模型性能突破及极客趣味项目。社区关注点广泛，从严重的TCP安全风险到历史技术演变，显示了技术爱好者对前沿算力发展与基础设施底层安全的持续性投入。"
+  },
+  "evening": {
+    "time": "2026-11-01 18:52",
+    "stories": [
+      {
+        "id": 50319510,
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "domain": "karpathy.bearblog.dev",
+        "score": 1368,
+        "descendants": 379,
+        "by": "karpathy",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "一个基于 Hacker News 热门讨论内容聚合生成的视频观看平台。"
+      },
+      {
+        "id": 50320963,
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "domain": "smithsonianmag.com",
+        "score": 461,
+        "descendants": 136,
+        "by": "ecares",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "意大利农夫在阁楼发现神秘种子并成功种植的发现之旅。"
+      },
+      {
+        "id": 50290480,
+        "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+        "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+        "domain": "youtube.com",
+        "score": 32,
+        "descendants": 14,
+        "by": "surprisetalk",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "展示如何完全不依赖 AI，手写实现 Linux 基础工具集的硬核教学视频。"
+      },
+      {
+        "id": 50322173,
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "domain": "jetstream.security",
+        "score": 132,
+        "descendants": 53,
+        "by": "doodlesdev",
+        "tags": [],
+        "summary": "巴西法院首次因律师在法律文书中利用提示词注入攻击而对其进行制裁。"
+      },
+      {
+        "id": 50303984,
+        "title": "Running a bootstrapped SaaS for 20 years with my brother",
+        "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+        "domain": "blog.zamzar.com",
+        "score": 98,
+        "descendants": 25,
+        "by": "whyleyc",
+        "tags": [],
+        "summary": "一对兄弟经营二十年并持续盈利的自力更生型 SaaS 项目经验分享。"
+      },
+      {
+        "id": 50323848,
+        "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
+        "url": "https://github.com/l0ng-ai/openidea",
+        "domain": "github.com",
+        "score": 28,
+        "descendants": 33,
+        "by": "theanonymousone",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "基于 Rust 语言重新构建的开源 IDE 项目。"
+      },
+      {
+        "id": 50319143,
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "domain": "atlasum.net",
+        "score": 515,
+        "descendants": 239,
+        "by": "oger",
+        "tags": [
+          "Security"
+        ],
+        "summary": "深度解析一个 CVSS 评分为 9.8 的 TCP Use-After-Free 高危漏洞。"
+      },
+      {
+        "id": 50320995,
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "domain": "github.com",
+        "score": 242,
+        "descendants": 115,
+        "by": "guregodevo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "通过五个 Qwen3.8-27B 模型协作，在 LiveCodeBench 评测中击败 Fable 5 的 AI 编码方案。"
+      },
+      {
+        "id": 50323088,
+        "title": "The AI cost of JavaScript frameworks",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "domain": "nolanlawson.com",
+        "score": 81,
+        "descendants": 48,
+        "by": "luu",
+        "tags": [
+          "AI",
+          "JavaScript"
+        ],
+        "summary": "探讨现代 JavaScript 框架背后潜藏的 AI 开发与维护成本问题。"
+      },
+      {
+        "id": 50324118,
+        "title": "A tiny Pacific country rolls out universal basic income",
+        "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+        "domain": "economist.com",
+        "score": 5,
+        "descendants": 1,
+        "by": "motionlessveloc",
+        "tags": [],
+        "summary": "一个小型太平洋岛国尝试推行全民基本收入（UBI）政策的最新进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "karpathy.bearblog.dev",
+          "count": 1
+        },
+        {
+          "domain": "smithsonianmag.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 296,
+      "max_score": {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "score": 1368
+      },
+      "most_discussed": {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "comments": 379
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 AI 技术突破与法律伦理的碰撞上，包括 AI 模型在编码竞技中的领先表现及法庭层面的提示词注入争议。同时，开发者社区关注系统底层构建、Linux 工具链复现以及长青 SaaS 的经营经验分享。"
   }
 }
