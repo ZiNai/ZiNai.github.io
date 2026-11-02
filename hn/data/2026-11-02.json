@@ -155,5 +155,167 @@
       ]
     },
     "summary": "本期Hacker News热门内容涵盖了技术创新、硬件安全与社会议题。除了AI与编程工具的开发讨论外，社区对企业隐私安全以及科技在日常生活中的趣味应用表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-11-02 11:03",
+    "stories": [
+      {
+        "id": 50326821,
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "domain": "hackerbooks.org",
+        "score": 995,
+        "descendants": 190,
+        "by": "roansh",
+        "tags": [
+          "Security",
+          "Show HN"
+        ],
+        "summary": "一个旨在汇总 Hacker News 提及书籍的平台，类似于针对阅读内容的推荐引擎。"
+      },
+      {
+        "id": 50331998,
+        "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+        "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+        "domain": "picon.dev",
+        "score": 39,
+        "descendants": 11,
+        "by": "devpicon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨在 AI 编写代码比例提升的背景下，人类工程师在架构设计与系统工程中的核心地位。"
+      },
+      {
+        "id": 50332163,
+        "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+        "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+        "domain": "fosscomics.com",
+        "score": 10,
+        "descendants": 0,
+        "by": "joonehur",
+        "tags": [],
+        "summary": "以漫画形式回顾 BSD Unix 发展的早期历史及其对现代自由开源软件的影响。"
+      },
+      {
+        "id": 50319510,
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "domain": "karpathy.bearblog.dev",
+        "score": 2329,
+        "descendants": 542,
+        "by": "karpathy",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "通过挖掘 Hacker News 社区推荐的视频资源，打造的一个精选 YouTube 聚合平台。"
+      },
+      {
+        "id": 50331402,
+        "title": "OccupySaaS",
+        "url": "https://occupysaas.com/",
+        "domain": "occupysaas.com",
+        "score": 80,
+        "descendants": 49,
+        "by": "misswaterfairy",
+        "tags": [],
+        "summary": "针对 SaaS 行业现状的讨论，探讨相关商业模式与市场环境的变革。"
+      },
+      {
+        "id": 50299811,
+        "title": "Nibnib: Image compression with extreme decompression speed",
+        "url": "https://github.com/raphlinus/nibnib",
+        "domain": "github.com",
+        "score": 108,
+        "descendants": 19,
+        "by": "raphlinus",
+        "tags": [],
+        "summary": "介绍一种专注于极致解压速度的图像压缩技术方案及其性能表现。"
+      },
+      {
+        "id": 50328896,
+        "title": "Ask HN: Which TV do you recommend for privacy?",
+        "url": "https://news.ycombinator.com/item?id=50328896",
+        "domain": "news.ycombinator.com",
+        "score": 170,
+        "descendants": 331,
+        "by": "LecroJS",
+        "tags": [
+          "Security",
+          "Ask HN"
+        ],
+        "summary": "社区讨论帖，征集关于注重隐私保护的智能电视选购建议。"
+      },
+      {
+        "id": 50312408,
+        "title": "Postgres 19 is late, and it's AI's fault",
+        "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+        "domain": "rhaas.blogspot.com",
+        "score": 100,
+        "descendants": 71,
+        "by": "soheilpro",
+        "tags": [
+          "AI",
+          "Database"
+        ],
+        "summary": "深入分析 Postgres 19 版本发布延迟的原因，并指出 AI 技术浪潮对开发周期的潜在冲击。"
+      },
+      {
+        "id": 50271106,
+        "title": "Tips for more effective fuzz testing with AFL++",
+        "url": "https://nullprogram.com/blog/2025/02/05/",
+        "domain": "nullprogram.com",
+        "score": 86,
+        "descendants": 14,
+        "by": "luu",
+        "tags": [],
+        "summary": "分享关于提升 AFL++ 模糊测试效率的实战技巧与优化经验。"
+      },
+      {
+        "id": 50303088,
+        "title": "Keeping Up Appearances – The women taking over the funeral industry",
+        "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+        "domain": "lareviewofbooks.org",
+        "score": 28,
+        "descendants": 5,
+        "by": "TMWNN",
+        "tags": [],
+        "summary": "探讨女性如何改变并接管传统丧葬行业的行业观察报道。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hackerbooks.org",
+          "count": 1
+        },
+        {
+          "domain": "picon.dev",
+          "count": 1
+        },
+        {
+          "domain": "fosscomics.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 394,
+      "max_score": {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "score": 2329
+      },
+      "most_discussed": {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "comments": 542
+      },
+      "hot_tags": [
+        "Security",
+        "AI",
+        "Show HN",
+        "Systems",
+        "Ask HN"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热度集中在开发者工具与基础设施创新，AI 对工程实践及软件演进的影响成为深度探讨的焦点。此外，关于隐私保护的实用建议以及行业跨界发展的趋势也引发了用户的广泛关注与讨论。"
   }
 }
