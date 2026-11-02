@@ -1,0 +1,149 @@
+{
+  "morning": {
+    "time": "2026-11-03 05:18",
+    "stories": [
+      {
+        "id": 50341174,
+        "title": "Astra can read and write weights to improve Qwen",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+        "domain": "rikiyat.github.io",
+        "score": 1071,
+        "descendants": 338,
+        "by": "dbreunig",
+        "tags": []
+      },
+      {
+        "id": 50340088,
+        "title": "Show HN: Subvocal – Talk to your computer without making noise",
+        "url": "https://news.ycombinator.com/item?id=50340088",
+        "domain": "news.ycombinator.com",
+        "score": 370,
+        "descendants": 225,
+        "by": "aarushyadav",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50339397,
+        "title": "US boy names that became girl names and vice versa",
+        "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+        "domain": "namedaisy.com",
+        "score": 184,
+        "descendants": 208,
+        "by": "xoobdev",
+        "tags": []
+      },
+      {
+        "id": 50339913,
+        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+        "url": "https://momentic.ai/",
+        "domain": "momentic.ai",
+        "score": 93,
+        "descendants": 59,
+        "by": "wuweiweiwu",
+        "tags": [
+          "Startup"
+        ]
+      },
+      {
+        "id": 50339221,
+        "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+        "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+        "domain": "p.migdal.pl",
+        "score": 150,
+        "descendants": 29,
+        "by": "stared",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50336518,
+        "title": "If you love a website, back it up",
+        "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+        "domain": "blog.mistys-internet.website",
+        "score": 272,
+        "descendants": 65,
+        "by": "ingve",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50338728,
+        "title": "Ask HN: Who is hiring? (November 2026)",
+        "url": "https://news.ycombinator.com/item?id=50338728",
+        "domain": "news.ycombinator.com",
+        "score": 129,
+        "descendants": 109,
+        "by": "whoishiring",
+        "tags": [
+          "Ask HN"
+        ]
+      },
+      {
+        "id": 50341502,
+        "title": "SOML – A Config Format for Humans",
+        "url": "https://github.com/soml-lang/soml",
+        "domain": "github.com",
+        "score": 45,
+        "descendants": 34,
+        "by": "microflash",
+        "tags": []
+      },
+      {
+        "id": 50340369,
+        "title": "Let Me Ch...",
+        "url": "https://blog.alxgsv.com/let-me-check/",
+        "domain": "blog.alxgsv.com",
+        "score": 155,
+        "descendants": 55,
+        "by": "alxgsv",
+        "tags": []
+      },
+      {
+        "id": 50341028,
+        "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+        "domain": "devblogs.microsoft.com",
+        "score": 61,
+        "descendants": 19,
+        "by": "ibobev",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "news.ycombinator.com",
+          "count": 2
+        },
+        {
+          "domain": "rikiyat.github.io",
+          "count": 1
+        },
+        {
+          "domain": "namedaisy.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 253,
+      "max_score": {
+        "title": "Astra can read and write weights to improve Qwen",
+        "score": 1071
+      },
+      "most_discussed": {
+        "title": "Astra can read and write weights to improve Qwen",
+        "comments": 338
+      },
+      "hot_tags": [
+        "Show HN",
+        "Startup",
+        "Web",
+        "Ask HN"
+      ]
+    },
+    "summary": ""
+  }
+}
