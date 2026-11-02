@@ -317,5 +317,161 @@
       ]
     },
     "summary": "今日 Hacker News 社区热度集中在开发者工具与基础设施创新，AI 对工程实践及软件演进的影响成为深度探讨的焦点。此外，关于隐私保护的实用建议以及行业跨界发展的趋势也引发了用户的广泛关注与讨论。"
+  },
+  "evening": {
+    "time": "2026-11-02 19:46",
+    "stories": [
+      {
+        "id": 50326821,
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "domain": "hackerbooks.org",
+        "score": 1454,
+        "descendants": 244,
+        "by": "roansh",
+        "tags": [
+          "Security",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50312408,
+        "title": "Postgres 19 is late because so many more bugs are being found now",
+        "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+        "domain": "rhaas.blogspot.com",
+        "score": 529,
+        "descendants": 328,
+        "by": "soheilpro",
+        "tags": [
+          "Database"
+        ]
+      },
+      {
+        "id": 50333339,
+        "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+        "url": "https://wikihack.netlify.app",
+        "domain": "wikihack.netlify.app",
+        "score": 227,
+        "descendants": 72,
+        "by": "aizk",
+        "tags": [
+          "Security",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50319510,
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "domain": "karpathy.bearblog.dev",
+        "score": 2618,
+        "descendants": 577,
+        "by": "karpathy",
+        "tags": [
+          "Systems",
+          "Security"
+        ]
+      },
+      {
+        "id": 50334704,
+        "title": "Show HN: I've updated my Linux System Call website and API",
+        "url": "https://syscall.sh/",
+        "domain": "syscall.sh",
+        "score": 29,
+        "descendants": 12,
+        "by": "guitmz",
+        "tags": [
+          "Web",
+          "Systems",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50332163,
+        "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+        "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+        "domain": "fosscomics.com",
+        "score": 143,
+        "descendants": 15,
+        "by": "joonehur",
+        "tags": []
+      },
+      {
+        "id": 50331957,
+        "title": "Bones may release proteins that slow aging and extend life span",
+        "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+        "domain": "science.org",
+        "score": 128,
+        "descendants": 27,
+        "by": "EA-3167",
+        "tags": []
+      },
+      {
+        "id": 50328896,
+        "title": "Ask HN: Which TV do you recommend for privacy?",
+        "url": "https://news.ycombinator.com/item?id=50328896",
+        "domain": "news.ycombinator.com",
+        "score": 436,
+        "descendants": 566,
+        "by": "LecroJS",
+        "tags": [
+          "Security",
+          "Ask HN"
+        ]
+      },
+      {
+        "id": 50315217,
+        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+        "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+        "domain": "fz-juelich.de",
+        "score": 147,
+        "descendants": 65,
+        "by": "_Microft",
+        "tags": []
+      },
+      {
+        "id": 50331784,
+        "title": "Trigger.dev customer environment variables exposed",
+        "url": "https://trigger.dev/blog/security-incident-nov-2026",
+        "domain": "trigger.dev",
+        "score": 99,
+        "descendants": 43,
+        "by": "anurag",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hackerbooks.org",
+          "count": 1
+        },
+        {
+          "domain": "rhaas.blogspot.com",
+          "count": 1
+        },
+        {
+          "domain": "wikihack.netlify.app",
+          "count": 1
+        }
+      ],
+      "avg_score": 581,
+      "max_score": {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "score": 2618
+      },
+      "most_discussed": {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "comments": 577
+      },
+      "hot_tags": [
+        "Security",
+        "Show HN",
+        "Systems",
+        "Database",
+        "Web"
+      ]
+    },
+    "summary": ""
   }
 }
