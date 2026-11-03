@@ -294,5 +294,162 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-11-03 19:26",
+    "stories": [
+      {
+        "id": 50341174,
+        "title": "Astra can read and write weights to improve Qwen",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+        "domain": "rikiyat.github.io",
+        "score": 2711,
+        "descendants": 819,
+        "by": "dbreunig",
+        "tags": [],
+        "summary": "介绍一种通过读写权重来优化Qwen模型性能的新技术方案。"
+      },
+      {
+        "id": 50348962,
+        "title": "Nvidia – open-source auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "domain": "github.com",
+        "score": 87,
+        "descendants": 27,
+        "by": "campervans",
+        "tags": [
+          "Hardware",
+          "Open Source"
+        ],
+        "summary": "Nvidia推出的开源自动本体构建工具，旨在自动化数据建模与分类。"
+      },
+      {
+        "id": 50321605,
+        "title": "Toit v2.0.0",
+        "url": "https://toit.io/blog/toit-v2-0-0/",
+        "domain": "toit.io",
+        "score": 97,
+        "descendants": 32,
+        "by": "floitsch",
+        "tags": [],
+        "summary": "物联网编程语言Toit发布2.0.0版本，进一步提升了边缘设备开发的稳定性和易用性。"
+      },
+      {
+        "id": 50346849,
+        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+        "domain": "github.com",
+        "score": 243,
+        "descendants": 49,
+        "by": "bpierre",
+        "tags": [],
+        "summary": "一款可以将可视艺术图案烧录到CD、DVD及蓝光光盘表面的复古风格软件。"
+      },
+      {
+        "id": 50346981,
+        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/",
+        "domain": "hackertimes.ca",
+        "score": 302,
+        "descendants": 90,
+        "by": "polpenn",
+        "tags": [
+          "Security",
+          "Show HN"
+        ],
+        "summary": "一个致敬《纽约时报》排版的Hacker News信息聚合展示页面。"
+      },
+      {
+        "id": 50334523,
+        "title": "European RISC-V Industrial Computing Initiative",
+        "url": "https://erici.eu",
+        "domain": "erici.eu",
+        "score": 127,
+        "descendants": 66,
+        "by": "ymz5",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "欧洲RISC-V工业计算计划成立，旨在推动RISC-V架构在工业领域的标准化与普及。"
+      },
+      {
+        "id": 50340088,
+        "title": "Show HN: Subvocal – Talk to your computer without making noise",
+        "url": "https://news.ycombinator.com/item?id=50340088",
+        "domain": "news.ycombinator.com",
+        "score": 711,
+        "descendants": 344,
+        "by": "aarushyadav",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示一款通过捕捉默读时的微小发音动作来实现静默语音交互的计算机控制技术。"
+      },
+      {
+        "id": 50350004,
+        "title": "Revolut moves to self-hosted GLM",
+        "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+        "domain": "twitter.com",
+        "score": 75,
+        "descendants": 43,
+        "by": "pretext",
+        "tags": [],
+        "summary": "金融科技公司Revolut宣布转向自托管GLM模型，以提升数据隐私与自主控制权。"
+      },
+      {
+        "id": 50332342,
+        "title": "Katamari Damacy but it's The Met collection",
+        "url": "https://katamari.vaguespac.es/",
+        "domain": "katamari.vaguespac.es",
+        "score": 11,
+        "descendants": 3,
+        "by": "thebigship",
+        "tags": [],
+        "summary": "将大都会艺术博物馆馆藏融入《块魂》游戏玩法的创意互动网页项目。"
+      },
+      {
+        "id": 50320904,
+        "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+        "url": "https://www.argmin.net/p/galactus-the-devourer",
+        "domain": "argmin.net",
+        "score": 63,
+        "descendants": 41,
+        "by": "sebg",
+        "tags": [],
+        "summary": "深入探讨高效算法与指数时间假设的理论知识及其在复杂问题求解中的局限性。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "rikiyat.github.io",
+          "count": 1
+        },
+        {
+          "domain": "toit.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 443,
+      "max_score": {
+        "title": "Astra can read and write weights to improve Qwen",
+        "score": 2711
+      },
+      "most_discussed": {
+        "title": "Astra can read and write weights to improve Qwen",
+        "comments": 819
+      },
+      "hot_tags": [
+        "Hardware",
+        "Show HN",
+        "Open Source",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门话题集中在AI技术应用与硬件创新，包括模型权重的读写优化、自托管AI部署及RISC-V工业化进程。此外，社区开发者展示了独特的创意项目，涵盖从数据可视化到交互设计的技术创新。"
   }
 }
