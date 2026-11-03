@@ -145,5 +145,154 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-11-03 12:21",
+    "stories": [
+      {
+        "id": 50347683,
+        "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+        "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
+        "domain": "keepingup.com",
+        "score": 115,
+        "descendants": 33,
+        "by": "jpmulhausen",
+        "tags": []
+      },
+      {
+        "id": 50341174,
+        "title": "Astra can read and write weights to improve Qwen",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+        "domain": "rikiyat.github.io",
+        "score": 2152,
+        "descendants": 699,
+        "by": "dbreunig",
+        "tags": []
+      },
+      {
+        "id": 50346981,
+        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/",
+        "domain": "hackertimes.ca",
+        "score": 93,
+        "descendants": 38,
+        "by": "polpenn",
+        "tags": [
+          "Security",
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50346849,
+        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+        "domain": "github.com",
+        "score": 83,
+        "descendants": 21,
+        "by": "bpierre",
+        "tags": []
+      },
+      {
+        "id": 50340088,
+        "title": "Show HN: Subvocal – Talk to your computer without making noise",
+        "url": "https://news.ycombinator.com/item?id=50340088",
+        "domain": "news.ycombinator.com",
+        "score": 598,
+        "descendants": 319,
+        "by": "aarushyadav",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50345924,
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai/",
+        "domain": "openai.com",
+        "score": 89,
+        "descendants": 30,
+        "by": "makeramen",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50339397,
+        "title": "US boy names that became girl names and vice versa",
+        "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+        "domain": "namedaisy.com",
+        "score": 330,
+        "descendants": 330,
+        "by": "xoobdev",
+        "tags": []
+      },
+      {
+        "id": 50336518,
+        "title": "If you love a website, back it up",
+        "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+        "domain": "blog.mistys-internet.website",
+        "score": 443,
+        "descendants": 100,
+        "by": "ingve",
+        "tags": [
+          "Web"
+        ]
+      },
+      {
+        "id": 50347464,
+        "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+        "url": "https://arxiv.org/abs/2608.25820",
+        "domain": "arxiv.org",
+        "score": 9,
+        "descendants": 0,
+        "by": "teleforce",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 50323123,
+        "title": "Resisting Cognitive Surrender",
+        "url": "https://knlb.dev/essays/surrender",
+        "domain": "knlb.dev",
+        "score": 33,
+        "descendants": 8,
+        "by": "knlb",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "keepingup.com",
+          "count": 1
+        },
+        {
+          "domain": "rikiyat.github.io",
+          "count": 1
+        },
+        {
+          "domain": "hackertimes.ca",
+          "count": 1
+        }
+      ],
+      "avg_score": 394,
+      "max_score": {
+        "title": "Astra can read and write weights to improve Qwen",
+        "score": 2152
+      },
+      "most_discussed": {
+        "title": "Astra can read and write weights to improve Qwen",
+        "comments": 699
+      },
+      "hot_tags": [
+        "Show HN",
+        "Security",
+        "AI",
+        "Web",
+        "Open Source"
+      ]
+    },
+    "summary": ""
   }
 }
