@@ -1,0 +1,156 @@
+{
+  "morning": {
+    "time": "2026-11-05 03:15",
+    "stories": [
+      {
+        "id": 50364336,
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "domain": "spectrum.ieee.org",
+        "score": 793,
+        "descendants": 486,
+        "by": "pseudolus",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50368626,
+        "title": "Progress on provable inference for large language models",
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "domain": "anthropic.com",
+        "score": 93,
+        "descendants": 34,
+        "by": "ltononro",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50369106,
+        "title": "A New Go API for JSON",
+        "url": "https://go.dev/blog/jsonv2",
+        "domain": "go.dev",
+        "score": 49,
+        "descendants": 8,
+        "by": "olexsmir",
+        "tags": []
+      },
+      {
+        "id": 50366522,
+        "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+        "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+        "domain": "99percentinvisible.org",
+        "score": 178,
+        "descendants": 108,
+        "by": "zenincognito",
+        "tags": []
+      },
+      {
+        "id": 50362905,
+        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "domain": "mindstudio.ai",
+        "score": 497,
+        "descendants": 223,
+        "by": "novaRom",
+        "tags": [
+          "AI",
+          "Systems",
+          "Security",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50368804,
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "domain": "news.ycombinator.com",
+        "score": 21,
+        "descendants": 17,
+        "by": "lukeigel",
+        "tags": [
+          "AI",
+          "Startup"
+        ]
+      },
+      {
+        "id": 50369146,
+        "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+        "domain": "bloomberg.com",
+        "score": 83,
+        "descendants": 53,
+        "by": "dvaplima",
+        "tags": []
+      },
+      {
+        "id": 50367125,
+        "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+        "domain": "tomshardware.com",
+        "score": 276,
+        "descendants": 92,
+        "by": "rbanffy",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50366929,
+        "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+        "url": "https://pcdealcheck.com/",
+        "domain": "pcdealcheck.com",
+        "score": 61,
+        "descendants": 30,
+        "by": "adlep",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50365755,
+        "title": "North Korean fake job interview led to $6.3B Binance heist",
+        "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+        "domain": "theregister.com",
+        "score": 423,
+        "descendants": 250,
+        "by": "smalltech",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "spectrum.ieee.org",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "go.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 247,
+      "max_score": {
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "score": 793
+      },
+      "most_discussed": {
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "comments": 486
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems",
+        "Security",
+        "Startup"
+      ]
+    },
+    "summary": ""
+  }
+}
