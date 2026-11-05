@@ -152,5 +152,160 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-11-05 11:58",
+    "stories": [
+      {
+        "id": 50371246,
+        "title": "Residential proxies detected on White House network",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "domain": "layer3intel.com",
+        "score": 777,
+        "descendants": 242,
+        "by": "Rasbora",
+        "tags": [],
+        "summary": "白宫网络被发现使用住宅代理IP，引发了对国家级网络基础设施安全性和隐私泄露的担忧。"
+      },
+      {
+        "id": 50373308,
+        "title": "Starfall – Affordable, routine access to microgravity",
+        "url": "https://www.spacex.com/starfall",
+        "domain": "spacex.com",
+        "score": 132,
+        "descendants": 76,
+        "by": "gmays",
+        "tags": [],
+        "summary": "SpaceX推出的Starfall项目旨在提供低成本、高频次的微重力环境实验机会。"
+      },
+      {
+        "id": 50372945,
+        "title": "Images 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6/",
+        "domain": "openai.com",
+        "score": 167,
+        "descendants": 111,
+        "by": "davidbarker",
+        "tags": [],
+        "summary": "OpenAI发布了Images 2.6版本，进一步提升了其图像生成模型的性能表现。"
+      },
+      {
+        "id": 50372929,
+        "title": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+        "domain": "openai.com",
+        "score": 196,
+        "descendants": 113,
+        "by": "dangelosaurus",
+        "tags": [],
+        "summary": "探讨了减少AI系统复杂决策路径的技术路径及其对模型可解释性的影响。"
+      },
+      {
+        "id": 50369925,
+        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "url": "https://www.ricursive.com/ripple",
+        "domain": "ricursive.com",
+        "score": 243,
+        "descendants": 88,
+        "by": "Philpax",
+        "tags": [],
+        "summary": "Ripple-65B模型预览版发布，在智能代理编程任务上表现出色，树立了美国开源权重模型的新标杆。"
+      },
+      {
+        "id": 50366999,
+        "title": "Kimi K3.1 Pro model weights are out",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "domain": "huggingface.co",
+        "score": 415,
+        "descendants": 120,
+        "by": "abrarthought",
+        "tags": [
+          "AI"
+        ],
+        "summary": "月之暗面（Moonshot AI）发布了Kimi K3.1 Pro模型的权重，正式开放供社区使用。"
+      },
+      {
+        "id": 50342031,
+        "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+        "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
+        "domain": "cowboystatedaily.com",
+        "score": 49,
+        "descendants": 37,
+        "by": "rdmuser",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "牧场主呼吁公众停止随意“解救”被误认为走失的守卫犬，阐述了其作为工作犬的特殊生活习性。"
+      },
+      {
+        "id": 50370610,
+        "title": "Insects don't swarm at LED lights",
+        "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+        "domain": "birdsoutsidemywindow.org",
+        "score": 185,
+        "descendants": 100,
+        "by": "speckx",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "科学研究表明，特定频率的LED光源可以有效降低昆虫的趋光聚集现象。"
+      },
+      {
+        "id": 50369106,
+        "title": "A new Go API for JSON",
+        "url": "https://go.dev/blog/jsonv2",
+        "domain": "go.dev",
+        "score": 251,
+        "descendants": 110,
+        "by": "olexsmir",
+        "tags": [],
+        "summary": "Go官方团队推出了全新的JSON API，旨在优化处理JSON数据的性能与易用性。"
+      },
+      {
+        "id": 50372164,
+        "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+        "url": "https://icode4.coffee/?p=1746",
+        "domain": "icode4.coffee",
+        "score": 77,
+        "descendants": 4,
+        "by": "muricula",
+        "tags": [
+          "Security"
+        ],
+        "summary": "关于Xbox 360 Hypervisor破解系列的第三篇，重点拆解了恶意更新补丁的改进机制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 2
+        },
+        {
+          "domain": "layer3intel.com",
+          "count": 1
+        },
+        {
+          "domain": "spacex.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 249,
+      "max_score": {
+        "title": "Residential proxies detected on White House network",
+        "score": 777
+      },
+      "most_discussed": {
+        "title": "Residential proxies detected on White House network",
+        "comments": 242
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Hardware",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点主要围绕AI技术的前沿进展，包括OpenAI与国产大模型的最新动态及Agentic Coding的突破。同时，网络安全警示、硬件破解技术及生物科学领域的小众课题也引发了社区的广泛关注。"
   }
 }
