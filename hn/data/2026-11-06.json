@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-11-06 03:24",
+    "stories": [
+      {
+        "id": 50378228,
+        "title": "sshole",
+        "url": "https://sshhole.com",
+        "domain": "sshhole.com",
+        "score": 1725,
+        "descendants": 464,
+        "by": "josemrb",
+        "tags": [],
+        "summary": "探讨 OpenSSH 安全问题的相关讨论，分析其对服务器基础设施的潜在威胁。"
+      },
+      {
+        "id": 50379704,
+        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "domain": "alpinelinux.org",
+        "score": 395,
+        "descendants": 59,
+        "by": "pantalaimon",
+        "tags": [
+          "Systems",
+          "Security"
+        ],
+        "summary": "Alpine Linux 发布的关于 OpenSSH 服务器密码验证绕过漏洞的安全公告。"
+      },
+      {
+        "id": 50380810,
+        "title": "Motorola Signature 27 with GrapheneOS support",
+        "url": "https://motorolanews.com/motorola-signature-27-2/",
+        "domain": "motorolanews.com",
+        "score": 230,
+        "descendants": 134,
+        "by": "monneyboi",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "摩托罗拉 Signature 27 系列手机宣布正式支持 GrapheneOS 安全操作系统。"
+      },
+      {
+        "id": 50381383,
+        "title": "Window Sweaters",
+        "url": "https://github.com/saragordic/window-sweaters",
+        "domain": "github.com",
+        "score": 69,
+        "descendants": 24,
+        "by": "nickswalker",
+        "tags": [],
+        "summary": "介绍一个名为 Window Sweaters 的开源项目，用于管理窗口显示的实用工具。"
+      },
+      {
+        "id": 50349667,
+        "title": "The Lisp curse, now coming to your ecosystem",
+        "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+        "domain": "javahippie.net",
+        "score": 113,
+        "descendants": 73,
+        "by": "marcolinux",
+        "tags": [],
+        "summary": "分析“Lisp 诅咒”现象，讨论其模式如何蔓延至当今其他编程生态系统。"
+      },
+      {
+        "id": 50379576,
+        "title": "September in Servo: <progress>, rounded rectangles, and more",
+        "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+        "domain": "servo.org",
+        "score": 125,
+        "descendants": 27,
+        "by": "iamnothere",
+        "tags": [],
+        "summary": "Servo 浏览器引擎九月更新日志，包括对 <progress> 标签及圆角矩形渲染的支持改进。"
+      },
+      {
+        "id": 50381687,
+        "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+        "url": "https://github.com/rivet-dev/rivet",
+        "domain": "github.com",
+        "score": 29,
+        "descendants": 18,
+        "by": "NathanFlurry",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "YC 孵化的初创项目 Rivet，旨在帮助开发者在 S3 上规模化部署和编排 AI 智能体。"
+      },
+      {
+        "id": 50381033,
+        "title": "My psychophysics as a bilateral cochlear implant user",
+        "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+        "domain": "claude.ai",
+        "score": 102,
+        "descendants": 21,
+        "by": "mi-rae",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一名双侧人工耳蜗植入者分享个人心理物理学感官体验的深度见解。"
+      },
+      {
+        "id": 50378942,
+        "title": "I wish tech companies knew more about me",
+        "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+        "domain": "rakhim.exotext.com",
+        "score": 156,
+        "descendants": 137,
+        "by": "freetonik",
+        "tags": [],
+        "summary": "探讨用户对科技公司如何收集与利用个人数据信息的看法，以及对透明度的诉求。"
+      },
+      {
+        "id": 50382594,
+        "title": "How to Lie With Statistics (1954) [pdf]",
+        "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
+        "domain": "horace.org",
+        "score": 10,
+        "descendants": 0,
+        "by": "jruohonen",
+        "tags": [],
+        "summary": "经典统计学著作《统计数字会撒谎》的 PDF 文档分享，揭示数据操纵的常见陷阱。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "sshhole.com",
+          "count": 1
+        },
+        {
+          "domain": "alpinelinux.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 295,
+      "max_score": {
+        "title": "sshole",
+        "score": 1725
+      },
+      "most_discussed": {
+        "title": "sshole",
+        "comments": 464
+      },
+      "hot_tags": [
+        "Systems",
+        "Security",
+        "Startup",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在 OpenSSH 的安全漏洞及其引发的讨论，网络安全仍是社区关注的核心。同时，科技博主对个人隐私与数据透明度的反思，以及跨平台软硬件的技术动态也占据了重要讨论空间。"
+  }
+}
