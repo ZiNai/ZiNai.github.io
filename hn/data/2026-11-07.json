@@ -1,0 +1,154 @@
+{
+  "morning": {
+    "time": "2026-11-07 02:47",
+    "stories": [
+      {
+        "id": 50388001,
+        "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+        "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+        "domain": "reuters.com",
+        "score": 100,
+        "descendants": 104,
+        "by": "ChrisArchitect",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美国联邦航空管理局计划在2028年前全面淘汰空中交通管制系统中使用的软盘。"
+      },
+      {
+        "id": 50391456,
+        "title": "Tesla to wind down Cybertruck production",
+        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+        "domain": "nbcnews.com",
+        "score": 435,
+        "descendants": 1074,
+        "by": "PLenz",
+        "tags": [],
+        "summary": "特斯拉传出即将结束Cybertruck生产计划的消息，引发行业关注。"
+      },
+      {
+        "id": 50394855,
+        "title": "First steps in bare-metal programming using UEFI",
+        "url": "https://kevinboone.me/efitest_index.html",
+        "domain": "kevinboone.me",
+        "score": 78,
+        "descendants": 5,
+        "by": "LaSombra",
+        "tags": [],
+        "summary": "一份详细介绍如何利用UEFI进行裸机编程入门的技术指南。"
+      },
+      {
+        "id": 50394569,
+        "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+        "url": "https://github.com/anomalyco/rune",
+        "domain": "github.com",
+        "score": 64,
+        "descendants": 37,
+        "by": "mik3y",
+        "tags": [
+          "Rust",
+          "Web",
+          "Systems",
+          "Hardware"
+        ],
+        "summary": "一个支持多平台的原生GPU渲染Rust UI框架，旨在提供高性能界面开发体验。"
+      },
+      {
+        "id": 50395869,
+        "title": "Size-It-Up (Game)",
+        "url": "https://magnitudle.com/size-it-up",
+        "domain": "magnitudle.com",
+        "score": 16,
+        "descendants": 4,
+        "by": "whoishiding",
+        "tags": [],
+        "summary": "一款名为Size-It-Up的轻量级网页游戏。"
+      },
+      {
+        "id": 50396064,
+        "title": "We Know 15,579 Websites Are Infected. How Do We Tell Them?",
+        "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+        "domain": "scotthelme.co.uk",
+        "score": 16,
+        "descendants": 5,
+        "by": "speckx",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨如何识别并通知数以万计受感染网站的安全治理挑战。"
+      },
+      {
+        "id": 50392118,
+        "title": "Gemini Omni 1.2 Flash",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "domain": "blog.google",
+        "score": 226,
+        "descendants": 173,
+        "by": "thisisauserid",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布了Gemini 1.2 Flash Omni多模态模型。"
+      },
+      {
+        "id": 50389333,
+        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+        "url": "https://github.com/ppmpreetham/BUI",
+        "domain": "github.com",
+        "score": 574,
+        "descendants": 234,
+        "by": "ppmpreetham",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "一项关于Blender UI及运行时性能表现的研究，指出其运行速度优于GPUI。"
+      },
+      {
+        "id": 50395866,
+        "title": "Perplexity launches AI agents for work",
+        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+        "domain": "perplexity.ai",
+        "score": 14,
+        "descendants": 7,
+        "by": "cybermango",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Perplexity推出面向职场办公场景的AI智能体服务。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "nbcnews.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 169,
+      "max_score": {
+        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+        "score": 574
+      },
+      "most_discussed": {
+        "title": "Tesla to wind down Cybertruck production",
+        "comments": 1074
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Hardware",
+        "Rust",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了技术前沿与行业动向，包括AI模型与代理的快速演进、操作系统底层开发与图形界面框架的创新，以及航空业关键基础设施的数字化转型。此外，科技行业中关于产品策略调整与Web安全治理的讨论也引起了广泛关注。"
+  }
+}
