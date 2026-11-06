@@ -317,5 +317,165 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在系统安全与开源工具上，特别是OpenSSH漏洞及远程代码执行威胁引发了广泛讨论。此外，AI模型性能对比、实验性软硬件项目以及科学研究等话题也吸引了社区关注。"
+  },
+  "evening": {
+    "time": "2026-11-06 19:40",
+    "stories": [
+      {
+        "id": 50389333,
+        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+        "url": "https://github.com/ppmpreetham/BUI",
+        "domain": "github.com",
+        "score": 251,
+        "descendants": 102,
+        "by": "ppmpreetham",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨Blender用户界面与运行时的性能优势，指出其执行效率远超GPUI架构。"
+      },
+      {
+        "id": 50390124,
+        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+        "domain": "github.com",
+        "score": 113,
+        "descendants": 65,
+        "by": "microtonal",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "荷兰ASN银行因安全限制屏蔽非Google版Android，引发GrapheneOS等用户强烈不满。"
+      },
+      {
+        "id": 50390525,
+        "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+        "url": "https://jhr.pensoft.net/articles.php?id=9096",
+        "domain": "jhr.pensoft.net",
+        "score": 38,
+        "descendants": 7,
+        "by": "hitekker",
+        "tags": [],
+        "summary": "关于木蚁受困于巨大坑洞导致生存极限的生物学案例研究。"
+      },
+      {
+        "id": 50385272,
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "domain": "github.com",
+        "score": 1215,
+        "descendants": 383,
+        "by": "motoroco",
+        "tags": [
+          "AI",
+          "Web"
+        ],
+        "summary": "Claude Code存在将用户邮箱发送至外部网站的隐私隐患，引起广泛讨论。"
+      },
+      {
+        "id": 50389370,
+        "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+        "url": "https://apps.metaebene.me/en/kugelblitz",
+        "domain": "apps.metaebene.me",
+        "score": 100,
+        "descendants": 21,
+        "by": "luoc",
+        "tags": [],
+        "summary": "介绍一款专为Mac打造的Google Earth轻量化原生替代应用。"
+      },
+      {
+        "id": 50378228,
+        "title": "sshole",
+        "url": "https://sshhole.com",
+        "domain": "sshhole.com",
+        "score": 2742,
+        "descendants": 664,
+        "by": "josemrb",
+        "tags": [],
+        "summary": "一个引发社区高度关注的新兴项目，具体内容涉及SSH相关技术或争议性工具。"
+      },
+      {
+        "id": 50384233,
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "domain": "cve.org",
+        "score": 566,
+        "descendants": 206,
+        "by": "kuberwastaken",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "微软画图工具（MS Paint）被发现存在严重的远程代码执行漏洞。"
+      },
+      {
+        "id": 50387796,
+        "title": "Pwn.college",
+        "url": "https://pwn.college/",
+        "domain": "pwn.college",
+        "score": 171,
+        "descendants": 22,
+        "by": "tripdout",
+        "tags": [],
+        "summary": "介绍旨在通过实战教学培养网络安全人才的Pwn.college平台。"
+      },
+      {
+        "id": 50389260,
+        "title": "Hardcoded credentials and other issues in Tata Motors App",
+        "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+        "domain": "cert-in.org.in",
+        "score": 37,
+        "descendants": 7,
+        "by": "qtqtqt",
+        "tags": [],
+        "summary": "塔塔汽车（Tata Motors）官方应用被曝存在硬编码凭证等多项严重安全问题。"
+      },
+      {
+        "id": 50388122,
+        "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+        "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 113,
+        "descendants": 39,
+        "by": "jonbaer",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨从Linux到Wikipedia，志愿者群体如何通过协作构建现代互联网基础。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "jhr.pensoft.net",
+          "count": 1
+        },
+        {
+          "domain": "apps.metaebene.me",
+          "count": 1
+        }
+      ],
+      "avg_score": 535,
+      "max_score": {
+        "title": "sshole",
+        "score": 2742
+      },
+      "most_discussed": {
+        "title": "sshole",
+        "comments": 664
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Hardware",
+        "Web",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于网络安全与隐私风险，包括Claude Code的隐私争议、MS Paint远程代码执行漏洞及关键应用的安全隐患。同时，开发者社区对高性能GUI替代方案以及开源协作模式的关注依然热度不减。"
   }
 }
