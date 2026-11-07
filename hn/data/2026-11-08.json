@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-11-08 01:19",
+    "stories": [
+      {
+        "id": 50405678,
+        "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+        "url": "https://kevinboone.me/tpwin.html",
+        "domain": "kevinboone.me",
+        "score": 40,
+        "descendants": 20,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "回顾Borland Turbo Pascal 7的辉煌历史，探讨其为何成为编程界不可逾越的经典。"
+      },
+      {
+        "id": 50404599,
+        "title": "The $8 Linux Computer (2022)",
+        "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+        "domain": "thelittleengineerthatcould.blogspot.com",
+        "score": 103,
+        "descendants": 45,
+        "by": "zenincognito",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探索如何仅以8美元的成本构建一套功能完整的Linux计算机系统。"
+      },
+      {
+        "id": 50403052,
+        "title": "Need for Speed Underground 2 online in the browser",
+        "url": "https://nfsu2.xyz/",
+        "domain": "nfsu2.xyz",
+        "score": 484,
+        "descendants": 151,
+        "by": "fluxusars",
+        "tags": [
+          "Web"
+        ],
+        "summary": "一款可在浏览器中直接运行经典游戏《极品飞车：地下狂飙2》的复刻项目。"
+      },
+      {
+        "id": 50405789,
+        "title": "How Long Can Life Wait?",
+        "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+        "domain": "mceglowski.substack.com",
+        "score": 15,
+        "descendants": 3,
+        "by": "Ariarule",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨生物生命在极端环境下沉睡与复苏的科学潜能。"
+      },
+      {
+        "id": 50399933,
+        "title": "Libghostty 1.0",
+        "url": "https://mitchellh.com/writing/libghostty-1-0",
+        "domain": "mitchellh.com",
+        "score": 907,
+        "descendants": 149,
+        "by": "mfiguiere",
+        "tags": [],
+        "summary": "Ghostty终端模拟器的核心库Libghostty正式发布1.0版本。"
+      },
+      {
+        "id": 50403066,
+        "title": "Running a law firm on Free software",
+        "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+        "domain": "decoded.legal",
+        "score": 131,
+        "descendants": 60,
+        "by": "DeepLogin",
+        "tags": [],
+        "summary": "一名律师分享其全程使用自由开源软件运营法律事务所的实践经验。"
+      },
+      {
+        "id": 50361657,
+        "title": "Text.js: Build full-stack React apps that render inside console.log",
+        "url": "https://textjs.org/",
+        "domain": "textjs.org",
+        "score": 21,
+        "descendants": 7,
+        "by": "nateb2022",
+        "tags": [
+          "JavaScript"
+        ]
+      },
+      {
+        "id": 50352791,
+        "title": "British Library Legal deposit and web archiving",
+        "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+        "domain": "bl.uk",
+        "score": 35,
+        "descendants": 14,
+        "by": "robtherobber",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨大英图书馆如何处理法定缴存制度下的数字资源保存与网页归档。"
+      },
+      {
+        "id": 50403097,
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+        "domain": "8rank.ai",
+        "score": 405,
+        "descendants": 233,
+        "by": "infwhispers",
+        "tags": [],
+        "summary": "揭秘苹果macOS系统中隐藏的未公开家族成员分类器功能及其潜在隐私影响。"
+      },
+      {
+        "id": 50358094,
+        "title": "Tasfer: a text editor drawn on a 2D canvas",
+        "url": "https://www.hamza.se/blog/tasfer",
+        "domain": "hamza.se",
+        "score": 30,
+        "descendants": 12,
+        "by": "hamza512b",
+        "tags": [],
+        "summary": "介绍一款完全在2D Canvas上绘制文本编辑界面的轻量级编辑器。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "kevinboone.me",
+          "count": 1
+        },
+        {
+          "domain": "thelittleengineerthatcould.blogspot.com",
+          "count": 1
+        },
+        {
+          "domain": "nfsu2.xyz",
+          "count": 1
+        }
+      ],
+      "avg_score": 217,
+      "max_score": {
+        "title": "Libghostty 1.0",
+        "score": 907
+      },
+      "most_discussed": {
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "comments": 233
+      },
+      "hot_tags": [
+        "Web",
+        "Systems",
+        "AI",
+        "JavaScript"
+      ]
+    },
+    "summary": "本期Hacker News呈现出浓厚的怀旧与黑客极客文化氛围，从经典编程工具Turbo Pascal到早期的竞速游戏复刻均引发热议。此外，Libghostty与Mac文档隐私等技术议题也备受关注，显示出开发者社区对低功耗硬件、开源法律实践及深度系统探索的持续热情。"
+  }
+}
