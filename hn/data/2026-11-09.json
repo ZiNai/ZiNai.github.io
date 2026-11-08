@@ -1,0 +1,165 @@
+{
+  "morning": {
+    "time": "2026-11-09 01:31",
+    "stories": [
+      {
+        "id": 50411961,
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "domain": "github.com",
+        "score": 195,
+        "descendants": 62,
+        "by": "joshcsimmons",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍一种无需GPU，仅利用64GB内存即可运行284B参数DeepSeek模型的本地方案。"
+      },
+      {
+        "id": 50389923,
+        "title": "The Reconstruction of Torn Documents",
+        "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+        "domain": "bundesarchiv.de",
+        "score": 36,
+        "descendants": 10,
+        "by": "jacquesm",
+        "tags": [],
+        "summary": "探讨联邦档案馆如何利用技术手段复原被撕毁的历史文档。"
+      },
+      {
+        "id": 50415172,
+        "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+        "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+        "domain": "respawnfirst.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "randycupertino",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "一个极具讽刺意味的Linux脚本，每天向Sam Altman报告你电脑中闲置的内存容量。"
+      },
+      {
+        "id": 50412067,
+        "title": "Writing as a thinking tool",
+        "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+        "domain": "muratbuffalo.blogspot.com",
+        "score": 109,
+        "descendants": 25,
+        "by": "jruohonen",
+        "tags": [],
+        "summary": "深入探讨写作如何成为辅助思考、理清复杂逻辑的核心工具。"
+      },
+      {
+        "id": 50413822,
+        "title": "OpenAI raises $11B at a $1.25T valuation",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "domain": "247wallst.com",
+        "score": 127,
+        "descendants": 114,
+        "by": "armcat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道OpenAI完成高达110亿美元融资，估值已攀升至1.25万亿美元。"
+      },
+      {
+        "id": 50413769,
+        "title": "I'm not a fan of Deno's security model (2024)",
+        "url": "https://goldstein.lol/posts/deno-security/",
+        "domain": "goldstein.lol",
+        "score": 28,
+        "descendants": 9,
+        "by": "maxloh",
+        "tags": [
+          "AI",
+          "JavaScript",
+          "Security"
+        ],
+        "summary": "作者批判性分析了Deno运行时的安全模型架构及其局限性。"
+      },
+      {
+        "id": 50366821,
+        "title": "Porting Android 16 to my blind mother's keypad phone",
+        "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+        "domain": "z1x.us",
+        "score": 87,
+        "descendants": 32,
+        "by": "z1xus",
+        "tags": [],
+        "summary": "一名开发者为盲人母亲的旧式按键手机移植Android 16系统的技术历程。"
+      },
+      {
+        "id": 50410107,
+        "title": "Goodbye Claude, hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "domain": "caleb.software",
+        "score": 557,
+        "descendants": 350,
+        "by": "karagenit",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分享从Claude迁移至Pi作为日常AI助手的个人体验与理由。"
+      },
+      {
+        "id": 50362963,
+        "title": "Show HN: Vegetable Gardening for Engineers",
+        "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+        "domain": "jrcpl.us",
+        "score": 24,
+        "descendants": 4,
+        "by": "jrcplus",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "以工程化思维视角探讨如何科学高效地进行蔬菜种植。"
+      },
+      {
+        "id": 50412072,
+        "title": "JIT bitmap text rendering for microcontrollers",
+        "url": "https://linebender.org/blog/jit-bitmap-text/",
+        "domain": "linebender.org",
+        "score": 66,
+        "descendants": 11,
+        "by": "dmit",
+        "tags": [],
+        "summary": "针对微控制器受限资源环境，研究实现高效JIT位图文字渲染的技术方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "bundesarchiv.de",
+          "count": 1
+        },
+        {
+          "domain": "respawnfirst.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 123,
+      "max_score": {
+        "title": "Goodbye Claude, hello Pi",
+        "score": 557
+      },
+      "most_discussed": {
+        "title": "Goodbye Claude, hello Pi",
+        "comments": 350
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems",
+        "JavaScript",
+        "Security"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于AI领域的技术突破与行业动态，涵盖大模型本地化运行方案、AI投融资新闻及人工智能应用迁移趋势。同时，社区对硬件性能优化、软件开发哲学及实用技术工程探讨保持了高度关注。"
+  }
+}
