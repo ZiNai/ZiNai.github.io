@@ -154,5 +154,166 @@
       ]
     },
     "summary": "本期Hacker News呈现出浓厚的怀旧与黑客极客文化氛围，从经典编程工具Turbo Pascal到早期的竞速游戏复刻均引发热议。此外，Libghostty与Mac文档隐私等技术议题也备受关注，显示出开发者社区对低功耗硬件、开源法律实践及深度系统探索的持续热情。"
+  },
+  "noon": {
+    "time": "2026-11-08 11:00",
+    "stories": [
+      {
+        "id": 50406563,
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "url": "https://hunch.net/?p=13764006",
+        "domain": "hunch.net",
+        "score": 406,
+        "descendants": 238,
+        "by": "srean",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "微软解散AI Frontiers研究小组，引发对AI研发方向与资源重组的广泛讨论。"
+      },
+      {
+        "id": 50406670,
+        "title": "What I run on my $10 USD OpenStick homelab",
+        "url": "https://blog.bosscher.ch/posts/openstick/",
+        "domain": "blog.bosscher.ch",
+        "score": 376,
+        "descendants": 89,
+        "by": "LaurensBER",
+        "tags": [],
+        "summary": "博主分享了如何利用仅需10美元的OpenStick硬件搭建个人实验服务器的经验。"
+      },
+      {
+        "id": 50406111,
+        "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "domain": "theguardian.com",
+        "score": 385,
+        "descendants": 255,
+        "by": "user_7832",
+        "tags": [],
+        "summary": "调查指出苹果输入法存在“灰名单”机制，会限制iPhone用户拼写特定词汇。"
+      },
+      {
+        "id": 50408713,
+        "title": "Making any integer with four 2s (2025)",
+        "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "domain": "eli.thegreenplace.net",
+        "score": 69,
+        "descendants": 15,
+        "by": "germanrabbit",
+        "tags": [],
+        "summary": "一道经典的数学趣题：探讨如何仅使用四个2并通过数学运算构造出任意整数。"
+      },
+      {
+        "id": 50407882,
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "domain": "apiiro.com",
+        "score": 203,
+        "descendants": 142,
+        "by": "shmulc",
+        "tags": [
+          "AI",
+          "Open Source"
+        ],
+        "summary": "安全报告显示Claude Code的自动化功能导致超过千个GitHub公开项目意外泄露敏感密码。"
+      },
+      {
+        "id": 50408931,
+        "title": "GitHub New pull request overview page in public preview",
+        "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+        "domain": "github.blog",
+        "score": 77,
+        "descendants": 58,
+        "by": "xiaoyu2006",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "GitHub正式推出全新的拉取请求（Pull Request）概览页面，旨在提升代码协作效率。"
+      },
+      {
+        "id": 50377661,
+        "title": "Uranium cubes reveal why the German nuclear project failed",
+        "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+        "domain": "arstechnica.com",
+        "score": 76,
+        "descendants": 38,
+        "by": "rbanffy",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50403052,
+        "title": "Need for Speed Underground 2 online in the browser",
+        "url": "https://nfsu2.xyz/",
+        "domain": "nfsu2.xyz",
+        "score": 835,
+        "descendants": 231,
+        "by": "fluxusars",
+        "tags": [
+          "Web"
+        ],
+        "summary": "经典赛车游戏《极品飞车：地下狂飙2》实现浏览器端在线联机运行。"
+      },
+      {
+        "id": 50406222,
+        "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+        "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+        "domain": "maxxbench.unlap.ai",
+        "score": 211,
+        "descendants": 64,
+        "by": "antiuniverse",
+        "tags": [],
+        "summary": "针对MaxxBench的深度SWE评分机制提出质疑，探讨其测试结果的真实性与准确性。"
+      },
+      {
+        "id": 50406292,
+        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+        "url": "https://github.com/hedgerow-dev/coldframe",
+        "domain": "github.com",
+        "score": 196,
+        "descendants": 42,
+        "by": "hedgerow-dev",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个有趣的开源项目：将蜜罐伪装成超市冰箱控制器以诱捕攻击者。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "hunch.net",
+          "count": 1
+        },
+        {
+          "domain": "blog.bosscher.ch",
+          "count": 1
+        },
+        {
+          "domain": "theguardian.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 283,
+      "max_score": {
+        "title": "Need for Speed Underground 2 online in the browser",
+        "score": 835
+      },
+      "most_discussed": {
+        "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+        "comments": 255
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Science",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了AI行业动态与安全性探讨、极客硬件及复古游戏复刻等多元领域。微软研究部门的调整与AI工具的代码泄露风险成为关注焦点，同时开发者对个人化基础设施与趣味性技术项目的热度持续不减。"
   }
 }
