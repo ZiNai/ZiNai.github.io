@@ -1,0 +1,162 @@
+{
+  "morning": {
+    "time": "2026-11-10 05:52",
+    "stories": [
+      {
+        "id": 50431058,
+        "title": "USPS now offers official ZIP Code boundary polygons",
+        "url": "https://postalpro.usps.com/zcb",
+        "domain": "postalpro.usps.com",
+        "score": 219,
+        "descendants": 105,
+        "by": "munro",
+        "tags": [],
+        "summary": "美国邮政局现已正式发布 ZIP 编码边界的矢量多边形数据，方便地图绘制与地理分析使用。"
+      },
+      {
+        "id": 50431144,
+        "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "domain": "artificialanalysis.ai",
+        "score": 100,
+        "descendants": 53,
+        "by": "theanonymousone",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Fable 5.2 在 Artificial Analysis 测评中取得 65 分，刷新了目前该基准测试的最高得分纪录。"
+      },
+      {
+        "id": 50429734,
+        "title": "E-means: 10x faster k-means at equal loss",
+        "url": "https://e-means.github.io/",
+        "domain": "e-means.github.io",
+        "score": 157,
+        "descendants": 10,
+        "by": "porridgeraisin",
+        "tags": [],
+        "summary": "E-means 提出了一种新型 k-means 聚类算法，在保持相同损失的前提下实现了 10 倍的速度提升。"
+      },
+      {
+        "id": 50427362,
+        "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+        "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+        "domain": "payments.ca",
+        "score": 411,
+        "descendants": 224,
+        "by": "ocd",
+        "tags": [
+          "AI"
+        ],
+        "summary": "加拿大支付协会正式启动实时铁路（RTR）支付系统，旨在实现该国境内支付结算的即时化。"
+      },
+      {
+        "id": 50429024,
+        "title": "Our Smallest, Most Efficient Model: Muse Ember",
+        "url": "https://research.meta.ai/blog/muse-ember",
+        "domain": "research.meta.ai",
+        "score": 182,
+        "descendants": 75,
+        "by": "dvaplima",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Meta 发布了其迄今为止规模最小、效率最高的 AI 模型 Muse Ember。"
+      },
+      {
+        "id": 50429426,
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "url": "https://github.com/thisisme6598/gemini_files/",
+        "domain": "github.com",
+        "score": 121,
+        "descendants": 23,
+        "by": "gf74918",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报告称 Google Gemini 的数据处理流程会将用户的个人云端文件和邮件路由给人类标注员进行审查。"
+      },
+      {
+        "id": 50429906,
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "domain": "anthropic.com",
+        "score": 740,
+        "descendants": 416,
+        "by": "meetpateltech",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Anthropic 正式推出 Claude 5.2 的 Fable 和 Mythos 模型，进一步扩展了其 AI 模型生态。"
+      },
+      {
+        "id": 50430621,
+        "title": "CUI – Native UI components for C",
+        "url": "https://yappologistic.github.io/CUI/",
+        "domain": "yappologistic.github.io",
+        "score": 81,
+        "descendants": 50,
+        "by": "hilti",
+        "tags": [],
+        "summary": "CUI 提供了一套专门为 C 语言设计的原生 UI 组件库，简化了底层程序的界面构建。"
+      },
+      {
+        "id": 50424581,
+        "title": "Fold Epic Paper Airplanes",
+        "url": "https://www.foldableflight.com",
+        "domain": "foldableflight.com",
+        "score": 740,
+        "descendants": 127,
+        "by": "vismit2000",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "一份关于折叠史诗级纸飞机的指南，分享了提升飞行表现的专业纸艺技巧。"
+      },
+      {
+        "id": 50429430,
+        "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+        "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+        "domain": "infineon.com",
+        "score": 65,
+        "descendants": 26,
+        "by": "sshah03",
+        "tags": [],
+        "summary": "英飞凌在 300mm 功率碳化硅晶圆领域实现重大创新，推动了半导体制造技术的突破。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "postalpro.usps.com",
+          "count": 1
+        },
+        {
+          "domain": "artificialanalysis.ai",
+          "count": 1
+        },
+        {
+          "domain": "e-means.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 282,
+      "max_score": {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "score": 740
+      },
+      "most_discussed": {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "comments": 416
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在人工智能领域，Claude 5.2 系列模型的发布及 Meta 的轻量化模型引起广泛讨论。同时，支付基础设施升级、地理数据开放以及底层软件工具的创新也成为社区关注的热点。"
+  }
+}
