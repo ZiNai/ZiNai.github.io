@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-11-11 03:14",
+    "stories": [
+      {
+        "id": 50442736,
+        "title": ".name Grandfathered",
+        "url": "https://neil.fraser.name/news/2026/11/10/",
+        "domain": "neil.fraser.name",
+        "score": 348,
+        "descendants": 62,
+        "by": "p4bl0",
+        "tags": [],
+        "summary": "探讨老牌互联网身份与个人域名的持续性与价值。"
+      },
+      {
+        "id": 50441707,
+        "title": "Smart home devices should work without the internet",
+        "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+        "domain": "docodethatmatters.com",
+        "score": 267,
+        "descendants": 120,
+        "by": "skittleson",
+        "tags": [],
+        "summary": "呼吁智能家居设备应具备脱离互联网的本地化运行能力，以提高可靠性与隐私保护。"
+      },
+      {
+        "id": 50443824,
+        "title": "Synaptics patent claims stop work on DisplayLink drivers",
+        "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+        "domain": "lwn.net",
+        "score": 61,
+        "descendants": 25,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Synaptics 的专利诉讼导致 DisplayLink 驱动程序的开发被迫中断。"
+      },
+      {
+        "id": 50444129,
+        "title": "Starlink Mini 2",
+        "url": "https://starlink.com/mini-2",
+        "domain": "starlink.com",
+        "score": 31,
+        "descendants": 12,
+        "by": "robertjfclarke",
+        "tags": [],
+        "summary": "Starlink 发布 Mini 2 卫星互联网终端，进一步提升移动连接性能。"
+      },
+      {
+        "id": 50443427,
+        "title": "Val Town is winding down",
+        "url": "https://blog.val.town/winding-down",
+        "domain": "blog.val.town",
+        "score": 108,
+        "descendants": 25,
+        "by": "tosh",
+        "tags": [],
+        "summary": "在线编程平台 Val Town 宣布将逐步关闭服务。"
+      },
+      {
+        "id": 50439193,
+        "title": "AlphaProof Code",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "domain": "deepmind.google",
+        "score": 485,
+        "descendants": 158,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "DeepMind 发布 AlphaProof 编码系统，展现了 AI 在处理复杂程序任务上的突破。"
+      },
+      {
+        "id": 50443812,
+        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance",
+        "domain": "github.com",
+        "score": 50,
+        "descendants": 11,
+        "by": "paulirish",
+        "tags": [
+          "JavaScript",
+          "Web",
+          "Show HN"
+        ],
+        "summary": "开源工具帮助提升 AI 编码代理能力，使其适配现代 Web 开发标准而非旧版 JS。"
+      },
+      {
+        "id": 50443090,
+        "title": "AMD's Zen 6 Family: Feeding the Beast",
+        "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+        "domain": "chipsandcheese.com",
+        "score": 72,
+        "descendants": 28,
+        "by": "pixelpoet",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "技术评测 AMD Zen 6 架构如何通过内存带宽提升满足更高算力需求。"
+      },
+      {
+        "id": 50442426,
+        "title": "Blender 5.3 released with Gaussian Splat support",
+        "url": "https://www.blender.org/download/releases/5-3/",
+        "domain": "blender.org",
+        "score": 281,
+        "descendants": 37,
+        "by": "amlib",
+        "tags": [],
+        "summary": "Blender 5.3 正式发布，新增对 Gaussian Splat（高斯溅射）渲染的支持。"
+      },
+      {
+        "id": 50433216,
+        "title": "Process Explorer for macOS",
+        "url": "https://github.com/microsoft/Procexp-Mac",
+        "domain": "github.com",
+        "score": 40,
+        "descendants": 15,
+        "by": "ingve",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一款为 macOS 设计的进程管理器，旨在提供类似 Windows Process Explorer 的系统监控能力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "neil.fraser.name",
+          "count": 1
+        },
+        {
+          "domain": "docodethatmatters.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 174,
+      "max_score": {
+        "title": "AlphaProof Code",
+        "score": 485
+      },
+      "most_discussed": {
+        "title": "AlphaProof Code",
+        "comments": 158
+      },
+      "hot_tags": [
+        "AI",
+        "JavaScript",
+        "Web",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于科技业的重大更新与行业生态博弈。AI 领域 AlphaProof 持续引领关注，同时硬件、开发工具的开源与兼容性问题，以及部分创业公司的业务变动也引发了社区的热议。"
+  }
+}
