@@ -304,5 +304,162 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-11-10 19:55",
+    "stories": [
+      {
+        "id": 50436640,
+        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+        "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+        "domain": "strandsagents.com",
+        "score": 364,
+        "descendants": 125,
+        "by": "aloukissas",
+        "tags": [],
+        "summary": "亚马逊通过替换模型显著降低了运营成本。"
+      },
+      {
+        "id": 50438318,
+        "title": "AI usage generates a fragile codebase",
+        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+        "domain": "evanxmerz.com",
+        "score": 56,
+        "descendants": 37,
+        "by": "plun9",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者探讨了过度依赖AI工具可能导致代码库结构变得脆弱的问题。"
+      },
+      {
+        "id": 50437790,
+        "title": "Queens Public library under ransomware attack e-borrowing suspended",
+        "url": "https://connect.queenslibrary.org/",
+        "domain": "connect.queenslibrary.org",
+        "score": 53,
+        "descendants": 36,
+        "by": "rustyhancock",
+        "tags": [],
+        "summary": "皇后区公共图书馆遭受勒索软件攻击，电子借阅服务被迫暂停。"
+      },
+      {
+        "id": 50429068,
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "domain": "anthropic.com",
+        "score": 656,
+        "descendants": 840,
+        "by": "lairv",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Anthropic发布了Claude Fable 5.2和Mythos 5.2系列模型。"
+      },
+      {
+        "id": 50431058,
+        "title": "USPS now offers official ZIP Code boundary polygons",
+        "url": "https://postalpro.usps.com/zcb",
+        "domain": "postalpro.usps.com",
+        "score": 635,
+        "descendants": 320,
+        "by": "munro",
+        "tags": [],
+        "summary": "美国邮政署正式发布了ZIP编码边界的多边形地理数据集。"
+      },
+      {
+        "id": 50436410,
+        "title": "Your TV can see through walls",
+        "url": "https://maurycyz.com/projects/fading/",
+        "domain": "maurycyz.com",
+        "score": 147,
+        "descendants": 51,
+        "by": "Curiositry",
+        "tags": [],
+        "summary": "文章分析了现代电视利用无线电波实现室内成像的技术原理。"
+      },
+      {
+        "id": 50437752,
+        "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+        "domain": "news.exeter.ac.uk",
+        "score": 24,
+        "descendants": 10,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "研究显示2026年全球化石燃料二氧化碳排放量小幅下降0.4%。"
+      },
+      {
+        "id": 50437106,
+        "title": "Fireworks AI security breach impacts Notion and their customers",
+        "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+        "domain": "notion.com",
+        "score": 64,
+        "descendants": 20,
+        "by": "werrett",
+        "tags": [
+          "AI",
+          "Security"
+        ],
+        "summary": "Fireworks AI的安全漏洞导致Notion及其部分客户数据受到波及。"
+      },
+      {
+        "id": 50408336,
+        "title": "Billion Watts in the Speaker [video]",
+        "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+        "domain": "youtube.com",
+        "score": 22,
+        "descendants": 9,
+        "by": "Element_",
+        "tags": [],
+        "summary": "深入探讨大功率音响设备背后的电力与声学工程挑战。"
+      },
+      {
+        "id": 50434310,
+        "title": "Locating the source of a mysterious beep",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "domain": "simonwillison.net",
+        "score": 215,
+        "descendants": 100,
+        "by": "bigwheels",
+        "tags": [],
+        "summary": "记录了一次通过严谨的技术手段排查家中神秘鸣叫声源的过程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "strandsagents.com",
+          "count": 1
+        },
+        {
+          "domain": "evanxmerz.com",
+          "count": 1
+        },
+        {
+          "domain": "connect.queenslibrary.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 224,
+      "max_score": {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "score": 656
+      },
+      "most_discussed": {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "comments": 840
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Open Source",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在AI领域的快速更迭与安全隐患，包括模型升级、代码库质量与数据泄露风险。此外，公共基础设施的数字化进展及技术探索（如电视传感技术与故障排查）也引发了广泛讨论。"
   }
 }
