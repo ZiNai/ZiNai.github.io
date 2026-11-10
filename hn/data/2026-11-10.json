@@ -158,5 +158,151 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在人工智能领域，Claude 5.2 系列模型的发布及 Meta 的轻量化模型引起广泛讨论。同时，支付基础设施升级、地理数据开放以及底层软件工具的创新也成为社区关注的热点。"
+  },
+  "noon": {
+    "time": "2026-11-10 12:59",
+    "stories": [
+      {
+        "id": 50429068,
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "domain": "anthropic.com",
+        "score": 347,
+        "descendants": 691,
+        "by": "lairv",
+        "tags": [
+          "AI",
+          "Systems"
+        ]
+      },
+      {
+        "id": 50431058,
+        "title": "USPS now offers official ZIP Code boundary polygons",
+        "url": "https://postalpro.usps.com/zcb",
+        "domain": "postalpro.usps.com",
+        "score": 554,
+        "descendants": 278,
+        "by": "munro",
+        "tags": []
+      },
+      {
+        "id": 50427362,
+        "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+        "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+        "domain": "payments.ca",
+        "score": 494,
+        "descendants": 275,
+        "by": "ocd",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50429734,
+        "title": "E-means: Outperforming k-means in one-tenth the epochs",
+        "url": "https://e-means.github.io/",
+        "domain": "e-means.github.io",
+        "score": 320,
+        "descendants": 29,
+        "by": "porridgeraisin",
+        "tags": []
+      },
+      {
+        "id": 50378118,
+        "title": "How Many People Work from Home?",
+        "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
+        "domain": "nicholasdecker.substack.com",
+        "score": 20,
+        "descendants": 16,
+        "by": "surprisetalk",
+        "tags": []
+      },
+      {
+        "id": 50424581,
+        "title": "Foldable Flight: The Best Paper Airplanes",
+        "url": "https://www.foldableflight.com",
+        "domain": "foldableflight.com",
+        "score": 905,
+        "descendants": 144,
+        "by": "vismit2000",
+        "tags": [
+          "AI",
+          "Science"
+        ]
+      },
+      {
+        "id": 50434264,
+        "title": "Horible public key tricks",
+        "url": "https://maurycyz.com/projects/badcert/",
+        "domain": "maurycyz.com",
+        "score": 79,
+        "descendants": 30,
+        "by": "Curiositry",
+        "tags": []
+      },
+      {
+        "id": 50434310,
+        "title": "Locating the source of a mysterious beep",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "domain": "simonwillison.net",
+        "score": 68,
+        "descendants": 33,
+        "by": "bigwheels",
+        "tags": []
+      },
+      {
+        "id": 50435660,
+        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "domain": "cnbc.com",
+        "score": 54,
+        "descendants": 20,
+        "by": "lxm",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50433541,
+        "title": "Exact – a new cross platform UI framework",
+        "url": "https://github.com/expo/exact",
+        "domain": "github.com",
+        "score": 84,
+        "descendants": 37,
+        "by": "vmg12",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        },
+        {
+          "domain": "postalpro.usps.com",
+          "count": 1
+        },
+        {
+          "domain": "payments.ca",
+          "count": 1
+        }
+      ],
+      "avg_score": 292,
+      "max_score": {
+        "title": "Foldable Flight: The Best Paper Airplanes",
+        "score": 905
+      },
+      "most_discussed": {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "comments": 691
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Science"
+      ]
+    },
+    "summary": ""
   }
 }
