@@ -309,5 +309,161 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在技术生态的深刻变化与行业争议，包括开源维护者的压力、科技巨头的专利纠纷以及对智能家居设备自主性的讨论。此外，复古编程技巧、数学教育资源以及硬件创新（如星链与微型卡车）也引发了社区的广泛关注。"
+  },
+  "evening": {
+    "time": "2026-11-11 19:32",
+    "stories": [
+      {
+        "id": 50449748,
+        "title": "Protecting SSH Keys with macOS Secure Enclave",
+        "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+        "domain": "gatezh.com",
+        "score": 223,
+        "descendants": 83,
+        "by": "js2",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍如何通过macOS的Secure Enclave硬件模块来提升SSH密钥的安全性。"
+      },
+      {
+        "id": 50424188,
+        "title": "Plane lifted into back garden as bunker takes shape",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
+        "domain": "bbc.co.uk",
+        "score": 34,
+        "descendants": 22,
+        "by": "edward",
+        "tags": [],
+        "summary": "报道一架飞机被吊入私人后院作为地下掩体扩建一部分的趣闻。"
+      },
+      {
+        "id": 50441707,
+        "title": "Smart home devices should work without the internet",
+        "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+        "domain": "docodethatmatters.com",
+        "score": 988,
+        "descendants": 353,
+        "by": "skittleson",
+        "tags": [],
+        "summary": "探讨智能家居设备应摆脱云端依赖，实现完全本地化运行的必要性。"
+      },
+      {
+        "id": 50442736,
+        "title": ".name Grandfathered",
+        "url": "https://neil.fraser.name/news/2026/11/10/",
+        "domain": "neil.fraser.name",
+        "score": 862,
+        "descendants": 188,
+        "by": "p4bl0",
+        "tags": [],
+        "summary": "讨论.name顶级域名在互联网发展中的历史地位及遗留问题。"
+      },
+      {
+        "id": 50445401,
+        "title": "Scion is back and is going to sell a kei truck in America",
+        "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+        "domain": "theautopian.com",
+        "score": 484,
+        "descendants": 316,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "分析Scion品牌复出并在美国市场引入日本K-Car轻型卡车的战略。"
+      },
+      {
+        "id": 50450007,
+        "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+        "url": "https://github.com/gmkurtzer/ginux",
+        "domain": "github.com",
+        "score": 79,
+        "descendants": 36,
+        "by": "d3Xt3r",
+        "tags": [
+          "Systems",
+          "Science"
+        ],
+        "summary": "介绍Greg Kurtzer推出的基于用户空间的Ginux内核项目。"
+      },
+      {
+        "id": 50448921,
+        "title": "A great old-timey game-programming hack (2013)",
+        "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+        "domain": "blog.moertel.com",
+        "score": 184,
+        "descendants": 35,
+        "by": "palsecam",
+        "tags": [
+          "Security"
+        ],
+        "summary": "分享一篇2013年的经典文章，回顾早期游戏开发中的巧妙编程技巧。"
+      },
+      {
+        "id": 50446520,
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "domain": "9to5mac.com",
+        "score": 285,
+        "descendants": 242,
+        "by": "linolevan",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道苹果即将推出一款旨在简化本地运行AI模型流程的Mac应用程序。"
+      },
+      {
+        "id": 50449275,
+        "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+        "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+        "domain": "science.org",
+        "score": 109,
+        "descendants": 73,
+        "by": "Metacelsus",
+        "tags": [],
+        "summary": "分析美国为防范生物恐怖主义，针对合成DNA订单实施的新监管规则。"
+      },
+      {
+        "id": 50446246,
+        "title": "Six Math Essentials",
+        "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "domain": "teorth.github.io",
+        "score": 260,
+        "descendants": 51,
+        "by": "digital55",
+        "tags": [],
+        "summary": "梳理并介绍对程序员及数学爱好者至关重要的六个数学核心知识点。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "gatezh.com",
+          "count": 1
+        },
+        {
+          "domain": "bbc.co.uk",
+          "count": 1
+        },
+        {
+          "domain": "docodethatmatters.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 351,
+      "max_score": {
+        "title": "Smart home devices should work without the internet",
+        "score": 988
+      },
+      "most_discussed": {
+        "title": "Smart home devices should work without the internet",
+        "comments": 353
+      },
+      "hot_tags": [
+        "Systems",
+        "Science",
+        "Security",
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点涵盖了前沿技术应用与基础设施安全，包括macOS安全增强、本地AI运行工具及物联网设备的离线化趋势。此外，社区对复古游戏编程技巧、硬件创新的回归以及生物科技监管等议题展现了浓厚兴趣。"
   }
 }
