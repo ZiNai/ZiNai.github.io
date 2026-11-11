@@ -156,5 +156,158 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于科技业的重大更新与行业生态博弈。AI 领域 AlphaProof 持续引领关注，同时硬件、开发工具的开源与兼容性问题，以及部分创业公司的业务变动也引发了社区的热议。"
+  },
+  "noon": {
+    "time": "2026-11-11 11:31",
+    "stories": [
+      {
+        "id": 50447074,
+        "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "domain": "vulncheck.com",
+        "score": 307,
+        "descendants": 139,
+        "by": "panic",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开源项目Glasswing因漏洞扫描发现过多无效报告，导致维护者不堪重负。"
+      },
+      {
+        "id": 50448921,
+        "title": "A great old-timey game-programming hack (2013)",
+        "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+        "domain": "blog.moertel.com",
+        "score": 38,
+        "descendants": 6,
+        "by": "palsecam",
+        "tags": [
+          "Security"
+        ],
+        "summary": "探讨一段经典的复古游戏开发黑客技术，展示早期工程的精妙巧思。"
+      },
+      {
+        "id": 50442736,
+        "title": ".name Grandfathered",
+        "url": "https://neil.fraser.name/news/2026/11/10/",
+        "domain": "neil.fraser.name",
+        "score": 715,
+        "descendants": 168,
+        "by": "p4bl0",
+        "tags": [],
+        "summary": "作者分享关于.name顶级域名被强制注销的争议经历。"
+      },
+      {
+        "id": 50441707,
+        "title": "Smart home devices should work without the internet",
+        "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+        "domain": "docodethatmatters.com",
+        "score": 756,
+        "descendants": 273,
+        "by": "skittleson",
+        "tags": [],
+        "summary": "呼吁智能家居设备必须支持本地运行，摆脱对互联网的强制依赖。"
+      },
+      {
+        "id": 50445401,
+        "title": "Scion is back and is going to sell a kei truck in America",
+        "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+        "domain": "theautopian.com",
+        "score": 362,
+        "descendants": 265,
+        "by": "NaOH",
+        "tags": [],
+        "summary": "Scion品牌回归，计划将日本流行的微型卡车（Kei truck）引入美国市场。"
+      },
+      {
+        "id": 50446246,
+        "title": "Six Math Essentials by Terence Tao",
+        "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "domain": "teorth.github.io",
+        "score": 154,
+        "descendants": 28,
+        "by": "digital55",
+        "tags": [],
+        "summary": "数学家陶哲轩分享的学习数学的六个核心要素建议。"
+      },
+      {
+        "id": 50444129,
+        "title": "Starlink Mini 2",
+        "url": "https://starlink.com/mini-2",
+        "domain": "starlink.com",
+        "score": 294,
+        "descendants": 298,
+        "by": "robertjfclarke",
+        "tags": [],
+        "summary": "Starlink Mini 2卫星互联网终端的相关讨论。"
+      },
+      {
+        "id": 50443824,
+        "title": "Synaptics patent claims stop work on DisplayLink drivers",
+        "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+        "domain": "lwn.net",
+        "score": 322,
+        "descendants": 182,
+        "by": "speckx",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Synaptics的专利主张导致开源DisplayLink驱动程序开发被迫停止。"
+      },
+      {
+        "id": 50406224,
+        "title": "Hacking the Meta Ray-Ban smartglasses",
+        "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+        "domain": "p0pcycle.com",
+        "score": 61,
+        "descendants": 22,
+        "by": "moooooky",
+        "tags": [
+          "Security"
+        ],
+        "summary": "分享对Meta Ray-Ban智能眼镜进行硬件与固件黑客攻击的过程。"
+      },
+      {
+        "id": 50443427,
+        "title": "Val Town is winding down",
+        "url": "https://blog.val.town/winding-down",
+        "domain": "blog.val.town",
+        "score": 323,
+        "descendants": 85,
+        "by": "tosh",
+        "tags": [],
+        "summary": "在线编程环境Val Town宣布即将停止运营。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "vulncheck.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.moertel.com",
+          "count": 1
+        },
+        {
+          "domain": "neil.fraser.name",
+          "count": 1
+        }
+      ],
+      "avg_score": 333,
+      "max_score": {
+        "title": "Smart home devices should work without the internet",
+        "score": 756
+      },
+      "most_discussed": {
+        "title": "Starlink Mini 2",
+        "comments": 298
+      },
+      "hot_tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在技术生态的深刻变化与行业争议，包括开源维护者的压力、科技巨头的专利纠纷以及对智能家居设备自主性的讨论。此外，复古编程技巧、数学教育资源以及硬件创新（如星链与微型卡车）也引发了社区的广泛关注。"
   }
 }
