@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-11-12 03:10",
+    "stories": [
+      {
+        "id": 50456631,
+        "title": "AWS Finally Built Its Own AWS Emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "domain": "github.com",
+        "score": 152,
+        "descendants": 40,
+        "by": "super_linear",
+        "tags": [],
+        "summary": "AWS推出了官方仿真器，旨在让开发者在本地模拟云端环境。"
+      },
+      {
+        "id": 50450488,
+        "title": "Tim Peters has died",
+        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "domain": "discuss.python.org",
+        "score": 328,
+        "descendants": 33,
+        "by": "ayhanfuat",
+        "tags": [],
+        "summary": "Python社区悼念核心成员Tim Peters的离世。"
+      },
+      {
+        "id": 50455394,
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+        "domain": "michael.bacarella.com",
+        "score": 236,
+        "descendants": 124,
+        "by": "mbac32768",
+        "tags": [
+          "Startup",
+          "Hardware"
+        ],
+        "summary": "详述Jane Street数据中心因假火警误报险些引发淹没事故的惊险经过。"
+      },
+      {
+        "id": 50456740,
+        "title": "AWS Emulator and the engineer's job when agents write the code",
+        "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+        "domain": "allthingsdistributed.com",
+        "score": 29,
+        "descendants": 0,
+        "by": "drbm",
+        "tags": [],
+        "summary": "探讨在AI Agent编写代码的大趋势下，工程师职能的演变与AWS仿真器的角色。"
+      },
+      {
+        "id": 50455633,
+        "title": "Faster Retrieval for Better, More Efficient RAG",
+        "url": "https://machinelearning.apple.com/research/faster-retrieval",
+        "domain": "machinelearning.apple.com",
+        "score": 63,
+        "descendants": 7,
+        "by": "zerop",
+        "tags": [],
+        "summary": "苹果机器学习团队分享如何通过优化检索机制来提升RAG系统的效率与准确性。"
+      },
+      {
+        "id": 50452455,
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya",
+        "domain": "pietromiotti.com",
+        "score": 815,
+        "descendants": 303,
+        "by": "eyvindn",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "工程师利用数十个AI Agent在72小时内分析NASA激光雷达数据，成功发现了一座未被记载的玛雅金字塔。"
+      },
+      {
+        "id": 50453288,
+        "title": "Hyper-Realistic Sand with WebGL2",
+        "url": "https://av.github.io/safe-sand/",
+        "domain": "av.github.io",
+        "score": 200,
+        "descendants": 45,
+        "by": "everlier",
+        "tags": [
+          "Web"
+        ],
+        "summary": "展示如何通过WebGL2技术在浏览器中实现超高逼真的沙粒动态模拟效果。"
+      },
+      {
+        "id": 50453637,
+        "title": "Atuin Threads: All your agent sessions on every machine",
+        "url": "https://blog.atuin.sh/threads-agent-sessions/",
+        "domain": "blog.atuin.sh",
+        "score": 127,
+        "descendants": 54,
+        "by": "linsomniac",
+        "tags": [],
+        "summary": "Atuin推出Threads功能，支持跨设备同步所有AI Agent对话会话。"
+      },
+      {
+        "id": 50454625,
+        "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+        "url": "https://github.com/FrigadeHQ/yogurt",
+        "domain": "github.com",
+        "score": 62,
+        "descendants": 32,
+        "by": "brownrout",
+        "tags": [
+          "Show HN",
+          "Open Source"
+        ],
+        "summary": "Yogurt：一款免费、隐私友好且开源的会议记录工具，定位为Granola的替代品。"
+      },
+      {
+        "id": 50452655,
+        "title": "Can a Linear Program Do Weight-Space Programming?",
+        "url": "https://nathan.rs/posts/weight-space-lp/",
+        "domain": "nathan.rs",
+        "score": 184,
+        "descendants": 29,
+        "by": "emschwartz",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨利用线性规划方法进行权重空间编程的可行性与理论深度。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "discuss.python.org",
+          "count": 1
+        },
+        {
+          "domain": "michael.bacarella.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 220,
+      "max_score": {
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "score": 815
+      },
+      "most_discussed": {
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "comments": 303
+      },
+      "hot_tags": [
+        "Science",
+        "Startup",
+        "Hardware",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期Hacker News焦点在于AI技术在科研与开发场景的深入应用，包括自主代理发现考古遗址及优化RAG检索效率。此外，社区对AWS自研仿真器的发布及Tim Peters逝世的消息给予了广泛关注与悼念。"
+  }
+}
