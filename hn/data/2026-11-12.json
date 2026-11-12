@@ -321,5 +321,153 @@
       ]
     },
     "summary": "本期Hacker News聚焦于科技界的重大变动与安全挑战。涵盖了业界重量级人物逝世的哀悼、AI领域的大动作与争议，以及基础设施安全与云服务平台的关键漏洞讨论。"
+  },
+  "evening": {
+    "time": "2026-11-12 19:57",
+    "stories": [
+      {
+        "id": 50465352,
+        "title": "Why Writing Correct Software Is Hard",
+        "url": "https://pron.github.io/posts/correctness-and-complexity",
+        "domain": "pron.github.io",
+        "score": 43,
+        "descendants": 6,
+        "by": "AriFordsham",
+        "tags": []
+      },
+      {
+        "id": 50438261,
+        "title": "Jane Street: Socratic Tutor",
+        "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+        "domain": "github.com",
+        "score": 302,
+        "descendants": 73,
+        "by": "tosh",
+        "tags": []
+      },
+      {
+        "id": 50425017,
+        "title": "A live tree of systemd jobs on the boot console",
+        "url": "https://codeberg.org/wvhulle/bootvine",
+        "domain": "codeberg.org",
+        "score": 129,
+        "descendants": 44,
+        "by": "orhunp_",
+        "tags": []
+      },
+      {
+        "id": 50450488,
+        "title": "Tim Peters has died",
+        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "domain": "discuss.python.org",
+        "score": 1254,
+        "descendants": 139,
+        "by": "ayhanfuat",
+        "tags": []
+      },
+      {
+        "id": 50459745,
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "url": "https://www.mcmillen.dev/sigbovik/",
+        "domain": "mcmillen.dev",
+        "score": 461,
+        "descendants": 58,
+        "by": "zenincognito",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50462177,
+        "title": "Critical RCE Vulnerability in Apache HTTP Server",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+        "domain": "wiz.io",
+        "score": 240,
+        "descendants": 113,
+        "by": "soheilpro",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 50456631,
+        "title": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "domain": "github.com",
+        "score": 875,
+        "descendants": 239,
+        "by": "super_linear",
+        "tags": []
+      },
+      {
+        "id": 50455394,
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+        "domain": "michael.bacarella.com",
+        "score": 505,
+        "descendants": 243,
+        "by": "mbac32768",
+        "tags": [
+          "Startup",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50459703,
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+        "domain": "wsj.com",
+        "score": 1082,
+        "descendants": 1458,
+        "by": "jbredeche",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50456791,
+        "title": "Gemini Decisions API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "domain": "blog.google",
+        "score": 452,
+        "descendants": 142,
+        "by": "iamdelirium",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "pron.github.io",
+          "count": 1
+        },
+        {
+          "domain": "codeberg.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 534,
+      "max_score": {
+        "title": "Tim Peters has died",
+        "score": 1254
+      },
+      "most_discussed": {
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "comments": 1458
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Security",
+        "Startup"
+      ]
+    },
+    "summary": ""
   }
 }
