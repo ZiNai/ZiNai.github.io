@@ -1,0 +1,164 @@
+{
+  "morning": {
+    "time": "2026-11-13 03:27",
+    "stories": [
+      {
+        "id": 50467087,
+        "title": "Jensen Huang resigns",
+        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+        "domain": "apnews.com",
+        "score": 1978,
+        "descendants": 2018,
+        "by": "lldb",
+        "tags": [],
+        "summary": "关于英伟达CEO黄仁勋宣布辞职的重大新闻报道。"
+      },
+      {
+        "id": 50471793,
+        "title": "Rust 1.100.0",
+        "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+        "domain": "github.com",
+        "score": 185,
+        "descendants": 39,
+        "by": "thesuperbigfrog",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Rust编程语言发布1.100.0版本，带来一系列功能更新与改进。"
+      },
+      {
+        "id": 50471431,
+        "title": "Gemini 4 Hydrogen",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "domain": "blog.google",
+        "score": 251,
+        "descendants": 155,
+        "by": "dvaplima",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌正式发布Gemini 4 Hydrogen人工智能模型。"
+      },
+      {
+        "id": 50471668,
+        "title": "Ask HN: Microsoft/Azure Outage?",
+        "url": "https://news.ycombinator.com/item?id=50471668",
+        "domain": "news.ycombinator.com",
+        "score": 192,
+        "descendants": 76,
+        "by": "nazgulsenpai",
+        "tags": [
+          "Ask HN"
+        ],
+        "summary": "Hacker News用户讨论关于微软及Azure服务疑似发生大规模宕机的问题。"
+      },
+      {
+        "id": 50472260,
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "domain": "antigravity.google",
+        "score": 23,
+        "descendants": 2,
+        "by": "jonbaer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于Gemini 4 Hydrogen模型及其Orchestrator架构的深度技术解读。"
+      },
+      {
+        "id": 50471731,
+        "title": "Outlook is down, and so is Microsoft's status page",
+        "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+        "domain": "gvwire.com",
+        "score": 140,
+        "descendants": 35,
+        "by": "dkpk",
+        "tags": [],
+        "summary": "微软Outlook服务中断，且其官方状态监控页面同样无法访问。"
+      },
+      {
+        "id": 50467618,
+        "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+        "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+        "domain": "moddb.com",
+        "score": 179,
+        "descendants": 62,
+        "by": "klaussilveira",
+        "tags": [],
+        "summary": "模组制作者成功修复并补完了未发布的《雷神之锤4》扩展内容，现已可玩。"
+      },
+      {
+        "id": 50468888,
+        "title": "I'm making LLMs work on small and old devices",
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "domain": "github.com",
+        "score": 157,
+        "descendants": 60,
+        "by": "mrashad74",
+        "tags": [
+          "AI"
+        ],
+        "summary": "开发者分享如何让大型语言模型在性能受限的老旧设备上高效运行。"
+      },
+      {
+        "id": 50470488,
+        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "url": "https://github.com/simpsoka/zigzag",
+        "domain": "github.com",
+        "score": 67,
+        "descendants": 15,
+        "by": "simpsoka",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "开发者因不满刺绣机强制订阅制，自行编写软件替代官方APP实现机器控制。"
+      },
+      {
+        "id": 50467460,
+        "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+        "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+        "domain": "chipsandcheese.com",
+        "score": 136,
+        "descendants": 1,
+        "by": "dverlaeckt80",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度访谈AMD架构师Mike Clark，探讨下一代Zen 6架构的技术细节。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "apnews.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.google",
+          "count": 1
+        }
+      ],
+      "avg_score": 331,
+      "max_score": {
+        "title": "Jensen Huang resigns",
+        "score": 1978
+      },
+      "most_discussed": {
+        "title": "Jensen Huang resigns",
+        "comments": 2018
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Ask HN",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中于重大科技突发新闻与AI技术更新。英伟达CEO黄仁勋的辞职传闻与微软Azure及Outlook的大规模宕机占据了讨论榜首，同时谷歌发布的Gemini 4 Hydrogen及开源LLM优化项目也引发了广泛的开发者关注。"
+  }
+}
