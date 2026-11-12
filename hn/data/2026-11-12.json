@@ -159,5 +159,167 @@
       ]
     },
     "summary": "本期Hacker News焦点在于AI技术在科研与开发场景的深入应用，包括自主代理发现考古遗址及优化RAG检索效率。此外，社区对AWS自研仿真器的发布及Tim Peters逝世的消息给予了广泛关注与悼念。"
+  },
+  "noon": {
+    "time": "2026-11-12 12:40",
+    "stories": [
+      {
+        "id": 50459745,
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "url": "https://www.mcmillen.dev/sigbovik/",
+        "domain": "mcmillen.dev",
+        "score": 257,
+        "descendants": 36,
+        "by": "zenincognito",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提醒开发者加强GitHub Actions的权限管理，防止安全漏洞引发的供应链攻击。"
+      },
+      {
+        "id": 50450488,
+        "title": "Tim Peters has died",
+        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "domain": "discuss.python.org",
+        "score": 985,
+        "descendants": 107,
+        "by": "ayhanfuat",
+        "tags": [],
+        "summary": "Python核心开发者、时间处理模块与Zen of Python作者Tim Peters不幸离世。"
+      },
+      {
+        "id": 50456631,
+        "title": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "domain": "github.com",
+        "score": 748,
+        "descendants": 227,
+        "by": "super_linear",
+        "tags": [],
+        "summary": "一款旨在本地模拟AWS环境的工具，方便开发者进行离线调试与测试。"
+      },
+      {
+        "id": 50462177,
+        "title": "Critical RCE Vulnerability in Apache HTTP Server",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+        "domain": "wiz.io",
+        "score": 51,
+        "descendants": 23,
+        "by": "soheilpro",
+        "tags": [
+          "Security"
+        ],
+        "summary": "Apache HTTP服务器被曝出严重的远程代码执行（RCE）漏洞，需引起高度关注。"
+      },
+      {
+        "id": 50459703,
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+        "domain": "wsj.com",
+        "score": 714,
+        "descendants": 993,
+        "by": "jbredeche",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "关于英伟达内部管理权力的流言，称公司正计划更换黄仁勋的领导地位。"
+      },
+      {
+        "id": 50458900,
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "domain": "cbsnews.com",
+        "score": 468,
+        "descendants": 448,
+        "by": "herpderperator",
+        "tags": [
+          "AI"
+        ],
+        "summary": "美联航正式禁止AI代理程序代客预订机票，以应对自动化行为引发的业务干扰。"
+      },
+      {
+        "id": 50459485,
+        "title": "Lock Your GitHub Actions",
+        "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+        "domain": "hugovk.dev",
+        "score": 176,
+        "descendants": 33,
+        "by": "gslin",
+        "tags": [
+          "Open Source"
+        ]
+      },
+      {
+        "id": 50455394,
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+        "domain": "michael.bacarella.com",
+        "score": 443,
+        "descendants": 225,
+        "by": "mbac32768",
+        "tags": [
+          "Startup",
+          "Hardware"
+        ],
+        "summary": "披露Jane Street数据中心因误报火警导致自动灭火系统险些引发洪灾的惊险事故。"
+      },
+      {
+        "id": 50456791,
+        "title": "Gemini Decisions API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "domain": "blog.google",
+        "score": 326,
+        "descendants": 100,
+        "by": "iamdelirium",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google推出Gemini Decisions API，旨在通过AI模型辅助复杂逻辑决策流程。"
+      },
+      {
+        "id": 50428619,
+        "title": "Did Life Begin in an RNA World?",
+        "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+        "domain": "quantamagazine.org",
+        "score": 29,
+        "descendants": 7,
+        "by": "acossta",
+        "tags": [],
+        "summary": "探讨生命起源的科学假说，审视RNA世界在早期生命演化中的关键角色。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "mcmillen.dev",
+          "count": 1
+        },
+        {
+          "domain": "discuss.python.org",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 420,
+      "max_score": {
+        "title": "Tim Peters has died",
+        "score": 985
+      },
+      "most_discussed": {
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "comments": 993
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Security",
+        "Open Source",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News聚焦于科技界的重大变动与安全挑战。涵盖了业界重量级人物逝世的哀悼、AI领域的大动作与争议，以及基础设施安全与云服务平台的关键漏洞讨论。"
   }
 }
