@@ -1,0 +1,161 @@
+{
+  "morning": {
+    "time": "2026-11-14 03:06",
+    "stories": [
+      {
+        "id": 50474959,
+        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+        "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+        "domain": "scottjg.com",
+        "score": 525,
+        "descendants": 150,
+        "by": "scottjg",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者通过逆向工程绕过云端，实现了对Coway空气净化器的本地化控制。"
+      },
+      {
+        "id": 50487185,
+        "title": "After 600 experiments, here's what I discovered about JEPA world models",
+        "url": "https://haddyalchaer.com/jepa",
+        "domain": "haddyalchaer.com",
+        "score": 54,
+        "descendants": 4,
+        "by": "halcdev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者分享了通过600次实验总结出的关于JEPA世界模型的见解与经验。"
+      },
+      {
+        "id": 50482379,
+        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+        "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+        "domain": "science.org",
+        "score": 364,
+        "descendants": 262,
+        "by": "voxleone",
+        "tags": [],
+        "summary": "关于1960年预测“世界末日”的深度文章，探讨当时科学界对未来人口与科技的构想。"
+      },
+      {
+        "id": 50484235,
+        "title": "A technical vision for the Haskell ecosystem",
+        "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+        "domain": "discourse.haskell.org",
+        "score": 124,
+        "descendants": 47,
+        "by": "cosmic_quanta",
+        "tags": [],
+        "summary": "详细阐述了Haskell生态系统未来的技术演进愿景与发展规划。"
+      },
+      {
+        "id": 50487228,
+        "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+        "url": "https://isometricsf.com/",
+        "domain": "isometricsf.com",
+        "score": 29,
+        "descendants": 14,
+        "by": "juscha1",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个由像素艺术风格构成的旧金山湾区等距投影地图展示项目。"
+      },
+      {
+        "id": 50486748,
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "domain": "theguardian.com",
+        "score": 148,
+        "descendants": 28,
+        "by": "bookofjoe",
+        "tags": [
+          "AI"
+        ],
+        "summary": "AI技术成功破解并整理了哥德尔的笔记，发现了其中包含的数百个未发表数学定理。"
+      },
+      {
+        "id": 50484007,
+        "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+        "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "domain": "github.com",
+        "score": 94,
+        "descendants": 20,
+        "by": "ortuman",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "由Rust编写的轻量级、独立XMPP服务器项目Lonewolf的0.3版本更新。"
+      },
+      {
+        "id": 50484650,
+        "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+        "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+        "domain": "echopress.com",
+        "score": 54,
+        "descendants": 43,
+        "by": "bookofjoe",
+        "tags": [],
+        "summary": "介绍了明尼苏达州一位吉他手发明的名为“palmfrets”的新型乐器辅助装置。"
+      },
+      {
+        "id": 50486480,
+        "title": "Gnomon. Git for Postgres data, built for agents",
+        "url": "https://github.com/bitsinfra/gnomon",
+        "domain": "github.com",
+        "score": 13,
+        "descendants": 10,
+        "by": "shawkisukkar",
+        "tags": [
+          "Database"
+        ],
+        "summary": "一款专为AI智能体设计，为Postgres数据提供类似Git版本控制功能的开源工具。"
+      },
+      {
+        "id": 50486482,
+        "title": "LibreOffice actually works 365 days a year",
+        "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+        "domain": "twitter.com",
+        "score": 481,
+        "descendants": 168,
+        "by": "mksaunders2",
+        "tags": [],
+        "summary": "博主通过个人经历肯定了LibreOffice作为生产力工具的长期稳定性与实用价值。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "scottjg.com",
+          "count": 1
+        },
+        {
+          "domain": "haddyalchaer.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 189,
+      "max_score": {
+        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+        "score": 525
+      },
+      "most_discussed": {
+        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+        "comments": 262
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Rust",
+        "Database"
+      ]
+    },
+    "summary": "本期Hacker News热门内容展现了极客精神与技术的深度结合，涵盖了从逆向工程硬件、前沿AI研究到开源工具构建的多元话题。技术社区对生态建设（如Haskell）、怀旧科技史以及实用开源方案表现出了持续的高度关注。"
+  }
+}
