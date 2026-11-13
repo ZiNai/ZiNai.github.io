@@ -160,5 +160,164 @@
       ]
     },
     "summary": "本期Hacker News焦点集中于重大科技突发新闻与AI技术更新。英伟达CEO黄仁勋的辞职传闻与微软Azure及Outlook的大规模宕机占据了讨论榜首，同时谷歌发布的Gemini 4 Hydrogen及开源LLM优化项目也引发了广泛的开发者关注。"
+  },
+  "noon": {
+    "time": "2026-11-13 11:53",
+    "stories": [
+      {
+        "id": 50477331,
+        "title": "Africa's solar revolution is vast and speedy",
+        "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+        "domain": "economist.com",
+        "score": 90,
+        "descendants": 29,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "非洲通过分布式太阳能技术实现了能源基础设施的跨越式发展。"
+      },
+      {
+        "id": 50467087,
+        "title": "Jensen Huang resigns",
+        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+        "domain": "apnews.com",
+        "score": 3122,
+        "descendants": 2918,
+        "by": "lldb",
+        "tags": [],
+        "summary": "黄仁勋辞去英伟达职务的消息引发科技界巨大轰动及广泛讨论。"
+      },
+      {
+        "id": 50472038,
+        "title": "Rust 1.100",
+        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "domain": "blog.rust-lang.org",
+        "score": 501,
+        "descendants": 209,
+        "by": "mbStavola",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Rust发布1.100版本，带来了新的语言特性与性能改进。"
+      },
+      {
+        "id": 50477231,
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "domain": "wired.com",
+        "score": 181,
+        "descendants": 112,
+        "by": "lavendermon",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "英伟达员工发起请愿活动，呼吁挽留并让黄仁勋回归。"
+      },
+      {
+        "id": 50472260,
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "domain": "antigravity.google",
+        "score": 341,
+        "descendants": 87,
+        "by": "jonbaer",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌发布Gemini 4 Hydrogen，旨在通过新型编排机制提升AI运行效能。"
+      },
+      {
+        "id": 50470488,
+        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "url": "https://github.com/simpsoka/zigzag",
+        "domain": "github.com",
+        "score": 386,
+        "descendants": 148,
+        "by": "simpsoka",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "开发者为了规避订阅制，通过逆向工程为绣花机打造了自定义控制应用。"
+      },
+      {
+        "id": 50475713,
+        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "domain": "edge0.ai",
+        "score": 108,
+        "descendants": 22,
+        "by": "sroussey",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Edge0-145B模型实现了在普通个人电脑上运行前沿AI性能的能力。"
+      },
+      {
+        "id": 50472490,
+        "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+        "domain": "smithsonianmag.com",
+        "score": 223,
+        "descendants": 103,
+        "by": "cybermango",
+        "tags": [],
+        "summary": "科学家发现一颗轨道周期约为280年的候选矮行星。"
+      },
+      {
+        "id": 50474361,
+        "title": "Foundation Models framework",
+        "url": "https://developer.apple.com/foundation-models-framework/",
+        "domain": "developer.apple.com",
+        "score": 158,
+        "descendants": 22,
+        "by": "kermatt",
+        "tags": [
+          "AI"
+        ],
+        "summary": "苹果发布基础模型框架，为开发者提供构建与部署AI模型的新工具。"
+      },
+      {
+        "id": 50471731,
+        "title": "Service degradation on Microsoft 365",
+        "url": "https://status.cloud.microsoft/",
+        "domain": "status.cloud.microsoft",
+        "score": 595,
+        "descendants": 554,
+        "by": "dkpk",
+        "tags": [],
+        "summary": "微软365服务出现大范围降级，影响了全球用户的协作与办公。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "economist.com",
+          "count": 1
+        },
+        {
+          "domain": "apnews.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.rust-lang.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 570,
+      "max_score": {
+        "title": "Jensen Huang resigns",
+        "score": 3122
+      },
+      "most_discussed": {
+        "title": "Jensen Huang resigns",
+        "comments": 2918
+      },
+      "hot_tags": [
+        "AI",
+        "Rust",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于科技产业的重大变动，特别是Jensen Huang离职引发的行业震动及其后续影响。与此同时，AI技术边界持续拓展，涵盖了新型模型框架、本地化AI推理以及能源与前沿科学领域的创新研究。"
   }
 }
