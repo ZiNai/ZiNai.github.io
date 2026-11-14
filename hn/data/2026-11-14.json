@@ -157,5 +157,157 @@
       ]
     },
     "summary": "本期Hacker News热门内容展现了极客精神与技术的深度结合，涵盖了从逆向工程硬件、前沿AI研究到开源工具构建的多元话题。技术社区对生态建设（如Haskell）、怀旧科技史以及实用开源方案表现出了持续的高度关注。"
+  },
+  "noon": {
+    "time": "2026-11-14 11:51",
+    "stories": [
+      {
+        "id": 50492860,
+        "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+        "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+        "domain": "today.ucsd.edu",
+        "score": 64,
+        "descendants": 12,
+        "by": "gmays",
+        "tags": [],
+        "summary": "FAA已于协调世界时01:19解除全国航空禁飞指令。"
+      },
+      {
+        "id": 50493062,
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "domain": "github.com",
+        "score": 39,
+        "descendants": 1,
+        "by": "cobychapple",
+        "tags": [],
+        "summary": "机器学习推理库 Ggml 发布 1.0.0 正式版本。"
+      },
+      {
+        "id": 50492601,
+        "title": "FAA lifted National Ground Stop at 0119Z",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+        "domain": "fly.faa.gov",
+        "score": 205,
+        "descendants": 198,
+        "by": "d3nit",
+        "tags": []
+      },
+      {
+        "id": 50489641,
+        "title": "FAA issues national ground stop",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+        "domain": "nbcnews.com",
+        "score": 1396,
+        "descendants": 860,
+        "by": "zulln",
+        "tags": [],
+        "summary": "FAA 发布全国范围的地面停飞指令，导致大量航班受到影响。"
+      },
+      {
+        "id": 50491423,
+        "title": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/",
+        "domain": "joshka.net",
+        "score": 123,
+        "descendants": 59,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "探讨如何在不占用额外单元格空间的情况下设置终端边框的技术细节。"
+      },
+      {
+        "id": 50491830,
+        "title": "What Happened to 3Com?",
+        "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "domain": "dfarq.homeip.net",
+        "score": 74,
+        "descendants": 42,
+        "by": "gvieri",
+        "tags": [],
+        "summary": "回顾曾经的网络巨头 3Com 的兴衰历程及其对科技史的影响。"
+      },
+      {
+        "id": 50490593,
+        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "url": "https://orcasairband.com/",
+        "domain": "orcasairband.com",
+        "score": 229,
+        "descendants": 54,
+        "by": "mmaunder",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提供实时空管频段广播，追踪受禁飞令影响的航空动态。"
+      },
+      {
+        "id": 50474959,
+        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+        "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+        "domain": "scottjg.com",
+        "score": 697,
+        "descendants": 201,
+        "by": "scottjg",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者通过逆向工程改造 Coway 空气净化器，实现了摆脱云端控制的本地运行。"
+      },
+      {
+        "id": 50492456,
+        "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+        "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+        "domain": "english.nv.ua",
+        "score": 211,
+        "descendants": 98,
+        "by": "kaycebasques",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道称乌克兰在两周内摧毁了俄罗斯约 36% 的石油炼化产能。"
+      },
+      {
+        "id": 50491545,
+        "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+        "url": "https://grounds.top/",
+        "domain": "grounds.top",
+        "score": 61,
+        "descendants": 10,
+        "by": "gvsi",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Show HN：展示 FAA 禁飞期间美国上空航班实时动态的在线地图。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "today.ucsd.edu",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "fly.faa.gov",
+          "count": 1
+        }
+      ],
+      "avg_score": 310,
+      "max_score": {
+        "title": "FAA issues national ground stop",
+        "score": 1396
+      },
+      "most_discussed": {
+        "title": "FAA issues national ground stop",
+        "comments": 860
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在FAA发布的全国性航空禁飞令事件，引发了大量关于现场动态与后续影响的关注。此外，技术圈关注焦点涵盖了开源工具更新、逆向工程硬件改造以及地缘政治冲突下的能源设施损毁情况。"
   }
 }
