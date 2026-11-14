@@ -309,5 +309,150 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在FAA发布的全国性航空禁飞令事件，引发了大量关于现场动态与后续影响的关注。此外，技术圈关注焦点涵盖了开源工具更新、逆向工程硬件改造以及地缘政治冲突下的能源设施损毁情况。"
+  },
+  "evening": {
+    "time": "2026-11-14 19:03",
+    "stories": [
+      {
+        "id": 50440709,
+        "title": "Why get an expensive Pi when I have an old phone?",
+        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "domain": "so.long.thanks.fish",
+        "score": 79,
+        "descendants": 45,
+        "by": "casi",
+        "tags": []
+      },
+      {
+        "id": 50493062,
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "domain": "github.com",
+        "score": 275,
+        "descendants": 45,
+        "by": "cobychapple",
+        "tags": []
+      },
+      {
+        "id": 50493904,
+        "title": "Monkey Island: all 13 versions side by side",
+        "url": "https://monkeyisland.pages.dev/",
+        "domain": "monkeyisland.pages.dev",
+        "score": 146,
+        "descendants": 38,
+        "by": "maximilianburke",
+        "tags": []
+      },
+      {
+        "id": 50493251,
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "domain": "techpowerup.com",
+        "score": 607,
+        "descendants": 353,
+        "by": "speckx",
+        "tags": [
+          "AI",
+          "Startup",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50489641,
+        "title": "FAA issues national ground stop – lifted 4.5 hours later",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+        "domain": "nbcnews.com",
+        "score": 1552,
+        "descendants": 1174,
+        "by": "zulln",
+        "tags": []
+      },
+      {
+        "id": 50491980,
+        "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+        "url": "https://unsloth.ai/docs/models/qwen3.8",
+        "domain": "unsloth.ai",
+        "score": 150,
+        "descendants": 46,
+        "by": "Retro_Dev",
+        "tags": []
+      },
+      {
+        "id": 50491423,
+        "title": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/",
+        "domain": "joshka.net",
+        "score": 266,
+        "descendants": 117,
+        "by": "vinhnx",
+        "tags": []
+      },
+      {
+        "id": 50491545,
+        "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+        "url": "https://grounds.top/",
+        "domain": "grounds.top",
+        "score": 151,
+        "descendants": 21,
+        "by": "gvsi",
+        "tags": [
+          "Show HN"
+        ]
+      },
+      {
+        "id": 50491830,
+        "title": "What happened to 3Com?",
+        "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "domain": "dfarq.homeip.net",
+        "score": 149,
+        "descendants": 77,
+        "by": "gvieri",
+        "tags": []
+      },
+      {
+        "id": 50484658,
+        "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+        "domain": "youtube.com",
+        "score": 304,
+        "descendants": 381,
+        "by": "helloplanets",
+        "tags": [
+          "AI"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "so.long.thanks.fish",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "monkeyisland.pages.dev",
+          "count": 1
+        }
+      ],
+      "avg_score": 368,
+      "max_score": {
+        "title": "FAA issues national ground stop – lifted 4.5 hours later",
+        "score": 1552
+      },
+      "most_discussed": {
+        "title": "FAA issues national ground stop – lifted 4.5 hours later",
+        "comments": 1174
+      },
+      "hot_tags": [
+        "AI",
+        "Startup",
+        "Hardware",
+        "Show HN"
+      ]
+    },
+    "summary": ""
   }
 }
