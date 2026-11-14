@@ -1,0 +1,167 @@
+{
+  "morning": {
+    "time": "2026-11-15 01:36",
+    "stories": [
+      {
+        "id": 50498063,
+        "title": "Italy fines Meta €805M over photo privacy",
+        "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+        "domain": "rapporteur.com",
+        "score": 76,
+        "descendants": 27,
+        "by": "jruohonen",
+        "tags": [
+          "Security"
+        ],
+        "summary": "意大利监管机构因图片隐私违规对 Meta 处以 8.05 亿欧元罚款。"
+      },
+      {
+        "id": 50497892,
+        "title": "PyPI's redesigned project pages with clearer security signals are now live",
+        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "domain": "blog.pypi.org",
+        "score": 87,
+        "descendants": 18,
+        "by": "rbanffy",
+        "tags": [
+          "Security"
+        ],
+        "summary": "PyPI 更新了项目页面设计，旨在通过更直观的安全信号提升包管理安全性。"
+      },
+      {
+        "id": 50496976,
+        "title": "KDE: The Documentary on Free Software [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "domain": "tube.kockatoo.org",
+        "score": 161,
+        "descendants": 25,
+        "by": "mrkn1",
+        "tags": [],
+        "summary": "这部关于 KDE 的纪录片详细回顾了自由软件运动的发展历程。"
+      },
+      {
+        "id": 50440709,
+        "title": "Why get an expensive Pi when I have an old phone?",
+        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "domain": "so.long.thanks.fish",
+        "score": 370,
+        "descendants": 225,
+        "by": "casi",
+        "tags": [],
+        "summary": "讨论了为何相较于购买昂贵的树莓派，旧手机在某些DIY项目中更具性价比。"
+      },
+      {
+        "id": 50496811,
+        "title": "Advancing science and engineering with Antigravity's /teamwork",
+        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+        "domain": "research.google",
+        "score": 67,
+        "descendants": 16,
+        "by": "acossta",
+        "tags": [
+          "Science"
+        ],
+        "summary": "谷歌研究团队介绍了 Antigravity 的 /teamwork 平台如何加速科学与工程研究。"
+      },
+      {
+        "id": 50497132,
+        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "domain": "gitlab.com",
+        "score": 73,
+        "descendants": 12,
+        "by": "snipedbywifi",
+        "tags": [
+          "Rust",
+          "Show HN"
+        ],
+        "summary": "基于 Rust 和 Ratatui 库开发的终端原生放置类工厂模拟游戏。"
+      },
+      {
+        "id": 50441444,
+        "title": "Generative AI uses more energy on non-English text",
+        "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+        "domain": "news.umich.edu",
+        "score": 94,
+        "descendants": 64,
+        "by": "DeepLogin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究指出生成式 AI 在处理非英语文本时，会消耗更多的计算能源。"
+      },
+      {
+        "id": 50497147,
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "domain": "github.com",
+        "score": 47,
+        "descendants": 12,
+        "by": "paul_nameless",
+        "tags": [
+          "Web",
+          "Show HN"
+        ],
+        "summary": "一款极简主义的 AI 智能体浏览器，旨在通过减少干扰提升操作效率。"
+      },
+      {
+        "id": 50497137,
+        "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+        "url": "https://github.com/FURSOY/fursoy-cpu",
+        "domain": "github.com",
+        "score": 29,
+        "descendants": 7,
+        "by": "fursoy",
+        "tags": [
+          "Systems",
+          "Show HN"
+        ],
+        "summary": "使用 SystemVerilog 实现的支持 Linux 6.6 的乱序 RV64IMAFDV CPU 核心。"
+      },
+      {
+        "id": 50493062,
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "domain": "github.com",
+        "score": 376,
+        "descendants": 62,
+        "by": "cobychapple",
+        "tags": [],
+        "summary": "机器学习推理库 ggml 发布 v1.0.0 正式版本。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "rapporteur.com",
+          "count": 1
+        },
+        {
+          "domain": "blog.pypi.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 138,
+      "max_score": {
+        "title": "Ggml v1.0.0",
+        "score": 376
+      },
+      "most_discussed": {
+        "title": "Why get an expensive Pi when I have an old phone?",
+        "comments": 225
+      },
+      "hot_tags": [
+        "Show HN",
+        "Security",
+        "Science",
+        "Rust",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 聚焦科技行业的法律监管与开源生态，涵盖 Meta 因隐私问题面临巨额罚单及 PyPI 强化安全透明度等重要事件。同时，技术界对于高性能计算、嵌入式系统复用以及大模型能源效率的探讨热度依然不减。"
+  }
+}
