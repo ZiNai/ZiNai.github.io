@@ -163,5 +163,162 @@
       ]
     },
     "summary": "本期 Hacker News 聚焦科技行业的法律监管与开源生态，涵盖 Meta 因隐私问题面临巨额罚单及 PyPI 强化安全透明度等重要事件。同时，技术界对于高性能计算、嵌入式系统复用以及大模型能源效率的探讨热度依然不减。"
+  },
+  "noon": {
+    "time": "2026-11-15 11:32",
+    "stories": [
+      {
+        "id": 50500963,
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "domain": "spacex.com",
+        "score": 848,
+        "descendants": 573,
+        "by": "ls612",
+        "tags": [
+          "Science"
+        ],
+        "summary": "SpaceX在第15次飞行测试中成功捕捉星舰助推器，创造航天回收技术里程碑。"
+      },
+      {
+        "id": 50499017,
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "domain": "crissyfield.de",
+        "score": 691,
+        "descendants": 283,
+        "by": "armcat",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Lovable应用被曝存在严重安全漏洞，导致大量护照详情及私人聊天记录泄露。"
+      },
+      {
+        "id": 50501594,
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
+        "domain": "retrocomputing.stackexchange.com",
+        "score": 132,
+        "descendants": 44,
+        "by": "Skyfall106",
+        "tags": [],
+        "summary": "探讨沃兹尼亚克如何在硬件开发完成前，通过精密推演编写出Apple 1的基础编程语言。"
+      },
+      {
+        "id": 50499038,
+        "title": "A family tree of software job titles",
+        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+        "domain": "zwischenzugs.com",
+        "score": 232,
+        "descendants": 113,
+        "by": "umerf",
+        "tags": [],
+        "summary": "通过谱系图梳理软件开发行业中各类职位头衔的演变与层级关系。"
+      },
+      {
+        "id": 50501631,
+        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+        "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+        "domain": "techspot.com",
+        "score": 271,
+        "descendants": 147,
+        "by": "madihaa",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "报道称英伟达涉嫌通过循环融资策略人为维持高昂的GPU市场价格。"
+      },
+      {
+        "id": 50496976,
+        "title": "KDE: The documentary [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "domain": "tube.kockatoo.org",
+        "score": 402,
+        "descendants": 87,
+        "by": "mrkn1",
+        "tags": [],
+        "summary": "一部关于KDE桌面环境发展历程的纪录片，记录了开源软件的成长与演变。"
+      },
+      {
+        "id": 50503255,
+        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+        "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+        "domain": "eff.org",
+        "score": 60,
+        "descendants": 9,
+        "by": "nobody9999",
+        "tags": [],
+        "summary": "电子前沿基金会起诉要求法院强制规定对自动车牌识别系统（ALPR）进行搜索需申请搜查令。"
+      },
+      {
+        "id": 50497892,
+        "title": "PyPI's redesigned project pages with clearer security signals are now live",
+        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "domain": "blog.pypi.org",
+        "score": 215,
+        "descendants": 94,
+        "by": "rbanffy",
+        "tags": [
+          "Security"
+        ],
+        "summary": "PyPI平台正式上线全新项目页面，通过更直观的标识强化软件包安全预警。"
+      },
+      {
+        "id": 50483431,
+        "title": "500 Lines or Less A 3D Modeller",
+        "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+        "domain": "aosabook.org",
+        "score": 20,
+        "descendants": 1,
+        "by": "myth_drannon",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入浅出地讲解如何通过不超过500行代码实现一个基础的3D建模工具。"
+      },
+      {
+        "id": 50440709,
+        "title": "Why get an expensive Pi when I have an old phone?",
+        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "domain": "so.long.thanks.fish",
+        "score": 527,
+        "descendants": 286,
+        "by": "casi",
+        "tags": [],
+        "summary": "讨论为何与其购买昂贵的树莓派，不如利用闲置智能手机进行各类嵌入式开发实验。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "spacex.com",
+          "count": 1
+        },
+        {
+          "domain": "crissyfield.de",
+          "count": 1
+        },
+        {
+          "domain": "retrocomputing.stackexchange.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 340,
+      "max_score": {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "score": 848
+      },
+      "most_discussed": {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "comments": 573
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门内容涵盖了前沿科技的重大里程碑与争议性议题，从SpaceX的航天工程突破到针对大型科技公司的财务操纵质疑。同时，社区对个人隐私安全、复古计算历史以及开源软件生态演进表现出了高度关注。"
   }
 }
