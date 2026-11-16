@@ -316,5 +316,166 @@
       ]
     },
     "summary": "本期Hacker News焦点集中在网络安全漏洞与威胁，包括uBlock Origin的XSS漏洞、Bitly链接劫持以及Coles的网络攻击事件。同时，技术社区对于AI大模型Qwen4-Max的发布及Nvidia的未来前景保持高度关注，此外关于地理信息基础设施与自然科学研究的讨论也颇具热度。"
+  },
+  "evening": {
+    "time": "2026-11-16 20:11",
+    "stories": [
+      {
+        "id": 50516245,
+        "title": "Coffeehouses and the Rise of Science [pdf]",
+        "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+        "domain": "monirbounadi.com",
+        "score": 41,
+        "descendants": 17,
+        "by": "Michelangelo11",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨了17世纪咖啡馆文化如何促进科学交流与知识传播的历史联系。"
+      },
+      {
+        "id": 50516232,
+        "title": "Doing Show HN generates a ton of automated email pitches",
+        "url": "https://petervandijck.com/post/pbrgs-ev0bc",
+        "domain": "petervandijck.com",
+        "score": 32,
+        "descendants": 23,
+        "by": "petervandijck",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "分析了在Hacker News展示个人项目后遭遇大量自动化邮件推销的现象。"
+      },
+      {
+        "id": 50514470,
+        "title": "How to make almost anything",
+        "url": "https://pub.cba.mit.edu/863.26/site/",
+        "domain": "pub.cba.mit.edu",
+        "score": 387,
+        "descendants": 73,
+        "by": "o4c",
+        "tags": [],
+        "summary": "麻省理工学院经典课程《如何制造几乎任何东西》的资源汇总与介绍。"
+      },
+      {
+        "id": 50513160,
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "url": "https://iter.ca/post/ubo-uxss/",
+        "domain": "iter.ca",
+        "score": 416,
+        "descendants": 120,
+        "by": "zaik",
+        "tags": [
+          "Web"
+        ],
+        "summary": "披露了uBlock Origin中由元素选择器引发的通用跨站脚本漏洞详情。"
+      },
+      {
+        "id": 50516473,
+        "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+        "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+        "domain": "masnick.com",
+        "score": 8,
+        "descendants": 0,
+        "by": "sammatilda",
+        "tags": [],
+        "summary": "回顾了一项能够通过特定按键序列唤醒部分故障ThinkPad的隐藏技巧。"
+      },
+      {
+        "id": 50486745,
+        "title": "Researchers track whole body movement with just a smartwatch",
+        "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+        "domain": "news.cornell.edu",
+        "score": 75,
+        "descendants": 15,
+        "by": "PaulHoule",
+        "tags": [
+          "Science"
+        ],
+        "summary": "展示了研究人员仅凭智能手表传感器即可实现全身动作追踪的技术成果。"
+      },
+      {
+        "id": 50513215,
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "domain": "qwen.ai",
+        "score": 604,
+        "descendants": 254,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "阿里云发布Qwen4-Max大语言模型，引发社区对顶尖AI模型性能的广泛关注。"
+      },
+      {
+        "id": 50511395,
+        "title": "Old Bitly links are being hijacked",
+        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "domain": "ransomnews.com",
+        "score": 312,
+        "descendants": 158,
+        "by": "hspeiser",
+        "tags": [],
+        "summary": "警告旧版Bitly链接正面临被恶意劫持并重定向至钓鱼网站的风险。"
+      },
+      {
+        "id": 50512235,
+        "title": "What's Next for Nvidia?",
+        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "domain": "steveblank.com",
+        "score": 294,
+        "descendants": 373,
+        "by": "zdw",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "深度剖析在AI算力需求持续增长的背景下，Nvidia未来的战略挑战与机遇。"
+      },
+      {
+        "id": 50487628,
+        "title": "Exact Gradients Through a BRep Kernel",
+        "url": "https://muni.works/research/vcad",
+        "domain": "muni.works",
+        "score": 15,
+        "descendants": 3,
+        "by": "ecto",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨了通过BRep核实现精确梯度计算的几何建模技术方案。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "monirbounadi.com",
+          "count": 1
+        },
+        {
+          "domain": "petervandijck.com",
+          "count": 1
+        },
+        {
+          "domain": "pub.cba.mit.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 218,
+      "max_score": {
+        "title": "Qwen4-Max",
+        "score": 604
+      },
+      "most_discussed": {
+        "title": "What's Next for Nvidia?",
+        "comments": 373
+      },
+      "hot_tags": [
+        "Science",
+        "AI",
+        "Show HN",
+        "Web",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News焦点涵盖了网络安全漏洞（如uBlock Origin XSS及Bitly链接劫持）、前沿人工智能模型发布，以及技术历史与硬件工程的深度探讨。整体讨论重心偏向安全性防御、大模型演进趋势及硬核科技的应用探索。"
   }
 }
