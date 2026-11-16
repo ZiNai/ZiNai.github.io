@@ -157,5 +157,164 @@
       ]
     },
     "summary": "本期Hacker News热门讨论聚焦于前沿科技与底层技术的博弈，涵盖AI生成代码的版权争议、硬件显示技术的舒适度挑战以及航天工程的重大里程碑。此外，社区对复古计算、工程数学教育以及产业竞争诉讼等话题依然保持着高度关注。"
+  },
+  "noon": {
+    "time": "2026-11-16 11:32",
+    "stories": [
+      {
+        "id": 50513160,
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "url": "https://iter.ca/post/ubo-uxss/",
+        "domain": "iter.ca",
+        "score": 89,
+        "descendants": 13,
+        "by": "zaik",
+        "tags": [
+          "Web"
+        ],
+        "summary": "uBlock Origin的元素选择器功能被发现存在通用型XSS漏洞。"
+      },
+      {
+        "id": 50511395,
+        "title": "Old Bitly links are being hijacked",
+        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "domain": "ransomnews.com",
+        "score": 202,
+        "descendants": 107,
+        "by": "hspeiser",
+        "tags": [],
+        "summary": "研究显示旧的Bitly短链接正遭受劫持，可能引发安全风险。"
+      },
+      {
+        "id": 50512824,
+        "title": "Coles hit by a cybersecurity incident",
+        "url": "https://www.colesgroup.com.au/updates/",
+        "domain": "colesgroup.com.au",
+        "score": 58,
+        "descendants": 36,
+        "by": "sagunsh",
+        "tags": [
+          "Security"
+        ],
+        "summary": "澳大利亚零售巨头Coles近期遭遇网络安全事件的影响。"
+      },
+      {
+        "id": 50513215,
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "domain": "qwen.ai",
+        "score": 112,
+        "descendants": 19,
+        "by": "ilreb",
+        "tags": [],
+        "summary": "阿里巴巴发布Qwen4-Max大模型，引发行业对最新AI性能的关注。"
+      },
+      {
+        "id": 50512235,
+        "title": "What's Next for Nvidia?",
+        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "domain": "steveblank.com",
+        "score": 99,
+        "descendants": 110,
+        "by": "zdw",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "知名博主探讨英伟达在当前AI浪潮后的未来发展路径与挑战。"
+      },
+      {
+        "id": 50511806,
+        "title": "Preserving 30 years of Salon journalism",
+        "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+        "domain": "blog.archive.org",
+        "score": 92,
+        "descendants": 27,
+        "by": "CharlesW",
+        "tags": [],
+        "summary": "互联网档案馆致力于保存Salon杂志过去30年的深度新闻报道。"
+      },
+      {
+        "id": 50512441,
+        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+        "domain": "forum.torproject.org",
+        "score": 59,
+        "descendants": 8,
+        "by": "aillia",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "Tor项目针对持续的DDoS攻击发布了快速防御更新。"
+      },
+      {
+        "id": 50509837,
+        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+        "url": "https://bruceroettgers.eu/blog/protomaps/",
+        "domain": "bruceroettgers.eu",
+        "score": 204,
+        "descendants": 46,
+        "by": "bcye",
+        "tags": [],
+        "summary": "文章介绍了Protomaps如何通过简化流程，降低自建地图瓦片的成本与门槛。"
+      },
+      {
+        "id": 50509308,
+        "title": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "domain": "youtube.com",
+        "score": 191,
+        "descendants": 85,
+        "by": "nharada",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一段简短视频解释了厄尔尼诺现象背后的科学运行机制。"
+      },
+      {
+        "id": 50509023,
+        "title": "Crows make decisions faster than we can",
+        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+        "domain": "nytimes.com",
+        "score": 184,
+        "descendants": 137,
+        "by": "gumby",
+        "tags": [],
+        "summary": "最新科学研究表明，乌鸦在决策速度上表现出优于人类的认知能力。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "iter.ca",
+          "count": 1
+        },
+        {
+          "domain": "ransomnews.com",
+          "count": 1
+        },
+        {
+          "domain": "colesgroup.com.au",
+          "count": 1
+        }
+      ],
+      "avg_score": 129,
+      "max_score": {
+        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+        "score": 204
+      },
+      "most_discussed": {
+        "title": "Crows make decisions faster than we can",
+        "comments": 137
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Security",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在网络安全漏洞与威胁，包括uBlock Origin的XSS漏洞、Bitly链接劫持以及Coles的网络攻击事件。同时，技术社区对于AI大模型Qwen4-Max的发布及Nvidia的未来前景保持高度关注，此外关于地理信息基础设施与自然科学研究的讨论也颇具热度。"
   }
 }
