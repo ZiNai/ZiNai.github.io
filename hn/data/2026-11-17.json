@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-11-17 05:33",
+    "stories": [
+      {
+        "id": 50521045,
+        "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "domain": "apnews.com",
+        "score": 541,
+        "descendants": 409,
+        "by": "samk3nny",
+        "tags": [],
+        "summary": "美国多家主要银行（如美银、大通、富国银行）出现大规模系统宕机，引发广泛关注。"
+      },
+      {
+        "id": 50520182,
+        "title": "Grazing sheep in fields with solar arrays",
+        "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+        "domain": "news.cornell.edu",
+        "score": 155,
+        "descendants": 125,
+        "by": "PaulHoule",
+        "tags": [],
+        "summary": "研究探讨了在光伏电站中引入绵羊放牧，以实现土地多功能利用的生态实践。"
+      },
+      {
+        "id": 50519744,
+        "title": "Jiff 1.0: A datetime library for Rust",
+        "url": "https://burntsushi.net/jiff/",
+        "domain": "burntsushi.net",
+        "score": 240,
+        "descendants": 51,
+        "by": "burntsushi",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "Rust 社区迎来全新日期时间处理库 Jiff 1.0，旨在提供更安全且易用的时间 API。"
+      },
+      {
+        "id": 50522563,
+        "title": "Rust changed me as a developer",
+        "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+        "domain": "blog.startifact.com",
+        "score": 40,
+        "descendants": 5,
+        "by": "speckx",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "作者分享了使用 Rust 开发的个人经历，探讨该语言如何重塑其编程思维与习惯。"
+      },
+      {
+        "id": 50519354,
+        "title": "Frame – 31.5\" color ePaper display",
+        "url": "https://trmnl.com/blog/introducing-frame",
+        "domain": "trmnl.com",
+        "score": 203,
+        "descendants": 125,
+        "by": "geerlingguy",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍了一款 31.5 英寸的大尺寸彩色电子纸显示屏，旨在提供低功耗的桌面显示解决方案。"
+      },
+      {
+        "id": 50522776,
+        "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+        "url": "https://news.ycombinator.com/item?id=50522776",
+        "domain": "news.ycombinator.com",
+        "score": 18,
+        "descendants": 4,
+        "by": "arshpatankar",
+        "tags": [
+          "Startup"
+        ],
+        "summary": "Axonnic 推出了一款能追踪手指动作并估算力度的穿戴式袖套，应用于交互控制领域。"
+      },
+      {
+        "id": 50523291,
+        "title": "My Quest to push native Three.js quality match AAA Game Engines",
+        "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+        "domain": "ben3d.ca",
+        "score": 10,
+        "descendants": 0,
+        "by": "bhouston",
+        "tags": [],
+        "summary": "开发者分享了其将原生 Three.js 的视觉表现力提升至 AAA 级游戏引擎水准的技术尝试。"
+      },
+      {
+        "id": 50515151,
+        "title": "Squircles",
+        "url": "https://linebender.org/wiki/curves/squircle/",
+        "domain": "linebender.org",
+        "score": 51,
+        "descendants": 15,
+        "by": "raphlinus",
+        "tags": [],
+        "summary": "深入探讨了“圆角矩形”（Squircle）的数学特性及其在现代 UI 设计中的视觉美学。"
+      },
+      {
+        "id": 50521870,
+        "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+        "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+        "domain": "interceptsuite.com",
+        "score": 29,
+        "descendants": 1,
+        "by": "anof-cyber",
+        "tags": [],
+        "summary": "技术教程：探讨了如何对采用 QUIC 和 Qpack 协议的 HTTP/3 加密流量进行拦截分析。"
+      },
+      {
+        "id": 50520804,
+        "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+        "url": "https://openai.com/index/strengthening-online-child-safety/",
+        "domain": "openai.com",
+        "score": 69,
+        "descendants": 115,
+        "by": "rossant",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI 发布公告，阐述其为打击在线儿童性虐待内容所采取的强化防御措施。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "apnews.com",
+          "count": 1
+        },
+        {
+          "domain": "news.cornell.edu",
+          "count": 1
+        },
+        {
+          "domain": "burntsushi.net",
+          "count": 1
+        }
+      ],
+      "avg_score": 136,
+      "max_score": {
+        "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+        "score": 541
+      },
+      "most_discussed": {
+        "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+        "comments": 409
+      },
+      "hot_tags": [
+        "Rust",
+        "Science",
+        "Startup",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在金融系统大面积宕机事件，引发了广泛的技术与安全关注。与此同时，开发社区对 Rust 生态（如 Jiff 库）及硬件创新（如 ePaper 显示器与传感设备）表现出浓厚兴趣，反映了程序员对底层工具与交互技术演进的持续探索。"
+  }
+}
