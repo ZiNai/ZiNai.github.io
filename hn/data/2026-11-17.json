@@ -155,5 +155,156 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在金融系统大面积宕机事件，引发了广泛的技术与安全关注。与此同时，开发社区对 Rust 生态（如 Jiff 库）及硬件创新（如 ePaper 显示器与传感设备）表现出浓厚兴趣，反映了程序员对底层工具与交互技术演进的持续探索。"
+  },
+  "noon": {
+    "time": "2026-11-17 13:30",
+    "stories": [
+      {
+        "id": 50522980,
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "url": "https://www.cs.cmu.edu/learn/",
+        "domain": "cs.cmu.edu",
+        "score": 1054,
+        "descendants": 158,
+        "by": "pcompeau",
+        "tags": [
+          "Science"
+        ],
+        "summary": "卡内基梅隆大学将其计算机科学课程免费发布在YouTube上，旨在降低顶尖CS教育的门槛。"
+      },
+      {
+        "id": 50524736,
+        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+        "domain": "xusheng.dev",
+        "score": 403,
+        "descendants": 258,
+        "by": "cwaffles",
+        "tags": [],
+        "summary": "研究发现Windows 11会收集用户使用的编程代理及开发工具相关信息，引发对开发环境隐私的担忧。"
+      },
+      {
+        "id": 50523601,
+        "title": "BugMeNot has closed",
+        "url": "https://www.bugmenot.com/",
+        "domain": "bugmenot.com",
+        "score": 422,
+        "descendants": 204,
+        "by": "lode",
+        "tags": [],
+        "summary": "著名的账号共享服务网站BugMeNot正式关闭。"
+      },
+      {
+        "id": 50524767,
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+        "domain": "blog.report-uri.com",
+        "score": 212,
+        "descendants": 97,
+        "by": "kristjansson",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Optimizely遭到入侵，攻击者通过该平台向使用Zoom和GitLab的用户投放恶意软件。"
+      },
+      {
+        "id": 50526560,
+        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "url": "https://support.apple.com/en-us/149699",
+        "domain": "support.apple.com",
+        "score": 61,
+        "descendants": 36,
+        "by": "jshier",
+        "tags": [],
+        "summary": "苹果官方提供的针对请求全盘访问权限或系统保护覆盖的应用的排查与建议指南。"
+      },
+      {
+        "id": 50510969,
+        "title": "Why did modems have speakers? (2019)",
+        "url": "https://retrocomputing.stackexchange.com/questions/11765",
+        "domain": "retrocomputing.stackexchange.com",
+        "score": 24,
+        "descendants": 10,
+        "by": "Skyfall106",
+        "tags": [],
+        "summary": "深度解析老式调制解调器内置扬声器的历史渊源及其在早期拨号网络中的功能作用。"
+      },
+      {
+        "id": 50523459,
+        "title": "OpenCode Browse",
+        "url": "https://opencode.ai/product/browse",
+        "domain": "opencode.ai",
+        "score": 181,
+        "descendants": 81,
+        "by": "mfiguiere",
+        "tags": [],
+        "summary": "OpenCode Browse旨在提供一种全新的代码浏览和探索体验工具。"
+      },
+      {
+        "id": 50526152,
+        "title": "Running coding agents without handing them my credentials",
+        "url": "https://blog.antonio.cx/running-agents-with-lend",
+        "domain": "blog.antonio.cx",
+        "score": 76,
+        "descendants": 36,
+        "by": "antoniomika",
+        "tags": [],
+        "summary": "探讨如何在不直接提供敏感凭据的前提下，安全地运行AI编码代理以保障开发安全。"
+      },
+      {
+        "id": 50525575,
+        "title": "Why 3dfx 1 cards had such a washed out color output?",
+        "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+        "domain": "twitter.com",
+        "score": 56,
+        "descendants": 5,
+        "by": "mfiguiere",
+        "tags": [],
+        "summary": "探讨为何早期的3dfx 1显卡会出现画面色彩偏灰暗或饱和度不足的现象。"
+      },
+      {
+        "id": 50522643,
+        "title": "Chemistry is Actually Geometry",
+        "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+        "domain": "chillphysicsenjoyer.substack.com",
+        "score": 172,
+        "descendants": 85,
+        "by": "sebg",
+        "tags": [
+          "Science"
+        ],
+        "summary": "探讨化学分子结构及其反应逻辑本质上可以归结为几何学问题。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "cs.cmu.edu",
+          "count": 1
+        },
+        {
+          "domain": "xusheng.dev",
+          "count": 1
+        },
+        {
+          "domain": "bugmenot.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 266,
+      "max_score": {
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "score": 1054
+      },
+      "most_discussed": {
+        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "comments": 258
+      },
+      "hot_tags": [
+        "Science",
+        "Open Source"
+      ]
+    },
+    "summary": "今日Hacker News讨论焦点主要围绕开源教育资源的普及与开发者工具的安全隐私挑战。从卡内基梅隆大学的公开课到Windows系统的数据采集行为，体现了技术社区对隐私保护、供应链安全及底层技术原理的持续关注。"
   }
 }
