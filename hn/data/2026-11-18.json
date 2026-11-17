@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-11-18 04:23",
+    "stories": [
+      {
+        "id": 50535230,
+        "title": "GPT‑6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "domain": "openai.com",
+        "score": 711,
+        "descendants": 432,
+        "by": "jasondavies",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布了GPT-6.2 Astra及其相关代理模型，引发了关于模型能力与未来发展的广泛讨论。"
+      },
+      {
+        "id": 50535238,
+        "title": "Apple Services Down",
+        "url": "https://developer.apple.com/system-status/",
+        "domain": "developer.apple.com",
+        "score": 407,
+        "descendants": 226,
+        "by": "willy_k",
+        "tags": [],
+        "summary": "苹果公司开发者服务突发大规模宕机，影响了全球开发者的工作流。"
+      },
+      {
+        "id": 50535885,
+        "title": "MAI Code 2 and Code 2 Flash",
+        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+        "domain": "microsoft.ai",
+        "score": 135,
+        "descendants": 64,
+        "by": "lemonish97",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软推出了MAI Code 2与Code 2 Flash，进一步加码AI辅助编程工具市场。"
+      },
+      {
+        "id": 50537156,
+        "title": "jQuery 4.1.0",
+        "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+        "domain": "github.com",
+        "score": 46,
+        "descendants": 19,
+        "by": "petecooper",
+        "tags": [],
+        "summary": "经典JavaScript库jQuery发布4.1.0版本，继续维护和优化现代Web开发基础。"
+      },
+      {
+        "id": 50536813,
+        "title": "350 years ago, this man discovered that light has a finite speed",
+        "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+        "domain": "sciencenorway.no",
+        "score": 55,
+        "descendants": 5,
+        "by": "dxs",
+        "tags": [],
+        "summary": "回顾350年前奥勒·罗默发现光速有限的科学历史，重温物理学奠基时刻。"
+      },
+      {
+        "id": 50535992,
+        "title": "Phrack 73 Released",
+        "url": "https://phrack.org/issues/73/introduction_md",
+        "domain": "phrack.org",
+        "score": 88,
+        "descendants": 4,
+        "by": "notmine1337",
+        "tags": [],
+        "summary": "传奇黑客杂志Phrack发布第73期，持续记录底层技术与安全文化。"
+      },
+      {
+        "id": 50537290,
+        "title": "Web Browser Engineering",
+        "url": "https://browser.engineering/",
+        "domain": "browser.engineering",
+        "score": 12,
+        "descendants": 0,
+        "by": "ibobev",
+        "tags": [
+          "Web"
+        ],
+        "summary": "关于《Web浏览器工程》的深度内容，探讨浏览器背后的核心架构与开发原理。"
+      },
+      {
+        "id": 50536387,
+        "title": "Solid 2.0",
+        "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+        "domain": "solidjs.com",
+        "score": 75,
+        "descendants": 19,
+        "by": "pier25",
+        "tags": [],
+        "summary": "SolidJS框架推出2.0版本，带来了性能优化与开发体验的改进。"
+      },
+      {
+        "id": 50532191,
+        "title": "What is the best harness for each model?",
+        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+        "domain": "runta.com",
+        "score": 271,
+        "descendants": 97,
+        "by": "Edward40",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨如何为不同的机器学习模型选择最适合的评估框架与测试工具。"
+      },
+      {
+        "id": 50536468,
+        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+        "url": "https://starsling.dev",
+        "domain": "starsling.dev",
+        "score": 24,
+        "descendants": 8,
+        "by": "yonasb",
+        "tags": [
+          "Systems",
+          "Startup"
+        ],
+        "summary": "YC创业项目StarSling发布，旨在通过自改进CI流程提升AI代理代码库的开发效率。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "developer.apple.com",
+          "count": 1
+        },
+        {
+          "domain": "microsoft.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 182,
+      "max_score": {
+        "title": "GPT‑6.2 Astra and Sol",
+        "score": 711
+      },
+      "most_discussed": {
+        "title": "GPT‑6.2 Astra and Sol",
+        "comments": 432
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Startup"
+      ]
+    },
+    "summary": "本期Hacker News热点聚焦于AI领域的快速演进，包括OpenAI与微软发布的新模型与工具，同时也涵盖了Apple服务中断、软件框架更新及经典科学历史等技术议题。开发者生态圈保持活跃，从基础网络技术到AI工程化工具均有显著讨论。"
+  }
+}
