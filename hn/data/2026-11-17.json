@@ -306,5 +306,159 @@
       ]
     },
     "summary": "今日Hacker News讨论焦点主要围绕开源教育资源的普及与开发者工具的安全隐私挑战。从卡内基梅隆大学的公开课到Windows系统的数据采集行为，体现了技术社区对隐私保护、供应链安全及底层技术原理的持续关注。"
+  },
+  "evening": {
+    "time": "2026-11-17 20:36",
+    "stories": [
+      {
+        "id": 50522980,
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "url": "https://www.cs.cmu.edu/learn/",
+        "domain": "cs.cmu.edu",
+        "score": 1697,
+        "descendants": 231,
+        "by": "pcompeau",
+        "tags": [
+          "Science"
+        ],
+        "summary": "卡内基梅隆大学在 YouTube 上免费公开其核心计算机科学课程。"
+      },
+      {
+        "id": 50511874,
+        "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+        "url": "https://visualbasic.world/",
+        "domain": "visualbasic.world",
+        "score": 73,
+        "descendants": 25,
+        "by": "broast",
+        "tags": [],
+        "summary": "一个汇集了 1997 年至 2012 年间 Planet Source Code 平台 VB 程序的在线画廊。"
+      },
+      {
+        "id": 50508845,
+        "title": "Japan's Hometown Tax (2018)",
+        "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+        "domain": "kalzumeus.com",
+        "score": 69,
+        "descendants": 34,
+        "by": "waximabbax",
+        "tags": [],
+        "summary": "探讨数据库领域中行式存储与列式存储的核心差异及适用场景。"
+      },
+      {
+        "id": 50523601,
+        "title": "BugMeNot has closed",
+        "url": "https://www.bugmenot.com/",
+        "domain": "bugmenot.com",
+        "score": 595,
+        "descendants": 270,
+        "by": "lode",
+        "tags": [],
+        "summary": "备受开发者青睐的共享登录凭据平台 BugMeNot 已正式关闭。"
+      },
+      {
+        "id": 50524767,
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+        "domain": "blog.report-uri.com",
+        "score": 421,
+        "descendants": 168,
+        "by": "kristjansson",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "Optimizely 遭受入侵，其平台被用于传播针对 Zoom 和 GitLab 用户的恶意软件。"
+      },
+      {
+        "id": 50512779,
+        "title": "Nimony: A New Compiler for Nim",
+        "url": "https://nimony.org/",
+        "domain": "nimony.org",
+        "score": 91,
+        "descendants": 32,
+        "by": "Fervicus",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍了 Nim 语言的一款全新编译器 Nimony，旨在提升编译体验与效率。"
+      },
+      {
+        "id": 50529612,
+        "title": "How the Claude Code team thinks about verification",
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "domain": "claude.dev",
+        "score": 56,
+        "descendants": 66,
+        "by": "craigmart",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Claude Code 开发团队分享其在 AI 代码验证与可靠性保障方面的设计哲学。"
+      },
+      {
+        "id": 50470523,
+        "title": "Rows vs. Columns: How different are they, really?",
+        "url": "https://spiraldb.com/blog/rows-vs-columns",
+        "domain": "spiraldb.com",
+        "score": 18,
+        "descendants": 6,
+        "by": "eatonphil",
+        "tags": []
+      },
+      {
+        "id": 50530163,
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "domain": "nytimes.com",
+        "score": 28,
+        "descendants": 2,
+        "by": "donohoe",
+        "tags": [],
+        "summary": "最新研究显示，学校实施手机禁令后，学生的学业测试成绩呈现逐步改善趋势。"
+      },
+      {
+        "id": 50526560,
+        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "url": "https://support.apple.com/en-us/149699",
+        "domain": "support.apple.com",
+        "score": 153,
+        "descendants": 86,
+        "by": "jshier",
+        "tags": [],
+        "summary": "苹果官方指南：针对应用请求“全盘访问权限”或“系统保护覆盖”时的风险评估与设置建议。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "cs.cmu.edu",
+          "count": 1
+        },
+        {
+          "domain": "visualbasic.world",
+          "count": 1
+        },
+        {
+          "domain": "kalzumeus.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 320,
+      "max_score": {
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "score": 1697
+      },
+      "most_discussed": {
+        "title": "BugMeNot has closed",
+        "comments": 270
+      },
+      "hot_tags": [
+        "Science",
+        "Open Source",
+        "Systems",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于技术安全与教育资源的整合，既有 Carnegie Mellon 开放计算机科学课程的利好，也包含 Optimizely 遭入侵等严峻的安全警告。此外，社区对复古编程历史的怀旧、对 Claude 代码验证机制的探讨以及政策层面（如校园禁手机）的影响引发了广泛讨论。"
   }
 }
