@@ -156,5 +156,150 @@
       ]
     },
     "summary": "本期Hacker News热点聚焦于AI领域的快速演进，包括OpenAI与微软发布的新模型与工具，同时也涵盖了Apple服务中断、软件框架更新及经典科学历史等技术议题。开发者生态圈保持活跃，从基础网络技术到AI工程化工具均有显著讨论。"
+  },
+  "noon": {
+    "time": "2026-11-18 12:56",
+    "stories": [
+      {
+        "id": 50538240,
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/",
+        "domain": "calif.io",
+        "score": 662,
+        "descendants": 181,
+        "by": "werrett",
+        "tags": [],
+        "summary": "OpenJDK在处理Base64时存在远程代码执行（RCE）漏洞，严重威胁基于Java的应用程序安全。"
+      },
+      {
+        "id": 50540437,
+        "title": "ID.me terms required for IRS sign-in",
+        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+        "domain": "consumerrights.wiki",
+        "score": 214,
+        "descendants": 95,
+        "by": "DeepLogin",
+        "tags": [],
+        "summary": "分析IRS强制要求通过ID.me进行登录所涉及的消费者隐私权与准入障碍问题。"
+      },
+      {
+        "id": 50540178,
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "domain": "revscope.co",
+        "score": 204,
+        "descendants": 140,
+        "by": "slashdev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "谷歌AI生成的搜索答案正导致外部网站流量大幅流失，降幅高达40%。"
+      },
+      {
+        "id": 50535230,
+        "title": "GPT‑6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "domain": "openai.com",
+        "score": 1169,
+        "descendants": 738,
+        "by": "jasondavies",
+        "tags": [
+          "AI"
+        ],
+        "summary": "OpenAI发布GPT-6.2 Astra与Sol，引发行业对前沿AI模型能力迭代与应用前景的广泛讨论。"
+      },
+      {
+        "id": 50538994,
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+        "domain": "blog.cloudflare.com",
+        "score": 384,
+        "descendants": 121,
+        "by": "subset",
+        "tags": []
+      },
+      {
+        "id": 50539610,
+        "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+        "url": "https://github.com/microsoft/onnxruntime",
+        "domain": "github.com",
+        "score": 205,
+        "descendants": 50,
+        "by": "nvader",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "微软的ONNX Runtime开源项目意外从GitHub消失，社区正在探寻背后的原因。"
+      },
+      {
+        "id": 50539747,
+        "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+        "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+        "domain": "wiki.archiveteam.org",
+        "score": 129,
+        "descendants": 49,
+        "by": "digitaldragon",
+        "tags": [],
+        "summary": "Archive Team启动紧急归档计划，旨在保留苹果支持社区在2026年关闭前的所有历史数据。"
+      },
+      {
+        "id": 50534631,
+        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+        "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+        "domain": "ft.com",
+        "score": 449,
+        "descendants": 217,
+        "by": "louiereederson",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "英伟达在总营收突破千亿美元背景下，停止披露新加坡市场销售额，引发市场对地缘政治影响的猜测。"
+      },
+      {
+        "id": 50532849,
+        "title": "Highly classified US national security communications network goes down",
+        "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+        "domain": "cnn.com",
+        "score": 522,
+        "descendants": 594,
+        "by": "monkeydust",
+        "tags": [
+          "Security"
+        ],
+        "summary": "美国高度机密的国家安全通信网络发生宕机事故，引发对关键基础设施抗风险能力的担忧。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "calif.io",
+          "count": 1
+        },
+        {
+          "domain": "consumerrights.wiki",
+          "count": 1
+        },
+        {
+          "domain": "revscope.co",
+          "count": 1
+        }
+      ],
+      "avg_score": 438,
+      "max_score": {
+        "title": "GPT‑6.2 Astra and Sol",
+        "score": 1169
+      },
+      "most_discussed": {
+        "title": "GPT‑6.2 Astra and Sol",
+        "comments": 738
+      },
+      "hot_tags": [
+        "AI",
+        "Open Source",
+        "Hardware",
+        "Security"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于技术安全风险与科技巨头垄断动态，涵盖了OpenJDK漏洞引发的安全担忧及AI搜索对流量生态的冲击。同时，关于监管与数据自主权的讨论持续升温，反映了开源生态、政府审查及关键基础设施安全领域的多重焦虑。"
   }
 }
