@@ -301,5 +301,165 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于技术安全风险与科技巨头垄断动态，涵盖了OpenJDK漏洞引发的安全担忧及AI搜索对流量生态的冲击。同时，关于监管与数据自主权的讨论持续升温，反映了开源生态、政府审查及关键基础设施安全领域的多重焦虑。"
+  },
+  "evening": {
+    "time": "2026-11-18 20:25",
+    "stories": [
+      {
+        "id": 50543989,
+        "title": "Energy-Based Reasoners: 385x more efficient inference",
+        "url": "https://energy-based-reasoners.github.io/",
+        "domain": "energy-based-reasoners.github.io",
+        "score": 52,
+        "descendants": 4,
+        "by": "frenchmajesty",
+        "tags": [
+          "AI"
+        ],
+        "summary": "研究人员提出能源驱动推理架构，旨在实现比传统模型高出385倍的推理效率。"
+      },
+      {
+        "id": 50538240,
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/",
+        "domain": "calif.io",
+        "score": 983,
+        "descendants": 253,
+        "by": "werrett",
+        "tags": [],
+        "summary": "OpenJDK中发现处理Base64时的远程代码执行漏洞，引发社区对Java底层安全性的担忧。"
+      },
+      {
+        "id": 50540178,
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "domain": "revscope.co",
+        "score": 459,
+        "descendants": 339,
+        "by": "slashdev",
+        "tags": [
+          "AI"
+        ],
+        "summary": "分析指出谷歌AI生成的搜索答案正导致网站外部流量减少约40%。"
+      },
+      {
+        "id": 50544261,
+        "title": "Codeberg.org Not Reachable",
+        "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+        "domain": "social.anoxinon.de",
+        "score": 213,
+        "descendants": 164,
+        "by": "hans_castorp",
+        "tags": [],
+        "summary": "代码托管平台Codeberg出现无法访问的故障，引发开源社区关注。"
+      },
+      {
+        "id": 50538994,
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+        "domain": "blog.cloudflare.com",
+        "score": 661,
+        "descendants": 239,
+        "by": "subset",
+        "tags": [],
+        "summary": "公共DNS服务商Quad9因监管压力退出法国市场，被视为互联网审查政策的风向标。"
+      },
+      {
+        "id": 50540437,
+        "title": "ID.me terms required for IRS sign-in",
+        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+        "domain": "consumerrights.wiki",
+        "score": 381,
+        "descendants": 172,
+        "by": "DeepLogin",
+        "tags": [],
+        "summary": "探讨强制使用ID.me服务进行IRS登录所涉及的消费者隐私与技术门槛争议。"
+      },
+      {
+        "id": 50545118,
+        "title": "I had AI read my entire field, Theoretical Astrophysics",
+        "url": "https://science.caseyhandmer.com/physics/",
+        "domain": "science.caseyhandmer.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "Anon84",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "博主利用AI工具阅读并总结了整个天体物理学领域的文献，探索AI在学术研究中的潜力。"
+      },
+      {
+        "id": 50543343,
+        "title": "Talos Linux",
+        "url": "https://www.siderolabs.com/talos-linux",
+        "domain": "siderolabs.com",
+        "score": 66,
+        "descendants": 32,
+        "by": "SweetSoftPillow",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍专为Kubernetes设计的极简、安全且不可变的Talos Linux操作系统。"
+      },
+      {
+        "id": 50534631,
+        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+        "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+        "domain": "ft.com",
+        "score": 570,
+        "descendants": 261,
+        "by": "louiereederson",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "英伟达在总营收突破1040亿美元之际停止披露新加坡市场的具体销售数据。"
+      },
+      {
+        "id": 50541790,
+        "title": "Why is Gemini 4 Carbon taking so long?",
+        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+        "domain": "kernel.dev",
+        "score": 126,
+        "descendants": 62,
+        "by": "deenadz",
+        "tags": [
+          "AI"
+        ],
+        "summary": "社区讨论Gemini 4 Carbon模型的发布进度及背后可能的延迟原因。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "energy-based-reasoners.github.io",
+          "count": 1
+        },
+        {
+          "domain": "calif.io",
+          "count": 1
+        },
+        {
+          "domain": "revscope.co",
+          "count": 1
+        }
+      ],
+      "avg_score": 351,
+      "max_score": {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "score": 983
+      },
+      "most_discussed": {
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "comments": 339
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Systems",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI技术与监管的深远影响，涵盖了AI推理效率的突破、搜索生态的变动以及科技巨头在全球财务与合规上的争议。同时，网络基础设施稳定性和安全性问题（如OpenJDK漏洞及服务中断）依然是社区关注的重点。"
   }
 }
