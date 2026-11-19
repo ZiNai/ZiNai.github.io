@@ -312,5 +312,159 @@
       ]
     },
     "summary": "今日Hacker News焦点聚焦于AI领域的快速演进，包括Google与微软发布的新模型及其性能评估，同时网络安全议题热度不减，涵盖Nginx远程代码执行漏洞及Ruby正则表达式缺陷等重大安全威胁。此外，行业应用与技术实验类内容如AI审计工具及浏览器端运行经典游戏也引起了广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-11-19 20:17",
+    "stories": [
+      {
+        "id": 50558533,
+        "title": "How the European Commission rolled out Matrix to more than 40k staff",
+        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+        "domain": "element.io",
+        "score": 67,
+        "descendants": 21,
+        "by": "liotier",
+        "tags": [],
+        "summary": "欧盟委员会如何为其超过 4 万名员工大规模部署 Matrix 通信系统的技术经验总结。"
+      },
+      {
+        "id": 50557870,
+        "title": "What's New in PHP 8.6",
+        "url": "https://www.php.net/releases/8.6/en.php",
+        "domain": "php.net",
+        "score": 98,
+        "descendants": 46,
+        "by": "netol",
+        "tags": [],
+        "summary": "盘点 PHP 8.6 版本中引入的新特性与改进。"
+      },
+      {
+        "id": 50556287,
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "url": "https://verialabs.com/ruby2shell/",
+        "domain": "verialabs.com",
+        "score": 185,
+        "descendants": 72,
+        "by": "jdns",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对 Rails 默认配置中存在预身份验证远程代码执行漏洞的深度技术分析。"
+      },
+      {
+        "id": 50557537,
+        "title": "Distributed, high-performance blob storage on SQLite",
+        "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "domain": "zerodha.tech",
+        "score": 88,
+        "descendants": 17,
+        "by": "ghostfoxgod",
+        "tags": [
+          "Database"
+        ],
+        "summary": "探讨如何在 SQLite 之上构建高性能分布式 Blob 存储系统的实践方案。"
+      },
+      {
+        "id": 50552424,
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "domain": "blog.google",
+        "score": 869,
+        "descendants": 689,
+        "by": "yigitdemirag",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google 正式发布全新的 Gemini 4 Neon 模型，引发关于 AI 性能与应用的激烈讨论。"
+      },
+      {
+        "id": 50557716,
+        "title": "SSD prices will start going down the second half of next year",
+        "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+        "domain": "drivevault.io",
+        "score": 112,
+        "descendants": 79,
+        "by": "illidan1000",
+        "tags": [],
+        "summary": "分析行业趋势，预测 SSD 价格将在明年下半年开始下调。"
+      },
+      {
+        "id": 50519231,
+        "title": "Garage Door Spam",
+        "url": "https://blog.harrison.page/garage-door-spam/",
+        "domain": "blog.harrison.page",
+        "score": 47,
+        "descendants": 15,
+        "by": "harrisonpage",
+        "tags": [],
+        "summary": "关于智能车库门遭受垃圾信息干扰的排查与安全思考。"
+      },
+      {
+        "id": 50547374,
+        "title": "Unauthenticated remote code execution in Nginx",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "domain": "wiz.io",
+        "score": 1414,
+        "descendants": 607,
+        "by": "speedping",
+        "tags": [],
+        "summary": "披露 Nginx 中存在的未授权远程代码执行漏洞，引发广泛的安全预警。"
+      },
+      {
+        "id": 50556533,
+        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+        "url": "https://kapteko.com/15-million-webservers/",
+        "domain": "kapteko.com",
+        "score": 199,
+        "descendants": 26,
+        "by": "fessguid",
+        "tags": [
+          "Web"
+        ],
+        "summary": "探讨如何利用 smoltcp、DPDK 和 AF_XDP 技术在单台虚拟机上运行 1500 万个 Web 服务器。"
+      },
+      {
+        "id": 50554038,
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "domain": "ruby-lang.org",
+        "score": 286,
+        "descendants": 104,
+        "by": "runesoerensen",
+        "tags": [],
+        "summary": "Ruby 官方披露正则表达式与字符串大小写转换中存在的多个安全漏洞。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "element.io",
+          "count": 1
+        },
+        {
+          "domain": "php.net",
+          "count": 1
+        },
+        {
+          "domain": "verialabs.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 336,
+      "max_score": {
+        "title": "Unauthenticated remote code execution in Nginx",
+        "score": 1414
+      },
+      "most_discussed": {
+        "title": "Gemini 4 Neon",
+        "comments": 689
+      },
+      "hot_tags": [
+        "AI",
+        "Database",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在系统安全与高性能架构，多项主流技术栈（如 Rails、Nginx、Ruby）曝出的远程代码执行漏洞引发了广泛关注。同时，社区对 Google 新发布的 Gemini 4 Neon 模型、高性能存储架构以及硬件市场趋势进行了深度讨论。"
   }
 }
