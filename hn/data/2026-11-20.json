@@ -1,0 +1,168 @@
+{
+  "morning": {
+    "time": "2026-11-20 03:52",
+    "stories": [
+      {
+        "id": 50562754,
+        "title": "Anthropic hits $2T in Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "domain": "reuters.com",
+        "score": 441,
+        "descendants": 653,
+        "by": "wslh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 在纳斯达克成功上市，市值达到 2 万亿美元的创纪录高点。"
+      },
+      {
+        "id": 50563148,
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "domain": "anthropic.com",
+        "score": 181,
+        "descendants": 50,
+        "by": "cybermango",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "Claude 成功解决黑洞物理学中的两项开放难题，展示了 AI 在尖端科学研究中的潜力。"
+      },
+      {
+        "id": 50563066,
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+        "domain": "scienceinhand.com",
+        "score": 85,
+        "descendants": 8,
+        "by": "cybermango",
+        "tags": [],
+        "summary": "临床研究显示，通过病毒注射治疗胰腺癌在三名患者身上取得阻断癌细胞进展的疗效。"
+      },
+      {
+        "id": 50564159,
+        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "domain": "globalcommercegraph.com",
+        "score": 20,
+        "descendants": 9,
+        "by": "dev1one1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨付费广告如何演变为一种“提取税”，分析其对现代商业生态的扭曲影响。"
+      },
+      {
+        "id": 50519231,
+        "title": "Garage Door Spam",
+        "url": "https://blog.harrison.page/garage-door-spam/",
+        "domain": "blog.harrison.page",
+        "score": 591,
+        "descendants": 251,
+        "by": "harrisonpage",
+        "tags": [],
+        "summary": "深度揭露通过智能车库门系统进行垃圾信息与自动化营销骚扰的技术现象。"
+      },
+      {
+        "id": 50561515,
+        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+        "url": "https://cornholenews.news",
+        "domain": "cornholenews.news",
+        "score": 115,
+        "descendants": 56,
+        "by": "cornholemedia",
+        "tags": [
+          "Security",
+          "Show HN"
+        ],
+        "summary": "开发者仿照 Hacker News 构建了一个专门报道美国中西部地区新闻的社区网站。"
+      },
+      {
+        "id": 50562113,
+        "title": "UK government forced to admit it issued Apple a secret encryption order",
+        "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+        "domain": "macanorak.com",
+        "score": 272,
+        "descendants": 122,
+        "by": "Terretta",
+        "tags": [
+          "Security"
+        ],
+        "summary": "英国政府被迫承认曾向苹果公司秘密签发解密指令，引发关于加密安全与隐私的讨论。"
+      },
+      {
+        "id": 50562320,
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "url": "https://github.com/onlook-dev/onlook/",
+        "domain": "github.com",
+        "score": 49,
+        "descendants": 45,
+        "by": "D_R_Farrell",
+        "tags": [
+          "Startup",
+          "Open Source"
+        ],
+        "summary": "YC W25 孵化项目 Onlook 发布，旨在为开发者提供面向设计师的开源协作工具。"
+      },
+      {
+        "id": 50558906,
+        "title": "Someone reported java4shell bug in September 2026",
+        "url": "https://github.com/openjdk/jdk/pull/32781",
+        "domain": "github.com",
+        "score": 246,
+        "descendants": 66,
+        "by": "notmine1337",
+        "tags": [],
+        "summary": "回顾并分析 2026 年 9 月出现的 Java4Shell 漏洞，探讨其报告与处理过程中的教训。"
+      },
+      {
+        "id": 50561508,
+        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+        "url": "https://thedataexchange.media/pete-warden-moonshine/",
+        "domain": "thedataexchange.media",
+        "score": 162,
+        "descendants": 151,
+        "by": "datascientist",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "资深专家 Pete Warden 分享对端侧 AI、开放模型及未来硬件交互趋势的深刻见解。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 216,
+      "max_score": {
+        "title": "Garage Door Spam",
+        "score": 591
+      },
+      "most_discussed": {
+        "title": "Anthropic hits $2T in Nasdaq debut",
+        "comments": 653
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Science",
+        "Show HN",
+        "Startup"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在重磅 AI 商业动态与技术突破，包括 Anthropic 的创纪录 IPO 以及 AI 在物理科研领域的应用。同时，社区也高度关注科技行业的治理议题，涵盖了网络安全漏洞、数字广告机制的负面影响以及政府对科技企业的秘密干预。"
+  }
+}
