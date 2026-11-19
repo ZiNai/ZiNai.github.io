@@ -155,5 +155,162 @@
       ]
     },
     "summary": "今日Hacker News聚焦于网络安全与前沿人工智能技术的深度融合，多项CVE漏洞披露引发了对基础设施稳定性的关注。同时，科技巨头在模型性能与工业应用层面的持续迭代，反映了AI从理论研究向芯片设计及企业审计等专业领域的快速渗透。"
+  },
+  "noon": {
+    "time": "2026-11-19 12:50",
+    "stories": [
+      {
+        "id": 50552424,
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "domain": "blog.google",
+        "score": 597,
+        "descendants": 532,
+        "by": "yigitdemirag",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google正式发布Gemini 4 Neon模型，展示了其最新的多模态能力与技术更新。"
+      },
+      {
+        "id": 50547374,
+        "title": "Unauthenticated remote code execution in Nginx",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "domain": "wiz.io",
+        "score": 1228,
+        "descendants": 539,
+        "by": "speedping",
+        "tags": [],
+        "summary": "安全研究人员披露Nginx中存在的未授权远程代码执行漏洞，提示运维人员尽快修复。"
+      },
+      {
+        "id": 50554374,
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "domain": "micjm.com",
+        "score": 155,
+        "descendants": 56,
+        "by": "seizethecheese",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术分析认为Gemini 4 Neon在性能表现上已具备挑战Opus 5.5的潜力。"
+      },
+      {
+        "id": 50554038,
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "domain": "ruby-lang.org",
+        "score": 144,
+        "descendants": 44,
+        "by": "runesoerensen",
+        "tags": [],
+        "summary": "Ruby官方发布安全公告，修复了Regexp及String大小写转换中的多个漏洞。"
+      },
+      {
+        "id": 50554935,
+        "title": "Unreal Tournament 2004 in the Browser",
+        "url": "https://ut2004.dev/",
+        "domain": "ut2004.dev",
+        "score": 71,
+        "descendants": 28,
+        "by": "TheAceOfHearts",
+        "tags": [
+          "Web"
+        ],
+        "summary": "开发者通过Web技术实现了在浏览器中流畅运行经典游戏《虚幻竞技场2004》。"
+      },
+      {
+        "id": 50548021,
+        "title": "Seven new models at scalable price-performance",
+        "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+        "domain": "microsoft.ai",
+        "score": 481,
+        "descendants": 329,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "微软推出七款全新AI模型，主打高性能与高性价比的规模化扩展能力。"
+      },
+      {
+        "id": 50547777,
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "domain": "europeanbusinessmagazine.com",
+        "score": 409,
+        "descendants": 178,
+        "by": "Betelbuddy",
+        "tags": [
+          "AI"
+        ],
+        "summary": "报道探讨了AI代理在审计测试中展现出的提问能力已超越KPMG会计师。"
+      },
+      {
+        "id": 50545958,
+        "title": "DNS resolvers are the wrong place to fight piracy",
+        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+        "domain": "techstackups.com",
+        "score": 634,
+        "descendants": 238,
+        "by": "ritzaco",
+        "tags": [],
+        "summary": "文章论述为何利用DNS解析器封锁版权内容并非打击盗版的有效手段。"
+      },
+      {
+        "id": 50547620,
+        "title": "Inside Deutsche Bank",
+        "url": "https://www.inside-db.com/",
+        "domain": "inside-db.com",
+        "score": 593,
+        "descendants": 201,
+        "by": "gyre007",
+        "tags": [],
+        "summary": "深入剖析德意志银行内部文化、管理机制及近期转型面临的挑战。"
+      },
+      {
+        "id": 50553225,
+        "title": "LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "domain": "slowchronicle.com",
+        "score": 112,
+        "descendants": 32,
+        "by": "ioma8",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨利用大型语言模型辅助逆向工程，提升代码分析效率的方法与实践。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "blog.google",
+          "count": 1
+        },
+        {
+          "domain": "wiz.io",
+          "count": 1
+        },
+        {
+          "domain": "micjm.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 442,
+      "max_score": {
+        "title": "Unauthenticated remote code execution in Nginx",
+        "score": 1228
+      },
+      "most_discussed": {
+        "title": "Unauthenticated remote code execution in Nginx",
+        "comments": 539
+      },
+      "hot_tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "今日Hacker News焦点聚焦于AI领域的快速演进，包括Google与微软发布的新模型及其性能评估，同时网络安全议题热度不减，涵盖Nginx远程代码执行漏洞及Ruby正则表达式缺陷等重大安全威胁。此外，行业应用与技术实验类内容如AI审计工具及浏览器端运行经典游戏也引起了广泛讨论。"
   }
 }
