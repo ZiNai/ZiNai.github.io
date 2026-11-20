@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-11-21 03:32",
+    "stories": [
+      {
+        "id": 50579568,
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "domain": "math216.wordpress.com",
+        "score": 324,
+        "descendants": 91,
+        "by": "jasondavies",
+        "tags": [],
+        "summary": "针对 GRH 证明声明的快速回应与初步讨论分析。"
+      },
+      {
+        "id": 50574968,
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "domain": "alpo.ge",
+        "score": 1864,
+        "descendants": 1266,
+        "by": "iamronaldo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数学界重大争议：Levent Alpöge 声称给出了广义黎曼猜想的证明，引起了社区的高度关注与质疑。"
+      },
+      {
+        "id": 50577265,
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "domain": "arxiv.org",
+        "score": 219,
+        "descendants": 87,
+        "by": "lwhsiao",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨大语言模型通过修改自身权重进行自我学习与优化的可能性。"
+      },
+      {
+        "id": 50578358,
+        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+        "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+        "domain": "terrytao.wordpress.com",
+        "score": 101,
+        "descendants": 16,
+        "by": "archon1410",
+        "tags": [],
+        "summary": "陶哲轩探讨 Navier-Stokes 方程奇点与黎曼猜想之间可能存在的数学关联。"
+      },
+      {
+        "id": 50576855,
+        "title": "I'll never buy Framework hardware again",
+        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "domain": "poolp.org",
+        "score": 684,
+        "descendants": 443,
+        "by": "unchar1",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "一位用户因对硬件耐用性与服务不满，表示未来将不再购买 Framework 产品。"
+      },
+      {
+        "id": 50579331,
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "domain": "manidoraisamy.com",
+        "score": 52,
+        "descendants": 16,
+        "by": "QueensGambit",
+        "tags": [],
+        "summary": "反思管理层在未征求本人意愿的情况下直接将开发者晋升为架构师的做法。"
+      },
+      {
+        "id": 50576232,
+        "title": "Finite-time blow-up for the Navier–Stokes equations",
+        "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+        "domain": "github.com",
+        "score": 167,
+        "descendants": 51,
+        "by": "trotro",
+        "tags": [],
+        "summary": "关于 Navier-Stokes 方程有限时间爆破问题的技术性讨论。"
+      },
+      {
+        "id": 50579297,
+        "title": "Vibecoding an Inference Chip",
+        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+        "domain": "ankitg.me",
+        "score": 23,
+        "descendants": 5,
+        "by": "ankitvgupta",
+        "tags": [
+          "AI",
+          "Hardware"
+        ],
+        "summary": "记录通过‘Vibecoding’方式进行推理芯片设计的实验过程。"
+      },
+      {
+        "id": 50572355,
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "domain": "kottke.org",
+        "score": 517,
+        "descendants": 261,
+        "by": "sammatilda",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重温费曼学习法：只有能用简单语言解释清楚，才代表真正掌握了知识。"
+      },
+      {
+        "id": 50572503,
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "domain": "architectlabs.com",
+        "score": 531,
+        "descendants": 287,
+        "by": "shioyama",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "介绍 AI 设计并验证的一款名为 Frostbite 的全新 CPU 架构。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "math216.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "alpo.ge",
+          "count": 1
+        },
+        {
+          "domain": "arxiv.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 448,
+      "max_score": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "score": 1864
+      },
+      "most_discussed": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "comments": 1266
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点被数学界的重大进展占据，Levent Alpöge 关于广义黎曼猜想（GRH）的证明声明引发了广泛讨论与质疑。此外，AI 在硬件设计及自我迭代方面的技术探索，以及关于软件工程管理与硬件可靠性的行业讨论也备受关注。"
+  }
+}
