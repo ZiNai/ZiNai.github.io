@@ -324,5 +324,161 @@
       ]
     },
     "summary": "本期Hacker News关注焦点集中在AI领域的重大进展，包括Anthropic的资本市场动态及模型科研能力的突破。同时，科技圈持续关注前沿医疗、网络安全漏洞以及软件工程中的基础设施优化与历史经验分享。"
+  },
+  "evening": {
+    "time": "2026-11-20 20:17",
+    "stories": [
+      {
+        "id": 50572503,
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "domain": "architectlabs.com",
+        "score": 159,
+        "descendants": 104,
+        "by": "shioyama",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "介绍了一款由人工智能自主设计并验证的全新CPU架构“Frostbite”。"
+      },
+      {
+        "id": 50572116,
+        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+        "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+        "domain": "ecohustler.com",
+        "score": 150,
+        "descendants": 73,
+        "by": "sammatilda",
+        "tags": [],
+        "summary": "文章指出邮轮业的硫氧化物排放量远超欧洲所有汽车总和，引发环境担忧。"
+      },
+      {
+        "id": 50572355,
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "domain": "kottke.org",
+        "score": 65,
+        "descendants": 40,
+        "by": "sammatilda",
+        "tags": [
+          "AI"
+        ],
+        "summary": "重温经典观点：真正的理解力体现在能否用浅显易懂的语言解释复杂事物。"
+      },
+      {
+        "id": 50572822,
+        "title": "The Making of Oxygene",
+        "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+        "domain": "jeanmicheljarre.com",
+        "score": 30,
+        "descendants": 6,
+        "by": "hggh",
+        "tags": [],
+        "summary": "回顾让·米歇尔·雅尔标志性电子音乐专辑《Oxygene》的创作幕后故事。"
+      },
+      {
+        "id": 50569226,
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "domain": "github.com",
+        "score": 285,
+        "descendants": 223,
+        "by": "JacobHenner",
+        "tags": [
+          "Security"
+        ],
+        "summary": "披露OpenSSL存在一个高危缓冲区溢出漏洞（CVE-2026-121481），CVSS评分为9.8。"
+      },
+      {
+        "id": 50573087,
+        "title": "Why do tech leaders sound so illogical and off-putting?",
+        "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+        "domain": "theatlantic.com",
+        "score": 47,
+        "descendants": 39,
+        "by": "pseudolus",
+        "tags": [],
+        "summary": "探讨为何当代科技领袖在公开言论中常表现出缺乏逻辑且令人反感的倾向。"
+      },
+      {
+        "id": 50541568,
+        "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+        "url": "https://trynotched.com/find",
+        "domain": "trynotched.com",
+        "score": 24,
+        "descendants": 14,
+        "by": "brianrhea",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一款用于寻找耳鸣频率并进行音频陷波治疗的在线工具。"
+      },
+      {
+        "id": 50523241,
+        "title": "The Strongest Sokoban Solver",
+        "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+        "domain": "healeycodes.com",
+        "score": 81,
+        "descendants": 16,
+        "by": "ibobev",
+        "tags": [],
+        "summary": "解析推箱子（Sokoban）游戏领域最强求解器的算法实现与逻辑。"
+      },
+      {
+        "id": 50545818,
+        "title": "µ-Wire – USB on an ATtiny 10",
+        "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+        "domain": "cpldcpu.com",
+        "score": 55,
+        "descendants": 1,
+        "by": "mofosyne",
+        "tags": [],
+        "summary": "展示如何利用ATtiny 10单片机实现极简的USB协议通讯。"
+      },
+      {
+        "id": 50569998,
+        "title": "FFmpeg 9.1 'Gauss'",
+        "url": "https://ffmpeg.org/download.html#release_9.1",
+        "domain": "ffmpeg.org",
+        "score": 176,
+        "descendants": 26,
+        "by": "gyan",
+        "tags": [],
+        "summary": "多媒体处理工具包FFmpeg正式发布9.1 'Gauss'版本。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "architectlabs.com",
+          "count": 1
+        },
+        {
+          "domain": "ecohustler.com",
+          "count": 1
+        },
+        {
+          "domain": "kottke.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 107,
+      "max_score": {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "score": 285
+      },
+      "most_discussed": {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "comments": 223
+      },
+      "hot_tags": [
+        "AI",
+        "Systems",
+        "Security",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了尖端硬件设计与安全漏洞预警，深度讨论了科技领导力的公众表达问题及环保争议。同时，从开源工具版本更新到极客硬件项目，展现了社区对技术底层逻辑的持续关注。"
   }
 }
