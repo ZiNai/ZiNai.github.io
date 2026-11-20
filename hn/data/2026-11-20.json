@@ -164,5 +164,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在重磅 AI 商业动态与技术突破，包括 Anthropic 的创纪录 IPO 以及 AI 在物理科研领域的应用。同时，社区也高度关注科技行业的治理议题，涵盖了网络安全漏洞、数字广告机制的负面影响以及政府对科技企业的秘密干预。"
+  },
+  "noon": {
+    "time": "2026-11-20 12:40",
+    "stories": [
+      {
+        "id": 50568130,
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "url": "https://git-aarvin.github.io/mei/",
+        "domain": "git-aarvin.github.io",
+        "score": 275,
+        "descendants": 164,
+        "by": "hn-aarvin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Gemini 4 Neon在模型工程指标中位居榜首。"
+      },
+      {
+        "id": 50562754,
+        "title": "Anthropic’s Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "domain": "reuters.com",
+        "score": 1004,
+        "descendants": 1968,
+        "by": "wslh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic正式在纳斯达克挂牌上市，引发行业广泛关注与讨论。"
+      },
+      {
+        "id": 50563066,
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+        "domain": "newscientist.com",
+        "score": 674,
+        "descendants": 106,
+        "by": "cybermango",
+        "tags": [],
+        "summary": "新型病毒注射疗法在三名胰腺癌患者身上成功遏制肿瘤发展。"
+      },
+      {
+        "id": 50569226,
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "domain": "github.com",
+        "score": 65,
+        "descendants": 37,
+        "by": "JacobHenner",
+        "tags": [
+          "Security"
+        ],
+        "summary": "OpenSSL发现高危缓冲溢出漏洞CVE-2026-121481，CVSS评分高达9.8。"
+      },
+      {
+        "id": 50569516,
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "domain": "snowflake.com",
+        "score": 17,
+        "descendants": 0,
+        "by": "craigkerstiens",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Postgres 19引入内置表膨胀清理工具Repack，旨在提升性能。"
+      },
+      {
+        "id": 50568861,
+        "title": "Vint Cerf on why TCP/IP was never patented",
+        "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+        "domain": "seremot.com",
+        "score": 53,
+        "descendants": 10,
+        "by": "emot",
+        "tags": [],
+        "summary": "互联网先驱Vint Cerf解释TCP/IP协议为何从未申请专利的缘由。"
+      },
+      {
+        "id": 50563148,
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "domain": "anthropic.com",
+        "score": 435,
+        "descendants": 198,
+        "by": "cybermango",
+        "tags": [
+          "AI",
+          "Science"
+        ],
+        "summary": "Claude在黑洞物理学领域成功解答了两个未解难题。"
+      },
+      {
+        "id": 50528119,
+        "title": "How to CAD Almost Anything",
+        "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+        "domain": "ocw.mit.edu",
+        "score": 177,
+        "descendants": 52,
+        "by": "o4c",
+        "tags": [],
+        "summary": "MIT开放课程分享如何通过CAD软件设计几乎任何东西的实操指南。"
+      },
+      {
+        "id": 50519231,
+        "title": "Garage Door Spam",
+        "url": "https://blog.harrison.page/garage-door-spam/",
+        "domain": "blog.harrison.page",
+        "score": 793,
+        "descendants": 335,
+        "by": "harrisonpage",
+        "tags": [],
+        "summary": "作者通过技术手段揭露并分析针对车库门智能系统的垃圾营销骚扰现象。"
+      },
+      {
+        "id": 50564159,
+        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "domain": "globalcommercegraph.com",
+        "score": 233,
+        "descendants": 125,
+        "by": "dev1one1",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深入探讨付费广告如何演变为一种高成本的平台经济榨取机制。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "git-aarvin.github.io",
+          "count": 1
+        },
+        {
+          "domain": "reuters.com",
+          "count": 1
+        },
+        {
+          "domain": "newscientist.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 373,
+      "max_score": {
+        "title": "Anthropic’s Nasdaq debut",
+        "score": 1004
+      },
+      "most_discussed": {
+        "title": "Anthropic’s Nasdaq debut",
+        "comments": 1968
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Database",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News关注焦点集中在AI领域的重大进展，包括Anthropic的资本市场动态及模型科研能力的突破。同时，科技圈持续关注前沿医疗、网络安全漏洞以及软件工程中的基础设施优化与历史经验分享。"
   }
 }
