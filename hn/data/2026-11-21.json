@@ -159,5 +159,155 @@
       ]
     },
     "summary": "本期 Hacker News 焦点被数学界的重大进展占据，Levent Alpöge 关于广义黎曼猜想（GRH）的证明声明引发了广泛讨论与质疑。此外，AI 在硬件设计及自我迭代方面的技术探索，以及关于软件工程管理与硬件可靠性的行业讨论也备受关注。"
+  },
+  "noon": {
+    "time": "2026-11-21 12:35",
+    "stories": [
+      {
+        "id": 50579568,
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "domain": "math216.wordpress.com",
+        "score": 1750,
+        "descendants": 779,
+        "by": "jasondavies",
+        "tags": [],
+        "summary": "关于Alessandro Masullo对黎曼猜想证明草稿的快速公告与社区评估。"
+      },
+      {
+        "id": 50574968,
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "domain": "alpo.ge",
+        "score": 2455,
+        "descendants": 1655,
+        "by": "iamronaldo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数学家Levent Alpöge公开宣称证明了广义黎曼猜想，在学术界引起广泛震动与讨论。"
+      },
+      {
+        "id": 50581260,
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "domain": "thinkingmachines.ai",
+        "score": 806,
+        "descendants": 137,
+        "by": "jasondavies",
+        "tags": [],
+        "summary": "介绍一款名为Inkling 2 Mini的新型AI工具或相关技术发布。"
+      },
+      {
+        "id": 50583274,
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
+        "domain": "ninlive.com",
+        "score": 170,
+        "descendants": 43,
+        "by": "CharlesW",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一个汇集了九寸钉乐队（Nine Inch Nails）完整现场录音与演出档案的资源库。"
+      },
+      {
+        "id": 50579331,
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "domain": "manidoraisamy.com",
+        "score": 345,
+        "descendants": 209,
+        "by": "QueensGambit",
+        "tags": [],
+        "summary": "探讨将开发者直接晋升为架构师却未充分沟通的管理失败案例及其反思。"
+      },
+      {
+        "id": 50578358,
+        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+        "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+        "domain": "terrytao.wordpress.com",
+        "score": 382,
+        "descendants": 154,
+        "by": "archon1410",
+        "tags": [],
+        "summary": "陶哲轩关于纳维-斯托克斯方程奇点与广义黎曼猜想联系的深度数学分析。"
+      },
+      {
+        "id": 50585376,
+        "title": "Clojure will affect the way you think about programming (2017)",
+        "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+        "domain": "eli.thegreenplace.net",
+        "score": 18,
+        "descendants": 5,
+        "by": "sammatilda",
+        "tags": [],
+        "summary": "回顾Clojure语言的编程哲学及其对开发者思维模式的深远影响。"
+      },
+      {
+        "id": 50534387,
+        "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+        "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+        "domain": "valkey.io",
+        "score": 76,
+        "descendants": 30,
+        "by": "reconditerose",
+        "tags": [],
+        "summary": "Valkey通过移除跳表结构，成功将有序集合（Sorted Set）的内存开销降低了43%。"
+      },
+      {
+        "id": 50577265,
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "domain": "arxiv.org",
+        "score": 365,
+        "descendants": 114,
+        "by": "lwhsiao",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨大语言模型如何通过自我调整权重来实现性能优化或功能重写的前沿研究。"
+      },
+      {
+        "id": 50583768,
+        "title": "Sir Brian May adds new dimension to Hera asteroid",
+        "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+        "domain": "esa.int",
+        "score": 59,
+        "descendants": 14,
+        "by": "mooreds",
+        "tags": [],
+        "summary": "著名吉他手Brian May利用立体成像技术为赫拉小行星任务提供了新的视角。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "math216.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "alpo.ge",
+          "count": 1
+        },
+        {
+          "domain": "thinkingmachines.ai",
+          "count": 1
+        }
+      ],
+      "avg_score": 643,
+      "max_score": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "score": 2455
+      },
+      "most_discussed": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "comments": 1655
+      },
+      "hot_tags": [
+        "AI"
+      ]
+    },
+    "summary": "本期Hacker News焦点高度集中在数学与科学领域，其中关于黎曼猜想（GRH）的潜在证明引发了社区的极大讨论与审视。此外，软件工程管理、前沿AI研究以及小众技术与文化档案也是当前开发者们关注的热点方向。"
   }
 }
