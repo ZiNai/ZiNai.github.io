@@ -1,0 +1,160 @@
+{
+  "morning": {
+    "time": "2026-11-22 02:37",
+    "stories": [
+      {
+        "id": 50591835,
+        "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+        "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+        "domain": "economist.com",
+        "score": 32,
+        "descendants": 11,
+        "by": "andsoitis",
+        "tags": [],
+        "summary": "分析黄仁勋与英伟达的现状对硅谷加速主义文化可能产生的负面影响。"
+      },
+      {
+        "id": 50588982,
+        "title": "Detonating a pile of lead azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "domain": "science.org",
+        "score": 356,
+        "descendants": 225,
+        "by": "beginning_end",
+        "tags": [],
+        "summary": "通过科学实验展示叠氮化铅在极端条件下的引爆过程与相关特性。"
+      },
+      {
+        "id": 50589618,
+        "title": "Lean verification of the Riemann Hypothesis",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "domain": "leanprover-community.github.io",
+        "score": 465,
+        "descendants": 370,
+        "by": "g-b-r",
+        "tags": [],
+        "summary": "利用 Lean 形式化证明语言对黎曼猜想进行验证的进展报告。"
+      },
+      {
+        "id": 50532613,
+        "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+        "domain": "gov.br",
+        "score": 500,
+        "descendants": 161,
+        "by": "dvaplima",
+        "tags": [
+          "Open Source"
+        ],
+        "summary": "巴西税务局将其税务计算器工具以 MIT 协议在 GitHub 开源。"
+      },
+      {
+        "id": 50591260,
+        "title": "PostgreSQL Extensions in Go",
+        "url": "https://jespino.github.io/gopgext/",
+        "domain": "jespino.github.io",
+        "score": 40,
+        "descendants": 1,
+        "by": "valyala",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍如何使用 Go 语言开发和编写 PostgreSQL 扩展。"
+      },
+      {
+        "id": 50591853,
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "domain": "github.com",
+        "score": 12,
+        "descendants": 1,
+        "by": "k__",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨在仅 5.4GB 内存限制下运行 Inkling-2-Mini 模型的实现方法。"
+      },
+      {
+        "id": 50587875,
+        "title": "My monitor was cutting my download speed by 75%",
+        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "domain": "blog.tymscar.com",
+        "score": 295,
+        "descendants": 153,
+        "by": "soheilpro",
+        "tags": [],
+        "summary": "记录了一次因显示器干扰导致网络下载速度暴跌 75% 的奇葩硬件故障排查。"
+      },
+      {
+        "id": 50579568,
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "domain": "math216.wordpress.com",
+        "score": 2322,
+        "descendants": 1113,
+        "by": "jasondavies",
+        "tags": [],
+        "summary": "Alessandro Masullo 关于 GRH（广义黎曼猜想）的最新公告讨论。"
+      },
+      {
+        "id": 50590279,
+        "title": "Show HN: Zero C#, Power of C# without any GC",
+        "url": "https://onurgumus.github.io/zero-csharp/index.html",
+        "domain": "onurgumus.github.io",
+        "score": 55,
+        "descendants": 38,
+        "by": "reverseblade2",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "展示如何通过 Zero C# 在不使用垃圾回收机制（GC）的情况下进行高效编程。"
+      },
+      {
+        "id": 50574968,
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "domain": "alpo.ge",
+        "score": 2820,
+        "descendants": 1989,
+        "by": "iamronaldo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Levent Alpöge 提出的一份关于广义黎曼猜想的证明论文引发数学界广泛关注。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "economist.com",
+          "count": 1
+        },
+        {
+          "domain": "science.org",
+          "count": 1
+        },
+        {
+          "domain": "leanprover-community.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 690,
+      "max_score": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "score": 2820
+      },
+      "most_discussed": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "comments": 1989
+      },
+      "hot_tags": [
+        "Open Source",
+        "Database",
+        "Systems",
+        "Show HN",
+        "AI"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在数学领域的重磅进展，多篇关于黎曼猜想证明的讨论引发热议。同时，技术社区对低内存优化、编程语言底层实现以及奇特的硬件故障排查表现出浓厚兴趣。"
+  }
+}
