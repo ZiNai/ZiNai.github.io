@@ -309,5 +309,157 @@
       ]
     },
     "summary": "本期Hacker News焦点高度集中在数学与科学领域，其中关于黎曼猜想（GRH）的潜在证明引发了社区的极大讨论与审视。此外，软件工程管理、前沿AI研究以及小众技术与文化档案也是当前开发者们关注的热点方向。"
+  },
+  "evening": {
+    "time": "2026-11-21 19:53",
+    "stories": [
+      {
+        "id": 50588168,
+        "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
+        "url": "https://philarchive.org/rec/NIEIOT-2",
+        "domain": "philarchive.org",
+        "score": 13,
+        "descendants": 5,
+        "by": "theanonymousone",
+        "tags": [],
+        "summary": "针对 Alpöge 提出的黎曼猜想证明的失效性分析文章。"
+      },
+      {
+        "id": 50579568,
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "domain": "math216.wordpress.com",
+        "score": 2156,
+        "descendants": 999,
+        "by": "jasondavies",
+        "tags": [],
+        "summary": "关于 Alessandro Masullo 宣布证明广义黎曼猜想的讨论与背景说明。"
+      },
+      {
+        "id": 50574968,
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "domain": "alpo.ge",
+        "score": 2682,
+        "descendants": 1868,
+        "by": "iamronaldo",
+        "tags": [
+          "AI"
+        ],
+        "summary": "数学家 Levent Alpöge 声称证明广义黎曼猜想的原始论文及其引发的广泛争议。"
+      },
+      {
+        "id": 50581260,
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "domain": "thinkingmachines.ai",
+        "score": 1055,
+        "descendants": 197,
+        "by": "jasondavies",
+        "tags": [],
+        "summary": "介绍全新的 Inkling 2 Mini 小型化智能模型及其应用潜力。"
+      },
+      {
+        "id": 50587208,
+        "title": "RCE in Gnupg",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "domain": "lists.gnupg.org",
+        "score": 37,
+        "descendants": 3,
+        "by": "gdgghhhhh",
+        "tags": [],
+        "summary": "关于 GnuPG 软件中发现远程代码执行（RCE）漏洞的警示。"
+      },
+      {
+        "id": 50586292,
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS/",
+        "domain": "ricapar.net",
+        "score": 82,
+        "descendants": 21,
+        "by": "Ricapar",
+        "tags": [
+          "AI",
+          "Systems"
+        ],
+        "summary": "介绍一个专为 DOS 系统打造的 AI 编程辅助工具 ClawDOS。"
+      },
+      {
+        "id": 50579331,
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "domain": "manidoraisamy.com",
+        "score": 458,
+        "descendants": 251,
+        "by": "QueensGambit",
+        "tags": [],
+        "summary": "探讨在未充分沟通的情况下直接提拔开发人员为架构师所带来的负面影响与职场反思。"
+      },
+      {
+        "id": 50578358,
+        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+        "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+        "domain": "terrytao.wordpress.com",
+        "score": 462,
+        "descendants": 191,
+        "by": "archon1410",
+        "tags": [],
+        "summary": "陶哲轩探讨关于纳维-斯托克斯方程奇点与广义黎曼猜想之间关系的数学思考。"
+      },
+      {
+        "id": 50583274,
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
+        "domain": "ninlive.com",
+        "score": 271,
+        "descendants": 71,
+        "by": "CharlesW",
+        "tags": [
+          "AI"
+        ],
+        "summary": "九寸钉乐队（Nine Inch Nails）的非官方直播演出存档网站介绍。"
+      },
+      {
+        "id": 50585376,
+        "title": "Clojure will affect the way you think about programming (2017)",
+        "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+        "domain": "eli.thegreenplace.net",
+        "score": 110,
+        "descendants": 33,
+        "by": "sammatilda",
+        "tags": [],
+        "summary": "重温 2017 年文章，探讨学习 Clojure 语言如何深度改变开发者的编程思维方式。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "philarchive.org",
+          "count": 1
+        },
+        {
+          "domain": "math216.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "alpo.ge",
+          "count": 1
+        }
+      ],
+      "avg_score": 733,
+      "max_score": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "score": 2682
+      },
+      "most_discussed": {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "comments": 1868
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "今日 Hacker News 社区热点高度聚焦于数学界的重大进展，尤其是关于广义黎曼猜想（GRH）的证明声明及其随后的质疑和学术讨论，占据了榜单核心。此外，编程工具、软件安全以及技术架构管理等领域的讨论也颇具关注度。"
   }
 }
