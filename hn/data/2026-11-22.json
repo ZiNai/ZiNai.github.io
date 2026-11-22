@@ -156,5 +156,156 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在数学领域的重磅进展，多篇关于黎曼猜想证明的讨论引发热议。同时，技术社区对低内存优化、编程语言底层实现以及奇特的硬件故障排查表现出浓厚兴趣。"
+  },
+  "noon": {
+    "time": "2026-11-22 11:50",
+    "stories": [
+      {
+        "id": 50582069,
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "domain": "theguardian.com",
+        "score": 750,
+        "descendants": 175,
+        "by": "rafaelc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "胰腺癌治疗领域出现重大突破，一种新型药物被寄予厚望。"
+      },
+      {
+        "id": 50589618,
+        "title": "Lean verification of the Riemann Hypothesis",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "domain": "leanprover-community.github.io",
+        "score": 894,
+        "descendants": 743,
+        "by": "g-b-r",
+        "tags": [],
+        "summary": "探讨使用 Lean 形式化语言对黎曼猜想进行计算机验证的进展。"
+      },
+      {
+        "id": 50591853,
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "domain": "github.com",
+        "score": 384,
+        "descendants": 99,
+        "by": "k__",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "介绍如何将 Inkling-2-Mini 模型压缩并运行在仅 5.4 GB 的内存中。"
+      },
+      {
+        "id": 50595554,
+        "title": "Data Processing Incidents on Inference Providers",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "domain": "openrouter.ai",
+        "score": 37,
+        "descendants": 10,
+        "by": "sdko",
+        "tags": [
+          "AI"
+        ],
+        "summary": "公开披露推理服务提供商在处理数据时遇到的安全事故与风险。"
+      },
+      {
+        "id": 50594911,
+        "title": "Sandwich Simulator",
+        "url": "https://stulle.app/",
+        "domain": "stulle.app",
+        "score": 67,
+        "descendants": 35,
+        "by": "subdomain",
+        "tags": [],
+        "summary": "一个趣味性的三明治制作模拟器，展示 Web 应用的创意用法。"
+      },
+      {
+        "id": 50595168,
+        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+        "url": "https://github.com/ItsNotRexed/Leonida",
+        "domain": "github.com",
+        "score": 66,
+        "descendants": 37,
+        "by": "ebrahimh",
+        "tags": [],
+        "summary": "开发者尝试通过 PC 重新编译技术来运行 Xbox 版《GTA 6》。"
+      },
+      {
+        "id": 50588982,
+        "title": "Detonating a pile of lead azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "domain": "science.org",
+        "score": 555,
+        "descendants": 363,
+        "by": "beginning_end",
+        "tags": [],
+        "summary": "科学视角解析叠氮化铅在引爆过程中的化学与物理特性。"
+      },
+      {
+        "id": 50594132,
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+        "domain": "github.com",
+        "score": 83,
+        "descendants": 9,
+        "by": "sebaandrada",
+        "tags": [],
+        "summary": "一款自托管的 Pcap 网络抓包分析工具，内置 27 种网络问题检测机制。"
+      },
+      {
+        "id": 50583028,
+        "title": "Getting the mind to steer the body to steer you",
+        "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+        "domain": "notnottalmud.substack.com",
+        "score": 185,
+        "descendants": 64,
+        "by": "jger15",
+        "tags": [],
+        "summary": "探讨意识如何通过控制身体反馈来反向塑造思维路径的心理学见解。"
+      },
+      {
+        "id": 50595725,
+        "title": "The Most Popular Car Colors in America",
+        "url": "https://www.iseecars.com/most-popular-car-colors-study",
+        "domain": "iseecars.com",
+        "score": 7,
+        "descendants": 0,
+        "by": "cisc",
+        "tags": [],
+        "summary": "数据分析显示了美国市场上最受欢迎的汽车颜色趋势。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "theguardian.com",
+          "count": 1
+        },
+        {
+          "domain": "leanprover-community.github.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 303,
+      "max_score": {
+        "title": "Lean verification of the Riemann Hypothesis",
+        "score": 894
+      },
+      "most_discussed": {
+        "title": "Lean verification of the Riemann Hypothesis",
+        "comments": 743
+      },
+      "hot_tags": [
+        "AI",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点覆盖了前沿医学进展、数学证明辅助工具及底层工程实践。热点涵盖了癌症治疗的突破、形式化数学验证、以及针对 AI 和网络安全的高效技术方案。"
   }
 }
