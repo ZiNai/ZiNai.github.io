@@ -1,0 +1,163 @@
+{
+  "morning": {
+    "time": "2026-11-23 02:57",
+    "stories": [
+      {
+        "id": 50601525,
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence/",
+        "domain": "openai.com",
+        "score": 171,
+        "descendants": 122,
+        "by": "acossta",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨困惑度（Perplexity）指标与机器智能本质之间的关联。"
+      },
+      {
+        "id": 50596133,
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "domain": "caranddriver.com",
+        "score": 1016,
+        "descendants": 604,
+        "by": "zdw",
+        "tags": [],
+        "summary": "丰田、日产与本田宣布将标准化汽车零部件以降低制造成本。"
+      },
+      {
+        "id": 50599762,
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "url": "https://github.com/gulivan/worker755",
+        "domain": "github.com",
+        "score": 169,
+        "descendants": 43,
+        "by": "ivantgam",
+        "tags": [
+          "AI",
+          "Show HN"
+        ],
+        "summary": "一个模拟玩家作为大模型子代理（subagent）的互动游戏项目。"
+      },
+      {
+        "id": 50600511,
+        "title": "Open Social Web Alliance",
+        "url": "https://osw-alliance.net/en/",
+        "domain": "osw-alliance.net",
+        "score": 147,
+        "descendants": 144,
+        "by": "doener",
+        "tags": [
+          "Web"
+        ],
+        "summary": "介绍推动开放社交网络互操作性与标准的Open Social Web Alliance。"
+      },
+      {
+        "id": 50600622,
+        "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+        "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+        "domain": "jeffgeerling.com",
+        "score": 53,
+        "descendants": 11,
+        "by": "fortran77",
+        "tags": [],
+        "summary": "Jeff Geerling分享他加入NTP时间同步池的实践经验。"
+      },
+      {
+        "id": 50582069,
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "domain": "theguardian.com",
+        "score": 1279,
+        "descendants": 273,
+        "by": "rafaelc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一种被认为数十年来治疗胰腺癌最重大进展的药物取得临床进展。"
+      },
+      {
+        "id": 50594182,
+        "title": "A Better Vocabulary for Testing",
+        "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+        "domain": "alperenkeles.com",
+        "score": 58,
+        "descendants": 15,
+        "by": "alpaylan",
+        "tags": [],
+        "summary": "社区讨论如何将职业重心从Web开发转向嵌入式与固件工程。"
+      },
+      {
+        "id": 50555002,
+        "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+        "url": "https://news.ycombinator.com/item?id=50555002",
+        "domain": "news.ycombinator.com",
+        "score": 59,
+        "descendants": 39,
+        "by": "llmblockchain",
+        "tags": [
+          "Web",
+          "Ask HN"
+        ]
+      },
+      {
+        "id": 50562207,
+        "title": "Inside PyPy: First Contact with RPython",
+        "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+        "domain": "bernsteinbear.com",
+        "score": 18,
+        "descendants": 3,
+        "by": "lumpa",
+        "tags": [
+          "Python"
+        ],
+        "summary": "深入解读PyPy解释器的核心实现技术RPython。"
+      },
+      {
+        "id": 50589618,
+        "title": "Lean verification of the Riemann Hypothesis",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "domain": "leanprover-community.github.io",
+        "score": 1183,
+        "descendants": 976,
+        "by": "g-b-r",
+        "tags": [],
+        "summary": "利用Lean证明辅助工具对黎曼猜想进行形式化验证的研究进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "caranddriver.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 415,
+      "max_score": {
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "score": 1279
+      },
+      "most_discussed": {
+        "title": "Lean verification of the Riemann Hypothesis",
+        "comments": 976
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Hardware",
+        "Show HN",
+        "Ask HN"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术演进及其社会影响，同时涉及传统工业标准化改革与生物医药重大突破。此外，开源社区与数学验证领域也展现了深度的技术讨论，体现了从硬核工程到前沿科学的多元兴趣。"
+  }
+}
