@@ -307,5 +307,165 @@
       ]
     },
     "summary": "本期 Hacker News 焦点覆盖了前沿医学进展、数学证明辅助工具及底层工程实践。热点涵盖了癌症治疗的突破、形式化数学验证、以及针对 AI 和网络安全的高效技术方案。"
+  },
+  "evening": {
+    "time": "2026-11-22 20:06",
+    "stories": [
+      {
+        "id": 50596133,
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "domain": "caranddriver.com",
+        "score": 601,
+        "descendants": 360,
+        "by": "zdw",
+        "tags": [],
+        "summary": "丰田、日产和本田宣布将通过标准化零部件来降低生产成本。"
+      },
+      {
+        "id": 50582069,
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "domain": "theguardian.com",
+        "score": 1074,
+        "descendants": 227,
+        "by": "rafaelc",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一款用于治疗胰腺癌的新型药物被誉为近几十年来医疗领域的重大突破。"
+      },
+      {
+        "id": 50533945,
+        "title": "A real Linux kernel, compiled to WebAssembly",
+        "url": "https://github.com/pithings/unkernel",
+        "domain": "github.com",
+        "score": 50,
+        "descendants": 10,
+        "by": "DonAtimator",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "一个真正能在 WebAssembly 环境下运行的 Linux 内核项目。"
+      },
+      {
+        "id": 50589618,
+        "title": "Lean verification of the Riemann Hypothesis",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "domain": "leanprover-community.github.io",
+        "score": 1066,
+        "descendants": 886,
+        "by": "g-b-r",
+        "tags": [],
+        "summary": "利用 Lean 定理证明器对黎曼猜想进行形式化验证的深度尝试。"
+      },
+      {
+        "id": 50597743,
+        "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "url": "https://arxiv.org/abs/2606.14068",
+        "domain": "arxiv.org",
+        "score": 41,
+        "descendants": 15,
+        "by": "rzk",
+        "tags": [
+          "AI"
+        ],
+        "summary": "关于大模型在处理冲突道德场景时是否存在针对性别的偏见研究。"
+      },
+      {
+        "id": 50594911,
+        "title": "Sandwich Simulator",
+        "url": "https://stulle.app/",
+        "domain": "stulle.app",
+        "score": 304,
+        "descendants": 103,
+        "by": "subdomain",
+        "tags": [],
+        "summary": "一个趣味十足的三明治制作模拟器网站。"
+      },
+      {
+        "id": 50566495,
+        "title": "Self-hosted library branch over public web OPDS",
+        "url": "https://joinmayberry.com/",
+        "domain": "joinmayberry.com",
+        "score": 15,
+        "descendants": 1,
+        "by": "philips",
+        "tags": [
+          "Web"
+        ],
+        "summary": "通过公共网络 OPDS 协议实现自助托管图书馆分支的方案。"
+      },
+      {
+        "id": 50591853,
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "domain": "github.com",
+        "score": 480,
+        "descendants": 120,
+        "by": "k__",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "探讨如何在仅 5.4 GB 内存环境下运行 Inkling-2-Mini 模型。"
+      },
+      {
+        "id": 50596664,
+        "title": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "domain": "github.com",
+        "score": 60,
+        "descendants": 28,
+        "by": "tamnd",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一份旨在帮助理解黎曼猜想证明过程的手册。"
+      },
+      {
+        "id": 50588982,
+        "title": "Detonating a pile of lead azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "domain": "science.org",
+        "score": 625,
+        "descendants": 391,
+        "by": "beginning_end",
+        "tags": [],
+        "summary": "科学分析引发叠氮化铅堆垛爆炸背后的物理化学机理。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "caranddriver.com",
+          "count": 1
+        },
+        {
+          "domain": "theguardian.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 432,
+      "max_score": {
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "score": 1074
+      },
+      "most_discussed": {
+        "title": "Lean verification of the Riemann Hypothesis",
+        "comments": 886
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems",
+        "Show HN"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在学术突破与技术创新，黎曼猜想的证明尝试引起了社区高度关注。同时，硬核工程、医疗生物进展以及AI模型偏见分析等多元话题也成为讨论热点。"
   }
 }
