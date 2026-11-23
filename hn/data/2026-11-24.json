@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-11-24 07:17",
+    "stories": [
+      {
+        "id": 50611576,
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "domain": "cnbc.com",
+        "score": 1866,
+        "descendants": 2950,
+        "by": "jaz",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Nvidia 董事会重新任命黄仁勋为 CEO，引发市场高度关注。"
+      },
+      {
+        "id": 50614249,
+        "title": "Ladybird is now in alpha",
+        "url": "https://ladybird.org/posts/alpha/",
+        "domain": "ladybird.org",
+        "score": 1234,
+        "descendants": 305,
+        "by": "janvdberg",
+        "tags": [],
+        "summary": "独立浏览器项目 Ladybird 正式发布 Alpha 版本，迈向自主内核新阶段。"
+      },
+      {
+        "id": 50620349,
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "domain": "stalw.art",
+        "score": 38,
+        "descendants": 17,
+        "by": "shaunpud",
+        "tags": [],
+        "summary": "Stalwart 推出可直接替代 Microsoft Exchange 的开源邮件服务解决方案。"
+      },
+      {
+        "id": 50620102,
+        "title": "VP ≠ VNP over Every Field",
+        "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+        "domain": "github.com",
+        "score": 106,
+        "descendants": 72,
+        "by": "mikeryan52",
+        "tags": [],
+        "summary": "数学论文探讨了 VP 类与 VNP 类在任意域上的不等价性证明。"
+      },
+      {
+        "id": 50619103,
+        "title": "GPUI is getting its own repository",
+        "url": "https://github.com/zed-industries/gpui",
+        "domain": "github.com",
+        "score": 49,
+        "descendants": 6,
+        "by": "EvilGoose",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "高性能图形用户界面框架 GPUI 宣布独立运营并建立专属代码仓库。"
+      },
+      {
+        "id": 50617499,
+        "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+        "url": "https://arm.jonpalmisc.com/",
+        "domain": "arm.jonpalmisc.com",
+        "score": 730,
+        "descendants": 152,
+        "by": "tech234a",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "因应 ARM 的要求，该资源网站将于 2026 年 12 月正式关停。"
+      },
+      {
+        "id": 50619207,
+        "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+        "url": "https://www.bored.com/",
+        "domain": "bored.com",
+        "score": 55,
+        "descendants": 16,
+        "by": "susam",
+        "tags": [
+          "Web"
+        ],
+        "summary": "GLM-5.4 引入新型循环 Transformer 架构，旨在提升通用编程任务处理能力。"
+      },
+      {
+        "id": 50609685,
+        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+        "url": "https://z.ai/blog/glm-5.4",
+        "domain": "z.ai",
+        "score": 1009,
+        "descendants": 330,
+        "by": "foohis",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50620250,
+        "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+        "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+        "domain": "twitter.com",
+        "score": 20,
+        "descendants": 11,
+        "by": "Dylan1312",
+        "tags": [],
+        "summary": "数学家 Levent Alpöge 就其关于黎曼猜想的研究进展发表评论。"
+      },
+      {
+        "id": 50615308,
+        "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+        "url": "https://twitter.com/ylecun/status/2124550037912920090",
+        "domain": "twitter.com",
+        "score": 920,
+        "descendants": 529,
+        "by": "MrBuddyCasino",
+        "tags": [
+          "AI"
+        ],
+        "summary": "业内质疑 Dario Amodei 借鼓吹 AI 安全风险以推动打压开源模型的立法议程。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "twitter.com",
+          "count": 2
+        },
+        {
+          "domain": "cnbc.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 603,
+      "max_score": {
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "score": 1866
+      },
+      "most_discussed": {
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "comments": 2950
+      },
+      "hot_tags": [
+        "Hardware",
+        "AI",
+        "Web"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在科技巨头与开源生态的博弈，包括 Nvidia 的领导层变动、开源模型监管争议以及浏览器与企业级软件等领域的技术进展。开发者社群正积极关注自研架构与替代方案，展现了对独立生态和技术创新的强烈追求。"
+  }
+}
