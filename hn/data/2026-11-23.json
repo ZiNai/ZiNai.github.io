@@ -159,5 +159,157 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术演进及其社会影响，同时涉及传统工业标准化改革与生物医药重大突破。此外，开源社区与数学验证领域也展现了深度的技术讨论，体现了从硬核工程到前沿科学的多元兴趣。"
+  },
+  "noon": {
+    "time": "2026-11-23 12:27",
+    "stories": [
+      {
+        "id": 50606192,
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "url": "https://spelunkr.tv",
+        "domain": "spelunkr.tv",
+        "score": 223,
+        "descendants": 38,
+        "by": "SockThief",
+        "tags": [
+          "Systems"
+        ],
+        "summary": "一个基于互联网档案馆珍藏视频构建的免费替代电视网络平台。"
+      },
+      {
+        "id": 50598441,
+        "title": "Masullo on the Riemann Hypothesis",
+        "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+        "domain": "johncarlosbaez.wordpress.com",
+        "score": 102,
+        "descendants": 35,
+        "by": "xiaoyu2006",
+        "tags": [],
+        "summary": "数学家 Masullo 对黎曼猜想这一经典数学难题的深入分析。"
+      },
+      {
+        "id": 50603845,
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "domain": "gpupartner.com",
+        "score": 336,
+        "descendants": 143,
+        "by": "Retell15",
+        "tags": [
+          "AI"
+        ],
+        "summary": "手把手教你利用 Inkling、Qwen 和 Unsloth 在本地运行 AI 模型。"
+      },
+      {
+        "id": 50602843,
+        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+        "domain": "audubon.org",
+        "score": 404,
+        "descendants": 200,
+        "by": "gaws",
+        "tags": [],
+        "summary": "奥杜邦协会通过《GTA 6》中构建的虚拟生态系统，科普现实中的野生动物知识。"
+      },
+      {
+        "id": 50547698,
+        "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+        "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+        "domain": "apnews.com",
+        "score": 153,
+        "descendants": 20,
+        "by": "graemep",
+        "tags": [],
+        "summary": "苏丹考古发现了一座大型中世纪教堂的底座，揭示了该地区深厚的历史遗迹。"
+      },
+      {
+        "id": 50604988,
+        "title": "GL.iNet Security Notice 2026-11-20",
+        "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+        "domain": "gl-inet.com",
+        "score": 129,
+        "descendants": 61,
+        "by": "gregsadetsky",
+        "tags": [
+          "Security"
+        ],
+        "summary": "GL.iNet 发布的最新安全通告，建议用户关注相关设备的安全更新。"
+      },
+      {
+        "id": 50603589,
+        "title": "A miniature San Francisco with live buses, planes and boats",
+        "url": "https://smallsf.com/",
+        "domain": "smallsf.com",
+        "score": 187,
+        "descendants": 80,
+        "by": "dutilh",
+        "tags": [],
+        "summary": "一个精巧的旧金山微缩模型，实时同步展示着该市的公交、飞机与船只运行动态。"
+      },
+      {
+        "id": 50604472,
+        "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+        "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+        "domain": "ias.edu",
+        "score": 88,
+        "descendants": 15,
+        "by": "hectormauer",
+        "tags": [],
+        "summary": "1939 年发表的经典文章，探讨了“无用知识”在科学研究中的深远价值。"
+      },
+      {
+        "id": 50604123,
+        "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+        "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+        "domain": "fosscomics.com",
+        "score": 75,
+        "descendants": 23,
+        "by": "joonehur",
+        "tags": [],
+        "summary": "以漫画形式回顾 BSD 操作系统在法律与授权层面摆脱 AT&T 控制的抗争史。"
+      },
+      {
+        "id": 50560563,
+        "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+        "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+        "domain": "gameboymuseum.com",
+        "score": 25,
+        "descendants": 4,
+        "by": "speckx",
+        "tags": [],
+        "summary": "深入研究 Wisdom Tree 公司在 Game Boy 上发布的一系列非官方授权宗教类游戏。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "spelunkr.tv",
+          "count": 1
+        },
+        {
+          "domain": "johncarlosbaez.wordpress.com",
+          "count": 1
+        },
+        {
+          "domain": "gpupartner.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 172,
+      "max_score": {
+        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "score": 404
+      },
+      "most_discussed": {
+        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "comments": 200
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Security"
+      ]
+    },
+    "summary": "本期 Hacker News 热门内容呈现了多元化的技术与文化图景，从本地 AI 部署教程与安全公告等实用技术探讨，到对互联网归档视频、数字游戏史及中世纪建筑考古的人文回溯。整体趋势关注开源技术的应用落地与数字时代的深度信息挖掘。"
   }
 }
