@@ -311,5 +311,161 @@
       ]
     },
     "summary": "本期 Hacker News 热门内容呈现了多元化的技术与文化图景，从本地 AI 部署教程与安全公告等实用技术探讨，到对互联网归档视频、数字游戏史及中世纪建筑考古的人文回溯。整体趋势关注开源技术的应用落地与数字时代的深度信息挖掘。"
+  },
+  "evening": {
+    "time": "2026-11-23 21:49",
+    "stories": [
+      {
+        "id": 50609685,
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://z.ai/blog/glm-5.4",
+        "domain": "z.ai",
+        "score": 376,
+        "descendants": 162,
+        "by": "foohis",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50610334,
+        "title": "The next circle of security hell",
+        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+        "domain": "blogs.gentoo.org",
+        "score": 56,
+        "descendants": 28,
+        "by": "qtqtqt",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 50607261,
+        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "url": "https://github.com/AFK-surf/xnulinux",
+        "domain": "github.com",
+        "score": 439,
+        "descendants": 195,
+        "by": "mmastrac",
+        "tags": [
+          "Systems",
+          "Science"
+        ]
+      },
+      {
+        "id": 50606192,
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "url": "https://spelunkr.tv",
+        "domain": "spelunkr.tv",
+        "score": 657,
+        "descendants": 121,
+        "by": "SockThief",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50587750,
+        "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+        "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+        "domain": "allaboutcircuits.com",
+        "score": 33,
+        "descendants": 7,
+        "by": "giuliomagnifico",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50610743,
+        "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+        "url": "https://github.com/mikuta0407/win4wine",
+        "domain": "github.com",
+        "score": 16,
+        "descendants": 9,
+        "by": "hard_times",
+        "tags": [
+          "Systems"
+        ]
+      },
+      {
+        "id": 50610318,
+        "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+        "url": "https://github.com/os6/nospeaker",
+        "domain": "github.com",
+        "score": 39,
+        "descendants": 8,
+        "by": "yakkomajuri",
+        "tags": []
+      },
+      {
+        "id": 50584526,
+        "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+        "url": "https://github.com/elixir-hls/elixir-hls",
+        "domain": "github.com",
+        "score": 63,
+        "descendants": 0,
+        "by": "kristianpaul",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50607668,
+        "title": "Yes, 17M lines of Lean is a lot",
+        "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+        "domain": "micjm.com",
+        "score": 159,
+        "descendants": 199,
+        "by": "seizethecheese",
+        "tags": []
+      },
+      {
+        "id": 50611026,
+        "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
+        "url": "https://github.com/ruairidhflint/news-blocklist",
+        "domain": "github.com",
+        "score": 9,
+        "descendants": 1,
+        "by": "mrroryflint",
+        "tags": [
+          "AI",
+          "Show HN"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 5
+        },
+        {
+          "domain": "z.ai",
+          "count": 1
+        },
+        {
+          "domain": "blogs.gentoo.org",
+          "count": 1
+        }
+      ],
+      "avg_score": 185,
+      "max_score": {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "score": 657
+      },
+      "most_discussed": {
+        "title": "Yes, 17M lines of Lean is a lot",
+        "comments": 199
+      },
+      "hot_tags": [
+        "Systems",
+        "AI",
+        "Security",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": ""
   }
 }
