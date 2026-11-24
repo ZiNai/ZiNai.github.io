@@ -1,0 +1,147 @@
+{
+  "morning": {
+    "time": "2026-11-25 05:51",
+    "stories": [
+      {
+        "id": 50633922,
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "domain": "prismml.com",
+        "score": 150,
+        "descendants": 48,
+        "by": "b0m",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50634426,
+        "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "domain": "news.ycombinator.com",
+        "score": 27,
+        "descendants": 8,
+        "by": "harshithl1777",
+        "tags": [
+          "Startup"
+        ]
+      },
+      {
+        "id": 50630594,
+        "title": "Active intrusion campaign against Check Point security management servers",
+        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+        "domain": "greynoise.io",
+        "score": 230,
+        "descendants": 94,
+        "by": "louiereederson",
+        "tags": [
+          "AI",
+          "Security"
+        ]
+      },
+      {
+        "id": 50598555,
+        "title": "The Spray Bottle",
+        "url": "https://mechanical-pencil.com/products/spray-bottle",
+        "domain": "mechanical-pencil.com",
+        "score": 271,
+        "descendants": 78,
+        "by": "vinhnx",
+        "tags": []
+      },
+      {
+        "id": 50634734,
+        "title": "Working with AI",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "domain": "anthropic.com",
+        "score": 20,
+        "descendants": 11,
+        "by": "kagaherk",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50633424,
+        "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+        "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+        "domain": "andlukyane.com",
+        "score": 30,
+        "descendants": 0,
+        "by": "Artgor",
+        "tags": []
+      },
+      {
+        "id": 50630462,
+        "title": "Jetty Pro",
+        "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+        "domain": "hypercritical.co",
+        "score": 226,
+        "descendants": 89,
+        "by": "zdw",
+        "tags": []
+      },
+      {
+        "id": 50624497,
+        "title": "2035 came early",
+        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "domain": "fzakaria.com",
+        "score": 912,
+        "descendants": 342,
+        "by": "setheron",
+        "tags": []
+      },
+      {
+        "id": 50609483,
+        "title": "Calculate how many mesh radio nodes your city needs",
+        "url": "https://meshcoveragecalculator.lalala.ing/",
+        "domain": "meshcoveragecalculator.lalala.ing",
+        "score": 31,
+        "descendants": 2,
+        "by": "joshcsimmons",
+        "tags": []
+      },
+      {
+        "id": 50629106,
+        "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+        "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+        "domain": "frankchiarulli.com",
+        "score": 106,
+        "descendants": 72,
+        "by": "fcjr",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "prismml.com",
+          "count": 1
+        },
+        {
+          "domain": "news.ycombinator.com",
+          "count": 1
+        },
+        {
+          "domain": "greynoise.io",
+          "count": 1
+        }
+      ],
+      "avg_score": 200,
+      "max_score": {
+        "title": "2035 came early",
+        "score": 912
+      },
+      "most_discussed": {
+        "title": "2035 came early",
+        "comments": 342
+      },
+      "hot_tags": [
+        "AI",
+        "Startup",
+        "Security"
+      ]
+    },
+    "summary": ""
+  }
+}
