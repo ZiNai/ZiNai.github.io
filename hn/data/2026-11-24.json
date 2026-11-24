@@ -155,5 +155,147 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中在科技巨头与开源生态的博弈，包括 Nvidia 的领导层变动、开源模型监管争议以及浏览器与企业级软件等领域的技术进展。开发者社群正积极关注自研架构与替代方案，展现了对独立生态和技术创新的强烈追求。"
+  },
+  "noon": {
+    "time": "2026-11-24 15:22",
+    "stories": [
+      {
+        "id": 50624487,
+        "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+        "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+        "domain": "korben.info",
+        "score": 86,
+        "descendants": 20,
+        "by": "thisislife2",
+        "tags": []
+      },
+      {
+        "id": 50611576,
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "domain": "cnbc.com",
+        "score": 2457,
+        "descendants": 3397,
+        "by": "jaz",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50620349,
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "domain": "stalw.art",
+        "score": 388,
+        "descendants": 192,
+        "by": "shaunpud",
+        "tags": []
+      },
+      {
+        "id": 50614249,
+        "title": "Ladybird is now in alpha",
+        "url": "https://ladybird.org/posts/alpha/",
+        "domain": "ladybird.org",
+        "score": 1726,
+        "descendants": 402,
+        "by": "janvdberg",
+        "tags": []
+      },
+      {
+        "id": 50623515,
+        "title": "Drone Maps of Salvage Yards",
+        "url": "https://salvageyarddrone.wordpress.com/",
+        "domain": "salvageyarddrone.wordpress.com",
+        "score": 52,
+        "descendants": 16,
+        "by": "uptrails",
+        "tags": []
+      },
+      {
+        "id": 50604710,
+        "title": "Modernizing iperf/iperf3 and introducing fireperf",
+        "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+        "domain": "blog.daniel-baumann.ch",
+        "score": 67,
+        "descendants": 4,
+        "by": "edward",
+        "tags": []
+      },
+      {
+        "id": 50624061,
+        "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+        "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+        "domain": "phoronix.com",
+        "score": 18,
+        "descendants": 4,
+        "by": "zdw",
+        "tags": [
+          "Startup",
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50607512,
+        "title": "Lowering Perplexity Without Scaling",
+        "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+        "domain": "micjm.com",
+        "score": 20,
+        "descendants": 3,
+        "by": "qlte",
+        "tags": []
+      },
+      {
+        "id": 50622774,
+        "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+        "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+        "domain": "governor.ny.gov",
+        "score": 236,
+        "descendants": 64,
+        "by": "DeepLogin",
+        "tags": []
+      },
+      {
+        "id": 50619103,
+        "title": "GPUI is getting its own repository",
+        "url": "https://github.com/zed-industries/gpui",
+        "domain": "github.com",
+        "score": 224,
+        "descendants": 83,
+        "by": "EvilGoose",
+        "tags": [
+          "Hardware"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "korben.info",
+          "count": 1
+        },
+        {
+          "domain": "cnbc.com",
+          "count": 1
+        },
+        {
+          "domain": "stalw.art",
+          "count": 1
+        }
+      ],
+      "avg_score": 527,
+      "max_score": {
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "score": 2457
+      },
+      "most_discussed": {
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "comments": 3397
+      },
+      "hot_tags": [
+        "Hardware",
+        "Startup"
+      ]
+    },
+    "summary": ""
   }
 }
