@@ -297,5 +297,144 @@
       ]
     },
     "summary": ""
+  },
+  "evening": {
+    "time": "2026-11-24 22:23",
+    "stories": [
+      {
+        "id": 50627340,
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "domain": "michaelharley.net",
+        "score": 232,
+        "descendants": 74,
+        "by": "surprisetalk",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50626578,
+        "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+        "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+        "domain": "deucalionn.vercel.app",
+        "score": 408,
+        "descendants": 238,
+        "by": "oska",
+        "tags": []
+      },
+      {
+        "id": 50626861,
+        "title": "Who in Washington owns and trades Nvidia stock",
+        "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+        "domain": "kadoa.com",
+        "score": 126,
+        "descendants": 44,
+        "by": "hubraumhugo",
+        "tags": [
+          "Hardware"
+        ]
+      },
+      {
+        "id": 50624497,
+        "title": "2035 Came Early",
+        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "domain": "fzakaria.com",
+        "score": 472,
+        "descendants": 184,
+        "by": "setheron",
+        "tags": []
+      },
+      {
+        "id": 50626413,
+        "title": "Worshipping at the Altar of Brendan Gregg",
+        "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+        "domain": "fzakaria.com",
+        "score": 87,
+        "descendants": 12,
+        "by": "kqr",
+        "tags": []
+      },
+      {
+        "id": 50614249,
+        "title": "Ladybird is now in alpha",
+        "url": "https://ladybird.org/posts/alpha/",
+        "domain": "ladybird.org",
+        "score": 2172,
+        "descendants": 524,
+        "by": "janvdberg",
+        "tags": []
+      },
+      {
+        "id": 50598094,
+        "title": "An anti-slavery sugar bowl (2024)",
+        "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+        "domain": "vam.ac.uk",
+        "score": 46,
+        "descendants": 22,
+        "by": "leonry",
+        "tags": []
+      },
+      {
+        "id": 50620349,
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "domain": "stalw.art",
+        "score": 562,
+        "descendants": 301,
+        "by": "shaunpud",
+        "tags": []
+      },
+      {
+        "id": 50605361,
+        "title": "The new set of problems for engineers to solve",
+        "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+        "domain": "katelynlesse.com",
+        "score": 17,
+        "descendants": 2,
+        "by": "ot",
+        "tags": []
+      },
+      {
+        "id": 50625384,
+        "title": "Quad9 pulled their DNS service from France",
+        "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+        "domain": "quad9.net",
+        "score": 64,
+        "descendants": 20,
+        "by": "farrokhi",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "fzakaria.com",
+          "count": 2
+        },
+        {
+          "domain": "michaelharley.net",
+          "count": 1
+        },
+        {
+          "domain": "deucalionn.vercel.app",
+          "count": 1
+        }
+      ],
+      "avg_score": 419,
+      "max_score": {
+        "title": "Ladybird is now in alpha",
+        "score": 2172
+      },
+      "most_discussed": {
+        "title": "Ladybird is now in alpha",
+        "comments": 524
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": ""
   }
 }
