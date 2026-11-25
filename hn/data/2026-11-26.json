@@ -1,0 +1,151 @@
+{
+  "morning": {
+    "time": "2026-11-26 04:58",
+    "stories": [
+      {
+        "id": 50644817,
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "domain": "1password.com",
+        "score": 722,
+        "descendants": 296,
+        "by": "lxhrstn",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "id": 50646108,
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "url": "https://scottaaronson.blog/?p=10379",
+        "domain": "scottaaronson.blog",
+        "score": 390,
+        "descendants": 244,
+        "by": "Kotlopou",
+        "tags": []
+      },
+      {
+        "id": 50643129,
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "domain": "vox.com",
+        "score": 371,
+        "descendants": 92,
+        "by": "gumby",
+        "tags": []
+      },
+      {
+        "id": 50589784,
+        "title": "SSH is a GUI framework",
+        "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+        "domain": "zydra.sh",
+        "score": 47,
+        "descendants": 20,
+        "by": "teledream",
+        "tags": []
+      },
+      {
+        "id": 50601280,
+        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "domain": "bjin.github.io",
+        "score": 15,
+        "descendants": 1,
+        "by": "bjin",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50644980,
+        "title": "The polynomial Hirsch conjecture is false [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+        "domain": "github.com",
+        "score": 65,
+        "descendants": 8,
+        "by": "acossta",
+        "tags": []
+      },
+      {
+        "id": 50646662,
+        "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+        "url": "https://danprice.ai/blog/opus-symphony",
+        "domain": "danprice.ai",
+        "score": 24,
+        "descendants": 10,
+        "by": "halfprice06",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50645074,
+        "title": "Britain's ghost stations",
+        "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+        "domain": "spectator.com",
+        "score": 52,
+        "descendants": 9,
+        "by": "translocator",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "id": 50641171,
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "domain": "github.com",
+        "score": 287,
+        "descendants": 163,
+        "by": "ThrowNotAway",
+        "tags": [
+          "Python"
+        ]
+      },
+      {
+        "id": 50642086,
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "domain": "github.com",
+        "score": 390,
+        "descendants": 302,
+        "by": "rgwohlbold",
+        "tags": [
+          "Science"
+        ]
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 3
+        },
+        {
+          "domain": "1password.com",
+          "count": 1
+        },
+        {
+          "domain": "scottaaronson.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 236,
+      "max_score": {
+        "title": "1Password Security Incident",
+        "score": 722
+      },
+      "most_discussed": {
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "comments": 302
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Python",
+        "Science"
+      ]
+    },
+    "summary": ""
+  }
+}
