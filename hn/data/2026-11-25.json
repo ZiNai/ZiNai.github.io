@@ -310,5 +310,157 @@
       ]
     },
     "summary": "本期Hacker News热门内容聚焦于前沿AI研究与技术实现，从矩阵乘法算法优化到模型推理安全性等深度主题均有涉及。此外，开发者社区展现了对怀旧技术展示、趣味交互设计以及个人随笔的高度关注。"
+  },
+  "evening": {
+    "time": "2026-11-25 21:41",
+    "stories": [
+      {
+        "id": 50641171,
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "domain": "github.com",
+        "score": 103,
+        "descendants": 51,
+        "by": "ThrowNotAway",
+        "tags": [
+          "Python"
+        ],
+        "summary": "开源移植Windows响度均衡功能至PipeWire，为Linux音频用户提供更佳的音量自动调节体验。"
+      },
+      {
+        "id": 50638032,
+        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+        "url": "https://buttons.joshwcomeau.com/",
+        "domain": "buttons.joshwcomeau.com",
+        "score": 525,
+        "descendants": 80,
+        "by": "gaurang_tandon",
+        "tags": [],
+        "summary": "一个高质量的专业录制按钮点击音效集合网站，为界面设计和开发提供极具质感的交互音效素材。"
+      },
+      {
+        "id": 50637220,
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "domain": "github.com",
+        "score": 761,
+        "descendants": 431,
+        "by": "E-Reverance",
+        "tags": [],
+        "summary": "研究论文探讨矩阵乘法算法的复杂性边界，提出其计算性能可达到Θ(n^2.25)的新理论突破。"
+      },
+      {
+        "id": 50607849,
+        "title": "The short age of dragon riders",
+        "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+        "domain": "atilloy.com",
+        "score": 72,
+        "descendants": 34,
+        "by": "synapsomorphy",
+        "tags": [],
+        "summary": "探讨奇幻设定中“龙骑士”这一角色的生命周期与时代演变，分析其在文化叙事中的兴衰。"
+      },
+      {
+        "id": 50637686,
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "domain": "lesswrong.com",
+        "score": 304,
+        "descendants": 131,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "安全研究发现即便AI模型处于沙盒环境，仍可通过推理服务器进行外部通信，引发对大模型安全隔离的担忧。"
+      },
+      {
+        "id": 50627726,
+        "title": "Getting old Java phones online again",
+        "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+        "domain": "antcating.github.io",
+        "score": 88,
+        "descendants": 43,
+        "by": "waximabbax",
+        "tags": [
+          "AI"
+        ],
+        "summary": "技术复古实践，通过技术手段让那些早已被遗忘的经典Java功能手机重新连网。"
+      },
+      {
+        "id": 50628517,
+        "title": "1,615 New TLDs Are Coming. Is Your DNS Ready for a Bigger Namespace?",
+        "url": "https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace",
+        "domain": "akamai.com",
+        "score": 38,
+        "descendants": 35,
+        "by": "ksec",
+        "tags": [
+          "Science"
+        ],
+        "summary": "分析大规模新顶级域名(TLD)爆发对全球DNS系统架构带来的挑战与技术准备建议。"
+      },
+      {
+        "id": 50638503,
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "url": "https://gpu-demo-gallery.pages.dev/",
+        "domain": "gpu-demo-gallery.pages.dev",
+        "score": 198,
+        "descendants": 46,
+        "by": "arkits",
+        "tags": [
+          "AI",
+          "Web",
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "利用浏览器技术复刻并运行经典的Nvidia与ATI显卡性能测试Demo，重温图形处理技术的发展史。"
+      },
+      {
+        "id": 50633922,
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "domain": "prismml.com",
+        "score": 488,
+        "descendants": 150,
+        "by": "b0m",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍Ternary Bonsai 2.5 27B模型，展示其在模型架构优化与推理性能上的具体表现。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "buttons.joshwcomeau.com",
+          "count": 1
+        },
+        {
+          "domain": "atilloy.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 286,
+      "max_score": {
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "score": 761
+      },
+      "most_discussed": {
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "comments": 431
+      },
+      "hot_tags": [
+        "AI",
+        "Python",
+        "Science",
+        "Web",
+        "Show HN"
+      ]
+    },
+    "summary": "今日Hacker News重点关注前沿算法突破与复古技术的现代化重构。内容涵盖高性能计算算法的演进、AI模型安全边界的探讨，以及对老旧硬件、软件和界面设计的怀旧与修复实践。"
   }
 }
