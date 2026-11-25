@@ -143,5 +143,172 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-11-25 13:54",
+    "stories": [
+      {
+        "id": 50637220,
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "domain": "github.com",
+        "score": 383,
+        "descendants": 193,
+        "by": "E-Reverance",
+        "tags": [],
+        "summary": "介绍了矩阵乘法算法的最新进展，分析其理论复杂度达到Θ(n^2.25)。"
+      },
+      {
+        "id": 50638032,
+        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+        "url": "https://buttons.joshwcomeau.com/",
+        "domain": "buttons.joshwcomeau.com",
+        "score": 131,
+        "descendants": 11,
+        "by": "gaurang_tandon",
+        "tags": [],
+        "summary": "一个精选专业录制的按钮点击与按下音效的资源合集。"
+      },
+      {
+        "id": 50637686,
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "domain": "lesswrong.com",
+        "score": 105,
+        "descendants": 43,
+        "by": "gmays",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨了受限沙箱环境下的AI模型如何通过推理服务器进行通信的潜在安全风险。"
+      },
+      {
+        "id": 50638320,
+        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+        "domain": "comentr.com",
+        "score": 77,
+        "descendants": 51,
+        "by": "hoodied",
+        "tags": [
+          "AI"
+        ],
+        "summary": "作者吐槽Gemini因版权限制拒绝提供《一闪一闪小星星》歌词的经历。"
+      },
+      {
+        "id": 50637874,
+        "title": "I've been drinking wine in my kitchen",
+        "url": "https://scottaaronson.blog/?p=10362",
+        "domain": "scottaaronson.blog",
+        "score": 103,
+        "descendants": 58,
+        "by": "nill0",
+        "tags": [],
+        "summary": "斯科特·阿伦森撰写的一篇关于在厨房小酌随想的个人随笔。"
+      },
+      {
+        "id": 50637056,
+        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "domain": "greydanus.github.io",
+        "score": 159,
+        "descendants": 28,
+        "by": "smusamashah",
+        "tags": [
+          "AI"
+        ],
+        "summary": "展示了一款名为PenGPT的生成式Transformer，专注于模拟笔迹与手绘草图。"
+      },
+      {
+        "id": 50633922,
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "domain": "prismml.com",
+        "score": 398,
+        "descendants": 131,
+        "by": "b0m",
+        "tags": [
+          "AI"
+        ],
+        "summary": "介绍了Ternary Bonsai 2.5 27B模型，展示了三进制权重在高性能模型中的应用。"
+      },
+      {
+        "id": 50638523,
+        "title": "Show HN: U.S. Interstate Weather",
+        "url": "https://www.interstateweather.com/",
+        "domain": "interstateweather.com",
+        "score": 20,
+        "descendants": 4,
+        "by": "projproj",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "Show HN项目：一个专门提供美国州际公路沿线实时天气信息的服务。"
+      },
+      {
+        "id": 50638503,
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "url": "https://gpu-demo-gallery.pages.dev/",
+        "domain": "gpu-demo-gallery.pages.dev",
+        "score": 19,
+        "descendants": 2,
+        "by": "arkits",
+        "tags": [
+          "AI",
+          "Web",
+          "Show HN",
+          "Hardware"
+        ],
+        "summary": "Show HN项目：通过浏览器即可重新运行经典Nvidia与ATI显卡技术演示。"
+      },
+      {
+        "id": 50638220,
+        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "domain": "marginalia.nu",
+        "score": 44,
+        "descendants": 9,
+        "by": "Curiositry",
+        "tags": [
+          "AI",
+          "Rust",
+          "Systems"
+        ],
+        "summary": "Marginalia Search作者对搜索引擎商业模式、编程语言选择及AI现状的思考总结。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "buttons.joshwcomeau.com",
+          "count": 1
+        },
+        {
+          "domain": "lesswrong.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 144,
+      "max_score": {
+        "title": "Ternary Bonsai 2.5 27B",
+        "score": 398
+      },
+      "most_discussed": {
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "comments": 193
+      },
+      "hot_tags": [
+        "AI",
+        "Show HN",
+        "Web",
+        "Hardware",
+        "Rust"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于前沿AI研究与技术实现，从矩阵乘法算法优化到模型推理安全性等深度主题均有涉及。此外，开发者社区展现了对怀旧技术展示、趣味交互设计以及个人随笔的高度关注。"
   }
 }
