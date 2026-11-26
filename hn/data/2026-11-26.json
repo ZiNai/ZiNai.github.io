@@ -147,5 +147,165 @@
       ]
     },
     "summary": ""
+  },
+  "noon": {
+    "time": "2026-11-26 13:45",
+    "stories": [
+      {
+        "id": 50646108,
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "url": "https://scottaaronson.blog/?p=10379",
+        "domain": "scottaaronson.blog",
+        "score": 1200,
+        "descendants": 1051,
+        "by": "Kotlopou",
+        "tags": [],
+        "summary": "斯科特·阿伦森博文引发热议，探讨当前AI领域发生的重大进展与深远影响。"
+      },
+      {
+        "id": 50644817,
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "domain": "1password.com",
+        "score": 1294,
+        "descendants": 546,
+        "by": "lxhrstn",
+        "tags": [
+          "Security"
+        ],
+        "summary": "1Password发布安全事件公告，说明受影响范围及公司采取的应对措施。"
+      },
+      {
+        "id": 50648050,
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "url": "https://github.com/lsernau/grh-lean",
+        "domain": "github.com",
+        "score": 371,
+        "descendants": 186,
+        "by": "nb-t",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic团队发布了关于GRH Lean形式化验证的精简版方法论。"
+      },
+      {
+        "id": 50598636,
+        "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+        "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+        "domain": "gwern.net",
+        "score": 43,
+        "descendants": 8,
+        "by": "Michelangelo11",
+        "tags": [],
+        "summary": "罗尔德·达尔1954年的经典短篇小说《伟大的自动语法化器》PDF版本分享。"
+      },
+      {
+        "id": 50626466,
+        "title": "What VP ≠ VNP Means (In 3 Minutes)",
+        "url": "https://www.friedgil.com/vpvnp",
+        "domain": "friedgil.com",
+        "score": 58,
+        "descendants": 1,
+        "by": "vinhnx",
+        "tags": [],
+        "summary": "用三分钟简明扼要地解释计算机科学复杂性理论中 VP 与 VNP 的区别。"
+      },
+      {
+        "id": 50649864,
+        "title": "Tell HN: Lots of Ask HNs again",
+        "url": "https://news.ycombinator.com/item?id=50649864",
+        "domain": "news.ycombinator.com",
+        "score": 184,
+        "descendants": 74,
+        "by": "dang",
+        "tags": [
+          "AI",
+          "Ask HN"
+        ],
+        "summary": "关于Hacker News社区近期出现大量 Ask HN 类帖子的讨论与反馈。"
+      },
+      {
+        "id": 50649834,
+        "title": "Collection of preserved UI style guides",
+        "url": "https://aresluna.org/ui-style-guides/",
+        "domain": "aresluna.org",
+        "score": 79,
+        "descendants": 7,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "汇集了多个经典软件及平台的 UI 设计风格指南，供界面设计参考。"
+      },
+      {
+        "id": 50647181,
+        "title": "Slow Ubuntu security response times",
+        "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "domain": "openwall.com",
+        "score": 217,
+        "descendants": 101,
+        "by": "gslin",
+        "tags": [
+          "Security"
+        ],
+        "summary": "讨论Ubuntu在处理安全漏洞时响应速度较慢的问题及其带来的潜在隐患。"
+      },
+      {
+        "id": 50601280,
+        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "domain": "bjin.github.io",
+        "score": 321,
+        "descendants": 89,
+        "by": "bjin",
+        "tags": [
+          "AI"
+        ],
+        "summary": "GPT-6.2 Astra模型在代码高尔夫任务中刷新了Google工程师保持的记录。"
+      },
+      {
+        "id": 50650892,
+        "title": "Minipg: PostgreSQL as a Single Executable",
+        "url": "https://progrium.github.io/minipg/",
+        "domain": "progrium.github.io",
+        "score": 29,
+        "descendants": 4,
+        "by": "rguiscard",
+        "tags": [
+          "Database"
+        ],
+        "summary": "介绍将 PostgreSQL 封装为单个可执行文件的轻量化部署方案 Minipg。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "scottaaronson.blog",
+          "count": 1
+        },
+        {
+          "domain": "1password.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 380,
+      "max_score": {
+        "title": "1Password Security Incident",
+        "score": 1294
+      },
+      "most_discussed": {
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "comments": 1051
+      },
+      "hot_tags": [
+        "AI",
+        "Security",
+        "Ask HN",
+        "Database"
+      ]
+    },
+    "summary": "今日Hacker News社区高度关注AI模型性能突破与安全风险，包括Anthropic的安全验证更新、疑似GPT模型记录的打破以及1Password的安全警报。此外，关于开源软件安全响应、技术文档归档及编程工具演进的讨论也占据了榜单重要位置。"
   }
 }
