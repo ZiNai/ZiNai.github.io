@@ -307,5 +307,151 @@
       ]
     },
     "summary": "今日Hacker News社区高度关注AI模型性能突破与安全风险，包括Anthropic的安全验证更新、疑似GPT模型记录的打破以及1Password的安全警报。此外，关于开源软件安全响应、技术文档归档及编程工具演进的讨论也占据了榜单重要位置。"
+  },
+  "evening": {
+    "time": "2026-11-26 21:19",
+    "stories": [
+      {
+        "id": 50654289,
+        "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+        "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+        "domain": "nextcloud.com",
+        "score": 70,
+        "descendants": 14,
+        "by": "e12e",
+        "tags": [],
+        "summary": "Nextcloud 发布了桌面端 Office 应用，旨在提供一体化的协作办公体验。"
+      },
+      {
+        "id": 50653667,
+        "title": "Intel One Mono font",
+        "url": "https://github.com/intel/intel-one-mono",
+        "domain": "github.com",
+        "score": 163,
+        "descendants": 96,
+        "by": "saikatsg",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Intel 推出的开源等宽字体 Intel One Mono，专为开发者阅读代码设计以提升视觉舒适度。"
+      },
+      {
+        "id": 50646108,
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "url": "https://scottaaronson.blog/?p=10379",
+        "domain": "scottaaronson.blog",
+        "score": 1687,
+        "descendants": 1514,
+        "by": "Kotlopou",
+        "tags": [],
+        "summary": "Scott Aaronson 对当前 AI 领域突发进展的震撼评论，探讨了技术迭代带来的重大范式转移。"
+      },
+      {
+        "id": 50644817,
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "domain": "1password.com",
+        "score": 1506,
+        "descendants": 650,
+        "by": "lxhrstn",
+        "tags": [
+          "Security"
+        ],
+        "summary": "1Password 披露了一起安全事件，社区正密切关注其对用户隐私和平台信任的影响。"
+      },
+      {
+        "id": 50651719,
+        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+        "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+        "domain": "fosscomics.com",
+        "score": 140,
+        "descendants": 23,
+        "by": "joonehur",
+        "tags": [],
+        "summary": "探讨《Lions' Commentary on Unix》如何因受限于版权保密，在过去 20 年间通过地下渠道传播的历史。"
+      },
+      {
+        "id": 50647673,
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "domain": "theverge.com",
+        "score": 456,
+        "descendants": 381,
+        "by": "rmason",
+        "tags": [
+          "AI"
+        ],
+        "summary": "纽约时报建议摄影师推迟更新 Photoshop，以规避 AI 功能带来的版权合规风险。"
+      },
+      {
+        "id": 50650892,
+        "title": "Minipg: PostgreSQL as a Single Executable",
+        "url": "https://progrium.github.io/minipg/",
+        "domain": "progrium.github.io",
+        "score": 178,
+        "descendants": 26,
+        "by": "rguiscard",
+        "tags": [
+          "Database"
+        ],
+        "summary": "Minipg 项目实现了将 PostgreSQL 打包为单一可执行文件，极大简化了数据库的部署流程。"
+      },
+      {
+        "id": 50649834,
+        "title": "Collection of preserved UI style guides",
+        "url": "https://aresluna.org/ui-style-guides/",
+        "domain": "aresluna.org",
+        "score": 266,
+        "descendants": 39,
+        "by": "sohkamyung",
+        "tags": [],
+        "summary": "一个汇集了各品牌历史 UI 设计指南的资源库，对于研究界面设计演变极具参考价值。"
+      },
+      {
+        "id": 50648050,
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "url": "https://github.com/lsernau/grh-lean",
+        "domain": "github.com",
+        "score": 486,
+        "descendants": 276,
+        "by": "nb-t",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Anthropic 团队提供了一个更加简洁的 GRH（倾向性拒绝）技术验证版本，优化了 AI 模型训练路径。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "nextcloud.com",
+          "count": 1
+        },
+        {
+          "domain": "scottaaronson.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 550,
+      "max_score": {
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "score": 1687
+      },
+      "most_discussed": {
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "comments": 1514
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware",
+        "Security",
+        "Database"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中在重大的科技安全事件与 AI 行业的快速演进，引发了社区对企业数据泄露风险及 AI 技术潜在影响的强烈讨论。此外，开发者工具和技术史领域也表现活跃，涵盖了轻量化数据库、开源字体及经典 Unix 架构的深度探讨。"
   }
 }
