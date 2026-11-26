@@ -1,0 +1,158 @@
+{
+  "morning": {
+    "time": "2026-11-27 04:51",
+    "stories": [
+      {
+        "id": 50657265,
+        "title": "AMD Specific Patches for Llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "domain": "devnull.land",
+        "score": 180,
+        "descendants": 48,
+        "by": "julianlam",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "Llama.cpp推出针对AMD架构的优化补丁，提升运行大语言模型的性能。"
+      },
+      {
+        "id": 50657645,
+        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "domain": "krebsonsecurity.com",
+        "score": 117,
+        "descendants": 52,
+        "by": "Bender",
+        "tags": [],
+        "summary": "知名勒索软件辅助服务机构的CTO因电信诈骗被起诉。"
+      },
+      {
+        "id": 50657530,
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "url": "https://github.com/antonpictures/youtube-punisher",
+        "domain": "github.com",
+        "score": 111,
+        "descendants": 166,
+        "by": "iantongeorge",
+        "tags": [],
+        "summary": "一个通过自动刷新页面来跳过YouTube广告的实用脚本工具。"
+      },
+      {
+        "id": 50658997,
+        "title": "The USA as a Civilizations-esque map",
+        "url": "https://karpathy.ai/usaciv/",
+        "domain": "karpathy.ai",
+        "score": 36,
+        "descendants": 22,
+        "by": "ComputerGuru",
+        "tags": [],
+        "summary": "Andrej Karpathy分享了一张将美国地理布局重构为文明系列游戏风格的地图。"
+      },
+      {
+        "id": 50652527,
+        "title": "OpenAI may be in cost control mode",
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "domain": "micjm.com",
+        "score": 84,
+        "descendants": 60,
+        "by": "seizethecheese",
+        "tags": [
+          "AI"
+        ],
+        "summary": "深度分析指出OpenAI近期可能正在执行严格的成本控制策略。"
+      },
+      {
+        "id": 50658191,
+        "title": "Show HN: Fuck_data_brokers.py",
+        "url": "https://github.com/gary23w/f-ck_data_brokers",
+        "domain": "github.com",
+        "score": 36,
+        "descendants": 3,
+        "by": "gary23w",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个旨在自动向数据经纪人发送删除请求以保护隐私的Python脚本。"
+      },
+      {
+        "id": 50658632,
+        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "url": "https://github.com/eisenzopf/rvoip",
+        "domain": "github.com",
+        "score": 11,
+        "descendants": 2,
+        "by": "zerosegfaults",
+        "tags": [
+          "Rust"
+        ],
+        "summary": "基于Rust语言重写并构建的完整VoIP网络通信协议栈。"
+      },
+      {
+        "id": 50653667,
+        "title": "Intel One Mono font (2023)",
+        "url": "https://github.com/intel/intel-one-mono",
+        "domain": "github.com",
+        "score": 401,
+        "descendants": 226,
+        "by": "saikatsg",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "探讨人类的好奇心并非孤立的个人行为，而是社会互动与学习的结果。"
+      },
+      {
+        "id": 50657936,
+        "title": "George Whitesides, 1939-2026",
+        "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+        "domain": "science.org",
+        "score": 21,
+        "descendants": 3,
+        "by": "dverlaeckt80",
+        "tags": [],
+        "summary": "悼念化学家乔治·怀特赛兹，回顾其对现代科学领域的杰出贡献。"
+      },
+      {
+        "id": 50636931,
+        "title": "Curiosity Is No Solo Act",
+        "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+        "domain": "thereader.mitpress.mit.edu",
+        "score": 103,
+        "descendants": 22,
+        "by": "Petiver",
+        "tags": []
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "devnull.land",
+          "count": 1
+        },
+        {
+          "domain": "krebsonsecurity.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 110,
+      "max_score": {
+        "title": "Intel One Mono font (2023)",
+        "score": 401
+      },
+      "most_discussed": {
+        "title": "Intel One Mono font (2023)",
+        "comments": 226
+      },
+      "hot_tags": [
+        "Hardware",
+        "AI",
+        "Show HN",
+        "Rust"
+      ]
+    },
+    "summary": "今日Hacker News焦点涵盖了技术开发与网络治理的博弈，开发者关注AMD硬件优化、Rust VoIP协议及隐私保护工具。同时，AI行业成本控制讨论与科技圈的人文纪念同样引发了社区的广泛关注。"
+  }
+}
