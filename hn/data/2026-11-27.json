@@ -154,5 +154,158 @@
       ]
     },
     "summary": "今日Hacker News焦点涵盖了技术开发与网络治理的博弈，开发者关注AMD硬件优化、Rust VoIP协议及隐私保护工具。同时，AI行业成本控制讨论与科技圈的人文纪念同样引发了社区的广泛关注。"
+  },
+  "noon": {
+    "time": "2026-11-27 13:39",
+    "stories": [
+      {
+        "id": 50661646,
+        "title": "Hard Drive pricing has gotten bad",
+        "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "domain": "blog.ktz.me",
+        "score": 206,
+        "descendants": 131,
+        "by": "zdw",
+        "tags": [],
+        "summary": "分析指出当前硬盘市场定价机制日趋恶化，引发关于存储成本的讨论。"
+      },
+      {
+        "id": 50660180,
+        "title": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "domain": "janlukas.blog",
+        "score": 474,
+        "descendants": 244,
+        "by": "jlelse",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨AI技术如何重新激发个人自托管服务的乐趣与可能性。"
+      },
+      {
+        "id": 50662933,
+        "title": "\"What's Claude's Fursona?\" and Other Questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "domain": "herecomesthemoon.net",
+        "score": 21,
+        "descendants": 0,
+        "by": "Mond_",
+        "tags": [
+          "AI"
+        ],
+        "summary": "一篇关于探索Claude人格化倾向及相关趣味性问题的讨论。"
+      },
+      {
+        "id": 50659841,
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "domain": "worksinprogress.co",
+        "score": 315,
+        "descendants": 73,
+        "by": "dverlaeckt80",
+        "tags": [],
+        "summary": "介绍巴基斯坦建筑师卡米尔·汗·蒙塔兹，探讨其在国内备受推崇却在国际上鲜为人知的现象。"
+      },
+      {
+        "id": 50657530,
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "url": "https://github.com/antonpictures/youtube-punisher",
+        "domain": "github.com",
+        "score": 327,
+        "descendants": 397,
+        "by": "iantongeorge",
+        "tags": [],
+        "summary": "一个自动刷新YouTube页面以跳过广告的开源工具，引发了关于用户体验的激烈争论。"
+      },
+      {
+        "id": 50657265,
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "domain": "devnull.land",
+        "score": 320,
+        "descendants": 77,
+        "by": "julianlam",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "llama.cpp的AMD专用分支发布，旨在提升在AMD硬件上运行大语言模型的性能。"
+      },
+      {
+        "id": 50657645,
+        "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "domain": "krebsonsecurity.com",
+        "score": 243,
+        "descendants": 107,
+        "by": "Bender",
+        "tags": [],
+        "summary": "报道称一家名为'RansomwareHelp'的安全公司CTO因电信诈骗被起诉。"
+      },
+      {
+        "id": 50659640,
+        "title": "Company Culture = Slack Emoji ÷ √Headcount",
+        "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+        "domain": "lia.mg",
+        "score": 215,
+        "descendants": 88,
+        "by": "liamg",
+        "tags": [],
+        "summary": "通过一个幽默公式分析公司文化与内部Slack表情使用习惯及团队规模之间的关系。"
+      },
+      {
+        "id": 50653667,
+        "title": "Intel One Mono font (2023)",
+        "url": "https://github.com/intel/intel-one-mono",
+        "domain": "github.com",
+        "score": 492,
+        "descendants": 247,
+        "by": "saikatsg",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "介绍Intel开发的开源等宽字体'Intel One Mono'，旨在优化程序员阅读代码的体验。"
+      },
+      {
+        "id": 50660273,
+        "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+        "url": "https://kendell.dev/blog/arkwrapper/",
+        "domain": "kendell.dev",
+        "score": 73,
+        "descendants": 12,
+        "by": "leafingensemble",
+        "tags": [],
+        "summary": "揭露Novita和StreamLake等新兴AI服务实为字节跳动Ark平台的封装产品。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 2
+        },
+        {
+          "domain": "blog.ktz.me",
+          "count": 1
+        },
+        {
+          "domain": "janlukas.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 269,
+      "max_score": {
+        "title": "Intel One Mono font (2023)",
+        "score": 492
+      },
+      "most_discussed": {
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "comments": 397
+      },
+      "hot_tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    "summary": "今日Hacker News重点关注AI技术生态与工具开发，围绕AI应用、大模型优化及自托管趋势展开。同时，科技行业伦理、硬件成本与职场文化等议题也引起了社区的广泛讨论。"
   }
 }
