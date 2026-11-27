@@ -307,5 +307,159 @@
       ]
     },
     "summary": "今日Hacker News重点关注AI技术生态与工具开发，围绕AI应用、大模型优化及自托管趋势展开。同时，科技行业伦理、硬件成本与职场文化等议题也引起了社区的广泛讨论。"
+  },
+  "evening": {
+    "time": "2026-11-27 21:16",
+    "stories": [
+      {
+        "id": 50665968,
+        "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+        "url": "https://eprint.iacr.org/2026/3020.pdf",
+        "domain": "eprint.iacr.org",
+        "score": 60,
+        "descendants": 22,
+        "by": "yuvadam",
+        "tags": [],
+        "summary": "研究者提出了一种针对离散对数问题的确定性次指数时间算法。"
+      },
+      {
+        "id": 50663595,
+        "title": "The group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
+        "domain": "construct22.com",
+        "score": 396,
+        "descendants": 175,
+        "by": "utiiiD",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨了AI在背地里进行群体交流的可能性及其对沟通模式的潜在影响。"
+      },
+      {
+        "id": 50660180,
+        "title": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "domain": "janlukas.blog",
+        "score": 828,
+        "descendants": 405,
+        "by": "jlelse",
+        "tags": [
+          "AI"
+        ],
+        "summary": "博主分享了利用AI技术重新提升个人服务器自托管体验的经验。"
+      },
+      {
+        "id": 50665920,
+        "title": "Kimi for Science More scientific ideas, made possible",
+        "url": "https://www.kimi.ai/news/kimi-for-science-program",
+        "domain": "kimi.ai",
+        "score": 9,
+        "descendants": 1,
+        "by": "theanonymousone",
+        "tags": [
+          "Science"
+        ],
+        "summary": "介绍了Kimi为科学研究提供的智能化辅助功能与创新思路。"
+      },
+      {
+        "id": 50659841,
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "domain": "worksinprogress.co",
+        "score": 419,
+        "descendants": 109,
+        "by": "dverlaeckt80",
+        "tags": [],
+        "summary": "讲述了巴基斯坦建筑师Kamil Khan Mumtaz的职业成就及其在国际上的知名度困境。"
+      },
+      {
+        "id": 50657530,
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "url": "https://github.com/antonpictures/youtube-punisher",
+        "domain": "github.com",
+        "score": 444,
+        "descendants": 521,
+        "by": "iantongeorge",
+        "tags": [],
+        "summary": "一款通过自动重载页面来规避YouTube视频广告的实用工具。"
+      },
+      {
+        "id": 50657265,
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "domain": "devnull.land",
+        "score": 388,
+        "descendants": 96,
+        "by": "julianlam",
+        "tags": [
+          "Hardware"
+        ],
+        "summary": "针对AMD硬件优化适配的llama.cpp版本，提升本地模型运行效率。"
+      },
+      {
+        "id": 50661646,
+        "title": "Hard Drive pricing has gotten bad",
+        "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "domain": "blog.ktz.me",
+        "score": 415,
+        "descendants": 344,
+        "by": "zdw",
+        "tags": [],
+        "summary": "分析了当前硬盘存储设备价格走势及其对个人与企业用户的影响。"
+      },
+      {
+        "id": 50657645,
+        "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "domain": "krebsonsecurity.com",
+        "score": 288,
+        "descendants": 141,
+        "by": "Bender",
+        "tags": [],
+        "summary": "报道了勒索软件防御公司“RansomwareHelp”首席技术官因电汇欺诈被起诉的消息。"
+      },
+      {
+        "id": 50659640,
+        "title": "Company Culture = Slack Emoji ÷ √Headcount",
+        "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+        "domain": "lia.mg",
+        "score": 430,
+        "descendants": 208,
+        "by": "liamg",
+        "tags": [],
+        "summary": "通过一个幽默的公式探讨了公司文化与团队规模及沟通活跃度之间的复杂关系。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "eprint.iacr.org",
+          "count": 1
+        },
+        {
+          "domain": "construct22.com",
+          "count": 1
+        },
+        {
+          "domain": "janlukas.blog",
+          "count": 1
+        }
+      ],
+      "avg_score": 368,
+      "max_score": {
+        "title": "AI made self-hosting fun again",
+        "score": 828
+      },
+      "most_discussed": {
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "comments": 521
+      },
+      "hot_tags": [
+        "AI",
+        "Science",
+        "Hardware"
+      ]
+    },
+    "summary": "本期Hacker News焦点集中在AI应用演进与技术架构，讨论了AI驱动的社交互动、本地化部署的复兴以及针对硬件与广告生态的优化工具。此外，行业安全事件、基础设施成本及建筑设计等跨领域话题也引发了广泛探讨。"
   }
 }
