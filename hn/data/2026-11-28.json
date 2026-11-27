@@ -1,0 +1,159 @@
+{
+  "morning": {
+    "time": "2026-11-28 04:36",
+    "stories": [
+      {
+        "id": 50668145,
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+        "domain": "infohawk.com",
+        "score": 268,
+        "descendants": 147,
+        "by": "scanr",
+        "tags": [
+          "Web"
+        ],
+        "summary": "研究人员在主流购物网站发现利用WebRTC技术的新型信用卡信息窃取脚本。"
+      },
+      {
+        "id": 50669765,
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "domain": "github.com",
+        "score": 104,
+        "descendants": 32,
+        "by": "MickyTheMouse",
+        "tags": [],
+        "summary": "批评指出Convex技能在未告知用户的情况下将应用想法发送至远程服务器。"
+      },
+      {
+        "id": 50643158,
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "domain": "generativehistory.substack.com",
+        "score": 39,
+        "descendants": 81,
+        "by": "dr_red_dog",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨GPT-6.2 Astra在解决历史谜题中的应用及潜力。"
+      },
+      {
+        "id": 50667726,
+        "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "url": "https://bouncemarket.minhanhday.com/",
+        "domain": "bouncemarket.minhanhday.com",
+        "score": 284,
+        "descendants": 87,
+        "by": "mday404",
+        "tags": [
+          "Show HN"
+        ],
+        "summary": "一个展示小球弹跳轨迹的实时预测市场游戏项目。"
+      },
+      {
+        "id": 50662313,
+        "title": "Citroën Hydraulic System",
+        "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+        "domain": "citroenet.org.uk",
+        "score": 32,
+        "descendants": 11,
+        "by": "o4c",
+        "tags": [],
+        "summary": "深入分析雪铁龙经典液压悬挂系统的工程设计原理。"
+      },
+      {
+        "id": 50670841,
+        "title": "The AT&T Unix PC (3B1) VM",
+        "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+        "domain": "virtuallyfun.com",
+        "score": 11,
+        "descendants": 1,
+        "by": "ok123456",
+        "tags": [],
+        "summary": "介绍如何运行AT&T Unix PC (3B1) 的虚拟机版本。"
+      },
+      {
+        "id": 50657392,
+        "title": "First images of the impact of DART asteroid deflection experiment",
+        "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "domain": "arstechnica.com",
+        "score": 147,
+        "descendants": 51,
+        "by": "Bender",
+        "tags": [],
+        "summary": "展示DART小行星偏转任务撞击后的首批现场影像。"
+      },
+      {
+        "id": 50667989,
+        "title": "False computer-checked proofs",
+        "url": "https://cr.yp.to/proofs/falseccp.html",
+        "domain": "cr.yp.to",
+        "score": 124,
+        "descendants": 58,
+        "by": "_tk_",
+        "tags": [],
+        "summary": "探讨计算机辅助证明过程中可能出现的逻辑失效与潜在风险。"
+      },
+      {
+        "id": 50670757,
+        "title": "Michael Nielsen took down his book on neural nets",
+        "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+        "domain": "twitter.com",
+        "score": 103,
+        "descendants": 76,
+        "by": "brandonb",
+        "tags": [
+          "AI"
+        ],
+        "summary": "知名人工智能书籍作者Michael Nielsen撤下其神经网络在线书籍引发社区讨论。"
+      },
+      {
+        "id": 50670855,
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+        "domain": "oag.state.va.us",
+        "score": 43,
+        "descendants": 10,
+        "by": "DeepLogin",
+        "tags": [
+          "Science"
+        ],
+        "summary": "多州政府起诉SpaceX，要求限制Grok生成非法儿童影像及复仇色情内容。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "infohawk.com",
+          "count": 1
+        },
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "generativehistory.substack.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 116,
+      "max_score": {
+        "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "score": 284
+      },
+      "most_discussed": {
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "comments": 147
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Show HN",
+        "Science"
+      ]
+    },
+    "summary": "今日Hacker News涵盖了广泛的技术与安全话题，包括电商网站面临的新型WebRTC信用卡侧录威胁，以及关于隐私、AI技术伦理和计算验证的深入讨论。此外，社区还关注了历史工程技术回顾、航空航天领域的新动态以及备受争议的在线博弈创新项目。"
+  }
+}
