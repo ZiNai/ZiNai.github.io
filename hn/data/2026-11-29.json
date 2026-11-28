@@ -1,0 +1,157 @@
+{
+  "morning": {
+    "time": "2026-11-29 03:28",
+    "stories": [
+      {
+        "id": 50680168,
+        "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+        "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+        "domain": "cs.stanford.edu",
+        "score": 216,
+        "descendants": 33,
+        "by": "floitsch",
+        "tags": [
+          "AI"
+        ],
+        "summary": "计算机科学泰斗Donald Knuth因不堪重负，被迫暂停长期执行的错误赏金计划，起因是近期AI自动生成的垃圾报告激增。"
+      },
+      {
+        "id": 50676723,
+        "title": "Audible removes download option for purchased audiobooks",
+        "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+        "domain": "consumerrights.wiki",
+        "score": 703,
+        "descendants": 291,
+        "by": "DeepLogin",
+        "tags": [],
+        "summary": "Audible取消了已购买有声读物的下载选项，引发消费者对数字版权归属及平台过度管控的强烈争议。"
+      },
+      {
+        "id": 50679708,
+        "title": "Computer Disease",
+        "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+        "domain": "blog.adafruit.com",
+        "score": 88,
+        "descendants": 34,
+        "by": "jvanderbot",
+        "tags": [],
+        "summary": "探讨计算机系统复杂性导致的某种“数字疾病”状态及其对系统稳定性与维护性的深远影响。"
+      },
+      {
+        "id": 50676390,
+        "title": "Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "domain": "xinyadu.github.io",
+        "score": 702,
+        "descendants": 232,
+        "by": "abedelez",
+        "tags": [
+          "AI"
+        ],
+        "summary": "针对Claude Code性能及其是否存在人为干扰的深度基准测试分析，揭示了当前AI辅助编程工具的技术局限。"
+      },
+      {
+        "id": 50680175,
+        "title": "5.0 Earthquake West of LA",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive",
+        "domain": "earthquake.usgs.gov",
+        "score": 30,
+        "descendants": 2,
+        "by": "dboreham",
+        "tags": [],
+        "summary": "记录了洛杉矶西部发生的5.0级地震及其相关地质观测数据。"
+      },
+      {
+        "id": 50680085,
+        "title": "The race is not inevitable",
+        "url": "https://ryo.lu/journal/the-race-is-not-inevitable",
+        "domain": "ryo.lu",
+        "score": 86,
+        "descendants": 44,
+        "by": "hashbig",
+        "tags": [],
+        "summary": "通过哲学视角审视技术加速主义的必然性，提出技术路径的选择并非不可抗力。"
+      },
+      {
+        "id": 50678901,
+        "title": "Silently degrading the model's capabilities IS sabotage",
+        "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+        "domain": "twitter.com",
+        "score": 274,
+        "descendants": 97,
+        "by": "tosh",
+        "tags": [
+          "AI"
+        ],
+        "summary": "核心讨论认为，悄悄降低AI模型性能表现本质上是一种对用户信任和产品稳定性的破坏。"
+      },
+      {
+        "id": 50676752,
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+        "domain": "malspark.com",
+        "score": 183,
+        "descendants": 58,
+        "by": "homarp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Hugging Face平台上出现隐藏恶意代码的GGUF格式大模型，已导致超过2400名用户受害。"
+      },
+      {
+        "id": 50680129,
+        "title": "Patrick Collison you are WRONG about street furniture!!!",
+        "url": "https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture",
+        "domain": "lesswrong.com",
+        "score": 65,
+        "descendants": 51,
+        "by": "BenPace",
+        "tags": [],
+        "summary": "针对Patrick Collison关于街道设施观点的公开驳斥，引发了关于城市规划与公共基础设施设计的讨论。"
+      },
+      {
+        "id": 50678273,
+        "title": "Physics Breakthrough Simulator",
+        "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+        "domain": "pages.ethanmdavidson.com",
+        "score": 114,
+        "descendants": 36,
+        "by": "machinerychorus",
+        "tags": [
+          "Science"
+        ],
+        "summary": "一个有趣的物理学突破模拟器，通过交互式展示帮助用户直观理解复杂的物理实验进展。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "cs.stanford.edu",
+          "count": 1
+        },
+        {
+          "domain": "consumerrights.wiki",
+          "count": 1
+        },
+        {
+          "domain": "blog.adafruit.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 246,
+      "max_score": {
+        "title": "Audible removes download option for purchased audiobooks",
+        "score": 703
+      },
+      "most_discussed": {
+        "title": "Audible removes download option for purchased audiobooks",
+        "comments": 291
+      },
+      "hot_tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    "summary": "本期Hacker News热门内容聚焦于人工智能领域的影响与争议，包括对AI工具的性能质疑、恶意模型安全威胁以及AI生成内容的负面溢出效应。此外，科技行业对于数字产品消费权的保护以及工程领域的深度思考也引发了社区的广泛关注。"
+  }
+}
