@@ -155,5 +155,162 @@
       ]
     },
     "summary": "今日Hacker News涵盖了广泛的技术与安全话题，包括电商网站面临的新型WebRTC信用卡侧录威胁，以及关于隐私、AI技术伦理和计算验证的深入讨论。此外，社区还关注了历史工程技术回顾、航空航天领域的新动态以及备受争议的在线博弈创新项目。"
+  },
+  "noon": {
+    "time": "2026-11-28 13:18",
+    "stories": [
+      {
+        "id": 50672565,
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "domain": "research.google",
+        "score": 248,
+        "descendants": 84,
+        "by": "ComputedCamp995",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google 研究人员推出 DeepCrossAttention 模型，在保持模型质量的同时显著提升了计算效率。"
+      },
+      {
+        "id": 50674218,
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "url": "https://unkernel.dev",
+        "domain": "unkernel.dev",
+        "score": 54,
+        "descendants": 4,
+        "by": "nreece",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "Unkernel 项目通过 WebAssembly 技术成功将完整的 Linux 内核移植至浏览器环境运行。"
+      },
+      {
+        "id": 50657346,
+        "title": "The Balatro Timeline",
+        "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+        "domain": "localthunk.com",
+        "score": 191,
+        "descendants": 42,
+        "by": "sheepscreek",
+        "tags": [],
+        "summary": "详细梳理了独立游戏《Balatro》的开发历程与演变时间线。"
+      },
+      {
+        "id": 50643158,
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "domain": "generativehistory.substack.com",
+        "score": 379,
+        "descendants": 244,
+        "by": "dr_red_dog",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨 GPT 6.2 Astra 模型如何利用强大分析能力破解历史悬案。"
+      },
+      {
+        "id": 50668145,
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+        "domain": "infohawk.com",
+        "score": 479,
+        "descendants": 243,
+        "by": "scanr",
+        "tags": [
+          "Web"
+        ],
+        "summary": "揭露了攻击者利用 WebRTC 技术在主流购物网站植入信用卡盗刷脚本的新型威胁。"
+      },
+      {
+        "id": 50669765,
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "domain": "github.com",
+        "score": 258,
+        "descendants": 83,
+        "by": "MickyTheMouse",
+        "tags": [],
+        "summary": "开发者质疑 Convex 平台在未经明确告知的情况下，将用户的应用创意数据上传至远程服务器。"
+      },
+      {
+        "id": 50662313,
+        "title": "Citroën Hydraulic System",
+        "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+        "domain": "citroenet.org.uk",
+        "score": 154,
+        "descendants": 50,
+        "by": "o4c",
+        "tags": [],
+        "summary": "深入解析雪铁龙汽车经典的液压悬挂系统工作原理与历史设计细节。"
+      },
+      {
+        "id": 50672008,
+        "title": "9/UX: a Macintosh-inspired desktop for 9front",
+        "url": "https://progrium.github.io/9ux/",
+        "domain": "progrium.github.io",
+        "score": 95,
+        "descendants": 24,
+        "by": "rbanffy",
+        "tags": [],
+        "summary": "介绍了一款专为 9front 操作系统设计的 Macintosh 风格桌面环境。"
+      },
+      {
+        "id": 50631823,
+        "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+        "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+        "domain": "guitarworld.com",
+        "score": 66,
+        "descendants": 16,
+        "by": "gregsadetsky",
+        "tags": [
+          "AI"
+        ],
+        "summary": "提供了一份仅需 78 美元的 DIY 套件，指导用户通过 TONE3000 构建属于自己的音箱模拟器。"
+      },
+      {
+        "id": 50673688,
+        "title": "Atari Homebrew Awards Cancelled",
+        "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+        "domain": "forums.atariage.com",
+        "score": 140,
+        "descendants": 135,
+        "by": "bpierre",
+        "tags": [],
+        "summary": "Atari 社区宣布取消本年度的自制游戏奖项，引发了复古游戏爱好者的遗憾与讨论。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "research.google",
+          "count": 1
+        },
+        {
+          "domain": "unkernel.dev",
+          "count": 1
+        },
+        {
+          "domain": "localthunk.com",
+          "count": 1
+        }
+      ],
+      "avg_score": 206,
+      "max_score": {
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "score": 479
+      },
+      "most_discussed": {
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "comments": 244
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期 Hacker News 焦点集中于前沿技术创新，涵盖了深度学习架构优化、WebAssembly 与 Linux 内核的跨平台尝试，以及 AI 在历史研究中的应用。同时，网络安全领域的 WebRTC 恶意脚本风险与科技产品的功能隐私隐患引发了社区的广泛讨论与警惕。"
   }
 }
