@@ -312,5 +312,162 @@
       ]
     },
     "summary": "本期 Hacker News 焦点集中于前沿技术创新，涵盖了深度学习架构优化、WebAssembly 与 Linux 内核的跨平台尝试，以及 AI 在历史研究中的应用。同时，网络安全领域的 WebRTC 恶意脚本风险与科技产品的功能隐私隐患引发了社区的广泛讨论与警惕。"
+  },
+  "evening": {
+    "time": "2026-11-28 20:32",
+    "stories": [
+      {
+        "id": 50676672,
+        "title": "Farewell",
+        "url": "https://github.com/p-e-w/heretic/issues/601",
+        "domain": "github.com",
+        "score": 129,
+        "descendants": 25,
+        "by": "nolist_policy",
+        "tags": [],
+        "summary": "作者发布告别博文，表达对未来方向或项目的转折。"
+      },
+      {
+        "id": 50674218,
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "url": "https://unkernel.dev",
+        "domain": "unkernel.dev",
+        "score": 401,
+        "descendants": 101,
+        "by": "nreece",
+        "tags": [
+          "Web",
+          "Systems"
+        ],
+        "summary": "项目将真实的Linux内核编译为WebAssembly，实现浏览器内的底层系统运行。"
+      },
+      {
+        "id": 50632052,
+        "title": "Loom seamlessly combines weaving, knitting and braiding",
+        "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+        "domain": "news.cornell.edu",
+        "score": 165,
+        "descendants": 19,
+        "by": "PaulHoule",
+        "tags": [
+          "AI"
+        ],
+        "summary": "康奈尔大学研究介绍了一种无缝结合编织、针织和编结技术的新工艺。"
+      },
+      {
+        "id": 50674452,
+        "title": "Knuth: Moratorium on Error Reports",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+        "domain": "www-cs-faculty.stanford.edu",
+        "score": 177,
+        "descendants": 88,
+        "by": "ultraficial",
+        "tags": [],
+        "summary": "高德纳教授正式宣布对错误报告实施暂停，引发社区对学术界维护开源项目的讨论。"
+      },
+      {
+        "id": 50672565,
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "domain": "research.google",
+        "score": 457,
+        "descendants": 166,
+        "by": "ComputedCamp995",
+        "tags": [
+          "AI"
+        ],
+        "summary": "Google推出的DeepCrossAttention架构在保持模型质量的同时，实现了显著的推理加速。"
+      },
+      {
+        "id": 50657346,
+        "title": "The Balatro Timeline",
+        "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+        "domain": "localthunk.com",
+        "score": 421,
+        "descendants": 112,
+        "by": "sheepscreek",
+        "tags": [],
+        "summary": "独立游戏《Balatro》的开发历程回顾，展示了热门独立游戏的创意起源与演变。"
+      },
+      {
+        "id": 50643158,
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "domain": "generativehistory.substack.com",
+        "score": 467,
+        "descendants": 296,
+        "by": "dr_red_dog",
+        "tags": [
+          "AI"
+        ],
+        "summary": "探讨GPT 6.2 Astra模型如何通过分析历史数据成功破解一桩历史谜案。"
+      },
+      {
+        "id": 50676752,
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+        "domain": "malspark.com",
+        "score": 3,
+        "descendants": 0,
+        "by": "homarp",
+        "tags": [
+          "AI"
+        ],
+        "summary": "调查显示Hugging Face上的GGUF格式模型被植入恶意软件，已导致大量用户受害。"
+      },
+      {
+        "id": 50666724,
+        "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+        "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+        "domain": "worldofinteriors.com",
+        "score": 93,
+        "descendants": 25,
+        "by": "robtherobber",
+        "tags": [],
+        "summary": "回顾保罗·索莱里在亚利桑那州沙漠中实践乌托邦式生态城市的建筑实验。"
+      },
+      {
+        "id": 50655389,
+        "title": "Signals",
+        "url": "https://www.quarter--mile.com/Signals",
+        "domain": "quarter--mile.com",
+        "score": 14,
+        "descendants": 6,
+        "by": "surprisetalk",
+        "tags": [],
+        "summary": "探讨信号处理或相关通信协议的简要技术笔记。"
+      }
+    ],
+    "insights": {
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 1
+        },
+        {
+          "domain": "unkernel.dev",
+          "count": 1
+        },
+        {
+          "domain": "news.cornell.edu",
+          "count": 1
+        }
+      ],
+      "avg_score": 233,
+      "max_score": {
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "score": 467
+      },
+      "most_discussed": {
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "comments": 296
+      },
+      "hot_tags": [
+        "AI",
+        "Web",
+        "Systems"
+      ]
+    },
+    "summary": "本期Hacker News焦点涵盖了从前沿AI模型优化到网络安全风险的广泛议题。技术社区正密切关注Linux向WebAssembly的移植进程，同时对AI模型的演进速度及其带来的安全隐患展开了深入讨论。"
   }
 }
